@@ -1,0 +1,165 @@
+Summary:
+
+Most of the reviewers thought that the food was decent, but nothing special. They noted that the soup was salty and not well made, the fish batter was too thick, and the avocado and chicken grilled cheese was bland. However, they also said that the red Thai curry was good, and that the triple decker grilled cheese sandwich with bacon was really liked. They noted that the steak sandwich was a good value.
+
+**********
+[0.9154] The food was decent.
+Parent: Most of the reviewers thought that the food was decent, but nothing special.
+
+Top 5 (supporting):
+     [0.9154] Food was O.K.
+     [0.8804] Definitely beats mall food court food .. not bad food and really good service .
+     [0.8783] The food is always decent .
+     [0.8015] Food is ok , it 's consistent but average.2.
+     [0.7926] I was there for lunch and thought the restaurant , service and food was very good .
+
+Top 5 (weakening):
+     [-0.9931] This location is just bad , the food is terrible and service is average at best .
+     [-0.9898] However the food was a disappointment .
+     [-0.9173] Fries was stale and the burger was oily as hell .
+     [-0.9119] I ordered the avocado and chicken grilled cheese and was greeted by extremely hard oily bread and bland tasting chicken .
+     [-0.9066] Soggy and nasty .
+
+**********
+[0.9121] The food was nothing special.
+Parent: Most of the reviewers thought that the food was decent, but nothing special.
+
+Top 5 (supporting):
+     [0.9121] Honestly , the food was just okay but the service was so bad that I can 't give , what used to be a decent restaurant , anything more than one star .
+     [0.8787] However the food was a disappointment .
+     [0.8611] This location is just bad , the food is terrible and service is average at best .
+     [0.8216] The portions are on the small side and the food Is just ok .
+     [0.8040] I ordered the red Thai curry and it was good nothing too special but kinda pricy for $ 18 .
+
+Top 5 (weakening):
+     [-0.9956] The food was also really delicious at a decent price as well .
+     [-0.9946] The variety on their menu is crazy , there is definitely something for everyone .
+     [-0.9934] I had the chicken wings as an appetizer and the BBQ chicken as my main , which I both enjoyed very much , especially the main .
+     [-0.9906] My friends got the triple decker grilled cheese sandwich with bacon and they really liked it so all in all it was a good experience and the food was really filling .
+     [-0.9905] The smoothies and shakes are good as well .
+
+**********
+[0.8730] The soup was too salty.
+Parent: They noted that the soup was salty and not well made, the fish batter was too thick, and the avocado and chicken grilled cheese was bland.
+
+Top 5 (supporting):
+     [0.8730] The soup was very salty and not well made .
+     [0.0000] BUT !
+     [0.0000] !
+     [0.0000] ! !
+     [0.0000] ! !
+
+Top 5 (weakening):
+     [-0.9689] The lemonade juice was terrible , tasted like powder , too sugary .
+     [-0.9472] The chicken was dry .
+     [-0.9372] 20 min for a chocolate lava cake .
+     [-0.9190] Fries was stale and the burger was oily as hell .
+     [-0.9163] The fries were yikes .
+
+**********
+[0.9195] The soup was not good.
+Parent: They noted that the soup was salty and not well made, the fish batter was too thick, and the avocado and chicken grilled cheese was bland.
+
+Top 5 (supporting):
+     [0.9195] The soup was very salty and not well made .
+     [0.0341] Worst experience ever !
+     [0.0339] Service sucks !
+     [0.0292] There was barely any avocado and the cheese had almost hardened by the time the sandwich reached my table ... Not impressed : (
+     [0.0259] Soggy and nasty .
+
+Top 5 (weakening):
+     [-0.9344] The portion is good enough to share among three .
+     [-0.9248] The food was also really delicious at a decent price as well .
+     [-0.8736] I had a lovely evening at The Pickle Barrel .
+     [-0.8446] And it 's actually a decent place to watch the any sporting events .
+     [-0.8413] The smoothies and shakes are good as well .
+
+**********
+[0.4103] The fish batter was bad.
+Parent: They noted that the soup was salty and not well made, the fish batter was too thick, and the avocado and chicken grilled cheese was bland.
+
+Top 5 (supporting):
+     [0.4103] The fish batter was way too thick .
+     [0.0034] Soggy and nasty .
+     [0.0000] BUT !
+     [0.0000] !
+     [0.0000] ! !
+
+Top 5 (weakening):
+     [-0.9234] The lemonade juice was terrible , tasted like powder , too sugary .
+     [-0.9152] The smoothies and shakes are good as well .
+     [-0.9129] 20 min for a chocolate lava cake .
+     [-0.9060] The fries were yikes .
+     [-0.9018] With the recent upgrade in terms of renovations , it looks better than ever .
+
+**********
+[0.2780] The avocado and chicken grilled cheese was not flavorful.
+Parent: They noted that the soup was salty and not well made, the fish batter was too thick, and the avocado and chicken grilled cheese was bland.
+
+Top 5 (supporting):
+     [0.2780] I ordered the avocado and chicken grilled cheese and was greeted by extremely hard oily bread and bland tasting chicken .
+     [0.0010] Very disappointing .
+     [0.0005] Nothing spectacular .
+     [0.0000] BUT !
+     [0.0000] !
+
+Top 5 (weakening):
+     [-0.9340] 20 min for a chocolate lava cake .
+     [-0.9309] I had a lovely evening at The Pickle Barrel .
+     [-0.9213] The food was also really delicious at a decent price as well .
+     [-0.9079] The smoothies and shakes are good as well .
+     [-0.8970] Some genius decides to put wet coleslaw with my wrap .
+
+**********
+[0.9542] The red Thai curry was good.
+Parent: However, they also said that the red Thai curry was good, and that the triple decker grilled cheese sandwich with bacon was really liked.
+
+Top 5 (supporting):
+     [0.9542] I ordered the red Thai curry and it was good nothing too special but kinda pricy for $ 18 .
+     [0.0067] I am definitely going back again !
+     [0.0000] BUT !
+     [0.0000] !
+     [0.0000] ! !
+
+Top 5 (weakening):
+     [-0.8891] Worst experience ever !
+     [-0.8695] I ordered the French onion soup and fish and chips .
+     [-0.8466] The fries were yikes .
+     [-0.8427] Soggy and nasty .
+     [-0.8311] 20 min for a chocolate lava cake .
+
+**********
+[0.9824] The triple decker grilled cheese sandwich with bacon was really liked.
+Parent: However, they also said that the red Thai curry was good, and that the triple decker grilled cheese sandwich with bacon was really liked.
+
+Top 5 (supporting):
+     [0.9824] My friends got the triple decker grilled cheese sandwich with bacon and they really liked it so all in all it was a good experience and the food was really filling .
+     [0.0064] I am definitely going back again !
+     [0.0006] The food is always decent .
+     [0.0005] The food was also really delicious at a decent price as well .
+     [0.0003] Great service and nice atmosphere , would recommend : ) !
+
+Top 5 (weakening):
+     [-0.9928] I ordered the avocado and chicken grilled cheese and was greeted by extremely hard oily bread and bland tasting chicken .
+     [-0.9507] However the food was a disappointment .
+     [-0.9454] Worst experience ever !
+     [-0.9351] Soggy and nasty .
+     [-0.8964] There was barely any avocado and the cheese had almost hardened by the time the sandwich reached my table ... Not impressed : (
+
+**********
+[0.4052] The steak sandwich was a good value.
+Parent: They noted that the steak sandwich was a good value.
+
+Top 5 (supporting):
+     [0.4052] I would typically go to pickle barrell if im too cheap to go to keg but want something better than normal ... i suggest the steak sandwhich .
+     [0.0215] ( 8 oz steak w / fries ) the bread it comes with is mainly decoration .. u can eat it if your not full .
+     [0.0051] I am definitely going back again !
+     [0.0042] The food is always decent .
+     [0.0040] The portion is good enough to share among three .
+
+Top 5 (weakening):
+     [-0.9527] However the food was a disappointment .
+     [-0.9450] I ordered the avocado and chicken grilled cheese and was greeted by extremely hard oily bread and bland tasting chicken .
+     [-0.8159] 20 min for a chocolate lava cake .
+     [-0.8063] Order the burger and fries , hard to screw that up right ?
+     [-0.8053] There was barely any avocado and the cheese had almost hardened by the time the sandwich reached my table ... Not impressed : (

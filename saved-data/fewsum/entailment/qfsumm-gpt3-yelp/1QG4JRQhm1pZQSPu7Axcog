@@ -1,0 +1,75 @@
+Summary:
+
+The product was well-received by customers, who appreciated the friendly and professional staff, the quick service, and the fair prices.
+
+**********
+[0.5636] The product was good.
+Parent: The product was well-received by customers, who appreciated the friendly and professional staff, the quick service, and the fair prices.
+
+Top 5 (supporting):
+     [0.5636] They got to me quick and did an good job for a good price .
+     [0.5609] Tatman 's Towing is great .
+     [0.3914] Great service .
+     [0.2423] Will definitely use them again .
+     [0.1888] Super friendly and great staff .
+
+Top 5 (weakening):
+     [-0.0457] He was kind and polite .
+     [-0.0445] While visiting friends from out of town I had an issue with my transmission .
+     [-0.0413] I loved the guy that came to change my tire .
+     [-0.0039] They sent Art to help with my dead battery after I called AAA .
+     [0.0052] He was efficient , thorough , and courteous .
+
+**********
+[0.7349] The staff was friendly and professional.
+Parent: The product was well-received by customers, who appreciated the friendly and professional staff, the quick service, and the fair prices.
+
+Top 5 (supporting):
+     [0.7349] Excellent service , very personable guy .
+     [0.7167] Super friendly and great staff .
+     [0.6894] Jim Hampton the owner of Tatman 's Towing is one of the nicest guys in the buisness him and his associates are all very trained professionals in their field , they do way more than just towing also , I have used this company for years and will always call for my roadside needs .
+     [0.3094] He was efficient , thorough , and courteous .
+     [0.2517] He was kind and polite .
+
+Top 5 (weakening):
+     [-0.2279] While visiting friends from out of town I had an issue with my transmission .
+     [0.0078] super fast service !
+     [0.0084] They sent Art to help with my dead battery after I called AAA .
+     [0.0093] Tatman 's Towing is great .
+     [0.0097] Will definitely use them again .
+
+**********
+[0.9692] The service was quick.
+Parent: The product was well-received by customers, who appreciated the friendly and professional staff, the quick service, and the fair prices.
+
+Top 5 (supporting):
+     [0.9692] super fast service !
+     [0.8800] They got to me quick and did an good job for a good price .
+     [0.8481] Quick service .
+     [0.2915] Was in need of getting my car unlocked , Mike had me back in it in about 30 minutes .
+     [0.1581] It was late at night and After speaking to a nice woman Named April I had a truck on the way to me right away .
+
+Top 5 (weakening):
+     [-0.8006] While visiting friends from out of town I had an issue with my transmission .
+     [-0.0161] He was kind and polite .
+     [-0.0117] I especially appreciated that he explained every step .
+     [-0.0006] Seemed like a fair price and helped me out for sure .
+     [0.0002] They sent Art to help with my dead battery after I called AAA .
+
+**********
+[0.6969] The prices were fair.
+Parent: The product was well-received by customers, who appreciated the friendly and professional staff, the quick service, and the fair prices.
+
+Top 5 (supporting):
+     [0.6969] Seemed like a fair price and helped me out for sure .
+     [0.6219] They got to me quick and did an good job for a good price .
+     [0.0035] Highly recommend
+     [0.0022] Will definitely use them again .
+     [0.0017] I would definitely use them again if I needed a tow .
+
+Top 5 (weakening):
+     [-0.3315] While visiting friends from out of town I had an issue with my transmission .
+     [-0.1851] I especially appreciated that he explained every step .
+     [-0.1017] They sent Art to help with my dead battery after I called AAA .
+     [-0.0344] super fast service !
+     [-0.0280] I loved the guy that came to change my tire .

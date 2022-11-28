@@ -1,0 +1,111 @@
+Summary:
+
+Overall, the reviewers seem to enjoy the food at Five Guys, finding the burgers and fries to be tasty. They appreciate the cleanliness of the restaurant and the friendly staff. Some reviewers find the portions to be large, and mention that the peanuts available at the restaurant can be a problem for those with allergies.
+
+**********
+[0.9429] The food at Five Guys is enjoyable.
+Parent: Overall, the reviewers seem to enjoy the food at Five Guys, finding the burgers and fries to be tasty.
+
+Top 5 (supporting):
+     [0.9429] Love this 5 guys , always has quick service and great food .
+     [0.6743] I 've always enjoyed five guys and this location has been good during the day time but tonight the food wasn 't as good and definitely lacked fries as well
+     [0.3952] The food is awesome ; the ladies that took our order , cooked and served us were delightful .
+     [0.2650] Yes it 's part of a chain but the quality of the food is still excellent .
+     [0.2339] Stop by and enjoy some great burgers and friendly staff !
+
+Top 5 (weakening):
+     [-0.0149] The ladies working this evening were fantastic .
+     [-0.0102] I don 't go for their other styles .
+     [-0.0069] I just walked right up .
+     [-0.0066] Great customer service .
+     [-0.0055] Great customer service !
+
+**********
+[0.5181] The burgers and fries are tasty.
+Parent: Overall, the reviewers seem to enjoy the food at Five Guys, finding the burgers and fries to be tasty.
+
+Top 5 (supporting):
+     [0.5181] Cheeseburger , fries and a cherry shake --- Yum !
+     [0.4700] Burger and fries were great .
+     [0.0212] Amazing home made fries .
+     [0.0173] Always a good burger .
+     [0.0165] Awesome burgers .
+
+Top 5 (weakening):
+     [-0.8969] I 've always enjoyed five guys and this location has been good during the day time but tonight the food wasn 't as good and definitely lacked fries as well
+     [-0.1041] I don 't go for their other styles .
+     [-0.0603] You can add all kinds of ingredients like grilled mushrooms and grilled onions .
+     [-0.0470] Fries maybe not my favorite but it 's definitely better than in and out .
+     [-0.0364] Everyone was friendly and smiling and talking to you .
+
+**********
+[0.9326] The restaurant was clean.
+Parent: They appreciate the cleanliness of the restaurant and the friendly staff.
+
+Top 5 (supporting):
+     [0.9326] The restaurant is always clean and the staff is always friendly .
+     [0.7990] The store was clean and the food , of course was good .
+     [0.0941] They kept the place clean .
+     [0.0491] Nothing fancy here , these are for people who love the simplicity of the pure , great tasting beef .
+     [0.0054] Great customer service .
+
+Top 5 (weakening):
+     [-0.6953] Not a place to go if you are allergic to peanuts , they uses peanut oil for their fries as well as they have peanuts out for people to enjoy freely .
+     [-0.2793] I grabbed my order to go and the burgers were delish .
+     [-0.2036] It definitely fills you up .
+     [-0.1002] I 've always enjoyed five guys and this location has been good during the day time but tonight the food wasn 't as good and definitely lacked fries as well
+     [-0.0527] You can add all kinds of ingredients like grilled mushrooms and grilled onions .
+
+**********
+[0.9686] The staff is friendly.
+Parent: They appreciate the cleanliness of the restaurant and the friendly staff.
+
+Top 5 (supporting):
+     [0.9686] The restaurant is always clean and the staff is always friendly .
+     [0.9067] Stop by and enjoy some great burgers and friendly staff !
+     [0.6204] First time to Five Guys , friendly and fast service .
+     [0.1513] The food is awesome ; the ladies that took our order , cooked and served us were delightful .
+     [0.1285] While they got my order wrong , they really tried to make it right with a smile and as quickly as possible .
+
+Top 5 (weakening):
+     [-0.0057] I don 't go for their other styles .
+     [-0.0039] I just walked right up .
+     [-0.0032] It definitely fills you up .
+     [-0.0016] Not a place to go if you are allergic to peanuts , they uses peanut oil for their fries as well as they have peanuts out for people to enjoy freely .
+     [-0.0001] I 've always enjoyed five guys and this location has been good during the day time but tonight the food wasn 't as good and definitely lacked fries as well
+
+**********
+[0.7076] The portions are large.
+Parent: Some reviewers find the portions to be large, and mention that the peanuts available at the restaurant can be a problem for those with allergies.
+
+Top 5 (supporting):
+     [0.7076] I did not realize the food was so large .
+     [0.3950] It definitely fills you up .
+     [0.0172] Yes it 's part of a chain but the quality of the food is still excellent .
+     [0.0163] The food is awesome ; the ladies that took our order , cooked and served us were delightful .
+     [0.0156] About ten minutes from the Arizona Open Wheel Racing Museum .
+
+Top 5 (weakening):
+     [-0.0555] I 've always enjoyed five guys and this location has been good during the day time but tonight the food wasn 't as good and definitely lacked fries as well
+     [-0.0057] I don 't go for their other styles .
+     [-0.0018] Nothing fancy here , these are for people who love the simplicity of the pure , great tasting beef .
+     [0.0015] Not a place to go if you are allergic to peanuts , they uses peanut oil for their fries as well as they have peanuts out for people to enjoy freely .
+     [0.0015] Cheeseburger , fries and a cherry shake --- Yum !
+
+**********
+[0.8683] The peanuts available at the restaurant can be a problem for those with allergies.
+Parent: Some reviewers find the portions to be large, and mention that the peanuts available at the restaurant can be a problem for those with allergies.
+
+Top 5 (supporting):
+     [0.8683] Not a place to go if you are allergic to peanuts , they uses peanut oil for their fries as well as they have peanuts out for people to enjoy freely .
+     [-0.0050] I came on a weeknight during rush hour and this place had no line .
+     [-0.0053] While they got my order wrong , they really tried to make it right with a smile and as quickly as possible .
+     [-0.0056] It 's a good place to stop for lunch .
+     [-0.0106] Fries maybe not my favorite but it 's definitely better than in and out .
+
+Top 5 (weakening):
+     [-0.1102] You can add all kinds of ingredients like grilled mushrooms and grilled onions .
+     [-0.0677] It definitely fills you up .
+     [-0.0596] Cheeseburger , fries and a cherry shake --- Yum !
+     [-0.0381] Amazing home made fries .
+     [-0.0375] I love their fries - plain fries .

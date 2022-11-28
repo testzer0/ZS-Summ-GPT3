@@ -1,0 +1,219 @@
+Summary:
+
+The majority of reviewers seemed to enjoy the food at House of Hunan, finding it both delicious and authentic. A few reviewers found the food to be Americanized, but still tasty. Some reviewers were disappointed with the spice level of the dishes, but others found the level to be just right. One reviewer found hair in their meal, but most others did not have this issue. Service was generally found to be friendly and fast, although one reviewer found their server to be hard to understand. Overall, reviewers would recommend this restaurant to others.
+
+**********
+[0.6355] The food was delicious.
+Parent: The majority of reviewers seemed to enjoy the food at House of Hunan, finding it both delicious and authentic.
+
+Top 5 (supporting):
+     [0.6355] Great atmosphere - reasonable prices and amazing food .
+     [0.6238] The food is great but sort of expensive I recommend this restaurant for sure !
+     [0.6064] Awesome service and awesome food .
+     [0.5590] Food is very flavorful .
+     [0.5429] We hasn 't been there for a few years and the food tasted better than I ever remembered !
+
+Top 5 (weakening):
+     [-0.9975] Beautiful decor , disappointing food .
+     [-0.9969] The food was rather disappointing .
+     [-0.9702] Sushi is no longer any good and food is barely above that in a mall food court .
+     [-0.9690] The worst place I have been to , bad service , unfriendly managers , found hair in two meals , and lo mein had crusty hard glass like chunks in it .. would never go back
+     [-0.9447] The won ton soup wasn 't that great .. colder than I would have liked and more of a beef rather than chicken base .
+
+**********
+[0.0180] Most reviewers found the food authentic.
+Parent: The majority of reviewers seemed to enjoy the food at House of Hunan, finding it both delicious and authentic.
+
+Top 5 (supporting):
+     [0.0180] While I generally love the food I was disappointed when the server told me there is no more egg foo young ..... guess I 'll have to start going to Cleveland or make it myself .
+     [0.0051] The sushi is average but most of the Chinese dishes are excellent .
+     [0.0046] The menus selection was very authentic and tasteful .
+     [0.0028] Still one of the better restaurants in the area though .
+     [0.0026] The food has consistently been fresh and flavorful .
+
+Top 5 (weakening):
+     [-0.4457] The worst place I have been to , bad service , unfriendly managers , found hair in two meals , and lo mein had crusty hard glass like chunks in it .. would never go back
+     [-0.4234] The food was rather disappointing .
+     [-0.3943] It was a little better than the American Chinese food at PF Changs , but not great if you are looking for real Chinese food
+     [-0.3040] Very sad indeed .
+     [-0.2873] Beautiful decor , disappointing food .
+
+**********
+[0.9865] The food was Americanized.
+Parent: A few reviewers found the food to be Americanized, but still tasty.
+
+Top 5 (supporting):
+     [0.9865] Also the food was very Americanized .
+     [0.7005] They have traditional dishes which are excellent and the more Americanized goodies too .
+     [0.0133] Like orange chicken w a twist .
+     [0.0099] I recently moved to the Akron area from Chicago , and this restaurant has become my new favorite for take-out .
+     [0.0006] Still one of the better restaurants in the area though .
+
+Top 5 (weakening):
+     [-0.9855] Great place to go to when you want authentic Asian food .
+     [-0.9778] All the food is made fresh here ; egg roles , dumplings and you can task it .
+     [-0.9692] This is the best Asian inspired eatery in Akron .
+     [-0.9665] Authentic Chinese , my mouth is watering as I type and I wish I was there for some pot stickers !
+     [-0.9640] The menus selection was very authentic and tasteful .
+
+**********
+[0.6756] The food was still tasty.
+Parent: A few reviewers found the food to be Americanized, but still tasty.
+
+Top 5 (supporting):
+     [0.6756] The wonton soup is delicious and I love to pot stickers and the dipping sauce is amazing .
+     [0.5461] The food has consistently been fresh and flavorful .
+     [0.5062] Food is very flavorful .
+     [0.4920] The food was one of the best Chinese meals I have eaten .
+     [0.4609] I had their interpretation of the bird 's nest and the seafood was fresh and delicious .
+
+Top 5 (weakening):
+     [-0.7366] Sushi is no longer any good and food is barely above that in a mall food court .
+     [-0.6357] The food was rather disappointing .
+     [-0.4130] Beautiful decor , disappointing food .
+     [-0.3792] Food and service has taken a steep dive .
+     [-0.1920] This used to be the best around , but no more .
+
+**********
+[0.2537] The dishes were not spicy enough.
+Parent: Some reviewers were disappointed with the spice level of the dishes, but others found the level to be just right.
+
+Top 5 (supporting):
+     [0.2537] I was expecting Hunan style and spicy ; very disappointing in the spicy level .
+     [0.0645] Not real peachy .
+     [0.0423] The won ton soup wasn 't that great .. colder than I would have liked and more of a beef rather than chicken base .
+     [0.0064] Sushi is no longer any good and food is barely above that in a mall food court .
+     [0.0051] Beautiful decor , disappointing food .
+
+Top 5 (weakening):
+     [-0.9350] The dumplings in chili sauce are divine .
+     [-0.8876] Food is very flavorful .
+     [-0.8863] The fillet was huge , on top of veggies covered with a wonderful sauce !
+     [-0.8855] The wonton soup is delicious and I love to pot stickers and the dipping sauce is amazing .
+     [-0.8362] Hot and sour soup was the perfect combination of heat and flavor , I was sad when I reached the bottom .
+
+**********
+[0.0955] The level was just right.
+Parent: Some reviewers were disappointed with the spice level of the dishes, but others found the level to be just right.
+
+Top 5 (supporting):
+     [0.0955] Everything I 've ever ordered here has been absolute perfection !
+     [0.0908] Fast , hot and delicious .
+     [0.0871] The staff is friendly and prompt it was just great .
+     [0.0797] Great food and very friendly staf ... Clean and comforting ambience ... Do try their 3 Cup Chicken ! !
+     [0.0784] The last 10 + orders of our favorite dish , Prosperity Shrimp , have finally come as described on the menu .
+
+Top 5 (weakening):
+     [-0.9436] Food and service has taken a steep dive .
+     [-0.9424] The worst place I have been to , bad service , unfriendly managers , found hair in two meals , and lo mein had crusty hard glass like chunks in it .. would never go back
+     [-0.9375] I was expecting Hunan style and spicy ; very disappointing in the spicy level .
+     [-0.8882] The won ton soup wasn 't that great .. colder than I would have liked and more of a beef rather than chicken base .
+     [-0.8837] Service was poor .
+
+**********
+[0.9429] The reviewer found hair in their meal.
+Parent: One reviewer found hair in their meal, but most others did not have this issue.
+
+Top 5 (supporting):
+     [0.9429] The worst place I have been to , bad service , unfriendly managers , found hair in two meals , and lo mein had crusty hard glass like chunks in it .. would never go back
+     [0.0000] OMG .
+     [0.0000] Fusion .
+     [0.0000] !
+     [0.0000] ! !
+
+Top 5 (weakening):
+     [-0.9294] Megan Stone is great .
+     [-0.8997] Everything I 've ever ordered here has been absolute perfection !
+     [-0.8969] The ambiance was really the best part .
+     [-0.8367] I loved it .
+     [-0.8249] The wonton soup is delicious and I love to pot stickers and the dipping sauce is amazing .
+
+**********
+[0.0099] Most others did not have this issue.
+Parent: One reviewer found hair in their meal, but most others did not have this issue.
+
+Top 5 (supporting):
+     [0.0099] A little pricier than other thai food , but worth it with the quality ingredients .
+     [0.0030] Amazing amazing amazing ! !
+     [0.0023] It definitely wasn 't bad , but for the price I expected much more .
+     [0.0019] They also have some of the fastest delivery I 've ever seen .
+     [0.0003] Sushi is no longer any good and food is barely above that in a mall food court .
+
+Top 5 (weakening):
+     [-0.0609] This is Out new Asian go to place .
+     [-0.0566] Great place for anything Asian-- sushi , sashimi , chinese you name it .
+     [-0.0481] The dumplings in chili sauce are divine .
+     [-0.0469] This is my favorite Chinese restaurant .
+     [-0.0427] Seaweed salad another winner .
+
+**********
+[0.9675] The service was friendly.
+Parent: Service was generally found to be friendly and fast, although one reviewer found their server to be hard to understand.
+
+Top 5 (supporting):
+     [0.9675] Service was fast and friendly .
+     [0.9289] The staff is friendly and prompt it was just great .
+     [0.9155] Always a great meal , delicious & happy friendly service .
+     [0.5925] Great food and very friendly staf ... Clean and comforting ambience ... Do try their 3 Cup Chicken ! !
+     [0.5232] The wait is not long at all and the waitress we had last time was very nice but hard to understand .
+
+Top 5 (weakening):
+     [-0.9880] The worst place I have been to , bad service , unfriendly managers , found hair in two meals , and lo mein had crusty hard glass like chunks in it .. would never go back
+     [-0.9776] Service was poor .
+     [-0.8003] Very sad indeed .
+     [-0.7724] Food and service has taken a steep dive .
+     [-0.6599] You have lost our business !
+
+**********
+[0.9731] The service was fast.
+Parent: Service was generally found to be friendly and fast, although one reviewer found their server to be hard to understand.
+
+Top 5 (supporting):
+     [0.9731] Service was fast and friendly .
+     [0.8380] They also have some of the fastest delivery I 've ever seen .
+     [0.2576] Fast , hot and delicious .
+     [0.1578] The wait is not long at all and the waitress we had last time was very nice but hard to understand .
+     [0.0652] Good service even on a busy night like Mother 's Day , of course it helps to call ahead .
+
+Top 5 (weakening):
+     [-0.8719] Food and service has taken a steep dive .
+     [-0.7146] The worst place I have been to , bad service , unfriendly managers , found hair in two meals , and lo mein had crusty hard glass like chunks in it .. would never go back
+     [-0.5883] Very sad indeed .
+     [-0.5408] Got me the wrong beer and wrong sashimi dish as well .
+     [-0.5315] You have lost our business !
+
+**********
+[0.9776] The reviewer found their server to be hard to understand.
+Parent: Service was generally found to be friendly and fast, although one reviewer found their server to be hard to understand.
+
+Top 5 (supporting):
+     [0.9776] The wait is not long at all and the waitress we had last time was very nice but hard to understand .
+     [0.0143] The worst place I have been to , bad service , unfriendly managers , found hair in two meals , and lo mein had crusty hard glass like chunks in it .. would never go back
+     [0.0000] OMG .
+     [0.0000] Fusion .
+     [0.0000] !
+
+Top 5 (weakening):
+     [-0.8893] Our waitress was excellent .
+     [-0.8827] Amazing amazing amazing ! !
+     [-0.8707] I recommended the Orange Chicken because it 's a personal favorite and she loved it !
+     [-0.8079] Megan Stone is great .
+     [-0.7894] I love how the cozy atmosphere .
+
+**********
+[0.3689] This restaurant was recommended by reviewers.
+Parent: Overall, reviewers would recommend this restaurant to others.
+
+Top 5 (supporting):
+     [0.3689] You can tell someone really cares about this restaurant , the food that is served , and the manner in which it Is served .
+     [0.3331] I recommended the Orange Chicken because it 's a personal favorite and she loved it !
+     [0.1638] My husband and I love their food but when we tried to order delivery tonight , which we have done many times before , we were told we had to order a minimum of $ 45 !
+     [0.1059] I would not hesitate to recommend House Of Hunan .
+     [0.0946] Food and service were excellent .
+
+Top 5 (weakening):
+     [-0.7996] The worst place I have been to , bad service , unfriendly managers , found hair in two meals , and lo mein had crusty hard glass like chunks in it .. would never go back
+     [-0.5984] Very sad indeed .
+     [-0.5901] Very disappointed .
+     [-0.3823] The food was rather disappointing .
+     [-0.3434] You have lost our business !

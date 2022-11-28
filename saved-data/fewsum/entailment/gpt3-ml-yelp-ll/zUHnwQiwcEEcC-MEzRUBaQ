@@ -1,0 +1,147 @@
+Summary:
+
+The accounts said that the product was easy and fast, with great customer service. Jose Torres was especially praised for his knowledge and helpfulness. Some reviewers said that they had problems with the product at the Sahara location, but that Cindy was amazing. Overall, the reviewers seemed to be happy with the product.
+
+**********
+[0.4528] The product was easy.
+Parent: The accounts said that the product was easy and fast, with great customer service.
+
+Top 5 (supporting):
+     [0.4528] If you 're looking for fast and easy service , call this guy !
+     [0.2226] Easy and fast .
+     [0.0000] 5 stars !
+     [-0.0031] Will definitely recommend to friends and family .
+     [-0.0142] I would definetly recommend to all my friends in need of any kind of insurance !
+
+Top 5 (weakening):
+     [-0.9867] Insurance can be so confusing .
+     [-0.9774] Fairly incompetent from my experience-look elsewhere for insurance needs .
+     [-0.9521] She made a stressful situation so much less difficult .
+     [-0.8511] Sahara location dropped the ball more times than I can count .
+     [-0.7228] Very knowledgeable
+
+**********
+[0.3109] The product was fast.
+Parent: The accounts said that the product was easy and fast, with great customer service.
+
+Top 5 (supporting):
+     [0.3109] If you 're looking for fast and easy service , call this guy !
+     [0.2054] She is very quick to respond to me and to the client 's that I refer to her .
+     [0.1183] Easy and fast .
+     [0.0025] Will definitely recommend to friends and family .
+     [0.0006] I would definetly recommend to all my friends in need of any kind of insurance !
+
+Top 5 (weakening):
+     [-0.7382] Insurance can be so confusing .
+     [-0.6612] Fairly incompetent from my experience-look elsewhere for insurance needs .
+     [-0.5743] Very knowledgeable
+     [-0.5089] She made a stressful situation so much less difficult .
+     [-0.3572] After experiencing a car accident and insurance issues .
+
+**********
+[0.9298] The customer service was great.
+Parent: The accounts said that the product was easy and fast, with great customer service.
+
+Top 5 (supporting):
+     [0.9298] Awesome customer service !
+     [0.7025] So much Melissa very helpful and courteous on the phone best customer experience I 've had on the phone !
+     [0.3906] Had the best experience calling All Nevada Insurance and the young lady on the line answered all my questions and directed me exactly to who could assist me better .
+     [0.2537] Jose Torres was a tremendous help in assisting me with my home and auto insurance !
+     [0.1599] Not only is she FANTASTIC at her job , her kindness and personality make it easy to understand all the ins and outs of my home and auto policies .
+
+Top 5 (weakening):
+     [-0.9777] Fairly incompetent from my experience-look elsewhere for insurance needs .
+     [-0.5860] Insurance can be so confusing .
+     [-0.5676] Sahara location dropped the ball more times than I can count .
+     [-0.5139] After experiencing a car accident and insurance issues .
+     [-0.0264] I have been working with Maria for a while .
+
+**********
+[0.2563] Jose Torres was knowledgeable.
+Parent: Jose Torres was especially praised for his knowledge and helpfulness.
+
+Top 5 (supporting):
+     [0.2563] She was knowledgeable and professional and was able to help me find just the plan I need .
+     [0.1737] She always answers my questions and goes above and beyond to find me the best policy at the cheapest price for my budget .
+     [0.1602] Not only is she FANTASTIC at her job , her kindness and personality make it easy to understand all the ins and outs of my home and auto policies .
+     [0.1557] She was very professional and so very helpful .
+     [0.0793] She is very quick to respond to me and to the client 's that I refer to her .
+
+Top 5 (weakening):
+     [-0.3571] I just want to thank Cindy G for answering the 5 billion questions I had .
+     [-0.2198] Cindy has been amazing .
+     [-0.1786] Happy Holidays !
+     [-0.1651] Fairly incompetent from my experience-look elsewhere for insurance needs .
+     [-0.1260] Thank you , All Nevada , especially Cindy .
+
+**********
+[0.9526] Jose Torres was helpful.
+Parent: Jose Torres was especially praised for his knowledge and helpfulness.
+
+Top 5 (supporting):
+     [0.9526] The person who helped me was Jose Torres and just wanted to say thank you for your service !
+     [0.9369] Jose Torres was a tremendous help in assisting me with my home and auto insurance !
+     [0.3243] She was very professional and so very helpful .
+     [0.2894] She made a stressful situation so much less difficult .
+     [0.2760] She was knowledgeable and professional and was able to help me find just the plan I need .
+
+Top 5 (weakening):
+     [-0.8299] I just want to thank Cindy G for answering the 5 billion questions I had .
+     [-0.5695] Cindy has been amazing .
+     [-0.4885] Fairly incompetent from my experience-look elsewhere for insurance needs .
+     [-0.4282] So much Melissa very helpful and courteous on the phone best customer experience I 've had on the phone !
+     [-0.2927] Italia Bonilla is top notch .
+
+**********
+[0.2448] Some reviewers said they had problems with the product at the Sahara location.
+Parent: Some reviewers said that they had problems with the product at the Sahara location, but that Cindy was amazing.
+
+Top 5 (supporting):
+     [0.2448] Sahara location dropped the ball more times than I can count .
+     [0.0000] 5 stars !
+     [-0.0209] Fairly incompetent from my experience-look elsewhere for insurance needs .
+     [-0.0312] So much Melissa very helpful and courteous on the phone best customer experience I 've had on the phone !
+     [-0.0557] Insurance can be so confusing .
+
+Top 5 (weakening):
+     [-0.7183] Cindy has been amazing .
+     [-0.4934] She made a stressful situation so much less difficult .
+     [-0.4740] Thank you !
+     [-0.4740] Thank you !
+     [-0.4740] Thank you !
+
+**********
+[0.9639] Cindy was amazing.
+Parent: Some reviewers said that they had problems with the product at the Sahara location, but that Cindy was amazing.
+
+Top 5 (supporting):
+     [0.9639] Cindy has been amazing .
+     [0.1360] Not only is she FANTASTIC at her job , her kindness and personality make it easy to understand all the ins and outs of my home and auto policies .
+     [0.0954] She made a stressful situation so much less difficult .
+     [0.0509] Thank you , All Nevada , especially Cindy .
+     [0.0376] Awesome customer service !
+
+Top 5 (weakening):
+     [-0.9626] Fairly incompetent from my experience-look elsewhere for insurance needs .
+     [-0.9092] Insurance can be so confusing .
+     [-0.9002] Jose and Erica were very kind and helpful explaining all my options to me .
+     [-0.8538] Sahara location dropped the ball more times than I can count .
+     [-0.8271] After experiencing a car accident and insurance issues .
+
+**********
+[0.3204] The reviewers were happy with the product.
+Parent: Overall, the reviewers seemed to be happy with the product.
+
+Top 5 (supporting):
+     [0.3204] Just wanted to let you know what a wonder experience I have had with All Nevada Insurance .
+     [0.0739] Jose Torres was a tremendous help in assisting me with my home and auto insurance !
+     [0.0579] I would definetly recommend to all my friends in need of any kind of insurance !
+     [0.0525] Will definitely recommend to friends and family .
+     [0.0411] Had the best experience calling All Nevada Insurance and the young lady on the line answered all my questions and directed me exactly to who could assist me better .
+
+Top 5 (weakening):
+     [-0.9494] Fairly incompetent from my experience-look elsewhere for insurance needs .
+     [-0.6234] Sahara location dropped the ball more times than I can count .
+     [-0.1615] Insurance can be so confusing .
+     [-0.0438] After experiencing a car accident and insurance issues .
+     [-0.0338] Very knowledgeable

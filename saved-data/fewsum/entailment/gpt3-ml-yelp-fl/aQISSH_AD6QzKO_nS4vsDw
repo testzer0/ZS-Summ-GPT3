@@ -1,0 +1,297 @@
+Summary:
+
+The reviewers said that the clinic is friendly, clean, and welcoming, and that the staff is professional and helpful.
+They also said that Dr. Misty is awesome and that she sincerely loves her patients.
+The vast majority of reviewers highly recommend this product.
+They say that the chiropractors are talented and spend time with each client, and that the experience is very nice.
+Many say that this is the best chiropractor they have been to.
+The reviewers all said that the product was great and that it helped them with their pain.
+They also said that the staff was very professional and caring.
+
+**********
+[0.9634] The clinic is friendly.
+Parent: The reviewers said that the clinic is friendly, clean, and welcoming, and that the staff is professional and helpful.
+
+Top 5 (supporting):
+     [0.9634] An all around friendly , clean and welcoming clinic .
+     [0.3774] Staff is friendly , the office is always clean / tidy and haven 't ever waited more than 10 mins .
+     [0.1370] Even when my little ones don 't want to lay on the table to get adjusted , they will give her a hug and she can get some movement out of them .
+     [0.1112] The customers service is pleasant .
+     [0.0964] Dr. Misty provides a great service and is wonderful with kids .
+
+Top 5 (weakening):
+     [-0.1171] These two are amazing !
+     [-0.1081] Always walk out of her office with a spring in my step !
+     [-0.0736] There are many charlatan 's out there .
+     [-0.0671] It is very difficult to not only find a great Chiropractor but even more difficult to find one that sincerely care !
+     [-0.0647] I have been told that it is a state law that I need X-rays , I have been told that I had to sign an agreement .
+
+**********
+[0.9187] The clinic is clean.
+Parent: The reviewers said that the clinic is friendly, clean, and welcoming, and that the staff is professional and helpful.
+
+Top 5 (supporting):
+     [0.9187] An all around friendly , clean and welcoming clinic .
+     [0.1621] Staff is friendly , the office is always clean / tidy and haven 't ever waited more than 10 mins .
+     [0.0186] Very professional and clearly passionate about healing.I left feeling better than ever and happy that I took a more natural approach .
+     [0.0114] BEST CHIROPRACTORS IN TOWN ! !
+     [0.0101] My husband and I love coming here and love how well we are taken cate of !
+
+Top 5 (weakening):
+     [-0.1620] Over the past three years , my back has been getting stronger , and strong , and stronger .
+     [-0.0883] He took his time , talked to me about how things felt and listened to me .
+     [-0.0681] I have been told that it is a state law that I need X-rays , I have been told that I had to sign an agreement .
+     [-0.0646] Always walk out of her office with a spring in my step !
+     [-0.0466] These two are amazing !
+
+**********
+[0.9659] The clinic is welcoming.
+Parent: The reviewers said that the clinic is friendly, clean, and welcoming, and that the staff is professional and helpful.
+
+Top 5 (supporting):
+     [0.9659] An all around friendly , clean and welcoming clinic .
+     [0.3024] Staff is friendly , the office is always clean / tidy and haven 't ever waited more than 10 mins .
+     [0.1917] Even when my little ones don 't want to lay on the table to get adjusted , they will give her a hug and she can get some movement out of them .
+     [0.0977] Dr. Misty provides a great service and is wonderful with kids .
+     [0.0749] The customers service is pleasant .
+
+Top 5 (weakening):
+     [-0.2227] It is very difficult to not only find a great Chiropractor but even more difficult to find one that sincerely care !
+     [-0.1302] I have been told that it is a state law that I need X-rays , I have been told that I had to sign an agreement .
+     [-0.0823] Over the past three years , my back has been getting stronger , and strong , and stronger .
+     [-0.0707] These two are amazing !
+     [-0.0636] I just wish I hadn 't of moved so far away or I 'd still be going .
+
+**********
+[0.9681] The staff is professional.
+Parent: The reviewers said that the clinic is friendly, clean, and welcoming, and that the staff is professional and helpful.
+
+Top 5 (supporting):
+     [0.9681] The entire staff is very professional .
+     [0.5709] Very professional and clearly passionate about healing.I left feeling better than ever and happy that I took a more natural approach .
+     [0.5374] The doctors are very knowledgeable about what they are doing and also provide different ways to adjust you if your uncomfortable .
+     [0.4836] High professionalism at a lower cost .
+     [0.3997] Very good energy , affordable , professional , and manual manipulation .
+
+Top 5 (weakening):
+     [-0.0093] Over the past three years , my back has been getting stronger , and strong , and stronger .
+     [-0.0044] I just wish I hadn 't of moved so far away or I 'd still be going .
+     [-0.0024] I have been told that it is a state law that I need X-rays , I have been told that I had to sign an agreement .
+     [0.0000] ! !
+     [0.0000] ! !
+
+**********
+[0.4680] The staff is helpful.
+Parent: The reviewers said that the clinic is friendly, clean, and welcoming, and that the staff is professional and helpful.
+
+Top 5 (supporting):
+     [0.4680] Staff is friendly , the office is always clean / tidy and haven 't ever waited more than 10 mins .
+     [0.3203] Misty and Nick have such great attention to out needs !
+     [0.2866] The doctors are very knowledgeable about what they are doing and also provide different ways to adjust you if your uncomfortable .
+     [0.2564] Every visit to Healing Hands has been great and so helpful .
+     [0.1698] Even when my little ones don 't want to lay on the table to get adjusted , they will give her a hug and she can get some movement out of them .
+
+Top 5 (weakening):
+     [-0.0111] These two are amazing !
+     [-0.0106] Over the past three years , my back has been getting stronger , and strong , and stronger .
+     [-0.0089] I just wish I hadn 't of moved so far away or I 'd still be going .
+     [-0.0062] I have been told that it is a state law that I need X-rays , I have been told that I had to sign an agreement .
+     [-0.0036] He 's well-rounded , holistic , and very intuitive when adjusting .
+
+**********
+[0.9761] Dr. Misty is great.
+Parent: They also said that Dr. Misty is awesome and that she sincerely loves her patients.
+
+Top 5 (supporting):
+     [0.9761] Dr. Misty is absolutely fabulous !
+     [0.9635] Dr. Misty is awesome !
+     [0.9294] Dr misty was amazing !
+     [0.9159] Dr. Misty and Dr. Nicholas are both wonderful !
+     [0.9151] Dr. Misty is the best .
+
+Top 5 (weakening):
+     [-0.6984] These people are fair and honest .
+     [-0.6759] I have been told that it is a state law that I need X-rays , I have been told that I had to sign an agreement .
+     [-0.6626] Over the past three years , my back has been getting stronger , and strong , and stronger .
+     [-0.6565] Dr. Nicholas did a fantastic job .
+     [-0.5922] Savannah was amazing .
+
+**********
+[0.9850] Dr. Misty loves her patients.
+Parent: They also said that Dr. Misty is awesome and that she sincerely loves her patients.
+
+Top 5 (supporting):
+     [0.9850] Dr. Misty sincerely loves each and every one of her patients and it shows by the exemplary care she provides .
+     [0.0493] Even when my little ones don 't want to lay on the table to get adjusted , they will give her a hug and she can get some movement out of them .
+     [0.0311] Misty and Nick have such great attention to out needs !
+     [0.0204] Dr. Misty is talented and spends time with each client .
+     [0.0198] Dr. Misty is absolutely fabulous !
+
+Top 5 (weakening):
+     [-0.4484] I agree with other reviews .
+     [-0.3881] I just wish I hadn 't of moved so far away or I 'd still be going .
+     [-0.3351] He took his time , talked to me about how things felt and listened to me .
+     [-0.2842] I have been told that it is a state law that I need X-rays , I have been told that I had to sign an agreement .
+     [-0.2427] A friend of mine worked across the street from these guys and recommended them .
+
+**********
+[0.0129] Most reviewers recommend this product.
+Parent: The vast majority of reviewers highly recommend this product.
+
+Top 5 (supporting):
+     [0.0129] I agree with other reviews .
+     [0.0103] Highly recommended .
+     [0.0033] Dr. Misty is the best .
+     [0.0033] Price is very reasonable ... great experience
+     [0.0025] BEST CHIROPRACTORS IN TOWN ! !
+
+Top 5 (weakening):
+     [-0.1869] It is very difficult to not only find a great Chiropractor but even more difficult to find one that sincerely care !
+     [-0.0539] I recommend dr Misty .
+     [-0.0427] I love this place !
+     [-0.0357] I just wish I hadn 't of moved so far away or I 'd still be going .
+     [-0.0305] These people are fair and honest .
+
+**********
+[0.4202] The chiropractors are skilled.
+Parent: They say that the chiropractors are talented and spend time with each client, and that the experience is very nice.
+
+Top 5 (supporting):
+     [0.4202] BEST CHIROPRACTORS IN TOWN ! !
+     [0.3095] Dr. Howard is a great Chiropractor !
+     [0.1570] The entire staff is very professional .
+     [0.1471] Dr. Nicholas adjusted my neck better than any other chiropractor .
+     [0.1018] He 's well-rounded , holistic , and very intuitive when adjusting .
+
+Top 5 (weakening):
+     [-0.2208] These people are fair and honest .
+     [-0.1350] I have been told that it is a state law that I need X-rays , I have been told that I had to sign an agreement .
+     [-0.0247] They are both so caring and kind .
+     [-0.0142] I recommend dr Misty .
+     [-0.0099] I just wish I hadn 't of moved so far away or I 'd still be going .
+
+**********
+[0.3408] The chiropractors are attentive.
+Parent: They say that the chiropractors are talented and spend time with each client, and that the experience is very nice.
+
+Top 5 (supporting):
+     [0.3408] Even when my little ones don 't want to lay on the table to get adjusted , they will give her a hug and she can get some movement out of them .
+     [0.2283] Misty and Nick have such great attention to out needs !
+     [0.1321] He 's well-rounded , holistic , and very intuitive when adjusting .
+     [0.1146] The doctors are very knowledgeable about what they are doing and also provide different ways to adjust you if your uncomfortable .
+     [0.1125] Staff is friendly , the office is always clean / tidy and haven 't ever waited more than 10 mins .
+
+Top 5 (weakening):
+     [-0.1161] It is very difficult to not only find a great Chiropractor but even more difficult to find one that sincerely care !
+     [-0.0470] There are many charlatan 's out there .
+     [-0.0435] I just wish I hadn 't of moved so far away or I 'd still be going .
+     [-0.0327] I have been told that it is a state law that I need X-rays , I have been told that I had to sign an agreement .
+     [-0.0221] I agree with other reviews .
+
+**********
+[0.9026] The experience is nice.
+Parent: They say that the chiropractors are talented and spend time with each client, and that the experience is very nice.
+
+Top 5 (supporting):
+     [0.9026] Very nice experience .
+     [0.8385] Price is very reasonable ... great experience
+     [0.8156] I had good experience there .
+     [0.3403] It 's so refreshing to find integrity in a place of business .
+     [0.3194] The customers service is pleasant .
+
+Top 5 (weakening):
+     [-0.2373] Dr Misty showed concern about my situation .
+     [-0.1127] I have been told that it is a state law that I need X-rays , I have been told that I had to sign an agreement .
+     [-0.0713] Over the past three years , my back has been getting stronger , and strong , and stronger .
+     [-0.0126] I have been feeling like literal crap for a few weeks til I settled into my new home and went right away , yelp did not lie she was great !
+     [-0.0091] I just wish I hadn 't of moved so far away or I 'd still be going .
+
+**********
+[0.2249] This is the best chiropractor.
+Parent: Many say that this is the best chiropractor they have been to.
+
+Top 5 (supporting):
+     [0.2249] BEST CHIROPRACTORS IN TOWN ! !
+     [0.1840] Dr. Nicholas adjusted my neck better than any other chiropractor .
+     [0.0179] Dr. Misty is the best .
+     [0.0055] Dr. Howard is a great Chiropractor !
+     [0.0028] She help me with my shoulder issues and I couldn 't be happier .
+
+Top 5 (weakening):
+     [-0.8196] It is very difficult to not only find a great Chiropractor but even more difficult to find one that sincerely care !
+     [-0.7575] I have been told that it is a state law that I need X-rays , I have been told that I had to sign an agreement .
+     [-0.5263] I just wish I hadn 't of moved so far away or I 'd still be going .
+     [-0.4802] Dr Misty and Dr Nicholas are the best !
+     [-0.3223] These people are fair and honest .
+
+**********
+[0.7579] The product was great.
+Parent: The reviewers all said that the product was great and that it helped them with their pain.
+
+Top 5 (supporting):
+     [0.7579] Dr. Misty is absolutely fabulous !
+     [0.7060] Dr misty was amazing !
+     [0.6336] Dr. Misty is awesome !
+     [0.4250] Dr. Misty and Dr. Nicholas are both wonderful !
+     [0.3813] Savannah was amazing .
+
+Top 5 (weakening):
+     [-0.3879] These people are fair and honest .
+     [-0.3114] I love this place !
+     [-0.2355] Her care was professional and sincere .
+     [-0.2048] The customers service is pleasant .
+     [-0.2042] The entire staff is very professional .
+
+**********
+[0.8457] The product helped with pain.
+Parent: The reviewers all said that the product was great and that it helped them with their pain.
+
+Top 5 (supporting):
+     [0.8457] It is helping me with severe low back pain .
+     [0.2151] BEST CHIROPRACTORS IN TOWN ! !
+     [0.2097] She help me with my shoulder issues and I couldn 't be happier .
+     [0.0953] The doctors are very knowledgeable about what they are doing and also provide different ways to adjust you if your uncomfortable .
+     [0.0734] I would highly recommend Healing Hands Chiropractic to anyone needing chiropractic care .
+
+Top 5 (weakening):
+     [-0.9191] The improvement in movement for my kids and I have been amazing .
+     [-0.8372] The customers service is pleasant .
+     [-0.8288] I love this place !
+     [-0.7734] This place also has membership pricing at a really great deal .
+     [-0.7166] High professionalism at a lower cost .
+
+**********
+[0.9576] The staff was professional.
+Parent: They also said that the staff was very professional and caring.
+
+Top 5 (supporting):
+     [0.9576] The entire staff is very professional .
+     [0.4463] Very professional and clearly passionate about healing.I left feeling better than ever and happy that I took a more natural approach .
+     [0.4132] High professionalism at a lower cost .
+     [0.3748] Her care was professional and sincere .
+     [0.3674] The doctors are very knowledgeable about what they are doing and also provide different ways to adjust you if your uncomfortable .
+
+Top 5 (weakening):
+     [-0.1572] These two are amazing !
+     [-0.0496] Over the past three years , my back has been getting stronger , and strong , and stronger .
+     [-0.0271] There are many charlatan 's out there .
+     [-0.0218] I just wish I hadn 't of moved so far away or I 'd still be going .
+     [-0.0071] Dr. Misty is awesome !
+
+**********
+[0.6831] The staff was caring.
+Parent: They also said that the staff was very professional and caring.
+
+Top 5 (supporting):
+     [0.6831] Staff is friendly , the office is always clean / tidy and haven 't ever waited more than 10 mins .
+     [0.6593] Misty and Nick have such great attention to out needs !
+     [0.4809] Her care was professional and sincere .
+     [0.2514] The doctors are very knowledgeable about what they are doing and also provide different ways to adjust you if your uncomfortable .
+     [0.2504] Even when my little ones don 't want to lay on the table to get adjusted , they will give her a hug and she can get some movement out of them .
+
+Top 5 (weakening):
+     [-0.1079] I have been told that it is a state law that I need X-rays , I have been told that I had to sign an agreement .
+     [-0.0275] I just wish I hadn 't of moved so far away or I 'd still be going .
+     [-0.0253] There are many charlatan 's out there .
+     [-0.0180] Dr Misty and Dr Nicholas are the best !
+     [-0.0122] Dr. Misty is awesome !

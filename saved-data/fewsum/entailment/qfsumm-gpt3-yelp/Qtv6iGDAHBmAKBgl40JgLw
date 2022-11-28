@@ -1,0 +1,111 @@
+Summary:
+
+The reviewers said that the product was great, with fresh ingredients, quick service, and a good selection of toppings. They also said that the staff were friendly and that the prices were good.
+
+**********
+[0.6934] The product was great.
+Parent: The reviewers said that the product was great, with fresh ingredients, quick service, and a good selection of toppings.
+
+Top 5 (supporting):
+     [0.6934] That being said , the pizza is great !
+     [0.6932] Loved the dough and the toppings were excellent .
+     [0.5218] And pizza was even better than I imagined !
+     [0.5128] Great pizza , very fresh ingredients with quick service .
+     [0.4799] Also , I am not much for thinking crust , but there crust was awesome .
+
+Top 5 (weakening):
+     [-0.3614] The concept is wonderful .
+     [-0.3105] The service was amazing , they 're nice , greeting you at the door , and they go above and beyond , really making the customer feel like the priority .
+     [-0.1338] For thin crust pizza , OMG ! !
+     [-0.1161] Staff are all very friendly , enthusiastic and helpful !
+     [-0.0489] It was busy !
+
+**********
+[0.9742] The product had fresh ingredients.
+Parent: The reviewers said that the product was great, with fresh ingredients, quick service, and a good selection of toppings.
+
+Top 5 (supporting):
+     [0.9742] Great pizza , very fresh ingredients with quick service .
+     [0.8751] But the real draw are the fresh ingredients .
+     [0.0492] They even have feta and goat cheese available for pizza .
+     [0.0199] Loved the dough and the toppings were excellent .
+     [0.0119] I rarely see that in places that serve pizza .
+
+Top 5 (weakening):
+     [-0.0624] It was busy !
+     [-0.0228] I will most likely up my review to 5 stars when they get everything ironed out .
+     [-0.0166] Will be back .
+     [-0.0145] Prices are good too !
+     [-0.0103] But moved quickly .
+
+**********
+[0.9657] The product had quick service.
+Parent: The reviewers said that the product was great, with fresh ingredients, quick service, and a good selection of toppings.
+
+Top 5 (supporting):
+     [0.9657] Great pizza , very fresh ingredients with quick service .
+     [0.8168] So quick and very generous with the toppings .
+     [0.4693] But moved quickly .
+     [0.2426] I 've been to other Blaze locations and the process runs a lot smoother .
+     [0.0858] We went shortly after they grand opened and the staff seemed well train and with good attitudes .
+
+Top 5 (weakening):
+     [-0.7790] We also went when they were doing free pizza and the line was out the door .
+     [-0.4283] It was busy !
+     [-0.1417] The pizzas are big and could be split if you 're not a big eater .
+     [-0.1261] Prices are good too !
+     [-0.1220] But the real draw are the fresh ingredients .
+
+**********
+[0.9636] The product had a good selection of toppings.
+Parent: The reviewers said that the product was great, with fresh ingredients, quick service, and a good selection of toppings.
+
+Top 5 (supporting):
+     [0.9636] The selection is amazing for toppings ( so many options ) , the price is great for an 11 " pizza .
+     [0.7082] Loved the dough and the toppings were excellent .
+     [0.5562] So quick and very generous with the toppings .
+     [0.0877] They even have feta and goat cheese available for pizza .
+     [0.0370] Staff is extremely friendly , beverage selection solid It is a winner !
+
+Top 5 (weakening):
+     [-0.0089] The service was amazing , they 're nice , greeting you at the door , and they go above and beyond , really making the customer feel like the priority .
+     [-0.0056] But the real draw are the fresh ingredients .
+     [-0.0047] The crust is nice and chewy and not too thick .
+     [-0.0044] But moved quickly .
+     [-0.0024] It was busy !
+
+**********
+[0.9809] The staff were friendly.
+Parent: They also said that the staff were friendly and that the prices were good.
+
+Top 5 (supporting):
+     [0.9809] The staff is exceptionally friendly !
+     [0.9767] Staff is extremely friendly , beverage selection solid It is a winner !
+     [0.9724] Staff are all very friendly , enthusiastic and helpful !
+     [0.8478] The service was amazing , they 're nice , greeting you at the door , and they go above and beyond , really making the customer feel like the priority .
+     [0.5785] We went shortly after they grand opened and the staff seemed well train and with good attitudes .
+
+Top 5 (weakening):
+     [-0.0308] But moved quickly .
+     [-0.0218] The crust is nice and chewy and not too thick .
+     [-0.0108] I will most likely up my review to 5 stars when they get everything ironed out .
+     [-0.0063] We also went when they were doing free pizza and the line was out the door .
+     [-0.0042] For thin crust pizza , OMG ! !
+
+**********
+[0.9087] The prices were good.
+Parent: They also said that the staff were friendly and that the prices were good.
+
+Top 5 (supporting):
+     [0.9087] Prices are good too !
+     [0.7939] The selection is amazing for toppings ( so many options ) , the price is great for an 11 " pizza .
+     [0.0494] So quick and very generous with the toppings .
+     [0.0372] Great , especially for a grand opening !
+     [0.0063] Will be back .
+
+Top 5 (weakening):
+     [-0.0460] For thin crust pizza , OMG ! !
+     [-0.0212] The service was amazing , they 're nice , greeting you at the door , and they go above and beyond , really making the customer feel like the priority .
+     [-0.0170] Staff are all very friendly , enthusiastic and helpful !
+     [-0.0096] We also went when they were doing free pizza and the line was out the door .
+     [-0.0082] It was busy !

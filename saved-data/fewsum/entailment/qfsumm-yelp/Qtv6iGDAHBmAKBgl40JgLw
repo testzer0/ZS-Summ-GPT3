@@ -1,0 +1,205 @@
+Summary:
+
+The selection is amazing for toppings ( so many options ) , the price is great for an 11 " pizza .
+The pizzas are big and could be split if you 're not a big eater .
+Great pizza , very fresh ingredients with quick service .
+For thin crust pizza , OMG !
+Staff is extremely friendly , beverage selection solid It is a winner !
+
+**********
+[0.9746] The selection of toppings is amazing.
+Parent: The selection is amazing for toppings ( so many options ) , the price is great for an 11 " pizza .
+
+Top 5 (supporting):
+     [0.9746] The selection is amazing for toppings ( so many options ) , the price is great for an 11 " pizza .
+     [0.4175] So quick and very generous with the toppings .
+     [0.1810] Loved the dough and the toppings were excellent .
+     [0.0344] Staff is extremely friendly , beverage selection solid It is a winner !
+     [0.0163] Everything amazing !
+
+Top 5 (weakening):
+     [-0.1760] Service and pizza are great and we love the selection beverages .
+     [-0.0382] Also , I am not much for thinking crust , but there crust was awesome .
+     [-0.0199] The crust is nice and chewy and not too thick .
+     [-0.0159] The service was amazing , they 're nice , greeting you at the door , and they go above and beyond , really making the customer feel like the priority .
+     [-0.0095] But moved quickly .
+
+**********
+[0.8907] The price is great.
+Parent: The selection is amazing for toppings ( so many options ) , the price is great for an 11 " pizza .
+
+Top 5 (supporting):
+     [0.8907] Prices are good too !
+     [0.7433] The selection is amazing for toppings ( so many options ) , the price is great for an 11 " pizza .
+     [0.0316] Great , especially for a grand opening !
+     [0.0060] For thin crust pizza , OMG ! !
+     [0.0042] Definitely a go-to for me .
+
+Top 5 (weakening):
+     [-0.1664] So quick and very generous with the toppings .
+     [-0.1437] It was busy !
+     [-0.1267] It was almost closing time and we were given a free pizza coupon .
+     [-0.0981] The concept is wonderful .
+     [-0.0558] But moved quickly .
+
+**********
+[0.9696] The pizzas are big.
+Parent: The pizzas are big and could be split if you 're not a big eater .
+
+Top 5 (supporting):
+     [0.9696] The pizzas are big and could be split if you 're not a big eater .
+     [0.4414] The selection is amazing for toppings ( so many options ) , the price is great for an 11 " pizza .
+     [0.0112] Love the pizzas here !
+     [0.0093] Great pizza , very fresh ingredients with quick service .
+     [0.0074] That being said , the pizza is great !
+
+Top 5 (weakening):
+     [-0.0386] Staff is extremely friendly , beverage selection solid It is a winner !
+     [-0.0285] The crust is nice and chewy and not too thick .
+     [-0.0209] But the real draw are the fresh ingredients .
+     [-0.0199] So quick and very generous with the toppings .
+     [-0.0196] For thin crust pizza , OMG ! !
+
+**********
+[0.9744] The pizzas could be split if you're not hungry.
+Parent: The pizzas are big and could be split if you 're not a big eater .
+
+Top 5 (supporting):
+     [0.9744] The pizzas are big and could be split if you 're not a big eater .
+     [0.0000] Awesome !
+     [0.0000] ! !
+     [0.0000] ! !
+     [0.0000] ! !
+
+Top 5 (weakening):
+     [-0.0788] It was busy !
+     [-0.0615] But moved quickly .
+     [-0.0528] It was almost closing time and we were given a free pizza coupon .
+     [-0.0487] I will most likely up my review to 5 stars when they get everything ironed out .
+     [-0.0326] Everything amazing !
+
+**********
+[0.9654] This is great pizza.
+Parent: Great pizza , very fresh ingredients with quick service .
+
+Top 5 (supporting):
+     [0.9654] Great pizza , very fresh ingredients with quick service .
+     [0.9583] That being said , the pizza is great !
+     [0.9373] Very good pizza .
+     [0.9364] Love the pizzas here !
+     [0.8896] Service and pizza are great and we love the selection beverages .
+
+Top 5 (weakening):
+     [-0.8972] Staff is extremely friendly , beverage selection solid It is a winner !
+     [-0.6998] It was busy !
+     [-0.3236] The concept is wonderful .
+     [-0.2192] The service was amazing , they 're nice , greeting you at the door , and they go above and beyond , really making the customer feel like the priority .
+     [-0.1586] Everything amazing !
+
+**********
+[0.9333] The ingredients were fresh.
+Parent: Great pizza , very fresh ingredients with quick service .
+
+Top 5 (supporting):
+     [0.9333] Great pizza , very fresh ingredients with quick service .
+     [0.8299] But the real draw are the fresh ingredients .
+     [0.0172] Loved the dough and the toppings were excellent .
+     [0.0090] I rarely see that in places that serve pizza .
+     [0.0082] Personal favorite is the red vine .
+
+Top 5 (weakening):
+     [-0.0314] I will most likely up my review to 5 stars when they get everything ironed out .
+     [-0.0219] It was busy !
+     [-0.0215] Prices are good too !
+     [-0.0090] For thin crust pizza , OMG ! !
+     [-0.0056] But moved quickly .
+
+**********
+[0.9276] The service was quick.
+Parent: Great pizza , very fresh ingredients with quick service .
+
+Top 5 (supporting):
+     [0.9276] Great pizza , very fresh ingredients with quick service .
+     [0.4369] So quick and very generous with the toppings .
+     [0.2784] But moved quickly .
+     [0.1118] I 've been to other Blaze locations and the process runs a lot smoother .
+     [0.0694] We went shortly after they grand opened and the staff seemed well train and with good attitudes .
+
+Top 5 (weakening):
+     [-0.7731] We also went when they were doing free pizza and the line was out the door .
+     [-0.5198] It was busy !
+     [-0.0754] Prices are good too !
+     [-0.0390] I will most likely up my review to 5 stars when they get everything ironed out .
+     [-0.0381] But the real draw are the fresh ingredients .
+
+**********
+[0.0792] Thin crust pizza is amazing!
+Parent: For thin crust pizza , OMG !
+
+Top 5 (supporting):
+     [0.0792] For thin crust pizza , OMG ! !
+     [0.0535] The selection is amazing for toppings ( so many options ) , the price is great for an 11 " pizza .
+     [0.0465] Loved the dough and the toppings were excellent .
+     [0.0357] The service was amazing , they 're nice , greeting you at the door , and they go above and beyond , really making the customer feel like the priority .
+     [0.0196] So quick and very generous with the toppings .
+
+Top 5 (weakening):
+     [-0.1814] Personal favorite is the red vine .
+     [-0.1217] It was busy !
+     [-0.1048] But moved quickly .
+     [-0.0858] Staff is extremely friendly , beverage selection solid It is a winner !
+     [-0.0779] Staff are all very friendly , enthusiastic and helpful !
+
+**********
+[0.9820] The staff is friendly.
+Parent: Staff is extremely friendly , beverage selection solid It is a winner !
+
+Top 5 (supporting):
+     [0.9820] The staff is exceptionally friendly !
+     [0.9762] Staff is extremely friendly , beverage selection solid It is a winner !
+     [0.9752] Staff are all very friendly , enthusiastic and helpful !
+     [0.8496] The service was amazing , they 're nice , greeting you at the door , and they go above and beyond , really making the customer feel like the priority .
+     [0.5308] We went shortly after they grand opened and the staff seemed well train and with good attitudes .
+
+Top 5 (weakening):
+     [-0.0469] But moved quickly .
+     [-0.0225] The crust is nice and chewy and not too thick .
+     [-0.0081] We also went when they were doing free pizza and the line was out the door .
+     [-0.0022] It was busy !
+     [-0.0016] I will most likely up my review to 5 stars when they get everything ironed out .
+
+**********
+[0.9575] The beverage selection is good.
+Parent: Staff is extremely friendly , beverage selection solid It is a winner !
+
+Top 5 (supporting):
+     [0.9575] Staff is extremely friendly , beverage selection solid It is a winner !
+     [0.9246] Service and pizza are great and we love the selection beverages .
+     [0.0380] Personal favorite is the red vine .
+     [0.0121] Prices are good too !
+     [0.0065] Just what I 've come to expect from Blaze .
+
+Top 5 (weakening):
+     [-0.2274] The selection is amazing for toppings ( so many options ) , the price is great for an 11 " pizza .
+     [-0.2068] But the real draw are the fresh ingredients .
+     [-0.1135] Love the pizzas here !
+     [-0.1045] Loved the dough and the toppings were excellent .
+     [-0.0627] Very good pizza .
+
+**********
+[0.5869] It is a good thing.
+Parent: Staff is extremely friendly , beverage selection solid It is a winner !
+
+Top 5 (supporting):
+     [0.5869] Staff is extremely friendly , beverage selection solid It is a winner !
+     [0.4044] The concept is wonderful .
+     [0.3467] That being said , the pizza is great !
+     [0.3413] Very good pizza .
+     [0.2603] Totally loved it !
+
+Top 5 (weakening):
+     [-0.0639] For thin crust pizza , OMG ! !
+     [-0.0142] Will be back .
+     [-0.0123] It was busy !
+     [-0.0071] But moved quickly .
+     [0.0000] ! !

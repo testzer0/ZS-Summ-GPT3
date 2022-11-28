@@ -1,0 +1,317 @@
+Summary:
+
+The sushi at this restaurant is fresh, delicious, and reasonably priced.
+The hibachi lunch is also a great deal, and the service is excellent.
+The reviews of the product are mixed.
+Some people really enjoy the sushi and find it to be amazing, while others find it to be just okay.
+There are also some complaints about the service and the prices.
+Overall, it seems that people either really love this restaurant or they find it to be just average.
+Overall, reviewers thought that the product was not worth the money.
+The rolls were too small, and the service was bad.
+However, the food was good.
+
+**********
+[0.9089] The sushi is fresh.
+Parent: The sushi at this restaurant is fresh, delicious, and reasonably priced.
+
+Top 5 (supporting):
+     [0.9089] The ginger dressing was fresh like the Sushi
+     [0.0811] Freshly made every time !
+     [0.0551] Some great sushi to be had here , and the specials they have going on are amazing !
+     [0.0379] Amazingly fine sushi in a strip mall and in Monroe .
+     [0.0343] They are fresh , delicious , and service is fantastic .
+
+Top 5 (weakening):
+     [-0.9054] The lobster was over cooked .
+     [-0.6986] Ridiculously bad service .
+     [-0.4865] Was like rubber .
+     [-0.4167] Not going back ever .
+     [-0.3052] Not worth the money !
+
+**********
+[0.9115] The sushi at this restaurant is good.
+Parent: The sushi at this restaurant is fresh, delicious, and reasonably priced.
+
+Top 5 (supporting):
+     [0.9115] I love this sushi bar , absolutely would recommend any sushi lover to try them out !
+     [0.8543] I order from them every Wednesday and Sunday for half off sushi and it 's really good .
+     [0.7778] Some great sushi to be had here , and the specials they have going on are amazing !
+     [0.5385] This is the best place in Monroe for sushi .
+     [0.3877] But they have really good sushi .
+
+Top 5 (weakening):
+     [-0.4363] Not worth the money !
+     [-0.4216] Was like rubber .
+     [-0.3242] Not worth the money .
+     [-0.3228] Therefore , I cannot recommend this restaurant unless you don 't feel like driving far from your hotel .
+     [-0.3130] We paid 50 $ for two people and the rolls were to tiny : / bit disappointing a regular rainbow roll at .
+
+**********
+[0.5442] The sushi is reasonably priced.
+Parent: The sushi at this restaurant is fresh, delicious, and reasonably priced.
+
+Top 5 (supporting):
+     [0.5442] Take advantage of half priced sushi on Wednesdays and Sundays .
+     [0.3688] the food is ok , the chicken is a bit more harder if that make any scence , the shrimp sause is thick and is not so good , they dont offer as much as other hibachi places and they cost the same .
+     [0.2079] I order from them every Wednesday and Sunday for half off sushi and it 's really good .
+     [0.1897] We paid 50 $ for two people and the rolls were to tiny : / bit disappointing a regular rainbow roll at .
+     [0.1826] Hibachi lunch is cheap and fun to go to , and we try to come as often as we can .
+
+Top 5 (weakening):
+     [-0.9440] The sushi is amazing and half off on Wednesdays and Sundays , so it 's a great deal !
+     [-0.8996] Felt the price to be high considering you get ALOT of rice with your meal and not enough of anything else .
+     [-0.3257] Our server didn 't even know what " gluten free " meant , so to avoid any consequences I stuck with an overpriced leaf of iceberg lettuce and a few avocado cubes .
+     [-0.3210] Not worth the money !
+     [-0.2747] Not worth the money .
+
+**********
+[0.4102] The hibachi lunch is a great deal.
+Parent: The hibachi lunch is also a great deal, and the service is excellent.
+
+Top 5 (supporting):
+     [0.4102] Great new chef the hibachi was amazing !
+     [0.2210] Felt the price to be high considering you get ALOT of rice with your meal and not enough of anything else .
+     [0.1483] Hibachi - Chef was a rock star - food was good but way to salty to me .
+     [0.0292] Definitely give it a try , you won 't be disappointed !
+     [0.0134] They also have Hibachi which is great for lunch at only 8 bucks .
+
+Top 5 (weakening):
+     [-0.9392] the food is ok , the chicken is a bit more harder if that make any scence , the shrimp sause is thick and is not so good , they dont offer as much as other hibachi places and they cost the same .
+     [-0.8509] Not worth the money .
+     [-0.8315] Not worth the money !
+     [-0.8033] Ridiculously bad service .
+     [-0.7804] Hibachi lunch is cheap and fun to go to , and we try to come as often as we can .
+
+**********
+[0.9216] The service is good.
+Parent: The hibachi lunch is also a great deal, and the service is excellent.
+
+Top 5 (supporting):
+     [0.9216] The service and food were both good .
+     [0.9108] They are fresh , delicious , and service is fantastic .
+     [0.7120] Takara 's cruchy roll is to doe for ... so much so for about a month I went every few days to get one ~ and then two.Excellent staff knew what I wanted when I walked through the door.Tocaras has become a favorite place where friends and I love to meet and catch up from our busy lives ~
+     [0.5488] Ask for Yang if you want top notch service !
+     [0.4002] The staff is awesome too , always so friendly !
+
+Top 5 (weakening):
+     [-0.9948] Ridiculously bad service .
+     [-0.3177] Our server didn 't even know what " gluten free " meant , so to avoid any consequences I stuck with an overpriced leaf of iceberg lettuce and a few avocado cubes .
+     [-0.2470] Not worth the money !
+     [-0.2144] Not going back ever .
+     [-0.2027] Not worth the money .
+
+**********
+[0.1866] The reviews of the product are mixed.
+Parent: The reviews of the product are mixed.
+
+Top 5 (supporting):
+     [0.1866] the food is ok , the chicken is a bit more harder if that make any scence , the shrimp sause is thick and is not so good , they dont offer as much as other hibachi places and they cost the same .
+     [0.0000] !
+     [0.0000] WRONG .
+     [-0.0071] Mostly take out sushi on Sunday 's , as they have 1 / 2 price rolls on those days .
+     [-0.0081] We eat here a few times a month , both in and take out .
+
+Top 5 (weakening):
+     [-0.9816] Great new chef the hibachi was amazing !
+     [-0.9788] I love this sushi bar , absolutely would recommend any sushi lover to try them out !
+     [-0.9768] The sushi is amazing and half off on Wednesdays and Sundays , so it 's a great deal !
+     [-0.9712] They are fresh , delicious , and service is fantastic .
+     [-0.9609] Food was really good .
+
+**********
+[0.7511] The sushi is enjoyed by some people.
+Parent: Some people really enjoy the sushi and find it to be amazing, while others find it to be just okay.
+
+Top 5 (supporting):
+     [0.7511] I love this sushi bar , absolutely would recommend any sushi lover to try them out !
+     [0.1416] Some great sushi to be had here , and the specials they have going on are amazing !
+     [0.1222] I literally waited over 30 minutes for four little amazing pieces of sushi with no apology or real explanation .
+     [0.0941] The sushi is amazing and half off on Wednesdays and Sundays , so it 's a great deal !
+     [0.0793] Take advantage of half priced sushi on Wednesdays and Sundays .
+
+Top 5 (weakening):
+     [-0.0982] Takara 's cruchy roll is to doe for ... so much so for about a month I went every few days to get one ~ and then two.Excellent staff knew what I wanted when I walked through the door.Tocaras has become a favorite place where friends and I love to meet and catch up from our busy lives ~
+     [-0.0374] The lobster was over cooked .
+     [-0.0364] Not going back ever .
+     [-0.0341] Wife 's steak was underdone .
+     [-0.0257] Not worth the money !
+
+**********
+[0.5806] It is amazing.
+Parent: Some people really enjoy the sushi and find it to be amazing, while others find it to be just okay.
+
+Top 5 (supporting):
+     [0.5806] Great new chef the hibachi was amazing !
+     [0.4369] The sushi is amazing and half off on Wednesdays and Sundays , so it 's a great deal !
+     [0.3801] This place rocks !
+     [0.3486] They are fresh , delicious , and service is fantastic .
+     [0.2800] Some great sushi to be had here , and the specials they have going on are amazing !
+
+Top 5 (weakening):
+     [-0.9953] Not worth the money !
+     [-0.9941] Ridiculously bad service .
+     [-0.9932] Not worth the money .
+     [-0.9872] the food is ok , the chicken is a bit more harder if that make any scence , the shrimp sause is thick and is not so good , they dont offer as much as other hibachi places and they cost the same .
+     [-0.9864] We paid 50 $ for two people and the rolls were to tiny : / bit disappointing a regular rainbow roll at .
+
+**********
+[0.7172] It is just okay.
+Parent: Some people really enjoy the sushi and find it to be amazing, while others find it to be just okay.
+
+Top 5 (supporting):
+     [0.7172] the food is ok , the chicken is a bit more harder if that make any scence , the shrimp sause is thick and is not so good , they dont offer as much as other hibachi places and they cost the same .
+     [0.4315] Not worth the money .
+     [0.4229] Not worth the money !
+     [0.1945] Wife 's steak was underdone .
+     [0.0605] Was like rubber .
+
+Top 5 (weakening):
+     [-0.9974] Great new chef the hibachi was amazing !
+     [-0.9971] The sushi is amazing and half off on Wednesdays and Sundays , so it 's a great deal !
+     [-0.9955] They are fresh , delicious , and service is fantastic .
+     [-0.9953] Some great sushi to be had here , and the specials they have going on are amazing !
+     [-0.9952] This place rocks !
+
+**********
+[0.9698] The service was not good.
+Parent: There are also some complaints about the service and the prices.
+
+Top 5 (supporting):
+     [0.9698] Ridiculously bad service .
+     [0.3004] Our server didn 't even know what " gluten free " meant , so to avoid any consequences I stuck with an overpriced leaf of iceberg lettuce and a few avocado cubes .
+     [0.2608] We paid 50 $ for two people and the rolls were to tiny : / bit disappointing a regular rainbow roll at .
+     [0.1625] Not worth the money .
+     [0.1591] Not worth the money !
+
+Top 5 (weakening):
+     [-0.9946] They are fresh , delicious , and service is fantastic .
+     [-0.9924] Takara 's cruchy roll is to doe for ... so much so for about a month I went every few days to get one ~ and then two.Excellent staff knew what I wanted when I walked through the door.Tocaras has become a favorite place where friends and I love to meet and catch up from our busy lives ~
+     [-0.9886] The staff is awesome too , always so friendly !
+     [-0.9865] The service and food were both good .
+     [-0.9776] Some great sushi to be had here , and the specials they have going on are amazing !
+
+**********
+[0.7169] Prices are too high.
+Parent: There are also some complaints about the service and the prices.
+
+Top 5 (supporting):
+     [0.7169] Our server didn 't even know what " gluten free " meant , so to avoid any consequences I stuck with an overpriced leaf of iceberg lettuce and a few avocado cubes .
+     [0.2652] Felt the price to be high considering you get ALOT of rice with your meal and not enough of anything else .
+     [0.0533] Not worth the money !
+     [0.0452] Not worth the money .
+     [0.0000] !
+
+Top 5 (weakening):
+     [-0.9963] Hibachi lunch is cheap and fun to go to , and we try to come as often as we can .
+     [-0.9479] the food is ok , the chicken is a bit more harder if that make any scence , the shrimp sause is thick and is not so good , they dont offer as much as other hibachi places and they cost the same .
+     [-0.9416] They also have Hibachi which is great for lunch at only 8 bucks .
+     [-0.9349] Amazingly fine sushi in a strip mall and in Monroe .
+     [-0.9336] Take advantage of half priced sushi on Wednesdays and Sundays .
+
+**********
+[0.6980] This restaurant is loved.
+Parent: Overall, it seems that people either really love this restaurant or they find it to be just average.
+
+Top 5 (supporting):
+     [0.6980] I love this sushi bar , absolutely would recommend any sushi lover to try them out !
+     [0.2201] Takara 's cruchy roll is to doe for ... so much so for about a month I went every few days to get one ~ and then two.Excellent staff knew what I wanted when I walked through the door.Tocaras has become a favorite place where friends and I love to meet and catch up from our busy lives ~
+     [0.1887] This place rocks !
+     [0.1823] We eat here a few times a month , both in and take out .
+     [0.0924] Definitely recommend you check this place out !
+
+Top 5 (weakening):
+     [-0.9871] Therefore , I cannot recommend this restaurant unless you don 't feel like driving far from your hotel .
+     [-0.9674] Not worth the money !
+     [-0.9646] Ridiculously bad service .
+     [-0.9600] Not worth the money .
+     [-0.8668] Not going back ever .
+
+**********
+[0.0000] It was just average.
+Parent: Overall, it seems that people either really love this restaurant or they find it to be just average.
+
+Top 5 (supporting):
+     [0.0000] !
+     [0.0000] WRONG .
+     [-0.0370] Not going back ever .
+     [-0.0409] I had Sushi and sak ad fir lunch .
+     [-0.0695] Made a reservation at 7 : 00 , barely got sat by 8 : 00 .... on a Wednesday .
+
+Top 5 (weakening):
+     [-0.9984] Some great sushi to be had here , and the specials they have going on are amazing !
+     [-0.9983] Great new chef the hibachi was amazing !
+     [-0.9978] They are fresh , delicious , and service is fantastic .
+     [-0.9977] The sushi is amazing and half off on Wednesdays and Sundays , so it 's a great deal !
+     [-0.9976] Highly recommend !
+
+**********
+[0.4662] The product was not worth the money.
+Parent: Overall, reviewers thought that the product was not worth the money.
+
+Top 5 (supporting):
+     [0.4662] Not worth the money .
+     [0.3025] Not worth the money !
+     [0.1507] We paid 50 $ for two people and the rolls were to tiny : / bit disappointing a regular rainbow roll at .
+     [0.1212] New Zealand cafe will get you full This was like half the normal roll , so no thank you never again
+     [0.0577] Therefore , I cannot recommend this restaurant unless you don 't feel like driving far from your hotel .
+
+Top 5 (weakening):
+     [-0.9958] I love this sushi bar , absolutely would recommend any sushi lover to try them out !
+     [-0.9956] Highly recommend !
+     [-0.9932] Definitely give it a try , you won 't be disappointed !
+     [-0.9931] Definitely recommend you check this place out !
+     [-0.9875] Great new chef the hibachi was amazing !
+
+**********
+[0.9699] The rolls were too small.
+Parent: The rolls were too small, and the service was bad.
+
+Top 5 (supporting):
+     [0.9699] We paid 50 $ for two people and the rolls were to tiny : / bit disappointing a regular rainbow roll at .
+     [0.0290] New Zealand cafe will get you full This was like half the normal roll , so no thank you never again
+     [0.0000] !
+     [0.0000] WRONG .
+     [-0.0020] Not worth the money .
+
+Top 5 (weakening):
+     [-0.9273] Good sized portions of the food I ordered .
+     [-0.7088] The show was very entertaining great place for familys , party , date .
+     [-0.5854] This place rocks !
+     [-0.5672] Great new chef the hibachi was amazing !
+     [-0.4775] I love this sushi bar , absolutely would recommend any sushi lover to try them out !
+
+**********
+[0.9698] The service was not good.
+Parent: The rolls were too small, and the service was bad.
+
+Top 5 (supporting):
+     [0.9698] Ridiculously bad service .
+     [0.3004] Our server didn 't even know what " gluten free " meant , so to avoid any consequences I stuck with an overpriced leaf of iceberg lettuce and a few avocado cubes .
+     [0.2608] We paid 50 $ for two people and the rolls were to tiny : / bit disappointing a regular rainbow roll at .
+     [0.1625] Not worth the money .
+     [0.1591] Not worth the money !
+
+Top 5 (weakening):
+     [-0.9946] They are fresh , delicious , and service is fantastic .
+     [-0.9924] Takara 's cruchy roll is to doe for ... so much so for about a month I went every few days to get one ~ and then two.Excellent staff knew what I wanted when I walked through the door.Tocaras has become a favorite place where friends and I love to meet and catch up from our busy lives ~
+     [-0.9886] The staff is awesome too , always so friendly !
+     [-0.9865] The service and food were both good .
+     [-0.9776] Some great sushi to be had here , and the specials they have going on are amazing !
+
+**********
+[0.9723] The food was good.
+Parent: However, the food was good.
+
+Top 5 (supporting):
+     [0.9723] Food was really good .
+     [0.9418] The service and food were both good .
+     [0.7948] Hibachi - Chef was a rock star - food was good but way to salty to me .
+     [0.6100] Great new chef the hibachi was amazing !
+     [0.5653] Well prepared food cooked in front of you .
+
+Top 5 (weakening):
+     [-0.3608] Therefore , I cannot recommend this restaurant unless you don 't feel like driving far from your hotel .
+     [-0.2637] Wife 's steak was underdone .
+     [-0.2483] We paid 50 $ for two people and the rolls were to tiny : / bit disappointing a regular rainbow roll at .
+     [-0.2253] Was like rubber .
+     [-0.1624] Ridiculously bad service .

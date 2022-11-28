@@ -1,0 +1,93 @@
+Summary:
+
+Overall, reviewers thought the product was good. They liked the quality of the ingredients and the food. However, some reviewers were disappointed with the lack of choices on the menu, and others thought the food was not as good as it used to be.
+
+**********
+[0.7222] The product was good.
+Parent: Overall, reviewers thought the product was good.
+
+Top 5 (supporting):
+     [0.7222] The wonton soup is delicious and I love to pot stickers and the dipping sauce is amazing .
+     [0.6777] Loved the sushi , and my husband 's Salmon was excellent ! !
+     [0.6526] Really good food at reasonable prices .
+     [0.6113] The pad thai is incredible .
+     [0.6068] This was an excelent meal .
+
+Top 5 (weakening):
+     [-0.8915] The food was rather disappointing .
+     [-0.7618] The won ton soup wasn 't that great .. colder than I would have liked and more of a beef rather than chicken base .
+     [-0.7128] Beautiful decor , disappointing food .
+     [-0.5574] Very sad indeed .
+     [-0.4611] Got me the wrong beer and wrong sashimi dish as well .
+
+**********
+[0.7469] The quality of the ingredients was good.
+Parent: They liked the quality of the ingredients and the food.
+
+Top 5 (supporting):
+     [0.7469] A little pricier than other thai food , but worth it with the quality ingredients .
+     [0.2988] I had their interpretation of the bird 's nest and the seafood was fresh and delicious .
+     [0.1554] Loved the sushi , and my husband 's Salmon was excellent ! !
+     [0.1520] Colorful , fresh and delicious .
+     [0.1403] The food has consistently been fresh and flavorful .
+
+Top 5 (weakening):
+     [-0.5038] The worst place I have been to , bad service , unfriendly managers , found hair in two meals , and lo mein had crusty hard glass like chunks in it .. would never go back
+     [-0.2851] Got me the wrong beer and wrong sashimi dish as well .
+     [-0.1782] The food was rather disappointing .
+     [-0.1389] Very sad indeed .
+     [-0.1231] You have lost our business !
+
+**********
+[0.6506] The quality of the food was good.
+Parent: They liked the quality of the ingredients and the food.
+
+Top 5 (supporting):
+     [0.6506] The food is great but sort of expensive I recommend this restaurant for sure !
+     [0.6400] Great food and very friendly staf ... Clean and comforting ambience ... Do try their 3 Cup Chicken ! !
+     [0.6061] Food and service were excellent .
+     [0.5908] Really good food at reasonable prices .
+     [0.5632] The food has consistently been fresh and flavorful .
+
+Top 5 (weakening):
+     [-0.9880] Beautiful decor , disappointing food .
+     [-0.9797] The food was rather disappointing .
+     [-0.8185] The worst place I have been to , bad service , unfriendly managers , found hair in two meals , and lo mein had crusty hard glass like chunks in it .. would never go back
+     [-0.7006] Food and service has taken a steep dive .
+     [-0.6587] Sushi is no longer any good and food is barely above that in a mall food court .
+
+**********
+[0.4933] The reviewers were disappointed with the lack of choices on the menu.
+Parent: However, some reviewers were disappointed with the lack of choices on the menu, and others thought the food was not as good as it used to be.
+
+Top 5 (supporting):
+     [0.4933] While I generally love the food I was disappointed when the server told me there is no more egg foo young ..... guess I 'll have to start going to Cleveland or make it myself .
+     [0.0151] Beautiful decor , disappointing food .
+     [0.0084] Sushi is no longer any good and food is barely above that in a mall food court .
+     [0.0021] The food was rather disappointing .
+     [0.0003] Very disappointed .
+
+Top 5 (weakening):
+     [-0.9962] My husband and I are vegetarians , and the offerings at House of Hunan are great !
+     [-0.9958] Everything I 've ever ordered here has been absolute perfection !
+     [-0.9953] Great place for anything Asian-- sushi , sashimi , chinese you name it .
+     [-0.9949] The sushi , Thai specialities and classic Chinese restaurant style dishes are all equally good .
+     [-0.9948] Great meal for myself and 3 others .
+
+**********
+[0.6932] The food was not as good as it used to be.
+Parent: However, some reviewers were disappointed with the lack of choices on the menu, and others thought the food was not as good as it used to be.
+
+Top 5 (supporting):
+     [0.6932] Sushi is no longer any good and food is barely above that in a mall food court .
+     [0.3712] Food and service has taken a steep dive .
+     [0.1083] This used to be the best around , but no more .
+     [0.0573] I live in Columbus which has a lively food scene and I just can 't find anything that compares .
+     [0.0561] Beautiful decor , disappointing food .
+
+Top 5 (weakening):
+     [-0.9707] We hasn 't been there for a few years and the food tasted better than I ever remembered !
+     [-0.8931] Great food and very friendly staf ... Clean and comforting ambience ... Do try their 3 Cup Chicken ! !
+     [-0.8914] Great atmosphere - reasonable prices and amazing food .
+     [-0.8846] Everything they have is delicious .
+     [-0.8827] Everything I 've ever ordered here has been absolute perfection !

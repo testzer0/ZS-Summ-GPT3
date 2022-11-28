@@ -1,0 +1,129 @@
+Summary:
+
+The reviews of the product are positive, with customers praising the wide range of items available, the friendly staff, and the cheap prices. They also mention that the store offers a variety of services, including water refills, bill payment, and Western Union.
+
+**********
+[0.4443] The product is good.
+Parent: The reviews of the product are positive, with customers praising the wide range of items available, the friendly staff, and the cheap prices.
+
+Top 5 (supporting):
+     [0.4443] Great beer and wine selection .
+     [0.4144] They have It all : ) Moved into the neighborhood a month ago and from water refills , to old fashioned fuses ( guest house still uses them ) sandwiches and Spicy Dill Pickles .. Yum .. everything you can think of and the nicest Employees .. Coronado is lucky to have Sunshine Market .
+     [0.3702] They are great , they 're quicker than Fry 's or Safeway and have an amazing range of items .
+     [0.3540] This place is bananas , a total gem .
+     [0.3286] Sunshine is the best !
+
+Top 5 (weakening):
+     [-0.2201] Love this place : )
+     [-0.2188] This place is great .
+     [-0.0694] Is this real life ?
+     [-0.0062] Same owners .
+     [0.0000] ! !
+
+**********
+[0.0480] The wide range of items available is praised by customers.
+Parent: The reviews of the product are positive, with customers praising the wide range of items available, the friendly staff, and the cheap prices.
+
+Top 5 (supporting):
+     [0.0480] They are great , they 're quicker than Fry 's or Safeway and have an amazing range of items .
+     [0.0188] I no longer live in Coronado but will travel to this market at least a couple days a week because of their great beer / liquor bargains and customer service !
+     [0.0177] They have It all : ) Moved into the neighborhood a month ago and from water refills , to old fashioned fuses ( guest house still uses them ) sandwiches and Spicy Dill Pickles .. Yum .. everything you can think of and the nicest Employees .. Coronado is lucky to have Sunshine Market .
+     [0.0156] It 's my go to place in the neighborhood for everything ! !
+     [0.0107] Good amount of services .
+
+Top 5 (weakening):
+     [-0.0607] You can 't cash checks , however .
+     [-0.0437] This place is bananas , a total gem .
+     [-0.0223] Is this real life ?
+     [-0.0169] Same great prices and service .
+     [-0.0136] Pay your bills .
+
+**********
+[0.9430] The staff is friendly.
+Parent: The reviews of the product are positive, with customers praising the wide range of items available, the friendly staff, and the cheap prices.
+
+Top 5 (supporting):
+     [0.9430] Employees are very nice , they have a neighborhood feeling to it .
+     [0.8645] They have It all : ) Moved into the neighborhood a month ago and from water refills , to old fashioned fuses ( guest house still uses them ) sandwiches and Spicy Dill Pickles .. Yum .. everything you can think of and the nicest Employees .. Coronado is lucky to have Sunshine Market .
+     [0.2506] The guy at the counter is always super chill too ; best corner store in the hood !
+     [0.1705] Can 't say enough wonderful things aboutThis place The owner Salem is a gentlemen And a half Mark and Zack are great Guys too ...
+     [0.1288] After leaving the hood when it was dangerous and not gentrified and full of urban / hipsters , I came back around , glad to see the same guys working there , they even recognized me .
+
+Top 5 (weakening):
+     [-0.0350] Is this real life ?
+     [-0.0116] Pay your bills .
+     [-0.0098] Same owners .
+     [-0.0067] My brain melted when I went down the beer aisle .
+     [0.0000] ! !
+
+**********
+[0.7721] The prices were cheap.
+Parent: The reviews of the product are positive, with customers praising the wide range of items available, the friendly staff, and the cheap prices.
+
+Top 5 (supporting):
+     [0.7721] Cheap drink prices .... they really do have almost anything .
+     [0.1462] I no longer live in Coronado but will travel to this market at least a couple days a week because of their great beer / liquor bargains and customer service !
+     [0.0010] Family business .
+     [0.0000] !
+     [0.0000] ! !
+
+Top 5 (weakening):
+     [-0.9880] Decent grocery selection , albeit a tad expensive in the dry grocery items area
+     [-0.3456] Pay your bills .
+     [-0.1431] $ 3.99 6 packs and $ 7.99 12 packs of craft beer ?
+     [-0.1187] After leaving the hood when it was dangerous and not gentrified and full of urban / hipsters , I came back around , glad to see the same guys working there , they even recognized me .
+     [-0.1039] Is this real life ?
+
+**********
+[0.9240] The store offers water refills.
+Parent: They also mention that the store offers a variety of services, including water refills, bill payment, and Western Union.
+
+Top 5 (supporting):
+     [0.9240] They have It all : ) Moved into the neighborhood a month ago and from water refills , to old fashioned fuses ( guest house still uses them ) sandwiches and Spicy Dill Pickles .. Yum .. everything you can think of and the nicest Employees .. Coronado is lucky to have Sunshine Market .
+     [0.0000] !
+     [0.0000] ! !
+     [0.0000] ! !
+     [0.0000] !
+
+Top 5 (weakening):
+     [-0.2769] This place is bananas , a total gem .
+     [-0.2567] You can pay APS / SW Gas there .
+     [-0.2178] $ 3.99 6 packs and $ 7.99 12 packs of craft beer ?
+     [-0.2174] Buy a pair of pliers , shampoo , aleve and porkchops all in one place .
+     [-0.1854] My brain melted when I went down the beer aisle .
+
+**********
+[0.4304] The store offers to pay bills.
+Parent: They also mention that the store offers a variety of services, including water refills, bill payment, and Western Union.
+
+Top 5 (supporting):
+     [0.4304] You can pay APS / SW Gas there .
+     [0.1742] Pay your bills .
+     [0.0238] Do western union .
+     [0.0022] The guy at the counter is always super chill too ; best corner store in the hood !
+     [0.0000] !
+
+Top 5 (weakening):
+     [-0.7138] Buy a pair of pliers , shampoo , aleve and porkchops all in one place .
+     [-0.4538] This place is bananas , a total gem .
+     [-0.2990] They are great , they 're quicker than Fry 's or Safeway and have an amazing range of items .
+     [-0.2870] Sunshine is the best !
+     [-0.2869] They have It all : ) Moved into the neighborhood a month ago and from water refills , to old fashioned fuses ( guest house still uses them ) sandwiches and Spicy Dill Pickles .. Yum .. everything you can think of and the nicest Employees .. Coronado is lucky to have Sunshine Market .
+
+**********
+[0.6500] The store offers a service to send money.
+Parent: They also mention that the store offers a variety of services, including water refills, bill payment, and Western Union.
+
+Top 5 (supporting):
+     [0.6500] You can pay APS / SW Gas there .
+     [0.2852] Pay your bills .
+     [0.0967] Do western union .
+     [0.0000] !
+     [0.0000] ! !
+
+Top 5 (weakening):
+     [-0.6100] Buy a pair of pliers , shampoo , aleve and porkchops all in one place .
+     [-0.5463] They have a deli that cuts meat / cheese , and has pre-made burgers , sandwiches , and a tamale warmer .
+     [-0.5210] This place is bananas , a total gem .
+     [-0.5201] They also carry Bluebell Ice Cream !
+     [-0.4860] They have It all : ) Moved into the neighborhood a month ago and from water refills , to old fashioned fuses ( guest house still uses them ) sandwiches and Spicy Dill Pickles .. Yum .. everything you can think of and the nicest Employees .. Coronado is lucky to have Sunshine Market .

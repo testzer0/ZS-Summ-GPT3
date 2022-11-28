@@ -1,0 +1,165 @@
+Summary:
+
+Overall, reviewers seemed to enjoy the food and service at this Five Guys location. Compliments were given for the cleanliness of the store, the friendliness of the staff, and the quality of the food. Some reviewers noted that the portions were large, and that the burgers were especially good. One reviewer was unhappy with their order, but the staff tried to make it right.
+
+**********
+[0.8950] Reviewers enjoyed the food.
+Parent: Overall, reviewers seemed to enjoy the food and service at this Five Guys location.
+
+Top 5 (supporting):
+     [0.8950] The food is awesome ; the ladies that took our order , cooked and served us were delightful .
+     [0.8584] Love this 5 guys , always has quick service and great food .
+     [0.5103] The store was clean and the food , of course was good .
+     [0.4738] I grabbed my order to go and the burgers were delish .
+     [0.3374] Yes it 's part of a chain but the quality of the food is still excellent .
+
+Top 5 (weakening):
+     [-0.7623] I 've always enjoyed five guys and this location has been good during the day time but tonight the food wasn 't as good and definitely lacked fries as well
+     [-0.0559] I just walked right up .
+     [-0.0234] Great customer service !
+     [-0.0111] Great customer service .
+     [-0.0084] I don 't go for their other styles .
+
+**********
+[0.4481] Overall, reviewers enjoyed the service.
+Parent: Overall, reviewers seemed to enjoy the food and service at this Five Guys location.
+
+Top 5 (supporting):
+     [0.4481] Love this 5 guys , always has quick service and great food .
+     [0.3175] The restaurant is always clean and the staff is always friendly .
+     [0.2665] The food is awesome ; the ladies that took our order , cooked and served us were delightful .
+     [0.2334] Great customer service .
+     [0.1813] Great customer service !
+
+Top 5 (weakening):
+     [-0.0075] I 've always enjoyed five guys and this location has been good during the day time but tonight the food wasn 't as good and definitely lacked fries as well
+     [-0.0019] I don 't go for their other styles .
+     [0.0013] I just walked right up .
+     [0.0029] You can add all kinds of ingredients like grilled mushrooms and grilled onions .
+     [0.0030] Not a place to go if you are allergic to peanuts , they uses peanut oil for their fries as well as they have peanuts out for people to enjoy freely .
+
+**********
+[0.9794] The store was clean.
+Parent: Compliments were given for the cleanliness of the store, the friendliness of the staff, and the quality of the food.
+
+Top 5 (supporting):
+     [0.9794] The store was clean and the food , of course was good .
+     [0.8274] The restaurant is always clean and the staff is always friendly .
+     [0.1488] They kept the place clean .
+     [0.0132] Nothing fancy here , these are for people who love the simplicity of the pure , great tasting beef .
+     [0.0032] Great customer service .
+
+Top 5 (weakening):
+     [-0.5851] Not a place to go if you are allergic to peanuts , they uses peanut oil for their fries as well as they have peanuts out for people to enjoy freely .
+     [-0.2929] It definitely fills you up .
+     [-0.1511] You can add all kinds of ingredients like grilled mushrooms and grilled onions .
+     [-0.0678] I grabbed my order to go and the burgers were delish .
+     [-0.0519] Cheeseburger , fries and a cherry shake --- Yum !
+
+**********
+[0.9546] The staff was friendly.
+Parent: Compliments were given for the cleanliness of the store, the friendliness of the staff, and the quality of the food.
+
+Top 5 (supporting):
+     [0.9546] The restaurant is always clean and the staff is always friendly .
+     [0.8906] Stop by and enjoy some great burgers and friendly staff !
+     [0.6455] First time to Five Guys , friendly and fast service .
+     [0.2392] While they got my order wrong , they really tried to make it right with a smile and as quickly as possible .
+     [0.1574] The food is awesome ; the ladies that took our order , cooked and served us were delightful .
+
+Top 5 (weakening):
+     [-0.0073] I don 't go for their other styles .
+     [-0.0064] It definitely fills you up .
+     [-0.0049] Not a place to go if you are allergic to peanuts , they uses peanut oil for their fries as well as they have peanuts out for people to enjoy freely .
+     [-0.0022] I just walked right up .
+     [-0.0021] I 've always enjoyed five guys and this location has been good during the day time but tonight the food wasn 't as good and definitely lacked fries as well
+
+**********
+[0.9656] The food was good.
+Parent: Compliments were given for the cleanliness of the store, the friendliness of the staff, and the quality of the food.
+
+Top 5 (supporting):
+     [0.9656] The store was clean and the food , of course was good .
+     [0.8766] The food is awesome ; the ladies that took our order , cooked and served us were delightful .
+     [0.8692] Yes it 's part of a chain but the quality of the food is still excellent .
+     [0.8289] Love this 5 guys , always has quick service and great food .
+     [0.7010] Burger and fries were great .
+
+Top 5 (weakening):
+     [-0.8968] I 've always enjoyed five guys and this location has been good during the day time but tonight the food wasn 't as good and definitely lacked fries as well
+     [-0.0178] Great customer service !
+     [-0.0168] I don 't go for their other styles .
+     [-0.0121] I just walked right up .
+     [-0.0077] Great customer service .
+
+**********
+[0.7691] The portions were large.
+Parent: Some reviewers noted that the portions were large, and that the burgers were especially good.
+
+Top 5 (supporting):
+     [0.7691] I did not realize the food was so large .
+     [0.3258] It definitely fills you up .
+     [0.0216] About ten minutes from the Arizona Open Wheel Racing Museum .
+     [0.0119] Great burgers !
+     [0.0117] Awesome burgers .
+
+Top 5 (weakening):
+     [-0.1480] I 've always enjoyed five guys and this location has been good during the day time but tonight the food wasn 't as good and definitely lacked fries as well
+     [-0.0252] I don 't go for their other styles .
+     [-0.0015] Nothing fancy here , these are for people who love the simplicity of the pure , great tasting beef .
+     [-0.0011] Everyone was friendly and smiling and talking to you .
+     [0.0001] Not a place to go if you are allergic to peanuts , they uses peanut oil for their fries as well as they have peanuts out for people to enjoy freely .
+
+**********
+[0.2435] The burgers were especially good.
+Parent: Some reviewers noted that the portions were large, and that the burgers were especially good.
+
+Top 5 (supporting):
+     [0.2435] I grabbed my order to go and the burgers were delish .
+     [0.1975] Awesome burgers .
+     [0.1830] Great burgers !
+     [0.1074] Always a good burger .
+     [0.0673] Stop by and enjoy some great burgers and friendly staff !
+
+Top 5 (weakening):
+     [-0.8424] I 've always enjoyed five guys and this location has been good during the day time but tonight the food wasn 't as good and definitely lacked fries as well
+     [-0.4081] I love their fries - plain fries .
+     [-0.1600] I don 't go for their other styles .
+     [-0.1437] Amazing home made fries .
+     [-0.1155] Fries maybe not my favorite but it 's definitely better than in and out .
+
+**********
+[0.1115] The reviewer was unhappy with their order.
+Parent: One reviewer was unhappy with their order, but the staff tried to make it right.
+
+Top 5 (supporting):
+     [0.1115] I 've always enjoyed five guys and this location has been good during the day time but tonight the food wasn 't as good and definitely lacked fries as well
+     [0.0961] I don 't go for their other styles .
+     [-0.0508] While they got my order wrong , they really tried to make it right with a smile and as quickly as possible .
+     [-0.0637] Not a place to go if you are allergic to peanuts , they uses peanut oil for their fries as well as they have peanuts out for people to enjoy freely .
+     [-0.0830] I came on a weeknight during rush hour and this place had no line .
+
+Top 5 (weakening):
+     [-0.9887] I love their fries - plain fries .
+     [-0.9574] Love this 5 guys , always has quick service and great food .
+     [-0.9564] Burger and fries were great .
+     [-0.9226] Great burgers !
+     [-0.9217] Awesome burgers .
+
+**********
+[0.8241] The staff tried to fix it.
+Parent: One reviewer was unhappy with their order, but the staff tried to make it right.
+
+Top 5 (supporting):
+     [0.8241] While they got my order wrong , they really tried to make it right with a smile and as quickly as possible .
+     [0.0304] Great customer service !
+     [0.0183] Great customer service .
+     [-0.0070] I 've always enjoyed five guys and this location has been good during the day time but tonight the food wasn 't as good and definitely lacked fries as well
+     [-0.0224] About ten minutes from the Arizona Open Wheel Racing Museum .
+
+Top 5 (weakening):
+     [-0.6704] The food is awesome ; the ladies that took our order , cooked and served us were delightful .
+     [-0.4024] Stop by and enjoy some great burgers and friendly staff !
+     [-0.3787] Amazing home made fries .
+     [-0.3224] Cheeseburger , fries and a cherry shake --- Yum !
+     [-0.3117] The ladies working this evening were fantastic .

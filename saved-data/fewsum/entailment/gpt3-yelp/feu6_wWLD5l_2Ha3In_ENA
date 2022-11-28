@@ -1,0 +1,165 @@
+Summary:
+
+Overall, reviewers thought that the pizza was tasty, with fresh ingredients and a unique taste. They also appreciated the quick service and the friendly staff. Some reviewers noted that the location was convenient, especially for students. There were a few complaints about the employees using their phones while handling food, but overall reviewers thought that the food was great for the price.
+
+**********
+[0.9795] The pizza was tasty.
+Parent: Overall, reviewers thought that the pizza was tasty, with fresh ingredients and a unique taste.
+
+Top 5 (supporting):
+     [0.9795] Pizza was really tasty and the employees very friendly .
+     [0.9279] Quick tasty pizza ( :
+     [0.7897] Favorite place for pizza , awesome taste and toppings great songs and ambience Have the option for wheat and white bread that 's greatBuy pizza every week
+     [0.7896] Pizza was baked to perfection and crust was delicious .
+     [0.7787] Great spot to eat a yummy personalized pizza !
+
+Top 5 (weakening):
+     [-0.7148] If you go here make sure to try the ranch which they make homemade .
+     [-0.6342] The pesto my chicken is bomb and the workers are chill .
+     [-0.5913] The coomie and the garlic knots are good .
+     [-0.2593] They also have cookies that they make fresh everyday .
+     [-0.1533] Their caprese starter is also really great !
+
+**********
+[0.3793] The pizza had fresh ingredients.
+Parent: Overall, reviewers thought that the pizza was tasty, with fresh ingredients and a unique taste.
+
+Top 5 (supporting):
+     [0.3793] They have wheat dough and the fresh mozzarella is amazing .
+     [0.0995] The spicy tomato sauce they have as base is the best .
+     [0.0791] i love the way they combine natural herbs and spices with a great buttery taste .
+     [0.0556] The coomie and the garlic knots are good .
+     [0.0402] Pizza is quality thought and through .
+
+Top 5 (weakening):
+     [-0.4883] They also have cookies that they make fresh everyday .
+     [-0.0779] I bought a Groupon and want to use it , so my husband and I went there yesterday and so glad we did .
+     [-0.0740] Free wifi , if you need a quick place to get something done .
+     [-0.0729] If you go here make sure to try the ranch which they make homemade .
+     [-0.0670] I go to mypie all the time because I work in the building !
+
+**********
+[0.9818] The pizza had a unique taste.
+Parent: Overall, reviewers thought that the pizza was tasty, with fresh ingredients and a unique taste.
+
+Top 5 (supporting):
+     [0.9818] My Pie has a unique taste to it which is different than other places like Blaze Pizza .
+     [0.1960] Great spot to eat a yummy personalized pizza !
+     [0.1828] Favorite place for pizza , awesome taste and toppings great songs and ambience Have the option for wheat and white bread that 's greatBuy pizza every week
+     [0.0842] It 's fantastic personal pizza , and great Garlic Knots and meatballs as well !
+     [0.0401] Pizza was really tasty and the employees very friendly .
+
+Top 5 (weakening):
+     [-0.4324] If you go here make sure to try the ranch which they make homemade .
+     [-0.0765] The pesto my chicken is bomb and the workers are chill .
+     [-0.0745] Clean.Semi-quiet.
+     [-0.0582] Free wifi , if you need a quick place to get something done .
+     [-0.0562] They also have cookies that they make fresh everyday .
+
+**********
+[0.9136] The service was quick.
+Parent: They also appreciated the quick service and the friendly staff.
+
+Top 5 (supporting):
+     [0.9136] Nice customer service , quick , clean , and fantastic food !
+     [0.6918] The food came out fairly speedy and taste GREAT !
+     [0.5233] The food is all made in a timely matter and it is never a long wait .
+     [0.4502] Quick tasty pizza ( :
+     [0.3280] Good place to grab a quick pizza and not have to worry about a wait time .
+
+Top 5 (weakening):
+     [-0.3492] Cashier won 't tell you if happy hours are going on ( happy hours go from 3 to 6 pm ) .
+     [-0.3202] Only problem is employees use their cellphones while handling food , and touch food while handling transactions .
+     [-0.1064] The pesto my chicken is bomb and the workers are chill .
+     [-0.0915] The friendliness of employees also needs improvement .
+     [-0.0913] Clean.Semi-quiet.
+
+**********
+[0.9714] The staff was friendly.
+Parent: They also appreciated the quick service and the friendly staff.
+
+Top 5 (supporting):
+     [0.9714] Pizza was really tasty and the employees very friendly .
+     [0.9488] It was my first time walking in and I was immediately welcomed by the friendly staff : ) ) ) ) ) ) ) ) ) ) ) ) ) thanks guys ur the bestest , i was super hungry but you didnt let me starve
+     [0.9488] It was my first time walking in and I was immediately welcomed by the friendly staff : ) ) ) ) ) ) ) ) ) ) ) ) ) thanks guys ur the bestest , i was super hungry but you didnt let me starve
+     [0.5646] The staff are really cool , the ingredients are fresh and the price if you have a sun card is pretty great .
+     [0.4060] The friendliness of employees also needs improvement .
+
+Top 5 (weakening):
+     [-0.2200] Only problem is employees use their cellphones while handling food , and touch food while handling transactions .
+     [-0.1034] Cashier won 't tell you if happy hours are going on ( happy hours go from 3 to 6 pm ) .
+     [-0.0254] The pesto my chicken is bomb and the workers are chill .
+     [-0.0045] The only caveat here is that if you load up on too many toppings the top of the pizza may not brown in time with the bottom .
+     [-0.0020] Quick tasty pizza ( :
+
+**********
+[0.4246] The location was convenient.
+Parent: Some reviewers noted that the location was convenient, especially for students.
+
+Top 5 (supporting):
+     [0.4246] Good place to grab a quick pizza and not have to worry about a wait time .
+     [0.3239] Really great place for grabbing a quick bite ...
+     [0.2426] Close enough to campus to not have to drive .
+     [0.1748] Great spot to eat a yummy personalized pizza !
+     [0.1120] One of the best things is the location right on college across from ASU
+
+Top 5 (weakening):
+     [-0.0406] Only problem is employees use their cellphones while handling food , and touch food while handling transactions .
+     [-0.0111] Great service .
+     [-0.0096] The pesto my chicken is bomb and the workers are chill .
+     [-0.0065] The friendliness of employees also needs improvement .
+     [-0.0051] Made to order , student discounts , and great selection .
+
+**********
+[0.1452] The location was convenient for students.
+Parent: Some reviewers noted that the location was convenient, especially for students.
+
+Top 5 (supporting):
+     [0.1452] I always come here when I have breaks between classes cause it 's close to campus , they never disappoint .
+     [0.1410] Close enough to campus to not have to drive .
+     [0.0317] One of the best things is the location right on college across from ASU
+     [0.0245] It 's close to campus and completely affordable .
+     [0.0241] Great place for a personal pizza on the ASU campus !
+
+Top 5 (weakening):
+     [-0.0726] I go to mypie all the time because I work in the building !
+     [-0.0531] Only problem is employees use their cellphones while handling food , and touch food while handling transactions .
+     [-0.0482] The pesto my chicken is bomb and the workers are chill .
+     [-0.0257] Keep it up !
+     [-0.0211] Really great place for grabbing a quick bite ...
+
+**********
+[0.9607] The employees used their phones while handling food.
+Parent: There were a few complaints about the employees using their phones while handling food, but overall reviewers thought that the food was great for the price.
+
+Top 5 (supporting):
+     [0.9607] Only problem is employees use their cellphones while handling food , and touch food while handling transactions .
+     [0.0000] ! !
+     [0.0000] !
+     [0.0000] ! !
+     [-0.0305] I have been going to this place since a long time .
+
+Top 5 (weakening):
+     [-0.8704] Their caprese starter is also really great !
+     [-0.8184] Crispy , yummy and fresh !
+     [-0.8069] i love the way they combine natural herbs and spices with a great buttery taste .
+     [-0.7156] I had it before the ASU game and it hit the spot .
+     [-0.5756] Great crust , 2 minute cook time , and unlimited toppings .
+
+**********
+[0.9737] The food was great for the price.
+Parent: There were a few complaints about the employees using their phones while handling food, but overall reviewers thought that the food was great for the price.
+
+Top 5 (supporting):
+     [0.9737] Overall great food for the price .
+     [0.5825] The pizza and the value are amazing .
+     [0.2892] The staff are really cool , the ingredients are fresh and the price if you have a sun card is pretty great .
+     [0.0415] Overall though this is a great lunch spot and if you nab their $ 7 pizza and drink combo a relatively good deal .
+     [0.0251] It 's a small place with great food .
+
+Top 5 (weakening):
+     [-0.0371] Okay pizza for grabbing a quick bite .
+     [-0.0322] Free wifi , if you need a quick place to get something done .
+     [-0.0314] Clean.Semi-quiet.
+     [-0.0303] Great atmosphere .
+     [-0.0277] Only problem is employees use their cellphones while handling food , and touch food while handling transactions .

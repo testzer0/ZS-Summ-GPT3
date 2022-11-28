@@ -1,0 +1,75 @@
+Summary:
+
+The reviews of the product were mixed, with some people thinking it was overpriced and just okay, and others thinking it was worth the price and loved it.
+
+**********
+[0.9445] The product was overpriced.
+Parent: The reviews of the product were mixed, with some people thinking it was overpriced and just okay, and others thinking it was worth the price and loved it.
+
+Top 5 (supporting):
+     [0.9445] First off , it was very overpriced for what you got .
+     [0.8857] Very expensive for what we got a total of 3 entrees and the food wasn 't good and it wasn 't bad it was just okay .
+     [0.5715] Overpriced .
+     [0.0000] Not busy .
+     [-0.0028] Wasn 't very satisfied with the food .
+
+Top 5 (weakening):
+     [-0.4504] Very knowledgeable .
+     [-0.3124] Everything came to the table at the right temperature .
+     [-0.2894] Very nice , the bar is trendy and relaxing .
+     [-0.2759] From the hostess pleasant greeting until signing the check , total experience was very good !
+     [-0.2646] The food was very good , and there was a lot to choose from without it being overwhelming .
+
+**********
+[0.8843] The product was just okay.
+Parent: The reviews of the product were mixed, with some people thinking it was overpriced and just okay, and others thinking it was worth the price and loved it.
+
+Top 5 (supporting):
+     [0.8843] Very expensive for what we got a total of 3 entrees and the food wasn 't good and it wasn 't bad it was just okay .
+     [0.5224] It was just ok .
+     [0.2704] Wasn 't very satisfied with the food .
+     [0.1091] Loved local business and will always try but was not too impressed .
+     [0.0000] Not busy .
+
+Top 5 (weakening):
+     [-0.9972] I had the chicken bacon gouda sandwich and it was amazing ! !
+     [-0.9947] The food was super good !
+     [-0.9941] Delicious brunch .
+     [-0.9922] Prime rib perfect , all you can Mimosas , and more .
+     [-0.9909] Wife 's seafood pasta " awesome " .
+
+**********
+[0.4262] The product was worth the price.
+Parent: The reviews of the product were mixed, with some people thinking it was overpriced and just okay, and others thinking it was worth the price and loved it.
+
+Top 5 (supporting):
+     [0.4262] Price at 25 bucks is worth every dollar .
+     [0.0203] A local gem .
+     [0.0202] I had the chicken bacon gouda sandwich and it was amazing ! !
+     [0.0189] All I can say is Im full and happy !
+     [0.0188] I definitely can 't wait to go again .
+
+Top 5 (weakening):
+     [-0.8414] Wasn 't very satisfied with the food .
+     [-0.3256] It was just ok .
+     [-0.2304] Loved local business and will always try but was not too impressed .
+     [-0.1402] I don 't think the restuarant fits the description and the layout is odd .
+     [-0.1078] Overpriced .
+
+**********
+[0.5132] The product was loved.
+Parent: The reviews of the product were mixed, with some people thinking it was overpriced and just okay, and others thinking it was worth the price and loved it.
+
+Top 5 (supporting):
+     [0.5132] I had the chicken bacon gouda sandwich and it was amazing ! !
+     [0.3158] Bartender was really nice too !
+     [0.2924] The food was super good !
+     [0.1353] Delicious brunch .
+     [0.1064] Prime rib perfect , all you can Mimosas , and more .
+
+Top 5 (weakening):
+     [-0.9783] Wasn 't very satisfied with the food .
+     [-0.9672] It was just ok .
+     [-0.9506] Very expensive for what we got a total of 3 entrees and the food wasn 't good and it wasn 't bad it was just okay .
+     [-0.9378] I don 't think the restuarant fits the description and the layout is odd .
+     [-0.6132] Our server was delightful .

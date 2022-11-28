@@ -1,0 +1,169 @@
+Summary:
+
+Very good service and a variable menu .
+I don ' t think the restuarant fits the description and the layout is odd .
+Very expensive for what we got a total of 3 entrees and the food wasn ' t good and it wasn ' t bad it was just okay .
+The menu between lunch and dinner is extremely different .
+First off , it was very overpriced for what you got .
+
+**********
+[0.9626] The service was good.
+Parent: Very good service and a variable menu .
+
+Top 5 (supporting):
+     [0.9626] The service was excellent .
+     [0.8918] Very good service and a variable menu .
+     [0.8384] From the hostess pleasant greeting until signing the check , total experience was very good !
+     [0.5027] Our server was delightful .
+     [0.3932] Bartender was really nice too !
+
+Top 5 (weakening):
+     [-0.2948] It was just ok .
+     [-0.1352] I don 't think the restuarant fits the description and the layout is odd .
+     [-0.0388] Very expensive for what we got a total of 3 entrees and the food wasn 't good and it wasn 't bad it was just okay .
+     [-0.0362] Wasn 't very satisfied with the food .
+     [-0.0287] Overpriced .
+
+**********
+[0.9735] The menu was variable.
+Parent: Very good service and a variable menu .
+
+Top 5 (supporting):
+     [0.9735] Very good service and a variable menu .
+     [0.9193] The menu between lunch and dinner is extremely different .
+     [0.5223] The food was very good , and there was a lot to choose from without it being overwhelming .
+     [0.4556] My tuna very different but good .
+     [0.0544] I don 't think the restuarant fits the description and the layout is odd .
+
+Top 5 (weakening):
+     [-0.3914] Everything came to the table at the right temperature .
+     [-0.3716] Wine is short poured .
+     [-0.0810] Dylan did a great job .
+     [-0.0681] Prime rib perfect , all you can Mimosas , and more .
+     [-0.0428] Overpriced .
+
+**********
+[0.9629] I think the restaurant is odd.
+Parent: I don ' t think the restuarant fits the description and the layout is odd .
+
+Top 5 (supporting):
+     [0.9629] I don 't think the restuarant fits the description and the layout is odd .
+     [0.0196] Wasn 't very satisfied with the food .
+     [0.0000] Not busy .
+     [-0.0017] Owner just stood there with his hands in his pockets all night .
+     [-0.0058] Loved local business and will always try but was not too impressed .
+
+Top 5 (weakening):
+     [-0.9871] The food was very good , and there was a lot to choose from without it being overwhelming .
+     [-0.9863] Very nice , the bar is trendy and relaxing .
+     [-0.9847] We highly recommend this restaurant !
+     [-0.9834] The service was excellent .
+     [-0.9802] Very good service and a variable menu .
+
+**********
+[0.1649] The food was bad.
+Parent: Very expensive for what we got a total of 3 entrees and the food wasn ' t good and it wasn ' t bad it was just okay .
+
+Top 5 (supporting):
+     [0.1649] Wasn 't very satisfied with the food .
+     [0.0012] I 'll stick to another restaurant that I like closer .
+     [0.0000] Not busy .
+     [-0.0205] I don 't think the restuarant fits the description and the layout is odd .
+     [-0.0397] Owner just stood there with his hands in his pockets all night .
+
+Top 5 (weakening):
+     [-0.9979] I had the chicken bacon gouda sandwich and it was amazing ! !
+     [-0.9971] The food was super good !
+     [-0.9967] The food was very good , and there was a lot to choose from without it being overwhelming .
+     [-0.9962] Delicious brunch .
+     [-0.9962] My tuna very different but good .
+
+**********
+[0.9718] The food was good.
+Parent: Very expensive for what we got a total of 3 entrees and the food wasn ' t good and it wasn ' t bad it was just okay .
+
+Top 5 (supporting):
+     [0.9718] The food was super good !
+     [0.9648] The food was very good , and there was a lot to choose from without it being overwhelming .
+     [0.5718] Delicious brunch .
+     [0.4973] I had the chicken bacon gouda sandwich and it was amazing ! !
+     [0.3397] Prime rib perfect , all you can Mimosas , and more .
+
+Top 5 (weakening):
+     [-0.9864] Very expensive for what we got a total of 3 entrees and the food wasn 't good and it wasn 't bad it was just okay .
+     [-0.8852] Wasn 't very satisfied with the food .
+     [-0.3692] Dylan did a great job .
+     [-0.2821] Wine is short poured .
+     [-0.1557] It was just ok .
+
+**********
+[0.7573] The food was okay.
+Parent: Very expensive for what we got a total of 3 entrees and the food wasn ' t good and it wasn ' t bad it was just okay .
+
+Top 5 (supporting):
+     [0.7573] Very expensive for what we got a total of 3 entrees and the food wasn 't good and it wasn 't bad it was just okay .
+     [0.2587] I only had two appetizers the pork tacos were bomb very good and the millennium chicken that was good basic but good .
+     [0.2213] My tuna very different but good .
+     [0.0287] Everything came to the table at the right temperature .
+     [0.0255] Bartender was really nice too !
+
+Top 5 (weakening):
+     [-0.9403] I had the chicken bacon gouda sandwich and it was amazing ! !
+     [-0.9269] The food was super good !
+     [-0.8885] Delicious brunch .
+     [-0.8427] Wife 's seafood pasta " awesome " .
+     [-0.8134] The food was very good , and there was a lot to choose from without it being overwhelming .
+
+**********
+[0.9671] The lunch menu is different from the dinner menu.
+Parent: The menu between lunch and dinner is extremely different .
+
+Top 5 (supporting):
+     [0.9671] The menu between lunch and dinner is extremely different .
+     [0.0708] My tuna very different but good .
+     [0.0204] I only had two appetizers the pork tacos were bomb very good and the millennium chicken that was good basic but good .
+     [0.0100] Very good service and a variable menu .
+     [0.0047] Wife 's seafood pasta " awesome " .
+
+Top 5 (weakening):
+     [-0.5662] Wine is short poured .
+     [-0.1807] Dylan did a great job .
+     [-0.1318] Soft opening right now but expecting big things .
+     [-0.1127] Owner just stood there with his hands in his pockets all night .
+     [-0.0741] Bonus no wait !
+
+**********
+[0.9747] It was overpriced.
+Parent: First off , it was very overpriced for what you got .
+
+Top 5 (supporting):
+     [0.9747] First off , it was very overpriced for what you got .
+     [0.8776] Very expensive for what we got a total of 3 entrees and the food wasn 't good and it wasn 't bad it was just okay .
+     [0.8192] Overpriced .
+     [0.0017] Owner just stood there with his hands in his pockets all night .
+     [0.0000] Not busy .
+
+Top 5 (weakening):
+     [-0.3990] Price at 25 bucks is worth every dollar .
+     [-0.3791] Very knowledgeable .
+     [-0.3658] Bonus no wait !
+     [-0.3615] The food was very good , and there was a lot to choose from without it being overwhelming .
+     [-0.2300] Everything came to the table at the right temperature .
+
+**********
+[0.9747] It was overpriced.
+Parent: First off , it was very overpriced for what you got .
+
+Top 5 (supporting):
+     [0.9747] First off , it was very overpriced for what you got .
+     [0.8776] Very expensive for what we got a total of 3 entrees and the food wasn 't good and it wasn 't bad it was just okay .
+     [0.8192] Overpriced .
+     [0.0017] Owner just stood there with his hands in his pockets all night .
+     [0.0000] Not busy .
+
+Top 5 (weakening):
+     [-0.3990] Price at 25 bucks is worth every dollar .
+     [-0.3791] Very knowledgeable .
+     [-0.3658] Bonus no wait !
+     [-0.3615] The food was very good , and there was a lot to choose from without it being overwhelming .
+     [-0.2300] Everything came to the table at the right temperature .

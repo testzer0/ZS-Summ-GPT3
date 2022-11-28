@@ -1,0 +1,205 @@
+Summary:
+
+The reviews were mixed, with some people enjoying the course and others finding it average.
+There were some complaints about the service, but mostly people thought the course was in good shape.
+There was one complaint about a foreign guy who was apparently bothering people, but otherwise people seemed to have had a good time.
+The Yelp reviews of the product were mostly positive, with reviewers saying that the course was in good condition and that the staff were friendly and helpful.
+Some reviewers did mention that the pro shop attendant was rude, but overall the reviews were positive.
+
+**********
+[0.8661] The course was enjoyable.
+Parent: The reviews were mixed, with some people enjoying the course and others finding it average.
+
+Top 5 (supporting):
+     [0.8661] I liked this course .
+     [0.7985] Really fun course design too .
+     [0.7388] The attendant in the pro shop was a dick , but the course is good .
+     [0.2853] The Par 3 course is a great way to spend an hour and a half .
+     [0.1947] I recommend this course and will definitely be going back .
+
+Top 5 (weakening):
+     [-0.8153] Average course .
+     [-0.5717] Overall good experience but the toolbag was downer
+     [-0.0583] A fifteen minute drive from downtown Phoenix .
+     [-0.0557] The service was horrible , restaurant was not open till 7.00 am , they lost our tee time and had us play stating on the back nine .
+     [-0.0441] We tried talking to him but i think he must be really dumb and kept harassing us .
+
+**********
+[0.6268] It was average.
+Parent: The reviews were mixed, with some people enjoying the course and others finding it average.
+
+Top 5 (supporting):
+     [0.6268] Average course .
+     [-0.0817] Paid $ 11.35 for 9 holes and that included the club cart .
+     [-0.2363] $ 24 for 18 on a weekend .
+     [-0.3496] The round lasted 5 hours because we had to wait on the turn
+     [-0.5293] A fifteen minute drive from downtown Phoenix .
+
+Top 5 (weakening):
+     [-0.9947] The facilities are very nice .
+     [-0.9945] Really fun course design too .
+     [-0.9927] Guys and gals in and out to the pro shop were super .
+     [-0.9926] The course is in great shape especially for a municipal course .
+     [-0.9911] The Par 3 course is a great way to spend an hour and a half .
+
+**********
+[0.9754] The service was not good.
+Parent: There were some complaints about the service, but mostly people thought the course was in good shape.
+
+Top 5 (supporting):
+     [0.9754] The service was horrible , restaurant was not open till 7.00 am , they lost our tee time and had us play stating on the back nine .
+     [0.8003] The attendant in the pro shop was a dick , but the course is good .
+     [0.3740] Overall good experience but the toolbag was downer
+     [0.0814] We tried talking to him but i think he must be really dumb and kept harassing us .
+     [0.0201] The round lasted 5 hours because we had to wait on the turn
+
+Top 5 (weakening):
+     [-0.9677] Guys and gals in and out to the pro shop were super .
+     [-0.9513] The course is in great shape especially for a municipal course .
+     [-0.9439] I liked this course .
+     [-0.9434] Always in great condition , and is usually super affordable compared to other options in Phoenix .
+     [-0.9404] Some serious props go to the greens keeper and the grounds crew staff .
+
+**********
+[0.9725] The course was in good shape.
+Parent: There were some complaints about the service, but mostly people thought the course was in good shape.
+
+Top 5 (supporting):
+     [0.9725] Greens were nice smooth and fast , there were areas where there was no grass , course was in good shape .
+     [0.9566] Course overall in good shape with bunkers loaded with fresh new sand , but it looks like greens are being worked on so should be getting shaped up for summer play !
+     [0.9520] The course is in great shape especially for a municipal course .
+     [0.6621] The attendant in the pro shop was a dick , but the course is good .
+     [0.1635] Always in great condition , and is usually super affordable compared to other options in Phoenix .
+
+Top 5 (weakening):
+     [-0.9073] Average course .
+     [-0.6691] Overall good experience but the toolbag was downer
+     [-0.4513] The service was horrible , restaurant was not open till 7.00 am , they lost our tee time and had us play stating on the back nine .
+     [-0.3767] Great idea getting food trucks out on weekends since restaurant still isn 't open .
+     [-0.2702] We tried talking to him but i think he must be really dumb and kept harassing us .
+
+**********
+[0.2028] A foreign guy was bothering people.
+Parent: There was one complaint about a foreign guy who was apparently bothering people, but otherwise people seemed to have had a good time.
+
+Top 5 (supporting):
+     [0.2028] We tried talking to him but i think he must be really dumb and kept harassing us .
+     [0.1457] We had a great round until we came across this goofy foreign guy with a terrible goatee .
+     [0.0219] Overall good experience but the toolbag was downer
+     [0.0034] If he comes up to you just tell him to get lost .
+     [-0.0024] The round lasted 5 hours because we had to wait on the turn
+
+Top 5 (weakening):
+     [-0.5114] The person at the counter said you can go through the course as many times as you want too which was cool .
+     [-0.4617] I liked this course .
+     [-0.4159] Really fun course design too .
+     [-0.3961] Some serious props go to the greens keeper and the grounds crew staff .
+     [-0.3919] I recommend this course and will definitely be going back .
+
+**********
+[0.8984] People had a good time.
+Parent: There was one complaint about a foreign guy who was apparently bothering people, but otherwise people seemed to have had a good time.
+
+Top 5 (supporting):
+     [0.8984] We had a great round until we came across this goofy foreign guy with a terrible goatee .
+     [0.3338] Overall good experience but the toolbag was downer
+     [0.2289] Guys and gals in and out to the pro shop were super .
+     [0.0530] The 9 hole was a good great for me since I 'm a beginner .
+     [0.0526] Really fun course design too .
+
+Top 5 (weakening):
+     [-0.1388] We tried talking to him but i think he must be really dumb and kept harassing us .
+     [-0.1243] Don 't go to Burger King afterwards .
+     [-0.0550] The service was horrible , restaurant was not open till 7.00 am , they lost our tee time and had us play stating on the back nine .
+     [-0.0303] Average course .
+     [-0.0104] Greens were punched early June , and I honestly could not tell .
+
+**********
+[0.0055] Yelp reviews of the product were positive.
+Parent: The Yelp reviews of the product were mostly positive, with reviewers saying that the course was in good condition and that the staff were friendly and helpful.
+
+Top 5 (supporting):
+     [0.0055] Greens were nice smooth and fast , there were areas where there was no grass , course was in good shape .
+     [0.0051] Greens were good .
+     [0.0028] If I lived closer , I would play here more often .
+     [0.0022] The attendant in the pro shop was a dick , but the course is good .
+     [0.0021] I liked this course .
+
+Top 5 (weakening):
+     [-0.6661] Overall good experience but the toolbag was downer
+     [-0.0371] The service was horrible , restaurant was not open till 7.00 am , they lost our tee time and had us play stating on the back nine .
+     [-0.0313] Don 't go to Burger King afterwards .
+     [-0.0188] Booking is back on GolfNow !
+     [-0.0121] We tried talking to him but i think he must be really dumb and kept harassing us .
+
+**********
+[0.9750] The course was in good condition.
+Parent: The Yelp reviews of the product were mostly positive, with reviewers saying that the course was in good condition and that the staff were friendly and helpful.
+
+Top 5 (supporting):
+     [0.9750] Greens were nice smooth and fast , there were areas where there was no grass , course was in good shape .
+     [0.9620] The course is in great shape especially for a municipal course .
+     [0.9495] Course overall in good shape with bunkers loaded with fresh new sand , but it looks like greens are being worked on so should be getting shaped up for summer play !
+     [0.1968] Always in great condition , and is usually super affordable compared to other options in Phoenix .
+     [0.1342] The attendant in the pro shop was a dick , but the course is good .
+
+Top 5 (weakening):
+     [-0.7590] Average course .
+     [-0.6430] Overall good experience but the toolbag was downer
+     [-0.4829] Great idea getting food trucks out on weekends since restaurant still isn 't open .
+     [-0.4635] The service was horrible , restaurant was not open till 7.00 am , they lost our tee time and had us play stating on the back nine .
+     [-0.3705] We tried talking to him but i think he must be really dumb and kept harassing us .
+
+**********
+[0.0744] The staff were friendly and helpful.
+Parent: The Yelp reviews of the product were mostly positive, with reviewers saying that the course was in good condition and that the staff were friendly and helpful.
+
+Top 5 (supporting):
+     [0.0744] Guys and gals in and out to the pro shop were super .
+     [0.0452] The person at the counter said you can go through the course as many times as you want too which was cool .
+     [0.0129] They put some hard work in keeping quite nice .
+     [0.0091] Some serious props go to the greens keeper and the grounds crew staff .
+     [0.0087] I recommend this course and will definitely be going back .
+
+Top 5 (weakening):
+     [-0.9843] The attendant in the pro shop was a dick , but the course is good .
+     [-0.9834] The service was horrible , restaurant was not open till 7.00 am , they lost our tee time and had us play stating on the back nine .
+     [-0.8912] We tried talking to him but i think he must be really dumb and kept harassing us .
+     [-0.4187] Don 't go to Burger King afterwards .
+     [-0.1362] If he comes up to you just tell him to get lost .
+
+**********
+[0.8289] The pro shop attendant was rude.
+Parent: Some reviewers did mention that the pro shop attendant was rude, but overall the reviews were positive.
+
+Top 5 (supporting):
+     [0.8289] The attendant in the pro shop was a dick , but the course is good .
+     [0.0205] We tried talking to him but i think he must be really dumb and kept harassing us .
+     [0.0004] The service was horrible , restaurant was not open till 7.00 am , they lost our tee time and had us play stating on the back nine .
+     [-0.0140] If he comes up to you just tell him to get lost .
+     [-0.0165] Paid $ 11.35 for 9 holes and that included the club cart .
+
+Top 5 (weakening):
+     [-0.9668] The person at the counter said you can go through the course as many times as you want too which was cool .
+     [-0.9653] Guys and gals in and out to the pro shop were super .
+     [-0.6337] They put some hard work in keeping quite nice .
+     [-0.5393] Some serious props go to the greens keeper and the grounds crew staff .
+     [-0.5241] The facilities are very nice .
+
+**********
+[0.1459] The reviews were positive.
+Parent: Some reviewers did mention that the pro shop attendant was rude, but overall the reviews were positive.
+
+Top 5 (supporting):
+     [0.1459] Course overall in good shape with bunkers loaded with fresh new sand , but it looks like greens are being worked on so should be getting shaped up for summer play !
+     [0.1280] Greens were nice smooth and fast , there were areas where there was no grass , course was in good shape .
+     [0.1205] Guys and gals in and out to the pro shop were super .
+     [0.0974] The course is in great shape especially for a municipal course .
+     [0.0876] Some serious props go to the greens keeper and the grounds crew staff .
+
+Top 5 (weakening):
+     [-0.9417] The service was horrible , restaurant was not open till 7.00 am , they lost our tee time and had us play stating on the back nine .
+     [-0.8817] We tried talking to him but i think he must be really dumb and kept harassing us .
+     [-0.8169] Overall good experience but the toolbag was downer
+     [-0.8036] Don 't go to Burger King afterwards .
+     [-0.6345] Average course .

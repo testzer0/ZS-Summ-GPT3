@@ -1,0 +1,230 @@
+Summary:
+
+A little pricey for pub food .
+The bar area is hoping in the evenings.Aside from that , the service is usually prompt and efficient .
+Good food .
+The food is whatever , but it is not a bad place to stop off for drinks ... they have some of the best bloody mary 's in the valley ...
+Earl 's is like a booty call - always available for a good time but there 's not much beneath the surface.Go here for HH drinks , go elsewhere to eat .
+
+**********
+[0.8046] The food is pricey.
+Parent: A little pricey for pub food .
+
+Top 5 (supporting):
+     [0.8046] A little pricey for pub food .
+     [0.7195] I only ate here once but it was expensive and unremarkable .
+     [0.0019] I would rather grab a burger at In-and-Out .
+     [0.0007] Earl 's I have eaten at on several different occasions .
+     [0.0007] Would definitely return , though .
+
+Top 5 (weakening):
+     [-0.4707] The food is whatever , but it is not a bad place to stop off for drinks ... they have some of the best bloody mary 's in the valley ...
+     [-0.2769] Business CLOSED !
+     [-0.1583] No wifi is a bummer .
+     [-0.0712] Generic American food .
+     [-0.0520] Shut down within the last two weeks , per the folks at Discount Tire next store .
+
+**********
+[0.1672] The food is not for pub.
+Parent: A little pricey for pub food .
+
+Top 5 (supporting):
+     [0.1672] Earl 's is like a booty call - always available for a good time but there 's not much beneath the surface.Go here for HH drinks , go elsewhere to eat .
+     [0.0558] I only ate here once but it was expensive and unremarkable .
+     [0.0082] -I will never go back , ever !
+     [0.0000] ! !
+     [0.0000] ! !
+
+Top 5 (weakening):
+     [-0.9372] Ate in the bar .
+     [-0.9078] Went great with a cold beer on a hot afternoon .
+     [-0.7315] A little pricey for pub food .
+     [-0.7020] They have floor managers who check up on you often.All around okay and the food is more than decent .
+     [-0.6682] Good food .
+
+**********
+[0.7331] The bar area is very busy in the evenings.
+Parent: The bar area is hoping in the evenings.Aside from that , the service is usually prompt and efficient .
+
+Top 5 (supporting):
+     [0.7331] The bar area is hoping in the evenings.Aside from that , the service is usually prompt and efficient .
+     [0.0029] Full bar and OK draft beer selection .
+     [0.0000] Good food .
+     [0.0000] Ate in the bar .
+     [0.0000] ! !
+
+Top 5 (weakening):
+     [-0.6904] My husband and I went here after a movie out ( we had a babysitter for our two kids ) .... we were there around 9 and the kids who worked there seemed it was there right since it wasn 't busy to play .... it was terrible ... the help was ... our server sucked big time.food was o.k.
+     [-0.3771] The lunch crowd is loud and noisy .
+     [-0.3452] Business CLOSED !
+     [-0.2240] -I will never go back , ever !
+     [-0.1207] Shut down within the last two weeks , per the folks at Discount Tire next store .
+
+**********
+[0.9154] Service is prompt and efficient.
+Parent: The bar area is hoping in the evenings.Aside from that , the service is usually prompt and efficient .
+
+Top 5 (supporting):
+     [0.9154] The bar area is hoping in the evenings.Aside from that , the service is usually prompt and efficient .
+     [0.0974] They have floor managers who check up on you often.All around okay and the food is more than decent .
+     [0.0137] Went great with a cold beer on a hot afternoon .
+     [0.0116] Full bar and OK draft beer selection .
+     [0.0093] Pretty good american fare with asian and southwest influence .
+
+Top 5 (weakening):
+     [-0.9942] My husband and I went here after a movie out ( we had a babysitter for our two kids ) .... we were there around 9 and the kids who worked there seemed it was there right since it wasn 't busy to play .... it was terrible ... the help was ... our server sucked big time.food was o.k.
+     [-0.9629] Business CLOSED !
+     [-0.9580] Shut down within the last two weeks , per the folks at Discount Tire next store .
+     [-0.9558] No wifi is a bummer .
+     [-0.9388] -I will never go back , ever !
+
+**********
+[0.8711] This food is good.
+Parent: Good food .
+
+Top 5 (supporting):
+     [0.8711] They have floor managers who check up on you often.All around okay and the food is more than decent .
+     [0.7698] Good food .
+     [0.3225] Pretty good american fare with asian and southwest influence .
+     [0.1808] I had the shrimp tacos which were fantastic .
+     [0.1391] Both were tasty
+
+Top 5 (weakening):
+     [-0.9295] I only ate here once but it was expensive and unremarkable .
+     [-0.7066] No wifi is a bummer .
+     [-0.6906] Earl 's is like a booty call - always available for a good time but there 's not much beneath the surface.Go here for HH drinks , go elsewhere to eat .
+     [-0.6725] My husband and I went here after a movie out ( we had a babysitter for our two kids ) .... we were there around 9 and the kids who worked there seemed it was there right since it wasn 't busy to play .... it was terrible ... the help was ... our server sucked big time.food was o.k.
+     [-0.6318] Shut down within the last two weeks , per the folks at Discount Tire next store .
+
+**********
+[0.2857] The food is not good.
+Parent: The food is whatever , but it is not a bad place to stop off for drinks ... they have some of the best bloody mary 's in the valley ...
+Earl 's is like a booty call - always available for a good time but there 's not much beneath the surface.Go here for HH drinks , go elsewhere to eat .
+
+Top 5 (supporting):
+     [0.2857] I only ate here once but it was expensive and unremarkable .
+     [0.1450] The food is whatever , but it is not a bad place to stop off for drinks ... they have some of the best bloody mary 's in the valley ...
+     [0.0399] Earl 's is like a booty call - always available for a good time but there 's not much beneath the surface.Go here for HH drinks , go elsewhere to eat .
+     [0.0155] Generic American food .
+     [0.0057] -I will never go back , ever !
+
+Top 5 (weakening):
+     [-0.9951] I had the shrimp tacos which were fantastic .
+     [-0.9930] Good food .
+     [-0.9868] They have floor managers who check up on you often.All around okay and the food is more than decent .
+     [-0.9860] I particularly liked the double fried spareribs appetizer .
+     [-0.9858] Both were tasty
+
+**********
+[0.9726] The food is a good place to stop off for drinks.
+Parent: The food is whatever , but it is not a bad place to stop off for drinks ... they have some of the best bloody mary 's in the valley ...
+Earl 's is like a booty call - always available for a good time but there 's not much beneath the surface.Go here for HH drinks , go elsewhere to eat .
+
+Top 5 (supporting):
+     [0.9726] The food is whatever , but it is not a bad place to stop off for drinks ... they have some of the best bloody mary 's in the valley ...
+     [0.5739] Earl 's is like a booty call - always available for a good time but there 's not much beneath the surface.Go here for HH drinks , go elsewhere to eat .
+     [0.1084] Ate in the bar .
+     [0.0480] The bar area is hoping in the evenings.Aside from that , the service is usually prompt and efficient .
+     [0.0425] Went great with a cold beer on a hot afternoon .
+
+Top 5 (weakening):
+     [-0.4617] -I will never go back , ever !
+     [-0.3357] Business CLOSED !
+     [-0.1514] No wifi is a bummer .
+     [-0.1290] Shut down within the last two weeks , per the folks at Discount Tire next store .
+     [-0.0802] My husband and I went here after a movie out ( we had a babysitter for our two kids ) .... we were there around 9 and the kids who worked there seemed it was there right since it wasn 't busy to play .... it was terrible ... the help was ... our server sucked big time.food was o.k.
+
+**********
+[0.9362] They have the best bloody mary's in the valley.
+Parent: The food is whatever , but it is not a bad place to stop off for drinks ... they have some of the best bloody mary 's in the valley ...
+Earl 's is like a booty call - always available for a good time but there 's not much beneath the surface.Go here for HH drinks , go elsewhere to eat .
+
+Top 5 (supporting):
+     [0.9362] The food is whatever , but it is not a bad place to stop off for drinks ... they have some of the best bloody mary 's in the valley ...
+     [0.0000] ! !
+     [0.0000] ! !
+     [-0.0086] Ate in the bar .
+     [-0.0091] Good food .
+
+Top 5 (weakening):
+     [-0.9130] I had the shrimp tacos which were fantastic .
+     [-0.8545] -I will never go back , ever !
+     [-0.8206] Business CLOSED !
+     [-0.6289] Shut down within the last two weeks , per the folks at Discount Tire next store .
+     [-0.5478] No wifi is a bummer .
+
+**********
+[0.9553] Earl's is always available for a good time.
+Parent: The food is whatever , but it is not a bad place to stop off for drinks ... they have some of the best bloody mary 's in the valley ...
+Earl 's is like a booty call - always available for a good time but there 's not much beneath the surface.Go here for HH drinks , go elsewhere to eat .
+
+Top 5 (supporting):
+     [0.9553] Earl 's is like a booty call - always available for a good time but there 's not much beneath the surface.Go here for HH drinks , go elsewhere to eat .
+     [0.0047] They have floor managers who check up on you often.All around okay and the food is more than decent .
+     [0.0046] Good food .
+     [0.0025] Pretty good american fare with asian and southwest influence .
+     [0.0020] Full bar and OK draft beer selection .
+
+Top 5 (weakening):
+     [-0.9471] Business CLOSED !
+     [-0.9384] Shut down within the last two weeks , per the folks at Discount Tire next store .
+     [-0.9240] JULY 29 , 2011 = = noticed the restaurant 's sign is gone -- definitely should call before trying to arrange a gathering here !
+     [-0.8205] No wifi is a bummer .
+     [-0.8109] -I will never go back , ever !
+
+**********
+[0.9572] There is not much depth to it.
+Parent: The food is whatever , but it is not a bad place to stop off for drinks ... they have some of the best bloody mary 's in the valley ...
+Earl 's is like a booty call - always available for a good time but there 's not much beneath the surface.Go here for HH drinks , go elsewhere to eat .
+
+Top 5 (supporting):
+     [0.9572] Earl 's is like a booty call - always available for a good time but there 's not much beneath the surface.Go here for HH drinks , go elsewhere to eat .
+     [0.3932] I only ate here once but it was expensive and unremarkable .
+     [0.1556] Generic American food .
+     [0.0070] -I will never go back , ever !
+     [0.0000] ! !
+
+Top 5 (weakening):
+     [-0.9456] I had the shrimp tacos which were fantastic .
+     [-0.9224] I particularly liked the double fried spareribs appetizer .
+     [-0.9066] Pretty good american fare with asian and southwest influence .
+     [-0.8760] Went great with a cold beer on a hot afternoon .
+     [-0.8656] Both were tasty
+
+**********
+[0.9406] HH drinks are available here.
+Parent: The food is whatever , but it is not a bad place to stop off for drinks ... they have some of the best bloody mary 's in the valley ...
+Earl 's is like a booty call - always available for a good time but there 's not much beneath the surface.Go here for HH drinks , go elsewhere to eat .
+
+Top 5 (supporting):
+     [0.9406] Earl 's is like a booty call - always available for a good time but there 's not much beneath the surface.Go here for HH drinks , go elsewhere to eat .
+     [0.8447] The food is whatever , but it is not a bad place to stop off for drinks ... they have some of the best bloody mary 's in the valley ...
+     [0.6590] Full bar and OK draft beer selection .
+     [0.2892] The bar area is hoping in the evenings.Aside from that , the service is usually prompt and efficient .
+     [0.1751] Went great with a cold beer on a hot afternoon .
+
+Top 5 (weakening):
+     [-0.6425] Business CLOSED !
+     [-0.5970] No wifi is a bummer .
+     [-0.4675] -I will never go back , ever !
+     [-0.4158] Shut down within the last two weeks , per the folks at Discount Tire next store .
+     [-0.3441] Generic American food .
+
+**********
+[0.9015] Do not eat here.
+Parent: The food is whatever , but it is not a bad place to stop off for drinks ... they have some of the best bloody mary 's in the valley ...
+Earl 's is like a booty call - always available for a good time but there 's not much beneath the surface.Go here for HH drinks , go elsewhere to eat .
+
+Top 5 (supporting):
+     [0.9015] Earl 's is like a booty call - always available for a good time but there 's not much beneath the surface.Go here for HH drinks , go elsewhere to eat .
+     [0.2300] -I will never go back , ever !
+     [0.0564] JULY 29 , 2011 = = noticed the restaurant 's sign is gone -- definitely should call before trying to arrange a gathering here !
+     [0.0000] ! !
+     [0.0000] ! !
+
+Top 5 (weakening):
+     [-0.9948] I had the shrimp tacos which were fantastic .
+     [-0.9947] I particularly liked the double fried spareribs appetizer .
+     [-0.9942] They have floor managers who check up on you often.All around okay and the food is more than decent .
+     [-0.9936] Good food .
+     [-0.9935] Ate in the bar .

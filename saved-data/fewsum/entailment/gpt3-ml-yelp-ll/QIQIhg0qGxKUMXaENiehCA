@@ -1,0 +1,147 @@
+Summary:
+
+The reviewers seem to enjoy the food at Sonny's, especially the burgers and fries. They appreciate that it is a family-owned business that has been around for many years, and they find the food to be fresh and of good quality. Some reviewers mention that the service can be slow, but they feel that the food is worth the wait.
+
+**********
+[0.4232] The reviewers enjoyed the food at Sonny's.
+Parent: The reviewers seem to enjoy the food at Sonny's, especially the burgers and fries.
+
+Top 5 (supporting):
+     [0.4232] I love the Big Ben burger here and would recommend this place to anyone !
+     [0.3778] Friendly staff with great food .
+     [0.2114] It is hard for me to get past their Cheesburger with mustard , chili and onions .
+     [0.2013] I have not had anything bad from this place , although it 's hard to order anything other than the Cheeseburger and fries .
+     [0.1648] Love the burgers and home cut fries !
+
+Top 5 (weakening):
+     [-0.6761] The store is less than appealing .
+     [-0.0412] A Rock Hill landmark .
+     [-0.0053] It may be a little homely inside , but I like it !
+     [-0.0002] It feels very family run .
+     [0.0000] ! !
+
+**********
+[0.6587] The reviewers enjoyed the burgers and fries at Sonny's.
+Parent: The reviewers seem to enjoy the food at Sonny's, especially the burgers and fries.
+
+Top 5 (supporting):
+     [0.6587] I have not had anything bad from this place , although it 's hard to order anything other than the Cheeseburger and fries .
+     [0.2590] Best Burger and fries in town ! !
+     [0.2398] No where can you find a better hotdog , fries compliment either chili dog or Carolina hamburger .
+     [0.2268] Love the burgers and home cut fries !
+     [0.0210] It is hard for me to get past their Cheesburger with mustard , chili and onions .
+
+Top 5 (weakening):
+     [-0.5213] The store is less than appealing .
+     [-0.2857] Great chili !
+     [-0.0810] Get the home fries and a bottle of Cheerwine and you can die happy .
+     [-0.0626] A Rock Hill landmark .
+     [-0.0135] It 's my 3rd favorite in Rock Hill behind Legal Remedy and Flipside .
+
+**********
+[0.7275] It is a family business.
+Parent: They appreciate that it is a family-owned business that has been around for many years, and they find the food to be fresh and of good quality.
+
+Top 5 (supporting):
+     [0.7275] This place is family owned and has been for over 50 years .
+     [0.6359] It feels very family run .
+     [0.0177] My grandfather introduced me to Sonnys and now my kids go there .. Hard to find these kind of places anymore .. Love love love it !
+     [0.0130] Their down home feel is great .
+     [0.0069] No where can you find a better hotdog , fries compliment either chili dog or Carolina hamburger .
+
+Top 5 (weakening):
+     [-0.8959] A Rock Hill landmark .
+     [-0.3297] Loved this place .
+     [-0.2486] It is clean and the people are friendly .
+     [-0.2187] I love this place .
+     [-0.0771] I 've been coming here for years .
+
+**********
+[0.2802] It is a old thing.
+Parent: They appreciate that it is a family-owned business that has been around for many years, and they find the food to be fresh and of good quality.
+
+Top 5 (supporting):
+     [0.2802] This place is family owned and has been for over 50 years .
+     [0.1027] I 've been coming here for years .
+     [0.0637] A Rock Hill landmark .
+     [0.0021] It feels very family run .
+     [0.0000] !
+
+Top 5 (weakening):
+     [-0.8600] The fresh hand cut fries are my favorite .
+     [-0.8492] Awesome fresh food !
+     [-0.7223] No where can you find a better hotdog , fries compliment either chili dog or Carolina hamburger .
+     [-0.0573] They even us the local delivery service which make it even better .
+     [-0.0474] It is clean and the people are friendly .
+
+**********
+[0.9230] The food is fresh.
+Parent: They appreciate that it is a family-owned business that has been around for many years, and they find the food to be fresh and of good quality.
+
+Top 5 (supporting):
+     [0.9230] Awesome fresh food !
+     [0.7210] The fresh hand cut fries are my favorite .
+     [0.0840] Love the burgers and home cut fries !
+     [0.0401] Get the home fries and a bottle of Cheerwine and you can die happy .
+     [0.0255] Great chili !
+
+Top 5 (weakening):
+     [-0.4021] The store is less than appealing .
+     [-0.2265] A Rock Hill landmark .
+     [-0.1474] Food takes a bit long , though , in my opinion .
+     [-0.0022] Good Prices .
+     [-0.0021] It may be a little homely inside , but I like it !
+
+**********
+[0.4852] The food is of good quality.
+Parent: They appreciate that it is a family-owned business that has been around for many years, and they find the food to be fresh and of good quality.
+
+Top 5 (supporting):
+     [0.4852] Friendly staff with great food .
+     [0.3760] Awesome fresh food !
+     [0.3650] The burger is really good .
+     [0.2757] Best Burger and fries in town ! !
+     [0.2151] No where can you find a better hotdog , fries compliment either chili dog or Carolina hamburger .
+
+Top 5 (weakening):
+     [-0.3477] The store is less than appealing .
+     [-0.0484] A Rock Hill landmark .
+     [0.0000] ! !
+     [0.0000] ! !
+     [0.0000] !
+
+**********
+[0.2632] The service can be slow.
+Parent: Some reviewers mention that the service can be slow, but they feel that the food is worth the wait.
+
+Top 5 (supporting):
+     [0.2632] Only complaint is it takes a little long to get your food but well worth the wait !
+     [0.0952] I have not had anything bad from this place , although it 's hard to order anything other than the Cheeseburger and fries .
+     [0.0073] The store is less than appealing .
+     [0.0070] It feels very family run .
+     [0.0011] This place is family owned and has been for over 50 years .
+
+Top 5 (weakening):
+     [-0.2471] Food takes a bit long , though , in my opinion .
+     [-0.0703] No where can you find a better hotdog , fries compliment either chili dog or Carolina hamburger .
+     [-0.0685] Friendly staff with great food .
+     [-0.0407] Service is friendly and portions are plenty .
+     [-0.0381] It is clean and the people are friendly .
+
+**********
+[0.6869] The food is worth the wait.
+Parent: Some reviewers mention that the service can be slow, but they feel that the food is worth the wait.
+
+Top 5 (supporting):
+     [0.6869] Only complaint is it takes a little long to get your food but well worth the wait !
+     [0.0697] Get the home fries and a bottle of Cheerwine and you can die happy .
+     [0.0328] Awesome fresh food !
+     [0.0204] No where can you find a better hotdog , fries compliment either chili dog or Carolina hamburger .
+     [0.0190] I love the Big Ben burger here and would recommend this place to anyone !
+
+Top 5 (weakening):
+     [-0.5337] The store is less than appealing .
+     [-0.1161] A Rock Hill landmark .
+     [-0.0130] Their down home feel is great .
+     [-0.0126] Food takes a bit long , though , in my opinion .
+     [-0.0107] Good Prices .

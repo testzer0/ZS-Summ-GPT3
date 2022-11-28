@@ -1,0 +1,205 @@
+Summary:
+
+It was absolutely delicious , tasty and filling !
+I live in an area full of your typical everyday fast food chains and its truly a breathe of fresh air when I have Sabor to eat at .
+The service is friendly , and the chicken arepa is ridiculously good .
+They even have margaritas , Mexican soda and a great beer selection .
+$ 1 taco Tuesday has become a weekly tradition .
+
+**********
+[0.9676] It was delicious.
+Parent: It was absolutely delicious , tasty and filling !
+
+Top 5 (supporting):
+     [0.9676] It was absolutely delicious , tasty and filling !
+     [0.8469] So delicious !
+     [0.8469] So delicious !
+     [0.8469] So delicious !
+     [0.8064] Both were extremely delicious and satisfying.I will definitely be back , and you should all give it a try ! !
+
+Top 5 (weakening):
+     [-0.9937] The food wasn 't absolutely terrible but nowhere near good enough for a repeat visit .
+     [-0.9780] The empanada was good , but not excellent .
+     [-0.9677] Doesn 't look like much from outside and when you step inside it doesn 't exactly scream " you 'll love it here ! "
+     [-0.9648] These are unusable .
+     [-0.9363] The only bad thing was the cold front Mother Nature sent through on the night we visited .
+
+**********
+[0.9381] It was tasty.
+Parent: It was absolutely delicious , tasty and filling !
+
+Top 5 (supporting):
+     [0.9381] It was absolutely delicious , tasty and filling !
+     [0.9157] So delicious !
+     [0.9157] So delicious !
+     [0.9157] So delicious !
+     [0.9000] Overall amazing , delicious experience !
+
+Top 5 (weakening):
+     [-0.8944] These are unusable .
+     [-0.7761] The only bad thing was the cold front Mother Nature sent through on the night we visited .
+     [-0.7237] In addition the place was dirty .
+     [-0.6835] Ordered a burrito must of had a miss communication got a bowl no biggie food was a little bland there was plenty of it though
+     [-0.6525] # sabor # yelp
+
+**********
+[0.9707] It was filling.
+Parent: It was absolutely delicious , tasty and filling !
+
+Top 5 (supporting):
+     [0.9707] It was absolutely delicious , tasty and filling !
+     [0.8244] We went to the hawthorne location but it was way to loud and busy .
+     [0.6525] Food was excellent and the portions were more than generous ! !
+     [0.6454] Satisfies our picky eaters too .
+     [0.4037] Both were extremely delicious and satisfying.I will definitely be back , and you should all give it a try ! !
+
+Top 5 (weakening):
+     [-0.9915] Tasted good but did not sit well in my stomach .
+     [-0.8692] Chicken was quite dry and bland but with the salsa went down easy .
+     [-0.8447] Doesn 't look like much from outside and when you step inside it doesn 't exactly scream " you 'll love it here ! "
+     [-0.8160] They could definitely use more seating or just a bigger place .
+     [-0.7953] These are unusable .
+
+**********
+[0.9876] There are a lot of fast food chains where I live.
+Parent: I live in an area full of your typical everyday fast food chains and its truly a breathe of fresh air when I have Sabor to eat at .
+
+Top 5 (supporting):
+     [0.9876] I live in an area full of your typical everyday fast food chains and its truly a breathe of fresh air when I have Sabor to eat at .
+     [0.0001] The food is delicious .
+     [0.0000] !
+     [0.0000] !
+     [0.0000] Go NOW !
+
+Top 5 (weakening):
+     [-0.9252] I wish they had a chain closer to my house .
+     [-0.9252] I wish they had a chain closer to my house .
+     [-0.9000] Excellent food , fresh , hand made and a great variety of a la carte items .
+     [-0.7987] Great menu items fresh , tasty and healthy .
+     [-0.7501] The food is always fresh and amazing .
+
+**********
+[0.9311] Sabor is a breath of fresh air.
+Parent: I live in an area full of your typical everyday fast food chains and its truly a breathe of fresh air when I have Sabor to eat at .
+
+Top 5 (supporting):
+     [0.9311] I live in an area full of your typical everyday fast food chains and its truly a breathe of fresh air when I have Sabor to eat at .
+     [0.4279] Mexican Corn- Amazing fresh taste ! !
+     [0.3784] The portions are huge , and super fresh ingredients .
+     [0.2938] It 's a good change of venue in a place we need it most .
+     [0.2415] Love the salsa selection and seasoned chips make for a welcome change from the standard taqueria fare .
+
+Top 5 (weakening):
+     [-0.8819] In addition the place was dirty .
+     [-0.8275] Doesn 't look like much from outside and when you step inside it doesn 't exactly scream " you 'll love it here ! "
+     [-0.8240] We went to the hawthorne location but it was way to loud and busy .
+     [-0.8148] Food is pretty good for a chain restaurant but be prepared to spend a lot of $ $ for little amount of food they up charge you for every thing and the size of the side are absurdly ridiculous !
+     [-0.8135] Not bad but the quality seems to be slipping from our initial visits .
+
+**********
+[0.9533] The service is good.
+Parent: The service is friendly , and the chicken arepa is ridiculously good .
+
+Top 5 (supporting):
+     [0.9533] Service is great , staff is friendly , and the nachos are amazing .
+     [0.9102] Service was great and friendly .
+     [0.8853] The service is also outstanding .
+     [0.8628] Superior service , fast , clean , fresh food , salsa buffet , and the cherry on top : queso ! !
+     [0.8319] The service is friendly , and the chicken arepa is ridiculously good .
+
+Top 5 (weakening):
+     [-0.6888] These are unusable .
+     [-0.2536] In addition the place was dirty .
+     [-0.1830] For a fast food , really ?
+     [-0.0957] First time here , had our first experience in noda , which was perfect and on point.This location serves waaaaaaaay less quality mexican foods compares t their noda location.I hate their flip screen POS that pretty forces ( default at ) service fees of 20 % .
+     [-0.0614] Not bad but the quality seems to be slipping from our initial visits .
+
+**********
+[0.9582] The chicken arepa is good.
+Parent: The service is friendly , and the chicken arepa is ridiculously good .
+
+Top 5 (supporting):
+     [0.9582] The service is friendly , and the chicken arepa is ridiculously good .
+     [0.5510] I got the shredded chicken quesadilla and a order of carne asada fries ; both was really good .
+     [0.3737] My favorite though , is the empanadas and quinoa avocado bowl with chicken .
+     [0.3224] My favorite dish is the Supreme Nachos with grilled chicken and black beans .
+     [0.2821] Awesome $ 1 taco tuesdays , love the chicken quesadillas , love love love , come here at least once a week !
+
+Top 5 (weakening):
+     [-0.9261] Cheese Arepa- incredible ! !
+     [-0.9097] My favorite was the empanadas filled with ground beef and cheese .
+     [-0.8992] Love the corn tortilla tacos .
+     [-0.8510] Mexican Corn- Amazing fresh taste ! !
+     [-0.8443] Our favorite is the nachos with steak .
+
+**********
+[0.9830] They have margaritas.
+Parent: They even have margaritas , Mexican soda and a great beer selection .
+
+Top 5 (supporting):
+     [0.9830] The margaritas are also fantastic .
+     [0.9799] Their handmade margaritas are also spectacular !
+     [0.9797] They even have margaritas , Mexican soda and a great beer selection .
+     [0.9508] Pattrick took our order and made us a couple margaritas that hit the spot !
+     [0.9351] Good beer selection and $ 4 margaritas when we were there tonight ! !
+
+Top 5 (weakening):
+     [-0.9769] awesomw tacos.
+     [-0.9725] Great nachos that consume an entire pizza pan .
+     [-0.9597] Weird but true .. they have great tea , it is usually an indicator for me .
+     [-0.9586] What you expect in real corn tortilla tacos .
+     [-0.9576] Huge nachos !
+
+**********
+[0.9565] They have soda.
+Parent: They even have margaritas , Mexican soda and a great beer selection .
+
+Top 5 (supporting):
+     [0.9565] They even have margaritas , Mexican soda and a great beer selection .
+     [0.0000] !
+     [0.0000] !
+     [0.0000] Go NOW !
+     [0.0000] !
+
+Top 5 (weakening):
+     [-0.9053] Variety of sauces was a great adventure in flavor .
+     [-0.8987] Weird but true .. they have great tea , it is usually an indicator for me .
+     [-0.8869] awesomw tacos.
+     [-0.8663] The pork is delish and is flavored with pineapple , highly recommend trying .
+     [-0.8660] Chicken was quite dry and bland but with the salsa went down easy .
+
+**********
+[0.9893] They have a good beer selection.
+Parent: They even have margaritas , Mexican soda and a great beer selection .
+
+Top 5 (supporting):
+     [0.9893] They also have a pretty decent beer selection .
+     [0.9868] They even have margaritas , Mexican soda and a great beer selection .
+     [0.9750] Good beer selection and $ 4 margaritas when we were there tonight ! !
+     [0.9032] They have some really good craft beers as well !
+     [0.8613] With anything you chose to eat you will not go wrong , if you looking for beer and mix drinks they got you cover from Mexican beer to local beer .
+
+Top 5 (weakening):
+     [-0.6418] Weird but true .. they have great tea , it is usually an indicator for me .
+     [-0.4790] Mexican Corn- Amazing fresh taste ! !
+     [-0.4353] The salsa bar gives you the opportunity to try all of their options .
+     [-0.4218] Variety of sauces was a great adventure in flavor .
+     [-0.4090] These are unusable .
+
+**********
+[0.9756] 1 taco Tuesday is a weekly tradition.
+Parent: $ 1 taco Tuesday has become a weekly tradition .
+
+Top 5 (supporting):
+     [0.9756] $ 1 taco Tuesday has become a weekly tradition .
+     [0.6619] We habe NO made it a weekly staple .
+     [0.4529] Awesome $ 1 taco tuesdays , love the chicken quesadillas , love love love , come here at least once a week !
+     [0.0027] Every time I go I try something different and nothing has been a letdown .
+     [0.0021] As always the food was delicious and served promptly .
+
+Top 5 (weakening):
+     [-0.9149] 1st time there was today .
+     [-0.8981] Our first experience was great !
+     [-0.8685] # saborislife
+     [-0.8160] These are unusable .
+     [-0.7655] Pattrick took our order and made us a couple margaritas that hit the spot !

@@ -1,0 +1,129 @@
+Summary:
+
+The reviews were mixed, with some people enjoying the food and others finding it expensive and unremarkable. Some people also found the service to be poor. However, overall the reviews were generally positive, with people finding the food to be decent and the atmosphere to be good.
+
+**********
+[0.5421] The food was enjoyable.
+Parent: The reviews were mixed, with some people enjoying the food and others finding it expensive and unremarkable.
+
+Top 5 (supporting):
+     [0.5421] They have floor managers who check up on you often.All around okay and the food is more than decent .
+     [0.4890] Good food .
+     [0.2950] Both were tasty
+     [0.2873] I had the shrimp tacos which were fantastic .
+     [0.1317] I particularly liked the double fried spareribs appetizer .
+
+Top 5 (weakening):
+     [-0.3563] -I will never go back , ever !
+     [-0.2659] The food is whatever , but it is not a bad place to stop off for drinks ... they have some of the best bloody mary 's in the valley ...
+     [-0.2441] I only ate here once but it was expensive and unremarkable .
+     [-0.2438] Business CLOSED !
+     [-0.1344] No wifi is a bummer .
+
+**********
+[0.9558] It was expensive.
+Parent: The reviews were mixed, with some people enjoying the food and others finding it expensive and unremarkable.
+
+Top 5 (supporting):
+     [0.9558] I only ate here once but it was expensive and unremarkable .
+     [0.7459] A little pricey for pub food .
+     [0.0027] I would rather grab a burger at In-and-Out .
+     [0.0014] Earl 's I have eaten at on several different occasions .
+     [0.0005] Would definitely return , though .
+
+Top 5 (weakening):
+     [-0.1063] No wifi is a bummer .
+     [-0.0638] Business CLOSED !
+     [-0.0315] The lunch crowd is loud and noisy .
+     [-0.0236] Generic American food .
+     [-0.0212] Both were tasty
+
+**********
+[0.8910] It was unremarkable.
+Parent: The reviews were mixed, with some people enjoying the food and others finding it expensive and unremarkable.
+
+Top 5 (supporting):
+     [0.8910] I only ate here once but it was expensive and unremarkable .
+     [0.2444] My husband and I went here after a movie out ( we had a babysitter for our two kids ) .... we were there around 9 and the kids who worked there seemed it was there right since it wasn 't busy to play .... it was terrible ... the help was ... our server sucked big time.food was o.k.
+     [0.0016] -I will never go back , ever !
+     [0.0000] ! !
+     [0.0000] ! !
+
+Top 5 (weakening):
+     [-0.9971] I had the shrimp tacos which were fantastic .
+     [-0.9968] I particularly liked the double fried spareribs appetizer .
+     [-0.9928] Went great with a cold beer on a hot afternoon .
+     [-0.9913] They have floor managers who check up on you often.All around okay and the food is more than decent .
+     [-0.9910] Pretty good american fare with asian and southwest influence .
+
+**********
+[0.7768] The service was poor.
+Parent: Some people also found the service to be poor.
+
+Top 5 (supporting):
+     [0.7768] My husband and I went here after a movie out ( we had a babysitter for our two kids ) .... we were there around 9 and the kids who worked there seemed it was there right since it wasn 't busy to play .... it was terrible ... the help was ... our server sucked big time.food was o.k.
+     [0.0441] No wifi is a bummer .
+     [0.0037] -I will never go back , ever !
+     [0.0000] ! !
+     [0.0000] ! !
+
+Top 5 (weakening):
+     [-0.9955] The bar area is hoping in the evenings.Aside from that , the service is usually prompt and efficient .
+     [-0.9890] Went great with a cold beer on a hot afternoon .
+     [-0.9813] I had the shrimp tacos which were fantastic .
+     [-0.9797] They have floor managers who check up on you often.All around okay and the food is more than decent .
+     [-0.9388] I particularly liked the double fried spareribs appetizer .
+
+**********
+[0.1969] The reviews were positive.
+Parent: However, overall the reviews were generally positive, with people finding the food to be decent and the atmosphere to be good.
+
+Top 5 (supporting):
+     [0.1969] Both were tasty
+     [0.1247] I particularly liked the double fried spareribs appetizer .
+     [0.1207] Good food .
+     [0.0204] I had the shrimp tacos which were fantastic .
+     [0.0199] They have floor managers who check up on you often.All around okay and the food is more than decent .
+
+Top 5 (weakening):
+     [-0.9796] My husband and I went here after a movie out ( we had a babysitter for our two kids ) .... we were there around 9 and the kids who worked there seemed it was there right since it wasn 't busy to play .... it was terrible ... the help was ... our server sucked big time.food was o.k.
+     [-0.9484] No wifi is a bummer .
+     [-0.9187] I only ate here once but it was expensive and unremarkable .
+     [-0.8128] Earl 's is like a booty call - always available for a good time but there 's not much beneath the surface.Go here for HH drinks , go elsewhere to eat .
+     [-0.5985] -I will never go back , ever !
+
+**********
+[0.9348] The food was decent.
+Parent: However, overall the reviews were generally positive, with people finding the food to be decent and the atmosphere to be good.
+
+Top 5 (supporting):
+     [0.9348] They have floor managers who check up on you often.All around okay and the food is more than decent .
+     [0.8288] Good food .
+     [0.6160] My husband and I went here after a movie out ( we had a babysitter for our two kids ) .... we were there around 9 and the kids who worked there seemed it was there right since it wasn 't busy to play .... it was terrible ... the help was ... our server sucked big time.food was o.k.
+     [0.4700] Pretty good american fare with asian and southwest influence .
+     [0.3252] Both were tasty
+
+Top 5 (weakening):
+     [-0.6832] I only ate here once but it was expensive and unremarkable .
+     [-0.2353] -I will never go back , ever !
+     [-0.1484] Earl 's is like a booty call - always available for a good time but there 's not much beneath the surface.Go here for HH drinks , go elsewhere to eat .
+     [-0.1056] Business CLOSED !
+     [-0.0774] The food is whatever , but it is not a bad place to stop off for drinks ... they have some of the best bloody mary 's in the valley ...
+
+**********
+[0.1250] The atmosphere was good.
+Parent: However, overall the reviews were generally positive, with people finding the food to be decent and the atmosphere to be good.
+
+Top 5 (supporting):
+     [0.1250] Went great with a cold beer on a hot afternoon .
+     [0.0742] Both were tasty
+     [0.0487] The bar area is hoping in the evenings.Aside from that , the service is usually prompt and efficient .
+     [0.0438] They have floor managers who check up on you often.All around okay and the food is more than decent .
+     [0.0296] Pretty good american fare with asian and southwest influence .
+
+Top 5 (weakening):
+     [-0.6648] My husband and I went here after a movie out ( we had a babysitter for our two kids ) .... we were there around 9 and the kids who worked there seemed it was there right since it wasn 't busy to play .... it was terrible ... the help was ... our server sucked big time.food was o.k.
+     [-0.5967] No wifi is a bummer .
+     [-0.5257] -I will never go back , ever !
+     [-0.2678] Generic American food .
+     [-0.2149] Earl 's is like a booty call - always available for a good time but there 's not much beneath the surface.Go here for HH drinks , go elsewhere to eat .

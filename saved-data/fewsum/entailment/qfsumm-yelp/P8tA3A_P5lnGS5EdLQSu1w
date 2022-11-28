@@ -1,0 +1,169 @@
+Summary:
+
+He doesn ' t care about his patients and neither does his staff .
+If you plan on being seen here make sure you have a quality medical malpractice lawyer on hand because you will need it .
+Az urologist wants their patience to sign a promise if they are late for an appointment they will pay $ 100.00 for being late .
+I have never seen a level of incompetence as I have with this office .
+So if the Dr 's are late for your appointment do you get a $ 100.00 NO !
+
+**********
+[0.9765] He doesn't care about his patients.
+Parent: He doesn ' t care about his patients and neither does his staff .
+
+Top 5 (supporting):
+     [0.9765] He doesn 't care about his patients and neither does his staff .
+     [-0.0662] I have never seen a level of incompetence as I have with this office .
+     [-0.1655] One is definitely made to feel like little more than a number with this office .
+     [-0.2046] Will be finding another physician with competent staff
+     [-0.2621] Office staff is deplorable .
+
+Top 5 (weakening):
+     [-0.9975] Dr. Cheney really cares about all his patients .
+     [-0.9971] He is one of the most compassionate doctors I have ever met .
+     [-0.9896] Dr. Bootwala was the best , I can 't thank her enough for all she did for me from start to finish .....
+     [-0.9823] The follow up care was really great .
+     [-0.9737] Az urologist wants their patience to sign a promise if they are late for an appointment they will pay $ 100.00 for being late .
+
+**********
+[0.9565] His staff doesn't care about patients.
+Parent: He doesn ' t care about his patients and neither does his staff .
+
+Top 5 (supporting):
+     [0.9565] He doesn 't care about his patients and neither does his staff .
+     [-0.0024] Office staff is deplorable .
+     [-0.0028] Dr Woodruff is wonderful but do not expect much-in fact , expect very little-from the staff .
+     [-0.0031] I have never seen a level of incompetence as I have with this office .
+     [-0.0058] One is definitely made to feel like little more than a number with this office .
+
+Top 5 (weakening):
+     [-0.9871] Dr. Bootwala was the best , I can 't thank her enough for all she did for me from start to finish .....
+     [-0.9827] Dr. Cheney really cares about all his patients .
+     [-0.9804] I wanted to personally thank Dr. Daitch for handling my case in such an outstanding manner .
+     [-0.9759] The follow up care was really great .
+     [-0.9416] So , thank you , Dr Daitch .
+
+**********
+[0.9719] If you plan on being seen here, make sure you have a quality lawyer on hand.
+Parent: If you plan on being seen here make sure you have a quality medical malpractice lawyer on hand because you will need it .
+
+Top 5 (supporting):
+     [0.9719] If you plan on being seen here make sure you have a quality medical malpractice lawyer on hand because you will need it .
+     [0.0046] I wanted to personally thank Dr. Daitch for handling my case in such an outstanding manner .
+     [-0.0112] I would highly recommend Dr. Scott Cheney .
+     [-0.0139] I have never seen a level of incompetence as I have with this office .
+     [-0.0190] He doesn 't care about his patients and neither does his staff .
+
+Top 5 (weakening):
+     [-0.8389] Will be finding another physician with competent staff
+     [-0.5813] So , thank you , Dr Daitch .
+     [-0.5539] He is one of the most compassionate doctors I have ever met .
+     [-0.4621] Dr. Cheney really cares about all his patients .
+     [-0.4436] I was referred by my primary care physician .
+
+**********
+[0.8575] You need it.
+Parent: If you plan on being seen here make sure you have a quality medical malpractice lawyer on hand because you will need it .
+
+Top 5 (supporting):
+     [0.8575] If you plan on being seen here make sure you have a quality medical malpractice lawyer on hand because you will need it .
+     [0.0294] Evidently , 2 of my friends had similar experiences.Do yourself a favor .
+     [0.0248] I would recommend them especially if you have state insurance like myself .
+     [-0.0168] Which included surgery
+     [-0.0547] He is one of the most compassionate doctors I have ever met .
+
+Top 5 (weakening):
+     [-0.8546] He doesn 't care about his patients and neither does his staff .
+     [-0.8377] Office staff is deplorable .
+     [-0.5264] Unable to get through to Dr. Daitch when he 's needed .
+     [-0.5054] I have never seen a level of incompetence as I have with this office .
+     [-0.4288] Dr. Bootwala was the best , I can 't thank her enough for all she did for me from start to finish .....
+
+**********
+[0.8288] The urologist wants their patients to sign a promise.
+Parent: Az urologist wants their patience to sign a promise if they are late for an appointment they will pay $ 100.00 for being late .
+
+Top 5 (supporting):
+     [0.8288] Az urologist wants their patience to sign a promise if they are late for an appointment they will pay $ 100.00 for being late .
+     [-0.0903] There are other urologist in the area that are more professional .
+     [-0.0969] My husband had prostate cancer and surgery and almost two years later is doing fine .
+     [-0.1118] I was referred by my primary care physician .
+     [-0.1167] So , thank you , Dr Daitch .
+
+Top 5 (weakening):
+     [-0.6646] Find another group .
+     [-0.6204] He doesn 't care about his patients and neither does his staff .
+     [-0.6102] They drop the ball each and every time .
+     [-0.5081] Dr. Daitch was very pleasant to work with .
+     [-0.4985] Will be finding another physician with competent staff
+
+**********
+[0.9362] They will pay $100.00 for being late.
+Parent: Az urologist wants their patience to sign a promise if they are late for an appointment they will pay $ 100.00 for being late .
+
+Top 5 (supporting):
+     [0.9362] So if the Dr 's are late for your appointment do you get a $ 100.00 NO !
+     [0.7786] Az urologist wants their patience to sign a promise if they are late for an appointment they will pay $ 100.00 for being late .
+     [-0.0380] There are other urologist in the area that are more professional .
+     [-0.0464] I would recommend them especially if you have state insurance like myself .
+     [-0.0520] Will be finding another physician with competent staff
+
+Top 5 (weakening):
+     [-0.7227] So , thank you , Dr Daitch .
+     [-0.3785] Dr. Cheney really cares about all his patients .
+     [-0.3676] Dr. Bootwala was the best , I can 't thank her enough for all she did for me from start to finish .....
+     [-0.3583] All the urinary issues that I had lived with for so many years were completely resolved - 100 % with the TURP procedure he performed .
+     [-0.3226] They drop the ball each and every time .
+
+**********
+[0.2162] Incompetence is bad.
+Parent: I have never seen a level of incompetence as I have with this office .
+
+Top 5 (supporting):
+     [0.2162] Office staff is deplorable .
+     [0.1013] If you plan on being seen here make sure you have a quality medical malpractice lawyer on hand because you will need it .
+     [0.0901] So if the Dr 's are late for your appointment do you get a $ 100.00 NO !
+     [0.0714] They drop the ball each and every time .
+     [0.0437] Unable to get through to Dr. Daitch when he 's needed .
+
+Top 5 (weakening):
+     [-0.9108] Dr. Bootwala was the best , I can 't thank her enough for all she did for me from start to finish .....
+     [-0.8640] The follow up care was really great .
+     [-0.8559] So , thank you , Dr Daitch .
+     [-0.7791] I wanted to personally thank Dr. Daitch for handling my case in such an outstanding manner .
+     [-0.6807] Dr. Daitch was very pleasant to work with .
+
+**********
+[0.9232] This office is incompetent.
+Parent: I have never seen a level of incompetence as I have with this office .
+
+Top 5 (supporting):
+     [0.9232] I have never seen a level of incompetence as I have with this office .
+     [0.4220] Office staff is deplorable .
+     [0.0390] They drop the ball each and every time .
+     [0.0070] He doesn 't care about his patients and neither does his staff .
+     [-0.0443] Unable to get through to Dr. Daitch when he 's needed .
+
+Top 5 (weakening):
+     [-0.9947] The follow up care was really great .
+     [-0.9917] I wanted to personally thank Dr. Daitch for handling my case in such an outstanding manner .
+     [-0.9913] Dr. Bootwala was the best , I can 't thank her enough for all she did for me from start to finish .....
+     [-0.9783] Dr. Daitch was very pleasant to work with .
+     [-0.9710] I also have been a patient here as well and have done very well .
+
+**********
+[0.6583] If the Dr's are late for your appointment, you do not get $100.00.
+Parent: So if the Dr 's are late for your appointment do you get a $ 100.00 NO !
+
+Top 5 (supporting):
+     [0.6583] So if the Dr 's are late for your appointment do you get a $ 100.00 NO !
+     [-0.0670] One is definitely made to feel like little more than a number with this office .
+     [-0.0912] Office staff is deplorable .
+     [-0.0988] I also have been a patient here as well and have done very well .
+     [-0.1260] There are other urologist in the area that are more professional .
+
+Top 5 (weakening):
+     [-0.9328] Az urologist wants their patience to sign a promise if they are late for an appointment they will pay $ 100.00 for being late .
+     [-0.4771] So , thank you , Dr Daitch .
+     [-0.4718] It took 2 weeks and multiple phone calls to finally receive test results .
+     [-0.4479] After having dealt with them a few times , I started asking around about them .
+     [-0.4357] All the urinary issues that I had lived with for so many years were completely resolved - 100 % with the TURP procedure he performed .

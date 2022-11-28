@@ -1,0 +1,75 @@
+Summary:
+
+The product was praised for its staff, quality of work, reasonable prices, and great customer service.
+
+**********
+[0.3295] The product had great staff.
+Parent: The product was praised for its staff, quality of work, reasonable prices, and great customer service.
+
+Top 5 (supporting):
+     [0.3295] Good bunch of guys with a wealth of information and honest service .
+     [0.3268] Ted and his staff have always done very good work anytime I have needed service .
+     [0.3201] I would never take my bike to Ridenow or anything like that I want to know who 's working on my bike and with the knowledge and friendly people at the shop I will never take my bike anywhere else .
+     [0.2954] These guys do amazing work at reasonable prices .
+     [0.2768] The guys go above and beyond with thier saftey check .
+
+Top 5 (weakening):
+     [-0.6463] The master mechanics didn 't even blink an eye .
+     [-0.3835] Austin is a great guy .
+     [-0.2039] Only guys I trust with my pride and joy .
+     [-0.0803] They assessed the situation provided a fair estimate .
+     [-0.0761] I brought in my hurt zx14 in pieces .
+
+**********
+[0.3914] The product was good.
+Parent: The product was praised for its staff, quality of work, reasonable prices, and great customer service.
+
+Top 5 (supporting):
+     [0.3914] Great service .
+     [0.2783] Good prices and trustworthy .
+     [0.2069] Ted is great !
+     [0.1860] These guys do amazing work at reasonable prices .
+     [0.1648] I will be a lifetime customer
+
+Top 5 (weakening):
+     [-0.4666] Austin is a great guy .
+     [-0.0443] The master mechanics didn 't even blink an eye .
+     [-0.0108] Only guys I trust with my pride and joy .
+     [-0.0062] They assessed the situation provided a fair estimate .
+     [0.0000] I agreed .
+
+**********
+[0.8705] The product was reasonably priced.
+Parent: The product was praised for its staff, quality of work, reasonable prices, and great customer service.
+
+Top 5 (supporting):
+     [0.8705] These guys do amazing work at reasonable prices .
+     [0.7699] Good prices and trustworthy .
+     [0.0164] I will be a lifetime customer
+     [0.0071] First time trying the shop and will be my go to shop for the future .
+     [0.0046] One of the best shops to go to for sportbikes .
+
+Top 5 (weakening):
+     [-0.2721] Get my chain adjusted and lubed for free .
+     [-0.0793] The guys go above and beyond with thier saftey check .
+     [-0.0637] Other places want to make a fast buck not the case here .
+     [-0.0466] Austin is a great guy .
+     [-0.0425] This place has consistently over delivered every time I 've had repairs done .
+
+**********
+[0.2563] The product had great customer service.
+Parent: The product was praised for its staff, quality of work, reasonable prices, and great customer service.
+
+Top 5 (supporting):
+     [0.2563] Great service .
+     [0.2369] I would never take my bike to Ridenow or anything like that I want to know who 's working on my bike and with the knowledge and friendly people at the shop I will never take my bike anywhere else .
+     [0.1532] They performed their magic and in no time at all I was back on the road .
+     [0.1528] Ted and his staff have always done very good work anytime I have needed service .
+     [0.0790] Got my tired changed and mounted in less than 45 mins .
+
+Top 5 (weakening):
+     [-0.0766] The master mechanics didn 't even blink an eye .
+     [-0.0628] Austin is a great guy .
+     [-0.0545] They assessed the situation provided a fair estimate .
+     [-0.0424] Only guys I trust with my pride and joy .
+     [-0.0215] Ask them about all the other motorsport things they do for fun !

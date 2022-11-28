@@ -1,0 +1,165 @@
+Summary:
+
+The reviews were mostly positive, with people saying that the cakes and breads are fresh and delicious, and that the store is tidy and clean. There were a few negative reviews, however, with people saying that they had a bad experience with the sopitas and that the quadruple cake was not as good as they had hoped. Overall, though, the reviews were mostly positive.
+
+**********
+[0.2566] The reviews were good.
+Parent: The reviews were mostly positive, with people saying that the cakes and breads are fresh and delicious, and that the store is tidy and clean.
+
+Top 5 (supporting):
+     [0.2566] They were both AMAZING .
+     [0.1886] Everyone raved about it !
+     [0.1463] Sweet bread was some of the best I 've had in town .
+     [0.1196] Super delicious and they carry change for big bills The bread was nice and soft and big bonus for using abuelitas chocolates inside some of the breads .
+     [0.1144] Also ordered a gelatina for my daughters school potluck and that received compliments as well
+
+Top 5 (weakening):
+     [-0.9886] They just lost my business and I am an easy going person but my experience was that bad .
+     [-0.9880] Worst experience EVER .
+     [-0.6503] Will never send you another cu
+     [-0.3134] I ordered a cake and upon arriving to pick it up the cake looked NOTHING like I ordered ; & I ordered it from there menu .
+     [-0.3131] All they had was tres Leches cakes .
+
+**********
+[0.9442] The cakes and breads are fresh.
+Parent: The reviews were mostly positive, with people saying that the cakes and breads are fresh and delicious, and that the store is tidy and clean.
+
+Top 5 (supporting):
+     [0.9442] They have the freshest cakes and breads .
+     [0.1120] They sell by the slice and the sweet bread smelled great !
+     [0.0489] I had to wait for about 10min for my freshly made pupusas and they were the bomb ! !
+     [0.0389] Super delicious and they carry change for big bills The bread was nice and soft and big bonus for using abuelitas chocolates inside some of the breads .
+     [0.0323] Nice small bakery , a bit hidden inside a shopping center , tidy and clean with lots of goodies .
+
+Top 5 (weakening):
+     [-0.9271] Worst experience EVER .
+     [-0.8614] Will never send you another cu
+     [-0.7962] All the usual pastries .
+     [-0.7198] They just lost my business and I am an easy going person but my experience was that bad .
+     [-0.5158] Pizza , sandwiches and tortas , sopas .
+
+**********
+[0.3109] The cakes and breads are delicious.
+Parent: The reviews were mostly positive, with people saying that the cakes and breads are fresh and delicious, and that the store is tidy and clean.
+
+Top 5 (supporting):
+     [0.3109] They sell by the slice and the sweet bread smelled great !
+     [0.2495] Super delicious and they carry change for big bills The bread was nice and soft and big bonus for using abuelitas chocolates inside some of the breads .
+     [0.0476] They have the freshest cakes and breads .
+     [0.0439] Sweet bread was some of the best I 've had in town .
+     [0.0168] This bakery knows how to make them perfect .
+
+Top 5 (weakening):
+     [-0.9277] Worst experience EVER .
+     [-0.8538] Will never send you another cu
+     [-0.7634] They just lost my business and I am an easy going person but my experience was that bad .
+     [-0.2930] Pizza , sandwiches and tortas , sopas .
+     [-0.2164] Next day came in to order 4 sopitas and was told no sopitas today .
+
+**********
+[0.9352] The store is tidy.
+Parent: The reviews were mostly positive, with people saying that the cakes and breads are fresh and delicious, and that the store is tidy and clean.
+
+Top 5 (supporting):
+     [0.9352] Nice small bakery , a bit hidden inside a shopping center , tidy and clean with lots of goodies .
+     [0.9161] Do not get discouraged by looks of the outside of this place , inside is quite cozy and clean .
+     [0.1583] This bakery knows how to make them perfect .
+     [0.0119] Very friendly staff .
+     [0.0088] This place was recommended .
+
+Top 5 (weakening):
+     [-0.8241] Worst experience EVER .
+     [-0.7552] All they had was tres Leches cakes .
+     [-0.5339] They just lost my business and I am an easy going person but my experience was that bad .
+     [-0.3570] I ordered a cake and upon arriving to pick it up the cake looked NOTHING like I ordered ; & I ordered it from there menu .
+     [-0.3439] Will never send you another cu
+
+**********
+[0.9310] The store is clean.
+Parent: The reviews were mostly positive, with people saying that the cakes and breads are fresh and delicious, and that the store is tidy and clean.
+
+Top 5 (supporting):
+     [0.9310] Do not get discouraged by looks of the outside of this place , inside is quite cozy and clean .
+     [0.9135] Nice small bakery , a bit hidden inside a shopping center , tidy and clean with lots of goodies .
+     [0.0229] They have the freshest cakes and breads .
+     [0.0074] Very friendly staff .
+     [0.0051] This place was recommended .
+
+Top 5 (weakening):
+     [-0.6461] Worst experience EVER .
+     [-0.4411] All they had was tres Leches cakes .
+     [-0.2324] They just lost my business and I am an easy going person but my experience was that bad .
+     [-0.1992] I ordered a cake and upon arriving to pick it up the cake looked NOTHING like I ordered ; & I ordered it from there menu .
+     [-0.1717] Will never send you another cu
+
+**********
+[0.7140] There were negative reviews.
+Parent: There were a few negative reviews, however, with people saying that they had a bad experience with the sopitas and that the quadruple cake was not as good as they had hoped.
+
+Top 5 (supporting):
+     [0.7140] Worst experience EVER .
+     [0.5290] They just lost my business and I am an easy going person but my experience was that bad .
+     [0.1307] I had to wait for about 10min for my freshly made pupusas and they were the bomb ! !
+     [0.1076] Will never send you another cu
+     [0.0000] !
+
+Top 5 (weakening):
+     [-0.9959] They were both AMAZING .
+     [-0.9904] Very friendly staff .
+     [-0.9865] Everyone raved about it !
+     [-0.9844] Service was very friendly .
+     [-0.9830] I can only speak for the 4 in 1 cake , it is simply delicious ! !
+
+**********
+[0.4727] The sopitas were a bad experience.
+Parent: There were a few negative reviews, however, with people saying that they had a bad experience with the sopitas and that the quadruple cake was not as good as they had hoped.
+
+Top 5 (supporting):
+     [0.4727] I had to wait for about 10min for my freshly made pupusas and they were the bomb ! !
+     [0.0941] Will never send you another cu
+     [0.0203] They just lost my business and I am an easy going person but my experience was that bad .
+     [0.0067] Worst experience EVER .
+     [0.0000] !
+
+Top 5 (weakening):
+     [-0.9938] They were both AMAZING .
+     [-0.9919] Super delicious and they carry change for big bills The bread was nice and soft and big bonus for using abuelitas chocolates inside some of the breads .
+     [-0.9906] Everyone raved about it !
+     [-0.9888] Also ordered a gelatina for my daughters school potluck and that received compliments as well
+     [-0.9877] They sell by the slice and the sweet bread smelled great !
+
+**********
+[0.0274] The quadruple cake was not as good as hoped.
+Parent: There were a few negative reviews, however, with people saying that they had a bad experience with the sopitas and that the quadruple cake was not as good as they had hoped.
+
+Top 5 (supporting):
+     [0.0274] The quadruple cake .... aaahhh !
+     [0.0113] Next day came in to order 4 sopitas and was told no sopitas today .
+     [0.0062] Will never send you another cu
+     [0.0037] I ordered a cake and upon arriving to pick it up the cake looked NOTHING like I ordered ; & I ordered it from there menu .
+     [0.0000] !
+
+Top 5 (weakening):
+     [-0.9372] I can only speak for the 4 in 1 cake , it is simply delicious ! !
+     [-0.8510] They were both AMAZING .
+     [-0.8397] Super delicious and they carry change for big bills The bread was nice and soft and big bonus for using abuelitas chocolates inside some of the breads .
+     [-0.8301] I had to wait for about 10min for my freshly made pupusas and they were the bomb ! !
+     [-0.8074] The clan there is to die for ! !
+
+**********
+[0.4248] The reviews were positive.
+Parent: Overall, though, the reviews were mostly positive.
+
+Top 5 (supporting):
+     [0.4248] Everyone raved about it !
+     [0.3752] They were both AMAZING .
+     [0.2597] Also ordered a gelatina for my daughters school potluck and that received compliments as well
+     [0.2585] Service was very friendly .
+     [0.1056] Super delicious and they carry change for big bills The bread was nice and soft and big bonus for using abuelitas chocolates inside some of the breads .
+
+Top 5 (weakening):
+     [-0.9923] Worst experience EVER .
+     [-0.9906] They just lost my business and I am an easy going person but my experience was that bad .
+     [-0.7960] I had to wait for about 10min for my freshly made pupusas and they were the bomb ! !
+     [-0.7552] Will never send you another cu
+     [-0.7197] Next day came in to order 4 sopitas and was told no sopitas today .

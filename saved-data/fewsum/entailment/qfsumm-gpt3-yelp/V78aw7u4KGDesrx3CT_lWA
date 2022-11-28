@@ -1,0 +1,129 @@
+Summary:
+
+The reviews were mixed, with some people enjoying the sushi and hibachi and others finding it overpriced, salty, or otherwise not to their liking. Some people specifically recommended the restaurant, while others said they would not return.
+
+**********
+[0.7540] The sushi was enjoyed by some.
+Parent: The reviews were mixed, with some people enjoying the sushi and hibachi and others finding it overpriced, salty, or otherwise not to their liking.
+
+Top 5 (supporting):
+     [0.7540] I love this sushi bar , absolutely would recommend any sushi lover to try them out !
+     [0.2907] Some great sushi to be had here , and the specials they have going on are amazing !
+     [0.2814] I literally waited over 30 minutes for four little amazing pieces of sushi with no apology or real explanation .
+     [0.2580] The sushi is amazing and half off on Wednesdays and Sundays , so it 's a great deal !
+     [0.1326] But they have really good sushi .
+
+Top 5 (weakening):
+     [-0.1379] Takara 's cruchy roll is to doe for ... so much so for about a month I went every few days to get one ~ and then two.Excellent staff knew what I wanted when I walked through the door.Tocaras has become a favorite place where friends and I love to meet and catch up from our busy lives ~
+     [-0.1145] The lobster was over cooked .
+     [-0.0472] Not worth the money !
+     [-0.0469] Not going back ever .
+     [-0.0402] Today I felt compelled .
+
+**********
+[0.9357] The hibachi was enjoyed.
+Parent: The reviews were mixed, with some people enjoying the sushi and hibachi and others finding it overpriced, salty, or otherwise not to their liking.
+
+Top 5 (supporting):
+     [0.9357] Great new chef the hibachi was amazing !
+     [0.7439] Hibachi lunch is cheap and fun to go to , and we try to come as often as we can .
+     [0.6988] Hibachi - Chef was a rock star - food was good but way to salty to me .
+     [0.1218] Definitely give it a try , you won 't be disappointed !
+     [0.1167] I order from them every Wednesday and Sunday for half off sushi and it 's really good .
+
+Top 5 (weakening):
+     [-0.6545] Not worth the money !
+     [-0.6031] The lobster was over cooked .
+     [-0.5819] Not worth the money .
+     [-0.5362] Not going back ever .
+     [-0.4248] Ridiculously bad service .
+
+**********
+[0.8249] It was overpriced.
+Parent: The reviews were mixed, with some people enjoying the sushi and hibachi and others finding it overpriced, salty, or otherwise not to their liking.
+
+Top 5 (supporting):
+     [0.8249] Felt the price to be high considering you get ALOT of rice with your meal and not enough of anything else .
+     [0.7281] Our server didn 't even know what " gluten free " meant , so to avoid any consequences I stuck with an overpriced leaf of iceberg lettuce and a few avocado cubes .
+     [0.4895] Not worth the money .
+     [0.4885] Not worth the money !
+     [0.0000] !
+
+Top 5 (weakening):
+     [-0.9883] Hibachi lunch is cheap and fun to go to , and we try to come as often as we can .
+     [-0.9127] Take advantage of half priced sushi on Wednesdays and Sundays .
+     [-0.7650] the food is ok , the chicken is a bit more harder if that make any scence , the shrimp sause is thick and is not so good , they dont offer as much as other hibachi places and they cost the same .
+     [-0.7498] They also have Hibachi which is great for lunch at only 8 bucks .
+     [-0.6245] I order from them every Wednesday and Sunday for half off sushi and it 's really good .
+
+**********
+[0.8478] It was salty.
+Parent: The reviews were mixed, with some people enjoying the sushi and hibachi and others finding it overpriced, salty, or otherwise not to their liking.
+
+Top 5 (supporting):
+     [0.8478] Hibachi - Chef was a rock star - food was good but way to salty to me .
+     [0.0000] !
+     [0.0000] WRONG .
+     [-0.0088] They also have Hibachi which is great for lunch at only 8 bucks .
+     [-0.0138] I was extremely skeptical and a bit afraid of eating sushi in my provincial old hometown .
+
+Top 5 (weakening):
+     [-0.9675] The ginger dressing was fresh like the Sushi
+     [-0.9443] They are fresh , delicious , and service is fantastic .
+     [-0.9292] Was like rubber .
+     [-0.9152] The staff is awesome too , always so friendly !
+     [-0.9147] The show was very entertaining great place for familys , party , date .
+
+**********
+[0.3350] Some people did not like it.
+Parent: The reviews were mixed, with some people enjoying the sushi and hibachi and others finding it overpriced, salty, or otherwise not to their liking.
+
+Top 5 (supporting):
+     [0.3350] Not worth the money .
+     [0.2867] Therefore , I cannot recommend this restaurant unless you don 't feel like driving far from your hotel .
+     [0.2745] Not worth the money !
+     [0.2250] Not going back ever .
+     [0.2152] Wife 's steak was underdone .
+
+Top 5 (weakening):
+     [-0.0422] Definitely give it a try , you won 't be disappointed !
+     [-0.0383] Takara 's cruchy roll is to doe for ... so much so for about a month I went every few days to get one ~ and then two.Excellent staff knew what I wanted when I walked through the door.Tocaras has become a favorite place where friends and I love to meet and catch up from our busy lives ~
+     [-0.0366] The sushi is amazing and half off on Wednesdays and Sundays , so it 's a great deal !
+     [-0.0330] Great new chef the hibachi was amazing !
+     [-0.0298] Some great sushi to be had here , and the specials they have going on are amazing !
+
+**********
+[0.8976] The restaurant was recommended.
+Parent: Some people specifically recommended the restaurant, while others said they would not return.
+
+Top 5 (supporting):
+     [0.8976] I love this sushi bar , absolutely would recommend any sushi lover to try them out !
+     [0.2599] Food was really good .
+     [0.2588] Hibachi lunch is cheap and fun to go to , and we try to come as often as we can .
+     [0.2187] This is the best place in Monroe for sushi .
+     [0.1965] Takara 's cruchy roll is to doe for ... so much so for about a month I went every few days to get one ~ and then two.Excellent staff knew what I wanted when I walked through the door.Tocaras has become a favorite place where friends and I love to meet and catch up from our busy lives ~
+
+Top 5 (weakening):
+     [-0.9407] Therefore , I cannot recommend this restaurant unless you don 't feel like driving far from your hotel .
+     [-0.5699] If you are gluten free , do not eat here ! !
+     [-0.4174] Ridiculously bad service .
+     [-0.3923] Not worth the money !
+     [-0.3583] Not worth the money .
+
+**********
+[0.8605] They would not return.
+Parent: Some people specifically recommended the restaurant, while others said they would not return.
+
+Top 5 (supporting):
+     [0.8605] Not going back ever .
+     [0.5947] New Zealand cafe will get you full This was like half the normal roll , so no thank you never again
+     [0.0000] !
+     [0.0000] WRONG .
+     [-0.0360] Then , the rice immediately detached itself from the fish .
+
+Top 5 (weakening):
+     [-0.9794] Freshly made every time !
+     [-0.9761] I literally waited over 30 minutes for four little amazing pieces of sushi with no apology or real explanation .
+     [-0.9759] We eat at Takara at least once a week .
+     [-0.9711] We eat here a few times a month , both in and take out .
+     [-0.9674] Takara 's cruchy roll is to doe for ... so much so for about a month I went every few days to get one ~ and then two.Excellent staff knew what I wanted when I walked through the door.Tocaras has become a favorite place where friends and I love to meet and catch up from our busy lives ~

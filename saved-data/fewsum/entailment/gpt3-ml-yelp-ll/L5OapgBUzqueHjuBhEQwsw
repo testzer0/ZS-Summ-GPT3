@@ -1,0 +1,93 @@
+Summary:
+
+Overall, reviewers thought the food was good, with some excellent dishes. The service was generally good, although there were some complaints about orders being messed up. Parking can be difficult to find.
+
+**********
+[0.9506] The food was good.
+Parent: Overall, reviewers thought the food was good, with some excellent dishes.
+
+Top 5 (supporting):
+     [0.9506] Food is excellent , love the build your burger set up .
+     [0.9060] Great atmosphere , friendly staff , really good food .
+     [0.8671] Great food , staff and beers !
+     [0.8535] They always get my order right and the quality of the food is really good .
+     [0.8347] Delicious food , friendly service , and a great selection of beers .
+
+Top 5 (weakening):
+     [-0.7022] I guess it 's just another mediocre burger place in Pittsburgh .
+     [-0.6935] However I say skip the burger , totally not worth it .
+     [-0.6776] They messed up my order slightly and the restaurant was super cold .
+     [-0.5276] I think the best thing this place has going for it is their beer selection.I 've never been wow 'ed by any of the food here .
+     [-0.2926] I 'll pass on the burger .
+
+**********
+[0.4727] The dishes were excellent.
+Parent: Overall, reviewers thought the food was good, with some excellent dishes.
+
+Top 5 (supporting):
+     [0.4727] Great atmosphere , friendly staff , really good food .
+     [0.4568] Food is excellent , love the build your burger set up .
+     [0.2786] Great food , staff and beers !
+     [0.2534] Best food I have tasted in a long time .
+     [0.2425] They always get my order right and the quality of the food is really good .
+
+Top 5 (weakening):
+     [-0.9422] I guess it 's just another mediocre burger place in Pittsburgh .
+     [-0.9072] They messed up my order slightly and the restaurant was super cold .
+     [-0.8924] Just average .
+     [-0.8781] Everything is fairly average .
+     [-0.8666] I think the best thing this place has going for it is their beer selection.I 've never been wow 'ed by any of the food here .
+
+**********
+[0.9580] The service was good.
+Parent: The service was generally good, although there were some complaints about orders being messed up.
+
+Top 5 (supporting):
+     [0.9580] The service was also great .
+     [0.9267] You build your own with a huge list of items to chose from .Service was great , restaurant was alive .
+     [0.8854] Pleasant atmosphere and great service .
+     [0.8399] This restaurant always gives excellent service , even when it 's very busy .
+     [0.7182] The service was quick and efficient !
+
+Top 5 (weakening):
+     [-0.9850] Service sucks .
+     [-0.8482] Tries to be Burgatory and isn 't up to par .
+     [-0.8384] They messed up my order slightly and the restaurant was super cold .
+     [-0.8234] Made wrong item and blamed us for ordering wrong !
+     [-0.7242] Ordered takeout online and when I went to pick it up all the lights were shut off and doors were locked !
+
+**********
+[0.9565] Orders were messed up.
+Parent: The service was generally good, although there were some complaints about orders being messed up.
+
+Top 5 (supporting):
+     [0.9565] They messed up my order slightly and the restaurant was super cold .
+     [0.6485] Made wrong item and blamed us for ordering wrong !
+     [0.3567] Service sucks .
+     [0.1096] Tries to be Burgatory and isn 't up to par .
+     [0.0539] Ordered takeout online and when I went to pick it up all the lights were shut off and doors were locked !
+
+Top 5 (weakening):
+     [-0.9929] The service was quick and efficient !
+     [-0.9916] They always get my order right and the quality of the food is really good .
+     [-0.9905] The service was also great .
+     [-0.9869] Pleasant atmosphere and great service .
+     [-0.9775] Michelle was awesome .
+
+**********
+[0.9713] Parking is difficult.
+Parent: Parking can be difficult to find.
+
+Top 5 (supporting):
+     [0.9713] Parking can be very difficult to find , but that 's what you expect of Pitt 's campus .
+     [0.0011] Long drive to Pittsburgh .
+     [0.0000] !
+     [0.0000] Amazing .
+     [0.0000] Love it .
+
+Top 5 (weakening):
+     [-0.4492] Made wrong item and blamed us for ordering wrong !
+     [-0.2952] We really enjoyed our pick your topping burgers ... my daughter picked mac and cheese to top hers !
+     [-0.2622] Overall amazing meal !
+     [-0.2349] Drinks were good and atmosphere was right .
+     [-0.2298] Best food I have tasted in a long time .

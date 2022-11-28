@@ -1,0 +1,129 @@
+Summary:
+
+The reviews were mostly positive, with reviewers praising the chicken as fresh and moist. There were a few complaints about the service, including slow service and a rude employee, but overall reviewers seemed to enjoy the food and recommend the restaurant.
+
+**********
+[0.0994] The reviewers were positive.
+Parent: The reviews were mostly positive, with reviewers praising the chicken as fresh and moist.
+
+Top 5 (supporting):
+     [0.0994] 南 部 的 なフライドチキンが 楽 しめる 全 国 チェーン 。 チキンのからあげ 等 が 大 好 きな 日 本 人 にとって 、 思 う 存 分 に 楽 しめる 。 年 齢 のせいもあるが 、 コロモに 油 が 比 較 的 多 く 含 まれているので 、 ランチコンボを 二 人 で 分 ける 位 が 丁 度 良 さそう 。 従 業 員 の 方 も 親 切 の 対 応 してくれる 。
+     [0.0399] Best damn Popeyes I 've had in awhile !
+     [0.0339] Staff was super friendly and even made it a point to ask if we wanted sauce .
+     [0.0138] This place has really improved .
+     [0.0075] It used to suck but lately the service is good and the food is delicious .
+
+Top 5 (weakening):
+     [-0.9711] Chubby girl at window was quite possibly the rudest person ever .
+     [-0.9327] Never again
+     [-0.7932] First time trying Popeyes ... in a hurry and decided to take the lazy way out of dinner.Good thing I was headed home anyway ... no utensils ... no dipping sauce ... Cole slaw swimming in sauce ... more like cold cabbage soup.Chicken was moist ... would try again ... but not this location .
+     [-0.6659] Do not go to this Popeyes .
+     [-0.5258] Rude people working , will not return to this location .
+
+**********
+[0.5302] The chicken was praised as fresh.
+Parent: The reviews were mostly positive, with reviewers praising the chicken as fresh and moist.
+
+Top 5 (supporting):
+     [0.5302] The chicken was fresh and moist .
+     [0.0079] 南 部 的 なフライドチキンが 楽 しめる 全 国 チェーン 。 チキンのからあげ 等 が 大 好 きな 日 本 人 にとって 、 思 う 存 分 に 楽 しめる 。 年 齢 のせいもあるが 、 コロモに 油 が 比 較 的 多 く 含 まれているので 、 ランチコンボを 二 人 で 分 ける 位 が 丁 度 良 さそう 。 従 業 員 の 方 も 親 切 の 対 応 してくれる 。
+     [0.0003] I totally recommend it .
+     [0.0002] It used to suck but lately the service is good and the food is delicious .
+     [0.0001] This place has really improved .
+
+Top 5 (weakening):
+     [-0.9939] Shorted my chicken order , chicken was old and seemed to have been sitting around .
+     [-0.9426] No chicken because it wasn 't defrosted the night before ?
+     [-0.9165] Never again
+     [-0.7765] Do not go to this Popeyes .
+     [-0.7624] It really is un- called for .
+
+**********
+[0.9849] The chicken was moist.
+Parent: The reviews were mostly positive, with reviewers praising the chicken as fresh and moist.
+
+Top 5 (supporting):
+     [0.9849] The chicken was fresh and moist .
+     [0.9450] First time trying Popeyes ... in a hurry and decided to take the lazy way out of dinner.Good thing I was headed home anyway ... no utensils ... no dipping sauce ... Cole slaw swimming in sauce ... more like cold cabbage soup.Chicken was moist ... would try again ... but not this location .
+     [0.0428] 南 部 的 なフライドチキンが 楽 しめる 全 国 チェーン 。 チキンのからあげ 等 が 大 好 きな 日 本 人 にとって 、 思 う 存 分 に 楽 しめる 。 年 齢 のせいもあるが 、 コロモに 油 が 比 較 的 多 く 含 まれているので 、 ランチコンボを 二 人 で 分 ける 位 が 丁 度 良 さそう 。 従 業 員 の 方 も 親 切 の 対 応 してくれる 。
+     [0.0076] Manager hides behind the rack of chicken by the drive thru window so he doesnt have to deal with the irate customers at the register .
+     [0.0020] I totally recommend it .
+
+Top 5 (weakening):
+     [-0.8764] No chicken because it wasn 't defrosted the night before ?
+     [-0.7048] Best damn Popeyes I 've had in awhile !
+     [-0.4053] Do not go to this Popeyes .
+     [-0.3800] Shorted my chicken order , chicken was old and seemed to have been sitting around .
+     [-0.3353] Not sure if they trained her on how to interact with customers but she was difficult to speak to .
+
+**********
+[0.3488] There were complaints about the service.
+Parent: There were a few complaints about the service, including slow service and a rude employee, but overall reviewers seemed to enjoy the food and recommend the restaurant.
+
+Top 5 (supporting):
+     [0.3488] First time trying Popeyes ... in a hurry and decided to take the lazy way out of dinner.Good thing I was headed home anyway ... no utensils ... no dipping sauce ... Cole slaw swimming in sauce ... more like cold cabbage soup.Chicken was moist ... would try again ... but not this location .
+     [0.2999] No chicken because it wasn 't defrosted the night before ?
+     [0.2102] Shorted my chicken order , chicken was old and seemed to have been sitting around .
+     [0.1883] Went on sunday evening , manager does not know how to run his crew .
+     [0.1752] Slow very slow service
+
+Top 5 (weakening):
+     [-0.2674] I totally recommend it .
+     [-0.2198] Staff was super friendly and even made it a point to ask if we wanted sauce .
+     [-0.0903] Best damn Popeyes I 've had in awhile !
+     [-0.0879] Seriously so freaking good , can 't wait to have it again !
+     [-0.0583] The chicken was fresh and moist .
+
+**********
+[0.9243] The employee was rude.
+Parent: There were a few complaints about the service, including slow service and a rude employee, but overall reviewers seemed to enjoy the food and recommend the restaurant.
+
+Top 5 (supporting):
+     [0.9243] Chubby girl at window was quite possibly the rudest person ever .
+     [0.6257] Rude people working , will not return to this location .
+     [0.2310] Not sure if they trained her on how to interact with customers but she was difficult to speak to .
+     [0.0520] 南 部 的 なフライドチキンが 楽 しめる 全 国 チェーン 。 チキンのからあげ 等 が 大 好 きな 日 本 人 にとって 、 思 う 存 分 に 楽 しめる 。 年 齢 のせいもあるが 、 コロモに 油 が 比 較 的 多 く 含 まれているので 、 ランチコンボを 二 人 で 分 ける 位 が 丁 度 良 さそう 。 従 業 員 の 方 も 親 切 の 対 応 してくれる 。
+     [0.0001] Do not go to this Popeyes .
+
+Top 5 (weakening):
+     [-0.9974] Staff was super friendly and even made it a point to ask if we wanted sauce .
+     [-0.8129] It used to suck but lately the service is good and the food is delicious .
+     [-0.7245] Seriously so freaking good , can 't wait to have it again !
+     [-0.6679] The chicken was fresh and moist .
+     [-0.5543] I totally recommend it .
+
+**********
+[0.4897] Reviewers enjoyed the food.
+Parent: There were a few complaints about the service, including slow service and a rude employee, but overall reviewers seemed to enjoy the food and recommend the restaurant.
+
+Top 5 (supporting):
+     [0.4897] It used to suck but lately the service is good and the food is delicious .
+     [0.4713] Best damn Popeyes I 've had in awhile !
+     [0.1209] 南 部 的 なフライドチキンが 楽 しめる 全 国 チェーン 。 チキンのからあげ 等 が 大 好 きな 日 本 人 にとって 、 思 う 存 分 に 楽 しめる 。 年 齢 のせいもあるが 、 コロモに 油 が 比 較 的 多 く 含 まれているので 、 ランチコンボを 二 人 で 分 ける 位 が 丁 度 良 さそう 。 従 業 員 の 方 も 親 切 の 対 応 してくれる 。
+     [0.0779] Seriously so freaking good , can 't wait to have it again !
+     [0.0359] I 've been to several Popeyes , this is the first one I 've visited that doesn 't carry the butterfly shrimp , which is their best menu item .
+
+Top 5 (weakening):
+     [-0.9191] First time trying Popeyes ... in a hurry and decided to take the lazy way out of dinner.Good thing I was headed home anyway ... no utensils ... no dipping sauce ... Cole slaw swimming in sauce ... more like cold cabbage soup.Chicken was moist ... would try again ... but not this location .
+     [-0.8526] Do not go to this Popeyes .
+     [-0.8117] Shorted my chicken order , chicken was old and seemed to have been sitting around .
+     [-0.7421] Never again
+     [-0.3771] Rude people working , will not return to this location .
+
+**********
+[0.1003] Reviewers recommended the restaurant.
+Parent: There were a few complaints about the service, including slow service and a rude employee, but overall reviewers seemed to enjoy the food and recommend the restaurant.
+
+Top 5 (supporting):
+     [0.1003] 南 部 的 なフライドチキンが 楽 しめる 全 国 チェーン 。 チキンのからあげ 等 が 大 好 きな 日 本 人 にとって 、 思 う 存 分 に 楽 しめる 。 年 齢 のせいもあるが 、 コロモに 油 が 比 較 的 多 く 含 まれているので 、 ランチコンボを 二 人 で 分 ける 位 が 丁 度 良 さそう 。 従 業 員 の 方 も 親 切 の 対 応 してくれる 。
+     [0.0849] Best damn Popeyes I 've had in awhile !
+     [0.0607] I totally recommend it .
+     [0.0510] It used to suck but lately the service is good and the food is delicious .
+     [0.0340] Staff was super friendly and even made it a point to ask if we wanted sauce .
+
+Top 5 (weakening):
+     [-0.8451] Do not go to this Popeyes .
+     [-0.8018] First time trying Popeyes ... in a hurry and decided to take the lazy way out of dinner.Good thing I was headed home anyway ... no utensils ... no dipping sauce ... Cole slaw swimming in sauce ... more like cold cabbage soup.Chicken was moist ... would try again ... but not this location .
+     [-0.7615] Never again
+     [-0.6259] Rude people working , will not return to this location .
+     [-0.3935] It really is un- called for .

@@ -1,0 +1,111 @@
+Summary:
+
+The reviews were mixed, with some people loving the product and others finding it lacking. The main complaints were about the sound quality of the speakers, although some people found them to be perfectly adequate. Others appreciated the portability and ease of use of the product.
+
+**********
+[0.6377] The product was loved.
+Parent: The reviews were mixed, with some people loving the product and others finding it lacking.
+
+Top 5 (supporting):
+     [0.6377] I love these speakers !
+     [0.4706] I bought one for my son and was so happy , I bought a second one for my daughter !
+     [0.3189] Great Product .
+     [0.2225] This is one of the BEST purchases i 've made & the cost was fantastic !
+     [0.1912] The speakers are not the best , but they are passable.I would certainly buy it again .
+
+Top 5 (weakening):
+     [-0.2336] I was looking for a player that has a remote and this player doesn 't .
+     [-0.1959] Was ready to throw away before getting but was shocked to hear great sound !
+     [-0.0133] It works great in small classrooms , but in larger rooms it doesn 't go very loud .
+     [-0.0018] Very nice sound .
+     [0.0000] ! !
+
+**********
+[0.2750] It was lacking.
+Parent: The reviews were mixed, with some people loving the product and others finding it lacking.
+
+Top 5 (supporting):
+     [0.2750] I was looking for a player that has a remote and this player doesn 't .
+     [0.0000] ! !
+     [-0.0144] It works great in small classrooms , but in larger rooms it doesn 't go very loud .
+     [-0.4145] I am happy with the sound.At very high volume I have heard a little static but not enoughto be of a concern .
+     [-0.6915] Bought one 2 weeks ago ( early Nov ) and used it while camping .
+
+Top 5 (weakening):
+     [-0.9924] Great Product .
+     [-0.9903] I highly recommend it .
+     [-0.9900] This is exactly what I was looking for .
+     [-0.9894] Well made and very portable .
+     [-0.9892] Very nice sound .
+
+**********
+[0.0279] The sound quality of the speakers was poor.
+Parent: The main complaints were about the sound quality of the speakers, although some people found them to be perfectly adequate.
+
+Top 5 (supporting):
+     [0.0279] The speakers are not the best , but they are passable.I would certainly buy it again .
+     [0.0000] ! !
+     [-0.0182] Bought one 2 weeks ago ( early Nov ) and used it while camping .
+     [-0.0385] I was looking for a player that has a remote and this player doesn 't .
+     [-0.0796] It works great in small classrooms , but in larger rooms it doesn 't go very loud .
+
+Top 5 (weakening):
+     [-0.9956] Great sound from such small speakers .
+     [-0.9919] Was ready to throw away before getting but was shocked to hear great sound !
+     [-0.9854] Very nice sound .
+     [-0.9099] I love these speakers !
+     [-0.9081] Sounds nice , works well , and would recommend given how inexpensive it is and my use .
+
+**********
+[0.0661] They were perfectly adequate.
+Parent: The main complaints were about the sound quality of the speakers, although some people found them to be perfectly adequate.
+
+Top 5 (supporting):
+     [0.0661] Well made and very portable .
+     [0.0563] Just as the 5 stars said .
+     [0.0415] This product is very well constructed .
+     [0.0380] Great Product .
+     [0.0331] This is exactly what I was looking for .
+
+Top 5 (weakening):
+     [-0.9483] It works great in small classrooms , but in larger rooms it doesn 't go very loud .
+     [-0.9431] The speakers are not the best , but they are passable.I would certainly buy it again .
+     [-0.8673] I was looking for a player that has a remote and this player doesn 't .
+     [-0.7614] Pleasantly surprised at the quality of this item .
+     [-0.6291] Never expected this .
+
+**********
+[0.9573] The product was portable.
+Parent: Others appreciated the portability and ease of use of the product.
+
+Top 5 (supporting):
+     [0.9573] This portable speaker system allows others to listen to the music on my iPod , I use it alot in the kitchen when I am cooking dinner so I can hear the telephone if it rings .
+     [0.8992] Well made and very portable .
+     [0.8569] This product is great if you need a portable Ipod player .
+     [0.5811] It is easy to use andeasy to take with on trips or outings .
+     [0.5673] It plays very loud , you can take it everywhere you go .
+
+Top 5 (weakening):
+     [-0.1449] Can 't beat the price .
+     [-0.1201] I am happy with the sound.At very high volume I have heard a little static but not enoughto be of a concern .
+     [-0.1116] Was ready to throw away before getting but was shocked to hear great sound !
+     [-0.1089] Also acts as storage for it too .
+     [-0.0887] Sounds nice , works well , and would recommend given how inexpensive it is and my use .
+
+**********
+[0.8822] The product was easy to use.
+Parent: Others appreciated the portability and ease of use of the product.
+
+Top 5 (supporting):
+     [0.8822] It is easy to use andeasy to take with on trips or outings .
+     [0.1370] Well made and very portable .
+     [0.0157] It is compact and keeps the iPod fully charge .
+     [0.0073] Sounds nice , works well , and would recommend given how inexpensive it is and my use .
+     [0.0068] It 's a great little gizmo for listening to music out loud on my ipod shuffle .
+
+Top 5 (weakening):
+     [-0.1422] Was ready to throw away before getting but was shocked to hear great sound !
+     [-0.0598] Can 't beat the price .
+     [-0.0258] I was looking for a player that has a remote and this player doesn 't .
+     [-0.0196] It works great in small classrooms , but in larger rooms it doesn 't go very loud .
+     [-0.0172] Never expected this .

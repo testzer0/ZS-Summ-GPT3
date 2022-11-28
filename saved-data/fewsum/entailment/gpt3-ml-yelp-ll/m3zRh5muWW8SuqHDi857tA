@@ -1,0 +1,111 @@
+Summary:
+
+The product was reviewed positively by most people. They said that it was convenient, clean, and had a friendly staff. They also said that the veterinarians were very knowledgeable and that the product was reasonably priced.
+
+**********
+[0.6826] The product was good.
+Parent: The product was reviewed positively by most people.
+
+Top 5 (supporting):
+     [0.6826] Dr. A A Ron was awesome : ) .
+     [0.4808] DR , Allen was amazing and the staff was great .
+     [0.4360] You couldn 't find a better Vet .
+     [0.4083] Loved the veterinarian that attended to our fur baby .
+     [0.3213] Dr. Bivens rocks .
+
+Top 5 (weakening):
+     [-0.9238] Terrible hurtful staff.Never Go !
+     [-0.4041] The doctor was very nice .
+     [-0.2925] If they treat you this bad just over the phone I could only imagine how they treat you In person .
+     [-0.1772] Love this place !
+     [-0.1651] We love this place !
+
+**********
+[0.9495] It was convenient.
+Parent: They said that it was convenient, clean, and had a friendly staff.
+
+Top 5 (supporting):
+     [0.9495] They were very accommodating and they are open 7 days a week , which is so fantastic .
+     [0.9317] The things I loved most about this place is that is convenient , clean , & has a friendly staff .
+     [0.6606] But everything was reasonable and staff is very understanding .
+     [0.3454] Only needed a well check up and shots very reasonable ( or in my opinion ) .
+     [0.1602] They are great with communication and scheduling and always reasonable with pricing .
+
+Top 5 (weakening):
+     [-0.9782] Terrible hurtful staff.Never Go !
+     [-0.9043] If they treat you this bad just over the phone I could only imagine how they treat you In person .
+     [-0.8691] The staff at the front isn 't the friendliest for starters , service is slow and expensive .
+     [-0.8396] Have to even go back for their Forgetfull OUCH !
+     [-0.7993] Our old veterinarian closed and we didn 't know what to do for my poor baby .
+
+**********
+[0.8745] It was clean.
+Parent: They said that it was convenient, clean, and had a friendly staff.
+
+Top 5 (supporting):
+     [0.8745] The atmosphere is nice .. very clean .
+     [0.8477] The things I loved most about this place is that is convenient , clean , & has a friendly staff .
+     [0.7597] Very clean waiting area and exam rooms .
+     [0.7300] Clean and great friendly services .
+     [0.6834] The waiting area is clean and they were very thorough with their examinations .
+
+Top 5 (weakening):
+     [-0.9912] Terrible hurtful staff.Never Go !
+     [-0.9842] If they treat you this bad just over the phone I could only imagine how they treat you In person .
+     [-0.9813] My dogs beard is still brown and dirty and my others dogs teeth were not cleaned at all - see photo
+     [-0.8714] This vet was able to see my pup with a slight burn / skin irritation in 15'minutes or less waiting in the office .
+     [-0.8507] They always get us in quick and our dogs love them as well .
+
+**********
+[0.9778] It had a friendly staff.
+Parent: They said that it was convenient, clean, and had a friendly staff.
+
+Top 5 (supporting):
+     [0.9778] Very friendly staff , they were able to get me an appointment same day for my dog .
+     [0.9773] The things I loved most about this place is that is convenient , clean , & has a friendly staff .
+     [0.9742] Friendly staff and reasonably priced .
+     [0.9706] Staff was professional and friendly !
+     [0.9656] Staff are super friendly .
+
+Top 5 (weakening):
+     [-0.9973] Terrible hurtful staff.Never Go !
+     [-0.9934] Left in a small no a / c cube room ( 4-6 ft ) 2 hours , no air.almost $ 200 for a rabies vaccination , Yelled at by an crabby staff .
+     [-0.9877] If they treat you this bad just over the phone I could only imagine how they treat you In person .
+     [-0.9745] The staff at the front isn 't the friendliest for starters , service is slow and expensive .
+     [-0.4089] My dogs beard is still brown and dirty and my others dogs teeth were not cleaned at all - see photo
+
+**********
+[0.9627] The veterinarians were very knowledgeable.
+Parent: They also said that the veterinarians were very knowledgeable and that the product was reasonably priced.
+
+Top 5 (supporting):
+     [0.9627] Veterinarians are very knowledgeable .
+     [0.9199] They are always seen on time and the vets are really thorough with our animals .
+     [0.5567] Dr Bivins very caring and attentive .. we take our two dogs there .. so far just shots and check ups .. but I 'm very particular about treatment and they are very good with our dogs .. also very thorough .
+     [0.2012] dr bivens and his staff consistently provide thoughtful , caring and thorough care for my dog ( s ) .I 'm grateful for their kindness and gentle treatment and professional veterinary care.I highly recommend buffalo springs animal hospital for both boarding and veterinary care .
+     [0.1209] Appointments run on time and the doctor always makes suggestions - not pushy like other vets who often try to push products .
+
+Top 5 (weakening):
+     [-0.8752] Terrible hurtful staff.Never Go !
+     [-0.8376] Left in a small no a / c cube room ( 4-6 ft ) 2 hours , no air.almost $ 200 for a rabies vaccination , Yelled at by an crabby staff .
+     [-0.7856] If they treat you this bad just over the phone I could only imagine how they treat you In person .
+     [-0.7416] Have to even go back for their Forgetfull OUCH !
+     [-0.6526] Front desk staff is nice and helpful .
+
+**********
+[0.9201] The product was reasonably priced.
+Parent: They also said that the veterinarians were very knowledgeable and that the product was reasonably priced.
+
+Top 5 (supporting):
+     [0.9201] We called ahead and they saw us right away , The pricing was very affordable and our pet really liked the staff.Thanks guys !
+     [0.7241] They are great with communication and scheduling and always reasonable with pricing .
+     [0.4806] Friendly staff and reasonably priced .
+     [0.4548] Only needed a well check up and shots very reasonable ( or in my opinion ) .
+     [0.4348] But everything was reasonable and staff is very understanding .
+
+Top 5 (weakening):
+     [-0.9753] Overpriced like the Wynn hotel .
+     [-0.8615] Cost is comparable to other vets and all pet owners should know that fur babies are expensive !
+     [-0.6948] The staff at the front isn 't the friendliest for starters , service is slow and expensive .
+     [-0.6812] I got a quote to get my two dogs fixed , almost $ 600 .... YEAH RIGHT !
+     [-0.5200] Terrible hurtful staff.Never Go !

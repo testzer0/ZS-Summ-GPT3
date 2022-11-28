@@ -1,0 +1,147 @@
+Summary:
+
+The product was generally well-received, with reviewers praising the quality of the massages and the helpfulness of the staff. However, some reviewers had negative experiences, reporting that their massage was cut short or that they were charged extra without being informed in advance. Overall, the product seems to be good, but there are some potential issues that customers should be aware of.
+
+**********
+[0.6881] The product was good.
+Parent: The product was generally well-received, with reviewers praising the quality of the massages and the helpfulness of the staff.
+
+Top 5 (supporting):
+     [0.6881] Massage was great .
+     [0.5686] Great massage.
+     [0.4395] Sarah at Massage Envy was easily the best massage I 've every had .
+     [0.4080] Massages are always great .
+     [0.2937] Not only a great deep tissue massage but very personable as is the front desk .
+
+Top 5 (weakening):
+     [-0.4094] Too many bad reviews .
+     [-0.2159] Love the staff here .
+     [-0.2082] Great place !
+     [-0.1746] I 've been back since my first visit and I must say it 's a nice location .
+     [-0.1250] This location is superior , in my opinion !
+
+**********
+[0.4771] The quality of the massages was good.
+Parent: The product was generally well-received, with reviewers praising the quality of the massages and the helpfulness of the staff.
+
+Top 5 (supporting):
+     [0.4771] Great massage.
+     [0.4619] I 've had two massages here with two different therapist , and both timea they have been wonderful .
+     [0.4519] Massage was great .
+     [0.4265] Massages here are usually pretty good .
+     [0.4179] Massages are always great .
+
+Top 5 (weakening):
+     [-0.5862] It may just be me that had a bad experience .
+     [-0.4802] Too many bad reviews .
+     [-0.4286] Not the best experience at all.The front office did make it up by giving me an intro offer and a coupon.I would probably find another location though .
+     [-0.0861] There is a class action lawsuit going on about this .
+     [-0.0635] Stay clear .
+
+**********
+[0.8632] The staff was helpful.
+Parent: The product was generally well-received, with reviewers praising the quality of the massages and the helpfulness of the staff.
+
+Top 5 (supporting):
+     [0.8632] So far all the masseuses have been good the front desk is helpful and kind .
+     [0.5111] The staff is great and the process is always quick and painless .
+     [0.5102] Not only a great deep tissue massage but very personable as is the front desk .
+     [0.4688] This location is nice , the staff is friendly and I 've enjoyed my visits .
+     [0.2912] Not the best experience at all.The front office did make it up by giving me an intro offer and a coupon.I would probably find another location though .
+
+Top 5 (weakening):
+     [-0.2382] Massage was rather short ( 40 minutes for a 1 hour session ) and the therapist was all over the place .
+     [-0.1974] Too many bad reviews .
+     [-0.0948] There is a class action lawsuit going on about this .
+     [-0.0675] It may just be me that had a bad experience .
+     [-0.0623] Stay clear .
+
+**********
+[0.8859] Some reviewers had negative experiences.
+Parent: However, some reviewers had negative experiences, reporting that their massage was cut short or that they were charged extra without being informed in advance.
+
+Top 5 (supporting):
+     [0.8859] Too many bad reviews .
+     [0.6404] Not the best experience at all.The front office did make it up by giving me an intro offer and a coupon.I would probably find another location though .
+     [0.4817] It may just be me that had a bad experience .
+     [0.0925] Jeffery got all of my knots out !
+     [0.0805] I was given a gift card for Christmas , I will go back and use it but dont think I will become a customer after .
+
+Top 5 (weakening):
+     [-0.4852] I just had the most AMAZING massage with Ryan .
+     [-0.3640] Great massage.
+     [-0.2982] I 've had two massages here with two different therapist , and both timea they have been wonderful .
+     [-0.2491] Nicole and Sandy are both good , Sandy for deep tissue and Nicole for wellness and trigger points .
+     [-0.2204] April is great at what she does
+
+**********
+[0.6731] The reviewers' massage was cut short.
+Parent: However, some reviewers had negative experiences, reporting that their massage was cut short or that they were charged extra without being informed in advance.
+
+Top 5 (supporting):
+     [0.6731] Massage was rather short ( 40 minutes for a 1 hour session ) and the therapist was all over the place .
+     [0.0585] Went in for a massage and was told I had to get a membership .
+     [0.0000] Polite .
+     [0.0000] Scam
+     [0.0000] !
+
+Top 5 (weakening):
+     [-0.8322] Every therapist has been a positive experience .
+     [-0.8156] Massage was great .
+     [-0.7941] Best massages ever given by Chandler .
+     [-0.7768] The staff is great and the process is always quick and painless .
+     [-0.7761] Jeffery got all of my knots out !
+
+**********
+[0.0000] Reviewers were charged extra without being informed in advance.
+Parent: However, some reviewers had negative experiences, reporting that their massage was cut short or that they were charged extra without being informed in advance.
+
+Top 5 (supporting):
+     [0.0000] Polite .
+     [0.0000] Scam
+     [0.0000] !
+     [-0.0398] They charged my credit card $ 95 .
+     [-0.0642] Complete bait and switch .
+
+Top 5 (weakening):
+     [-0.8448] Not the best experience at all.The front office did make it up by giving me an intro offer and a coupon.I would probably find another location though .
+     [-0.8418] They negotiate the membership if you don 't like the original terms.Good customer service .
+     [-0.8413] They are very good about working around your schedule and accommodating to your request .
+     [-0.8238] Explained I did not live there but was told you can cancel at any time it 's not a problem .
+     [-0.6593] I was given a gift card for Christmas , I will go back and use it but dont think I will become a customer after .
+
+**********
+[0.4550] The product seems good.
+Parent: Overall, the product seems to be good, but there are some potential issues that customers should be aware of.
+
+Top 5 (supporting):
+     [0.4550] Great massage.
+     [0.3198] Massages are always great .
+     [0.2952] Not only a great deep tissue massage but very personable as is the front desk .
+     [0.2943] Nicole and Sandy are both good , Sandy for deep tissue and Nicole for wellness and trigger points .
+     [0.2261] Massages here are usually pretty good .
+
+Top 5 (weakening):
+     [-0.4512] Too many bad reviews .
+     [-0.2513] I 've been back since my first visit and I must say it 's a nice location .
+     [-0.2299] Great place !
+     [-0.1698] This location is superior , in my opinion !
+     [-0.1405] This location is nice , the staff is friendly and I 've enjoyed my visits .
+
+**********
+[0.7724] Customers should be aware of potential issues.
+Parent: Overall, the product seems to be good, but there are some potential issues that customers should be aware of.
+
+Top 5 (supporting):
+     [0.7724] Watch out when you try to cancel , any credits you have are gone in 30 days .
+     [0.2670] Stay clear .
+     [0.2235] Watch your back .
+     [0.1217] I agreed and now am told you can 't cancel within 1 YEAR and have to pay the entire $ 708 before you can cancel .
+     [0.0784] I was given a gift card for Christmas , I will go back and use it but dont think I will become a customer after .
+
+Top 5 (weakening):
+     [-0.4645] Strongly recommend her .
+     [-0.4344] The staff is great and the process is always quick and painless .
+     [-0.4039] Would recommend him to anyone .
+     [-0.3517] I just had the most AMAZING massage with Ryan .
+     [-0.3489] Great massage.

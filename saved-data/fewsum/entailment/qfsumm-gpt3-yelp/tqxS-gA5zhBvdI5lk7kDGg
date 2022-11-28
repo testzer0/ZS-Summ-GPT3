@@ -1,0 +1,147 @@
+Summary:
+
+Overall, reviewers thought the food was fresh and tasty, though some found the refried beans too salty. The new location was praised for being more spacious. Service was criticized as being slow, though Cheryl was singled out as being great. Margaritas were also praised.
+
+**********
+[0.8924] The food was fresh.
+Parent: Overall, reviewers thought the food was fresh and tasty, though some found the refried beans too salty.
+
+Top 5 (supporting):
+     [0.8924] The fish taco is my favorite , but everything I 've tried has been so fresh and tasty .
+     [0.2957] food is authentic mexican and flavorful.
+     [0.0946] always great to get home made tortillas.
+     [0.0484] Best Mexican food I 've had .
+     [0.0441] Yummy margaritas , great pastor tacos .
+
+Top 5 (weakening):
+     [-0.9365] The rice didn 't taste fresh .
+     [-0.8195] The refried beans were super salty .
+     [-0.7868] The food was mediocre .
+     [-0.0528] Lime margarita was delish !
+     [-0.0201] The new location is wonderful .
+
+**********
+[0.8877] The food was tasty.
+Parent: Overall, reviewers thought the food was fresh and tasty, though some found the refried beans too salty.
+
+Top 5 (supporting):
+     [0.8877] food is authentic mexican and flavorful.
+     [0.7325] The fish taco is my favorite , but everything I 've tried has been so fresh and tasty .
+     [0.5913] Food was good as usual , I liked that they have alcohol available at this location .
+     [0.5619] -Food is 5 star ( the pastor tacos were amazing ! )
+     [0.5286] It 's close to campus and the food is great .
+
+Top 5 (weakening):
+     [-0.9868] The food was mediocre .
+     [-0.3080] Chips were too thick for my taste but were sturdy and appears they would not break when scooping guac .
+     [-0.0691] The rice didn 't taste fresh .
+     [-0.0634] -Service was a 2 star ( wasn 't even rush hour and extremely slow ; many wrong orders within our party ; forgot to bring things ) -Drinks were a 1 star ( not tasty , limited choice , and REALLY expensive for what you got ) .Overall , go for the food but expect to wait !
+     [-0.0390] Cheryl is the greatest ever !
+
+**********
+[0.6923] The refried beans were too salty.
+Parent: Overall, reviewers thought the food was fresh and tasty, though some found the refried beans too salty.
+
+Top 5 (supporting):
+     [0.6923] The refried beans were super salty .
+     [-0.0082] This place has ruined other Mexican places for me .
+     [-0.0086] The food was mediocre .
+     [-0.0247] Don 't expect your average Mexican restaurant experience .
+     [-0.0316] Daughter and I sat at the bar to have a snack and a drink .
+
+Top 5 (weakening):
+     [-0.9673] Awesome half price margaritas on Tuesday !
+     [-0.9579] The gorditas are awesome !
+     [-0.9532] Amazing chips and salsa .
+     [-0.9430] And their cheese " dip " is ridiculously good !
+     [-0.9155] always great to get home made tortillas.
+
+**********
+[0.9677] The new location was good.
+Parent: The new location was praised for being more spacious.
+
+Top 5 (supporting):
+     [0.9677] The new location is wonderful .
+     [0.1715] This place has ruined other Mexican places for me .
+     [0.0740] Cool place , I love the location .
+     [0.0398] Unlike the original location , there is plenty of room to enjoy your dining experience .
+     [0.0387] This place is yummy !
+
+Top 5 (weakening):
+     [-0.1771] The rice didn 't taste fresh .
+     [-0.1683] Cheryl is the greatest ever !
+     [-0.1337] prices are very reasonable !
+     [-0.0896] The food was mediocre .
+     [-0.0821] Prices are very reasonable , too .
+
+**********
+[0.2628] The new location was spacious.
+Parent: The new location was praised for being more spacious.
+
+Top 5 (supporting):
+     [0.2628] Unlike the original location , there is plenty of room to enjoy your dining experience .
+     [0.0367] Cool place , I love the location .
+     [0.0351] This place is yummy !
+     [0.0325] The new location is wonderful .
+     [0.0262] Great environment as well .
+
+Top 5 (weakening):
+     [-0.6164] Lime margarita was delish !
+     [-0.4834] Great food , nice staff , cicadas and live band both entertaining in the courtyard , and gorgeous old train station bar inside .
+     [-0.4302] The rice didn 't taste fresh .
+     [-0.3584] Tacos are the bomb !
+     [-0.3439] prices are very reasonable !
+
+**********
+[0.9415] Service was slow.
+Parent: Service was criticized as being slow, though Cheryl was singled out as being great.
+
+Top 5 (supporting):
+     [0.9415] -Service was a 2 star ( wasn 't even rush hour and extremely slow ; many wrong orders within our party ; forgot to bring things ) -Drinks were a 1 star ( not tasty , limited choice , and REALLY expensive for what you got ) .Overall , go for the food but expect to wait !
+     [0.8938] Service seems a bit slow , though , and they have a weird thing about how they can only do 6 separate checks maximum .
+     [-0.0045] Had 3 tacos tradicional ( carne asada , pastor , and chorizo ) , chips and guacamole , and a margarita .
+     [-0.0045] This place has ruined other Mexican places for me .
+     [-0.0066] The food was mediocre .
+
+Top 5 (weakening):
+     [-0.9961] service is fast and the food comes quickly too.
+     [-0.9947] Lots of food for a good price and fantastic service ( super fast ) .
+     [-0.9542] Our server was very friendly & efficient !
+     [-0.9379] Service was a bit too attentive , but wasn 't really a nuisance
+     [-0.8360] Great food , nice staff , cicadas and live band both entertaining in the courtyard , and gorgeous old train station bar inside .
+
+**********
+[0.9226] Cheryl was great.
+Parent: Service was criticized as being slow, though Cheryl was singled out as being great.
+
+Top 5 (supporting):
+     [0.9226] Cheryl is the greatest ever !
+     [0.0947] It 's never disappointing and I love the ambiance of this place .
+     [0.0500] It did not disappoint .
+     [0.0438] Highly recommended .
+     [0.0435] i will definitely go back
+
+Top 5 (weakening):
+     [-0.9640] The food was mediocre .
+     [-0.9152] The service was okay .
+     [-0.8512] Lime margarita was delish !
+     [-0.8307] The rice didn 't taste fresh .
+     [-0.8284] -Service was a 2 star ( wasn 't even rush hour and extremely slow ; many wrong orders within our party ; forgot to bring things ) -Drinks were a 1 star ( not tasty , limited choice , and REALLY expensive for what you got ) .Overall , go for the food but expect to wait !
+
+**********
+[0.8302] Margaritas were good.
+Parent: Margaritas were also praised.
+
+Top 5 (supporting):
+     [0.8302] Yummy margaritas , great pastor tacos .
+     [0.7251] Awesome half price margaritas on Tuesday !
+     [0.5090] Lime margarita was delish !
+     [0.2133] The gorditas are awesome !
+     [0.0290] Had 3 tacos tradicional ( carne asada , pastor , and chorizo ) , chips and guacamole , and a margarita .
+
+Top 5 (weakening):
+     [-0.9266] Their steak tacos are to die for .
+     [-0.9066] Tacos are the bomb !
+     [-0.8447] Amazing chips and salsa .
+     [-0.8163] Favorite restaurant to go to for tacos !
+     [-0.7801] Love the steak tostadas as well as the steak burrito .

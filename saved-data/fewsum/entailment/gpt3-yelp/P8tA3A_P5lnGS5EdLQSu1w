@@ -1,0 +1,93 @@
+Summary:
+
+The product was praised for its ability to resolve urinary issues and for the competence of its office staff. However, some reviewers noted that the staff can be unprofessional and that the product can be difficult to get ahold of. Overall, the product was rated highly by reviewers.
+
+**********
+[0.6003] The product resolved urinary issues.
+Parent: The product was praised for its ability to resolve urinary issues and for the competence of its office staff.
+
+Top 5 (supporting):
+     [0.6003] All the urinary issues that I had lived with for so many years were completely resolved - 100 % with the TURP procedure he performed .
+     [0.0257] My husband had prostate cancer and surgery and almost two years later is doing fine .
+     [-0.0032] The follow up care was really great .
+     [-0.0060] I was referred by my primary care physician .
+     [-0.0072] So , thank you , Dr Daitch .
+
+Top 5 (weakening):
+     [-0.6934] If you plan on being seen here make sure you have a quality medical malpractice lawyer on hand because you will need it .
+     [-0.5926] I have never seen a level of incompetence as I have with this office .
+     [-0.5018] Find another group .
+     [-0.4856] One is definitely made to feel like little more than a number with this office .
+     [-0.4754] Unable to get through to Dr. Daitch when he 's needed .
+
+**********
+[0.4499] The office staff was competent.
+Parent: The product was praised for its ability to resolve urinary issues and for the competence of its office staff.
+
+Top 5 (supporting):
+     [0.4499] Will be finding another physician with competent staff
+     [0.0605] Dr. Bootwala was the best , I can 't thank her enough for all she did for me from start to finish .....
+     [0.0340] Scheduler was on phone talking about her work schedule and kids ; kept me waiting then I was an inconvenient interruption to her call .
+     [0.0268] I wanted to personally thank Dr. Daitch for handling my case in such an outstanding manner .
+     [0.0226] So , thank you , Dr Daitch .
+
+Top 5 (weakening):
+     [-0.9671] I have never seen a level of incompetence as I have with this office .
+     [-0.8021] Office staff is deplorable .
+     [-0.5716] They drop the ball each and every time .
+     [-0.4347] Dr Woodruff is wonderful but do not expect much-in fact , expect very little-from the staff .
+     [-0.3123] He doesn 't care about his patients and neither does his staff .
+
+**********
+[0.7411] The staff can be unprofessional.
+Parent: However, some reviewers noted that the staff can be unprofessional and that the product can be difficult to get ahold of.
+
+Top 5 (supporting):
+     [0.7411] I have never seen a level of incompetence as I have with this office .
+     [0.3236] He doesn 't care about his patients and neither does his staff .
+     [0.1608] Dr Woodruff is wonderful but do not expect much-in fact , expect very little-from the staff .
+     [0.1317] There are other urologist in the area that are more professional .
+     [0.1182] Office staff is deplorable .
+
+Top 5 (weakening):
+     [-0.5944] Dr. Bootwala was the best , I can 't thank her enough for all she did for me from start to finish .....
+     [-0.3871] I wanted to personally thank Dr. Daitch for handling my case in such an outstanding manner .
+     [-0.3792] The follow up care was really great .
+     [-0.3097] So , thank you , Dr Daitch .
+     [-0.2632] I would highly recommend Dr. Scott Cheney .
+
+**********
+[0.4348] The product can be difficult to get ahold of.
+Parent: However, some reviewers noted that the staff can be unprofessional and that the product can be difficult to get ahold of.
+
+Top 5 (supporting):
+     [0.4348] Unable to get through to Dr. Daitch when he 's needed .
+     [0.0715] It took 2 weeks and multiple phone calls to finally receive test results .
+     [0.0511] I have never seen a level of incompetence as I have with this office .
+     [0.0459] Scheduler was on phone talking about her work schedule and kids ; kept me waiting then I was an inconvenient interruption to her call .
+     [0.0413] Will be finding another physician with competent staff
+
+Top 5 (weakening):
+     [-0.0707] Dr. Bootwala was the best , I can 't thank her enough for all she did for me from start to finish .....
+     [-0.0311] The follow up care was really great .
+     [-0.0301] Dr. Daitch was very pleasant to work with .
+     [-0.0234] All the urinary issues that I had lived with for so many years were completely resolved - 100 % with the TURP procedure he performed .
+     [-0.0192] He is one of the most compassionate doctors I have ever met .
+
+**********
+[0.5425] The product was rated highly.
+Parent: Overall, the product was rated highly by reviewers.
+
+Top 5 (supporting):
+     [0.5425] I would highly recommend Dr. Scott Cheney .
+     [0.3052] The follow up care was really great .
+     [0.2678] Dr. Bootwala was the best , I can 't thank her enough for all she did for me from start to finish .....
+     [0.0214] I wanted to personally thank Dr. Daitch for handling my case in such an outstanding manner .
+     [0.0187] Evidently , 2 of my friends had similar experiences.Do yourself a favor .
+
+Top 5 (weakening):
+     [-0.9851] Office staff is deplorable .
+     [-0.9531] I have never seen a level of incompetence as I have with this office .
+     [-0.5258] He doesn 't care about his patients and neither does his staff .
+     [-0.1318] He is one of the most compassionate doctors I have ever met .
+     [-0.1051] Scheduler was on phone talking about her work schedule and kids ; kept me waiting then I was an inconvenient interruption to her call .

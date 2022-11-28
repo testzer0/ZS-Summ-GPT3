@@ -1,0 +1,129 @@
+Summary:
+
+It seems that the product is generally well-liked, with reviewers praising the taste, quality, and value of the food. There are some negative reviews, but they seem to be mostly from people who had bad luck with specific dishes or who did not enjoy their experience for unrelated reasons.
+
+**********
+[0.7412] The product is good.
+Parent: It seems that the product is generally well-liked, with reviewers praising the taste, quality, and value of the food.
+
+Top 5 (supporting):
+     [0.7412] The food is good and the service friendly and fast .
+     [0.7326] Man the food is good , the prices are cheap , plus unlimited chips and salsa !
+     [0.6883] The food and service is consistently good .
+     [0.6787] The queso is amazing and the chips are fresh and delicious .
+     [0.6158] Great service and better food.The cheese dip is amazing !
+
+Top 5 (weakening):
+     [-0.3657] My colleague for the tacos and stated he shredded beef was also bland .
+     [-0.3124] Nice local place
+     [-0.2209] Love this place !
+     [-0.1985] We were excited to go there , but we were disappointed .
+     [-0.1824] Great place to go with friends .
+
+**********
+[0.8609] The food tastes good.
+Parent: It seems that the product is generally well-liked, with reviewers praising the taste, quality, and value of the food.
+
+Top 5 (supporting):
+     [0.8609] It was bland and runny / watery , but other than that , the food was delicious !
+     [0.8534] Man the food is good , the prices are cheap , plus unlimited chips and salsa !
+     [0.8222] The food is good and the service friendly and fast .
+     [0.7827] The food and drinks were so good .
+     [0.7209] Always good food and fast friendly service !
+
+Top 5 (weakening):
+     [-0.4654] My colleague for the tacos and stated he shredded beef was also bland .
+     [-0.3750] We were excited to go there , but we were disappointed .
+     [-0.3534] Wouldn 't eat here if you payed me .
+     [-0.2516] Watch what your eating .
+     [-0.1701] We won 't be going back.Fish tacos would be your best choice .
+
+**********
+[0.8104] The food is praiseworthy.
+Parent: It seems that the product is generally well-liked, with reviewers praising the taste, quality, and value of the food.
+
+Top 5 (supporting):
+     [0.8104] The food is good and the service friendly and fast .
+     [0.7760] Man the food is good , the prices are cheap , plus unlimited chips and salsa !
+     [0.7600] Food is amazing-always fresh .
+     [0.6842] The food and service is consistently good .
+     [0.5758] The food and drinks were so good .
+
+Top 5 (weakening):
+     [-0.8302] I was disappointed that they did not serve fresh salsa or horchata .
+     [-0.5831] Watch what your eating .
+     [-0.5354] We won 't be going back.Fish tacos would be your best choice .
+     [-0.4838] Wouldn 't eat here if you payed me .
+     [-0.4777] F * * * Taco Bell .
+
+**********
+[0.2669] The food is valuable.
+Parent: It seems that the product is generally well-liked, with reviewers praising the taste, quality, and value of the food.
+
+Top 5 (supporting):
+     [0.2669] Man the food is good , the prices are cheap , plus unlimited chips and salsa !
+     [0.1212] The food is good and the service friendly and fast .
+     [0.1063] They have consistent and decent food at a decent price .
+     [0.0887] Best Mexican food in town !
+     [0.0838] Excellent food and margaritas .
+
+Top 5 (weakening):
+     [-0.1217] We were excited to go there , but we were disappointed .
+     [-0.0520] We won 't be going back.Fish tacos would be your best choice .
+     [-0.0379] 10 minutes each time just to bring expected items like water .
+     [-0.0378] The prices were a bit high & not worth it .
+     [-0.0335] F * * * Taco Bell .
+
+**********
+[0.6414] Some reviews are negative.
+Parent: There are some negative reviews, but they seem to be mostly from people who had bad luck with specific dishes or who did not enjoy their experience for unrelated reasons.
+
+Top 5 (supporting):
+     [0.6414] I was disappointed that they did not serve fresh salsa or horchata .
+     [0.5807] My colleague for the tacos and stated he shredded beef was also bland .
+     [0.4480] Three mother f * * * * * words : Fried Chicken Burrito .
+     [0.4265] The only negative is the salsa .
+     [0.3691] Fried shrimp came undercooked twice .
+
+Top 5 (weakening):
+     [-0.5117] Nice local place
+     [-0.5042] We ordered the seafood enchiladas , which were on special .
+     [-0.4428] I had the chicken fajita quesadilla and it was super yummy and flavorful and a huge portion .
+     [-0.3301] The queso is amazing and the chips are fresh and delicious .
+     [-0.3278] Got a take out tonight a shrimp quesadilla and guacamole dip both were great ! !
+
+**********
+[0.0000] Negative reviews seem to be mostly from people who had bad luck with dishes.
+Parent: There are some negative reviews, but they seem to be mostly from people who had bad luck with specific dishes or who did not enjoy their experience for unrelated reasons.
+
+Top 5 (supporting):
+     [0.0000] No joke .
+     [0.0000] Yum ! !
+     [0.0000] Honestly .
+     [0.0000] Dirty .
+     [0.0000] OMG !
+
+Top 5 (weakening):
+     [-0.7666] They were delicious .
+     [-0.7182] Food is amazing-always fresh .
+     [-0.7117] The food and drinks were so good .
+     [-0.6620] This place is outstanding !
+     [-0.6295] The chps and salsa were great !
+
+**********
+[0.0407] Negative reviews seem to be mostly from people who did not enjoy their experience.
+Parent: There are some negative reviews, but they seem to be mostly from people who had bad luck with specific dishes or who did not enjoy their experience for unrelated reasons.
+
+Top 5 (supporting):
+     [0.0407] We were excited to go there , but we were disappointed .
+     [0.0078] I was disappointed that they did not serve fresh salsa or horchata .
+     [0.0025] We won 't be going back.Fish tacos would be your best choice .
+     [0.0000] No joke .
+     [0.0000] Yum ! !
+
+Top 5 (weakening):
+     [-0.7157] Love this place !
+     [-0.6731] This place is outstanding !
+     [-0.6305] They were delicious .
+     [-0.5960] Love the Roqueto Burrito .
+     [-0.5184] Plates come out extremely hot .

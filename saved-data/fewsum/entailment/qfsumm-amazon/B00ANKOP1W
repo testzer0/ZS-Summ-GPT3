@@ -1,0 +1,169 @@
+Summary:
+
+It was a very cute dress !
+It 's a very beautiful dress and soft for a newborns skin .
+This will be my grand daughter 's come home outfit when she is born in September .
+This dress will be an Easter Dress for my Great GrandaughterThen we are saveing the dress for her first new born baby doll .
+I think that 's a great idea .
+
+**********
+[0.9640] The dress is cute.
+Parent: It was a very cute dress !
+
+Top 5 (supporting):
+     [0.9640] It was a very cute dress !
+     [0.4680] I love this dress !
+     [0.2589] It 's a very beautiful dress and soft for a newborns skin .
+     [0.2142] Outfit is even prettier in person !
+     [0.2060] Dress was very pretty but never was worn .
+
+Top 5 (weakening):
+     [-0.0857] I gave it four stars because the panty seems to be a little small , if you consider it goes over a diaper .
+     [-0.0328] I think that 's a great idea .. Love doing business with you Nannettek
+     [-0.0184] I recommend you hand wash .
+     [-0.0141] This was a fast delievery ...
+     [-0.0108] Dress was washed in gentle cycle and the lace around dress came apart .
+
+**********
+[0.9498] The dress is beautiful.
+Parent: It 's a very beautiful dress and soft for a newborns skin .
+
+Top 5 (supporting):
+     [0.9498] It 's a very beautiful dress and soft for a newborns skin .
+     [0.6548] I love this dress !
+     [0.6438] It was a very cute dress !
+     [0.6064] Dress was very pretty but never was worn .
+     [0.2200] This dress was for our daughters first Eaters and it was so much more than we thought it would be .
+
+Top 5 (weakening):
+     [-0.0596] I gave it four stars because the panty seems to be a little small , if you consider it goes over a diaper .
+     [-0.0418] I think that 's a great idea .. Love doing business with you Nannettek
+     [-0.0133] Dress was washed in gentle cycle and the lace around dress came apart .
+     [-0.0128] I recommend you hand wash .
+     [-0.0102] We prewash clothes before we put on baby to wear .
+
+**********
+[0.8033] It is soft.
+Parent: It 's a very beautiful dress and soft for a newborns skin .
+
+Top 5 (supporting):
+     [0.8033] It 's a very beautiful dress and soft for a newborns skin .
+     [0.0570] The lace and tulle are very nice as well .
+     [0.0282] It was a very cute dress !
+     [0.0230] My daughter wore this the day we were living the hospital , and every one love it ...
+     [0.0188] Lovely , beautiful , I 'm loving it !
+
+Top 5 (weakening):
+     [-0.4826] This was a fast delievery ...
+     [-0.2236] I think that 's a great idea .. Love doing business with you Nannettek
+     [-0.1798] Dress was washed in gentle cycle and the lace around dress came apart .
+     [-0.1054] Outfit is even prettier in person !
+     [-0.0716] I gave it four stars because the panty seems to be a little small , if you consider it goes over a diaper .
+
+**********
+[0.9715] This is my grand daughter's come home outfit.
+Parent: This will be my grand daughter 's come home outfit when she is born in September .
+
+Top 5 (supporting):
+     [0.9715] This will be my grand daughter 's come home outfit when she is born in September .
+     [0.6183] this was a take home outfit for my 14th grandchild , She will be here in December , cant wait to see her in it
+     [-0.0058] It was a very cute dress !
+     [-0.0077] She is petite for her age so the 3-6M fit her perfectly .
+     [-0.0097] Outfit is even prettier in person !
+
+Top 5 (weakening):
+     [-0.8487] Dress was very pretty but never was worn .
+     [-0.8212] We are saving it for her to use for a doll when she 's bigger .
+     [-0.7547] This dress will be an Easter Dress for my Great GrandaughterThen we are saveing the dress for her first new born baby doll ..
+     [-0.5405] This dress was perfect for my daughter 's 6 month photos !
+     [-0.4927] This dress was for our daughters first Eaters and it was so much more than we thought it would be .
+
+**********
+[0.9197] She was born in September.
+Parent: This will be my grand daughter 's come home outfit when she is born in September .
+
+Top 5 (supporting):
+     [0.9197] This will be my grand daughter 's come home outfit when she is born in September .
+     [-0.0046] Even though it was slightly large for my 7 pound 8 oz baby , it fit much better than other newborn dresses that I got her .
+     [-0.0101] It 's a very beautiful dress and soft for a newborns skin .
+     [-0.0258] My daughter wore this the day we were living the hospital , and every one love it ...
+     [-0.0266] She is petite for her age so the 3-6M fit her perfectly .
+
+Top 5 (weakening):
+     [-0.4184] This dress will be an Easter Dress for my Great GrandaughterThen we are saveing the dress for her first new born baby doll ..
+     [-0.2485] I bought this dress as a gift and the person who received it liked it a lot .
+     [-0.2272] This dress was perfect for my daughter 's 6 month photos !
+     [-0.2082] I think that 's a great idea .. Love doing business with you Nannettek
+     [-0.1927] This was a fast delievery ...
+
+**********
+[0.9843] This is an Easter dress for my great granddaughter.
+Parent: This dress will be an Easter Dress for my Great GrandaughterThen we are saveing the dress for her first new born baby doll .
+
+Top 5 (supporting):
+     [0.9843] This dress will be an Easter Dress for my Great GrandaughterThen we are saveing the dress for her first new born baby doll ..
+     [-0.0031] It was a very cute dress !
+     [-0.0044] She is petite for her age so the 3-6M fit her perfectly .
+     [-0.0056] I definitely recommend .
+     [-0.0058] The lace and tulle are very nice as well .
+
+Top 5 (weakening):
+     [-0.7957] This dress was for our daughters first Eaters and it was so much more than we thought it would be .
+     [-0.7501] We are saving it for her to use for a doll when she 's bigger .
+     [-0.4609] I think that 's a great idea .. Love doing business with you Nannettek
+     [-0.4482] This dress was perfect for my daughter 's 6 month photos !
+     [-0.3333] My daughter wore this the day we were living the hospital , and every one love it ...
+
+**********
+[0.9877] We are saving the dress for her first new born baby doll.
+Parent: This dress will be an Easter Dress for my Great GrandaughterThen we are saveing the dress for her first new born baby doll .
+
+Top 5 (supporting):
+     [0.9877] This dress will be an Easter Dress for my Great GrandaughterThen we are saveing the dress for her first new born baby doll ..
+     [-0.0160] The lace and tulle are very nice as well .
+     [-0.0413] It was a very cute dress !
+     [-0.0445] I definitely recommend .
+     [-0.0458] It looks really cute .
+
+Top 5 (weakening):
+     [-0.9786] She is petite for her age so the 3-6M fit her perfectly .
+     [-0.9698] this was a take home outfit for my 14th grandchild , She will be here in December , cant wait to see her in it
+     [-0.9619] Even though it was slightly large for my 7 pound 8 oz baby , it fit much better than other newborn dresses that I got her .
+     [-0.9587] This dress was for our daughters first Eaters and it was so much more than we thought it would be .
+     [-0.9515] This dress was perfect for my daughter 's 6 month photos !
+
+**********
+[0.0000] I think.
+Parent: I think that 's a great idea .
+
+Top 5 (supporting):
+     [0.0000] It 's a very beautiful dress and soft for a newborns skin .
+     [0.0000] We are saving it for her to use for a doll when she 's bigger .
+     [0.0000] She was less than a month old and it fit her just right .
+     [0.0000] This dress was for our daughters first Eaters and it was so much more than we thought it would be .
+     [0.0000] I recommend you hand wash .
+
+Top 5 (weakening):
+     [0.0000] Outfit is even prettier in person !
+     [0.0000] This will be my grand daughter 's come home outfit when she is born in September .
+     [0.0000] It was a very cute dress !
+     [0.0000] Even though it was slightly large for my 7 pound 8 oz baby , it fit much better than other newborn dresses that I got her .
+     [0.0000] I definitely recommend .
+
+**********
+[0.9483] That is a great idea.
+Parent: I think that 's a great idea .
+
+Top 5 (supporting):
+     [0.9483] I think that 's a great idea .. Love doing business with you Nannettek
+     [0.1222] I definitely recommend .
+     [0.0271] Lovely , beautiful , I 'm loving it !
+     [0.0218] It looks really cute .
+     [0.0134] I love this dress !
+
+Top 5 (weakening):
+     [-0.8680] Dress was very pretty but never was worn .
+     [-0.3819] Dress was washed in gentle cycle and the lace around dress came apart .
+     [-0.3094] I gave it four stars because the panty seems to be a little small , if you consider it goes over a diaper .
+     [-0.2890] This was a fast delievery ...
+     [-0.1681] This dress was for our daughters first Eaters and it was so much more than we thought it would be .

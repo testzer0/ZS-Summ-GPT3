@@ -1,0 +1,111 @@
+Summary:
+
+The reviews said that the pizza is amazing, with great toppings and a great crust. The service is also amazing, with the staff being very friendly and helpful.
+
+**********
+[0.9336] The reviews said the pizza is great.
+Parent: The reviews said that the pizza is amazing, with great toppings and a great crust.
+
+Top 5 (supporting):
+     [0.9336] Service and pizza are great and we love the selection beverages .
+     [0.6927] Great pizza , very fresh ingredients with quick service .
+     [0.3665] Very good pizza .
+     [0.0684] The selection is amazing for toppings ( so many options ) , the price is great for an 11 " pizza .
+     [0.0667] And pizza was even better than I imagined !
+
+Top 5 (weakening):
+     [-0.1673] Staff is extremely friendly , beverage selection solid It is a winner !
+     [-0.0842] For thin crust pizza , OMG ! !
+     [-0.0803] It was busy !
+     [-0.0383] Personal favorite is the red vine .
+     [-0.0295] The concept is wonderful .
+
+**********
+[0.9596] The pizza has great toppings.
+Parent: The reviews said that the pizza is amazing, with great toppings and a great crust.
+
+Top 5 (supporting):
+     [0.9596] The selection is amazing for toppings ( so many options ) , the price is great for an 11 " pizza .
+     [0.1074] Loved the dough and the toppings were excellent .
+     [0.0493] Also , I am not much for thinking crust , but there crust was awesome .
+     [0.0344] They even have feta and goat cheese available for pizza .
+     [0.0179] So quick and very generous with the toppings .
+
+Top 5 (weakening):
+     [-0.0185] It was busy !
+     [-0.0101] For thin crust pizza , OMG ! !
+     [-0.0079] But moved quickly .
+     [-0.0059] Personal favorite is the red vine .
+     [-0.0038] Staff is extremely friendly , beverage selection solid It is a winner !
+
+**********
+[0.0927] The pizza has a great crust.
+Parent: The reviews said that the pizza is amazing, with great toppings and a great crust.
+
+Top 5 (supporting):
+     [0.0927] Loved the dough and the toppings were excellent .
+     [0.0225] Also , I am not much for thinking crust , but there crust was awesome .
+     [0.0125] I rarely see that in places that serve pizza .
+     [0.0107] The crust is nice and chewy and not too thick .
+     [0.0088] That being said , the pizza is great !
+
+Top 5 (weakening):
+     [-0.9708] For thin crust pizza , OMG ! !
+     [-0.0241] It was busy !
+     [-0.0093] But moved quickly .
+     [-0.0047] I will most likely up my review to 5 stars when they get everything ironed out .
+     [-0.0043] The concept is wonderful .
+
+**********
+[0.9551] The service is great.
+Parent: The service is also amazing, with the staff being very friendly and helpful.
+
+Top 5 (supporting):
+     [0.9551] The service was amazing , they 're nice , greeting you at the door , and they go above and beyond , really making the customer feel like the priority .
+     [0.9114] Service and pizza are great and we love the selection beverages .
+     [0.6956] Staff is extremely friendly , beverage selection solid It is a winner !
+     [0.4889] Great pizza , very fresh ingredients with quick service .
+     [0.2180] So quick and very generous with the toppings .
+
+Top 5 (weakening):
+     [-0.4045] The concept is wonderful .
+     [-0.1180] The crust is nice and chewy and not too thick .
+     [-0.0764] But the real draw are the fresh ingredients .
+     [-0.0214] Also , I am not much for thinking crust , but there crust was awesome .
+     [-0.0104] That being said , the pizza is great !
+
+**********
+[0.9820] The staff is friendly.
+Parent: The service is also amazing, with the staff being very friendly and helpful.
+
+Top 5 (supporting):
+     [0.9820] The staff is exceptionally friendly !
+     [0.9762] Staff is extremely friendly , beverage selection solid It is a winner !
+     [0.9752] Staff are all very friendly , enthusiastic and helpful !
+     [0.8496] The service was amazing , they 're nice , greeting you at the door , and they go above and beyond , really making the customer feel like the priority .
+     [0.5308] We went shortly after they grand opened and the staff seemed well train and with good attitudes .
+
+Top 5 (weakening):
+     [-0.0469] But moved quickly .
+     [-0.0225] The crust is nice and chewy and not too thick .
+     [-0.0081] We also went when they were doing free pizza and the line was out the door .
+     [-0.0022] It was busy !
+     [-0.0016] I will most likely up my review to 5 stars when they get everything ironed out .
+
+**********
+[0.9612] The staff is helpful.
+Parent: The service is also amazing, with the staff being very friendly and helpful.
+
+Top 5 (supporting):
+     [0.9612] Staff are all very friendly , enthusiastic and helpful !
+     [0.6606] Staff is extremely friendly , beverage selection solid It is a winner !
+     [0.5232] The service was amazing , they 're nice , greeting you at the door , and they go above and beyond , really making the customer feel like the priority .
+     [0.3817] We went shortly after they grand opened and the staff seemed well train and with good attitudes .
+     [0.3013] The staff is exceptionally friendly !
+
+Top 5 (weakening):
+     [-0.0579] The crust is nice and chewy and not too thick .
+     [-0.0190] Personal favorite is the red vine .
+     [-0.0023] But the real draw are the fresh ingredients .
+     [-0.0009] We also went when they were doing free pizza and the line was out the door .
+     [-0.0005] The concept is wonderful .

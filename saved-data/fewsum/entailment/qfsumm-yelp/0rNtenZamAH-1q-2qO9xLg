@@ -1,0 +1,205 @@
+Summary:
+
+Plus , if you ask , you get a complimentary iced tea to go ( if you ordered tea with your meal ) .
+Also , it seems odd that they don ' t offer any gluten - free pancake or bread options since they 're all about offering local , organic ( healthy ) food .
+Come for a good breakfast with a great atmosphere and phenomenal service .
+Perfect blend in the food industry .
+So of you want a plate of more than 3 / 4 flavorless potatoes and money to throw away on flavorless food - this is the place for you .
+
+**********
+[0.9844] If you ask, you get an iced tea.
+Parent: Plus , if you ask , you get a complimentary iced tea to go ( if you ordered tea with your meal ) .
+
+Top 5 (supporting):
+     [0.9844] Plus , if you ask , you get a complimentary iced tea to go ( if you ordered tea with your meal ) .
+     [0.0000] ! !
+     [0.0000] ! !
+     [0.0000] !
+     [-0.0056] Friendly service and a Cool vibe .
+
+Top 5 (weakening):
+     [-0.9875] The hash was almost all flavorless potatoes .
+     [-0.9619] Healthy fresh veggie , fruit drinks .
+     [-0.9593] Highly recommend the Hash .... potatoes & eggs cooked to perfection !
+     [-0.9539] I added a banana granola crunch pancake mmmm good !
+     [-0.9531] I love there pecan salad .
+
+**********
+[0.2480] If you ordered tea with your meal, this is it.
+Parent: Plus , if you ask , you get a complimentary iced tea to go ( if you ordered tea with your meal ) .
+
+Top 5 (supporting):
+     [0.2480] Plus , if you ask , you get a complimentary iced tea to go ( if you ordered tea with your meal ) .
+     [0.0070] My iced tea was kept full as expected .
+     [0.0000] ! !
+     [0.0000] ! !
+     [0.0000] !
+
+Top 5 (weakening):
+     [-0.9411] So of you want a plate of more than 3 / 4 flavorless potatoes and money to throw away on flavorless food - this is the place for you .
+     [-0.9254] Highly recommend the Hash .... potatoes & eggs cooked to perfection !
+     [-0.8764] Served with seasoned black beans , they are the perfect cure for a Mexican breakfast craving .
+     [-0.8248] The hash was almost all flavorless potatoes .
+     [-0.7979] Treat yourself to the chicken salad melt , you will not be disappointed .
+
+**********
+[0.5392] They should offer gluten-free pancake options.
+Parent: Also , it seems odd that they don ' t offer any gluten - free pancake or bread options since they 're all about offering local , organic ( healthy ) food .
+
+Top 5 (supporting):
+     [0.5392] Also , it seems odd that they don 't offer any gluten-free pancake or bread options since they 're all about offering local , organic ( healthy ) food .
+     [0.0000] ! !
+     [0.0000] ! !
+     [0.0000] !
+     [-0.0068] Great breakfast place !
+
+Top 5 (weakening):
+     [-0.3218] Healthy fresh veggie , fruit drinks .
+     [-0.3113] Try the day glow for an energizing drink .
+     [-0.2894] Treat yourself to the chicken salad melt , you will not be disappointed .
+     [-0.2640] Only wished the kept a veteran discount they had in the past .
+     [-0.2637] I love there pecan salad .
+
+**********
+[0.9729] They don't offer any gluten-free bread options.
+Parent: Also , it seems odd that they don ' t offer any gluten - free pancake or bread options since they 're all about offering local , organic ( healthy ) food .
+
+Top 5 (supporting):
+     [0.9729] Also , it seems odd that they don 't offer any gluten-free pancake or bread options since they 're all about offering local , organic ( healthy ) food .
+     [0.0000] ! !
+     [0.0000] ! !
+     [0.0000] !
+     [-0.0286] This place is shot out , pretty sure our server hadn 't slept in about 2 days .
+
+Top 5 (weakening):
+     [-0.9702] Love the power quinoa breakfast bowl .
+     [-0.8984] I added a banana granola crunch pancake mmmm good !
+     [-0.8924] Fantastic ! !
+     [-0.8869] So delicious .
+     [-0.8594] Many healthy options for those looking to eat this way .
+
+**********
+[0.9617] They offer local, organic food.
+Parent: Also , it seems odd that they don ' t offer any gluten - free pancake or bread options since they 're all about offering local , organic ( healthy ) food .
+
+Top 5 (supporting):
+     [0.9617] Also , it seems odd that they don 't offer any gluten-free pancake or bread options since they 're all about offering local , organic ( healthy ) food .
+     [0.4675] Healthy fresh veggie , fruit drinks .
+     [0.2858] The skillet was almost all flavorless potatoes and rubbery sun dried tomatoes .
+     [0.1814] Incredibly fresh food .
+     [0.1117] Food was very good , especially the potatos , out of this world .
+
+Top 5 (weakening):
+     [-0.8865] The hash was almost all flavorless potatoes .
+     [-0.3667] So of you want a plate of more than 3 / 4 flavorless potatoes and money to throw away on flavorless food - this is the place for you .
+     [-0.2889] Highly recommend the Hash .... potatoes & eggs cooked to perfection !
+     [-0.0596] This place is shot out , pretty sure our server hadn 't slept in about 2 days .
+     [-0.0523] Try the day glow for an energizing drink .
+
+**********
+[0.9793] You can get a breakfast.
+Parent: Come for a good breakfast with a great atmosphere and phenomenal service .
+
+Top 5 (supporting):
+     [0.9793] Come for a good breakfast with a great atmosphere and phenomenal service .
+     [0.9525] Decent breakfast food .
+     [0.9521] Breakfast was perfectly prepared and promptly served .
+     [0.9519] Great breakfast place !
+     [0.9450] Best coffee , great breakfast .
+
+Top 5 (weakening):
+     [-0.9013] Try the day glow for an energizing drink .
+     [-0.8141] Treat yourself to the chicken salad melt , you will not be disappointed .
+     [-0.5452] I love there pecan salad .
+     [-0.5050] Loved every thing about First Watch .
+     [-0.3977] Plus , if you ask , you get a complimentary iced tea to go ( if you ordered tea with your meal ) .
+
+**********
+[0.8971] The atmosphere is good.
+Parent: Come for a good breakfast with a great atmosphere and phenomenal service .
+
+Top 5 (supporting):
+     [0.8971] Come for a good breakfast with a great atmosphere and phenomenal service .
+     [0.8933] Excellent food , great service , beautiful environment .
+     [0.5305] Friendly service and a Cool vibe .
+     [0.1604] My first time visiting First Watch , nice cozy place .
+     [0.1537] This used to be The Good Egg , but new ownership made this space look so much more modern & beautiful , and the food is better than ever !
+
+Top 5 (weakening):
+     [-0.3110] Just good food
+     [-0.2250] Awsome service by staff .
+     [-0.1365] Food was pretty good but the used syringe outside in the parking lot and the tin foil in the bathroom just killed it for me .
+     [-0.1237] Perfect blend in the food industry .
+     [-0.1175] The skillet was almost all flavorless potatoes and rubbery sun dried tomatoes .
+
+**********
+[0.8810] The service is great.
+Parent: Come for a good breakfast with a great atmosphere and phenomenal service .
+
+Top 5 (supporting):
+     [0.8810] Excellent food , great service , beautiful environment .
+     [0.8437] Service is always spot on .
+     [0.8330] Service was pretty good .
+     [0.8327] Come for a good breakfast with a great atmosphere and phenomenal service .
+     [0.7190] The service is fast , courteous and drinks stay filled .
+
+Top 5 (weakening):
+     [-0.9938] Awsome service by staff .
+     [-0.9151] However , food and service are standard , nothing unique or exceptional .
+     [-0.7742] Food was pretty good but the used syringe outside in the parking lot and the tin foil in the bathroom just killed it for me .
+     [-0.5320] Hostesses are a hit or miss - either nice or rude .
+     [-0.3834] Younger blonde female server was very attentive but not overly friendly .
+
+**********
+[0.7930] The blend is perfect.
+Parent: Perfect blend in the food industry .
+
+Top 5 (supporting):
+     [0.7930] Perfect blend in the food industry .
+     [0.0642] The bread and strawberry jam are to die for .
+     [0.0615] Treat yourself to the chicken salad melt , you will not be disappointed .
+     [0.0449] Highly recommend the Hash .... potatoes & eggs cooked to perfection !
+     [0.0348] Service is always spot on .
+
+Top 5 (weakening):
+     [-0.9534] Food was pretty good but the used syringe outside in the parking lot and the tin foil in the bathroom just killed it for me .
+     [-0.9127] Only wished the kept a veteran discount they had in the past .
+     [-0.9103] Hostesses are a hit or miss - either nice or rude .
+     [-0.9035] Awsome service by staff .
+     [-0.8998] Also , it seems odd that they don 't offer any gluten-free pancake or bread options since they 're all about offering local , organic ( healthy ) food .
+
+**********
+[0.9733] This is the place for flavorless potatoes.
+Parent: So of you want a plate of more than 3 / 4 flavorless potatoes and money to throw away on flavorless food - this is the place for you .
+
+Top 5 (supporting):
+     [0.9733] So of you want a plate of more than 3 / 4 flavorless potatoes and money to throw away on flavorless food - this is the place for you .
+     [0.2314] The skillet was almost all flavorless potatoes and rubbery sun dried tomatoes .
+     [0.0713] The hash was almost all flavorless potatoes .
+     [0.0000] ! !
+     [0.0000] ! !
+
+Top 5 (weakening):
+     [-0.9932] The bread and strawberry jam are to die for .
+     [-0.9919] Try the day glow for an energizing drink .
+     [-0.9916] Had the inspired Italian omelette and it was very tasty ... Not so sure that OJ is actually 100 % fresh squeezed but tasted good nonetheless .
+     [-0.9906] I had the chickenchanga with a kale tonic .
+     [-0.9878] Treat yourself to the chicken salad melt , you will not be disappointed .
+
+**********
+[0.0000] Do not go to this restaurant if you want to throw away money on flavorless food.
+Parent: So of you want a plate of more than 3 / 4 flavorless potatoes and money to throw away on flavorless food - this is the place for you .
+
+Top 5 (supporting):
+     [0.0000] ! !
+     [0.0000] ! !
+     [0.0000] !
+     [-0.0106] The hash was almost all flavorless potatoes .
+     [-0.0132] The skillet was almost all flavorless potatoes and rubbery sun dried tomatoes .
+
+Top 5 (weakening):
+     [-0.9934] I love there pecan salad .
+     [-0.9923] The breakfast tacos rock !
+     [-0.9902] So delicious .
+     [-0.9898] Love the power quinoa breakfast bowl .
+     [-0.9894] I had the trifecta it was delicious ...

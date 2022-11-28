@@ -1,0 +1,129 @@
+Summary:
+
+The reviewers said that the product was clean, friendly, and welcoming. They said that the product was affordable and professional. They said that the product was helpful and that they would recommend it to others.
+
+**********
+[0.2387] The product was clean.
+Parent: The reviewers said that the product was clean, friendly, and welcoming.
+
+Top 5 (supporting):
+     [0.2387] An all around friendly , clean and welcoming clinic .
+     [0.2227] Staff is friendly , the office is always clean / tidy and haven 't ever waited more than 10 mins .
+     [0.0698] I generally alternate between them both and I have never been healthier .
+     [0.0558] It 's so refreshing to find integrity in a place of business .
+     [0.0363] Very professional and clearly passionate about healing.I left feeling better than ever and happy that I took a more natural approach .
+
+Top 5 (weakening):
+     [-0.3230] These people are fair and honest .
+     [-0.2593] Over the past three years , my back has been getting stronger , and strong , and stronger .
+     [-0.2575] The doctors are very knowledgeable about what they are doing and also provide different ways to adjust you if your uncomfortable .
+     [-0.2329] They share helpful information with you during your visit so you gain knowledge at the same time .
+     [-0.1982] Each has a unique approach to adjustments and overall health .
+
+**********
+[0.3456] The product was friendly.
+Parent: The reviewers said that the product was clean, friendly, and welcoming.
+
+Top 5 (supporting):
+     [0.3456] An all around friendly , clean and welcoming clinic .
+     [0.1063] Always helpful .. always smiling ..
+     [0.1058] Even when my little ones don 't want to lay on the table to get adjusted , they will give her a hug and she can get some movement out of them .
+     [0.0810] My husband and I love coming here and love how well we are taken cate of !
+     [0.0782] Misty and Nick have such great attention to out needs !
+
+Top 5 (weakening):
+     [-0.5942] Staff is friendly , the office is always clean / tidy and haven 't ever waited more than 10 mins .
+     [-0.5576] Her care was professional and sincere .
+     [-0.3797] The entire staff is very professional .
+     [-0.3716] Dr Misty and Dr Nicholas are the best !
+     [-0.3601] Each has a unique approach to adjustments and overall health .
+
+**********
+[0.2778] The product was welcoming.
+Parent: The reviewers said that the product was clean, friendly, and welcoming.
+
+Top 5 (supporting):
+     [0.2778] An all around friendly , clean and welcoming clinic .
+     [0.2502] My husband and I love coming here and love how well we are taken cate of !
+     [0.2065] Highly recommended .
+     [0.2053] Even when my little ones don 't want to lay on the table to get adjusted , they will give her a hug and she can get some movement out of them .
+     [0.1233] Go and pay them a visit !
+
+Top 5 (weakening):
+     [-0.5554] Dr. Nicholas did my adjustment while Dr. Misty hung out with my 2 year old who was not happy !
+     [-0.5477] Staff is friendly , the office is always clean / tidy and haven 't ever waited more than 10 mins .
+     [-0.4469] It is very difficult to not only find a great Chiropractor but even more difficult to find one that sincerely care !
+     [-0.4112] The entire staff is very professional .
+     [-0.3783] These people are fair and honest .
+
+**********
+[0.9130] The product was affordable.
+Parent: They said that the product was affordable and professional.
+
+Top 5 (supporting):
+     [0.9130] Very good energy , affordable , professional , and manual manipulation .
+     [0.5138] High professionalism at a lower cost .
+     [0.4259] Price is very reasonable ... great experience
+     [0.0048] Purchased some massages via groupon and I was glad I did .
+     [0.0043] I will for sure be going back regularly !
+
+Top 5 (weakening):
+     [-0.8261] This place also has membership pricing at a really great deal .
+     [-0.3632] The entire staff is very professional .
+     [-0.3141] It is very difficult to not only find a great Chiropractor but even more difficult to find one that sincerely care !
+     [-0.2388] These people are fair and honest .
+     [-0.1892] I have been told that it is a state law that I need X-rays , I have been told that I had to sign an agreement .
+
+**********
+[0.7822] The product was professional.
+Parent: They said that the product was affordable and professional.
+
+Top 5 (supporting):
+     [0.7822] Very good energy , affordable , professional , and manual manipulation .
+     [0.6115] The entire staff is very professional .
+     [0.5858] High professionalism at a lower cost .
+     [0.3728] Very professional and clearly passionate about healing.I left feeling better than ever and happy that I took a more natural approach .
+     [0.1974] Dr. Misty is absolutely fabulous !
+
+Top 5 (weakening):
+     [-0.3983] These people are fair and honest .
+     [-0.1738] The customers service is pleasant .
+     [-0.1526] They are both so caring and kind .
+     [-0.1117] I have been told that it is a state law that I need X-rays , I have been told that I had to sign an agreement .
+     [-0.0832] I love this place !
+
+**********
+[0.2455] The product was helpful.
+Parent: They said that the product was helpful and that they would recommend it to others.
+
+Top 5 (supporting):
+     [0.2455] Every visit to Healing Hands has been great and so helpful .
+     [0.1770] The improvement in movement for my kids and I have been amazing .
+     [0.1672] She help me with my shoulder issues and I couldn 't be happier .
+     [0.1511] It is helping me with severe low back pain .
+     [0.1375] The service is awesome .
+
+Top 5 (weakening):
+     [-0.2035] I love this place !
+     [-0.1625] I wish I lived closer so I could come here regularly
+     [-0.0740] Her care was professional and sincere .
+     [-0.0738] I just wish I hadn 't of moved so far away or I 'd still be going .
+     [-0.0726] These people are fair and honest .
+
+**********
+[0.4547] It was a good product.
+Parent: They said that the product was helpful and that they would recommend it to others.
+
+Top 5 (supporting):
+     [0.4547] Dr. Misty and Dr. Nicholas are both wonderful !
+     [0.4121] Dr. Misty is absolutely fabulous !
+     [0.3319] Dr. Misty is the best .
+     [0.3200] Dr misty was amazing !
+     [0.3016] Dr. Misty is awesome !
+
+Top 5 (weakening):
+     [-0.5580] I love this place !
+     [-0.4069] Dr misty and Dr Nicholas are a great team !
+     [-0.3892] These people are fair and honest .
+     [-0.2812] The entire staff is very professional .
+     [-0.1984] It 's so refreshing to find integrity in a place of business .

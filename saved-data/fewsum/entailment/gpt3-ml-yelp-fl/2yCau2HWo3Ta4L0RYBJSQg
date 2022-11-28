@@ -1,0 +1,165 @@
+Summary:
+
+The reviews said that the product was amazing and fast. They were able to fix it within minutes the following day. Moe was extremely helpful along with Daniel. The customer service was extraordinary and the repair was seamless.
+
+**********
+[0.7422] The product was amazing.
+Parent: The reviews said that the product was amazing and fast.
+
+Top 5 (supporting):
+     [0.7422] This Gerber was amazing and fast .
+     [0.1732] Great service !
+     [0.0810] He checked in twice a week with an update and the best part ... we got our vehicle back a week earlier than expected , thanks Moe and Gerber !
+     [0.0772] Would highly recommend this Gerber Collision & Glass on 2100 W. University Dr.
+     [0.0768] Absolutely recommend them !
+
+Top 5 (weakening):
+     [-0.3325] My tailgate had some problems opening and closing due to someone backing into my truck .
+     [-0.0809] Very friendly service from Moe who is the estimator .
+     [-0.0780] I got into an accident while visiting family from LA and only had 3 days left and they got my car in and back to me in 2 days .
+     [-0.0530] The customer service was extraordinary and the repair was seamless .
+     [-0.0322] Called about my tail light being broken and they were able to fix it within minutes the following day .
+
+**********
+[0.9044] The product was fast.
+Parent: The reviews said that the product was amazing and fast.
+
+Top 5 (supporting):
+     [0.9044] This Gerber was amazing and fast .
+     [0.1212] The customer service was extraordinary and the repair was seamless .
+     [0.1001] I got into an accident while visiting family from LA and only had 3 days left and they got my car in and back to me in 2 days .
+     [0.0857] He checked in twice a week with an update and the best part ... we got our vehicle back a week earlier than expected , thanks Moe and Gerber !
+     [0.0636] Called about my tail light being broken and they were able to fix it within minutes the following day .
+
+Top 5 (weakening):
+     [-0.4672] My tailgate had some problems opening and closing due to someone backing into my truck .
+     [-0.1982] I couldn 't find anyone in town to fix it , except Dan at Gerber Collision !
+     [-0.1000] These guys were so friendly and helpful .
+     [-0.0593] Mo went out of the way to make sure we were happy .
+     [-0.0458] I 'm glad I went with Gerber because the time I spent there was 1 / 10th of what I would 've spent at Toyota .
+
+**********
+[0.9167] They fixed it.
+Parent: They were able to fix it within minutes the following day.
+
+Top 5 (supporting):
+     [0.9167] They even fixed an unrelated issue , free of charge .
+     [0.8861] Called about my tail light being broken and they were able to fix it within minutes the following day .
+     [0.8853] The customer service was extraordinary and the repair was seamless .
+     [0.8566] USAA recommended this shop and they did an amazing job repairing my rear bumper after I was in an accident .
+     [0.6791] Gerber Collision fixed my fender today for a much better price than the Toyota dealership quoted me !
+
+Top 5 (weakening):
+     [-0.5206] Very friendly service from Moe who is the estimator .
+     [-0.4133] Would highly recommend this Gerber Collision & Glass on 2100 W. University Dr.
+     [-0.3406] Great service !
+     [-0.3376] Mo went out of the way to make sure we were happy .
+     [-0.1200] I 'm glad I went with Gerber because the time I spent there was 1 / 10th of what I would 've spent at Toyota .
+
+**********
+[0.8317] They fixed it quickly.
+Parent: They were able to fix it within minutes the following day.
+
+Top 5 (supporting):
+     [0.8317] Called about my tail light being broken and they were able to fix it within minutes the following day .
+     [0.7469] The customer service was extraordinary and the repair was seamless .
+     [0.1971] These guys did a great job with helping me get my truck back up and running in a timely manner .
+     [0.1362] I got into an accident while visiting family from LA and only had 3 days left and they got my car in and back to me in 2 days .
+     [0.1077] This Gerber was amazing and fast .
+
+Top 5 (weakening):
+     [-0.0531] My tailgate had some problems opening and closing due to someone backing into my truck .
+     [-0.0476] Mo went out of the way to make sure we were happy .
+     [-0.0304] I couldn 't find anyone in town to fix it , except Dan at Gerber Collision !
+     [-0.0274] Would highly recommend this Gerber Collision & Glass on 2100 W. University Dr.
+     [-0.0220] I 'm glad I went with Gerber because the time I spent there was 1 / 10th of what I would 've spent at Toyota .
+
+**********
+[0.9096] It was the next day.
+Parent: They were able to fix it within minutes the following day.
+
+Top 5 (supporting):
+     [0.9096] Called about my tail light being broken and they were able to fix it within minutes the following day .
+     [0.0000] !
+     [-0.0814] These guys did a great job with helping me get my truck back up and running in a timely manner .
+     [-0.0976] They even fixed an unrelated issue , free of charge .
+     [-0.1100] The customer service was extraordinary and the repair was seamless .
+
+Top 5 (weakening):
+     [-0.9918] Gerber Collision fixed my fender today for a much better price than the Toyota dealership quoted me !
+     [-0.8663] I got into an accident while visiting family from LA and only had 3 days left and they got my car in and back to me in 2 days .
+     [-0.8646] Moe A was very accommodating from start to finish , arranging a rental car and estimate on a Saturday morning .
+     [-0.8547] I was always aware of the progress through text and even got phone calls from moe anytime he needed to fill me in further .
+     [-0.8052] He checked in twice a week with an update and the best part ... we got our vehicle back a week earlier than expected , thanks Moe and Gerber !
+
+**********
+[0.9830] Moe was helpful.
+Parent: Moe was extremely helpful along with Daniel.
+
+Top 5 (supporting):
+     [0.9830] Moe was extremely helpful along with Daniel .
+     [0.9575] Moe A was very accommodating from start to finish , arranging a rental car and estimate on a Saturday morning .
+     [0.7032] Mo went out of the way to make sure we were happy .
+     [0.6451] Totally impressed with the customer service I received from Mo and the rest of the team !
+     [0.5365] Moe and his staff did a great job and went above and beyond for me and my Colorado ! !
+
+Top 5 (weakening):
+     [-0.1246] My tailgate had some problems opening and closing due to someone backing into my truck .
+     [-0.1035] Thanks , Dan and the rest of the staff !
+     [-0.0688] I couldn 't find anyone in town to fix it , except Dan at Gerber Collision !
+     [-0.0163] Gerber and their team did a great job throughout the process with our Honda CRV .
+     [-0.0010] This Gerber was amazing and fast .
+
+**********
+[0.9710] Daniel was helpful.
+Parent: Moe was extremely helpful along with Daniel.
+
+Top 5 (supporting):
+     [0.9710] Moe was extremely helpful along with Daniel .
+     [0.1356] Gerber Collision fixed my fender today for a much better price than the Toyota dealership quoted me !
+     [0.1207] He checked in twice a week with an update and the best part ... we got our vehicle back a week earlier than expected , thanks Moe and Gerber !
+     [0.1166] I couldn 't find anyone in town to fix it , except Dan at Gerber Collision !
+     [0.0965] Thanks , Dan and the rest of the staff !
+
+Top 5 (weakening):
+     [-0.4042] Totally impressed with the customer service I received from Mo and the rest of the team !
+     [-0.3267] Moe and his staff did a great job and went above and beyond for me and my Colorado ! !
+     [-0.2709] Very friendly service from Moe who is the estimator .
+     [-0.2331] Gerber and their team did a great job throughout the process with our Honda CRV .
+     [-0.1930] Mo went out of the way to make sure we were happy .
+
+**********
+[0.9236] The customer service was great.
+Parent: The customer service was extraordinary and the repair was seamless.
+
+Top 5 (supporting):
+     [0.9236] The customer service was extraordinary and the repair was seamless .
+     [0.8769] Totally impressed with the customer service I received from Mo and the rest of the team !
+     [0.6169] These guys did a great job with helping me get my truck back up and running in a timely manner .
+     [0.5302] Great service !
+     [0.4903] Moe and his staff did a great job and went above and beyond for me and my Colorado ! !
+
+Top 5 (weakening):
+     [-0.8604] My tailgate had some problems opening and closing due to someone backing into my truck .
+     [-0.0991] I couldn 't find anyone in town to fix it , except Dan at Gerber Collision !
+     [0.0000] !
+     [0.0073] I 'm glad I went with Gerber because the time I spent there was 1 / 10th of what I would 've spent at Toyota .
+     [0.0103] Gerber Collision fixed my fender today for a much better price than the Toyota dealership quoted me !
+
+**********
+[0.8527] The repair was good.
+Parent: The customer service was extraordinary and the repair was seamless.
+
+Top 5 (supporting):
+     [0.8527] The customer service was extraordinary and the repair was seamless .
+     [0.7610] He did such a good job that I brought my truck back to him for numerous other body shop repairs !
+     [0.4623] USAA recommended this shop and they did an amazing job repairing my rear bumper after I was in an accident .
+     [0.3840] These guys did a great job with helping me get my truck back up and running in a timely manner .
+     [0.3205] This Gerber was amazing and fast .
+
+Top 5 (weakening):
+     [-0.0221] My tailgate had some problems opening and closing due to someone backing into my truck .
+     [0.0000] !
+     [0.0046] I couldn 't find anyone in town to fix it , except Dan at Gerber Collision !
+     [0.0065] I got into an accident while visiting family from LA and only had 3 days left and they got my car in and back to me in 2 days .
+     [0.0087] I was always aware of the progress through text and even got phone calls from moe anytime he needed to fill me in further .

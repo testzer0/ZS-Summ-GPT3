@@ -1,0 +1,183 @@
+Summary:
+
+The Yelp reviews for this product were mostly positive, with reviewers praising the selection of games, the food, and the laser shooting gallery. However, some reviewers noted that the service was slow and that the machine to load the games card was ineffective. Additionally, a few reviewers commented that the management was absent and that the service was horrendous as a result. Overall, reviewers seemed to enjoy the product but noted some areas that could be improved.
+
+**********
+[0.0018] Yelp reviews for this product were good.
+Parent: The Yelp reviews for this product were mostly positive, with reviewers praising the selection of games, the food, and the laser shooting gallery.
+
+Top 5 (supporting):
+     [0.0018] The Drinks were really good and the bartenders are very nice .
+     [0.0013] Arcade est vraiment hot , ils y a tous les bon jeux arcade 2017 .
+     [0.0013] Whether you just want to visit for a quick game or spend the whole night , they 've got you covered .
+     [0.0013] The games were fun .
+     [0.0000] !
+
+Top 5 (weakening):
+     [-0.4013] The management here is complete absent making the service absolutely horrendous .
+     [-0.2032] Extremely boring .
+     [-0.0438] Most of the staff are zombies .
+     [-0.0365] But I could imagine it not being so pleasant when there is a large crowd .
+     [-0.0334] The service is slow and the machine to load the games card is pretty ineffective .
+
+**********
+[0.8707] The selection of games was praised.
+Parent: The Yelp reviews for this product were mostly positive, with reviewers praising the selection of games, the food, and the laser shooting gallery.
+
+Top 5 (supporting):
+     [0.8707] Great selection of games , pretty good food , lots of pool / ping pong tables and a laser shooting gallery !
+     [0.0826] The games were fun .
+     [0.0125] Bowling et pool pas trop cher .
+     [0.0122] Whether you just want to visit for a quick game or spend the whole night , they 've got you covered .
+     [0.0065] Arcade est vraiment hot , ils y a tous les bon jeux arcade 2017 .
+
+Top 5 (weakening):
+     [-0.8118] Used to be a fun place but now half of the games don 't work : ( I wouldn 't eat there I never have but drinks are fine if you 're waiting to go see a movie .
+     [-0.4327] Extremely boring .
+     [-0.2338] The management here is complete absent making the service absolutely horrendous .
+     [-0.1015] Expect to be ignored so long that you change your mind and leave .
+     [-0.0771] Wanted to bowl and have some beers on a raining vacation day .
+
+**********
+[0.8023] The food was good.
+Parent: The Yelp reviews for this product were mostly positive, with reviewers praising the selection of games, the food, and the laser shooting gallery.
+
+Top 5 (supporting):
+     [0.8023] Great selection of games , pretty good food , lots of pool / ping pong tables and a laser shooting gallery !
+     [0.0138] Chaque fois que je passe devant je m 'apercois que il n 'y a jamais pas bcp de monde à l 'interieur de cette grande salle de jeu et restaurant bar .... et finalement je me decide alller pour essayer les banquettes rouges avec qqs amis : ils n 'ont pas de café le soir ... On a bu du thé à la place et prit un dessert .
+     [0.0126] Honestly , this place has pretty much everything .
+     [0.0090] Wanted to bowl and have some beers on a raining vacation day .
+     [0.0072] It 's similar to a smaller Dave and busters .
+
+Top 5 (weakening):
+     [-0.8024] Used to be a fun place but now half of the games don 't work : ( I wouldn 't eat there I never have but drinks are fine if you 're waiting to go see a movie .
+     [-0.6528] The games were fun .
+     [-0.2486] The Drinks were really good and the bartenders are very nice .
+     [-0.1316] The management here is complete absent making the service absolutely horrendous .
+     [-0.0712] Extremely boring .
+
+**********
+[0.0159] The laser shooting gallery was praised.
+Parent: The Yelp reviews for this product were mostly positive, with reviewers praising the selection of games, the food, and the laser shooting gallery.
+
+Top 5 (supporting):
+     [0.0159] Great selection of games , pretty good food , lots of pool / ping pong tables and a laser shooting gallery !
+     [0.0000] !
+     [0.0000] 6.5 / 10
+     [-0.0004] Its a great spot to hang out .
+     [-0.0059] But , other than that it 's a great spot .
+
+Top 5 (weakening):
+     [-0.9475] The management here is complete absent making the service absolutely horrendous .
+     [-0.8625] Extremely boring .
+     [-0.6386] Expect to be ignored so long that you change your mind and leave .
+     [-0.5998] Bowling et pool pas trop cher .
+     [-0.5982] The service is slow and the machine to load the games card is pretty ineffective .
+
+**********
+[0.9850] The service was slow.
+Parent: However, some reviewers noted that the service was slow and that the machine to load the games card was ineffective.
+
+Top 5 (supporting):
+     [0.9850] The service is slow and the machine to load the games card is pretty ineffective .
+     [0.0719] The management here is complete absent making the service absolutely horrendous .
+     [0.0206] This night was not packed at all ... practically empty , which was perfect for us ...
+     [0.0058] Extremely boring .
+     [0.0000] !
+
+Top 5 (weakening):
+     [-0.7177] Arcade est vraiment hot , ils y a tous les bon jeux arcade 2017 .
+     [-0.6067] Great selection of games , pretty good food , lots of pool / ping pong tables and a laser shooting gallery !
+     [-0.5947] Whether you just want to visit for a quick game or spend the whole night , they 've got you covered .
+     [-0.3705] The games were fun .
+     [-0.3638] The place is a little dated but the employees are very helpful and friendly !
+
+**********
+[0.9812] The machine to load the games card was ineffective.
+Parent: However, some reviewers noted that the service was slow and that the machine to load the games card was ineffective.
+
+Top 5 (supporting):
+     [0.9812] The service is slow and the machine to load the games card is pretty ineffective .
+     [0.0000] !
+     [0.0000] 6.5 / 10
+     [-0.0088] Used to be a fun place but now half of the games don 't work : ( I wouldn 't eat there I never have but drinks are fine if you 're waiting to go see a movie .
+     [-0.0249] The management here is complete absent making the service absolutely horrendous .
+
+Top 5 (weakening):
+     [-0.8197] Its a great spot to hang out .
+     [-0.7817] Perfect spot to do both ! !
+     [-0.7807] Honestly , this place has pretty much everything .
+     [-0.6610] Whether you just want to visit for a quick game or spend the whole night , they 've got you covered .
+     [-0.6222] Overall , great atmosphere and a good time ! !
+
+**********
+[0.9820] The management was absent.
+Parent: Additionally, a few reviewers commented that the management was absent and that the service was horrendous as a result.
+
+Top 5 (supporting):
+     [0.9820] The management here is complete absent making the service absolutely horrendous .
+     [0.0000] !
+     [0.0000] 6.5 / 10
+     [-0.0392] This night was not packed at all ... practically empty , which was perfect for us ...
+     [-0.0565] Extremely boring .
+
+Top 5 (weakening):
+     [-0.9661] Most of the staff are zombies .
+     [-0.9545] The place is a little dated but the employees are very helpful and friendly !
+     [-0.9539] Whether you just want to visit for a quick game or spend the whole night , they 've got you covered .
+     [-0.9223] Honestly , this place has pretty much everything .
+     [-0.8634] The bathrooms are clean which is very important when downing beers .
+
+**********
+[0.9601] The service was horrendous.
+Parent: Additionally, a few reviewers commented that the management was absent and that the service was horrendous as a result.
+
+Top 5 (supporting):
+     [0.9601] The management here is complete absent making the service absolutely horrendous .
+     [0.0000] !
+     [0.0000] 6.5 / 10
+     [-0.0413] Most of the staff are zombies .
+     [-0.0488] I wouldn 't call it a sports bar seeing as they don 't have access to all the sports channels .
+
+Top 5 (weakening):
+     [-0.9947] The place is a little dated but the employees are very helpful and friendly !
+     [-0.9928] Great selection of games , pretty good food , lots of pool / ping pong tables and a laser shooting gallery !
+     [-0.9903] Perfect spot to do both ! !
+     [-0.9888] Its a great spot to hang out .
+     [-0.9864] The Drinks were really good and the bartenders are very nice .
+
+**********
+[0.3171] Reviewers enjoyed the product.
+Parent: Overall, reviewers seemed to enjoy the product but noted some areas that could be improved.
+
+Top 5 (supporting):
+     [0.3171] The Drinks were really good and the bartenders are very nice .
+     [0.1567] Overall , great atmosphere and a good time ! !
+     [0.1494] Great selection of games , pretty good food , lots of pool / ping pong tables and a laser shooting gallery !
+     [0.1089] This night was not packed at all ... practically empty , which was perfect for us ...
+     [0.0431] Wanted to bowl and have some beers on a raining vacation day .
+
+Top 5 (weakening):
+     [-0.7239] The management here is complete absent making the service absolutely horrendous .
+     [-0.3478] Extremely boring .
+     [-0.0424] The service is slow and the machine to load the games card is pretty ineffective .
+     [-0.0186] Most of the staff are zombies .
+     [-0.0025] The place is a little dated but the employees are very helpful and friendly !
+
+**********
+[0.2480] Some areas could be improved.
+Parent: Overall, reviewers seemed to enjoy the product but noted some areas that could be improved.
+
+Top 5 (supporting):
+     [0.2480] The service is slow and the machine to load the games card is pretty ineffective .
+     [0.1936] The management here is complete absent making the service absolutely horrendous .
+     [0.1833] Used to be a fun place but now half of the games don 't work : ( I wouldn 't eat there I never have but drinks are fine if you 're waiting to go see a movie .
+     [0.1102] The place is a little dated but the employees are very helpful and friendly !
+     [0.0935] But I could imagine it not being so pleasant when there is a large crowd .
+
+Top 5 (weakening):
+     [-0.0384] Honestly , this place has pretty much everything .
+     [-0.0198] Whether you just want to visit for a quick game or spend the whole night , they 've got you covered .
+     [-0.0144] Great selection of games , pretty good food , lots of pool / ping pong tables and a laser shooting gallery !
+     [-0.0125] Bowling et pool pas trop cher .
+     [-0.0095] Perfect spot to do both ! !

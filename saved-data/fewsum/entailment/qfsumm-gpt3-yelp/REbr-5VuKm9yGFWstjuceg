@@ -1,0 +1,129 @@
+Summary:
+
+The reviews of the product were generally positive, with reviewers praising the sandwiches, the price, the fast service, and the clean surroundings. Some reviewers did note that they had problems with orders being forgotten or incomplete, but overall the reviews were positive.
+
+**********
+[0.9406] The sandwiches were good.
+Parent: The reviews of the product were generally positive, with reviewers praising the sandwiches, the price, the fast service, and the clean surroundings.
+
+Top 5 (supporting):
+     [0.9406] Ordered some sandwiches and they were awesome .
+     [0.8582] Good sandwiches , great price !
+     [0.8227] Best sandwich I 've had in Vegas , can 't wait to come back !
+     [0.3210] A great variety of tasty sandwiches filled with various meats and cheeses at a reasonable price .
+     [0.2725] I especially like the lettuce wrapped sandwhich and will be back for more
+
+Top 5 (weakening):
+     [-0.2627] I won 't be ordering from this location again as it has become a total waste of money .
+     [-0.1077] Anytime I order from this location they forget something .
+     [-0.1062] Clean surroundings with cool postings on their walls !
+     [-0.1062] Clean surroundings with cool postings on their walls !
+     [-0.0667] R people serious with there bad reviews does this look like some uppity sandwich spot .
+
+**********
+[0.7981] The price was praised.
+Parent: The reviews of the product were generally positive, with reviewers praising the sandwiches, the price, the fast service, and the clean surroundings.
+
+Top 5 (supporting):
+     [0.7981] Good sandwiches , great price !
+     [0.0538] A great variety of sandwiches at a reasonable price .
+     [0.0490] A great variety of tasty sandwiches filled with various meats and cheeses at a reasonable price .
+     [0.0015] Now it 's a great sandwich shop .
+     [0.0006] It used to be a coffee shop .
+
+Top 5 (weakening):
+     [-0.9899] I won 't be ordering from this location again as it has become a total waste of money .
+     [-0.2728] I also always ask for extra veggies and never receive them .
+     [-0.1554] Anytime I order from this location they forget something .
+     [-0.1472] R people serious with there bad reviews does this look like some uppity sandwich spot .
+     [-0.0503] Great customer service ! !
+
+**********
+[0.9542] The service was fast.
+Parent: The reviews of the product were generally positive, with reviewers praising the sandwiches, the price, the fast service, and the clean surroundings.
+
+Top 5 (supporting):
+     [0.9542] Super fast service ; delivery took 10 minutes from order to front door .
+     [0.7492] Our delivery guy Kylon was really nice and quick .
+     [0.5727] Just as they claim , " Subs so fast you 'll freak ! "
+     [0.4286] Hardly got my meal paid for and before I can walk away from the register , it 's ready !
+     [0.0095] Great customer service ! !
+
+Top 5 (weakening):
+     [-0.7524] Anytime I order from this location they forget something .
+     [-0.7415] I also always ask for extra veggies and never receive them .
+     [-0.6919] I won 't be ordering from this location again as it has become a total waste of money .
+     [-0.0506] R people serious with there bad reviews does this look like some uppity sandwich spot .
+     [-0.0477] Clean surroundings with cool postings on their walls !
+
+**********
+[0.9129] The surroundings were clean.
+Parent: The reviews of the product were generally positive, with reviewers praising the sandwiches, the price, the fast service, and the clean surroundings.
+
+Top 5 (supporting):
+     [0.9129] Clean surroundings with cool postings on their walls !
+     [0.9129] Clean surroundings with cool postings on their walls !
+     [0.0219] Plus the veggies , meat and bread are always fresh .
+     [0.0085] So glad they added this location to the neighborhood .
+     [0.0066] Just what I needed .
+
+Top 5 (weakening):
+     [-0.5763] Just as they claim , " Subs so fast you 'll freak ! "
+     [-0.3739] I had the Tommy Tom unwhich and it was so tasty
+     [-0.2269] I won 't be ordering from this location again as it has become a total waste of money .
+     [-0.1485] I also always ask for extra veggies and never receive them .
+     [-0.1081] R people serious with there bad reviews does this look like some uppity sandwich spot .
+
+**********
+[0.8064] Orders were forgotten.
+Parent: Some reviewers did note that they had problems with orders being forgotten or incomplete, but overall the reviews were positive.
+
+Top 5 (supporting):
+     [0.8064] Anytime I order from this location they forget something .
+     [0.0000] !
+     [0.0000] Love it !
+     [-0.7851] Ive been here a few times for ljnch and have really enjoyed it .
+     [-0.7883] But it 's close and convenient when I 'm too tired to cook .
+
+Top 5 (weakening):
+     [-0.9928] Ordered some sandwiches and they were awesome .
+     [-0.9873] Super fast service ; delivery took 10 minutes from order to front door .
+     [-0.9783] Great customer service ! !
+     [-0.9770] Our delivery guy Kylon was really nice and quick .
+     [-0.9753] Good sandwiches , great price !
+
+**********
+[0.0985] The reviews noted that orders were sometimes incomplete.
+Parent: Some reviewers did note that they had problems with orders being forgotten or incomplete, but overall the reviews were positive.
+
+Top 5 (supporting):
+     [0.0985] I also always ask for extra veggies and never receive them .
+     [0.0221] Anytime I order from this location they forget something .
+     [0.0109] I won 't be ordering from this location again as it has become a total waste of money .
+     [0.0000] !
+     [0.0000] Love it !
+
+Top 5 (weakening):
+     [-0.4818] I had the Tommy Tom unwhich and it was so tasty
+     [-0.3982] Plus the veggies , meat and bread are always fresh .
+     [-0.3036] It was amazing .
+     [-0.2924] I especially like the lettuce wrapped sandwhich and will be back for more
+     [-0.2898] Our delivery guy Kylon was really nice and quick .
+
+**********
+[0.2886] The reviews were positive.
+Parent: Some reviewers did note that they had problems with orders being forgotten or incomplete, but overall the reviews were positive.
+
+Top 5 (supporting):
+     [0.2886] Best sandwich I 've had in Vegas , can 't wait to come back !
+     [0.2881] Great customer service ! !
+     [0.1394] It was amazing .
+     [0.1106] Good sandwiches , great price !
+     [0.0975] Ordered some sandwiches and they were awesome .
+
+Top 5 (weakening):
+     [-0.9963] R people serious with there bad reviews does this look like some uppity sandwich spot .
+     [-0.8441] I won 't be ordering from this location again as it has become a total waste of money .
+     [-0.4408] Anytime I order from this location they forget something .
+     [-0.2027] I also always ask for extra veggies and never receive them .
+     [-0.0196] Just as they claim , " Subs so fast you 'll freak ! "

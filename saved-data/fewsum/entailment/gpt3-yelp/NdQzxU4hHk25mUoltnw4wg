@@ -1,0 +1,75 @@
+Summary:
+
+The reviews were mixed, with some people finding the restaurant overpriced and others enjoying the food and finding it a good value. The service was generally praised, as was the atmosphere.
+
+**********
+[0.6908] The restaurant was overpriced.
+Parent: The reviews were mixed, with some people finding the restaurant overpriced and others enjoying the food and finding it a good value.
+
+Top 5 (supporting):
+     [0.6908] Very expensive for what we got a total of 3 entrees and the food wasn 't good and it wasn 't bad it was just okay .
+     [0.0836] First off , it was very overpriced for what you got .
+     [0.0108] Overpriced .
+     [0.0000] Not busy .
+     [-0.0013] Wasn 't very satisfied with the food .
+
+Top 5 (weakening):
+     [-0.6080] Very nice , the bar is trendy and relaxing .
+     [-0.5902] Wine is short poured .
+     [-0.4455] The food was very good , and there was a lot to choose from without it being overwhelming .
+     [-0.3827] Everything came to the table at the right temperature .
+     [-0.3688] They have local whiskeys and brew which is really nice .
+
+**********
+[0.7561] The food was a good value.
+Parent: The reviews were mixed, with some people finding the restaurant overpriced and others enjoying the food and finding it a good value.
+
+Top 5 (supporting):
+     [0.7561] The food was very good , and there was a lot to choose from without it being overwhelming .
+     [0.6492] The food was super good !
+     [0.0634] Delicious brunch .
+     [0.0447] Really nice !
+     [0.0413] A local gem .
+
+Top 5 (weakening):
+     [-0.9712] Very expensive for what we got a total of 3 entrees and the food wasn 't good and it wasn 't bad it was just okay .
+     [-0.6117] Wasn 't very satisfied with the food .
+     [-0.3183] It was just ok .
+     [-0.2960] Wine is short poured .
+     [-0.2465] Overpriced .
+
+**********
+[0.9626] The service was good.
+Parent: The service was generally praised, as was the atmosphere.
+
+Top 5 (supporting):
+     [0.9626] The service was excellent .
+     [0.8918] Very good service and a variable menu .
+     [0.8384] From the hostess pleasant greeting until signing the check , total experience was very good !
+     [0.5027] Our server was delightful .
+     [0.3932] Bartender was really nice too !
+
+Top 5 (weakening):
+     [-0.2948] It was just ok .
+     [-0.1352] I don 't think the restuarant fits the description and the layout is odd .
+     [-0.0388] Very expensive for what we got a total of 3 entrees and the food wasn 't good and it wasn 't bad it was just okay .
+     [-0.0362] Wasn 't very satisfied with the food .
+     [-0.0287] Overpriced .
+
+**********
+[0.2755] The atmosphere was good.
+Parent: The service was generally praised, as was the atmosphere.
+
+Top 5 (supporting):
+     [0.2755] Very nice , the bar is trendy and relaxing .
+     [0.2543] From the hostess pleasant greeting until signing the check , total experience was very good !
+     [0.1679] Really nice !
+     [0.1506] Bartender was really nice too !
+     [0.1494] One of the nicest in the local area .
+
+Top 5 (weakening):
+     [-0.5854] I don 't think the restuarant fits the description and the layout is odd .
+     [-0.1567] Very expensive for what we got a total of 3 entrees and the food wasn 't good and it wasn 't bad it was just okay .
+     [-0.1215] It was just ok .
+     [-0.0823] The food was super good !
+     [-0.0818] Soft opening right now but expecting big things .

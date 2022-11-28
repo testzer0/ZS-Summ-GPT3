@@ -1,0 +1,93 @@
+Summary:
+
+The accounts said that the product was good overall, with positive reviews for the food and atmosphere. However, some reviewers found the service to be slow and the drinks not very good.
+
+**********
+[0.6851] The product was good.
+Parent: The accounts said that the product was good overall, with positive reviews for the food and atmosphere.
+
+Top 5 (supporting):
+     [0.6851] And their cheese " dip " is ridiculously good !
+     [0.6560] -Food is 5 star ( the pastor tacos were amazing ! )
+     [0.5726] The gorditas are awesome !
+     [0.5211] Tacos are the bomb !
+     [0.5148] It 's close to campus and the food is great .
+
+Top 5 (weakening):
+     [-0.8931] The food was mediocre .
+     [-0.1589] The service was okay .
+     [-0.1096] Cool place , I love the location .
+     [-0.0702] This place has ruined other Mexican places for me .
+     [-0.0265] The new location is wonderful .
+
+**********
+[0.7721] The food received positive reviews.
+Parent: The accounts said that the product was good overall, with positive reviews for the food and atmosphere.
+
+Top 5 (supporting):
+     [0.7721] Great food , nice staff , cicadas and live band both entertaining in the courtyard , and gorgeous old train station bar inside .
+     [0.4090] Food was good as usual , I liked that they have alcohol available at this location .
+     [0.4018] -Food is 5 star ( the pastor tacos were amazing ! )
+     [0.3273] Lots of food for a good price and fantastic service ( super fast ) .
+     [0.2475] It 's close to campus and the food is great .
+
+Top 5 (weakening):
+     [-0.9690] The food was mediocre .
+     [-0.5700] Tacos are the bomb !
+     [-0.3380] They were okay .
+     [-0.2808] I wish they would give bigger portions of the salsa that came with the tortilla chips considering the fact that it was a party of 6 of us but each time we wanted a refill it came right away .
+     [-0.2052] The rice didn 't taste fresh .
+
+**********
+[0.8799] The atmosphere had positive reviews.
+Parent: The accounts said that the product was good overall, with positive reviews for the food and atmosphere.
+
+Top 5 (supporting):
+     [0.8799] It 's never disappointing and I love the ambiance of this place .
+     [0.6877] Nice atmosphere as well !
+     [0.5969] Great environment as well .
+     [0.4089] Great food , nice staff , cicadas and live band both entertaining in the courtyard , and gorgeous old train station bar inside .
+     [0.2706] Great for Mexican food and train aficionados both , and nice relaxed atmosphere for family or date
+
+Top 5 (weakening):
+     [-0.4622] Tacos are the bomb !
+     [-0.0538] The rice didn 't taste fresh .
+     [-0.0382] -Food is 5 star ( the pastor tacos were amazing ! )
+     [-0.0373] They were okay .
+     [-0.0367] The service was okay .
+
+**********
+[0.9398] The service was slow.
+Parent: However, some reviewers found the service to be slow and the drinks not very good.
+
+Top 5 (supporting):
+     [0.9398] -Service was a 2 star ( wasn 't even rush hour and extremely slow ; many wrong orders within our party ; forgot to bring things ) -Drinks were a 1 star ( not tasty , limited choice , and REALLY expensive for what you got ) .Overall , go for the food but expect to wait !
+     [0.8961] Service seems a bit slow , though , and they have a weird thing about how they can only do 6 separate checks maximum .
+     [-0.0014] This place has ruined other Mexican places for me .
+     [-0.0041] Don 't expect your average Mexican restaurant experience .
+     [-0.0071] Had 3 tacos tradicional ( carne asada , pastor , and chorizo ) , chips and guacamole , and a margarita .
+
+Top 5 (weakening):
+     [-0.9961] service is fast and the food comes quickly too.
+     [-0.9942] Lots of food for a good price and fantastic service ( super fast ) .
+     [-0.9634] Our server was very friendly & efficient !
+     [-0.8973] Service was a bit too attentive , but wasn 't really a nuisance
+     [-0.8654] Great food , nice staff , cicadas and live band both entertaining in the courtyard , and gorgeous old train station bar inside .
+
+**********
+[0.9099] The drinks were not very good.
+Parent: However, some reviewers found the service to be slow and the drinks not very good.
+
+Top 5 (supporting):
+     [0.9099] -Service was a 2 star ( wasn 't even rush hour and extremely slow ; many wrong orders within our party ; forgot to bring things ) -Drinks were a 1 star ( not tasty , limited choice , and REALLY expensive for what you got ) .Overall , go for the food but expect to wait !
+     [-0.0017] Daughter and I sat at the bar to have a snack and a drink .
+     [-0.0093] Service seems a bit slow , though , and they have a weird thing about how they can only do 6 separate checks maximum .
+     [-0.0175] Service was a bit too attentive , but wasn 't really a nuisance
+     [-0.0242] This place has ruined other Mexican places for me .
+
+Top 5 (weakening):
+     [-0.9910] The gorditas are awesome !
+     [-0.9782] Yummy margaritas , great pastor tacos .
+     [-0.9728] Awesome half price margaritas on Tuesday !
+     [-0.9687] Wonderful carne asada burrito for lunch .
+     [-0.9655] Love the steak tostadas as well as the steak burrito .

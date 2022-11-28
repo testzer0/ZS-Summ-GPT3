@@ -1,0 +1,169 @@
+Summary:
+
+It is clean and the people are friendly .
+It is convenient to where I work .
+Service is friendly and portions are plenty .
+No where can you find a better hotdog , fries compliment either chili dog or Carolina hamburger .
+If you 're looking for a good , cheap burger and you happen to be in town , this is the place to be !
+
+**********
+[0.9667] It is clean.
+Parent: It is clean and the people are friendly .
+
+Top 5 (supporting):
+     [0.9667] It is clean and the people are friendly .
+     [0.0995] The fresh hand cut fries are my favorite .
+     [0.0782] Awesome fresh food !
+     [0.0434] Their down home feel is great .
+     [0.0122] Loved this place .
+
+Top 5 (weakening):
+     [-0.8840] It is hard for me to get past their Cheesburger with mustard , chili and onions .
+     [-0.3769] We had a hamburger , hot dog and french fries .
+     [-0.2657] No where can you find a better hotdog , fries compliment either chili dog or Carolina hamburger .
+     [-0.2517] The store is less than appealing .
+     [-0.1609] Food takes a bit long , though , in my opinion .
+
+**********
+[0.9662] The people are friendly.
+Parent: It is clean and the people are friendly .
+
+Top 5 (supporting):
+     [0.9662] It is clean and the people are friendly .
+     [0.4729] Friendly staff with great food .
+     [0.1380] Service is friendly and portions are plenty .
+     [0.0440] Their down home feel is great .
+     [0.0125] Loved this place .
+
+Top 5 (weakening):
+     [-0.2405] The store is less than appealing .
+     [-0.0568] It is hard for me to get past their Cheesburger with mustard , chili and onions .
+     [-0.0398] A Rock Hill landmark .
+     [-0.0107] No where can you find a better hotdog , fries compliment either chili dog or Carolina hamburger .
+     [-0.0081] Good Prices .
+
+**********
+[0.8466] It is convenient.
+Parent: It is convenient to where I work .
+
+Top 5 (supporting):
+     [0.8466] It is convenient to where I work .
+     [0.1781] Service is friendly and portions are plenty .
+     [0.1679] Their down home feel is great .
+     [0.1536] Get the home fries and a bottle of Cheerwine and you can die happy .
+     [0.1029] If you 're looking for a good , cheap burger and you happen to be in town , this is the place to be !
+
+Top 5 (weakening):
+     [-0.7520] Only complaint is it takes a little long to get your food but well worth the wait !
+     [-0.4426] The store is less than appealing .
+     [-0.3632] Food takes a bit long , though , in my opinion .
+     [-0.1950] It is hard for me to get past their Cheesburger with mustard , chili and onions .
+     [-0.1404] I have not had anything bad from this place , although it 's hard to order anything other than the Cheeseburger and fries .
+
+**********
+[0.9183] It is close to where I work.
+Parent: It is convenient to where I work .
+
+Top 5 (supporting):
+     [0.9183] It is convenient to where I work .
+     [0.0025] They even us the local delivery service which make it even better .
+     [0.0014] Their down home feel is great .
+     [0.0012] Friendly staff with great food .
+     [0.0012] It is clean and the people are friendly .
+
+Top 5 (weakening):
+     [-0.0136] The store is less than appealing .
+     [-0.0106] My grandfather introduced me to Sonnys and now my kids go there .. Hard to find these kind of places anymore .. Love love love it !
+     [-0.0075] A Rock Hill landmark .
+     [-0.0056] We had a hamburger , hot dog and french fries .
+     [-0.0023] Food takes a bit long , though , in my opinion .
+
+**********
+[0.9642] The service is friendly.
+Parent: Service is friendly and portions are plenty .
+
+Top 5 (supporting):
+     [0.9642] Service is friendly and portions are plenty .
+     [0.7917] Friendly staff with great food .
+     [0.3061] It is clean and the people are friendly .
+     [0.1160] Their down home feel is great .
+     [0.0354] It feels very family run .
+
+Top 5 (weakening):
+     [-0.3228] The store is less than appealing .
+     [-0.0673] A Rock Hill landmark .
+     [-0.0327] It is hard for me to get past their Cheesburger with mustard , chili and onions .
+     [-0.0303] Only complaint is it takes a little long to get your food but well worth the wait !
+     [-0.0097] Great chili !
+
+**********
+[0.9443] The portions are plenty.
+Parent: Service is friendly and portions are plenty .
+
+Top 5 (supporting):
+     [0.9443] Service is friendly and portions are plenty .
+     [0.0690] Loved this place .
+     [0.0439] Awesome fresh food !
+     [0.0359] Friendly staff with great food .
+     [0.0355] No where can you find a better hotdog , fries compliment either chili dog or Carolina hamburger .
+
+Top 5 (weakening):
+     [-0.7203] I have not had anything bad from this place , although it 's hard to order anything other than the Cheeseburger and fries .
+     [-0.5859] The store is less than appealing .
+     [-0.3279] Food takes a bit long , though , in my opinion .
+     [-0.0858] It feels very family run .
+     [-0.0731] A Rock Hill landmark .
+
+**********
+[0.8790] You can't find a better hotdog.
+Parent: No where can you find a better hotdog , fries compliment either chili dog or Carolina hamburger .
+
+Top 5 (supporting):
+     [0.8790] No where can you find a better hotdog , fries compliment either chili dog or Carolina hamburger .
+     [0.0000] !
+     [0.0000] !
+     [0.0000] ! !
+     [0.0000] ! !
+
+Top 5 (weakening):
+     [-0.9810] The store is less than appealing .
+     [-0.8929] If you want a good burger and it 's close , I recommend it .
+     [-0.8725] I love the Big Ben burger here and would recommend this place to anyone !
+     [-0.8615] It feels very family run .
+     [-0.8529] It may be a little homely inside , but I like it !
+
+**********
+[0.9889] Fries compliment a chili dog or Carolina hamburger.
+Parent: No where can you find a better hotdog , fries compliment either chili dog or Carolina hamburger .
+
+Top 5 (supporting):
+     [0.9889] No where can you find a better hotdog , fries compliment either chili dog or Carolina hamburger .
+     [0.0000] !
+     [0.0000] !
+     [0.0000] ! !
+     [0.0000] ! !
+
+Top 5 (weakening):
+     [-0.5649] A Rock Hill landmark .
+     [-0.5314] The store is less than appealing .
+     [-0.4053] It may be a little homely inside , but I like it !
+     [-0.3954] It is hard for me to get past their Cheesburger with mustard , chili and onions .
+     [-0.3770] Get the home fries and a bottle of Cheerwine and you can die happy .
+
+**********
+[0.9777] This is a good, cheap burger place.
+Parent: If you 're looking for a good , cheap burger and you happen to be in town , this is the place to be !
+
+Top 5 (supporting):
+     [0.9777] If you 're looking for a good , cheap burger and you happen to be in town , this is the place to be !
+     [0.0621] My grandfather introduced me to Sonnys and now my kids go there .. Hard to find these kind of places anymore .. Love love love it !
+     [0.0469] I love the Big Ben burger here and would recommend this place to anyone !
+     [0.0336] If you want a good burger and it 's close , I recommend it .
+     [0.0326] The burger is really good .
+
+Top 5 (weakening):
+     [-0.9200] Great chili !
+     [-0.8632] The store is less than appealing .
+     [-0.7102] A Rock Hill landmark .
+     [-0.2241] Awesome fresh food !
+     [-0.0993] It may be a little homely inside , but I like it !

@@ -1,0 +1,75 @@
+Summary:
+
+Overall, reviewers thought the service was good, but the food was just okay. They thought it was expensive for what you got, and some found the menu to be overwhelming.
+
+**********
+[0.9626] The service was good.
+Parent: Overall, reviewers thought the service was good, but the food was just okay.
+
+Top 5 (supporting):
+     [0.9626] The service was excellent .
+     [0.8918] Very good service and a variable menu .
+     [0.8384] From the hostess pleasant greeting until signing the check , total experience was very good !
+     [0.5027] Our server was delightful .
+     [0.3932] Bartender was really nice too !
+
+Top 5 (weakening):
+     [-0.2948] It was just ok .
+     [-0.1352] I don 't think the restuarant fits the description and the layout is odd .
+     [-0.0388] Very expensive for what we got a total of 3 entrees and the food wasn 't good and it wasn 't bad it was just okay .
+     [-0.0362] Wasn 't very satisfied with the food .
+     [-0.0287] Overpriced .
+
+**********
+[0.7573] The food was okay.
+Parent: Overall, reviewers thought the service was good, but the food was just okay.
+
+Top 5 (supporting):
+     [0.7573] Very expensive for what we got a total of 3 entrees and the food wasn 't good and it wasn 't bad it was just okay .
+     [0.2587] I only had two appetizers the pork tacos were bomb very good and the millennium chicken that was good basic but good .
+     [0.2213] My tuna very different but good .
+     [0.0287] Everything came to the table at the right temperature .
+     [0.0255] Bartender was really nice too !
+
+Top 5 (weakening):
+     [-0.9403] I had the chicken bacon gouda sandwich and it was amazing ! !
+     [-0.9269] The food was super good !
+     [-0.8885] Delicious brunch .
+     [-0.8427] Wife 's seafood pasta " awesome " .
+     [-0.8134] The food was very good , and there was a lot to choose from without it being overwhelming .
+
+**********
+[0.9857] It was expensive for what you got.
+Parent: They thought it was expensive for what you got, and some found the menu to be overwhelming.
+
+Top 5 (supporting):
+     [0.9857] First off , it was very overpriced for what you got .
+     [0.9842] Very expensive for what we got a total of 3 entrees and the food wasn 't good and it wasn 't bad it was just okay .
+     [0.2093] Price at 25 bucks is worth every dollar .
+     [0.2049] Overpriced .
+     [0.0001] Will definitely give it another try though .
+
+Top 5 (weakening):
+     [-0.1543] Soft opening right now but expecting big things .
+     [-0.1441] Very knowledgeable .
+     [-0.1107] Bonus no wait !
+     [-0.0957] IMO he should be connecting with guests and building connections to secure some kind of equity with the guests .
+     [-0.0933] Dylan did a great job .
+
+**********
+[0.0022] The menu was overwhelming.
+Parent: They thought it was expensive for what you got, and some found the menu to be overwhelming.
+
+Top 5 (supporting):
+     [0.0022] All I can say is Im full and happy !
+     [0.0007] I definitely can 't wait to go again .
+     [0.0000] Not busy .
+     [-0.0004] We highly recommend this restaurant !
+     [-0.0006] We really enjoyed the evening at Vilka Bistro .
+
+Top 5 (weakening):
+     [-0.9856] The food was very good , and there was a lot to choose from without it being overwhelming .
+     [-0.9520] It was just ok .
+     [-0.9283] I don 't think the restuarant fits the description and the layout is odd .
+     [-0.9195] I only had two appetizers the pork tacos were bomb very good and the millennium chicken that was good basic but good .
+     [-0.8925] Loved local business and will always try but was not too impressed .

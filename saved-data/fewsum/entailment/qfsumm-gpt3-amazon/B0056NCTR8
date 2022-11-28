@@ -1,0 +1,75 @@
+Summary:
+
+The reviews say that the product is a great gift idea for anyone who loves Heineken, and that the glasses are high quality and look sharp. They also mention that the customer service is great.
+
+**********
+[0.0007] The product is a great gift idea for anyone who loves Heineken.
+Parent: The reviews say that the product is a great gift idea for anyone who loves Heineken, and that the glasses are high quality and look sharp.
+
+Top 5 (supporting):
+     [0.0007] The shipping was fast as well .
+     [-0.0018] So happy I bought them !
+     [-0.0022] thanks for having these glasses available and having a pair ... i added it to my Heineken collection of glasses ... was trying to get all the different sizes ...
+     [-0.0023] This product was exactly what I ordered .
+     [-0.0025] Recommend to anyone who loves Heineken and want glasses of that brand .
+
+Top 5 (weakening):
+     [-0.5543] This item was a great gift idea for a friend who loves to have her Heinekin beer in a chilled glass .
+     [-0.1025] I don 't see anything wrong with them
+     [-0.0722] They make a great addition to a home bar .
+     [-0.0152] Not to mention , how great the customer service is .
+     [-0.0145] He enjoys drinking his Heineken out of them every weekend .
+
+**********
+[0.9253] The glasses are high quality.
+Parent: The reviews say that the product is a great gift idea for anyone who loves Heineken, and that the glasses are high quality and look sharp.
+
+Top 5 (supporting):
+     [0.9253] Super high quality glasses .
+     [0.6031] These glasses are outstanding .
+     [0.1757] The photograph gives you some idea , but the actual glasses are even better .
+     [0.1220] I saw this glass in a restaurant that I like and wanted to pick up a few ..... they could not sell it to me at the location so I found they on Amazon and they were exactly as described -- well packaged and delivered on time .
+     [0.0383] The glasses are sharp looking .
+
+Top 5 (weakening):
+     [-0.0123] Not to mention , how great the customer service is .
+     [-0.0039] I don 't see anything wrong with them
+     [0.0033] The shipping was fast as well .
+     [0.0034] This product met the expectations set by pictures and the review .
+     [0.0038] He enjoys drinking his Heineken out of them every weekend .
+
+**********
+[0.9845] The glasses look sharp.
+Parent: The reviews say that the product is a great gift idea for anyone who loves Heineken, and that the glasses are high quality and look sharp.
+
+Top 5 (supporting):
+     [0.9845] The glasses are sharp looking .
+     [0.0814] These glasses are outstanding .
+     [0.0542] Super high quality glasses .
+     [0.0494] The photograph gives you some idea , but the actual glasses are even better .
+     [0.0159] Recommend to anyone who loves Heineken and want glasses of that brand .
+
+Top 5 (weakening):
+     [-0.2948] Not to mention , how great the customer service is .
+     [-0.2806] I don 't see anything wrong with them
+     [-0.1776] This product was exactly what I ordered .
+     [-0.0808] This item was a great gift idea for a friend who loves to have her Heinekin beer in a chilled glass .
+     [-0.0133] They are wonderful gift for your husband who enjoys Heineken .
+
+**********
+[0.9313] The customer service is good.
+Parent: They also mention that the customer service is great.
+
+Top 5 (supporting):
+     [0.9313] Not to mention , how great the customer service is .
+     [0.0802] I saw this glass in a restaurant that I like and wanted to pick up a few ..... they could not sell it to me at the location so I found they on Amazon and they were exactly as described -- well packaged and delivered on time .
+     [0.0386] They were a great gift idea for me to send him ..
+     [0.0138] My brother was quite pleased with these and will enjoy using them .
+     [0.0108] thanks for having these glasses available and having a pair ... i added it to my Heineken collection of glasses ... was trying to get all the different sizes ...
+
+Top 5 (weakening):
+     [-0.0275] These glasses are outstanding .
+     [-0.0262] The glasses are sharp looking .
+     [-0.0066] Super high quality glasses .
+     [-0.0045] The photograph gives you some idea , but the actual glasses are even better .
+     [0.0004] Very happy with the product -- thank you !

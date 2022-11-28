@@ -1,0 +1,149 @@
+Summary:
+
+Some reviewers thought the product was overpriced, while others thought it was worth the price.
+Some reviewers thought the food was just okay, while others loved it.
+The reviews of Vilka Bistro were mostly positive, with people enjoying the food, service, and atmosphere.
+
+**********
+[0.9445] The product was overpriced.
+Parent: Some reviewers thought the product was overpriced, while others thought it was worth the price.
+
+Top 5 (supporting):
+     [0.9445] First off , it was very overpriced for what you got .
+     [0.8857] Very expensive for what we got a total of 3 entrees and the food wasn 't good and it wasn 't bad it was just okay .
+     [0.5715] Overpriced .
+     [0.0000] Not busy .
+     [-0.0028] Wasn 't very satisfied with the food .
+
+Top 5 (weakening):
+     [-0.4504] Very knowledgeable .
+     [-0.3124] Everything came to the table at the right temperature .
+     [-0.2894] Very nice , the bar is trendy and relaxing .
+     [-0.2759] From the hostess pleasant greeting until signing the check , total experience was very good !
+     [-0.2646] The food was very good , and there was a lot to choose from without it being overwhelming .
+
+**********
+[0.4262] The product was worth the price.
+Parent: Some reviewers thought the product was overpriced, while others thought it was worth the price.
+
+Top 5 (supporting):
+     [0.4262] Price at 25 bucks is worth every dollar .
+     [0.0203] A local gem .
+     [0.0202] I had the chicken bacon gouda sandwich and it was amazing ! !
+     [0.0189] All I can say is Im full and happy !
+     [0.0188] I definitely can 't wait to go again .
+
+Top 5 (weakening):
+     [-0.8414] Wasn 't very satisfied with the food .
+     [-0.3256] It was just ok .
+     [-0.2304] Loved local business and will always try but was not too impressed .
+     [-0.1402] I don 't think the restuarant fits the description and the layout is odd .
+     [-0.1078] Overpriced .
+
+**********
+[0.9282] The food was just okay.
+Parent: Some reviewers thought the food was just okay, while others loved it.
+
+Top 5 (supporting):
+     [0.9282] Very expensive for what we got a total of 3 entrees and the food wasn 't good and it wasn 't bad it was just okay .
+     [0.6425] Wasn 't very satisfied with the food .
+     [0.0204] I don 't think the restuarant fits the description and the layout is odd .
+     [0.0158] It was just ok .
+     [0.0074] Loved local business and will always try but was not too impressed .
+
+Top 5 (weakening):
+     [-0.9973] I had the chicken bacon gouda sandwich and it was amazing ! !
+     [-0.9960] The food was super good !
+     [-0.9948] The food was very good , and there was a lot to choose from without it being overwhelming .
+     [-0.9940] Delicious brunch .
+     [-0.9920] Wife 's seafood pasta " awesome " .
+
+**********
+[0.1401] The food was loved by some reviewers.
+Parent: Some reviewers thought the food was just okay, while others loved it.
+
+Top 5 (supporting):
+     [0.1401] We really enjoyed the evening at Vilka Bistro .
+     [0.0907] Wife 's seafood pasta " awesome " .
+     [0.0366] We highly recommend this restaurant !
+     [0.0296] The food was super good !
+     [0.0286] The food was very good , and there was a lot to choose from without it being overwhelming .
+
+Top 5 (weakening):
+     [-0.0829] Wine is short poured .
+     [-0.0405] I don 't think the restuarant fits the description and the layout is odd .
+     [-0.0215] IMO he should be connecting with guests and building connections to secure some kind of equity with the guests .
+     [-0.0165] Wasn 't very satisfied with the food .
+     [-0.0147] Very knowledgeable .
+
+**********
+[0.5920] The reviews of Vilka Bistro were positive.
+Parent: The reviews of Vilka Bistro were mostly positive, with people enjoying the food, service, and atmosphere.
+
+Top 5 (supporting):
+     [0.5920] We really enjoyed the evening at Vilka Bistro .
+     [0.3207] From the hostess pleasant greeting until signing the check , total experience was very good !
+     [0.2881] The food was very good , and there was a lot to choose from without it being overwhelming .
+     [0.1587] Very nice , the bar is trendy and relaxing .
+     [0.1514] Very good service and a variable menu .
+
+Top 5 (weakening):
+     [-0.9787] It was just ok .
+     [-0.9683] Wasn 't very satisfied with the food .
+     [-0.9191] Very expensive for what we got a total of 3 entrees and the food wasn 't good and it wasn 't bad it was just okay .
+     [-0.8448] I don 't think the restuarant fits the description and the layout is odd .
+     [-0.8420] Loved local business and will always try but was not too impressed .
+
+**********
+[0.9163] The food was enjoyed.
+Parent: The reviews of Vilka Bistro were mostly positive, with people enjoying the food, service, and atmosphere.
+
+Top 5 (supporting):
+     [0.9163] The food was super good !
+     [0.8723] The food was very good , and there was a lot to choose from without it being overwhelming .
+     [0.6552] I had the chicken bacon gouda sandwich and it was amazing ! !
+     [0.4977] Delicious brunch .
+     [0.2629] We really enjoyed the evening at Vilka Bistro .
+
+Top 5 (weakening):
+     [-0.9336] Wasn 't very satisfied with the food .
+     [-0.8914] Very expensive for what we got a total of 3 entrees and the food wasn 't good and it wasn 't bad it was just okay .
+     [-0.4818] Dylan did a great job .
+     [-0.3970] Wine is short poured .
+     [-0.0950] I don 't think the restuarant fits the description and the layout is odd .
+
+**********
+[0.9626] The service was good.
+Parent: The reviews of Vilka Bistro were mostly positive, with people enjoying the food, service, and atmosphere.
+
+Top 5 (supporting):
+     [0.9626] The service was excellent .
+     [0.8918] Very good service and a variable menu .
+     [0.8384] From the hostess pleasant greeting until signing the check , total experience was very good !
+     [0.5027] Our server was delightful .
+     [0.3932] Bartender was really nice too !
+
+Top 5 (weakening):
+     [-0.2948] It was just ok .
+     [-0.1352] I don 't think the restuarant fits the description and the layout is odd .
+     [-0.0388] Very expensive for what we got a total of 3 entrees and the food wasn 't good and it wasn 't bad it was just okay .
+     [-0.0362] Wasn 't very satisfied with the food .
+     [-0.0287] Overpriced .
+
+**********
+[0.3651] The atmosphere was enjoyed.
+Parent: The reviews of Vilka Bistro were mostly positive, with people enjoying the food, service, and atmosphere.
+
+Top 5 (supporting):
+     [0.3651] We really enjoyed the evening at Vilka Bistro .
+     [0.2419] From the hostess pleasant greeting until signing the check , total experience was very good !
+     [0.1828] Very nice , the bar is trendy and relaxing .
+     [0.1702] One of the nicest in the local area .
+     [0.1690] Bartender was really nice too !
+
+Top 5 (weakening):
+     [-0.6020] I don 't think the restuarant fits the description and the layout is odd .
+     [-0.0867] It was just ok .
+     [-0.0688] Loved local business and will always try but was not too impressed .
+     [-0.0567] Very expensive for what we got a total of 3 entrees and the food wasn 't good and it wasn 't bad it was just okay .
+     [-0.0339] Overpriced .

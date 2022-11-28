@@ -1,0 +1,183 @@
+Summary:
+
+Some people found the socks too tight, while others found them a perfect fit. Some people loved the design, while others found it too tight or uncomfortable. Some people thought the socks were great for running, while others found them difficult to put on. Overall, people seemed to either love or hate the socks, with very few people in between.
+
+**********
+[0.9696] The socks were too tight.
+Parent: Some people found the socks too tight, while others found them a perfect fit.
+
+Top 5 (supporting):
+     [0.9696] The too tight top of the sock hurt my leg and my toes went numb before the end of my shift .
+     [0.7654] Cute and seems to be well made , but the top band is too tight for the rest of the sock .
+     [0.4298] These socks are much tighter than other brands of compression socks I have tried .
+     [0.3662] but these are way too tight at the top and loose at the ankles .
+     [0.1900] The design is very cute , I just wish they weren 't so tight .
+
+Top 5 (weakening):
+     [-0.9619] The compression is just right and I love the pattern !
+     [-0.9574] I like the crazy color and the fit is perfect !
+     [-0.9175] Great product , will order more for next summer , i really love the colors with my matching outfits .
+     [-0.9159] They fit great and I get many complements at the gym for the design
+     [-0.8984] They are comfortable , have a sharp design and they work .
+
+**********
+[0.8984] They were a perfect fit.
+Parent: Some people found the socks too tight, while others found them a perfect fit.
+
+Top 5 (supporting):
+     [0.8984] I like the crazy color and the fit is perfect !
+     [0.5398] They fit great and I get many complements at the gym for the design
+     [0.2367] The size is perfect for me !
+     [0.0250] This Large size fits my feet , size 8.5 extra wide .
+     [0.0206] They are comfortable , have a sharp design and they work .
+
+Top 5 (weakening):
+     [-0.9940] It 's a weird fit as everything is perfect until you get to the top .
+     [-0.9900] The too tight top of the sock hurt my leg and my toes went numb before the end of my shift .
+     [-0.9891] I normally wear a small in other brands but even the medium in this brand is too tight on me .
+     [-0.9885] but these are way too tight at the top and loose at the ankles .
+     [-0.9872] like the arm sleeves , these were just too tight .
+
+**********
+[0.5977] The design was loved.
+Parent: Some people loved the design, while others found it too tight or uncomfortable.
+
+Top 5 (supporting):
+     [0.5977] The design is very cute , I just wish they weren 't so tight .
+     [0.5119] The compression is just right and I love the pattern !
+     [0.4596] They fit great and I get many complements at the gym for the design
+     [0.1566] Great product , will order more for next summer , i really love the colors with my matching outfits .
+     [0.1003] I like the crazy color and the fit is perfect !
+
+Top 5 (weakening):
+     [-0.9686] I do not recommend these socks
+     [-0.8840] The too tight top of the sock hurt my leg and my toes went numb before the end of my shift .
+     [-0.7609] I am seriously disappointed in this purchase .
+     [-0.7380] I got large and am not large myself , and still could not stand it for a minute .
+     [-0.7140] I have other red lion compression socks and these are the only pair that annoy me .
+
+**********
+[0.9529] It was too tight.
+Parent: Some people loved the design, while others found it too tight or uncomfortable.
+
+Top 5 (supporting):
+     [0.9529] like the arm sleeves , these were just too tight .
+     [0.9235] The too tight top of the sock hurt my leg and my toes went numb before the end of my shift .
+     [0.9067] but these are way too tight at the top and loose at the ankles .
+     [0.8941] They fight just fine but the compression is too much for me .
+     [0.8580] I normally wear a small in other brands but even the medium in this brand is too tight on me .
+
+Top 5 (weakening):
+     [-0.9881] The compression is just right and I love the pattern !
+     [-0.9796] I like the crazy color and the fit is perfect !
+     [-0.9784] They are comfortable , have a sharp design and they work .
+     [-0.9743] also what a great price .
+     [-0.9577] They fit great and I get many complements at the gym for the design
+
+**********
+[0.8840] It was uncomfortable.
+Parent: Some people loved the design, while others found it too tight or uncomfortable.
+
+Top 5 (supporting):
+     [0.8840] The too tight top of the sock hurt my leg and my toes went numb before the end of my shift .
+     [0.6623] The stripes dig into your legs and when you take them off you legs look all splotchy and indented with stripes : - |
+     [0.3725] My doctor adviczed me to wear compression stocking because my legs where swollen and hurt after sitting all day at work .
+     [0.2739] I got large and am not large myself , and still could not stand it for a minute .
+     [0.1985] They fight just fine but the compression is too much for me .
+
+Top 5 (weakening):
+     [-0.9545] I like the crazy color and the fit is perfect !
+     [-0.9329] Great product , will order more for next summer , i really love the colors with my matching outfits .
+     [-0.8803] also what a great price .
+     [-0.8530] They are comfortable , have a sharp design and they work .
+     [-0.8512] The compression is just right and I love the pattern !
+
+**********
+[0.6380] The socks were great for running.
+Parent: Some people thought the socks were great for running, while others found them difficult to put on.
+
+Top 5 (supporting):
+     [0.6380] Great for running , can be hard to put on , but well worth it .
+     [0.4559] These socks helped me train for and run a 5K injury-free ( no shin splints ) .
+     [0.0236] They fit great and I get many complements at the gym for the design
+     [0.0143] She ran her first 10k in them and did it under an hour !
+     [0.0102] I bought these because the previous compression socks with toes in them were great.
+
+Top 5 (weakening):
+     [-0.8733] I do not recommend these socks
+     [-0.6753] I use compression wear for biking so I am quite familiar with this type of product and I can tell you beware .
+     [-0.6039] I am seriously disappointed in this purchase .
+     [-0.5831] like the arm sleeves , these were just too tight .
+     [-0.5334] My doctor adviczed me to wear compression stocking because my legs where swollen and hurt after sitting all day at work .
+
+**********
+[0.9673] They were difficult to put on.
+Parent: Some people thought the socks were great for running, while others found them difficult to put on.
+
+Top 5 (supporting):
+     [0.9673] I 'm only a size 7 shoe with medium size legs but these socks were so difficult to put on that it was hardly worth all the effort .
+     [0.9373] Hard to get on but such is the case with Compression socks .
+     [0.8835] But , if you have a slightly larger than normal calf , they are practically impossible to get on .
+     [0.8584] Great for running , can be hard to put on , but well worth it .
+     [0.0790] The too tight top of the sock hurt my leg and my toes went numb before the end of my shift .
+
+Top 5 (weakening):
+     [-0.5342] also what a great price .
+     [-0.3244] They fit great and I get many complements at the gym for the design
+     [-0.2830] I like the crazy color and the fit is perfect !
+     [-0.2697] Great product , will order more for next summer , i really love the colors with my matching outfits .
+     [-0.2261] These socks are greatly quality and have amazing compression in them .
+
+**********
+[0.9052] The socks were loved.
+Parent: Overall, people seemed to either love or hate the socks, with very few people in between.
+
+Top 5 (supporting):
+     [0.9052] I love the socks !
+     [0.4871] I bought these because the previous compression socks with toes in them were great.
+     [0.1500] If I need to wear compression socks , this is the way to go !
+     [0.0857] The compression is just right and I love the pattern !
+     [0.0768] Great for running , can be hard to put on , but well worth it .
+
+Top 5 (weakening):
+     [-0.9887] I do not recommend these socks
+     [-0.9607] I have other red lion compression socks and these are the only pair that annoy me .
+     [-0.9352] I 'm only a size 7 shoe with medium size legs but these socks were so difficult to put on that it was hardly worth all the effort .
+     [-0.9057] The too tight top of the sock hurt my leg and my toes went numb before the end of my shift .
+     [-0.8716] I am seriously disappointed in this purchase .
+
+**********
+[0.3610] The socks were hated.
+Parent: Overall, people seemed to either love or hate the socks, with very few people in between.
+
+Top 5 (supporting):
+     [0.3610] I do not recommend these socks
+     [0.0994] I 'm only a size 7 shoe with medium size legs but these socks were so difficult to put on that it was hardly worth all the effort .
+     [0.0607] The too tight top of the sock hurt my leg and my toes went numb before the end of my shift .
+     [0.0087] I won 't be wearing them again .
+     [0.0000] !
+
+Top 5 (weakening):
+     [-0.9967] I love the socks !
+     [-0.9961] Great product , will order more for next summer , i really love the colors with my matching outfits .
+     [-0.9945] Love these !
+     [-0.9940] The compression is just right and I love the pattern !
+     [-0.9935] I like the crazy color and the fit is perfect !
+
+**********
+[0.4956] People liked the socks.
+Parent: Overall, people seemed to either love or hate the socks, with very few people in between.
+
+Top 5 (supporting):
+     [0.4956] I love the socks !
+     [0.1273] Great for running , can be hard to put on , but well worth it .
+     [0.1081] These socks are greatly quality and have amazing compression in them .
+     [0.0852] I brought them for my daughter her ask where did I get them she likes them a lot she want of them .
+     [0.0786] So , for you small calf people out there , you will enjoy these a lot !
+
+Top 5 (weakening):
+     [-0.7501] I do not recommend these socks
+     [-0.4447] I am seriously disappointed in this purchase .
+     [-0.3790] like the arm sleeves , these were just too tight .
+     [-0.3643] I got large and am not large myself , and still could not stand it for a minute .
+     [-0.2986] If you have larger calves you will want to go up a size .

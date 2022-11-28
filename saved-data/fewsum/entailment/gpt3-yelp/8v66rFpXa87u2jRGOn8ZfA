@@ -1,0 +1,183 @@
+Summary:
+
+The reviews of the product are mixed, with some people loving it and others finding it to be disappointing. Complaints include over-cooked food, slow service, and high prices. Some people also felt that the food was not up to the standards of other restaurants. However, others praised the fast and friendly service, the freshness of the food, and the great deals on the appetizers.
+
+**********
+[0.4238] The product was loved.
+Parent: The reviews of the product are mixed, with some people loving it and others finding it to be disappointing.
+
+Top 5 (supporting):
+     [0.4238] Great place for lunch or dinner I really love the salads , ribs , chicken and appetizers also the drinks .
+     [0.2795] Great food .
+     [0.2723] Best Friday 's ever .
+     [0.2332] Food came quick and fresh to the table , very friendly staff and the food was great !
+     [0.2083] Hubby got the Pecan Crusted Chicken Salad that he loves .
+
+Top 5 (weakening):
+     [-0.9872] I got a soda from there that tasted awful still in 2018 and it seems like they still didn 't do anything about it .
+     [-0.9826] disappointing.
+     [-0.9785] This place is so horrible it 's not even funny .
+     [-0.9674] Horrible service and horrible food , place turned super ghetto .
+     [-0.9649] now on my must avoid list .
+
+**********
+[0.8282] It was disappointing.
+Parent: The reviews of the product are mixed, with some people loving it and others finding it to be disappointing.
+
+Top 5 (supporting):
+     [0.8282] disappointing.
+     [0.6056] Food was over cooked , service slow .. avoid this location !
+     [0.5116] Sad service and at the bar with only 4 others taking up bar chairs .
+     [0.5076] very slow lackluster service.
+     [0.4906] Our server was awesome but the restaurant itself isnt worth it .
+
+Top 5 (weakening):
+     [-0.9984] Great place for lunch or dinner I really love the salads , ribs , chicken and appetizers also the drinks .
+     [-0.9984] Food came quick and fresh to the table , very friendly staff and the food was great !
+     [-0.9980] The Italian dishes are superb .
+     [-0.9979] The Chipotle Yucatan Chicken Salad was delicious and filling .
+     [-0.9974] Great food .
+
+**********
+[0.9718] The food was over-cooked.
+Parent: Complaints include over-cooked food, slow service, and high prices.
+
+Top 5 (supporting):
+     [0.9718] Food was over cooked , service slow .. avoid this location !
+     [0.0009] Horrible service and horrible food , place turned super ghetto .
+     [0.0000] !
+     [0.0000] ugh.
+     [0.0000] Thank you
+
+Top 5 (weakening):
+     [-0.9926] Food came quick and fresh to the table , very friendly staff and the food was great !
+     [-0.9562] ribs dry , little meat and I paid for the good Jack Daniels ones.
+     [-0.9265] The Stake was dry and chewy even when I requested medium rare .
+     [-0.8623] The Shrimps tasted like they fried right out of the freezer .
+     [-0.8245] Our server Jay was fantastic he was attentive and very detail oriented he made sure our meals were correct and came out hot .
+
+**********
+[0.9839] The service is slow.
+Parent: Complaints include over-cooked food, slow service, and high prices.
+
+Top 5 (supporting):
+     [0.9839] very slow lackluster service.
+     [0.9551] Food was over cooked , service slow .. avoid this location !
+     [0.7475] have had the same slow waitress twice in a row .
+     [0.1246] Friday 's is still going downhill .
+     [0.0948] Sad service and at the bar with only 4 others taking up bar chairs .
+
+Top 5 (weakening):
+     [-0.9954] Very fast and prompt service , especially for a Saturday night .
+     [-0.9928] TJI Friday 's has fast , friendly service .
+     [-0.9874] Food came quick and fresh to the table , very friendly staff and the food was great !
+     [-0.9863] The super staff conjured up our meals quickly after we orderred .
+     [-0.9659] Not only were our drinks serves promptly , but he offered us coffee , on him , before we left .
+
+**********
+[0.6117] Prices were high.
+Parent: Complaints include over-cooked food, slow service, and high prices.
+
+Top 5 (supporting):
+     [0.6117] BEWARE SERIOUSLY THEY WILL OVERCHARGE !
+     [0.5437] My bill was supposed to be 50 $ They were charging me 89 $ No sorry No oops They are criminals Avoid them
+     [0.5397] Gross , avoid at all costs .. 6pm on a Friday evening .. what happened to the days of an hour wait .. place was dead .. now I know why !
+     [0.0825] Asked for rare steak , was like a hockey puck .
+     [0.0500] Waste of $ 60
+
+Top 5 (weakening):
+     [-0.3496] Shut it down
+     [-0.3437] Walked in at 930 pm an the kitchen was closed also was there twice in the last year , food was terrible , didn 't pay and walked out .. WTF.
+     [-0.2090] He never missed a beat .
+     [-0.1851] Friendly staff .
+     [-0.1772] The Stake was dry and chewy even when I requested medium rare .
+
+**********
+[0.0515] The food was not up to the standards of other restaurants.
+Parent: Some people also felt that the food was not up to the standards of other restaurants.
+
+Top 5 (supporting):
+     [0.0515] Our server was awesome but the restaurant itself isnt worth it .
+     [0.0338] Food was over cooked , service slow .. avoid this location !
+     [0.0256] Horrible service and horrible food , place turned super ghetto .
+     [0.0148] ribs dry , little meat and I paid for the good Jack Daniels ones.
+     [0.0124] I 'll keep it real , The food sux !
+
+Top 5 (weakening):
+     [-0.9356] Great food .
+     [-0.9018] The Italian dishes are superb .
+     [-0.8609] Great place for lunch or dinner I really love the salads , ribs , chicken and appetizers also the drinks .
+     [-0.8033] The boneless wings and pretzels with beer cheese are a must .
+     [-0.7606] Food and Service exceptional for a national concept .
+
+**********
+[0.9542] The service was fast.
+Parent: However, others praised the fast and friendly service, the freshness of the food, and the great deals on the appetizers.
+
+Top 5 (supporting):
+     [0.9542] Very fast and prompt service , especially for a Saturday night .
+     [0.9287] TJI Friday 's has fast , friendly service .
+     [0.8686] Food came quick and fresh to the table , very friendly staff and the food was great !
+     [0.7541] The super staff conjured up our meals quickly after we orderred .
+     [0.6394] Not only were our drinks serves promptly , but he offered us coffee , on him , before we left .
+
+Top 5 (weakening):
+     [-0.9967] very slow lackluster service.
+     [-0.9956] Food was over cooked , service slow .. avoid this location !
+     [-0.9939] have had the same slow waitress twice in a row .
+     [-0.9341] Dropping my food on the floor of course was an accident however letting me wait nearly 20 minutes before I had to ask for another beer is ridiculous .
+     [-0.9331] Gross , avoid at all costs .. 6pm on a Friday evening .. what happened to the days of an hour wait .. place was dead .. now I know why !
+
+**********
+[0.9162] The service was friendly.
+Parent: However, others praised the fast and friendly service, the freshness of the food, and the great deals on the appetizers.
+
+Top 5 (supporting):
+     [0.9162] Food came quick and fresh to the table , very friendly staff and the food was great !
+     [0.8743] TJI Friday 's has fast , friendly service .
+     [0.7682] Friendly staff .
+     [0.3961] Our server was awesome but the restaurant itself isnt worth it .
+     [0.3099] If any employee can show great customer service during a rush is amazing .
+
+Top 5 (weakening):
+     [-0.9869] Sad service and at the bar with only 4 others taking up bar chairs .
+     [-0.9865] Horrible service and horrible food , place turned super ghetto .
+     [-0.9039] very slow lackluster service.
+     [-0.8877] My bill was supposed to be 50 $ They were charging me 89 $ No sorry No oops They are criminals Avoid them
+     [-0.8572] tons of screaming kids.
+
+**********
+[0.9618] The food was fresh.
+Parent: However, others praised the fast and friendly service, the freshness of the food, and the great deals on the appetizers.
+
+Top 5 (supporting):
+     [0.9618] Food came quick and fresh to the table , very friendly staff and the food was great !
+     [0.2017] I enjoyed a crisp harvest apple chicken salad with a touch of house dressing .
+     [0.1508] The appetizers came out hot and savory .
+     [0.0446] The Chipotle crema drizzled around the salad is thick and yummy , not spicy at all .
+     [0.0340] Good bites along with a convivial atmosphere makes this a destination to meet friends and family .
+
+Top 5 (weakening):
+     [-0.9204] The Shrimps tasted like they fried right out of the freezer .
+     [-0.9162] Walked in at 930 pm an the kitchen was closed also was there twice in the last year , food was terrible , didn 't pay and walked out .. WTF.
+     [-0.9081] Food was over cooked , service slow .. avoid this location !
+     [-0.8531] I got a soda from there that tasted awful still in 2018 and it seems like they still didn 't do anything about it .
+     [-0.8490] The Stake was dry and chewy even when I requested medium rare .
+
+**********
+[0.9585] The deals on the appetizers were great.
+Parent: However, others praised the fast and friendly service, the freshness of the food, and the great deals on the appetizers.
+
+Top 5 (supporting):
+     [0.9585] Great deal on the appetizers ( they were all good ) and BEST service from our waitress that I 've had anywhere in ages .
+     [0.0037] Great price !
+     [0.0003] Best Friday 's ever .
+     [0.0001] Love this place .
+     [0.0000] !
+
+Top 5 (weakening):
+     [-0.9095] My bill was supposed to be 50 $ They were charging me 89 $ No sorry No oops They are criminals Avoid them
+     [-0.9040] disappointing.
+     [-0.8558] This is my second bad experience there and wanted to give them another chance to make it up , but No More !
+     [-0.8523] Waste of $ 60
+     [-0.8230] This place is so horrible it 's not even funny .

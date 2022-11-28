@@ -1,0 +1,129 @@
+Summary:
+
+The reviews of Carmine's were mostly positive, with reviewers praising the food, service, and prices. However, some reviewers found the restaurant to be smoky and too hot, and one was disappointed with the salad.
+
+**********
+[0.6598] Carmine's was positive.
+Parent: The reviews of Carmine's were mostly positive, with reviewers praising the food, service, and prices.
+
+Top 5 (supporting):
+     [0.6598] Decided to try Carmine 's and we were not disappointed !
+     [0.4994] Service was awesome , prices were reasonable and the food was delicious ! !
+     [0.3502] The food is wonderful Bui I always find the place so hot .
+     [0.3352] Family feel to the staff and they are very nice !
+     [0.3316] The bartenders , and the atmosphere is great .
+
+Top 5 (weakening):
+     [-0.9860] This place was horrible !
+     [-0.9779] I 've come here a few times , but they seem to have dropped the quality of their food dramatically since the new year and it really ruined the experience of dinning here .. Would not recommend !
+     [-0.9605] The pizza was so bad I had to spit it out ...
+     [-0.9441] Such a huge disappointment , as we loved the food .
+     [-0.9317] Drove to Carmine 's today only to discover that they had closed .
+
+**********
+[0.9396] The food was good.
+Parent: The reviews of Carmine's were mostly positive, with reviewers praising the food, service, and prices.
+
+Top 5 (supporting):
+     [0.9396] Service was awesome , prices were reasonable and the food was delicious ! !
+     [0.9301] The food is delicious !
+     [0.9249] The food is wonderful Bui I always find the place so hot .
+     [0.9122] The place is kinda awkward but the food is good and that 's most important .
+     [0.8723] Food is good !
+
+Top 5 (weakening):
+     [-0.9773] The pizza was so bad I had to spit it out ...
+     [-0.9711] I 've come here a few times , but they seem to have dropped the quality of their food dramatically since the new year and it really ruined the experience of dinning here .. Would not recommend !
+     [-0.8831] Got an eggplant parm sandwich ( no taste ! )
+     [-0.6866] This place was horrible !
+     [-0.5825] I also ordered the chopped salad , not only was the salad chopped to nothing , the balsamic dressing was not good .
+
+**********
+[0.8555] The service was praised.
+Parent: The reviews of Carmine's were mostly positive, with reviewers praising the food, service, and prices.
+
+Top 5 (supporting):
+     [0.8555] Service was awesome , prices were reasonable and the food was delicious ! !
+     [0.6881] Service was good .
+     [0.6517] The service was good from Eddy
+     [0.5650] I love the friendly staff !
+     [0.5360] the manager hooked me up with exactly what I needed and was very satisfied .
+
+Top 5 (weakening):
+     [-0.9103] This place was horrible !
+     [-0.8618] I will never go back
+     [-0.8407] The pizza was so bad I had to spit it out ...
+     [-0.8350] I just stopped by and the premises were sealed by an eviction order dated 15 June---but then next to it was an order to stay the eviction dated 21 June .
+     [-0.7858] Drove to Carmine 's today only to discover that they had closed .
+
+**********
+[0.3425] The prices were praised.
+Parent: The reviews of Carmine's were mostly positive, with reviewers praising the food, service, and prices.
+
+Top 5 (supporting):
+     [0.3425] Service was awesome , prices were reasonable and the food was delicious ! !
+     [0.1523] Always wonderful food at a reasonable price .
+     [0.1023] It 's a great environment with good food and easy on your wallet !
+     [0.0136] Great Happy hour specials ! !
+     [0.0050] Family feel to the staff and they are very nice !
+
+Top 5 (weakening):
+     [-0.6965] I will never go back
+     [-0.6756] I just stopped by and the premises were sealed by an eviction order dated 15 June---but then next to it was an order to stay the eviction dated 21 June .
+     [-0.4335] Drove to Carmine 's today only to discover that they had closed .
+     [-0.3407] This place was horrible !
+     [-0.1529] The pizza was so bad I had to spit it out ...
+
+**********
+[0.8954] The restaurant was smoky.
+Parent: However, some reviewers found the restaurant to be smoky and too hot, and one was disappointed with the salad.
+
+Top 5 (supporting):
+     [0.8954] Smells a little smoky in the place put pizza is excellent and done just how you order it .
+     [0.0027] This place was horrible !
+     [0.0000] Gross .
+     [0.0000] !
+     [0.0000] ! !
+
+Top 5 (weakening):
+     [-0.9815] The food is wonderful Bui I always find the place so hot .
+     [-0.7641] Very tasty but I had to go home and heat it because the middle was cold !
+     [-0.6945] Family feel to the staff and they are very nice !
+     [-0.6895] The food is delicious !
+     [-0.6168] Always wonderful food at a reasonable price .
+
+**********
+[0.3943] The restaurant was too hot.
+Parent: However, some reviewers found the restaurant to be smoky and too hot, and one was disappointed with the salad.
+
+Top 5 (supporting):
+     [0.3943] The food is wonderful Bui I always find the place so hot .
+     [0.0000] Gross .
+     [0.0000] !
+     [0.0000] ! !
+     [0.0000] ! !
+
+Top 5 (weakening):
+     [-0.9456] Very tasty but I had to go home and heat it because the middle was cold !
+     [-0.6898] Drove to Carmine 's today only to discover that they had closed .
+     [-0.5087] Service was awesome , prices were reasonable and the food was delicious ! !
+     [-0.5066] Always wonderful food at a reasonable price .
+     [-0.4774] I just stopped by and the premises were sealed by an eviction order dated 15 June---but then next to it was an order to stay the eviction dated 21 June .
+
+**********
+[0.6075] The salad was disappointing.
+Parent: However, some reviewers found the restaurant to be smoky and too hot, and one was disappointed with the salad.
+
+Top 5 (supporting):
+     [0.6075] I also ordered the chopped salad , not only was the salad chopped to nothing , the balsamic dressing was not good .
+     [0.0456] I will never go back
+     [0.0020] This place was horrible !
+     [0.0000] Gross .
+     [0.0000] !
+
+Top 5 (weakening):
+     [-0.9914] The caprese salad was one of the better ones I 've had--it just needed a little sea salt .
+     [-0.9765] The salad was fair but the pizza a terrible .
+     [-0.9723] Calamari had great flavor but was tougher than the norm .
+     [-0.8921] The food is delicious !
+     [-0.8917] The marinara is give or take ...

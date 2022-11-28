@@ -1,0 +1,129 @@
+Summary:
+
+The product is good, with friendly staff and down-home feel. The food takes a bit long, but is worth the wait. The burgers and fries are the best in town.
+
+**********
+[0.8106] The product is good.
+Parent: The product is good, with friendly staff and down-home feel.
+
+Top 5 (supporting):
+     [0.8106] The burger is really good .
+     [0.5411] Great chili !
+     [0.4734] Best Burger and fries in town ! !
+     [0.4621] Awesome fresh food !
+     [0.4199] Love the burgers and home cut fries !
+
+Top 5 (weakening):
+     [-0.2328] I love this place .
+     [-0.2147] Loved this place .
+     [-0.1604] The store is less than appealing .
+     [0.0000] ! !
+     [0.0000] ! !
+
+**********
+[0.9398] The staff is friendly.
+Parent: The product is good, with friendly staff and down-home feel.
+
+Top 5 (supporting):
+     [0.9398] Friendly staff with great food .
+     [0.6847] Service is friendly and portions are plenty .
+     [0.4553] It is clean and the people are friendly .
+     [0.0756] Their down home feel is great .
+     [0.0144] Loved this place .
+
+Top 5 (weakening):
+     [-0.1723] The store is less than appealing .
+     [-0.0071] A Rock Hill landmark .
+     [-0.0011] It is hard for me to get past their Cheesburger with mustard , chili and onions .
+     [-0.0005] Only complaint is it takes a little long to get your food but well worth the wait !
+     [0.0000] ! !
+
+**********
+[0.8734] The product feels down-home.
+Parent: The product is good, with friendly staff and down-home feel.
+
+Top 5 (supporting):
+     [0.8734] Their down home feel is great .
+     [0.7936] It may be a little homely inside , but I like it !
+     [0.5521] It feels very family run .
+     [0.2075] Love the burgers and home cut fries !
+     [0.1492] Get the home fries and a bottle of Cheerwine and you can die happy .
+
+Top 5 (weakening):
+     [-0.9816] Awesome fresh food !
+     [-0.9618] No where can you find a better hotdog , fries compliment either chili dog or Carolina hamburger .
+     [-0.9573] Friendly staff with great food .
+     [-0.9368] Great chili !
+     [-0.9339] Service is friendly and portions are plenty .
+
+**********
+[0.1411] The food is a bit slow.
+Parent: The food takes a bit long, but is worth the wait.
+
+Top 5 (supporting):
+     [0.1411] Only complaint is it takes a little long to get your food but well worth the wait !
+     [0.0393] I have not had anything bad from this place , although it 's hard to order anything other than the Cheeseburger and fries .
+     [0.0106] The store is less than appealing .
+     [0.0002] This place is family owned and has been for over 50 years .
+     [0.0000] It feels very family run .
+
+Top 5 (weakening):
+     [-0.7129] Awesome fresh food !
+     [-0.6678] Food takes a bit long , though , in my opinion .
+     [-0.5644] Friendly staff with great food .
+     [-0.5638] Best Burger and fries in town ! !
+     [-0.5234] Great chili !
+
+**********
+[0.8621] The food is good.
+Parent: The food takes a bit long, but is worth the wait.
+
+Top 5 (supporting):
+     [0.8621] Friendly staff with great food .
+     [0.7822] Awesome fresh food !
+     [0.6849] The burger is really good .
+     [0.5587] Love the burgers and home cut fries !
+     [0.3651] Best Burger and fries in town ! !
+
+Top 5 (weakening):
+     [-0.3871] The store is less than appealing .
+     [-0.1249] A Rock Hill landmark .
+     [-0.0022] It may be a little homely inside , but I like it !
+     [0.0000] ! !
+     [0.0000] ! !
+
+**********
+[0.8799] The burgers are great.
+Parent: The burgers and fries are the best in town.
+
+Top 5 (supporting):
+     [0.8799] Love the burgers and home cut fries !
+     [0.7049] Best Burger and fries in town ! !
+     [0.6597] The burger is really good .
+     [0.4263] I love the Big Ben burger here and would recommend this place to anyone !
+     [0.1806] No where can you find a better hotdog , fries compliment either chili dog or Carolina hamburger .
+
+Top 5 (weakening):
+     [-0.9217] Great chili !
+     [-0.7996] The store is less than appealing .
+     [-0.6781] Get the home fries and a bottle of Cheerwine and you can die happy .
+     [-0.3492] The fresh hand cut fries are my favorite .
+     [-0.1990] A Rock Hill landmark .
+
+**********
+[0.7758] The fries are great.
+Parent: The burgers and fries are the best in town.
+
+Top 5 (supporting):
+     [0.7758] Best Burger and fries in town ! !
+     [0.6008] The fresh hand cut fries are my favorite .
+     [0.5919] Love the burgers and home cut fries !
+     [0.3156] Get the home fries and a bottle of Cheerwine and you can die happy .
+     [0.1630] No where can you find a better hotdog , fries compliment either chili dog or Carolina hamburger .
+
+Top 5 (weakening):
+     [-0.6841] The store is less than appealing .
+     [-0.5418] Great chili !
+     [-0.3293] A Rock Hill landmark .
+     [-0.0903] It may be a little homely inside , but I like it !
+     [-0.0467] The burger is really good .

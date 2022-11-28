@@ -1,0 +1,316 @@
+Summary:
+
+The reviews of the product were mixed, with some people enjoying the food and others finding it mediocre.
+The staff was praised for being friendly and the prices were considered to be good.
+Some reviewers wished there were more menu options available.
+The reviews were mostly positive, praising the food, atmosphere, and staff.
+A few reviewers mentioned that the prices were affordable, and one said that the restaurant was especially busy during lunch.
+The only negative review mentioned bad customer service and a long wait time.
+The reviews said that the product is great overall, with some amazing features.
+However, they also said that the product is a bit pricey for breakfast and that the service can be lacking at times.
+
+**********
+[0.8741] The food was enjoyed.
+Parent: The reviews of the product were mixed, with some people enjoying the food and others finding it mediocre.
+
+Top 5 (supporting):
+     [0.8741] Good food , great atmosphere , friendly staff really enjoy the breakfasts .
+     [0.7854] We had breakfast here and the food was spot on .
+     [0.7352] We went back for lunch a few weeks ago and even though they were out of meatloaf I really enjoyed my Club sandwich and fried Squash !
+     [0.6541] Great food .
+     [0.6514] Great burgers ( pimento cheese burger ) yummy !
+
+Top 5 (weakening):
+     [-0.9322] Quite loud , food mediocre .
+     [-0.9014] Staff was really nice so I feel bad but food needs improvement .
+     [-0.7717] The food wasn 't bad , it was just nothing special .
+     [-0.2890] Disappointing .
+     [-0.1296] Don 't think I 'll be back .
+
+**********
+[0.6688] It was mediocre.
+Parent: The reviews of the product were mixed, with some people enjoying the food and others finding it mediocre.
+
+Top 5 (supporting):
+     [0.6688] Quite loud , food mediocre .
+     [0.5676] Disappointing .
+     [0.4584] I live nearby and really wanted to support local but place wasn 't great .
+     [0.1984] Bad customer service .
+     [0.1143] The service lacked a lot but was made up for by an amazing owner .
+
+Top 5 (weakening):
+     [-0.9980] GREAT place !
+     [-0.9979] The dip they bring you when you are seated is awesome too .
+     [-0.9979] Awesome place !
+     [-0.9979] Their breakfast is fantastic .
+     [-0.9979] Great food .
+
+**********
+[0.9663] The staff was friendly.
+Parent: The staff was praised for being friendly and the prices were considered to be good.
+
+Top 5 (supporting):
+     [0.9663] Very friendly staff with plenty of parking in the back .
+     [0.9536] Good food , great atmosphere , friendly staff really enjoy the breakfasts .
+     [0.9207] Fantastic daily specials , friendly staff and quick service .
+     [0.8682] Friendly staff .
+     [0.8621] Staff was really nice so I feel bad but food needs improvement .
+
+Top 5 (weakening):
+     [-0.9453] Bad customer service .
+     [-0.3678] Disappointing .
+     [-0.2249] She greeted us and checked on us more than the waitress who seemed not care a bit about customers .
+     [-0.1493] Don 't think I 'll be back .
+     [-0.1422] 40 minutes later still not seated and to find out they just skipped over our name .
+
+**********
+[0.9615] The prices were good.
+Parent: The staff was praised for being friendly and the prices were considered to be good.
+
+Top 5 (supporting):
+     [0.9615] The prices are very good .
+     [0.7595] Overall a great value !
+     [0.6296] The prices are very affordable .
+     [0.5401] Kevin and Julie have done a wonderful job of presenting a first class menu at affordable prices .
+     [0.0371] For me a tad pricy for breakfast but worth it .
+
+Top 5 (weakening):
+     [-0.2917] Overall great atmosphere
+     [-0.1205] Disappointing .
+     [-0.1029] Great atmosphere .
+     [-0.0983] Bad customer service .
+     [-0.0249] Don 't think I 'll be back .
+
+**********
+[0.3790] Some reviewers wished there were more menu options.
+Parent: Some reviewers wished there were more menu options available.
+
+Top 5 (supporting):
+     [0.3790] The only thing I would say is wish there were more menu options .
+     [0.0410] Staff was really nice so I feel bad but food needs improvement .
+     [0.0238] We went back for lunch a few weeks ago and even though they were out of meatloaf I really enjoyed my Club sandwich and fried Squash !
+     [0.0189] We will be back once you get your dining room open .
+     [0.0005] Quaint little nostalgic restaurant .
+
+Top 5 (weakening):
+     [-0.0235] Don 't think I 'll be back .
+     [-0.0175] They have a great selection of food .
+     [-0.0139] My husband lived the grits and Im soooo glad they have rye toast : ) I think they will be a 5 star once they get some time under their belt .
+     [-0.0127] Try the grilled salmon salad ( when available ) !
+     [-0.0126] You know it 's good when the parking lot stays full .
+
+**********
+[0.5534] The reviews were good.
+Parent: The reviews were mostly positive, praising the food, atmosphere, and staff.
+
+Top 5 (supporting):
+     [0.5534] Good food , great atmosphere , friendly staff really enjoy the breakfasts .
+     [0.4132] Great service and food quality .
+     [0.3907] Fantastic daily specials , friendly staff and quick service .
+     [0.3162] The omlettes were awesome .
+     [0.2781] You know it 's good when the parking lot stays full .
+
+Top 5 (weakening):
+     [-0.9835] Disappointing .
+     [-0.9584] Bad customer service .
+     [-0.9523] I live nearby and really wanted to support local but place wasn 't great .
+     [-0.6362] The food wasn 't bad , it was just nothing special .
+     [-0.2809] Quite loud , food mediocre .
+
+**********
+[0.8960] The food was good.
+Parent: The reviews were mostly positive, praising the food, atmosphere, and staff.
+
+Top 5 (supporting):
+     [0.8960] We had breakfast here and the food was spot on .
+     [0.8891] Good food , great atmosphere , friendly staff really enjoy the breakfasts .
+     [0.8590] Great food .
+     [0.8457] Great service and food quality .
+     [0.7338] The food is southern and pretty good , the service is outstanding .
+
+Top 5 (weakening):
+     [-0.9916] Quite loud , food mediocre .
+     [-0.9252] Staff was really nice so I feel bad but food needs improvement .
+     [-0.8825] The food wasn 't bad , it was just nothing special .
+     [-0.2540] Good tasting coffee .
+     [-0.1670] Great atmosphere .
+
+**********
+[0.9452] The atmosphere was praised.
+Parent: The reviews were mostly positive, praising the food, atmosphere, and staff.
+
+Top 5 (supporting):
+     [0.9452] Good food , great atmosphere , friendly staff really enjoy the breakfasts .
+     [0.8571] Overall great atmosphere
+     [0.8541] Great atmosphere .
+     [0.1701] One is really make to feel at home .
+     [0.1163] Love the cowboy caviar !
+
+Top 5 (weakening):
+     [-0.8106] Disappointing .
+     [-0.7349] I live nearby and really wanted to support local but place wasn 't great .
+     [-0.5888] Staff was really nice so I feel bad but food needs improvement .
+     [-0.4249] Have no idea how there food is .
+     [-0.3381] Don 't think I 'll be back .
+
+**********
+[0.7620] The staff was praised.
+Parent: The reviews were mostly positive, praising the food, atmosphere, and staff.
+
+Top 5 (supporting):
+     [0.7620] Staff was really nice so I feel bad but food needs improvement .
+     [0.6107] Fantastic daily specials , friendly staff and quick service .
+     [0.4429] Very friendly staff with plenty of parking in the back .
+     [0.3643] Good food , great atmosphere , friendly staff really enjoy the breakfasts .
+     [0.3642] Love the cowboy caviar !
+
+Top 5 (weakening):
+     [-0.9808] Bad customer service .
+     [-0.8944] Disappointing .
+     [-0.5631] Don 't think I 'll be back .
+     [-0.4024] Have no idea how there food is .
+     [-0.2909] She greeted us and checked on us more than the waitress who seemed not care a bit about customers .
+
+**********
+[0.9746] The prices were affordable.
+Parent: A few reviewers mentioned that the prices were affordable, and one said that the restaurant was especially busy during lunch.
+
+Top 5 (supporting):
+     [0.9746] The prices are very affordable .
+     [0.6241] Kevin and Julie have done a wonderful job of presenting a first class menu at affordable prices .
+     [0.3786] The prices are very good .
+     [0.1765] Overall a great value !
+     [0.0029] I 'll go back many times .
+
+Top 5 (weakening):
+     [-0.9681] For me a tad pricy for breakfast but worth it .
+     [-0.1480] Disappointing .
+     [-0.1258] Bad customer service .
+     [-0.1135] Have no idea how there food is .
+     [-0.0531] Squash casserole is to die for !
+
+**********
+[0.4021] The restaurant was especially busy during lunch.
+Parent: A few reviewers mentioned that the prices were affordable, and one said that the restaurant was especially busy during lunch.
+
+Top 5 (supporting):
+     [0.4021] Went for lunch with a friend and this place was packed .
+     [0.2517] We visited for lunch , they were packed !
+     [0.2486] Went here today for lunch and it was quite busy .
+     [0.0002] Quite loud , food mediocre .
+     [0.0000] GREAT place !
+
+Top 5 (weakening):
+     [-0.3953] Their breakfast is fantastic .
+     [-0.2062] You know it 's good when the parking lot stays full .
+     [-0.1447] Don 't think I 'll be back .
+     [-0.1412] We had breakfast here and the food was spot on .
+     [-0.1339] Disappointing .
+
+**********
+[0.5402] The review mentioned bad customer service.
+Parent: The only negative review mentioned bad customer service and a long wait time.
+
+Top 5 (supporting):
+     [0.5402] Bad customer service .
+     [0.1115] She greeted us and checked on us more than the waitress who seemed not care a bit about customers .
+     [0.0989] The service lacked a lot but was made up for by an amazing owner .
+     [0.0076] 40 minutes later still not seated and to find out they just skipped over our name .
+     [0.0000] !
+
+Top 5 (weakening):
+     [-0.9950] Great service and food quality .
+     [-0.9948] Fantastic daily specials , friendly staff and quick service .
+     [-0.9945] Great service .
+     [-0.9918] The food is southern and pretty good , the service is outstanding .
+     [-0.9865] Very friendly staff with plenty of parking in the back .
+
+**********
+[0.8989] The wait time was long.
+Parent: The only negative review mentioned bad customer service and a long wait time.
+
+Top 5 (supporting):
+     [0.8989] The wait was a little longer than we expected bit my western omelet was FULL of fixins ' !
+     [0.6885] Make sure you get there early because that line gets long later in the morning .
+     [0.1123] 40 minutes later still not seated and to find out they just skipped over our name .
+     [0.0230] Went here today for lunch and it was quite busy .
+     [0.0021] Put out name on list and waited outside .
+
+Top 5 (weakening):
+     [-0.9674] Fantastic daily specials , friendly staff and quick service .
+     [-0.5189] We had the opportunity of being one of the first customers at The Bridge restaurant while enjoying the Hemby Bridge Christmas Parade .
+     [-0.2923] You know it 's good when the parking lot stays full .
+     [-0.2125] Very friendly staff with plenty of parking in the back .
+     [-0.1754] Overall great atmosphere
+
+**********
+[0.6674] The product is great.
+Parent: The reviews said that the product is great overall, with some amazing features.
+
+Top 5 (supporting):
+     [0.6674] Squash casserole is to die for !
+     [0.5721] Their breakfast is fantastic .
+     [0.5464] The steak sandwich was outstanding .
+     [0.5430] Great food .
+     [0.4882] The dip they bring you when you are seated is awesome too .
+
+Top 5 (weakening):
+     [-0.9838] Disappointing .
+     [-0.9819] The food wasn 't bad , it was just nothing special .
+     [-0.8942] Staff was really nice so I feel bad but food needs improvement .
+     [-0.8652] Quite loud , food mediocre .
+     [-0.7156] Bad customer service .
+
+**********
+[0.5915] The product has some amazing features.
+Parent: The reviews said that the product is great overall, with some amazing features.
+
+Top 5 (supporting):
+     [0.5915] Fantastic daily specials , friendly staff and quick service .
+     [0.4476] The dip they bring you when you are seated is awesome too .
+     [0.1775] You know it 's good when the parking lot stays full .
+     [0.1136] My husband lived the grits and Im soooo glad they have rye toast : ) I think they will be a 5 star once they get some time under their belt .
+     [0.1128] Have no idea how there food is .
+
+Top 5 (weakening):
+     [-0.7989] The food wasn 't bad , it was just nothing special .
+     [-0.7284] Disappointing .
+     [-0.6858] The service lacked a lot but was made up for by an amazing owner .
+     [-0.4742] Bad customer service .
+     [-0.3691] I live nearby and really wanted to support local but place wasn 't great .
+
+**********
+[0.8525] The product is pricey for breakfast.
+Parent: However, they also said that the product is a bit pricey for breakfast and that the service can be lacking at times.
+
+Top 5 (supporting):
+     [0.8525] For me a tad pricy for breakfast but worth it .
+     [0.0000] !
+     [0.0000] ! !
+     [-0.0040] I would recommend !
+     [-0.0041] I confess I 've only been once .
+
+Top 5 (weakening):
+     [-0.5863] Overall great atmosphere
+     [-0.4830] Kevin and Julie have done a wonderful job of presenting a first class menu at affordable prices .
+     [-0.3938] The prices are very affordable .
+     [-0.2697] You are treated like family .
+     [-0.2452] One is really make to feel at home .
+
+**********
+[0.8419] The service can be lacking.
+Parent: However, they also said that the product is a bit pricey for breakfast and that the service can be lacking at times.
+
+Top 5 (supporting):
+     [0.8419] The service lacked a lot but was made up for by an amazing owner .
+     [0.4666] Bad customer service .
+     [0.3051] She greeted us and checked on us more than the waitress who seemed not care a bit about customers .
+     [0.2663] 40 minutes later still not seated and to find out they just skipped over our name .
+     [0.2446] Staff was really nice so I feel bad but food needs improvement .
+
+Top 5 (weakening):
+     [-0.6522] The food is southern and pretty good , the service is outstanding .
+     [-0.6068] Fantastic daily specials , friendly staff and quick service .
+     [-0.5710] Great service and food quality .
+     [-0.5706] The dip they bring you when you are seated is awesome too .
+     [-0.4868] Very friendly staff with plenty of parking in the back .

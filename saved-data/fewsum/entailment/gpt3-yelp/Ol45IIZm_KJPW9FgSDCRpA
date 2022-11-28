@@ -1,0 +1,111 @@
+Summary:
+
+The reviews were mixed, with some people enjoying the food and others finding it average or disappointing. The service was also criticized in some reviews. Overall, the reviewers seemed to think that the food was good but nothing special.
+
+**********
+[0.7257] The food was enjoyable.
+Parent: The reviews were mixed, with some people enjoying the food and others finding it average or disappointing.
+
+Top 5 (supporting):
+     [0.7257] Good food , great atmosphere , friendly staff really enjoy the breakfasts .
+     [0.6759] We had breakfast here and the food was spot on .
+     [0.5677] We went back for lunch a few weeks ago and even though they were out of meatloaf I really enjoyed my Club sandwich and fried Squash !
+     [0.5144] Great food .
+     [0.4736] Great service and food quality .
+
+Top 5 (weakening):
+     [-0.9776] Quite loud , food mediocre .
+     [-0.8871] Staff was really nice so I feel bad but food needs improvement .
+     [-0.5536] The food wasn 't bad , it was just nothing special .
+     [-0.1701] Disappointing .
+     [-0.1565] Good tasting coffee .
+
+**********
+[0.0295] It was average.
+Parent: The reviews were mixed, with some people enjoying the food and others finding it average or disappointing.
+
+Top 5 (supporting):
+     [0.0295] I live nearby and really wanted to support local but place wasn 't great .
+     [0.0000] !
+     [0.0000] ! !
+     [-0.0160] I confess I 've only been once .
+     [-0.0217] We had the opportunity of being one of the first customers at The Bridge restaurant while enjoying the Hemby Bridge Christmas Parade .
+
+Top 5 (weakening):
+     [-0.9969] Awesome place !
+     [-0.9965] The steak sandwich was outstanding .
+     [-0.9964] GREAT place !
+     [-0.9960] The omlettes were awesome .
+     [-0.9953] Great food .
+
+**********
+[0.7476] It was disappointing.
+Parent: The reviews were mixed, with some people enjoying the food and others finding it average or disappointing.
+
+Top 5 (supporting):
+     [0.7476] Disappointing .
+     [0.6536] I live nearby and really wanted to support local but place wasn 't great .
+     [0.4997] The food wasn 't bad , it was just nothing special .
+     [0.4270] Bad customer service .
+     [0.0565] Don 't think I 'll be back .
+
+Top 5 (weakening):
+     [-0.9980] Awesome place !
+     [-0.9980] GREAT place !
+     [-0.9979] Fantastic daily specials , friendly staff and quick service .
+     [-0.9979] Their breakfast is fantastic .
+     [-0.9979] Great burgers ( pimento cheese burger ) yummy !
+
+**********
+[0.8888] The service was bad.
+Parent: The service was also criticized in some reviews.
+
+Top 5 (supporting):
+     [0.8888] Bad customer service .
+     [0.0302] I live nearby and really wanted to support local but place wasn 't great .
+     [0.0261] 40 minutes later still not seated and to find out they just skipped over our name .
+     [0.0065] Disappointing .
+     [0.0046] Don 't think I 'll be back .
+
+Top 5 (weakening):
+     [-0.9977] Great service and food quality .
+     [-0.9971] Great service .
+     [-0.9971] The food is southern and pretty good , the service is outstanding .
+     [-0.9968] Fantastic daily specials , friendly staff and quick service .
+     [-0.9965] Kevin and Julie have done a wonderful job of presenting a first class menu at affordable prices .
+
+**********
+[0.8960] The food was good.
+Parent: Overall, the reviewers seemed to think that the food was good but nothing special.
+
+Top 5 (supporting):
+     [0.8960] We had breakfast here and the food was spot on .
+     [0.8891] Good food , great atmosphere , friendly staff really enjoy the breakfasts .
+     [0.8590] Great food .
+     [0.8457] Great service and food quality .
+     [0.7338] The food is southern and pretty good , the service is outstanding .
+
+Top 5 (weakening):
+     [-0.9916] Quite loud , food mediocre .
+     [-0.9252] Staff was really nice so I feel bad but food needs improvement .
+     [-0.8825] The food wasn 't bad , it was just nothing special .
+     [-0.2540] Good tasting coffee .
+     [-0.1670] Great atmosphere .
+
+**********
+[0.9807] The food was nothing special.
+Parent: Overall, the reviewers seemed to think that the food was good but nothing special.
+
+Top 5 (supporting):
+     [0.9807] The food wasn 't bad , it was just nothing special .
+     [0.9051] Quite loud , food mediocre .
+     [0.0280] Staff was really nice so I feel bad but food needs improvement .
+     [0.0205] Quaint little nostalgic restaurant .
+     [0.0137] Disappointing .
+
+Top 5 (weakening):
+     [-0.9967] The steak sandwich was outstanding .
+     [-0.9965] Squash casserole is to die for !
+     [-0.9960] Great food .
+     [-0.9953] Great burgers ( pimento cheese burger ) yummy !
+     [-0.9936] Their breakfast is fantastic .

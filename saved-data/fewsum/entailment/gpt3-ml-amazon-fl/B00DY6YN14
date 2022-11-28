@@ -1,0 +1,261 @@
+Summary:
+
+The reviews were generally positive, with people liking the quality of the product and the low price.
+Some people found the fit to be small, and others found the skirt to be too short.
+There were also some complaints about the fabric being cheap-looking or the pleats not being well-done.
+Overall, people liked the product but had some reservations.
+The reviews were mostly positive, with people saying that they liked the color and fit of the skirt.
+However, some people found the fabric to be unflattering and there were a few complaints about the quality of the fabric.
+Overall, people seemed to be happy with the product.
+
+**********
+[0.8202] The quality of the product was good.
+Parent: The reviews were generally positive, with people liking the quality of the product and the low price.
+
+Top 5 (supporting):
+     [0.8202] I opened this and it was quite a surprise to find such nice quality at such a low price .
+     [0.5077] The material has a nice feel to it and I 'm very pleased with the way it washed and came out looking just fine .
+     [0.1772] It goes through the wash well , and is very soft and comfortable .
+     [0.1656] Pleating is great .
+     [0.1411] Great color at a great price .
+
+Top 5 (weakening):
+     [-0.8810] So unflattering !
+     [-0.7792] Looked like something you would send to a really bad second hand store .
+     [-0.7369] It was just too cheap looking and the pleats were not in well ...
+     [-0.6198] It was too straight and the pleats didn 't lay right !
+     [-0.3329] Pretty disappointed .
+
+**********
+[0.3612] The low price was liked.
+Parent: The reviews were generally positive, with people liking the quality of the product and the low price.
+
+Top 5 (supporting):
+     [0.3612] I opened this and it was quite a surprise to find such nice quality at such a low price .
+     [0.0008] Had hoped to wear to work but looks definitely way casual .
+     [0.0000] : )
+     [-0.0007] Plan to keep it .
+     [-0.0009] I bought the green and blue .
+
+Top 5 (weakening):
+     [-0.6213] Great color at a great price .
+     [-0.4406] So unflattering !
+     [-0.3977] It was just too cheap looking and the pleats were not in well ...
+     [-0.2842] Pretty disappointed .
+     [-0.2676] The fit crazy .
+
+**********
+[0.8974] The fit was small.
+Parent: Some people found the fit to be small, and others found the skirt to be too short.
+
+Top 5 (supporting):
+     [0.8974] I 'm 5 ' 9 and the skirt was way too short and fit pretty small for being an extra large .
+     [0.5089] Runs a bit small at waist .
+     [0.1369] It was just too cheap looking and the pleats were not in well ...
+     [0.0541] I wish this dress was just a little longer and had more fabric to it .
+     [0.0393] It was too straight and the pleats didn 't lay right !
+
+Top 5 (weakening):
+     [-0.9892] Ordered a large even though I 'm usually a medium and it fits just right !
+     [-0.9444] The fit crazy .
+     [-0.9408] I measured my waist and got a large but it seems to be a little big .
+     [-0.7729] Great length for my 5 ' 2 frame .
+     [-0.7346] The skirt fits well .
+
+**********
+[0.9830] The skirt was too short.
+Parent: Some people found the fit to be small, and others found the skirt to be too short.
+
+Top 5 (supporting):
+     [0.9830] I 'm 5 ' 9 and the skirt was way too short and fit pretty small for being an extra large .
+     [0.0340] The color was great , but it should have been a Aline fit !
+     [0.0246] I wish this dress was just a little longer and had more fabric to it .
+     [0.0182] It was just too cheap looking and the pleats were not in well ...
+     [0.0008] So unflattering !
+
+Top 5 (weakening):
+     [-0.9797] Overall happy with this long skirt .
+     [-0.8163] The skirt fits well .
+     [-0.6966] I 'm 5 ' 2 and with 3 " wedges this skirt will fit perfectly .... the material is nice and the color is even better !
+     [-0.6956] Great length for my 5 ' 2 frame .
+     [-0.6846] I bought it to wear to a Renaissance Faire , but it fits so well I will be able to wear it on other occasions as well .
+
+**********
+[0.6635] The fabric looked cheap.
+Parent: There were also some complaints about the fabric being cheap-looking or the pleats not being well-done.
+
+Top 5 (supporting):
+     [0.6635] It was just too cheap looking and the pleats were not in well ...
+     [0.0180] So unflattering !
+     [0.0171] I wish this dress was just a little longer and had more fabric to it .
+     [0.0080] Had hoped to wear to work but looks definitely way casual .
+     [0.0000] : )
+
+Top 5 (weakening):
+     [-0.9414] It feels more like a tube dress but it is beautiful colored fabric .
+     [-0.9290] Pleating is great .
+     [-0.9259] The color is rich and eye catching .
+     [-0.9251] The material has a nice feel to it and I 'm very pleased with the way it washed and came out looking just fine .
+     [-0.9192] I 'm 5 ' 2 and with 3 " wedges this skirt will fit perfectly .... the material is nice and the color is even better !
+
+**********
+[0.2637] The fabric was unflattering.
+Parent: There were also some complaints about the fabric being cheap-looking or the pleats not being well-done.
+
+Top 5 (supporting):
+     [0.2637] It was just too cheap looking and the pleats were not in well ...
+     [0.2509] So unflattering !
+     [0.1512] Just makes look round and shapeless , and what 's the fabric made of ?
+     [0.0631] I wish this dress was just a little longer and had more fabric to it .
+     [0.0004] Pretty disappointed .
+
+Top 5 (weakening):
+     [-0.9899] The material has a nice feel to it and I 'm very pleased with the way it washed and came out looking just fine .
+     [-0.9893] I 'm 5 ' 2 and with 3 " wedges this skirt will fit perfectly .... the material is nice and the color is even better !
+     [-0.9880] Pleating is great .
+     [-0.9855] It goes through the wash well , and is very soft and comfortable .
+     [-0.9811] It feels more like a tube dress but it is beautiful colored fabric .
+
+**********
+[0.9488] The pleats were not well-done.
+Parent: There were also some complaints about the fabric being cheap-looking or the pleats not being well-done.
+
+Top 5 (supporting):
+     [0.9488] It was just too cheap looking and the pleats were not in well ...
+     [0.5434] It was too straight and the pleats didn 't lay right !
+     [0.2313] Just makes look round and shapeless , and what 's the fabric made of ?
+     [0.1264] The color was great , but it should have been a Aline fit !
+     [0.0929] So unflattering !
+
+Top 5 (weakening):
+     [-0.9792] Pleating is great .
+     [-0.8832] I opened this and it was quite a surprise to find such nice quality at such a low price .
+     [-0.8676] Great color at a great price .
+     [-0.8420] Definitely recommend !
+     [-0.8125] The color is rich and eye catching .
+
+**********
+[0.6513] The product was good.
+Parent: Overall, people liked the product but had some reservations.
+
+Top 5 (supporting):
+     [0.6513] I opened this and it was quite a surprise to find such nice quality at such a low price .
+     [0.5880] The material has a nice feel to it and I 'm very pleased with the way it washed and came out looking just fine .
+     [0.5859] Pleating is great .
+     [0.5563] I love the skirt it was just what I was looking for.I have been searching for months for a skirt and was so excited when I saw this one because it was just what I was looking for .
+     [0.4896] With a green top , it made a great toned-down Poison Ivy costume .
+
+Top 5 (weakening):
+     [-0.7818] Looked like something you would send to a really bad second hand store .
+     [-0.7196] So unflattering !
+     [-0.5637] It was just too cheap looking and the pleats were not in well ...
+     [-0.2527] It was too straight and the pleats didn 't lay right !
+     [-0.1423] The fit crazy .
+
+**********
+[0.0186] Some people had reservations.
+Parent: Overall, people liked the product but had some reservations.
+
+Top 5 (supporting):
+     [0.0186] Pleating is great .
+     [0.0090] Order a size up .
+     [0.0045] I 'm 5 ' 2 and with 3 " wedges this skirt will fit perfectly .... the material is nice and the color is even better !
+     [0.0004] I bought it to wear to a Renaissance Faire , but it fits so well I will be able to wear it on other occasions as well .
+     [0.0000] : )
+
+Top 5 (weakening):
+     [-0.1546] Great color at a great price .
+     [-0.0944] Looked like something you would send to a really bad second hand store .
+     [-0.0641] Pretty disappointed .
+     [-0.0577] Has no definite shape .
+     [-0.0550] The color is rich and eye catching .
+
+**********
+[0.9136] The color of the skirt was liked.
+Parent: The reviews were mostly positive, with people saying that they liked the color and fit of the skirt.
+
+Top 5 (supporting):
+     [0.9136] I 'm 5 ' 2 and with 3 " wedges this skirt will fit perfectly .... the material is nice and the color is even better !
+     [0.2753] The color was great , but it should have been a Aline fit !
+     [0.1579] Thank goodness for 2 day shipping an the abundance of available colors in this skirt .
+     [0.1329] Color of this skirt is way brighter / louder than appears on Amazon .
+     [0.0624] It feels more like a tube dress but it is beautiful colored fabric .
+
+Top 5 (weakening):
+     [-0.7747] So unflattering !
+     [-0.3712] It was just too cheap looking and the pleats were not in well ...
+     [-0.3128] Pretty disappointed .
+     [-0.0808] The fit crazy .
+     [-0.0662] It was too straight and the pleats didn 't lay right !
+
+**********
+[0.9643] The skirt fit well.
+Parent: The reviews were mostly positive, with people saying that they liked the color and fit of the skirt.
+
+Top 5 (supporting):
+     [0.9643] The skirt fits well .
+     [0.8939] I 'm 5 ' 2 and with 3 " wedges this skirt will fit perfectly .... the material is nice and the color is even better !
+     [0.3783] This is a nice light skirt that skims the top of my feet .
+     [0.3590] I love the skirt it was just what I was looking for.I have been searching for months for a skirt and was so excited when I saw this one because it was just what I was looking for .
+     [0.1825] Solid quality skirts .
+
+Top 5 (weakening):
+     [-0.9547] I 'm 5 ' 9 and the skirt was way too short and fit pretty small for being an extra large .
+     [-0.8790] It was just too cheap looking and the pleats were not in well ...
+     [-0.8567] It was too straight and the pleats didn 't lay right !
+     [-0.8257] So unflattering !
+     [-0.7942] The color was great , but it should have been a Aline fit !
+
+**********
+[0.2637] The fabric was unflattering.
+Parent: However, some people found the fabric to be unflattering and there were a few complaints about the quality of the fabric.
+
+Top 5 (supporting):
+     [0.2637] It was just too cheap looking and the pleats were not in well ...
+     [0.2509] So unflattering !
+     [0.1512] Just makes look round and shapeless , and what 's the fabric made of ?
+     [0.0631] I wish this dress was just a little longer and had more fabric to it .
+     [0.0004] Pretty disappointed .
+
+Top 5 (weakening):
+     [-0.9899] The material has a nice feel to it and I 'm very pleased with the way it washed and came out looking just fine .
+     [-0.9893] I 'm 5 ' 2 and with 3 " wedges this skirt will fit perfectly .... the material is nice and the color is even better !
+     [-0.9880] Pleating is great .
+     [-0.9855] It goes through the wash well , and is very soft and comfortable .
+     [-0.9811] It feels more like a tube dress but it is beautiful colored fabric .
+
+**********
+[0.3366] The quality of the fabric was poor.
+Parent: However, some people found the fabric to be unflattering and there were a few complaints about the quality of the fabric.
+
+Top 5 (supporting):
+     [0.3366] It was just too cheap looking and the pleats were not in well ...
+     [0.1187] So unflattering !
+     [0.0351] It was too straight and the pleats didn 't lay right !
+     [0.0290] Just makes look round and shapeless , and what 's the fabric made of ?
+     [0.0062] Looked like something you would send to a really bad second hand store .
+
+Top 5 (weakening):
+     [-0.9654] The material has a nice feel to it and I 'm very pleased with the way it washed and came out looking just fine .
+     [-0.9587] I 'm 5 ' 2 and with 3 " wedges this skirt will fit perfectly .... the material is nice and the color is even better !
+     [-0.9550] Pleating is great .
+     [-0.9476] I opened this and it was quite a surprise to find such nice quality at such a low price .
+     [-0.9400] It feels more like a tube dress but it is beautiful colored fabric .
+
+**********
+[0.6589] People were happy with the product.
+Parent: Overall, people seemed to be happy with the product.
+
+Top 5 (supporting):
+     [0.6589] Overall happy with this long skirt .
+     [0.4555] I love the skirt it was just what I was looking for.I have been searching for months for a skirt and was so excited when I saw this one because it was just what I was looking for .
+     [0.3088] The material has a nice feel to it and I 'm very pleased with the way it washed and came out looking just fine .
+     [0.2614] I 'm very happy with my purchase .
+     [0.1042] I opened this and it was quite a surprise to find such nice quality at such a low price .
+
+Top 5 (weakening):
+     [-0.9774] Pretty disappointed .
+     [-0.8700] So unflattering !
+     [-0.5952] It was too straight and the pleats didn 't lay right !
+     [-0.4935] Looked like something you would send to a really bad second hand store .
+     [-0.4476] It was just too cheap looking and the pleats were not in well ...

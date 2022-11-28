@@ -1,0 +1,111 @@
+Summary:
+
+The Yelp reviews for this product were mostly negative, with reviewers complaining about the quality of the car wash, the rudeness of the staff, and the lack of value for the price. Some reviewers did have positive experiences, however, praising the staff and the quality of the wash.
+
+**********
+[0.0040] Yelp reviews for this product were mostly negative.
+Parent: The Yelp reviews for this product were mostly negative, with reviewers complaining about the quality of the car wash, the rudeness of the staff, and the lack of value for the price.
+
+Top 5 (supporting):
+     [0.0040] They really didn 't seem to care .
+     [0.0015] Avoid at all costs , they really don 't give a rip .
+     [0.0015] This has to be the worst car wash in town .
+     [0.0012] Will never go there again .
+     [0.0011] Awful awful awful !
+
+Top 5 (weakening):
+     [-0.7611] This place rocks ! !
+     [-0.6835] These people will place you on a Telemarketing list that you cannot get off of .
+     [-0.6776] Great service !
+     [-0.6753] This is one of the best places to have your car washed and detailed .
+     [-0.6721] I 've gone to this location a couple times now and have experienced consistently good service .
+
+**********
+[0.8650] The quality of the car wash was poor.
+Parent: The Yelp reviews for this product were mostly negative, with reviewers complaining about the quality of the car wash, the rudeness of the staff, and the lack of value for the price.
+
+Top 5 (supporting):
+     [0.8650] The worst car wash ever $ 25.00 for the vip wash and I had to point out several areas for them to redo in addition I spent 30 minutes when I got home to re clean my car ... will never go back ever again .
+     [0.7414] Worst service went for an oil change and a wash got in my car still a mess and oil all over my steering wheel and center consul and they want to tell me it was there very rude and unprofessional car wasn 't even clean poorly done well never be back here
+     [0.7259] Worst car wash and interior cleaning .
+     [0.7119] This car wash is horrible says the $ 5 for a machine wash and they don 't even dry your car .
+     [0.6901] This has to be the worst car wash in town .
+
+Top 5 (weakening):
+     [-0.9906] Such a good job on my Jeep !
+     [-0.9803] Great service !
+     [-0.9799] They did such a good job it was like a mini detail .
+     [-0.9730] I have never had a problem and they are always nice .
+     [-0.9704] Can 't say enough about this car wash the general manager Timothy is a big reason why he is really making a difference there customer service has really been improved .
+
+**********
+[0.5236] The reviewers were complaining that the product was not worth the price.
+Parent: The Yelp reviews for this product were mostly negative, with reviewers complaining about the quality of the car wash, the rudeness of the staff, and the lack of value for the price.
+
+Top 5 (supporting):
+     [0.5236] Girl up front rude and they need to speak English I got cheated with the price they told me something on day and the very next day didn 't honor the deal I tell you don 't go there there is another wash around the corner much better
+     [0.3078] This car wash is horrible says the $ 5 for a machine wash and they don 't even dry your car .
+     [0.2699] Please believe me this place is not worth your headache .......
+     [0.2418] Way overpriced ... waited for 3 hours ... detail was terrible .
+     [0.2034] Crap job and paid too much .
+
+Top 5 (weakening):
+     [-0.9763] Can 't say enough about this car wash the general manager Timothy is a big reason why he is really making a difference there customer service has really been improved .
+     [-0.9668] Great service , they take care of me every time I come in here .
+     [-0.9431] This place rocks ! !
+     [-0.9414] The staff is one of the best on the west side of the valley .
+     [-0.9400] Edwaedo very nice and helpful .
+
+**********
+[0.5255] The reviewers had positive experiences.
+Parent: Some reviewers did have positive experiences, however, praising the staff and the quality of the wash.
+
+Top 5 (supporting):
+     [0.5255] I 've gone to this location a couple times now and have experienced consistently good service .
+     [0.4589] Good experience .
+     [0.3805] Also washed my car free of charge : ) Great customer service !
+     [0.3597] Hilario was very helpful with a red scratch I was concerned about and he was able to remove it off my fender .
+     [0.3416] Great service , they take care of me every time I come in here .
+
+Top 5 (weakening):
+     [-0.9956] Not sure why there are such bad reviews for this place .
+     [-0.9956] Awful awful awful !
+     [-0.9955] Horrible experience .
+     [-0.9949] Extremely disappointing experience - expensive and lousy job .
+     [-0.9948] Worst experience I have EVER had at a car wash ....
+
+**********
+[0.4255] The staff was praised.
+Parent: Some reviewers did have positive experiences, however, praising the staff and the quality of the wash.
+
+Top 5 (supporting):
+     [0.4255] The staff is friendly and everything moves pretty quickly .
+     [0.3461] The staff is one of the best on the west side of the valley .
+     [0.3257] The crew under the leadership of Tim , the general manager , is friendly and provide excellent customer service .
+     [0.2400] Great service , they take care of me every time I come in here .
+     [0.1857] Also washed my car free of charge : ) Great customer service !
+
+Top 5 (weakening):
+     [-0.9939] Finally had to go out and yell at the workers .
+     [-0.9852] They ' filled ' a small chip in my windshield , did a HORRIBLE job , then couldn 't do anything to help me except a free wash ... ?
+     [-0.9848] Then after paying over $ 44. they did a horrible job .
+     [-0.9737] The employee had an ugly attitude.I mean for being the first person that " welcomes " the customers he needs to have better attitude !
+     [-0.9736] Worst service went for an oil change and a wash got in my car still a mess and oil all over my steering wheel and center consul and they want to tell me it was there very rude and unprofessional car wasn 't even clean poorly done well never be back here
+
+**********
+[0.1375] The quality of the wash was praised.
+Parent: Some reviewers did have positive experiences, however, praising the staff and the quality of the wash.
+
+Top 5 (supporting):
+     [0.1375] Can 't say enough about this car wash the general manager Timothy is a big reason why he is really making a difference there customer service has really been improved .
+     [0.1113] Not a bad car wash . Rates are reasonable .
+     [0.0354] Superstar is a lot better and wouldn 't leave soap marks on your windshield either .
+     [0.0320] Such a good job on my Jeep !
+     [0.0311] I have never had a problem and they are always nice .
+
+Top 5 (weakening):
+     [-0.9902] This is by far the WORST car wash I 've ever been to .
+     [-0.9900] Worst experience I have EVER had at a car wash ....
+     [-0.9881] Worst car wash ever !
+     [-0.9835] This car wash is horrible says the $ 5 for a machine wash and they don 't even dry your car .
+     [-0.9834] This has to be the worst car wash in town .

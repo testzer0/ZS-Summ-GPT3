@@ -1,0 +1,93 @@
+Summary:
+
+The product generally received positive reviews, with people praising the food and atmosphere. However, some reviewers found the prices to be a bit high, and the service was not always perfect.
+
+**********
+[0.7089] The product was good.
+Parent: The product generally received positive reviews, with people praising the food and atmosphere.
+
+Top 5 (supporting):
+     [0.7089] The steak sandwich was outstanding .
+     [0.6701] The omlettes were awesome .
+     [0.6435] Great burgers ( pimento cheese burger ) yummy !
+     [0.6378] Great food .
+     [0.6337] Good tasting coffee .
+
+Top 5 (weakening):
+     [-0.5036] Disappointing .
+     [-0.4186] The food wasn 't bad , it was just nothing special .
+     [-0.3799] Quite loud , food mediocre .
+     [-0.2217] Awesome place !
+     [-0.2082] GREAT place !
+
+**********
+[0.8434] The food was praised.
+Parent: The product generally received positive reviews, with people praising the food and atmosphere.
+
+Top 5 (supporting):
+     [0.8434] Good food , great atmosphere , friendly staff really enjoy the breakfasts .
+     [0.8308] We had breakfast here and the food was spot on .
+     [0.7888] Great food .
+     [0.7611] Great service and food quality .
+     [0.3307] Great burgers ( pimento cheese burger ) yummy !
+
+Top 5 (weakening):
+     [-0.9876] Staff was really nice so I feel bad but food needs improvement .
+     [-0.9828] Quite loud , food mediocre .
+     [-0.8266] The food wasn 't bad , it was just nothing special .
+     [-0.5872] Disappointing .
+     [-0.5588] Have no idea how there food is .
+
+**********
+[0.9452] The atmosphere was praised.
+Parent: The product generally received positive reviews, with people praising the food and atmosphere.
+
+Top 5 (supporting):
+     [0.9452] Good food , great atmosphere , friendly staff really enjoy the breakfasts .
+     [0.8571] Overall great atmosphere
+     [0.8541] Great atmosphere .
+     [0.1701] One is really make to feel at home .
+     [0.1163] Love the cowboy caviar !
+
+Top 5 (weakening):
+     [-0.8106] Disappointing .
+     [-0.7349] I live nearby and really wanted to support local but place wasn 't great .
+     [-0.5888] Staff was really nice so I feel bad but food needs improvement .
+     [-0.4249] Have no idea how there food is .
+     [-0.3381] Don 't think I 'll be back .
+
+**********
+[0.8571] The prices were a bit high.
+Parent: However, some reviewers found the prices to be a bit high, and the service was not always perfect.
+
+Top 5 (supporting):
+     [0.8571] For me a tad pricy for breakfast but worth it .
+     [0.0069] Have no idea how there food is .
+     [0.0006] I live nearby and really wanted to support local but place wasn 't great .
+     [0.0002] Went for lunch with a friend and this place was packed .
+     [0.0000] !
+
+Top 5 (weakening):
+     [-0.9710] Kevin and Julie have done a wonderful job of presenting a first class menu at affordable prices .
+     [-0.9430] The prices are very affordable .
+     [-0.8896] Overall a great value !
+     [-0.3172] The prices are very good .
+     [-0.1743] Fantastic daily specials , friendly staff and quick service .
+
+**********
+[0.9486] The service was not perfect.
+Parent: However, some reviewers found the prices to be a bit high, and the service was not always perfect.
+
+Top 5 (supporting):
+     [0.9486] The service lacked a lot but was made up for by an amazing owner .
+     [0.8318] Bad customer service .
+     [0.5775] The wait was a little longer than we expected bit my western omelet was FULL of fixins ' !
+     [0.5304] She greeted us and checked on us more than the waitress who seemed not care a bit about customers .
+     [0.5175] 40 minutes later still not seated and to find out they just skipped over our name .
+
+Top 5 (weakening):
+     [-0.8501] The food is southern and pretty good , the service is outstanding .
+     [-0.6463] Great service .
+     [-0.6262] The dip they bring you when you are seated is awesome too .
+     [-0.6108] Great service and food quality .
+     [-0.5118] Their breakfast is fantastic .

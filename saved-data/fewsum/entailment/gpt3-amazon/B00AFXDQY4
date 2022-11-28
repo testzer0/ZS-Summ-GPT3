@@ -1,0 +1,111 @@
+Summary:
+
+The majority of reviewers thought that the product was effective, with many saying that it reduced or eliminated their pain. Some reviewers found that the tape did not stick for long, but others said that it stayed on for days. There were also some people who were unsure of its efficacy but thought it might be helpful.
+
+**********
+[0.6006] The product was effective.
+Parent: The majority of reviewers thought that the product was effective, with many saying that it reduced or eliminated their pain.
+
+Top 5 (supporting):
+     [0.6006] I had to buy spray adhesive for my skin for this to stick longer and it worked great !
+     [0.5679] Not sure how this tape differs ( if al all ) from similar products , but it does the job for me .
+     [0.3999] not sure if i can say it helps alot .. but i think it does its job of staying on really well
+     [0.3107] It adheres well through tough workouts , it supports well , and it gives you that extra little bit of energy .
+     [0.2737] tape stays on well with running , great product !
+
+Top 5 (weakening):
+     [-0.0353] I have knee pain when exercising or dealing with a lot of hills .
+     [-0.0237] However , felt the elastic stretch is less than rock tape and others , so you couldn 't vary the stretch 50 % or full stretch accurately .
+     [-0.0154] Great tape , but it doesn 't stick for that long .
+     [0.0000] 4.5 stars
+     [0.0000] thank you
+
+**********
+[0.4633] The product reduced or eliminated pain.
+Parent: The majority of reviewers thought that the product was effective, with many saying that it reduced or eliminated their pain.
+
+Top 5 (supporting):
+     [0.4633] This tape reduces the pain , if not completely eliminates it , and it stays on for days !
+     [0.3714] It gave my shoulder more movement without pain ...
+     [0.2099] Stayed on for days and removed without skin irritation .
+     [0.1367] I love this tape and have battled through several injuries with the help of the stabilizing tape !
+     [0.1170] This is really strong tape it held some magnets on my mom 's arm for her rotary cuff issues for 3 days and I felt it was helping to heal her as well .
+
+Top 5 (weakening):
+     [-0.6848] I have knee pain when exercising or dealing with a lot of hills .
+     [-0.5211] not sure if i can say it helps alot .. but i think it does its job of staying on really well
+     [-0.5050] I like the pre-cut and the picture instructions that came with it and I like the quality of it.
+     [-0.4619] Other than that it does what it says !
+     [-0.1891] However , felt the elastic stretch is less than rock tape and others , so you couldn 't vary the stretch 50 % or full stretch accurately .
+
+**********
+[0.9921] The tape did not stick for long.
+Parent: Some reviewers found that the tape did not stick for long, but others said that it stayed on for days.
+
+Top 5 (supporting):
+     [0.9921] Great tape , but it doesn 't stick for that long .
+     [0.7141] I was having problems getting KT tape to stay on for even 48 hours , no problems with the Strength Tape .
+     [0.2816] I had to buy spray adhesive for my skin for this to stick longer and it worked great !
+     [0.0369] However , felt the elastic stretch is less than rock tape and others , so you couldn 't vary the stretch 50 % or full stretch accurately .
+     [0.0114] I have knee pain when exercising or dealing with a lot of hills .
+
+Top 5 (weakening):
+     [-0.9878] This tape reduces the pain , if not completely eliminates it , and it stays on for days !
+     [-0.9808] Stays on for days , even through showering .
+     [-0.9785] This is really strong tape it held some magnets on my mom 's arm for her rotary cuff issues for 3 days and I felt it was helping to heal her as well .
+     [-0.9693] Stayed on for days and removed without skin irritation .
+     [-0.9122] It adheres well through tough workouts , it supports well , and it gives you that extra little bit of energy .
+
+**********
+[0.9807] It stayed on for days.
+Parent: Some reviewers found that the tape did not stick for long, but others said that it stayed on for days.
+
+Top 5 (supporting):
+     [0.9807] This tape reduces the pain , if not completely eliminates it , and it stays on for days !
+     [0.9769] Stayed on for days and removed without skin irritation .
+     [0.9762] Stays on for days , even through showering .
+     [0.7361] This is really strong tape it held some magnets on my mom 's arm for her rotary cuff issues for 3 days and I felt it was helping to heal her as well .
+     [0.3563] Felt an imediate difference when the tape was applied gave me the added support that I neede due to over exertion , easy to apply with one hand stuck well even upto 5 days after exercise and showers .
+
+Top 5 (weakening):
+     [-0.9837] Great tape , but it doesn 't stick for that long .
+     [-0.9739] I was having problems getting KT tape to stay on for even 48 hours , no problems with the Strength Tape .
+     [-0.7317] Pre-cut lengths very helpful .
+     [-0.6108] watched a you tube video for taping instructions .
+     [-0.5402] I use this to help with plantar fasciitis .
+
+**********
+[0.1311] Its efficacy was unsure.
+Parent: There were also some people who were unsure of its efficacy but thought it might be helpful.
+
+Top 5 (supporting):
+     [0.1311] This tape reduces the pain , if not completely eliminates it , and it stays on for days !
+     [0.1270] Worth trying
+     [0.1128] Great tape , but it doesn 't stick for that long .
+     [0.0919] not sure if i can say it helps alot .. but i think it does its job of staying on really well
+     [0.0387] However , felt the elastic stretch is less than rock tape and others , so you couldn 't vary the stretch 50 % or full stretch accurately .
+
+Top 5 (weakening):
+     [-0.8669] I had to buy spray adhesive for my skin for this to stick longer and it worked great !
+     [-0.7643] highly recommend ...
+     [-0.7299] It is the best !
+     [-0.6779] It adheres well through tough workouts , it supports well , and it gives you that extra little bit of energy .
+     [-0.6778] I like the pre-cut and the picture instructions that came with it and I like the quality of it.
+
+**********
+[0.2269] It might be helpful.
+Parent: There were also some people who were unsure of its efficacy but thought it might be helpful.
+
+Top 5 (supporting):
+     [0.2269] Worth trying
+     [0.1899] not sure if i can say it helps alot .. but i think it does its job of staying on really well
+     [0.0874] I would recommend this for athletes , stay on MUCH better than KT or kinesiotape , not for thin skin elderly but great for athletes .
+     [0.0560] Pre-cut lengths very helpful .
+     [0.0483] This is a terrific product ... it is worth trying ...
+
+Top 5 (weakening):
+     [0.0000] 4.5 stars
+     [0.0000] thank you
+     [0.0027] So thankful I found this !
+     [0.0039] I have knee pain when exercising or dealing with a lot of hills .
+     [0.0042] Thank you very much .

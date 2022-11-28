@@ -1,0 +1,165 @@
+Summary:
+
+The reviews were mostly positive, with customers stating that the product arrived in perfect condition, worked well, and was a good value. There were a few negative reviews, with customers stating that the power supply did not work properly or did not last long. Overall, the reviews were positive and customers would recommend the product.
+
+**********
+[0.2274] The reviews were positive.
+Parent: The reviews were mostly positive, with customers stating that the product arrived in perfect condition, worked well, and was a good value.
+
+Top 5 (supporting):
+     [0.2274] Great service .
+     [0.2149] The product works great & the company was quick & efficient ...
+     [0.1349] Works flawlessly with my Dell Studio XPS 1645 with Quad i7 .
+     [0.0551] Correct part and reasonable price compared to other vendors .
+     [0.0163] It is a nice , compact unit and I like the Lighted DC Power Plug .
+
+Top 5 (weakening):
+     [-0.8554] Research thru Google shows numerous complaints of users having to replace the power supply in short time frames .
+     [-0.8374] Doesn 't appear to be a quality design / product .
+     [-0.8129] Would not charge laptop all the way , only half way then stops charging , tried charging several times and did not work
+     [-0.7216] Came w / o the pouch and didn 't work .
+     [-0.3691] My old one had died after 2 yrs .
+
+**********
+[0.9775] The product arrived in perfect condition.
+Parent: The reviews were mostly positive, with customers stating that the product arrived in perfect condition, worked well, and was a good value.
+
+Top 5 (supporting):
+     [0.9775] I ordered a new Dell laptop slim adapter and the product arrived in perfect condition .
+     [0.0521] The product works great & the company was quick & efficient ...
+     [0.0099] I would most definitely purchase from them again !
+     [0.0091] Great service .
+     [0.0064] Works flawlessly with my Dell Studio XPS 1645 with Quad i7 .
+
+Top 5 (weakening):
+     [-0.9943] My old one had died after 2 yrs .
+     [-0.9936] Would not charge laptop all the way , only half way then stops charging , tried charging several times and did not work
+     [-0.9930] Came w / o the pouch and didn 't work .
+     [-0.9423] Doesn 't appear to be a quality design / product .
+     [-0.7808] Research thru Google shows numerous complaints of users having to replace the power supply in short time frames .
+
+**********
+[0.9730] The product worked well.
+Parent: The reviews were mostly positive, with customers stating that the product arrived in perfect condition, worked well, and was a good value.
+
+Top 5 (supporting):
+     [0.9730] The product works great & the company was quick & efficient ...
+     [0.8143] I have been using this Power Pack for about 2 or 3 years and it is performing as well as the Dell suupply that came with my computer .
+     [0.7855] Works flawlessly with my Dell Studio XPS 1645 with Quad i7 .
+     [0.7538] Has been working properly with our Dell Inspiron laptop without any problems for almost 2 years now .
+     [0.5086] It charges both my batteries without problems and fits nicely into my backpack .
+
+Top 5 (weakening):
+     [-0.9917] Came w / o the pouch and didn 't work .
+     [-0.9483] My old one had died after 2 yrs .
+     [-0.9478] Would not charge laptop all the way , only half way then stops charging , tried charging several times and did not work
+     [-0.7921] Doesn 't appear to be a quality design / product .
+     [-0.1780] Research thru Google shows numerous complaints of users having to replace the power supply in short time frames .
+
+**********
+[0.4177] The product was a good value.
+Parent: The reviews were mostly positive, with customers stating that the product arrived in perfect condition, worked well, and was a good value.
+
+Top 5 (supporting):
+     [0.4177] Correct part and reasonable price compared to other vendors .
+     [0.1233] Dell Dude has the best price !
+     [0.0398] I would most definitely purchase from them again !
+     [0.0311] Appears to me to be a genuine Dell power supply for significantly less money than Dell charges .
+     [0.0311] Great service .
+
+Top 5 (weakening):
+     [-0.6173] Doesn 't appear to be a quality design / product .
+     [-0.0866] Came w / o the pouch and didn 't work .
+     [-0.0469] My old one had died after 2 yrs .
+     [-0.0161] Would not charge laptop all the way , only half way then stops charging , tried charging several times and did not work
+     [-0.0046] Research thru Google shows numerous complaints of users having to replace the power supply in short time frames .
+
+**********
+[0.1402] There were negative reviews.
+Parent: There were a few negative reviews, with customers stating that the power supply did not work properly or did not last long.
+
+Top 5 (supporting):
+     [0.1402] Research thru Google shows numerous complaints of users having to replace the power supply in short time frames .
+     [0.0305] Doesn 't appear to be a quality design / product .
+     [0.0038] Came w / o the pouch and didn 't work .
+     [-0.0179] My old one had died after 2 yrs .
+     [-0.0259] Would not charge laptop all the way , only half way then stops charging , tried charging several times and did not work
+
+Top 5 (weakening):
+     [-0.9907] Great service .
+     [-0.9801] I purchased this in July and I LOVE IT !
+     [-0.9722] The product works great & the company was quick & efficient ...
+     [-0.9661] I will use them again !
+     [-0.9509] Works flawlessly with my Dell Studio XPS 1645 with Quad i7 .
+
+**********
+[0.1602] The power supply did not work properly.
+Parent: There were a few negative reviews, with customers stating that the power supply did not work properly or did not last long.
+
+Top 5 (supporting):
+     [0.1602] Would not charge laptop all the way , only half way then stops charging , tried charging several times and did not work
+     [0.0720] Came w / o the pouch and didn 't work .
+     [0.0270] Research thru Google shows numerous complaints of users having to replace the power supply in short time frames .
+     [0.0089] My old one had died after 2 yrs .
+     [-0.0041] Doesn 't appear to be a quality design / product .
+
+Top 5 (weakening):
+     [-0.9866] I have been using this Power Pack for about 2 or 3 years and it is performing as well as the Dell suupply that came with my computer .
+     [-0.9796] It charges both my batteries without problems and fits nicely into my backpack .
+     [-0.9607] It is a nice , compact unit and I like the Lighted DC Power Plug .
+     [-0.9164] Great service .
+     [-0.8875] I even like the little advertising bag it came with because it keeps the power supply from getting tangled up with anything else in my laptop case .
+
+**********
+[0.4036] The power supply did not last long.
+Parent: There were a few negative reviews, with customers stating that the power supply did not work properly or did not last long.
+
+Top 5 (supporting):
+     [0.4036] Would not charge laptop all the way , only half way then stops charging , tried charging several times and did not work
+     [0.1490] Came w / o the pouch and didn 't work .
+     [0.1284] Research thru Google shows numerous complaints of users having to replace the power supply in short time frames .
+     [0.0744] My old one had died after 2 yrs .
+     [0.0075] Doesn 't appear to be a quality design / product .
+
+Top 5 (weakening):
+     [-0.9604] I have been using this Power Pack for about 2 or 3 years and it is performing as well as the Dell suupply that came with my computer .
+     [-0.5967] I purchased this in July and I LOVE IT !
+     [-0.5926] I will use them again !
+     [-0.5792] The product works great & the company was quick & efficient ...
+     [-0.5676] I even like the little advertising bag it came with because it keeps the power supply from getting tangled up with anything else in my laptop case .
+
+**********
+[0.2645] The reviews were good.
+Parent: Overall, the reviews were positive and customers would recommend the product.
+
+Top 5 (supporting):
+     [0.2645] Great service .
+     [0.2053] The product works great & the company was quick & efficient ...
+     [0.1031] Works flawlessly with my Dell Studio XPS 1645 with Quad i7 .
+     [0.0540] Correct part and reasonable price compared to other vendors .
+     [0.0213] It is a nice , compact unit and I like the Lighted DC Power Plug .
+
+Top 5 (weakening):
+     [-0.8543] Doesn 't appear to be a quality design / product .
+     [-0.4624] Came w / o the pouch and didn 't work .
+     [-0.2527] Would not charge laptop all the way , only half way then stops charging , tried charging several times and did not work
+     [-0.1183] My old one had died after 2 yrs .
+     [-0.0562] Research thru Google shows numerous complaints of users having to replace the power supply in short time frames .
+
+**********
+[0.0536] Customers recommended the product.
+Parent: Overall, the reviews were positive and customers would recommend the product.
+
+Top 5 (supporting):
+     [0.0536] Gave me credit on my credit card w no problem wish it would have worked .
+     [0.0220] I will use them again !
+     [0.0220] I purchased this in July and I LOVE IT !
+     [0.0180] Has been working properly with our Dell Inspiron laptop without any problems for almost 2 years now .
+     [0.0099] The product works great & the company was quick & efficient ...
+
+Top 5 (weakening):
+     [-0.3977] Came w / o the pouch and didn 't work .
+     [-0.2613] Research thru Google shows numerous complaints of users having to replace the power supply in short time frames .
+     [-0.1838] Would not charge laptop all the way , only half way then stops charging , tried charging several times and did not work
+     [-0.1834] Doesn 't appear to be a quality design / product .
+     [-0.1399] My old one had died after 2 yrs .

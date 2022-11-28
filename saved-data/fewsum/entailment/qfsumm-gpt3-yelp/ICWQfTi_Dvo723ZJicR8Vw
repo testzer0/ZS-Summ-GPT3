@@ -1,0 +1,255 @@
+Summary:
+
+The product was generally well-liked, with customers praising its cleanliness, variety, and convenience. However, some customers noted that the prices were higher than average, and that the customer service could be improved. One reviewer found the staff to be friendly and the prices to be reasonable, but was disappointed with the food. Another reviewer had a negative experience with the staff, finding them to be unprofessional and unhygienic. Overall, the product seems to be reasonably priced and of good quality, but with some potential improvements to be made in terms of customer service.
+
+**********
+[0.8499] The product was clean.
+Parent: The product was generally well-liked, with customers praising its cleanliness, variety, and convenience.
+
+Top 5 (supporting):
+     [0.8499] It was nice and clean and had all the needs we wanted on the trip .
+     [0.5956] Soo good eats , convenient grocery , clean fish to take home ... highly recommend .
+     [0.5464] A nice and clean supermarket with a complete variety of Filipino food .
+     [0.4182] I really love this place it 's clean and they have almost everything that l need for my Asian cooking and more.
+     [0.3590] Crispy skin and the flavor was awesome .
+
+Top 5 (weakening):
+     [-0.9961] be careful with buying meat here because my friend 's mom bought beef bones here and they were so bad that it stinked up their house.
+     [-0.9833] There was lots of fat on the oxtail in the Kare Kare .
+     [-0.9822] i bought sour sap juice that was open.
+     [-0.9795] Not particularly clean , and the bananas I got weren 't very good--already ripe and bruised .
+     [-0.9773] Little dirty international cheap low grade products and a little pricey .
+
+**********
+[0.8996] The product had a lot of variety.
+Parent: The product was generally well-liked, with customers praising its cleanliness, variety, and convenience.
+
+Top 5 (supporting):
+     [0.8996] A wide variety of seafood , fresh fruits and vegetables , Asian food products and they also have a bakery and a restaurant .
+     [0.8810] Good variety of product .
+     [0.8697] ( review for food counter only ) - they have a pretty good spread of food choices but they need to work on their food rating.
+     [0.8672] A nice and clean supermarket with a complete variety of Filipino food .
+     [0.6736] New market in town and they have a great selection of fish and produce !
+
+Top 5 (weakening):
+     [-0.9778] The fish department doesn 't have a variety as well in fish but appreciate the fried / cleaning station they provide .
+     [-0.6701] We will never come back here again
+     [-0.6137] It 's smaller than the one in Panorama City , but basically has the same stuff .
+     [-0.6137] never going to buy pandesal here ever again ! !
+     [-0.5396] Not particularly clean , and the bananas I got weren 't very good--already ripe and bruised .
+
+**********
+[0.6704] The product was convenient.
+Parent: The product was generally well-liked, with customers praising its cleanliness, variety, and convenience.
+
+Top 5 (supporting):
+     [0.6704] Soo good eats , convenient grocery , clean fish to take home ... highly recommend .
+     [0.1347] Also , they have goldilocks bakery now : ) so I don 't have to go all the way by seafood city to get my sweet tooth fix ; ) Their snacks are affordable as well
+     [0.1036] You picked it up not sliced .
+     [0.1009] nice grocery and nice eatery , as a one stop shop.
+     [0.0965] Loved the grocery store and bakery secretion but the cooked food was just ok .
+
+Top 5 (weakening):
+     [-0.8633] DISGUSTING ! !
+     [-0.7807] never going to buy pandesal here ever again ! !
+     [-0.7592] Terrible management here .....
+     [-0.7029] Little dirty international cheap low grade products and a little pricey .
+     [-0.6908] It is always busy .
+
+**********
+[0.6611] The prices were higher than average.
+Parent: However, some customers noted that the prices were higher than average, and that the customer service could be improved.
+
+Top 5 (supporting):
+     [0.6611] So be Leary.Also they are expensive compared to others like Kusina .
+     [0.5973] not only it 's gotten a lot smaller , the price has doubled too ! !
+     [0.5157] But it 's a little overpriced .
+     [0.4778] Pricier by 5-10 % more too but less hassle due to area is not congested .
+     [0.0547] Little dirty international cheap low grade products and a little pricey .
+
+Top 5 (weakening):
+     [-0.8647] The food in the food court is really cheap and they 're delicious !
+     [-0.8353] I have had the chance to compare the selection and prices at IP as well as other markets on Spring Mountain Rd and find that the selection is greater and prices are lower at the other markets .
+     [-0.7721] The dining is good and very reasonably priced .
+     [-0.7343] Always come here to get my Filipino fix : ) They give pretty decent size portions and the cost is low !
+     [-0.7229] Prices are affordable and customer service is ok . Gonna be going here with my mom more often now that this place opened up !
+
+**********
+[0.6263] The customer service could be improved.
+Parent: However, some customers noted that the prices were higher than average, and that the customer service could be improved.
+
+Top 5 (supporting):
+     [0.6263] I like Filipino food don 't get me wrong only if they improve their service .
+     [0.1003] They 've have bad customer service .
+     [0.0484] I deducted 2 stars because # 1 the isles are narrow and there is not knowing where the line starts when your ready to check out .
+     [0.0256] This place is ok because it 's closer than other Asian markets but it always takes 30 minutes to check out .
+     [0.0157] Terrible management here .....
+
+Top 5 (weakening):
+     [-0.2073] They will clean it and fry it for you .
+     [-0.1617] I suggest that everyone go to Seafood City at Arroyo Crossing .... they employ more than 2 cashiers .
+     [-0.1154] Friendly staff , good prices , and reminds me of home : ) The guys at the butcher area work fast too .
+     [-0.1032] And the workers there are nice and helpful .
+     [-0.0991] Any type of meat you can think of ! !
+
+**********
+[0.9666] The staff was friendly.
+Parent: One reviewer found the staff to be friendly and the prices to be reasonable, but was disappointed with the food.
+
+Top 5 (supporting):
+     [0.9666] Friendly staff , good prices , and reminds me of home : ) The guys at the butcher area work fast too .
+     [0.8602] And the workers there are nice and helpful .
+     [0.3675] The lady that serves it is very nice !
+     [0.0536] Prices are affordable and customer service is ok . Gonna be going here with my mom more often now that this place opened up !
+     [0.0246] Very clean store and staff is knowledgeable
+
+Top 5 (weakening):
+     [-0.8032] Terrible management here .....
+     [-0.7785] After being bit by one he started to bleed .
+     [-0.7714] They 've have bad customer service .
+     [-0.6821] DISGUSTING ! !
+     [-0.6312] He then continued to dig through the crabs with his bloody hand .
+
+**********
+[0.9612] The prices were reasonable.
+Parent: One reviewer found the staff to be friendly and the prices to be reasonable, but was disappointed with the food.
+
+Top 5 (supporting):
+     [0.9612] Prices are affordable and customer service is ok . Gonna be going here with my mom more often now that this place opened up !
+     [0.8974] The dining is good and very reasonably priced .
+     [0.8604] Prices are fair .
+     [0.8598] Always come here to get my Filipino fix : ) They give pretty decent size portions and the cost is low !
+     [0.8216] We had some good as well at their restaurant and it was nicely priced and authentic .
+
+Top 5 (weakening):
+     [-0.9787] But it 's a little overpriced .
+     [-0.9592] So be Leary.Also they are expensive compared to others like Kusina .
+     [-0.9496] Pricier by 5-10 % more too but less hassle due to area is not congested .
+     [-0.8306] Little dirty international cheap low grade products and a little pricey .
+     [-0.7285] not only it 's gotten a lot smaller , the price has doubled too ! !
+
+**********
+[0.5767] The reviewer was disappointed with the food.
+Parent: One reviewer found the staff to be friendly and the prices to be reasonable, but was disappointed with the food.
+
+Top 5 (supporting):
+     [0.5767] i also had a coworker who bought chicken here and after an hour of cooking it was still pink and he threw it away .
+     [0.2080] be careful with buying meat here because my friend 's mom bought beef bones here and they were so bad that it stinked up their house.
+     [0.2078] Not particularly clean , and the bananas I got weren 't very good--already ripe and bruised .
+     [0.2017] never going to buy pandesal here ever again ! !
+     [0.1517] Sadly their pork bbq- meat was tough , more than necessary fat and lacking in taste as compared to Grill City inside Seafood City .
+
+Top 5 (weakening):
+     [-0.9963] I love their paksiw na lechon .
+     [-0.9962] I also like the egg rolls , halo halo , bbq 'd chicken and pork skewers .
+     [-0.9953] I love that there 's Filipino food buffet style ready to eat here too .
+     [-0.9951] I really love this place it 's clean and they have almost everything that l need for my Asian cooking and more.
+     [-0.9947] I will not find any food anywhere in the world island pacific can make me so inspired .
+
+**********
+[0.2468] The reviewer had a negative experience with the staff.
+Parent: Another reviewer had a negative experience with the staff, finding them to be unprofessional and unhygienic.
+
+Top 5 (supporting):
+     [0.2468] i also had a coworker who bought chicken here and after an hour of cooking it was still pink and he threw it away .
+     [0.2223] Not particularly clean , and the bananas I got weren 't very good--already ripe and bruised .
+     [0.2156] Terrible management here .....
+     [0.1499] They 've have bad customer service .
+     [0.1450] After being bit by one he started to bleed .
+
+Top 5 (weakening):
+     [-0.9947] Friendly staff , good prices , and reminds me of home : ) The guys at the butcher area work fast too .
+     [-0.9930] Crispy skin and the flavor was awesome .
+     [-0.9922] I also like the egg rolls , halo halo , bbq 'd chicken and pork skewers .
+     [-0.9904] First time for me to order this specialty and they did not disappoint .
+     [-0.9873] My cousin has them cater her baby shower Nd it was pretty good .
+
+**********
+[0.0475] The staff was unprofessional.
+Parent: Another reviewer had a negative experience with the staff, finding them to be unprofessional and unhygienic.
+
+Top 5 (supporting):
+     [0.0475] Terrible management here .....
+     [0.0087] DISGUSTING ! !
+     [0.0034] They 've have bad customer service .
+     [0.0006] We will never come back here again
+     [0.0000] ! !
+
+Top 5 (weakening):
+     [-0.9919] And the workers there are nice and helpful .
+     [-0.9813] The lady that serves it is very nice !
+     [-0.9728] Friendly staff , good prices , and reminds me of home : ) The guys at the butcher area work fast too .
+     [-0.9615] Crispy skin and the flavor was awesome .
+     [-0.9575] Very clean store and staff is knowledgeable
+
+**********
+[0.1323] The staff was unhygienic.
+Parent: Another reviewer had a negative experience with the staff, finding them to be unprofessional and unhygienic.
+
+Top 5 (supporting):
+     [0.1323] too many flies in the whole place.
+     [0.0801] After being bit by one he started to bleed .
+     [0.0541] Terrible management here .....
+     [0.0461] He then continued to dig through the crabs with his bloody hand .
+     [0.0246] DISGUSTING ! !
+
+Top 5 (weakening):
+     [-0.9945] Friendly staff , good prices , and reminds me of home : ) The guys at the butcher area work fast too .
+     [-0.9930] And the workers there are nice and helpful .
+     [-0.9887] Crispy skin and the flavor was awesome .
+     [-0.9870] The lady that serves it is very nice !
+     [-0.9805] Very clean store and staff is knowledgeable
+
+**********
+[0.9021] The product is reasonably priced.
+Parent: Overall, the product seems to be reasonably priced and of good quality, but with some potential improvements to be made in terms of customer service.
+
+Top 5 (supporting):
+     [0.9021] Always come here to get my Filipino fix : ) They give pretty decent size portions and the cost is low !
+     [0.8877] The food in the food court is really cheap and they 're delicious !
+     [0.8608] Friendly staff , good prices , and reminds me of home : ) The guys at the butcher area work fast too .
+     [0.8593] We had some good as well at their restaurant and it was nicely priced and authentic .
+     [0.8287] The dining is good and very reasonably priced .
+
+Top 5 (weakening):
+     [-0.9777] So be Leary.Also they are expensive compared to others like Kusina .
+     [-0.9546] But it 's a little overpriced .
+     [-0.9339] not only it 's gotten a lot smaller , the price has doubled too ! !
+     [-0.8454] Pricier by 5-10 % more too but less hassle due to area is not congested .
+     [-0.7499] Little dirty international cheap low grade products and a little pricey .
+
+**********
+[0.2472] The product is of good quality.
+Parent: Overall, the product seems to be reasonably priced and of good quality, but with some potential improvements to be made in terms of customer service.
+
+Top 5 (supporting):
+     [0.2472] Soo good eats , convenient grocery , clean fish to take home ... highly recommend .
+     [0.1828] First time for me to order this specialty and they did not disappoint .
+     [0.1731] The breakfast is soo good !
+     [0.1458] The melon drink was really good though .
+     [0.1385] Crispy skin and the flavor was awesome .
+
+Top 5 (weakening):
+     [-0.9654] Not particularly clean , and the bananas I got weren 't very good--already ripe and bruised .
+     [-0.9374] DISGUSTING ! !
+     [-0.9295] be careful with buying meat here because my friend 's mom bought beef bones here and they were so bad that it stinked up their house.
+     [-0.8886] Sadly their pork bbq- meat was tough , more than necessary fat and lacking in taste as compared to Grill City inside Seafood City .
+     [-0.6439] Little dirty international cheap low grade products and a little pricey .
+
+**********
+[0.7455] Improvements can be made in customer service.
+Parent: Overall, the product seems to be reasonably priced and of good quality, but with some potential improvements to be made in terms of customer service.
+
+Top 5 (supporting):
+     [0.7455] I like Filipino food don 't get me wrong only if they improve their service .
+     [0.3480] No more long drive to seafood city .
+     [0.1263] So as I was waiting for my fish to be cleaned this older gentlemen was using his bare hands to pick up live crabs .
+     [0.0969] Also serve up some good Filipino food .
+     [0.0776] They just made it right .
+
+Top 5 (weakening):
+     [-0.0794] We also picked up some sweet deserts .
+     [-0.0580] ( review for food counter only ) - they have a pretty good spread of food choices but they need to work on their food rating.
+     [-0.0416] Crispy skin and the flavor was awesome .
+     [-0.0349] I 'd eat it again !
+     [-0.0182] It was the hit in the party !

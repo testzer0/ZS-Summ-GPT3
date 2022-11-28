@@ -1,0 +1,334 @@
+Summary:
+
+Some reviewers thought that the food was just fine, while others thought it was amazing.
+Some reviewers thought that the restaurant did not offer enough gluten-free options, while others thought that there were many healthy options available.
+Some reviewers thought that the service was good, while others thought it was a hit or miss.
+Overall, reviewers thought the food was good and the service was attentive.
+They especially appreciated the healthy choices available.
+The reviews for this product were very positive, with people especially enjoying the bread and strawberry jam, as well as the hash.
+The service was praised as friendly and efficient, and the prices were reasonable.
+The food was described as delicious and of good quality.
+
+**********
+[0.9327] The food was just fine.
+Parent: Some reviewers thought that the food was just fine, while others thought it was amazing.
+
+Top 5 (supporting):
+     [0.9327] The food is just fine , but not long-wait-worthy .
+     [0.8572] Just good food
+     [0.7333] Food was as expected .
+     [0.6340] Perfect blend in the food industry .
+     [0.6003] Decent breakfast food .
+
+Top 5 (weakening):
+     [-0.9645] Food was amazing .
+     [-0.9277] The skillet was almost all flavorless potatoes and rubbery sun dried tomatoes .
+     [-0.8612] So of you want a plate of more than 3 / 4 flavorless potatoes and money to throw away on flavorless food - this is the place for you .
+     [-0.7540] The hash was almost all flavorless potatoes .
+     [-0.5942] So delicious .
+
+**********
+[0.9399] The food was amazing.
+Parent: Some reviewers thought that the food was just fine, while others thought it was amazing.
+
+Top 5 (supporting):
+     [0.9399] Food was amazing .
+     [0.8049] This used to be The Good Egg , but new ownership made this space look so much more modern & beautiful , and the food is better than ever !
+     [0.7934] Excellent food , great service , beautiful environment .
+     [0.6611] Incredibly fresh food .
+     [0.6086] Just good food
+
+Top 5 (weakening):
+     [-0.9928] The food is just fine , but not long-wait-worthy .
+     [-0.9792] However , food and service are standard , nothing unique or exceptional .
+     [-0.8438] Decent breakfast food .
+     [-0.6071] The skillet was almost all flavorless potatoes and rubbery sun dried tomatoes .
+     [-0.5227] Try the day glow for an energizing drink .
+
+**********
+[0.6749] The restaurant did not offer enough gluten-free options.
+Parent: Some reviewers thought that the restaurant did not offer enough gluten-free options, while others thought that there were many healthy options available.
+
+Top 5 (supporting):
+     [0.6749] Also , it seems odd that they don 't offer any gluten-free pancake or bread options since they 're all about offering local , organic ( healthy ) food .
+     [0.0268] There 's a reason Butters & Snooze have long waits & this place does not .
+     [0.0035] The skillet was almost all flavorless potatoes and rubbery sun dried tomatoes .
+     [0.0000] ! !
+     [0.0000] ! !
+
+Top 5 (weakening):
+     [-0.5806] Excellent healthy choices !
+     [-0.5751] Many healthy options for those looking to eat this way .
+     [-0.4452] Could order all day
+     [-0.2975] Loved every thing about First Watch .
+     [-0.2276] Try the day glow for an energizing drink .
+
+**********
+[0.9584] There were many healthy options available.
+Parent: Some reviewers thought that the restaurant did not offer enough gluten-free options, while others thought that there were many healthy options available.
+
+Top 5 (supporting):
+     [0.9584] Many healthy options for those looking to eat this way .
+     [0.3145] Excellent healthy choices !
+     [0.3056] Also , it seems odd that they don 't offer any gluten-free pancake or bread options since they 're all about offering local , organic ( healthy ) food .
+     [0.1027] Healthy fresh veggie , fruit drinks .
+     [0.0737] The bread and strawberry jam are to die for .
+
+Top 5 (weakening):
+     [-0.9481] The skillet was almost all flavorless potatoes and rubbery sun dried tomatoes .
+     [-0.5369] The hash was almost all flavorless potatoes .
+     [-0.4988] So of you want a plate of more than 3 / 4 flavorless potatoes and money to throw away on flavorless food - this is the place for you .
+     [-0.4897] Awsome service by staff .
+     [-0.1523] However , food and service are standard , nothing unique or exceptional .
+
+**********
+[0.9400] The service was good.
+Parent: Some reviewers thought that the service was good, while others thought it was a hit or miss.
+
+Top 5 (supporting):
+     [0.9400] Service was pretty good .
+     [0.8962] Excellent food , great service , beautiful environment .
+     [0.8341] Service is always spot on .
+     [0.7868] Good service .
+     [0.7663] Come for a good breakfast with a great atmosphere and phenomenal service .
+
+Top 5 (weakening):
+     [-0.9844] Awsome service by staff .
+     [-0.2518] Food was pretty good but the used syringe outside in the parking lot and the tin foil in the bathroom just killed it for me .
+     [-0.2274] Hostesses are a hit or miss - either nice or rude .
+     [-0.1193] This place is shot out , pretty sure our server hadn 't slept in about 2 days .
+     [-0.0607] However , food and service are standard , nothing unique or exceptional .
+
+**********
+[0.6091] The service was a hit or miss.
+Parent: Some reviewers thought that the service was good, while others thought it was a hit or miss.
+
+Top 5 (supporting):
+     [0.6091] Hostesses are a hit or miss - either nice or rude .
+     [0.1841] Food was pretty good but the used syringe outside in the parking lot and the tin foil in the bathroom just killed it for me .
+     [0.1034] Younger blonde female server was very attentive but not overly friendly .
+     [0.0245] This place is shot out , pretty sure our server hadn 't slept in about 2 days .
+     [0.0000] ! !
+
+Top 5 (weakening):
+     [-0.9730] Service is always spot on .
+     [-0.9707] Excellent food , great service , beautiful environment .
+     [-0.9606] The service is fast , courteous and drinks stay filled .
+     [-0.9581] Come for a good breakfast with a great atmosphere and phenomenal service .
+     [-0.9442] Breakfast was perfectly prepared and promptly served .
+
+**********
+[0.9576] The food was good.
+Parent: Overall, reviewers thought the food was good and the service was attentive.
+
+Top 5 (supporting):
+     [0.9576] Food was very good , especially the potatos , out of this world .
+     [0.9379] Just good food
+     [0.9057] Excellent food , great service , beautiful environment .
+     [0.8687] Food was amazing .
+     [0.8489] Food was pretty good but the used syringe outside in the parking lot and the tin foil in the bathroom just killed it for me .
+
+Top 5 (weakening):
+     [-0.2513] Try the day glow for an energizing drink .
+     [-0.1317] Loved every thing about First Watch .
+     [-0.0462] However , food and service are standard , nothing unique or exceptional .
+     [-0.0457] I am so happy there is a first watch closer to my house .
+     [-0.0114] Hostesses are a hit or miss - either nice or rude .
+
+**********
+[0.8560] The service was attentive.
+Parent: Overall, reviewers thought the food was good and the service was attentive.
+
+Top 5 (supporting):
+     [0.8560] Younger blonde female server was very attentive but not overly friendly .
+     [0.8464] Service is always spot on .
+     [0.8385] Really can 't rate this place any higher solely based on their level of attentiveness and sincerity .
+     [0.7256] Waiters are usually attentive .
+     [0.5228] Breakfast was perfectly prepared and promptly served .
+
+Top 5 (weakening):
+     [-0.9366] Awsome service by staff .
+     [-0.5381] Food was pretty good but the used syringe outside in the parking lot and the tin foil in the bathroom just killed it for me .
+     [-0.4642] Hostesses are a hit or miss - either nice or rude .
+     [-0.1090] The hash was almost all flavorless potatoes .
+     [-0.0815] The skillet was almost all flavorless potatoes and rubbery sun dried tomatoes .
+
+**********
+[0.6261] The healthy choices were appreciated.
+Parent: They especially appreciated the healthy choices available.
+
+Top 5 (supporting):
+     [0.6261] Excellent healthy choices !
+     [0.1623] Love the power quinoa breakfast bowl .
+     [0.1341] Highly recommend the Hash .... potatoes & eggs cooked to perfection !
+     [0.0722] Finally healthy food ! !
+     [0.0721] The bread and strawberry jam are to die for .
+
+Top 5 (weakening):
+     [-0.9173] Food was pretty good but the used syringe outside in the parking lot and the tin foil in the bathroom just killed it for me .
+     [-0.7486] Awsome service by staff .
+     [-0.3009] Hostesses are a hit or miss - either nice or rude .
+     [-0.2474] Only wished the kept a veteran discount they had in the past .
+     [-0.1919] So of you want a plate of more than 3 / 4 flavorless potatoes and money to throw away on flavorless food - this is the place for you .
+
+**********
+[0.9307] The reviews for this product were positive.
+Parent: The reviews for this product were very positive, with people especially enjoying the bread and strawberry jam, as well as the hash.
+
+Top 5 (supporting):
+     [0.9307] We randomly googled breakfast as we were driving around Scottsdale and this popped up with good reviews ... no disappointment and great priced with quality food !
+     [0.3983] Excellent food , great service , beautiful environment .
+     [0.3763] Highly recommend the Hash .... potatoes & eggs cooked to perfection !
+     [0.2299] Had the inspired Italian omelette and it was very tasty ... Not so sure that OJ is actually 100 % fresh squeezed but tasted good nonetheless .
+     [0.1836] Food was amazing .
+
+Top 5 (weakening):
+     [-0.7901] Food was pretty good but the used syringe outside in the parking lot and the tin foil in the bathroom just killed it for me .
+     [-0.7638] Hostesses are a hit or miss - either nice or rude .
+     [-0.7527] Awsome service by staff .
+     [-0.5167] The food is just fine , but not long-wait-worthy .
+     [-0.3190] However , food and service are standard , nothing unique or exceptional .
+
+**********
+[0.8475] The bread was enjoyed.
+Parent: The reviews for this product were very positive, with people especially enjoying the bread and strawberry jam, as well as the hash.
+
+Top 5 (supporting):
+     [0.8475] The bread and strawberry jam are to die for .
+     [0.1797] I had the trifecta it was delicious ...
+     [0.0485] Served with seasoned black beans , they are the perfect cure for a Mexican breakfast craving .
+     [0.0359] Love the power quinoa breakfast bowl .
+     [0.0184] Could order all day
+
+Top 5 (weakening):
+     [-0.7519] I love there pecan salad .
+     [-0.7025] Try the day glow for an energizing drink .
+     [-0.6575] Treat yourself to the chicken salad melt , you will not be disappointed .
+     [-0.5977] My iced tea was kept full as expected .
+     [-0.5944] Highly recommend the Hash .... potatoes & eggs cooked to perfection !
+
+**********
+[0.8697] The strawberry jam was enjoyed.
+Parent: The reviews for this product were very positive, with people especially enjoying the bread and strawberry jam, as well as the hash.
+
+Top 5 (supporting):
+     [0.8697] The bread and strawberry jam are to die for .
+     [0.0041] I can 't wait to try something else : - )
+     [0.0033] So delicious .
+     [0.0023] Just good food
+     [0.0016] Fantastic ! !
+
+Top 5 (weakening):
+     [-0.8655] Love the power quinoa breakfast bowl .
+     [-0.8587] I had the trifecta it was delicious ...
+     [-0.7993] I had the chickenchanga with a kale tonic .
+     [-0.7879] I love there pecan salad .
+     [-0.7856] Treat yourself to the chicken salad melt , you will not be disappointed .
+
+**********
+[0.5893] The hash was enjoyable.
+Parent: The reviews for this product were very positive, with people especially enjoying the bread and strawberry jam, as well as the hash.
+
+Top 5 (supporting):
+     [0.5893] Highly recommend the Hash .... potatoes & eggs cooked to perfection !
+     [0.1222] Loved every thing about First Watch .
+     [0.1111] Served with seasoned black beans , they are the perfect cure for a Mexican breakfast craving .
+     [0.0353] I can 't wait to try something else : - )
+     [0.0333] Love this place .
+
+Top 5 (weakening):
+     [-0.6583] Excellent healthy choices !
+     [-0.6024] Love the power quinoa breakfast bowl .
+     [-0.5013] The bread and strawberry jam are to die for .
+     [-0.4783] Treat yourself to the chicken salad melt , you will not be disappointed .
+     [-0.4667] Healthy fresh veggie , fruit drinks .
+
+**********
+[0.9397] The service was friendly.
+Parent: The service was praised as friendly and efficient, and the prices were reasonable.
+
+Top 5 (supporting):
+     [0.9397] Friendly service and a Cool vibe .
+     [0.8577] The service is fast , courteous and drinks stay filled .
+     [0.2166] Waiters are usually attentive .
+     [0.1268] Really can 't rate this place any higher solely based on their level of attentiveness and sincerity .
+     [0.0812] Come for a good breakfast with a great atmosphere and phenomenal service .
+
+Top 5 (weakening):
+     [-0.9720] Awsome service by staff .
+     [-0.9087] Younger blonde female server was very attentive but not overly friendly .
+     [-0.5633] Hostesses are a hit or miss - either nice or rude .
+     [-0.3276] This place is shot out , pretty sure our server hadn 't slept in about 2 days .
+     [-0.3265] Food was pretty good but the used syringe outside in the parking lot and the tin foil in the bathroom just killed it for me .
+
+**********
+[0.7915] The service was efficient.
+Parent: The service was praised as friendly and efficient, and the prices were reasonable.
+
+Top 5 (supporting):
+     [0.7915] The service is fast , courteous and drinks stay filled .
+     [0.6259] Breakfast was perfectly prepared and promptly served .
+     [0.5920] Service is always spot on .
+     [0.2314] Come for a good breakfast with a great atmosphere and phenomenal service .
+     [0.1381] Excellent food , great service , beautiful environment .
+
+Top 5 (weakening):
+     [-0.9663] Awsome service by staff .
+     [-0.3830] Food was pretty good but the used syringe outside in the parking lot and the tin foil in the bathroom just killed it for me .
+     [-0.3722] Hostesses are a hit or miss - either nice or rude .
+     [-0.2058] This place is shot out , pretty sure our server hadn 't slept in about 2 days .
+     [-0.0268] A little pricey for what you get .
+
+**********
+[0.8717] The prices were good.
+Parent: The service was praised as friendly and efficient, and the prices were reasonable.
+
+Top 5 (supporting):
+     [0.8717] We randomly googled breakfast as we were driving around Scottsdale and this popped up with good reviews ... no disappointment and great priced with quality food !
+     [0.6718] Reasonable prices .
+     [0.0142] Could order all day
+     [0.0055] Fantastic ! !
+     [0.0043] Love this place .
+
+Top 5 (weakening):
+     [-0.6463] A little pricey for what you get .
+     [-0.1937] Only wished the kept a veteran discount they had in the past .
+     [-0.0780] Excellent healthy choices !
+     [-0.0656] Service was pretty good .
+     [-0.0375] Hostesses are a hit or miss - either nice or rude .
+
+**********
+[0.5791] The food was delicious.
+Parent: The food was described as delicious and of good quality.
+
+Top 5 (supporting):
+     [0.5791] This used to be The Good Egg , but new ownership made this space look so much more modern & beautiful , and the food is better than ever !
+     [0.5703] I had the trifecta it was delicious ...
+     [0.5566] Food was very good , especially the potatos , out of this world .
+     [0.5497] Just good food
+     [0.5254] Food was amazing .
+
+Top 5 (weakening):
+     [-0.9610] The food is just fine , but not long-wait-worthy .
+     [-0.5754] Try the day glow for an energizing drink .
+     [-0.4899] However , food and service are standard , nothing unique or exceptional .
+     [-0.2029] The skillet was almost all flavorless potatoes and rubbery sun dried tomatoes .
+     [-0.1176] Finally healthy food ! !
+
+**********
+[0.9049] The food was good quality.
+Parent: The food was described as delicious and of good quality.
+
+Top 5 (supporting):
+     [0.9049] We randomly googled breakfast as we were driving around Scottsdale and this popped up with good reviews ... no disappointment and great priced with quality food !
+     [0.8037] Food was very good , especially the potatos , out of this world .
+     [0.7943] This used to be The Good Egg , but new ownership made this space look so much more modern & beautiful , and the food is better than ever !
+     [0.7372] Food was pretty good but the used syringe outside in the parking lot and the tin foil in the bathroom just killed it for me .
+     [0.7172] Just good food
+
+Top 5 (weakening):
+     [-0.0966] The skillet was almost all flavorless potatoes and rubbery sun dried tomatoes .
+     [-0.0484] The hash was almost all flavorless potatoes .
+     [-0.0408] So of you want a plate of more than 3 / 4 flavorless potatoes and money to throw away on flavorless food - this is the place for you .
+     [-0.0309] Try the day glow for an energizing drink .
+     [-0.0205] Awsome service by staff .

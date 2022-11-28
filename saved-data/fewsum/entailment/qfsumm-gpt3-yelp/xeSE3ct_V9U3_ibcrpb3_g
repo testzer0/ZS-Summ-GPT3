@@ -1,0 +1,147 @@
+Summary:
+
+The reviews for this product are mostly negative, with reviewers citing bad food, terrible service, and small portions. Some reviewers did enjoy the food and service, however, and found the price to be reasonable. Overall, it seems that this product is not very highly regarded by reviewers on Yelp.
+
+**********
+[0.1708] This product has mostly negative reviews.
+Parent: The reviews for this product are mostly negative, with reviewers citing bad food, terrible service, and small portions.
+
+Top 5 (supporting):
+     [0.1708] I 'm very surprised it got such a low rating .
+     [0.1516] I 'm surprise at the low star ratings .
+     [0.0753] This location is just bad , the food is terrible and service is average at best .
+     [0.0605] If I could give this negative 5 stars I would .
+     [0.0460] Very disappointing .
+
+Top 5 (weakening):
+     [-0.9849] My friends got the triple decker grilled cheese sandwich with bacon and they really liked it so all in all it was a good experience and the food was really filling .
+     [-0.9095] I was there for lunch and thought the restaurant , service and food was very good .
+     [-0.9021] Our server , Summaya , was amazing .
+     [-0.8892] The price of the meal was acceptable and overall experience was positive .
+     [-0.8811] Great service and nice atmosphere , would recommend : ) !
+
+**********
+[0.6355] Bad food is a complaint.
+Parent: The reviews for this product are mostly negative, with reviewers citing bad food, terrible service, and small portions.
+
+Top 5 (supporting):
+     [0.6355] This location is just bad , the food is terrible and service is average at best .
+     [0.4081] Food was pretty dry , like it has been sitting for a while .
+     [0.3500] Bad for people who have trouble deciding what to order as their menu is too large and not focused .
+     [0.3144] However , the food is kind of bland in tastes .
+     [0.1584] However the food was a disappointment .
+
+Top 5 (weakening):
+     [-0.9914] Pleasant dining environment .
+     [-0.9877] The food was also really delicious at a decent price as well .
+     [-0.9870] The variety on their menu is crazy , there is definitely something for everyone .
+     [-0.9868] I was there for lunch and thought the restaurant , service and food was very good .
+     [-0.9852] I like this family restaurant .
+
+**********
+[0.1910] Terrible service is a bad thing.
+Parent: The reviews for this product are mostly negative, with reviewers citing bad food, terrible service, and small portions.
+
+Top 5 (supporting):
+     [0.1910] Worst experience ever !
+     [0.1657] Worst place ever in the world .
+     [0.1544] Honestly , the food was just okay but the service was so bad that I can 't give , what used to be a decent restaurant , anything more than one star .
+     [0.0746] Quite possibly the worst service ever .
+     [0.0705] Service sucks !
+
+Top 5 (weakening):
+     [-0.9866] Pleasant dining environment .
+     [-0.9865] Great service and nice atmosphere , would recommend : ) !
+     [-0.9828] I was there for lunch and thought the restaurant , service and food was very good .
+     [-0.9812] I had a lovely evening at The Pickle Barrel .
+     [-0.9782] A great comfortable place to dine in !
+
+**********
+[0.0193] Small portions is a bad thing.
+Parent: The reviews for this product are mostly negative, with reviewers citing bad food, terrible service, and small portions.
+
+Top 5 (supporting):
+     [0.0193] Service sucks !
+     [0.0099] This location is just bad , the food is terrible and service is average at best .
+     [0.0062] Soggy and nasty .
+     [0.0011] Very disappointing .
+     [0.0000] BUT !
+
+Top 5 (weakening):
+     [-0.9026] Great service and nice atmosphere , would recommend : ) !
+     [-0.8822] I had a lovely evening at The Pickle Barrel .
+     [-0.8790] It is a nice place to have a drink in between shopping .
+     [-0.8764] Pleasant dining environment .
+     [-0.8666] We came here several times in the past year , mainly because of convenience and variety of entries on the menu .
+
+**********
+[0.8242] The food was enjoyable.
+Parent: Some reviewers did enjoy the food and service, however, and found the price to be reasonable.
+
+Top 5 (supporting):
+     [0.8242] I always receive good service from the wait staff and I always enjoy the food here .
+     [0.7986] My friends got the triple decker grilled cheese sandwich with bacon and they really liked it so all in all it was a good experience and the food was really filling .
+     [0.6939] I was there for lunch and thought the restaurant , service and food was very good .
+     [0.6936] I had the chicken wings as an appetizer and the BBQ chicken as my main , which I both enjoyed very much , especially the main .
+     [0.6813] The food was also really delicious at a decent price as well .
+
+Top 5 (weakening):
+     [-0.9934] However the food was a disappointment .
+     [-0.9725] This location is just bad , the food is terrible and service is average at best .
+     [-0.8954] There was barely any avocado and the cheese had almost hardened by the time the sandwich reached my table ... Not impressed : (
+     [-0.8767] Soggy and nasty .
+     [-0.8587] Food was pretty dry , like it has been sitting for a while .
+
+**********
+[0.9456] The service was good.
+Parent: Some reviewers did enjoy the food and service, however, and found the price to be reasonable.
+
+Top 5 (supporting):
+     [0.9456] Great service and nice atmosphere , would recommend : ) !
+     [0.9035] Definitely beats mall food court food .. not bad food and really good service .
+     [0.8423] I was there for lunch and thought the restaurant , service and food was very good .
+     [0.7991] The service was okay .
+     [0.7714] I always receive good service from the wait staff and I always enjoy the food here .
+
+Top 5 (weakening):
+     [-0.9966] The overall service was poor and it has been consistently poor rhe last few times i have been there .
+     [-0.9954] Honestly , the food was just okay but the service was so bad that I can 't give , what used to be a decent restaurant , anything more than one star .
+     [-0.9945] The service there has gotten bad to worse .
+     [-0.9933] Quite possibly the worst service ever .
+     [-0.9910] All staff are unfriendly and not helping .. And I ask for managers phone number , they tell me to go get it at front desk by myself .. gosh !
+
+**********
+[0.9647] The price was reasonable.
+Parent: Some reviewers did enjoy the food and service, however, and found the price to be reasonable.
+
+Top 5 (supporting):
+     [0.9647] The price is reasonable and the food is in big portion .
+     [0.9504] The price of the meal was acceptable and overall experience was positive .
+     [0.8752] The food was also really delicious at a decent price as well .
+     [0.2861] im always down for pickle barrell as a cheaper low cost family restaurant .
+     [0.0915] And the portion is on the small side for the price .
+
+Top 5 (weakening):
+     [-0.9268] I ordered the red Thai curry and it was good nothing too special but kinda pricy for $ 18 .
+     [-0.3283] Soggy and nasty .
+     [-0.3114] Worst experience ever !
+     [-0.2700] Worst place ever in the world .
+     [-0.2267] Quite possibly the worst service ever .
+
+**********
+[0.0575] Reviewers on Yelp do not highly regard this product.
+Parent: Overall, it seems that this product is not very highly regarded by reviewers on Yelp.
+
+Top 5 (supporting):
+     [0.0575] I 'm surprise at the low star ratings .
+     [0.0326] Bringing down the rating because they have some hygiene issues when business is better .
+     [0.0310] I 'm very surprised it got such a low rating .
+     [0.0281] Honestly , the food was just okay but the service was so bad that I can 't give , what used to be a decent restaurant , anything more than one star .
+     [0.0239] Not the greatest in anything .
+
+Top 5 (weakening):
+     [-0.5847] Came for dinner because Joey 's was full and was excited by how appetizing the menu sounded .
+     [-0.4750] My friends got the triple decker grilled cheese sandwich with bacon and they really liked it so all in all it was a good experience and the food was really filling .
+     [-0.4019] A great comfortable place to dine in !
+     [-0.4011] I like this family restaurant .
+     [-0.3657] Food was O.K.

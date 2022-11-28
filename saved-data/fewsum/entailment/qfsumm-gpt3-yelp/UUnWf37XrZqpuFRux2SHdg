@@ -1,0 +1,129 @@
+Summary:
+
+The reviews were all positive, with customers stating that the massages they received were some of the best they've ever had. Other reviewers noted the friendly staff, clean facilities, and excellent service. Some customers mentioned that they would definitely come back, and others recommended the business to others.
+
+**********
+[0.5429] The reviews were positive.
+Parent: The reviews were all positive, with customers stating that the massages they received were some of the best they've ever had.
+
+Top 5 (supporting):
+     [0.5429] I have been going to this office for over a year now and have always been very happy with the quality of care and the friendly staff .
+     [0.2735] .. clean , professional , friendly !
+     [0.2321] I have had several massages at this location and have had an amazing experience thus far !
+     [0.2321] I 'm happy with results after my first PRP injection , I never have to long wait , and he even followed up , with a personal phone call .
+     [0.2232] Nice office atmosphere .
+
+Top 5 (weakening):
+     [-0.3515] It hurt so good .
+     [-0.1451] I left loosened up and discomfort free
+     [-0.0560] My therapist has been doing massages for 25 + years .
+     [-0.0338] The rehabilitation from my knee injury has been going great thanks to Dr. Dabbah and his staff .
+     [-0.0204] Finally a great deep tissue massage !
+
+**********
+[0.5469] The massages were some of the best.
+Parent: The reviews were all positive, with customers stating that the massages they received were some of the best they've ever had.
+
+Top 5 (supporting):
+     [0.5469] 1 hour massage was one of the best massages i have ever received .
+     [0.4995] Had a Groupon for a deep tissue massage ... seriously one of the best massages I 've ever had , Tami was absolutely amazing !
+     [0.0180] Fantastic massage .
+     [0.0137] Michelle gave a fantastic massage .
+     [0.0119] Erica does a great job on massages !
+
+Top 5 (weakening):
+     [-0.3448] It hurt so good .
+     [-0.1952] I 'm happy with results after my first PRP injection , I never have to long wait , and he even followed up , with a personal phone call .
+     [-0.1697] They 're also having a cool promotion right now for first timers .
+     [-0.1571] Front desk gals were great also !
+     [-0.0777] The office is friendly and clean .
+
+**********
+[0.9680] The staff was friendly.
+Parent: Other reviewers noted the friendly staff, clean facilities, and excellent service.
+
+Top 5 (supporting):
+     [0.9680] The staff was very polite and the service was excellent .
+     [0.9370] I have been going to this office for over a year now and have always been very happy with the quality of care and the friendly staff .
+     [0.2393] The office is friendly and clean .
+     [0.1883] .. clean , professional , friendly !
+     [0.0756] Front desk gals were great also !
+
+Top 5 (weakening):
+     [-0.6116] It hurt so good .
+     [-0.2231] Strong hands and great pressure .
+     [-0.0162] I left loosened up and discomfort free
+     [-0.0050] Athena is the greatest .
+     [-0.0046] She did a great job .
+
+**********
+[0.8727] The facilities were clean.
+Parent: Other reviewers noted the friendly staff, clean facilities, and excellent service.
+
+Top 5 (supporting):
+     [0.8727] Place is clean and is a chiropractic office but the important thing was the massage .
+     [0.7699] The office is friendly and clean .
+     [0.1609] .. clean , professional , friendly !
+     [0.0225] they have a great massage .
+     [0.0217] 1 hour massage was one of the best massages i have ever received .
+
+Top 5 (weakening):
+     [-0.8984] It hurt so good .
+     [-0.6670] She worked out all my sore and tight spots .
+     [-0.3099] Strong hands and great pressure .
+     [-0.0431] I left loosened up and discomfort free
+     [-0.0233] She 's awesome !
+
+**********
+[0.9704] The service was excellent.
+Parent: Other reviewers noted the friendly staff, clean facilities, and excellent service.
+
+Top 5 (supporting):
+     [0.9704] The staff was very polite and the service was excellent .
+     [0.5670] Front desk gals were great also !
+     [0.5500] I have been going to this office for over a year now and have always been very happy with the quality of care and the friendly staff .
+     [0.5201] Had a Groupon for a deep tissue massage ... seriously one of the best massages I 've ever had , Tami was absolutely amazing !
+     [0.4112] She did a great job .
+
+Top 5 (weakening):
+     [-0.9288] It hurt so good .
+     [-0.0848] I left loosened up and discomfort free
+     [-0.0201] They 're also having a cool promotion right now for first timers .
+     [-0.0020] You can use a coupon from their site that allows to have 1 hour massage for 25 usd ... it is cheap and gives you idea about their quality
+     [-0.0005] The physician who treats my chronic pain condition recommended I try some massages to see if they might help mitigate the pain .
+
+**********
+[0.6792] Customers would definitely come back.
+Parent: Some customers mentioned that they would definitely come back, and others recommended the business to others.
+
+Top 5 (supporting):
+     [0.6792] Had a very relaxing massage and will definitely make another appointment .
+     [0.6125] Will definitely be going back .
+     [0.5698] I would definitely come here again
+     [0.2976] Definitely coming back .
+     [0.2656] I will be coming back
+
+Top 5 (weakening):
+     [-0.3966] I 've been a patient for a few weeks at Advanced Back and Neck .
+     [-0.2157] The rehabilitation from my knee injury has been going great thanks to Dr. Dabbah and his staff .
+     [-0.0850] My therapist has been doing massages for 25 + years .
+     [-0.0817] The physician who treats my chronic pain condition recommended I try some massages to see if they might help mitigate the pain .
+     [-0.0595] I 'm definitely considering making her my new MT !
+
+**********
+[0.1142] The business was recommended by customers.
+Parent: Some customers mentioned that they would definitely come back, and others recommended the business to others.
+
+Top 5 (supporting):
+     [0.1142] I had Erika and I would definitely recommend her .
+     [0.0461] The physician who treats my chronic pain condition recommended I try some massages to see if they might help mitigate the pain .
+     [0.0363] I received a wonderful prenatal massage from one of their massage therapists Michelle .
+     [0.0103] Highly recommend .
+     [0.0055] Will be back !
+
+Top 5 (weakening):
+     [-0.0168] I 've been a patient for a few weeks at Advanced Back and Neck .
+     [-0.0128] She 's awesome !
+     [-0.0124] I left loosened up and discomfort free
+     [-0.0116] She worked out all my sore and tight spots .
+     [-0.0089] I 'm definitely considering making her my new MT !

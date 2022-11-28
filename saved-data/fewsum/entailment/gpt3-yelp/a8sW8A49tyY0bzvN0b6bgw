@@ -1,0 +1,129 @@
+Summary:
+
+The reviews were mixed, with some people saying the food was good and others saying it was expensive and unremarkable. Some people also said the service was good, while others said it was terrible. Overall, it seems that people either love or hate Earl's, with there being no middle ground.
+
+**********
+[0.8712] The food was good.
+Parent: The reviews were mixed, with some people saying the food was good and others saying it was expensive and unremarkable.
+
+Top 5 (supporting):
+     [0.8712] They have floor managers who check up on you often.All around okay and the food is more than decent .
+     [0.7472] Good food .
+     [0.4260] I had the shrimp tacos which were fantastic .
+     [0.3688] Both were tasty
+     [0.3279] Pretty good american fare with asian and southwest influence .
+
+Top 5 (weakening):
+     [-0.5264] I only ate here once but it was expensive and unremarkable .
+     [-0.3179] The food is whatever , but it is not a bad place to stop off for drinks ... they have some of the best bloody mary 's in the valley ...
+     [-0.3064] -I will never go back , ever !
+     [-0.1534] Earl 's is like a booty call - always available for a good time but there 's not much beneath the surface.Go here for HH drinks , go elsewhere to eat .
+     [-0.1113] Business CLOSED !
+
+**********
+[0.8624] The food was expensive.
+Parent: The reviews were mixed, with some people saying the food was good and others saying it was expensive and unremarkable.
+
+Top 5 (supporting):
+     [0.8624] I only ate here once but it was expensive and unremarkable .
+     [0.8321] A little pricey for pub food .
+     [0.0065] I would rather grab a burger at In-and-Out .
+     [0.0010] Earl 's I have eaten at on several different occasions .
+     [0.0007] Ate in the bar .
+
+Top 5 (weakening):
+     [-0.4007] The food is whatever , but it is not a bad place to stop off for drinks ... they have some of the best bloody mary 's in the valley ...
+     [-0.2897] No wifi is a bummer .
+     [-0.1524] Business CLOSED !
+     [-0.0839] Generic American food .
+     [-0.0566] Full bar and OK draft beer selection .
+
+**********
+[0.6531] The food was unremarkable.
+Parent: The reviews were mixed, with some people saying the food was good and others saying it was expensive and unremarkable.
+
+Top 5 (supporting):
+     [0.6531] I only ate here once but it was expensive and unremarkable .
+     [0.1564] Generic American food .
+     [0.0000] ! !
+     [0.0000] ! !
+     [-0.0181] -I will never go back , ever !
+
+Top 5 (weakening):
+     [-0.9972] I had the shrimp tacos which were fantastic .
+     [-0.9954] I particularly liked the double fried spareribs appetizer .
+     [-0.9927] They have floor managers who check up on you often.All around okay and the food is more than decent .
+     [-0.9887] Pretty good american fare with asian and southwest influence .
+     [-0.9880] Good food .
+
+**********
+[0.5119] The service was good.
+Parent: Some people also said the service was good, while others said it was terrible.
+
+Top 5 (supporting):
+     [0.5119] The bar area is hoping in the evenings.Aside from that , the service is usually prompt and efficient .
+     [0.1597] They have floor managers who check up on you often.All around okay and the food is more than decent .
+     [0.1522] Went great with a cold beer on a hot afternoon .
+     [0.0945] Both were tasty
+     [0.0909] Good food .
+
+Top 5 (weakening):
+     [-0.9800] My husband and I went here after a movie out ( we had a babysitter for our two kids ) .... we were there around 9 and the kids who worked there seemed it was there right since it wasn 't busy to play .... it was terrible ... the help was ... our server sucked big time.food was o.k.
+     [-0.8153] No wifi is a bummer .
+     [-0.4628] -I will never go back , ever !
+     [-0.1244] Shut down within the last two weeks , per the folks at Discount Tire next store .
+     [-0.1046] Generic American food .
+
+**********
+[0.7774] The service was terrible.
+Parent: Some people also said the service was good, while others said it was terrible.
+
+Top 5 (supporting):
+     [0.7774] My husband and I went here after a movie out ( we had a babysitter for our two kids ) .... we were there around 9 and the kids who worked there seemed it was there right since it wasn 't busy to play .... it was terrible ... the help was ... our server sucked big time.food was o.k.
+     [0.0043] -I will never go back , ever !
+     [0.0000] ! !
+     [0.0000] ! !
+     [-0.0037] No wifi is a bummer .
+
+Top 5 (weakening):
+     [-0.9968] The bar area is hoping in the evenings.Aside from that , the service is usually prompt and efficient .
+     [-0.9941] Went great with a cold beer on a hot afternoon .
+     [-0.9933] I had the shrimp tacos which were fantastic .
+     [-0.9878] They have floor managers who check up on you often.All around okay and the food is more than decent .
+     [-0.9873] I particularly liked the double fried spareribs appetizer .
+
+**********
+[0.0200] People love or hate Earl's.
+Parent: Overall, it seems that people either love or hate Earl's, with there being no middle ground.
+
+Top 5 (supporting):
+     [0.0200] Earl 's is like a booty call - always available for a good time but there 's not much beneath the surface.Go here for HH drinks , go elsewhere to eat .
+     [0.0018] Earl 's I have eaten at on several different occasions .
+     [0.0000] ! !
+     [0.0000] ! !
+     [-0.0245] Good food .
+
+Top 5 (weakening):
+     [-0.6292] Business CLOSED !
+     [-0.4139] We split dry wings ( salt and pepper rubbed ) and the Bronx burger .
+     [-0.3735] Both were tasty
+     [-0.3082] Went for lunch .
+     [-0.2660] The food is whatever , but it is not a bad place to stop off for drinks ... they have some of the best bloody mary 's in the valley ...
+
+**********
+[0.0000] It is all or nothing.
+Parent: Overall, it seems that people either love or hate Earl's, with there being no middle ground.
+
+Top 5 (supporting):
+     [0.0000] ! !
+     [0.0000] ! !
+     [-0.2232] -I will never go back , ever !
+     [-0.4336] Business CLOSED !
+     [-0.7449] No wifi is a bummer .
+
+Top 5 (weakening):
+     [-0.9972] The lunch crowd is loud and noisy .
+     [-0.9969] Pretty good american fare with asian and southwest influence .
+     [-0.9962] Full bar and OK draft beer selection .
+     [-0.9957] I had the shrimp tacos which were fantastic .
+     [-0.9952] Good food .

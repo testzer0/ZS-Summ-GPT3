@@ -1,0 +1,129 @@
+Summary:
+
+The reviews of the product were largely positive, with people praising the chicken for being fresh and moist. However, there were a few negative reviews, with people complaining about the service and the quality of the food. Overall, the reviews were mostly positive.
+
+**********
+[0.6160] The product was good.
+Parent: The reviews of the product were largely positive, with people praising the chicken for being fresh and moist.
+
+Top 5 (supporting):
+     [0.6160] Seriously so freaking good , can 't wait to have it again !
+     [0.5103] Best damn Popeyes I 've had in awhile !
+     [0.2338] 南 部 的 なフライドチキンが 楽 しめる 全 国 チェーン 。 チキンのからあげ 等 が 大 好 きな 日 本 人 にとって 、 思 う 存 分 に 楽 しめる 。 年 齢 のせいもあるが 、 コロモに 油 が 比 較 的 多 く 含 まれているので 、 ランチコンボを 二 人 で 分 ける 位 が 丁 度 良 さそう 。 従 業 員 の 方 も 親 切 の 対 応 してくれる 。
+     [0.2178] It used to suck but lately the service is good and the food is delicious .
+     [0.1906] The chicken was fresh and moist .
+
+Top 5 (weakening):
+     [-0.5819] Never again
+     [-0.3752] Shorted my chicken order , chicken was old and seemed to have been sitting around .
+     [-0.3613] It really is un- called for .
+     [-0.3407] Do not go to this Popeyes .
+     [-0.1630] No chicken because it wasn 't defrosted the night before ?
+
+**********
+[0.9749] The chicken was fresh.
+Parent: The reviews of the product were largely positive, with people praising the chicken for being fresh and moist.
+
+Top 5 (supporting):
+     [0.9749] The chicken was fresh and moist .
+     [0.2648] First time trying Popeyes ... in a hurry and decided to take the lazy way out of dinner.Good thing I was headed home anyway ... no utensils ... no dipping sauce ... Cole slaw swimming in sauce ... more like cold cabbage soup.Chicken was moist ... would try again ... but not this location .
+     [0.0263] 南 部 的 なフライドチキンが 楽 しめる 全 国 チェーン 。 チキンのからあげ 等 が 大 好 きな 日 本 人 にとって 、 思 う 存 分 に 楽 しめる 。 年 齢 のせいもあるが 、 コロモに 油 が 比 較 的 多 く 含 まれているので 、 ランチコンボを 二 人 で 分 ける 位 が 丁 度 良 さそう 。 従 業 員 の 方 も 親 切 の 対 応 してくれる 。
+     [0.0069] Manager hides behind the rack of chicken by the drive thru window so he doesnt have to deal with the irate customers at the register .
+     [0.0030] I totally recommend it .
+
+Top 5 (weakening):
+     [-0.9962] Shorted my chicken order , chicken was old and seemed to have been sitting around .
+     [-0.9590] No chicken because it wasn 't defrosted the night before ?
+     [-0.8517] Never again
+     [-0.6775] Best damn Popeyes I 've had in awhile !
+     [-0.6237] Do not go to this Popeyes .
+
+**********
+[0.9849] The chicken was moist.
+Parent: The reviews of the product were largely positive, with people praising the chicken for being fresh and moist.
+
+Top 5 (supporting):
+     [0.9849] The chicken was fresh and moist .
+     [0.9450] First time trying Popeyes ... in a hurry and decided to take the lazy way out of dinner.Good thing I was headed home anyway ... no utensils ... no dipping sauce ... Cole slaw swimming in sauce ... more like cold cabbage soup.Chicken was moist ... would try again ... but not this location .
+     [0.0428] 南 部 的 なフライドチキンが 楽 しめる 全 国 チェーン 。 チキンのからあげ 等 が 大 好 きな 日 本 人 にとって 、 思 う 存 分 に 楽 しめる 。 年 齢 のせいもあるが 、 コロモに 油 が 比 較 的 多 く 含 まれているので 、 ランチコンボを 二 人 で 分 ける 位 が 丁 度 良 さそう 。 従 業 員 の 方 も 親 切 の 対 応 してくれる 。
+     [0.0076] Manager hides behind the rack of chicken by the drive thru window so he doesnt have to deal with the irate customers at the register .
+     [0.0020] I totally recommend it .
+
+Top 5 (weakening):
+     [-0.8764] No chicken because it wasn 't defrosted the night before ?
+     [-0.7048] Best damn Popeyes I 've had in awhile !
+     [-0.4053] Do not go to this Popeyes .
+     [-0.3800] Shorted my chicken order , chicken was old and seemed to have been sitting around .
+     [-0.3353] Not sure if they trained her on how to interact with customers but she was difficult to speak to .
+
+**********
+[0.7673] There were some negative reviews.
+Parent: However, there were a few negative reviews, with people complaining about the service and the quality of the food.
+
+Top 5 (supporting):
+     [0.7673] First time trying Popeyes ... in a hurry and decided to take the lazy way out of dinner.Good thing I was headed home anyway ... no utensils ... no dipping sauce ... Cole slaw swimming in sauce ... more like cold cabbage soup.Chicken was moist ... would try again ... but not this location .
+     [0.6283] Chubby girl at window was quite possibly the rudest person ever .
+     [0.3381] Manager hides behind the rack of chicken by the drive thru window so he doesnt have to deal with the irate customers at the register .
+     [0.3318] Never again
+     [0.2097] Shorted my chicken order , chicken was old and seemed to have been sitting around .
+
+Top 5 (weakening):
+     [-0.2295] Staff was super friendly and even made it a point to ask if we wanted sauce .
+     [-0.0896] Seriously so freaking good , can 't wait to have it again !
+     [-0.0421] I totally recommend it .
+     [-0.0325] This place has really improved .
+     [-0.0318] Best damn Popeyes I 've had in awhile !
+
+**********
+[0.5515] The service was bad.
+Parent: However, there were a few negative reviews, with people complaining about the service and the quality of the food.
+
+Top 5 (supporting):
+     [0.5515] Slow very slow service
+     [0.4002] Rude people working , will not return to this location .
+     [0.1907] Chubby girl at window was quite possibly the rudest person ever .
+     [0.0848] 南 部 的 なフライドチキンが 楽 しめる 全 国 チェーン 。 チキンのからあげ 等 が 大 好 きな 日 本 人 にとって 、 思 う 存 分 に 楽 しめる 。 年 齢 のせいもあるが 、 コロモに 油 が 比 較 的 多 く 含 まれているので 、 ランチコンボを 二 人 で 分 ける 位 が 丁 度 良 さそう 。 従 業 員 の 方 も 親 切 の 対 応 してくれる 。
+     [0.0316] Never again
+
+Top 5 (weakening):
+     [-0.9970] Staff was super friendly and even made it a point to ask if we wanted sauce .
+     [-0.9842] I totally recommend it .
+     [-0.9812] It used to suck but lately the service is good and the food is delicious .
+     [-0.9777] Best damn Popeyes I 've had in awhile !
+     [-0.9769] Seriously so freaking good , can 't wait to have it again !
+
+**********
+[0.3889] The food was bad.
+Parent: However, there were a few negative reviews, with people complaining about the service and the quality of the food.
+
+Top 5 (supporting):
+     [0.3889] First time trying Popeyes ... in a hurry and decided to take the lazy way out of dinner.Good thing I was headed home anyway ... no utensils ... no dipping sauce ... Cole slaw swimming in sauce ... more like cold cabbage soup.Chicken was moist ... would try again ... but not this location .
+     [0.0508] 南 部 的 なフライドチキンが 楽 しめる 全 国 チェーン 。 チキンのからあげ 等 が 大 好 きな 日 本 人 にとって 、 思 う 存 分 に 楽 しめる 。 年 齢 のせいもあるが 、 コロモに 油 が 比 較 的 多 く 含 まれているので 、 ランチコンボを 二 人 で 分 ける 位 が 丁 度 良 さそう 。 従 業 員 の 方 も 親 切 の 対 応 してくれる 。
+     [0.0278] Never again
+     [0.0084] Not sure who to blame for that , Popeye 's or this franchise owner , but either way I won 't be back .
+     [0.0077] Do not go to this Popeyes .
+
+Top 5 (weakening):
+     [-0.9964] It used to suck but lately the service is good and the food is delicious .
+     [-0.9909] The chicken was fresh and moist .
+     [-0.9760] Seriously so freaking good , can 't wait to have it again !
+     [-0.9554] Best damn Popeyes I 've had in awhile !
+     [-0.9217] I totally recommend it .
+
+**********
+[0.1446] The reviews were positive.
+Parent: Overall, the reviews were mostly positive.
+
+Top 5 (supporting):
+     [0.1446] Best damn Popeyes I 've had in awhile !
+     [0.1244] It used to suck but lately the service is good and the food is delicious .
+     [0.1019] 南 部 的 なフライドチキンが 楽 しめる 全 国 チェーン 。 チキンのからあげ 等 が 大 好 きな 日 本 人 にとって 、 思 う 存 分 に 楽 しめる 。 年 齢 のせいもあるが 、 コロモに 油 が 比 較 的 多 く 含 まれているので 、 ランチコンボを 二 人 で 分 ける 位 が 丁 度 良 さそう 。 従 業 員 の 方 も 親 切 の 対 応 してくれる 。
+     [0.0566] This place has really improved .
+     [0.0513] Seriously so freaking good , can 't wait to have it again !
+
+Top 5 (weakening):
+     [-0.9787] Never again
+     [-0.9707] First time trying Popeyes ... in a hurry and decided to take the lazy way out of dinner.Good thing I was headed home anyway ... no utensils ... no dipping sauce ... Cole slaw swimming in sauce ... more like cold cabbage soup.Chicken was moist ... would try again ... but not this location .
+     [-0.9327] Chubby girl at window was quite possibly the rudest person ever .
+     [-0.8724] Shorted my chicken order , chicken was old and seemed to have been sitting around .
+     [-0.8466] Do not go to this Popeyes .

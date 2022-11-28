@@ -1,0 +1,151 @@
+Summary:
+
+The store hours should be updated online to match when the store actually closes .
+No one wants to drive all the way to the store at 9 pm thinking they close at 10 pm ( because that 's what it says online ) only to find they actually close at 9 pm .
+Customer service does exist for single females in a hardware store .
+Today , however , we had the unfortunate experience of dealing with Diana in customer service .
+Normally , our experience at Home Depot is great .
+
+**********
+[0.4396] Updating the store hours online would be beneficial.
+Parent: The store hours should be updated online to match when the store actually closes .
+
+Top 5 (supporting):
+     [0.4396] The store hours should be updated online to match when the store actually closes .
+     [0.0884] No one wants to drive all the way to the store at 9pm thinking they close at 10pm ( because that 's what it says online ) only to find they actually close at 9pm .
+     [0.0000] Sad !
+     [0.0000] !
+     [-0.0074] Compared to other HD stores , this one is about par with the others .
+
+Top 5 (weakening):
+     [-0.1751] Picked up a Christmas tree here today .
+     [-0.1211] I recently moved so I went to get two keys duplicated .
+     [-0.1155] Mane sure you inspect the lumber before you buy it .
+     [-0.1148] Thanks Steve for helping me pick the sprinkler parts I needed for my repair .
+     [-0.1148] Tree department sucks .
+
+**********
+[0.9740] The store hours should match the store's closing time.
+Parent: The store hours should be updated online to match when the store actually closes .
+
+Top 5 (supporting):
+     [0.9740] The store hours should be updated online to match when the store actually closes .
+     [0.1018] No one wants to drive all the way to the store at 9pm thinking they close at 10pm ( because that 's what it says online ) only to find they actually close at 9pm .
+     [0.0000] Sad !
+     [0.0000] !
+     [-0.0048] Other than that , it 's just about the same as any other Home Depot or Lowes .
+
+Top 5 (weakening):
+     [-0.7378] This lady definitely needed lots of guidance
+     [-0.5922] Online says open at 5 am .
+     [-0.5820] Larry in the paint department is great and talented at matching a previous color .
+     [-0.5262] After that , the lock broke and I had to go right back and spend more money on a new knob / lock .
+     [-0.4640] Picked up a Christmas tree here today .
+
+**********
+[0.9753] It would be bad to drive all the way to the store at 9 pm only to find they actually close at 9 pm.
+Parent: No one wants to drive all the way to the store at 9 pm thinking they close at 10 pm ( because that 's what it says online ) only to find they actually close at 9 pm .
+
+Top 5 (supporting):
+     [0.9753] No one wants to drive all the way to the store at 9pm thinking they close at 10pm ( because that 's what it says online ) only to find they actually close at 9pm .
+     [0.0000] Sad !
+     [0.0000] !
+     [-0.0126] No registers open sooo no " was his answer .
+     [-0.0218] The store hours should be updated online to match when the store actually closes .
+
+Top 5 (weakening):
+     [-0.5619] Picked up a Christmas tree here today .
+     [-0.4830] Just stopped in to buy a couple pool noodles .
+     [-0.4681] Normally , our experience at Home Depot is great .
+     [-0.4071] Great place , never crowded.Lumber anyways seems to be damaged or cracked .
+     [-0.3709] Larry in the paint department is great and talented at matching a previous color .
+
+**********
+[0.9508] The store is closed at 9 pm.
+Parent: No one wants to drive all the way to the store at 9 pm thinking they close at 10 pm ( because that 's what it says online ) only to find they actually close at 9 pm .
+
+Top 5 (supporting):
+     [0.9508] No one wants to drive all the way to the store at 9pm thinking they close at 10pm ( because that 's what it says online ) only to find they actually close at 9pm .
+     [0.0000] Sad !
+     [0.0000] !
+     [-0.0167] It 's a Home Depot , pretty basic ... lost points for two different employees giving wrong directions on where to find a tree stand .
+     [-0.0258] Compared to other HD stores , this one is about par with the others .
+
+Top 5 (weakening):
+     [-0.9374] Thanks Steve for helping me pick the sprinkler parts I needed for my repair .
+     [-0.8989] Was waiting for ever for them to load .
+     [-0.8895] After that , the lock broke and I had to go right back and spend more money on a new knob / lock .
+     [-0.8862] The gentleman chuck answered my questions in a timely manner .
+     [-0.8810] This lady definitely needed lots of guidance
+
+**********
+[0.9329] Customer service does exist.
+Parent: Customer service does exist for single females in a hardware store .
+
+Top 5 (supporting):
+     [0.9329] Customer service does exist for single females in a hardware store .
+     [0.7524] Customer service people are rude and don 't know how to do their job .
+     [0.4864] Convenient well stocked store , helpful staff .
+     [0.3973] Today , however , we had the unfortunate experience of dealing with Diana in customer service .
+     [0.3336] Friendly staff , easy to find stuff I need .
+
+Top 5 (weakening):
+     [-0.2173] Tree department sucks .
+     [-0.1036] The parking lot is always trashy .
+     [-0.0864] Never buy a tree from there again .
+     [-0.0818] No registers open sooo no " was his answer .
+     [-0.0331] This store blows
+
+**********
+[0.5065] This customer service is good.
+Parent: Customer service does exist for single females in a hardware store .
+
+Top 5 (supporting):
+     [0.5065] Convenient well stocked store , helpful staff .
+     [0.4292] Great selection , good staff 90 % of the time , really can only remember one experience where they messed up and unfortunately it was on a copy of my house key .
+     [0.2545] I 'm so happy I found Randy ( Home Depot associate ) he was very helpful and worked really hard to find what I was looking for for months Great Job Randy !
+     [0.1648] Friendly staff , easy to find stuff I need .
+     [0.0939] Very grateful to an employee that returned a valuable item that I lost in the restroom .
+
+Top 5 (weakening):
+     [-0.9869] Especially Ivette that was rude and unprofessional .
+     [-0.9835] Customer service people are rude and don 't know how to do their job .
+     [-0.9805] She was rude , dismissive , unhelpful and appeared annoyed with our situation .
+     [-0.9756] So annoying .
+     [-0.9743] Worst Home Depot ive been to ...
+
+**********
+[0.9684] Diana in customer service was unfortunate today.
+Parent: Today , however , we had the unfortunate experience of dealing with Diana in customer service .
+
+Top 5 (supporting):
+     [0.9684] Today , however , we had the unfortunate experience of dealing with Diana in customer service .
+     [0.0515] This store blows
+     [0.0453] This lady definitely needed lots of guidance
+     [0.0156] It 's a Home Depot , pretty basic ... lost points for two different employees giving wrong directions on where to find a tree stand .
+     [0.0120] No one wants to drive all the way to the store at 9pm thinking they close at 10pm ( because that 's what it says online ) only to find they actually close at 9pm .
+
+Top 5 (weakening):
+     [-0.9642] Convenient well stocked store , helpful staff .
+     [-0.9592] The gentleman chuck answered my questions in a timely manner .
+     [-0.9399] Friendly staff , easy to find stuff I need .
+     [-0.9377] Very grateful to an employee that returned a valuable item that I lost in the restroom .
+     [-0.8986] I 'm so happy I found Randy ( Home Depot associate ) he was very helpful and worked really hard to find what I was looking for for months Great Job Randy !
+
+**********
+[0.9211] We had a great experience at Home Depot.
+Parent: Normally , our experience at Home Depot is great .
+
+Top 5 (supporting):
+     [0.9211] Normally , our experience at Home Depot is great .
+     [0.2439] Great selection , good staff 90 % of the time , really can only remember one experience where they messed up and unfortunately it was on a copy of my house key .
+     [0.0926] I 'm so happy I found Randy ( Home Depot associate ) he was very helpful and worked really hard to find what I was looking for for months Great Job Randy !
+     [0.0534] Convenient well stocked store , helpful staff .
+     [0.0508] Friendly staff , easy to find stuff I need .
+
+Top 5 (weakening):
+     [-0.9986] Worst Home Depot ive been to ...
+     [-0.9913] Never buy a tree from there again .
+     [-0.9875] This store blows
+     [-0.9856] Customer service people are rude and don 't know how to do their job .
+     [-0.9833] Today , however , we had the unfortunate experience of dealing with Diana in customer service .

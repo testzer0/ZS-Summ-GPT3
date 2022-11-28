@@ -1,0 +1,111 @@
+Summary:
+
+The reviews of the product are mostly negative, with patients complaining about the staff, scheduling, and lack of professionalism. Some patients did say that the product itself was good, but that the overall experience was marred by the poor service.
+
+**********
+[0.3870] The reviews of the product are negative.
+Parent: The reviews of the product are mostly negative, with patients complaining about the staff, scheduling, and lack of professionalism.
+
+Top 5 (supporting):
+     [0.3870] Office staff is deplorable .
+     [0.0053] They drop the ball each and every time .
+     [-0.0184] It took 2 weeks and multiple phone calls to finally receive test results .
+     [-0.0316] Unable to get through to Dr. Daitch when he 's needed .
+     [-0.0449] I have never seen a level of incompetence as I have with this office .
+
+Top 5 (weakening):
+     [-0.9948] The follow up care was really great .
+     [-0.9877] Dr. Bootwala was the best , I can 't thank her enough for all she did for me from start to finish .....
+     [-0.9836] Dr Woodruff is wonderful but do not expect much-in fact , expect very little-from the staff .
+     [-0.9826] Dr. Daitch was very pleasant to work with .
+     [-0.9743] I wanted to personally thank Dr. Daitch for handling my case in such an outstanding manner .
+
+**********
+[0.8424] The staff is bad.
+Parent: The reviews of the product are mostly negative, with patients complaining about the staff, scheduling, and lack of professionalism.
+
+Top 5 (supporting):
+     [0.8424] Office staff is deplorable .
+     [0.2887] I have never seen a level of incompetence as I have with this office .
+     [0.2407] Dr Woodruff is wonderful but do not expect much-in fact , expect very little-from the staff .
+     [0.0755] He doesn 't care about his patients and neither does his staff .
+     [0.0236] They drop the ball each and every time .
+
+Top 5 (weakening):
+     [-0.9906] Dr. Bootwala was the best , I can 't thank her enough for all she did for me from start to finish .....
+     [-0.9891] I wanted to personally thank Dr. Daitch for handling my case in such an outstanding manner .
+     [-0.9850] The follow up care was really great .
+     [-0.9778] Will be finding another physician with competent staff
+     [-0.9626] I would highly recommend Dr. Scott Cheney .
+
+**********
+[0.0593] Scheduling is bad.
+Parent: The reviews of the product are mostly negative, with patients complaining about the staff, scheduling, and lack of professionalism.
+
+Top 5 (supporting):
+     [0.0593] Unable to get through to Dr. Daitch when he 's needed .
+     [0.0247] Az urologist wants their patience to sign a promise if they are late for an appointment they will pay $ 100.00 for being late .
+     [0.0247] Office staff is deplorable .
+     [0.0212] I have never seen a level of incompetence as I have with this office .
+     [0.0164] So if the Dr 's are late for your appointment do you get a $ 100.00 NO !
+
+Top 5 (weakening):
+     [-0.9541] The follow up care was really great .
+     [-0.9455] I wanted to personally thank Dr. Daitch for handling my case in such an outstanding manner .
+     [-0.9265] Dr. Bootwala was the best , I can 't thank her enough for all she did for me from start to finish .....
+     [-0.8268] So , thank you , Dr Daitch .
+     [-0.6813] I would highly recommend Dr. Scott Cheney .
+
+**********
+[0.1472] The patients are unprofessional.
+Parent: The reviews of the product are mostly negative, with patients complaining about the staff, scheduling, and lack of professionalism.
+
+Top 5 (supporting):
+     [0.1472] They drop the ball each and every time .
+     [-0.0172] If you plan on being seen here make sure you have a quality medical malpractice lawyer on hand because you will need it .
+     [-0.0240] I have never seen a level of incompetence as I have with this office .
+     [-0.0277] He doesn 't care about his patients and neither does his staff .
+     [-0.0655] Evidently , 2 of my friends had similar experiences.Do yourself a favor .
+
+Top 5 (weakening):
+     [-0.9052] Dr. Bootwala was the best , I can 't thank her enough for all she did for me from start to finish .....
+     [-0.8778] I wanted to personally thank Dr. Daitch for handling my case in such an outstanding manner .
+     [-0.8668] The follow up care was really great .
+     [-0.8424] I would highly recommend Dr. Scott Cheney .
+     [-0.8184] So , thank you , Dr Daitch .
+
+**********
+[0.5660] The product was good.
+Parent: Some patients did say that the product itself was good, but that the overall experience was marred by the poor service.
+
+Top 5 (supporting):
+     [0.5660] The follow up care was really great .
+     [0.4112] Dr. Bootwala was the best , I can 't thank her enough for all she did for me from start to finish .....
+     [0.2259] I would highly recommend Dr. Scott Cheney .
+     [0.0797] Dr Woodruff is wonderful but do not expect much-in fact , expect very little-from the staff .
+     [0.0501] I wanted to personally thank Dr. Daitch for handling my case in such an outstanding manner .
+
+Top 5 (weakening):
+     [-0.9212] Office staff is deplorable .
+     [-0.4831] I have never seen a level of incompetence as I have with this office .
+     [-0.0571] He doesn 't care about his patients and neither does his staff .
+     [-0.0190] Find another group .
+     [-0.0075] I was referred by my primary care physician .
+
+**********
+[0.0431] The overall experience was poor.
+Parent: Some patients did say that the product itself was good, but that the overall experience was marred by the poor service.
+
+Top 5 (supporting):
+     [0.0431] I have never seen a level of incompetence as I have with this office .
+     [0.0210] Office staff is deplorable .
+     [0.0045] He doesn 't care about his patients and neither does his staff .
+     [0.0041] They drop the ball each and every time .
+     [-0.0184] One is definitely made to feel like little more than a number with this office .
+
+Top 5 (weakening):
+     [-0.9933] The follow up care was really great .
+     [-0.9932] Dr. Bootwala was the best , I can 't thank her enough for all she did for me from start to finish .....
+     [-0.9923] I would highly recommend Dr. Scott Cheney .
+     [-0.9785] Dr. Daitch was very pleasant to work with .
+     [-0.9781] I wanted to personally thank Dr. Daitch for handling my case in such an outstanding manner .

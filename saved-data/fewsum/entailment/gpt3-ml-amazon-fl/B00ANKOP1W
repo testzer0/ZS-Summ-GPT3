@@ -1,0 +1,129 @@
+Summary:
+
+The reviews were mostly positive, with people praising the appearance of the product and saying that it fit well. There were a few negative reviews, with one person saying the dress fell apart after being washed and another saying the pants were too small. Overall, people seemed to be happy with the product.
+
+**********
+[0.3302] The reviews were positive.
+Parent: The reviews were mostly positive, with people praising the appearance of the product and saying that it fit well.
+
+Top 5 (supporting):
+     [0.3302] Lovely , beautiful , I 'm loving it !
+     [0.2656] I bought this dress as a gift and the person who received it liked it a lot .
+     [0.1482] My daughter wore this the day we were living the hospital , and every one love it ...
+     [0.0338] I love this dress !
+     [0.0227] This dress was perfect for my daughter 's 6 month photos !
+
+Top 5 (weakening):
+     [-0.1135] Dress was very pretty but never was worn .
+     [-0.0376] This was a fast delievery ...
+     [-0.0247] I gave it four stars because the panty seems to be a little small , if you consider it goes over a diaper .
+     [-0.0195] This dress will be an Easter Dress for my Great GrandaughterThen we are saveing the dress for her first new born baby doll ..
+     [-0.0177] We prewash clothes before we put on baby to wear .
+
+**********
+[0.5477] The product looked good.
+Parent: The reviews were mostly positive, with people praising the appearance of the product and saying that it fit well.
+
+Top 5 (supporting):
+     [0.5477] It 's a very beautiful dress and soft for a newborns skin .
+     [0.4900] It looks really cute .
+     [0.4052] The lace and tulle are very nice as well .
+     [0.3416] It was a very cute dress !
+     [0.2535] I love this dress !
+
+Top 5 (weakening):
+     [0.0072] We prewash clothes before we put on baby to wear .
+     [0.0078] Dress was washed in gentle cycle and the lace around dress came apart .
+     [0.0121] We are saving it for her to use for a doll when she 's bigger .
+     [0.0135] I recommend you hand wash .
+     [0.0138] This dress will be an Easter Dress for my Great GrandaughterThen we are saveing the dress for her first new born baby doll ..
+
+**********
+[0.9333] It fit well.
+Parent: The reviews were mostly positive, with people praising the appearance of the product and saying that it fit well.
+
+Top 5 (supporting):
+     [0.9333] She was less than a month old and it fit her just right .
+     [0.8857] She is petite for her age so the 3-6M fit her perfectly .
+     [0.8651] Even though it was slightly large for my 7 pound 8 oz baby , it fit much better than other newborn dresses that I got her .
+     [0.1164] I think that 's a great idea .. Love doing business with you Nannettek
+     [0.0917] This dress was perfect for my daughter 's 6 month photos !
+
+Top 5 (weakening):
+     [-0.4623] I gave it four stars because the panty seems to be a little small , if you consider it goes over a diaper .
+     [-0.1903] Dress was very pretty but never was worn .
+     [-0.1509] Dress was washed in gentle cycle and the lace around dress came apart .
+     [-0.0094] I recommend you hand wash .
+     [-0.0016] This was a fast delievery ...
+
+**********
+[-0.0788] There were negative reviews.
+Parent: There were a few negative reviews, with one person saying the dress fell apart after being washed and another saying the pants were too small.
+
+Top 5 (supporting):
+     [-0.0788] This was a fast delievery ...
+     [-0.2470] I gave it four stars because the panty seems to be a little small , if you consider it goes over a diaper .
+     [-0.2675] She was less than a month old and it fit her just right .
+     [-0.2891] Dress was very pretty but never was worn .
+     [-0.3665] We prewash clothes before we put on baby to wear .
+
+Top 5 (weakening):
+     [-0.9931] Lovely , beautiful , I 'm loving it !
+     [-0.9914] I bought this dress as a gift and the person who received it liked it a lot .
+     [-0.9892] My daughter wore this the day we were living the hospital , and every one love it ...
+     [-0.9855] I love this dress !
+     [-0.9705] This dress was perfect for my daughter 's 6 month photos !
+
+**********
+[0.7927] The dress fell apart after being washed.
+Parent: There were a few negative reviews, with one person saying the dress fell apart after being washed and another saying the pants were too small.
+
+Top 5 (supporting):
+     [0.7927] Dress was washed in gentle cycle and the lace around dress came apart .
+     [-0.0338] I recommend you hand wash .
+     [-0.1009] We prewash clothes before we put on baby to wear .
+     [-0.1780] Dress was very pretty but never was worn .
+     [-0.1932] This was a fast delievery ...
+
+Top 5 (weakening):
+     [-0.9633] It looks really cute .
+     [-0.9395] The lace and tulle are very nice as well .
+     [-0.9247] It 's a very beautiful dress and soft for a newborns skin .
+     [-0.9222] We are saving it for her to use for a doll when she 's bigger .
+     [-0.9163] Outfit is even prettier in person !
+
+**********
+[-0.0559] The pants were too small.
+Parent: There were a few negative reviews, with one person saying the dress fell apart after being washed and another saying the pants were too small.
+
+Top 5 (supporting):
+     [-0.0559] We prewash clothes before we put on baby to wear .
+     [-0.0738] This was a fast delievery ...
+     [-0.1185] I definitely recommend .
+     [-0.1675] I think that 's a great idea .. Love doing business with you Nannettek
+     [-0.1901] I recommend you hand wash .
+
+Top 5 (weakening):
+     [-0.8929] I love this dress !
+     [-0.8408] She was less than a month old and it fit her just right .
+     [-0.7884] This dress was perfect for my daughter 's 6 month photos !
+     [-0.7822] I bought this dress as a gift and the person who received it liked it a lot .
+     [-0.7579] She is petite for her age so the 3-6M fit her perfectly .
+
+**********
+[0.7479] People were happy with the product.
+Parent: Overall, people seemed to be happy with the product.
+
+Top 5 (supporting):
+     [0.7479] My daughter wore this the day we were living the hospital , and every one love it ...
+     [0.7014] I bought this dress as a gift and the person who received it liked it a lot .
+     [0.3026] Lovely , beautiful , I 'm loving it !
+     [0.1195] this was a take home outfit for my 14th grandchild , She will be here in December , cant wait to see her in it
+     [0.1110] I love this dress !
+
+Top 5 (weakening):
+     [-0.5249] Dress was very pretty but never was worn .
+     [-0.0367] Dress was washed in gentle cycle and the lace around dress came apart .
+     [-0.0073] This was a fast delievery ...
+     [-0.0023] This dress will be an Easter Dress for my Great GrandaughterThen we are saveing the dress for her first new born baby doll ..
+     [-0.0006] We prewash clothes before we put on baby to wear .

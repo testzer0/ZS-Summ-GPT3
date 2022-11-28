@@ -1,0 +1,147 @@
+Summary:
+
+The reviewers generally liked the store and found it to be clean and well-stocked. They were also pleased with the variety of Filipino food available. However, some reviewers found the meat and seafood to be of poor quality, and the vegetables to be not fresh. Additionally, the check-out process was criticized for being slow and congested.
+
+**********
+[0.9186] The store was liked.
+Parent: The reviewers generally liked the store and found it to be clean and well-stocked.
+
+Top 5 (supporting):
+     [0.9186] Loved the grocery store and bakery secretion but the cooked food was just ok .
+     [0.8331] I really love this place it 's clean and they have almost everything that l need for my Asian cooking and more.
+     [0.8057] I love coming to this market !
+     [0.7969] This place just opened recently and gotta say I love it .
+     [0.7668] I love Asian market and i come here alot .
+
+Top 5 (weakening):
+     [-0.9495] DISGUSTING ! !
+     [-0.9312] never going to buy pandesal here ever again ! !
+     [-0.9087] Terrible management here .....
+     [-0.9047] Not impressed .
+     [-0.8686] so disappointed !
+
+**********
+[0.9694] The store was clean.
+Parent: The reviewers generally liked the store and found it to be clean and well-stocked.
+
+Top 5 (supporting):
+     [0.9694] Very clean store and staff is knowledgeable
+     [0.9694] Very clean store and staff is knowledgeable
+     [0.9399] I really love this place it 's clean and they have almost everything that l need for my Asian cooking and more.
+     [0.9175] A nice and clean supermarket with a complete variety of Filipino food .
+     [0.2493] It was nice and clean and had all the needs we wanted on the trip .
+
+Top 5 (weakening):
+     [-0.9954] be careful with buying meat here because my friend 's mom bought beef bones here and they were so bad that it stinked up their house.
+     [-0.9923] too many flies in the whole place.
+     [-0.9867] Little dirty international cheap low grade products and a little pricey .
+     [-0.9833] i bought sour sap juice that was open.
+     [-0.9821] There was lots of fat on the oxtail in the Kare Kare .
+
+**********
+[0.9642] The store was well-stocked.
+Parent: The reviewers generally liked the store and found it to be clean and well-stocked.
+
+Top 5 (supporting):
+     [0.9642] This Asian / Filipino grocery store well stocked to meet all your cooking needs and they even cook it for you .
+     [0.7142] 2 cashiers when the store is packed !
+     [0.6075] It is not as big and complete as the other market by Maryland but ur has all the essentials you need .
+     [0.5523] A nice and clean supermarket with a complete variety of Filipino food .
+     [0.3483] Really good selections of cafeteria style filipino food and reasonable pricing for groceries .
+
+Top 5 (weakening):
+     [-0.9241] never going to buy pandesal here ever again ! !
+     [-0.8600] Sadly they don 't sell alcohol there that goes with the fired fish
+     [-0.8524] too many flies in the whole place.
+     [-0.8267] Little dirty international cheap low grade products and a little pricey .
+     [-0.7776] Not particularly clean , and the bananas I got weren 't very good--already ripe and bruised .
+
+**********
+[0.8445] They were pleased with the Filipino food available.
+Parent: They were also pleased with the variety of Filipino food available.
+
+Top 5 (supporting):
+     [0.8445] I love that there 's Filipino food buffet style ready to eat here too .
+     [0.3757] I like Filipino food don 't get me wrong only if they improve their service .
+     [0.2738] Great supermarket , even greater Filipino restaurant inside !
+     [0.2084] I will not find any food anywhere in the world island pacific can make me so inspired .
+     [0.1836] They have good deals weekly and the filipino restaurant there is delicious !
+
+Top 5 (weakening):
+     [-0.9687] so disappointed !
+     [-0.9634] We will never come back here again
+     [-0.9632] DISGUSTING ! !
+     [-0.9160] Not impressed .
+     [-0.8511] Sadly their pork bbq- meat was tough , more than necessary fat and lacking in taste as compared to Grill City inside Seafood City .
+
+**********
+[0.0628] The meat and seafood were of poor quality.
+Parent: However, some reviewers found the meat and seafood to be of poor quality, and the vegetables to be not fresh.
+
+Top 5 (supporting):
+     [0.0628] Their fish , pork , are not fresh .
+     [0.0236] Sadly their pork bbq- meat was tough , more than necessary fat and lacking in taste as compared to Grill City inside Seafood City .
+     [0.0111] i also had a coworker who bought chicken here and after an hour of cooking it was still pink and he threw it away .
+     [0.0079] be careful with buying meat here because my friend 's mom bought beef bones here and they were so bad that it stinked up their house.
+     [0.0031] Some of the meat looks like it shouldn 't even be sold .
+
+Top 5 (weakening):
+     [-0.9854] Crispy skin and the flavor was awesome .
+     [-0.9828] Soo good eats , convenient grocery , clean fish to take home ... highly recommend .
+     [-0.9298] It was nice and clean and had all the needs we wanted on the trip .
+     [-0.9273] This place is a gem .
+     [-0.9201] Everything were delicious .
+
+**********
+[0.9360] The vegetables were not fresh.
+Parent: However, some reviewers found the meat and seafood to be of poor quality, and the vegetables to be not fresh.
+
+Top 5 (supporting):
+     [0.9360] Vegetables are not fresh .
+     [0.6061] Not particularly clean , and the bananas I got weren 't very good--already ripe and bruised .
+     [0.1000] So it may have been the way they reheated them .
+     [0.0406] We also picked up some sweet deserts .
+     [0.0390] never going to buy pandesal here ever again ! !
+
+Top 5 (weakening):
+     [-0.7962] A wide variety of seafood , fresh fruits and vegetables , Asian food products and they also have a bakery and a restaurant .
+     [-0.7720] Their fish , pork , are not fresh .
+     [-0.6938] Fresh fish and meat , veggies and a lot more .
+     [-0.6836] i used to come here for their freshly baked yummy ( BIG ) pandesal.
+     [-0.6436] Crispy skin and the flavor was awesome .
+
+**********
+[0.1412] The check-out process was slow.
+Parent: Additionally, the check-out process was criticized for being slow and congested.
+
+Top 5 (supporting):
+     [0.1412] This place is ok because it 's closer than other Asian markets but it always takes 30 minutes to check out .
+     [0.0188] They 've have bad customer service .
+     [0.0121] I deducted 2 stars because # 1 the isles are narrow and there is not knowing where the line starts when your ready to check out .
+     [0.0030] Terrible management here .....
+     [0.0000] ! !
+
+Top 5 (weakening):
+     [-0.8681] It is always busy .
+     [-0.4103] 2 cashiers when the store is packed !
+     [-0.3106] Still gets pretty busy but not like SC .
+     [-0.2783] Friendly staff , good prices , and reminds me of home : ) The guys at the butcher area work fast too .
+     [-0.1914] They just made it right .
+
+**********
+[0.3808] The check-out process was congested.
+Parent: Additionally, the check-out process was criticized for being slow and congested.
+
+Top 5 (supporting):
+     [0.3808] 2 cashiers when the store is packed !
+     [0.0525] I deducted 2 stars because # 1 the isles are narrow and there is not knowing where the line starts when your ready to check out .
+     [0.0327] I suggest that everyone go to Seafood City at Arroyo Crossing .... they employ more than 2 cashiers .
+     [0.0085] It is always busy .
+     [0.0051] They 've have bad customer service .
+
+Top 5 (weakening):
+     [-0.8591] Very clean store and staff is knowledgeable
+     [-0.8591] Very clean store and staff is knowledgeable
+     [-0.7809] It was nice and clean and had all the needs we wanted on the trip .
+     [-0.7648] A nice and clean supermarket with a complete variety of Filipino food .
+     [-0.7227] Prices are affordable and customer service is ok . Gonna be going here with my mom more often now that this place opened up !

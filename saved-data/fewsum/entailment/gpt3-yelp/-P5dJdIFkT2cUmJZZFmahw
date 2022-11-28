@@ -1,0 +1,75 @@
+Summary:
+
+Overall, reviewers thought that the product was good and that the staff was knowledgeable and friendly. They also thought that the prices were reasonable.
+
+**********
+[0.3914] The product was good.
+Parent: Overall, reviewers thought that the product was good and that the staff was knowledgeable and friendly.
+
+Top 5 (supporting):
+     [0.3914] Great service .
+     [0.2783] Good prices and trustworthy .
+     [0.2069] Ted is great !
+     [0.1860] These guys do amazing work at reasonable prices .
+     [0.1648] I will be a lifetime customer
+
+Top 5 (weakening):
+     [-0.4666] Austin is a great guy .
+     [-0.0443] The master mechanics didn 't even blink an eye .
+     [-0.0108] Only guys I trust with my pride and joy .
+     [-0.0062] They assessed the situation provided a fair estimate .
+     [0.0000] I agreed .
+
+**********
+[0.8163] The staff was knowledgeable.
+Parent: Overall, reviewers thought that the product was good and that the staff was knowledgeable and friendly.
+
+Top 5 (supporting):
+     [0.8163] I would never take my bike to Ridenow or anything like that I want to know who 's working on my bike and with the knowledge and friendly people at the shop I will never take my bike anywhere else .
+     [0.6857] Good bunch of guys with a wealth of information and honest service .
+     [0.2657] The guys go above and beyond with thier saftey check .
+     [0.1844] Very reliable group and a great job all the time .
+     [0.1054] These guys do amazing work at reasonable prices .
+
+Top 5 (weakening):
+     [-0.0243] Only guys I trust with my pride and joy .
+     [-0.0038] I am a first time customer .
+     [0.0000] I agreed .
+     [0.0025] Ask them about all the other motorsport things they do for fun !
+     [0.0033] Other places want to make a fast buck not the case here .
+
+**********
+[0.7612] The staff was friendly.
+Parent: Overall, reviewers thought that the product was good and that the staff was knowledgeable and friendly.
+
+Top 5 (supporting):
+     [0.7612] I would never take my bike to Ridenow or anything like that I want to know who 's working on my bike and with the knowledge and friendly people at the shop I will never take my bike anywhere else .
+     [0.1961] The team fixed the issue and did not try and screw me .
+     [0.1100] Good bunch of guys with a wealth of information and honest service .
+     [0.0250] Great service .
+     [0.0195] These guys do amazing work at reasonable prices .
+
+Top 5 (weakening):
+     [-0.0685] The master mechanics didn 't even blink an eye .
+     [-0.0670] Only guys I trust with my pride and joy .
+     [-0.0446] The guys go above and beyond with thier saftey check .
+     [-0.0401] Ask them about all the other motorsport things they do for fun !
+     [-0.0378] Ted is great !
+
+**********
+[0.8459] The prices were reasonable.
+Parent: They also thought that the prices were reasonable.
+
+Top 5 (supporting):
+     [0.8459] Good prices and trustworthy .
+     [0.7320] These guys do amazing work at reasonable prices .
+     [0.0053] I will be a lifetime customer
+     [0.0038] One of the best shops to go to for sportbikes .
+     [0.0034] First time trying the shop and will be my go to shop for the future .
+
+Top 5 (weakening):
+     [-0.2100] The guys go above and beyond with thier saftey check .
+     [-0.1611] Other places want to make a fast buck not the case here .
+     [-0.1153] This place has consistently over delivered every time I 've had repairs done .
+     [-0.0532] Ask them about all the other motorsport things they do for fun !
+     [-0.0476] Only guys I trust with my pride and joy .

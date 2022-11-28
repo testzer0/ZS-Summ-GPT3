@@ -1,0 +1,129 @@
+Summary:
+
+The reviews were mostly negative, with complaints about the safety of the complex, the unprofessional and rude attitude of the staff, and the overpriced nature of the complex. There were also complaints about the parking situation, with many people saying that their cars had been towed even though they were residents of the complex.
+
+**********
+[0.9145] The reviews were negative.
+Parent: The reviews were mostly negative, with complaints about the safety of the complex, the unprofessional and rude attitude of the staff, and the overpriced nature of the complex.
+
+Top 5 (supporting):
+     [0.9145] The negative feedback already stated speaks volumes on the staff.Think twice before moving there .
+     [0.2272] Worst in the world .
+     [0.1005] But after reading through about 35 reviews of how terrible of a place this is ..
+     [0.0630] If I could I would give this place no stars .
+     [0.0176] They had multiple robberies and burglaries and it is NOT SAFE for single women and families with children.
+
+Top 5 (weakening):
+     [-0.9758] I 'm a current resident here and this place is okay , but not so much safe .
+     [-0.8732] Security is amazing at regulating parking , but not so much at securing the community .
+     [-0.7453] I BELIEVE IT .
+     [-0.6319] We 've had 2 break ins in our apartment and one in our car .
+     [-0.4350] Guess l 'll keep searching ..
+
+**********
+[0.4278] The complex was not safe.
+Parent: The reviews were mostly negative, with complaints about the safety of the complex, the unprofessional and rude attitude of the staff, and the overpriced nature of the complex.
+
+Top 5 (supporting):
+     [0.4278] They had multiple robberies and burglaries and it is NOT SAFE for single women and families with children.
+     [0.1876] I 'm a current resident here and this place is okay , but not so much safe .
+     [0.0624] The owner of the property doesn 't care about the safety of his tenants at all .
+     [0.0555] Which is unsafe .
+     [0.0355] Worst in the world .
+
+Top 5 (weakening):
+     [-0.1847] This place is overpriced .
+     [-0.0999] THEY TOW YOUR CAR even if you are living here .
+     [-0.0990] They take fees automatically , but will not refund automatically .
+     [-0.0715] They want cash only but you have to pay to put it on a card .
+     [-0.0663] Walk around with grand in your pocket .
+
+**********
+[0.9404] The staff were unprofessional and rude.
+Parent: The reviews were mostly negative, with complaints about the safety of the complex, the unprofessional and rude attitude of the staff, and the overpriced nature of the complex.
+
+Top 5 (supporting):
+     [0.9404] I will say this ... Management and the staff there need to improve their rude and unprofessional attitude with new customers trying to see the place .
+     [0.0110] for no reason given to us we were not allowed to renew our lease they gave us a 30 day notice to quit we paid our rent on time we were quiet responsible renters I feel it is unprofessional and cowardly not to give us a reason why we had to pull up Stakes and move for no reason other than quote on quote the owner wants his property back
+     [0.0056] I had to dispute with my bank after staff refused to assist .
+     [0.0032] Worst in the world .
+     [0.0010] Administration office is a joke .
+
+Top 5 (weakening):
+     [-0.7906] THEY TOW YOUR CAR even if you are living here .
+     [-0.7883] Security is amazing at regulating parking , but not so much at securing the community .
+     [-0.5382] Walk around with grand in your pocket .
+     [-0.4352] I BELIEVE IT .
+     [-0.4333] They take fees automatically , but will not refund automatically .
+
+**********
+[0.3275] The complex was overpriced.
+Parent: The reviews were mostly negative, with complaints about the safety of the complex, the unprofessional and rude attitude of the staff, and the overpriced nature of the complex.
+
+Top 5 (supporting):
+     [0.3275] This place is overpriced .
+     [0.0089] They make you spend money to pay your rent .
+     [0.0084] Walk around with grand in your pocket .
+     [0.0000] ! !
+     [0.0000] Horrible !
+
+Top 5 (weakening):
+     [-0.3480] They want cash only but you have to pay to put it on a card .
+     [-0.3355] Which is unsafe .
+     [-0.2987] They take fees automatically , but will not refund automatically .
+     [-0.2264] refund on fees take more then 30 days .
+     [-0.2262] Thank God I dodged a bullet .
+
+**********
+[0.9546] The parking situation was bad.
+Parent: There were also complaints about the parking situation, with many people saying that their cars had been towed even though they were residents of the complex.
+
+Top 5 (supporting):
+     [0.9546] Parking situation is horrible unless you have only 1 car .
+     [0.2772] There is never parking even for uncovered vehicles .
+     [0.1385] Always have to park on the other side of the complex just to leave my car somewhere so it won 't be stickered or towed .
+     [0.0285] We didn 't know we weren 't allowed more than one pass for parking .
+     [0.0002] Worst in the world .
+
+Top 5 (weakening):
+     [-0.2757] Thank God I dodged a bullet .
+     [-0.2153] They take fees automatically , but will not refund automatically .
+     [-0.1943] We 've had 2 break ins in our apartment and one in our car .
+     [-0.1699] They had multiple robberies and burglaries and it is NOT SAFE for single women and families with children.
+     [-0.1538] They want cash only but you have to pay to put it on a card .
+
+**********
+[0.0254] Many people had their cars towed.
+Parent: There were also complaints about the parking situation, with many people saying that their cars had been towed even though they were residents of the complex.
+
+Top 5 (supporting):
+     [0.0254] Always have to park on the other side of the complex just to leave my car somewhere so it won 't be stickered or towed .
+     [0.0088] THEY TOW YOUR CAR even if you are living here .
+     [0.0000] ! !
+     [0.0000] Horrible !
+     [0.0000] Thanks .
+
+Top 5 (weakening):
+     [-0.5457] This place is overpriced .
+     [-0.4324] Walk around with grand in your pocket .
+     [-0.3735] They go into apartments about once a month .
+     [-0.3472] Administration office is a joke .
+     [-0.2870] They want cash only but you have to pay to put it on a card .
+
+**********
+[0.0523] The complex had many residents.
+Parent: There were also complaints about the parking situation, with many people saying that their cars had been towed even though they were residents of the complex.
+
+Top 5 (supporting):
+     [0.0523] They go into apartments about once a month .
+     [0.0185] Security is amazing at regulating parking , but not so much at securing the community .
+     [0.0083] Always have to park on the other side of the complex just to leave my car somewhere so it won 't be stickered or towed .
+     [0.0072] Walk around with grand in your pocket .
+     [0.0045] We 've had 2 break ins in our apartment and one in our car .
+
+Top 5 (weakening):
+     [-0.1370] Administration office is a joke .
+     [-0.0859] Worst in the world .
+     [-0.0796] I had to dispute with my bank after staff refused to assist .
+     [-0.0691] But after reading through about 35 reviews of how terrible of a place this is ..
+     [-0.0555] for no reason given to us we were not allowed to renew our lease they gave us a 30 day notice to quit we paid our rent on time we were quiet responsible renters I feel it is unprofessional and cowardly not to give us a reason why we had to pull up Stakes and move for no reason other than quote on quote the owner wants his property back

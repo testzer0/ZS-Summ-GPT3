@@ -1,0 +1,111 @@
+Summary:
+
+The reviews say that the product is good quality, clean, friendly, and efficient. They also say that the burgers are great and the fries are delicious.
+
+**********
+[0.8575] The product is good quality.
+Parent: The reviews say that the product is good quality, clean, friendly, and efficient.
+
+Top 5 (supporting):
+     [0.8575] Yes it 's part of a chain but the quality of the food is still excellent .
+     [0.2382] The food is awesome ; the ladies that took our order , cooked and served us were delightful .
+     [0.2331] The store was clean and the food , of course was good .
+     [0.1827] Amazing home made fries .
+     [0.1427] Love this 5 guys , always has quick service and great food .
+
+Top 5 (weakening):
+     [-0.0209] I 've always enjoyed five guys and this location has been good during the day time but tonight the food wasn 't as good and definitely lacked fries as well
+     [-0.0014] I don 't go for their other styles .
+     [0.0013] I just walked right up .
+     [0.0039] Not a place to go if you are allergic to peanuts , they uses peanut oil for their fries as well as they have peanuts out for people to enjoy freely .
+     [0.0052] Everyone was friendly and smiling and talking to you .
+
+**********
+[0.4049] The product is clean.
+Parent: The reviews say that the product is good quality, clean, friendly, and efficient.
+
+Top 5 (supporting):
+     [0.4049] The store was clean and the food , of course was good .
+     [0.2128] The restaurant is always clean and the staff is always friendly .
+     [0.1266] Nothing fancy here , these are for people who love the simplicity of the pure , great tasting beef .
+     [0.0828] Yes it 's part of a chain but the quality of the food is still excellent .
+     [0.0242] Amazing home made fries .
+
+Top 5 (weakening):
+     [-0.3717] You can add all kinds of ingredients like grilled mushrooms and grilled onions .
+     [-0.2455] Not a place to go if you are allergic to peanuts , they uses peanut oil for their fries as well as they have peanuts out for people to enjoy freely .
+     [-0.2359] I grabbed my order to go and the burgers were delish .
+     [-0.1626] It definitely fills you up .
+     [-0.1154] The ladies working this evening were fantastic .
+
+**********
+[0.2205] The product is friendly.
+Parent: The reviews say that the product is good quality, clean, friendly, and efficient.
+
+Top 5 (supporting):
+     [0.2205] First time to Five Guys , friendly and fast service .
+     [0.0463] While they got my order wrong , they really tried to make it right with a smile and as quickly as possible .
+     [0.0422] Great customer service !
+     [0.0401] Great customer service .
+     [0.0388] Add some basic topping if you want and grab some home made fries if you want your carbs .
+
+Top 5 (weakening):
+     [-0.7181] The restaurant is always clean and the staff is always friendly .
+     [-0.3198] Stop by and enjoy some great burgers and friendly staff !
+     [-0.2049] I grabbed my order to go and the burgers were delish .
+     [-0.1998] The ladies working this evening were fantastic .
+     [-0.1916] I 've always enjoyed five guys and this location has been good during the day time but tonight the food wasn 't as good and definitely lacked fries as well
+
+**********
+[0.1236] The product is efficient.
+Parent: The reviews say that the product is good quality, clean, friendly, and efficient.
+
+Top 5 (supporting):
+     [0.1236] Love this 5 guys , always has quick service and great food .
+     [0.0450] Yes it 's part of a chain but the quality of the food is still excellent .
+     [0.0422] It definitely fills you up .
+     [0.0408] The food is awesome ; the ladies that took our order , cooked and served us were delightful .
+     [0.0355] First time to Five Guys , friendly and fast service .
+
+Top 5 (weakening):
+     [-0.0603] I 've always enjoyed five guys and this location has been good during the day time but tonight the food wasn 't as good and definitely lacked fries as well
+     [-0.0302] The ladies working this evening were fantastic .
+     [-0.0126] I just walked right up .
+     [-0.0056] They kept the place clean .
+     [-0.0031] Everyone was friendly and smiling and talking to you .
+
+**********
+[0.8098] The burgers are great.
+Parent: They also say that the burgers are great and the fries are delicious.
+
+Top 5 (supporting):
+     [0.8098] Great burgers !
+     [0.7862] Awesome burgers .
+     [0.7445] Burger and fries were great .
+     [0.6635] Stop by and enjoy some great burgers and friendly staff !
+     [0.5385] I grabbed my order to go and the burgers were delish .
+
+Top 5 (weakening):
+     [-0.7615] I love their fries - plain fries .
+     [-0.4681] I 've always enjoyed five guys and this location has been good during the day time but tonight the food wasn 't as good and definitely lacked fries as well
+     [-0.3773] Amazing home made fries .
+     [-0.1837] Fries maybe not my favorite but it 's definitely better than in and out .
+     [-0.1290] You can add all kinds of ingredients like grilled mushrooms and grilled onions .
+
+**********
+[0.8744] The fries are great.
+Parent: They also say that the burgers are great and the fries are delicious.
+
+Top 5 (supporting):
+     [0.8744] Burger and fries were great .
+     [0.6739] Amazing home made fries .
+     [0.6496] I love their fries - plain fries .
+     [0.2613] Cheeseburger , fries and a cherry shake --- Yum !
+     [0.0151] Add some basic topping if you want and grab some home made fries if you want your carbs .
+
+Top 5 (weakening):
+     [-0.9301] I 've always enjoyed five guys and this location has been good during the day time but tonight the food wasn 't as good and definitely lacked fries as well
+     [-0.8147] Fries maybe not my favorite but it 's definitely better than in and out .
+     [-0.1758] I don 't go for their other styles .
+     [-0.1375] I grabbed my order to go and the burgers were delish .
+     [-0.1350] Nothing fancy here , these are for people who love the simplicity of the pure , great tasting beef .

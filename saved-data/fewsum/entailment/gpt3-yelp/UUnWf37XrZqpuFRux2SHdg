@@ -1,0 +1,111 @@
+Summary:
+
+The reviews were all positive, with customers stating that they had a great experience with the massage they received. Shanice was particularly praised for her strong hands and great pressure. Customers also enjoyed the clean and professional atmosphere of the office.
+
+**********
+[0.5429] The reviews were positive.
+Parent: The reviews were all positive, with customers stating that they had a great experience with the massage they received.
+
+Top 5 (supporting):
+     [0.5429] I have been going to this office for over a year now and have always been very happy with the quality of care and the friendly staff .
+     [0.2735] .. clean , professional , friendly !
+     [0.2321] I have had several massages at this location and have had an amazing experience thus far !
+     [0.2321] I 'm happy with results after my first PRP injection , I never have to long wait , and he even followed up , with a personal phone call .
+     [0.2232] Nice office atmosphere .
+
+Top 5 (weakening):
+     [-0.3515] It hurt so good .
+     [-0.1451] I left loosened up and discomfort free
+     [-0.0560] My therapist has been doing massages for 25 + years .
+     [-0.0338] The rehabilitation from my knee injury has been going great thanks to Dr. Dabbah and his staff .
+     [-0.0204] Finally a great deep tissue massage !
+
+**********
+[0.8878] Customers had a great experience with the massage.
+Parent: The reviews were all positive, with customers stating that they had a great experience with the massage they received.
+
+Top 5 (supporting):
+     [0.8878] I have had several massages at this location and have had an amazing experience thus far !
+     [0.7288] Had a very relaxing massage and will definitely make another appointment .
+     [0.6287] Had a Groupon for a deep tissue massage ... seriously one of the best massages I 've ever had , Tami was absolutely amazing !
+     [0.4982] 1 hour massage was one of the best massages i have ever received .
+     [0.4058] I received a wonderful prenatal massage from one of their massage therapists Michelle .
+
+Top 5 (weakening):
+     [-0.6747] It hurt so good .
+     [-0.1526] I have been going to this office for over a year now and have always been very happy with the quality of care and the friendly staff .
+     [-0.1503] Nice office atmosphere .
+     [-0.1490] Front desk gals were great also !
+     [-0.1067] The office is friendly and clean .
+
+**********
+[0.2094] Shanice had strong hands.
+Parent: Shanice was particularly praised for her strong hands and great pressure.
+
+Top 5 (supporting):
+     [0.2094] Strong hands and great pressure .
+     [0.0462] Had a Groupon for a deep tissue massage ... seriously one of the best massages I 've ever had , Tami was absolutely amazing !
+     [0.0402] Michelle gave a fantastic massage .
+     [0.0341] I received a wonderful prenatal massage from one of their massage therapists Michelle .
+     [0.0322] She did a great job with stretching and making sure my muscles were relaxed .
+
+Top 5 (weakening):
+     [-0.8617] Had a massage .
+     [-0.7121] .. clean , professional , friendly !
+     [-0.6508] Had a very relaxing massage and will definitely make another appointment .
+     [-0.6100] Nice office atmosphere .
+     [-0.5771] The staff was very polite and the service was excellent .
+
+**********
+[0.7043] Shanice had great pressure.
+Parent: Shanice was particularly praised for her strong hands and great pressure.
+
+Top 5 (supporting):
+     [0.7043] She did a great job with stretching and making sure my muscles were relaxed .
+     [0.3817] Strong hands and great pressure .
+     [0.2751] Bought a $ 25 Groupon and scheduled an appointment with Erika , she was fantastic and got deep into my back where all the knots were .
+     [0.2566] She worked out all my sore and tight spots .
+     [0.1317] It hurt so good .
+
+Top 5 (weakening):
+     [-0.9823] Had a very relaxing massage and will definitely make another appointment .
+     [-0.8334] Had a massage .
+     [-0.8034] The staff was very polite and the service was excellent .
+     [-0.7746] Place is clean and is a chiropractic office but the important thing was the massage .
+     [-0.7406] I received a wonderful prenatal massage from one of their massage therapists Michelle .
+
+**********
+[0.9745] The office had a clean atmosphere.
+Parent: Customers also enjoyed the clean and professional atmosphere of the office.
+
+Top 5 (supporting):
+     [0.9745] The office is friendly and clean .
+     [0.9634] Place is clean and is a chiropractic office but the important thing was the massage .
+     [0.1841] Nice office atmosphere .
+     [0.0740] I have been going to this office for over a year now and have always been very happy with the quality of care and the friendly staff .
+     [0.0257] A well run professional health care facility .
+
+Top 5 (weakening):
+     [-0.9469] It hurt so good .
+     [-0.9033] Strong hands and great pressure .
+     [-0.8766] She worked out all my sore and tight spots .
+     [-0.6637] Finally a great deep tissue massage !
+     [-0.2688] I left loosened up and discomfort free
+
+**********
+[0.2889] The office had a professional atmosphere.
+Parent: Customers also enjoyed the clean and professional atmosphere of the office.
+
+Top 5 (supporting):
+     [0.2889] A well run professional health care facility .
+     [0.2491] Place is clean and is a chiropractic office but the important thing was the massage .
+     [0.1937] I have been going to this office for over a year now and have always been very happy with the quality of care and the friendly staff .
+     [0.1700] Nice office atmosphere .
+     [0.1250] Front desk gals were great also !
+
+Top 5 (weakening):
+     [-0.4981] It hurt so good .
+     [-0.3847] they have a great massage .
+     [-0.2873] Fantastic massage .
+     [-0.1130] Had a massage .
+     [-0.1020] I left loosened up and discomfort free

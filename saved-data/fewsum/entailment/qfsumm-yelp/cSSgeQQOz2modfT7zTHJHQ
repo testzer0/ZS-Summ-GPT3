@@ -1,0 +1,223 @@
+Summary:
+
+Highly recommend Tyler was our server and was very attentive and dimitrii is the manager and also came by our table to check in on our experience .
+Great for groups due to the communal seating .
+The pizza Carne is really good , and pasta taste fresh too.Service is fast !
+The communal tables are interesting and fun .
+Food is beyond delicious .
+
+**********
+[0.8773] Tyler was a good server.
+Parent: Highly recommend Tyler was our server and was very attentive and dimitrii is the manager and also came by our table to check in on our experience .
+
+Top 5 (supporting):
+     [0.8773] Highly recommend Tyler was our server and was very attentive and dimitrii is the manager and also came by our table to check in on our experience .
+     [0.0199] Great service .
+     [0.0161] Kindly greeted and periodically asked how dinner was without interrupting the table .
+     [0.0156] The food and service were amazing !
+     [0.0123] Antipasto was beautifully presented and very tasty .
+
+Top 5 (weakening):
+     [-0.4792] Sadly the wait staff did not follow though on the service end : (
+     [-0.2269] Dmitri , the manager , does a fantastic job of asking for feedback while building rapport with new customers .
+     [-0.1263] Descent service .
+     [-0.1244] Reasonably priced bottles of wine for under 50 .
+     [-0.1071] It took forever for our entrees to arrive , with no explanation or apologies .
+
+**********
+[0.9780] Tyler was attentive.
+Parent: Highly recommend Tyler was our server and was very attentive and dimitrii is the manager and also came by our table to check in on our experience .
+
+Top 5 (supporting):
+     [0.9780] Highly recommend Tyler was our server and was very attentive and dimitrii is the manager and also came by our table to check in on our experience .
+     [0.2677] Kindly greeted and periodically asked how dinner was without interrupting the table .
+     [0.0845] First and foremost this place is stunning .
+     [0.0782] Beautiful space , excellent service but for me the food was just ok .
+     [0.0754] # TwoEntrepreneursApproved
+
+Top 5 (weakening):
+     [-0.4990] Server never asked if we wanted anything to drink .
+     [-0.2191] Dmitri , the manager , does a fantastic job of asking for feedback while building rapport with new customers .
+     [-0.1422] It took forever for our entrees to arrive , with no explanation or apologies .
+     [-0.1191] Sadly the wait staff did not follow though on the service end : (
+     [-0.1150] Smaller portions but fresh quality ingredients make up for it .
+
+**********
+[0.9868] Dimitrii is a manager.
+Parent: Highly recommend Tyler was our server and was very attentive and dimitrii is the manager and also came by our table to check in on our experience .
+
+Top 5 (supporting):
+     [0.9868] Highly recommend Tyler was our server and was very attentive and dimitrii is the manager and also came by our table to check in on our experience .
+     [0.9758] Dmitri , the manager , does a fantastic job of asking for feedback while building rapport with new customers .
+     [0.0000] Trust me !
+     [-0.2182] Kindly greeted and periodically asked how dinner was without interrupting the table .
+     [-0.2500] I think I may have had high expectations for this place but to me it was just average hence the 3 * review .
+
+Top 5 (weakening):
+     [-0.9294] Some pastas can be made vegan / gluten free .
+     [-0.8957] Reasonably priced bottles of wine for under 50 .
+     [-0.8935] Try the home made soda 's as well !
+     [-0.8930] Very heavy foods .
+     [-0.8458] Very good desert .
+
+**********
+[0.9738] Dimitrii visited our table.
+Parent: Highly recommend Tyler was our server and was very attentive and dimitrii is the manager and also came by our table to check in on our experience .
+
+Top 5 (supporting):
+     [0.9738] Highly recommend Tyler was our server and was very attentive and dimitrii is the manager and also came by our table to check in on our experience .
+     [0.0000] Trust me !
+     [-0.0067] The food and service were amazing !
+     [-0.0074] The ambiance in the restaurant was perfect .
+     [-0.0090] Great service .
+
+Top 5 (weakening):
+     [-0.8499] Server never asked if we wanted anything to drink .
+     [-0.6495] Sadly the wait staff did not follow though on the service end : (
+     [-0.6289] Kindly greeted and periodically asked how dinner was without interrupting the table .
+     [-0.4909] Descent service .
+     [-0.3660] It took forever for our entrees to arrive , with no explanation or apologies .
+
+**********
+[0.8578] It is great for groups.
+Parent: Great for groups due to the communal seating .
+
+Top 5 (supporting):
+     [0.8578] Great for groups due to the communal seating .
+     [0.1470] The communal tables are interesting and fun .
+     [0.0147] Great toppings .
+     [0.0135] Highly recommend Tyler was our server and was very attentive and dimitrii is the manager and also came by our table to check in on our experience .
+     [0.0125] I had the spaghetti pomodoro and me friend had the vegetarian lasagna - delicious !
+
+Top 5 (weakening):
+     [-0.3884] Try the home made soda 's as well !
+     [-0.1057] Sadly the wait staff did not follow though on the service end : (
+     [-0.1033] Very good desert .
+     [-0.0809] I found many of the dishes to be lacking flavour and nothing is making me want to rush back .
+     [-0.0442] Server never asked if we wanted anything to drink .
+
+**********
+[0.8506] Seating is in groups.
+Parent: Great for groups due to the communal seating .
+
+Top 5 (supporting):
+     [0.8506] Great for groups due to the communal seating .
+     [0.4992] The communal tables are interesting and fun .
+     [0.0582] # TwoEntrepreneursApproved
+     [0.0102] Overall great experience .
+     [0.0070] Dmitri , the manager , does a fantastic job of asking for feedback while building rapport with new customers .
+
+Top 5 (weakening):
+     [-0.6654] Descent service .
+     [-0.4861] Some pastas can be made vegan / gluten free .
+     [-0.4234] Bright , open atmosphere .
+     [-0.3504] Very good desert .
+     [-0.3283] Very heavy foods .
+
+**********
+[0.9741] Carne is a really good pizza.
+Parent: The pizza Carne is really good , and pasta taste fresh too.Service is fast !
+
+Top 5 (supporting):
+     [0.9741] The pizza Carne is really good , and pasta taste fresh too.Service is fast !
+     [0.1942] The pizza was very good .
+     [0.0344] Great toppings .
+     [0.0296] Antipasto was beautifully presented and very tasty .
+     [0.0276] Smaller portions but fresh quality ingredients make up for it .
+
+Top 5 (weakening):
+     [-0.9773] Reasonably priced bottles of wine for under 50 .
+     [-0.9391] Very good desert .
+     [-0.9224] Ya , I said try the sodas .
+     [-0.9061] The chicken was good .
+     [-0.8153] Kale salad is fantastic .
+
+**********
+[0.9811] Pasta tastes fresh.
+Parent: The pizza Carne is really good , and pasta taste fresh too.Service is fast !
+
+Top 5 (supporting):
+     [0.9811] The pizza Carne is really good , and pasta taste fresh too.Service is fast !
+     [0.0765] Antipasto was beautifully presented and very tasty .
+     [0.0457] We tried the arabiatta pizza and the ravioli - both delicious .
+     [0.0320] I had the spaghetti pomodoro and me friend had the vegetarian lasagna - delicious !
+     [0.0175] Great toppings .
+
+Top 5 (weakening):
+     [-0.8109] Ya , I said try the sodas .
+     [-0.7786] Reasonably priced bottles of wine for under 50 .
+     [-0.6749] The caramel dessert was sublime , probably one of the best desserts I 've ever had .
+     [-0.5696] The chicken was good .
+     [-0.5561] Try the home made soda 's as well !
+
+**********
+[0.9520] Service is fast.
+Parent: The pizza Carne is really good , and pasta taste fresh too.Service is fast !
+
+Top 5 (supporting):
+     [0.9520] The pizza Carne is really good , and pasta taste fresh too.Service is fast !
+     [0.0913] Kindly greeted and periodically asked how dinner was without interrupting the table .
+     [0.0114] Amazing food and great staff .
+     [0.0101] Great toppings .
+     [0.0075] Beautiful space , excellent service but for me the food was just ok .
+
+Top 5 (weakening):
+     [-0.9900] It took forever for our entrees to arrive , with no explanation or apologies .
+     [-0.2033] Sadly the wait staff did not follow though on the service end : (
+     [-0.1216] Some pastas can be made vegan / gluten free .
+     [-0.0782] Very good desert .
+     [-0.0594] Server never asked if we wanted anything to drink .
+
+**********
+[0.8328] The communal tables are good.
+Parent: The communal tables are interesting and fun .
+
+Top 5 (supporting):
+     [0.8328] The communal tables are interesting and fun .
+     [0.0490] Even though they do not allow substitutions , the food here is absolutely superb ... From the bolognese pizza to the kale & caesar salads and salmon .
+     [0.0359] The ambiance in the restaurant was perfect .
+     [0.0156] Good food .
+     [0.0147] Food is beyond delicious .
+
+Top 5 (weakening):
+     [-0.4839] Great for groups due to the communal seating .
+     [-0.3532] Ya , I said try the sodas .
+     [-0.2234] The brochettes were interesting .
+     [-0.1850] Descent service .
+     [-0.1190] The caramel dessert was sublime , probably one of the best desserts I 've ever had .
+
+**********
+[0.9659] Communal tables are fun.
+Parent: The communal tables are interesting and fun .
+
+Top 5 (supporting):
+     [0.9659] The communal tables are interesting and fun .
+     [0.0019] Overall great experience .
+     [0.0000] Trust me !
+     [-0.0116] I went there two times for lunch.Yummy !
+     [-0.0190] The ambiance in the restaurant was perfect .
+
+Top 5 (weakening):
+     [-0.5788] Descent service .
+     [-0.5402] Reasonably priced bottles of wine for under 50 .
+     [-0.3856] I found many of the dishes to be lacking flavour and nothing is making me want to rush back .
+     [-0.3768] Great for groups due to the communal seating .
+     [-0.3666] The caramel dessert was sublime , probably one of the best desserts I 've ever had .
+
+**********
+[0.9273] Food is good.
+Parent: Food is beyond delicious .
+
+Top 5 (supporting):
+     [0.9273] Food was very good .
+     [0.9179] Food is beyond delicious .
+     [0.8680] Even though they do not allow substitutions , the food here is absolutely superb ... From the bolognese pizza to the kale & caesar salads and salmon .
+     [0.8653] Good food .
+     [0.8260] Amazing food and great staff .
+
+Top 5 (weakening):
+     [-0.9262] Beautiful space , excellent service but for me the food was just ok .
+     [-0.8499] I found many of the dishes to be lacking flavour and nothing is making me want to rush back .
+     [-0.3966] Reasonably priced bottles of wine for under 50 .
+     [-0.3324] Descent service .
+     [-0.2512] # TwoEntrepreneursApproved

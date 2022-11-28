@@ -1,0 +1,129 @@
+Summary:
+
+Overall, reviewers thought that the food was average or decent, but nothing spectacular. There were some complaints about the service being slow or poor, and about hygiene issues at the restaurant. Some people also thought that the portions were on the small side.
+
+**********
+[0.9011] The food was average.
+Parent: Overall, reviewers thought that the food was average or decent, but nothing spectacular.
+
+Top 5 (supporting):
+     [0.9011] However , the food is kind of bland in tastes .
+     [0.8870] Food is ok , it 's consistent but average.2.
+     [0.7896] The portions are on the small side and the food Is just ok .
+     [0.6000] Honestly , the food was just okay but the service was so bad that I can 't give , what used to be a decent restaurant , anything more than one star .
+     [0.5751] Definitely beats mall food court food .. not bad food and really good service .
+
+Top 5 (weakening):
+     [-0.9930] The food was also really delicious at a decent price as well .
+     [-0.9919] The variety on their menu is crazy , there is definitely something for everyone .
+     [-0.9918] My friends got the triple decker grilled cheese sandwich with bacon and they really liked it so all in all it was a good experience and the food was really filling .
+     [-0.9910] The fries were yikes .
+     [-0.9867] However the food was a disappointment .
+
+**********
+[0.9154] The food was decent.
+Parent: Overall, reviewers thought that the food was average or decent, but nothing spectacular.
+
+Top 5 (supporting):
+     [0.9154] Food was O.K.
+     [0.8804] Definitely beats mall food court food .. not bad food and really good service .
+     [0.8783] The food is always decent .
+     [0.8015] Food is ok , it 's consistent but average.2.
+     [0.7926] I was there for lunch and thought the restaurant , service and food was very good .
+
+Top 5 (weakening):
+     [-0.9931] This location is just bad , the food is terrible and service is average at best .
+     [-0.9898] However the food was a disappointment .
+     [-0.9173] Fries was stale and the burger was oily as hell .
+     [-0.9119] I ordered the avocado and chicken grilled cheese and was greeted by extremely hard oily bread and bland tasting chicken .
+     [-0.9066] Soggy and nasty .
+
+**********
+[0.9770] The food was not spectacular.
+Parent: Overall, reviewers thought that the food was average or decent, but nothing spectacular.
+
+Top 5 (supporting):
+     [0.9770] However the food was a disappointment .
+     [0.9768] The portions are on the small side and the food Is just ok .
+     [0.9731] This location is just bad , the food is terrible and service is average at best .
+     [0.9669] Honestly , the food was just okay but the service was so bad that I can 't give , what used to be a decent restaurant , anything more than one star .
+     [0.9644] Food is ok , it 's consistent but average.2.
+
+Top 5 (weakening):
+     [-0.9865] The food was also really delicious at a decent price as well .
+     [-0.9703] I had the chicken wings as an appetizer and the BBQ chicken as my main , which I both enjoyed very much , especially the main .
+     [-0.9695] My friends got the triple decker grilled cheese sandwich with bacon and they really liked it so all in all it was a good experience and the food was really filling .
+     [-0.9587] The variety on their menu is crazy , there is definitely something for everyone .
+     [-0.9314] I always receive good service from the wait staff and I always enjoy the food here .
+
+**********
+[0.5876] The service was slow.
+Parent: There were some complaints about the service being slow or poor, and about hygiene issues at the restaurant.
+
+Top 5 (supporting):
+     [0.5876] Both times we 've been to this pickle barrel we have had to wait an extremely long time for our food and the staff did not regularly fill our drinks nor ask if everything was ok .
+     [0.2502] Was promptly seated at a table and it all went downhill afterwards .
+     [0.2392] Plus , we went in on a non busy day and service was still problematic .
+     [0.0751] Service is not great , as they seem to be under staffed .
+     [0.0722] All staff are unfriendly and not helping .. And I ask for managers phone number , they tell me to go get it at front desk by myself .. gosh !
+
+Top 5 (weakening):
+     [-0.9301] Waitress talked too fast to the point where I didnt even know what she was saying anymore .
+     [-0.9266] I always receive good service from the wait staff and I always enjoy the food here .
+     [-0.7323] Definitely beats mall food court food .. not bad food and really good service .
+     [-0.6797] She provided me all the services I needed within two - three minutes of request .
+     [-0.6345] Great service and nice atmosphere , would recommend : ) !
+
+**********
+[0.9725] The service was poor.
+Parent: There were some complaints about the service being slow or poor, and about hygiene issues at the restaurant.
+
+Top 5 (supporting):
+     [0.9725] The overall service was poor and it has been consistently poor rhe last few times i have been there .
+     [0.9557] Honestly , the food was just okay but the service was so bad that I can 't give , what used to be a decent restaurant , anything more than one star .
+     [0.9312] Service sucks !
+     [0.9180] Quite possibly the worst service ever .
+     [0.8495] The service there has gotten bad to worse .
+
+Top 5 (weakening):
+     [-0.9979] I always receive good service from the wait staff and I always enjoy the food here .
+     [-0.9976] Great service and nice atmosphere , would recommend : ) !
+     [-0.9966] Definitely beats mall food court food .. not bad food and really good service .
+     [-0.9960] Our server , Summaya , was amazing .
+     [-0.9940] I was there for lunch and thought the restaurant , service and food was very good .
+
+**********
+[0.5300] There were complaints about hygiene at the restaurant.
+Parent: There were some complaints about the service being slow or poor, and about hygiene issues at the restaurant.
+
+Top 5 (supporting):
+     [0.5300] There was still food on the chair when we were seated , the menus were sticky and there was paper towel all over the floor in the washroom .
+     [0.1499] Bringing down the rating because they have some hygiene issues when business is better .
+     [0.1133] Both times we 've been to this pickle barrel we have had to wait an extremely long time for our food and the staff did not regularly fill our drinks nor ask if everything was ok .
+     [0.0916] The soup was very salty and not well made .
+     [0.0681] Fries was stale and the burger was oily as hell .
+
+Top 5 (weakening):
+     [-0.3596] Because of the large screen .
+     [-0.2772] Food was O.K.
+     [-0.2122] A great comfortable place to dine in !
+     [-0.1899] But definitely nit bad at anything .
+     [-0.1230] Bad for people who have trouble deciding what to order as their menu is too large and not focused .
+
+**********
+[0.9842] The portions were on the small side.
+Parent: Some people also thought that the portions were on the small side.
+
+Top 5 (supporting):
+     [0.9842] The portions are on the small side and the food Is just ok .
+     [0.9751] And the portion is on the small side for the price .
+     [0.0237] Worst place ever in the world .
+     [0.0224] Had to wait 5 min just to get a seat .
+     [0.0200] Nothing spectacular .
+
+Top 5 (weakening):
+     [-0.9740] My friends got the triple decker grilled cheese sandwich with bacon and they really liked it so all in all it was a good experience and the food was really filling .
+     [-0.9718] The price is reasonable and the food is in big portion .
+     [-0.9436] Bad for people who have trouble deciding what to order as their menu is too large and not focused .
+     [-0.8257] Because of the large screen .
+     [-0.6640] The fish batter was way too thick .

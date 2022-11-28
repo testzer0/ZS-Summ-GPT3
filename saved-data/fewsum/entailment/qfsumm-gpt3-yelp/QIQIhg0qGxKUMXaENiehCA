@@ -1,0 +1,129 @@
+Summary:
+
+The product is generally well-liked, with people praising the quality of the burgers, fries, and chili. Some people find the store itself unappealing, but most people seem to overlook that in favor of the food. There is some criticism of the long wait times, but overall people seem to be happy with the product.
+
+**********
+[0.6048] The burgers are of high quality.
+Parent: The product is generally well-liked, with people praising the quality of the burgers, fries, and chili.
+
+Top 5 (supporting):
+     [0.6048] The burger is really good .
+     [0.4759] Best Burger and fries in town ! !
+     [0.0782] No where can you find a better hotdog , fries compliment either chili dog or Carolina hamburger .
+     [0.0709] The fresh hand cut fries are my favorite .
+     [0.0529] If you 're looking for a good , cheap burger and you happen to be in town , this is the place to be !
+
+Top 5 (weakening):
+     [-0.5922] Great chili !
+     [-0.3792] The store is less than appealing .
+     [-0.1048] A Rock Hill landmark .
+     [-0.0356] Get the home fries and a bottle of Cheerwine and you can die happy .
+     [-0.0076] Food takes a bit long , though , in my opinion .
+
+**********
+[0.3574] The fries are of high quality.
+Parent: The product is generally well-liked, with people praising the quality of the burgers, fries, and chili.
+
+Top 5 (supporting):
+     [0.3574] Best Burger and fries in town ! !
+     [0.3215] The fresh hand cut fries are my favorite .
+     [0.0176] No where can you find a better hotdog , fries compliment either chili dog or Carolina hamburger .
+     [0.0175] Love the burgers and home cut fries !
+     [0.0153] I have not had anything bad from this place , although it 's hard to order anything other than the Cheeseburger and fries .
+
+Top 5 (weakening):
+     [-0.2990] The store is less than appealing .
+     [-0.1239] Great chili !
+     [-0.0824] A Rock Hill landmark .
+     [-0.0098] It may be a little homely inside , but I like it !
+     [-0.0089] Food takes a bit long , though , in my opinion .
+
+**********
+[0.2395] The chili is high quality.
+Parent: The product is generally well-liked, with people praising the quality of the burgers, fries, and chili.
+
+Top 5 (supporting):
+     [0.2395] Great chili !
+     [0.0128] No where can you find a better hotdog , fries compliment either chili dog or Carolina hamburger .
+     [0.0078] They even us the local delivery service which make it even better .
+     [0.0051] It 's my 3rd favorite in Rock Hill behind Legal Remedy and Flipside .
+     [0.0047] It is hard for me to get past their Cheesburger with mustard , chili and onions .
+
+Top 5 (weakening):
+     [-0.5137] The burger is really good .
+     [-0.3235] The store is less than appealing .
+     [-0.2065] Best Burger and fries in town ! !
+     [-0.1604] I love the Big Ben burger here and would recommend this place to anyone !
+     [-0.1470] Get the home fries and a bottle of Cheerwine and you can die happy .
+
+**********
+[0.9568] The store is unappealing.
+Parent: Some people find the store itself unappealing, but most people seem to overlook that in favor of the food.
+
+Top 5 (supporting):
+     [0.9568] The store is less than appealing .
+     [0.0000] !
+     [0.0000] !
+     [0.0000] ! !
+     [0.0000] ! !
+
+Top 5 (weakening):
+     [-0.9961] Awesome fresh food !
+     [-0.9956] I love this place .
+     [-0.9955] I love the Big Ben burger here and would recommend this place to anyone !
+     [-0.9951] Loved this place .
+     [-0.9950] Love the burgers and home cut fries !
+
+**********
+[0.0000] Most people overlook that in favor of the food.
+Parent: Some people find the store itself unappealing, but most people seem to overlook that in favor of the food.
+
+Top 5 (supporting):
+     [0.0000] !
+     [0.0000] !
+     [0.0000] ! !
+     [0.0000] ! !
+     [-0.0074] Awesome fresh food !
+
+Top 5 (weakening):
+     [-0.1140] I love this place .
+     [-0.0999] They even us the local delivery service which make it even better .
+     [-0.0984] Loved this place .
+     [-0.0795] Service is friendly and portions are plenty .
+     [-0.0777] The fresh hand cut fries are my favorite .
+
+**********
+[0.5884] The long wait times are criticized.
+Parent: There is some criticism of the long wait times, but overall people seem to be happy with the product.
+
+Top 5 (supporting):
+     [0.5884] Only complaint is it takes a little long to get your food but well worth the wait !
+     [0.1741] Food takes a bit long , though , in my opinion .
+     [0.0000] !
+     [0.0000] !
+     [0.0000] ! !
+
+Top 5 (weakening):
+     [-0.2281] It is convenient to where I work .
+     [-0.1744] So I preorder over the phone and pick it up /
+     [-0.1344] They even us the local delivery service which make it even better .
+     [-0.0691] Great chili !
+     [-0.0677] We had a hamburger , hot dog and french fries .
+
+**********
+[0.2082] People are happy with the product.
+Parent: There is some criticism of the long wait times, but overall people seem to be happy with the product.
+
+Top 5 (supporting):
+     [0.2082] My grandfather introduced me to Sonnys and now my kids go there .. Hard to find these kind of places anymore .. Love love love it !
+     [0.1585] Get the home fries and a bottle of Cheerwine and you can die happy .
+     [0.0858] Love the burgers and home cut fries !
+     [0.0710] Loved this place .
+     [0.0422] They even us the local delivery service which make it even better .
+
+Top 5 (weakening):
+     [-0.7536] The store is less than appealing .
+     [-0.0233] Food takes a bit long , though , in my opinion .
+     [-0.0172] I love this place .
+     [-0.0003] It feels very family run .
+     [0.0000] ! !

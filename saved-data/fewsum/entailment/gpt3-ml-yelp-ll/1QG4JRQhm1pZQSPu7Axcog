@@ -1,0 +1,57 @@
+Summary:
+
+The product was reviewed positively for its quick service, friendly staff, and fair prices.
+
+**********
+[0.6857] The product had quick service.
+Parent: The product was reviewed positively for its quick service, friendly staff, and fair prices.
+
+Top 5 (supporting):
+     [0.6857] Quick service .
+     [0.6682] They got to me quick and did an good job for a good price .
+     [0.5242] super fast service !
+     [0.4577] Was in need of getting my car unlocked , Mike had me back in it in about 30 minutes .
+     [0.3700] It was late at night and After speaking to a nice woman Named April I had a truck on the way to me right away .
+
+Top 5 (weakening):
+     [-0.8443] While visiting friends from out of town I had an issue with my transmission .
+     [-0.2618] I especially appreciated that he explained every step .
+     [-0.1100] He was kind and polite .
+     [-0.0607] He was efficient , thorough , and courteous .
+     [-0.0084] They sent Art to help with my dead battery after I called AAA .
+
+**********
+[0.9575] The staff was friendly.
+Parent: The product was reviewed positively for its quick service, friendly staff, and fair prices.
+
+Top 5 (supporting):
+     [0.9575] Super friendly and great staff .
+     [0.6780] Excellent service , very personable guy .
+     [0.5002] He was kind and polite .
+     [0.3750] Jim Hampton the owner of Tatman 's Towing is one of the nicest guys in the buisness him and his associates are all very trained professionals in their field , they do way more than just towing also , I have used this company for years and will always call for my roadside needs .
+     [0.2644] He was efficient , thorough , and courteous .
+
+Top 5 (weakening):
+     [-0.1673] While visiting friends from out of town I had an issue with my transmission .
+     [0.0018] I especially appreciated that he explained every step .
+     [0.0043] They sent Art to help with my dead battery after I called AAA .
+     [0.0056] Tatman 's Towing is great .
+     [0.0059] super fast service !
+
+**********
+[0.9432] The product was fairly priced.
+Parent: The product was reviewed positively for its quick service, friendly staff, and fair prices.
+
+Top 5 (supporting):
+     [0.9432] They got to me quick and did an good job for a good price .
+     [0.5389] Seemed like a fair price and helped me out for sure .
+     [0.0066] Highly recommend
+     [0.0042] Tatman 's Towing is great .
+     [0.0035] I would definitely use them again if I needed a tow .
+
+Top 5 (weakening):
+     [-0.0512] Mike is such a friendly guy and I can 't ask for a better service !
+     [-0.0309] While visiting friends from out of town I had an issue with my transmission .
+     [-0.0213] I especially appreciated that he explained every step .
+     [-0.0188] They sent Art to help with my dead battery after I called AAA .
+     [-0.0134] Quick service .

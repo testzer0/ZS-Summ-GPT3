@@ -1,0 +1,129 @@
+Summary:
+
+The reviews of this product were mostly positive, with people especially liking the build-your-own burger option. Some people found the burgers to be average, and one person did not like the shakes because they made them sick. Overall, people thought the burgers were good, the service was friendly, and the atmosphere was pleasant.
+
+**********
+[0.8917] This product was good.
+Parent: The reviews of this product were mostly positive, with people especially liking the build-your-own burger option.
+
+Top 5 (supporting):
+     [0.8917] Pretzel bun was good too .
+     [0.7761] Good burger , glad we went .
+     [0.7665] Drinks were good and atmosphere was right .
+     [0.7628] Burger was great and the wait time was pretty sure even during busy hours .
+     [0.7453] Came in and got the fried ravioli as an appetizer , and it was beyond amazing .
+
+Top 5 (weakening):
+     [-0.9531] Tries to be Burgatory and isn 't up to par .
+     [-0.9516] Service sucks .
+     [-0.9249] Just average .
+     [-0.8862] However I say skip the burger , totally not worth it .
+     [-0.8761] Everything is fairly average .
+
+**********
+[0.9469] The build-your-own burger option was good.
+Parent: The reviews of this product were mostly positive, with people especially liking the build-your-own burger option.
+
+Top 5 (supporting):
+     [0.9469] The make-your-own burgers are awesome , but I really love the quesadillas .
+     [0.9444] Food is excellent , love the build your burger set up .
+     [0.9297] We really enjoyed our pick your topping burgers ... my daughter picked mac and cheese to top hers !
+     [0.8310] One of the coolest Build your own burger places I 've visited ...
+     [0.6847] Build your own burger is the most ideal burger dining situation , especially for a vegetarian eating with meat lovers .
+
+Top 5 (weakening):
+     [-0.7323] How does a burger place not let you pick how you want your burger cooked ? !
+     [-0.6423] They have gluten free bun options and they 're actually good buns .
+     [-0.4499] Texas Toast with peanut butter is great ! !
+     [-0.4318] Came in and got the fried ravioli as an appetizer , and it was beyond amazing .
+     [-0.4242] However I say skip the burger , totally not worth it .
+
+**********
+[0.4246] The burgers were average.
+Parent: Some people found the burgers to be average, and one person did not like the shakes because they made them sick.
+
+Top 5 (supporting):
+     [0.4246] It 's an average burger joint on a college campus .
+     [0.2584] I guess it 's just another mediocre burger place in Pittsburgh .
+     [0.0000] !
+     [0.0000] Amazing .
+     [0.0000] Love it .
+
+Top 5 (weakening):
+     [-0.9947] These burgers are awesome !
+     [-0.9946] The burgers are always delicious and properly prepared .
+     [-0.9938] The make-your-own burgers are awesome , but I really love the quesadillas .
+     [-0.9937] The burger was delicious !
+     [-0.9906] Burger was great and the wait time was pretty sure even during busy hours .
+
+**********
+[0.7245] The shakes made the person sick.
+Parent: Some people found the burgers to be average, and one person did not like the shakes because they made them sick.
+
+Top 5 (supporting):
+     [0.7245] Would probably give it a three star if I didn 't get the terrible stomachache from their shakes .
+     [0.0000] !
+     [0.0000] Amazing .
+     [0.0000] Love it .
+     [0.0000] !
+
+Top 5 (weakening):
+     [-0.9952] The burger was very juicy and tasty .
+     [-0.9942] Got the chicken fingers with normal French fries and they were also delicious .
+     [-0.9942] Pleasant atmosphere and great service .
+     [-0.9937] The burger was delicious !
+     [-0.9932] These burgers are awesome !
+
+**********
+[0.8907] The burgers were good.
+Parent: Overall, people thought the burgers were good, the service was friendly, and the atmosphere was pleasant.
+
+Top 5 (supporting):
+     [0.8907] We really enjoyed our pick your topping burgers ... my daughter picked mac and cheese to top hers !
+     [0.8867] These burgers are awesome !
+     [0.8795] Burger was great and the wait time was pretty sure even during busy hours .
+     [0.8422] Burgers where to die for !
+     [0.8374] Good burger , glad we went .
+
+Top 5 (weakening):
+     [-0.8929] The milkshakes are amazing , would love to see a dairy-free one in the future .
+     [-0.8592] A variety of draft beers and my son enjoyed his milkshake .
+     [-0.8439] I guess it 's just another mediocre burger place in Pittsburgh .
+     [-0.8336] However I say skip the burger , totally not worth it .
+     [-0.8229] Came in and got the fried ravioli as an appetizer , and it was beyond amazing .
+
+**********
+[0.9392] The service was friendly.
+Parent: Overall, people thought the burgers were good, the service was friendly, and the atmosphere was pleasant.
+
+Top 5 (supporting):
+     [0.9392] Staff was attentive and very friendly .
+     [0.8927] Delicious food , friendly service , and a great selection of beers .
+     [0.8844] Very decent burgs and shakes for reasonable prices , plus friendly service !
+     [0.8491] Also very friendly waitresses .
+     [0.8369] There isn 't a huge variety in food selection , but they have a bar with friendly service and a solid amount of TVs if you 're into whatever game is on .
+
+Top 5 (weakening):
+     [-0.9711] Service sucks .
+     [-0.8799] Tries to be Burgatory and isn 't up to par .
+     [-0.8680] Made wrong item and blamed us for ordering wrong !
+     [-0.8304] Ordered takeout online and when I went to pick it up all the lights were shut off and doors were locked !
+     [-0.6945] They messed up my order slightly and the restaurant was super cold .
+
+**********
+[0.9571] The atmosphere was pleasant.
+Parent: Overall, people thought the burgers were good, the service was friendly, and the atmosphere was pleasant.
+
+Top 5 (supporting):
+     [0.9571] Pleasant atmosphere and great service .
+     [0.8916] Great atmosphere , friendly staff , really good food .
+     [0.8698] Great staff , great environment , good specials !
+     [0.8480] Drinks were good and atmosphere was right .
+     [0.6678] Everyone was super friendly
+
+Top 5 (weakening):
+     [-0.9416] They messed up my order slightly and the restaurant was super cold .
+     [-0.9289] Tries to be Burgatory and isn 't up to par .
+     [-0.8530] Joke place !
+     [-0.7814] Service sucks .
+     [-0.7391] Not planning on any trips back to this place anytime soon especially on a Pitt Basketball game night .

@@ -1,0 +1,129 @@
+Summary:
+
+Overall, reviewers thought the food was delicious, with a good variety of options. They were also impressed with the friendly service and fast, clean dining experience. There were a few complaints about the plastic utensils and the small size of the restaurant, but overall reviewers would definitely recommend this restaurant to others.
+
+**********
+[0.9592] The food was delicious.
+Parent: Overall, reviewers thought the food was delicious, with a good variety of options.
+
+Top 5 (supporting):
+     [0.9592] As always the food was delicious and served promptly .
+     [0.9574] The food is delicious .
+     [0.9413] The food was wonderfully flavorful and even my picky eater declared her food delicious !
+     [0.8977] Tasty food and fresh .
+     [0.8604] It was absolutely delicious , tasty and filling !
+
+Top 5 (weakening):
+     [-0.9948] The food wasn 't absolutely terrible but nowhere near good enough for a repeat visit .
+     [-0.9582] Ordered a burrito must of had a miss communication got a bowl no biggie food was a little bland there was plenty of it though
+     [-0.9155] The empanada was good , but not excellent .
+     [-0.8736] Tasted good but did not sit well in my stomach .
+     [-0.8700] Chicken was quite dry and bland but with the salsa went down easy .
+
+**********
+[0.9632] The food had a good variety of options.
+Parent: Overall, reviewers thought the food was delicious, with a good variety of options.
+
+Top 5 (supporting):
+     [0.9632] The menu has a wide variety of healthy options and comfort foods .
+     [0.9263] Excellent food , fresh , hand made and a great variety of a la carte items .
+     [0.7325] Food here is GREAT the menu is full of yummy goodness .
+     [0.7325] Food here is GREAT the menu is full of yummy goodness .
+     [0.6582] Variety of sauces was a great adventure in flavor .
+
+Top 5 (weakening):
+     [-0.2193] These are unusable .
+     [-0.2018] In addition the place was dirty .
+     [-0.1182] I hope they serve house red wine and not just beer .
+     [-0.1152] Even though it was super authentic like grandmas cooking , it is pretty darn good .
+     [-0.0995] First time here , had our first experience in noda , which was perfect and on point.This location serves waaaaaaaay less quality mexican foods compares t their noda location.I hate their flip screen POS that pretty forces ( default at ) service fees of 20 % .
+
+**********
+[0.9699] The service was friendly.
+Parent: They were also impressed with the friendly service and fast, clean dining experience.
+
+Top 5 (supporting):
+     [0.9699] The service is friendly , and the chicken arepa is ridiculously good .
+     [0.9658] Service was great and friendly .
+     [0.9462] Awesome food , more than enough food and VERY friendly service !
+     [0.8639] Service is great , staff is friendly , and the nachos are amazing .
+     [0.8543] Super friendly staff also .
+
+Top 5 (weakening):
+     [-0.6873] In addition the place was dirty .
+     [-0.6083] These are unusable .
+     [-0.1521] I would say that I 'm sorry for cheating on Qdoba but , I 'm not at all sorry .
+     [-0.1378] # saborislife
+     [-0.1370] My daughter and I share an order and we can never finish them .
+
+**********
+[0.9626] The dining experience was fast and clean.
+Parent: They were also impressed with the friendly service and fast, clean dining experience.
+
+Top 5 (supporting):
+     [0.9626] Superior service , fast , clean , fresh food , salsa buffet , and the cherry on top : queso ! !
+     [0.7744] I love this place , it 's not expensive and the food is fast and amazing !
+     [0.7742] Clean and fast service .
+     [0.7048] The people working were super nice and the food came out really quickly .
+     [0.7048] The people working were super nice and the food came out really quickly .
+
+Top 5 (weakening):
+     [-0.9838] In addition the place was dirty .
+     [-0.9715] The only complain I have is that the fries get soggy and so did my quesadilla .
+     [-0.9699] Variety of sauces was a great adventure in flavor .
+     [-0.9525] We went to the hawthorne location but it was way to loud and busy .
+     [-0.8968] Great nachos that consume an entire pizza pan .
+
+**********
+[0.9371] The plastic utensils were not good.
+Parent: There were a few complaints about the plastic utensils and the small size of the restaurant, but overall reviewers would definitely recommend this restaurant to others.
+
+Top 5 (supporting):
+     [0.9371] The plastic utensils are the worst thing about this location , the utensils seem small and are flimsy .
+     [0.0609] Could you get some decent plastic utensils , please ?
+     [0.0389] First time here , had our first experience in noda , which was perfect and on point.This location serves waaaaaaaay less quality mexican foods compares t their noda location.I hate their flip screen POS that pretty forces ( default at ) service fees of 20 % .
+     [0.0130] These are unusable .
+     [0.0059] The only complain I have is that the fries get soggy and so did my quesadilla .
+
+Top 5 (weakening):
+     [-0.9842] Pattrick took our order and made us a couple margaritas that hit the spot !
+     [-0.9836] Yuca fries- crunchy outside , supple inside- yummy ! !
+     [-0.9830] Carne asada covered fries were tasty .
+     [-0.9792] The margaritas are also fantastic .
+     [-0.9772] The Sabor Special Burrito is excellent and huge in size .
+
+**********
+[0.1617] The restaurant was too small.
+Parent: There were a few complaints about the plastic utensils and the small size of the restaurant, but overall reviewers would definitely recommend this restaurant to others.
+
+Top 5 (supporting):
+     [0.1617] Great food , VERY limited seating ( approx .
+     [0.0271] They could definitely use more seating or just a bigger place .
+     [0.0239] It 's too popular to be in such a small location .
+     [0.0000] !
+     [0.0000] !
+
+Top 5 (weakening):
+     [-0.9701] The portions are huge , and super fresh ingredients .
+     [-0.9537] The Sabor Special Burrito is excellent and huge in size .
+     [-0.9490] Portions were nice sized and freshly made to order .
+     [-0.8783] Food was excellent and the portions were more than generous ! !
+     [-0.8629] Huge nachos !
+
+**********
+[0.6380] Reviewers recommend this restaurant.
+Parent: There were a few complaints about the plastic utensils and the small size of the restaurant, but overall reviewers would definitely recommend this restaurant to others.
+
+Top 5 (supporting):
+     [0.6380] This place has the best food and the guacamole is the best we 've had since leaving California .
+     [0.5173] One of our favorite places for lunch or dinner .
+     [0.4909] This is on our regular places to eat .
+     [0.4245] One of our new favorite places to grab a quick meal .
+     [0.4016] We loved the food !
+
+Top 5 (weakening):
+     [-0.5500] The food wasn 't absolutely terrible but nowhere near good enough for a repeat visit .
+     [-0.4258] No judgement lol .
+     [-0.3110] These are unusable .
+     [-0.1593] The plastic utensils are the worst thing about this location , the utensils seem small and are flimsy .
+     [-0.1513] No judgment lol .

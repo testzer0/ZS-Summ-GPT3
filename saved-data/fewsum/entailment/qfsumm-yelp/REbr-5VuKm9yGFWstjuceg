@@ -1,0 +1,187 @@
+Summary:
+
+A great variety of tasty sandwiches filled with various meats and cheeses at a reasonable price .
+Super fast service ; delivery took 10 minutes from order to front door .
+Good sandwiches , great price !
+A great variety of sandwiches at a reasonable price .
+Now it 's a great sandwich shop .
+
+**********
+[0.7182] The sandwiches are tasty.
+Parent: A great variety of tasty sandwiches filled with various meats and cheeses at a reasonable price .
+
+Top 5 (supporting):
+     [0.7182] A great variety of tasty sandwiches filled with various meats and cheeses at a reasonable price .
+     [0.3599] Best sandwich I 've had in Vegas , can 't wait to come back !
+     [0.3265] Ordered some sandwiches and they were awesome .
+     [0.2551] I had the Tommy Tom unwhich and it was so tasty
+     [0.1176] I especially like the lettuce wrapped sandwhich and will be back for more
+
+Top 5 (weakening):
+     [-0.4481] I won 't be ordering from this location again as it has become a total waste of money .
+     [-0.1591] Anytime I order from this location they forget something .
+     [-0.1171] Clean surroundings with cool postings on their walls !
+     [-0.1171] Clean surroundings with cool postings on their walls !
+     [-0.0505] I also always ask for extra veggies and never receive them .
+
+**********
+[0.9762] The sandwiches are filled with meats and cheeses.
+Parent: A great variety of tasty sandwiches filled with various meats and cheeses at a reasonable price .
+
+Top 5 (supporting):
+     [0.9762] A great variety of tasty sandwiches filled with various meats and cheeses at a reasonable price .
+     [0.0007] Best sandwich I 've had in Vegas , can 't wait to come back !
+     [0.0005] I had the Tommy Tom unwhich and it was so tasty
+     [0.0004] Good sandwiches , great price !
+     [0.0001] Ive been here a few times for ljnch and have really enjoyed it .
+
+Top 5 (weakening):
+     [-0.8722] I especially like the lettuce wrapped sandwhich and will be back for more
+     [-0.5732] Clean surroundings with cool postings on their walls !
+     [-0.5732] Clean surroundings with cool postings on their walls !
+     [-0.5148] I also always ask for extra veggies and never receive them .
+     [-0.2796] Just as they claim , " Subs so fast you 'll freak ! "
+
+**********
+[0.9613] The sandwiches are reasonably priced.
+Parent: A great variety of tasty sandwiches filled with various meats and cheeses at a reasonable price .
+
+Top 5 (supporting):
+     [0.9613] A great variety of sandwiches at a reasonable price .
+     [0.9450] A great variety of tasty sandwiches filled with various meats and cheeses at a reasonable price .
+     [0.3071] Good sandwiches , great price !
+     [0.0070] Now it 's a great sandwich shop .
+     [0.0038] Ive been here a few times for ljnch and have really enjoyed it .
+
+Top 5 (weakening):
+     [-0.5395] I won 't be ordering from this location again as it has become a total waste of money .
+     [-0.0599] Anytime I order from this location they forget something .
+     [-0.0317] Clean surroundings with cool postings on their walls !
+     [-0.0317] Clean surroundings with cool postings on their walls !
+     [-0.0290] Just as they claim , " Subs so fast you 'll freak ! "
+
+**********
+[0.9696] Service was fast.
+Parent: Super fast service ; delivery took 10 minutes from order to front door .
+
+Top 5 (supporting):
+     [0.9696] Super fast service ; delivery took 10 minutes from order to front door .
+     [0.8047] Our delivery guy Kylon was really nice and quick .
+     [0.6798] Just as they claim , " Subs so fast you 'll freak ! "
+     [0.5647] Hardly got my meal paid for and before I can walk away from the register , it 's ready !
+     [0.0146] Great customer service ! !
+
+Top 5 (weakening):
+     [-0.7818] I also always ask for extra veggies and never receive them .
+     [-0.7557] Anytime I order from this location they forget something .
+     [-0.7168] I won 't be ordering from this location again as it has become a total waste of money .
+     [-0.0660] R people serious with there bad reviews does this look like some uppity sandwich spot .
+     [-0.0554] skme of the best sandwhichs in Vegas .
+
+**********
+[0.9932] Delivery was 10 minutes from order to front door.
+Parent: Super fast service ; delivery took 10 minutes from order to front door .
+
+Top 5 (supporting):
+     [0.9932] Super fast service ; delivery took 10 minutes from order to front door .
+     [0.1467] Hardly got my meal paid for and before I can walk away from the register , it 's ready !
+     [0.0014] Our delivery guy Kylon was really nice and quick .
+     [0.0000] !
+     [0.0000] Love it !
+
+Top 5 (weakening):
+     [-0.1562] I also always ask for extra veggies and never receive them .
+     [-0.0609] Anytime I order from this location they forget something .
+     [-0.0271] Clean surroundings with cool postings on their walls !
+     [-0.0271] Clean surroundings with cool postings on their walls !
+     [-0.0224] I won 't be ordering from this location again as it has become a total waste of money .
+
+**********
+[0.8729] The sandwiches are good.
+Parent: Good sandwiches , great price !
+
+Top 5 (supporting):
+     [0.8729] Ordered some sandwiches and they were awesome .
+     [0.8343] Good sandwiches , great price !
+     [0.7518] Best sandwich I 've had in Vegas , can 't wait to come back !
+     [0.4208] A great variety of tasty sandwiches filled with various meats and cheeses at a reasonable price .
+     [0.2638] I especially like the lettuce wrapped sandwhich and will be back for more
+
+Top 5 (weakening):
+     [-0.2705] I won 't be ordering from this location again as it has become a total waste of money .
+     [-0.1028] Clean surroundings with cool postings on their walls !
+     [-0.1028] Clean surroundings with cool postings on their walls !
+     [-0.0883] Anytime I order from this location they forget something .
+     [-0.0416] I also always ask for extra veggies and never receive them .
+
+**********
+[0.9320] The price is good.
+Parent: Good sandwiches , great price !
+
+Top 5 (supporting):
+     [0.9320] Good sandwiches , great price !
+     [0.6712] A great variety of sandwiches at a reasonable price .
+     [0.5647] A great variety of tasty sandwiches filled with various meats and cheeses at a reasonable price .
+     [0.0096] Now it 's a great sandwich shop .
+     [0.0067] Ive been here a few times for ljnch and have really enjoyed it .
+
+Top 5 (weakening):
+     [-0.9596] I won 't be ordering from this location again as it has become a total waste of money .
+     [-0.0321] Great customer service ! !
+     [-0.0269] Just as they claim , " Subs so fast you 'll freak ! "
+     [-0.0205] Anytime I order from this location they forget something .
+     [-0.0140] I also always ask for extra veggies and never receive them .
+
+**********
+[0.9883] There was a great variety of sandwiches.
+Parent: A great variety of sandwiches at a reasonable price .
+
+Top 5 (supporting):
+     [0.9883] A great variety of tasty sandwiches filled with various meats and cheeses at a reasonable price .
+     [0.9790] A great variety of sandwiches at a reasonable price .
+     [0.0267] Good sandwiches , great price !
+     [0.0155] Now it 's a great sandwich shop .
+     [0.0087] Ordered some sandwiches and they were awesome .
+
+Top 5 (weakening):
+     [-0.7998] I won 't be ordering from this location again as it has become a total waste of money .
+     [-0.7579] It 's simple a sandwich , chips , and drink ... sounds like perfection to me ... there for sure better then subway I 'll be honest !
+     [-0.3020] I also always ask for extra veggies and never receive them .
+     [-0.1770] Anytime I order from this location they forget something .
+     [-0.1348] Clean surroundings with cool postings on their walls !
+
+**********
+[0.7932] It was a reasonable price.
+Parent: A great variety of sandwiches at a reasonable price .
+
+Top 5 (supporting):
+     [0.7932] A great variety of sandwiches at a reasonable price .
+     [0.7357] A great variety of tasty sandwiches filled with various meats and cheeses at a reasonable price .
+     [0.5469] Good sandwiches , great price !
+     [0.0062] Now it 's a great sandwich shop .
+     [0.0042] Just what I needed .
+
+Top 5 (weakening):
+     [-0.9597] I won 't be ordering from this location again as it has become a total waste of money .
+     [-0.1664] Just as they claim , " Subs so fast you 'll freak ! "
+     [-0.0915] Anytime I order from this location they forget something .
+     [-0.0342] R people serious with there bad reviews does this look like some uppity sandwich spot .
+     [-0.0274] I also always ask for extra veggies and never receive them .
+
+**********
+[0.9666] It is a great sandwich shop.
+Parent: Now it 's a great sandwich shop .
+
+Top 5 (supporting):
+     [0.9666] Now it 's a great sandwich shop .
+     [0.5731] Good sandwiches , great price !
+     [0.5136] A great variety of sandwiches at a reasonable price .
+     [0.4250] A great variety of tasty sandwiches filled with various meats and cheeses at a reasonable price .
+     [0.4186] It 's simple a sandwich , chips , and drink ... sounds like perfection to me ... there for sure better then subway I 'll be honest !
+
+Top 5 (weakening):
+     [-0.8676] I won 't be ordering from this location again as it has become a total waste of money .
+     [-0.7981] R people serious with there bad reviews does this look like some uppity sandwich spot .
+     [-0.6472] It used to be a coffee shop .
+     [-0.4656] Clean surroundings with cool postings on their walls !
+     [-0.4656] Clean surroundings with cool postings on their walls !

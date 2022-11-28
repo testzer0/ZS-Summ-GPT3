@@ -1,0 +1,147 @@
+Summary:
+
+Overall, the reviews were positive, with reviewers praising the food, service, and atmosphere of the restaurant. Some reviewers found the portions to be small, but noted that the quality of the ingredients was high. A few reviewers thought that the food was just average, but most thought it was delicious.
+
+**********
+[0.2856] The reviews were positive.
+Parent: Overall, the reviews were positive, with reviewers praising the food, service, and atmosphere of the restaurant.
+
+Top 5 (supporting):
+     [0.2856] Amazing food and great staff .
+     [0.2274] Great service .
+     [0.2147] The food and service were amazing !
+     [0.2036] Great toppings .
+     [0.1910] Overall great experience .
+
+Top 5 (weakening):
+     [-0.9805] I found many of the dishes to be lacking flavour and nothing is making me want to rush back .
+     [-0.7255] I think I may have had high expectations for this place but to me it was just average hence the 3 * review .
+     [-0.1284] Sadly the wait staff did not follow though on the service end : (
+     [-0.0363] Server never asked if we wanted anything to drink .
+     [-0.0145] Smaller portions but fresh quality ingredients make up for it .
+
+**********
+[0.9619] The food was good.
+Parent: Overall, the reviews were positive, with reviewers praising the food, service, and atmosphere of the restaurant.
+
+Top 5 (supporting):
+     [0.9619] Food was very good .
+     [0.8896] Food is beyond delicious .
+     [0.8870] The food and service were amazing !
+     [0.8285] Amazing food and great staff .
+     [0.7472] Good food .
+
+Top 5 (weakening):
+     [-0.9755] Beautiful space , excellent service but for me the food was just ok .
+     [-0.9016] I found many of the dishes to be lacking flavour and nothing is making me want to rush back .
+     [-0.4383] Ya , I said try the sodas .
+     [-0.1478] Reasonably priced bottles of wine for under 50 .
+     [-0.0582] # TwoEntrepreneursApproved
+
+**********
+[0.8681] The service was good.
+Parent: Overall, the reviews were positive, with reviewers praising the food, service, and atmosphere of the restaurant.
+
+Top 5 (supporting):
+     [0.8681] Beautiful space , excellent service but for me the food was just ok .
+     [0.8657] The food and service were amazing !
+     [0.8465] Great service .
+     [0.8245] Amazing food and great staff .
+     [0.4043] The pizza Carne is really good , and pasta taste fresh too.Service is fast !
+
+Top 5 (weakening):
+     [-0.8522] Sadly the wait staff did not follow though on the service end : (
+     [-0.0457] It took forever for our entrees to arrive , with no explanation or apologies .
+     [-0.0264] Very heavy foods .
+     [-0.0231] I think I may have had high expectations for this place but to me it was just average hence the 3 * review .
+     [-0.0227] I found many of the dishes to be lacking flavour and nothing is making me want to rush back .
+
+**********
+[0.9804] The restaurant had a great atmosphere.
+Parent: Overall, the reviews were positive, with reviewers praising the food, service, and atmosphere of the restaurant.
+
+Top 5 (supporting):
+     [0.9804] The ambiance in the restaurant was perfect .
+     [0.6759] Beautiful space , excellent service but for me the food was just ok .
+     [0.1032] Amazing food and great staff .
+     [0.0654] The food and service were amazing !
+     [0.0541] The communal tables are interesting and fun .
+
+Top 5 (weakening):
+     [-0.7031] I think I may have had high expectations for this place but to me it was just average hence the 3 * review .
+     [-0.5633] I found many of the dishes to be lacking flavour and nothing is making me want to rush back .
+     [-0.1329] Sadly the wait staff did not follow though on the service end : (
+     [-0.0514] Descent service .
+     [-0.0290] # TwoEntrepreneursApproved
+
+**********
+[0.7973] The portions were small.
+Parent: Some reviewers found the portions to be small, but noted that the quality of the ingredients was high.
+
+Top 5 (supporting):
+     [0.7973] Smaller portions but fresh quality ingredients make up for it .
+     [0.0067] I found many of the dishes to be lacking flavour and nothing is making me want to rush back .
+     [0.0045] I think I may have had high expectations for this place but to me it was just average hence the 3 * review .
+     [0.0031] The ambiance in the restaurant was perfect .
+     [0.0029] Beautiful space , excellent service but for me the food was just ok .
+
+Top 5 (weakening):
+     [-0.9386] Very heavy foods .
+     [-0.3324] Great for groups due to the communal seating .
+     [-0.1199] Bright , open atmosphere .
+     [-0.1084] The communal tables are interesting and fun .
+     [-0.1059] First and foremost this place is stunning .
+
+**********
+[0.4803] The quality of the ingredients was high.
+Parent: Some reviewers found the portions to be small, but noted that the quality of the ingredients was high.
+
+Top 5 (supporting):
+     [0.4803] Smaller portions but fresh quality ingredients make up for it .
+     [0.0802] Even though they do not allow substitutions , the food here is absolutely superb ... From the bolognese pizza to the kale & caesar salads and salmon .
+     [0.0523] Great toppings .
+     [0.0317] Kale salad is fantastic .
+     [0.0283] Very good desert .
+
+Top 5 (weakening):
+     [-0.1784] I found many of the dishes to be lacking flavour and nothing is making me want to rush back .
+     [-0.0262] I think I may have had high expectations for this place but to me it was just average hence the 3 * review .
+     [-0.0167] Sadly the wait staff did not follow though on the service end : (
+     [-0.0012] Beautiful space , excellent service but for me the food was just ok .
+     [-0.0011] Descent service .
+
+**********
+[0.8430] The food was average.
+Parent: A few reviewers thought that the food was just average, but most thought it was delicious.
+
+Top 5 (supporting):
+     [0.8430] Beautiful space , excellent service but for me the food was just ok .
+     [0.0854] I found many of the dishes to be lacking flavour and nothing is making me want to rush back .
+     [0.0475] I think I may have had high expectations for this place but to me it was just average hence the 3 * review .
+     [0.0000] Trust me !
+     [-0.0045] Sadly the wait staff did not follow though on the service end : (
+
+Top 5 (weakening):
+     [-0.9953] Kale salad is fantastic .
+     [-0.9946] Even though they do not allow substitutions , the food here is absolutely superb ... From the bolognese pizza to the kale & caesar salads and salmon .
+     [-0.9941] Food is beyond delicious .
+     [-0.9941] Antipasto was beautifully presented and very tasty .
+     [-0.9939] We tried the arabiatta pizza and the ravioli - both delicious .
+
+**********
+[0.9184] The food was delicious.
+Parent: A few reviewers thought that the food was just average, but most thought it was delicious.
+
+Top 5 (supporting):
+     [0.9184] Food is beyond delicious .
+     [0.7628] The food and service were amazing !
+     [0.6903] Amazing food and great staff .
+     [0.6035] Food was very good .
+     [0.5216] We tried the arabiatta pizza and the ravioli - both delicious .
+
+Top 5 (weakening):
+     [-0.9970] Beautiful space , excellent service but for me the food was just ok .
+     [-0.9943] I found many of the dishes to be lacking flavour and nothing is making me want to rush back .
+     [-0.7826] I think I may have had high expectations for this place but to me it was just average hence the 3 * review .
+     [-0.7384] Ya , I said try the sodas .
+     [-0.2404] Reasonably priced bottles of wine for under 50 .

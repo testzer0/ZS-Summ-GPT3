@@ -1,0 +1,129 @@
+Summary:
+
+The reviewers said that the barbers at Yelp are skilled and professional, with a great sense of style. They also said that the shop has a great atmosphere, is clean and comfortable, and is fairly priced.
+
+**********
+[0.2295] The reviewers said the barbers at Yelp are skilled.
+Parent: The reviewers said that the barbers at Yelp are skilled and professional, with a great sense of style.
+
+Top 5 (supporting):
+     [0.2295] The barbers here do an outstanding job .
+     [0.1645] Great shop , great barbers .
+     [0.1247] Good music , good beverages , great barbers !
+     [0.1026] Trendy Barber shop with cool atmosphere and nice barbers .
+     [0.0598] Great haircuts , cool people and nice setting !
+
+Top 5 (weakening):
+     [-0.6188] Worst haircut ever .
+     [-0.4567] Stay away from Latino wanna be in second chair from the door he is a joke !
+     [-0.4464] Other than one guy the rest were hacks .
+     [-0.3523] Haven 't been really happy with others I 've been to .
+     [-0.3340] Huge fan of the guys at Brigade ; so glad to see them on their own and killin ' it .
+
+**********
+[0.6510] The barbers at Yelp are professional.
+Parent: The reviewers said that the barbers at Yelp are skilled and professional, with a great sense of style.
+
+Top 5 (supporting):
+     [0.6510] The barbers here do an outstanding job .
+     [0.5289] Every single one of these guys are outstanding barbers .
+     [0.5006] The rest of the barbers in this shop are top quality barbers as well !
+     [0.4749] the barbers are very chill and all of em know what they 're doin.
+     [0.4119] Every cut by every barber at Brigade has been terrific .
+
+Top 5 (weakening):
+     [-0.9569] Worst haircut ever .
+     [-0.8443] My opinion is that it 's Just a pretentious barbershop with one good barber .
+     [-0.8437] Other than one guy the rest were hacks .
+     [-0.8048] Seriously came home and buzzed my head after ... ambience is cool but have had 2 bad haircuts back to back here .
+     [-0.7569] The appeal is towards hipsters .
+
+**********
+[0.2105] The barbers at Yelp have a great sense of style.
+Parent: The reviewers said that the barbers at Yelp are skilled and professional, with a great sense of style.
+
+Top 5 (supporting):
+     [0.2105] Trendy Barber shop with cool atmosphere and nice barbers .
+     [0.1990] For a truly classic cut with a great atmosphere check them out .
+     [0.1200] Every cut by every barber at Brigade has been terrific .
+     [0.1199] My 9 year old son gets his hair cut here as well and they pay the same meticulous attention to his cut as they do mine .
+     [0.1148] I 've never come across a group of barbers that are at the same level as these guys .
+
+Top 5 (weakening):
+     [-0.9474] Worst haircut ever .
+     [-0.7341] Every time I come in I get a humble feeling from all of barbers .
+     [-0.6266] My opinion is that it 's Just a pretentious barbershop with one good barber .
+     [-0.5929] Seriously came home and buzzed my head after ... ambience is cool but have had 2 bad haircuts back to back here .
+     [-0.5439] Other than one guy the rest were hacks .
+
+**********
+[0.9728] The shop has a good atmosphere.
+Parent: They also said that the shop has a great atmosphere, is clean and comfortable, and is fairly priced.
+
+Top 5 (supporting):
+     [0.9728] The shop is a nice welcoming atmosphere and a great place for a haircut .
+     [0.9555] If you want the get your hair cut by some solid barbers in a good atmosphere and drink a beer while waiting , this shop is for you .
+     [0.8065] Trendy Barber shop with cool atmosphere and nice barbers .
+     [0.7864] For a truly classic cut with a great atmosphere check them out .
+     [0.7685] great barbershop to get a cut , really laid back place.
+
+Top 5 (weakening):
+     [-0.9012] Badass shop !
+     [-0.5978] An updated review of 1 star , as the shop has not reached out or even acknowledged my poor experience in their shop .
+     [-0.4750] Worst haircut ever .
+     [-0.3280] You won 't ever go to another place !
+     [-0.3091] Stay away from Latino wanna be in second chair from the door he is a joke !
+
+**********
+[0.9708] The shop is clean.
+Parent: They also said that the shop has a great atmosphere, is clean and comfortable, and is fairly priced.
+
+Top 5 (supporting):
+     [0.9708] Shop was super clean and it was easy to book a time online .
+     [0.4938] Great atmosphere always clean , good music , and cold drinks !
+     [0.4161] Conversation was good , place was clean , and most importantly cut was great and reasonably priced .
+     [0.0648] My 9 year old son gets his hair cut here as well and they pay the same meticulous attention to his cut as they do mine .
+     [0.0641] Clean , with a punk rock / Thrasher feel to it , I felt at home right away .
+
+Top 5 (weakening):
+     [-0.8214] Worst haircut ever .
+     [-0.6201] Great cuts happen here .
+     [-0.3875] My opinion is that it 's Just a pretentious barbershop with one good barber .
+     [-0.3772] I have also had cuts from the other guys .
+     [-0.3108] You won 't ever go to another place !
+
+**********
+[0.8648] The shop is comfortable.
+Parent: They also said that the shop has a great atmosphere, is clean and comfortable, and is fairly priced.
+
+Top 5 (supporting):
+     [0.8648] A quiet and cozy shop that gives you more of a classic barber shop feel .
+     [0.8203] great barbershop to get a cut , really laid back place.
+     [0.7653] The shop is a nice welcoming atmosphere and a great place for a haircut .
+     [0.5214] Great haircut in a relaxed environment.Was a bit busy so I had to wait , but can 't fault them for that.Hair cut was a bit uneven but still quality .
+     [0.4666] Every time I come in I get a humble feeling from all of barbers .
+
+Top 5 (weakening):
+     [-0.6832] Badass shop !
+     [-0.5543] My opinion is that it 's Just a pretentious barbershop with one good barber .
+     [-0.5268] Worst haircut ever .
+     [-0.4777] You won 't ever go to another place !
+     [-0.3035] An updated review of 1 star , as the shop has not reached out or even acknowledged my poor experience in their shop .
+
+**********
+[0.8148] The shop is priced fairly.
+Parent: They also said that the shop has a great atmosphere, is clean and comfortable, and is fairly priced.
+
+Top 5 (supporting):
+     [0.8148] Owned by barbers , great prices , legit pomade .. they always take care of me when I go , FREE BEER !
+     [0.7365] Conversation was good , place was clean , and most importantly cut was great and reasonably priced .
+     [0.4639] great barbershop to get a cut , really laid back place.
+     [0.2268] Easily the best in Tempe ... And for 17 bucks , what a steal .
+     [0.2145] In town for work and was looking for a barbershop that was local for a quick cut .
+
+Top 5 (weakening):
+     [-0.3317] Great cuts happen here .
+     [-0.2864] You won 't ever go to another place !
+     [-0.2811] If you are looking for a quick in and out , this may not be your place .
+     [-0.2247] Worst haircut ever .
+     [-0.1841] Cash only as well- so keep that in mind .

@@ -1,0 +1,93 @@
+Summary:
+
+The product is praised for its location, staff, and quality of massages. Overall, reviewers give the product high marks, although there are some criticisms of the membership policies.
+
+**********
+[0.6285] The product's location is praised.
+Parent: The product is praised for its location, staff, and quality of massages.
+
+Top 5 (supporting):
+     [0.6285] This location is nice , the staff is friendly and I 've enjoyed my visits .
+     [0.6193] This location is superior , in my opinion !
+     [0.4203] It 's my favorite Massage Envy location .
+     [0.3628] Great place !
+     [0.3405] I 've been back since my first visit and I must say it 's a nice location .
+
+Top 5 (weakening):
+     [-0.9444] Not crazy about location due to traffic but still happy with the service .
+     [-0.5572] Not the best experience at all.The front office did make it up by giving me an intro offer and a coupon.I would probably find another location though .
+     [-0.4367] April is great at what she does
+     [-0.3577] Was a member in Ca and not here in Ahwatukee !
+     [-0.1351] Stay clear .
+
+**********
+[0.7166] The product has a great staff.
+Parent: The product is praised for its location, staff, and quality of massages.
+
+Top 5 (supporting):
+     [0.7166] Not only a great deep tissue massage but very personable as is the front desk .
+     [0.5219] The staff is great and the process is always quick and painless .
+     [0.3402] So far all the masseuses have been good the front desk is helpful and kind .
+     [0.2885] This location is nice , the staff is friendly and I 've enjoyed my visits .
+     [0.2677] Love the staff here .
+
+Top 5 (weakening):
+     [-0.7862] Too many bad reviews .
+     [-0.3700] It may just be me that had a bad experience .
+     [-0.3659] Not the best experience at all.The front office did make it up by giving me an intro offer and a coupon.I would probably find another location though .
+     [-0.3065] There is a class action lawsuit going on about this .
+     [-0.1250] He 's a life saver ! !
+
+**********
+[0.8437] The product is good for massages.
+Parent: The product is praised for its location, staff, and quality of massages.
+
+Top 5 (supporting):
+     [0.8437] Not only a great deep tissue massage but very personable as is the front desk .
+     [0.5942] Massages are always great .
+     [0.5615] Great massage.
+     [0.5498] Sarah at Massage Envy was easily the best massage I 've every had .
+     [0.5072] Massages here are usually pretty good .
+
+Top 5 (weakening):
+     [-0.7661] The team here is great !
+     [-0.6830] They charged my credit card $ 95 .
+     [-0.4875] This location is superior , in my opinion !
+     [-0.3629] There is a class action lawsuit going on about this .
+     [-0.3120] Watch out when you try to cancel , any credits you have are gone in 30 days .
+
+**********
+[0.1019] The product is high quality.
+Parent: Overall, reviewers give the product high marks, although there are some criticisms of the membership policies.
+
+Top 5 (supporting):
+     [0.1019] Sarah at Massage Envy was easily the best massage I 've every had .
+     [0.0869] Best massages ever given by Chandler .
+     [0.0806] His technique and professionalism is second to none .
+     [0.0608] Not only a great deep tissue massage but very personable as is the front desk .
+     [0.0605] I just had the most AMAZING massage with Ryan .
+
+Top 5 (weakening):
+     [-0.1384] It may just be me that had a bad experience .
+     [-0.1382] Too many bad reviews .
+     [-0.1245] The team here is great !
+     [-0.1136] Not the best experience at all.The front office did make it up by giving me an intro offer and a coupon.I would probably find another location though .
+     [-0.0423] Love the staff here .
+
+**********
+[0.0001] The membership policies are criticized.
+Parent: Overall, reviewers give the product high marks, although there are some criticisms of the membership policies.
+
+Top 5 (supporting):
+     [0.0001] There is a class action lawsuit going on about this .
+     [0.0000] Polite .
+     [0.0000] Scam
+     [0.0000] !
+     [-0.0034] Not the best experience at all.The front office did make it up by giving me an intro offer and a coupon.I would probably find another location though .
+
+Top 5 (weakening):
+     [-0.4432] Strongly recommend her .
+     [-0.4399] April is great at what she does
+     [-0.4303] I just had the most AMAZING massage with Ryan .
+     [-0.3354] She is the best massage therapist I have ever seen .
+     [-0.2964] Saw Melly for my massage on 6 / 1 .

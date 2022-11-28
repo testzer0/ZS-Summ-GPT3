@@ -1,0 +1,205 @@
+Summary:
+
+So far all the masseuses have been good the front desk is helpful and kind .
+I 've had two massages here with two different therapist , and both timea they have been wonderful .
+Complete bait and switch .
+I get a massage every month for whatever aches and pains I 've had .
+Went in for a massage and was told I had to get a membership .
+
+**********
+[0.9738] The masseuses have been good.
+Parent: So far all the masseuses have been good the front desk is helpful and kind .
+
+Top 5 (supporting):
+     [0.9738] So far all the masseuses have been good the front desk is helpful and kind .
+     [0.7924] I 've had two massages here with two different therapist , and both timea they have been wonderful .
+     [0.6623] Best massages ever given by Chandler .
+     [0.5782] Nicole and Sandy are both good , Sandy for deep tissue and Nicole for wellness and trigger points .
+     [0.4272] Massages here are usually pretty good .
+
+Top 5 (weakening):
+     [-0.9647] Too many bad reviews .
+     [-0.5129] It may just be me that had a bad experience .
+     [-0.4961] Massage was rather short ( 40 minutes for a 1 hour session ) and the therapist was all over the place .
+     [-0.4374] Not the best experience at all.The front office did make it up by giving me an intro offer and a coupon.I would probably find another location though .
+     [-0.4267] There is a class action lawsuit going on about this .
+
+**********
+[0.9526] The front desk is helpful.
+Parent: So far all the masseuses have been good the front desk is helpful and kind .
+
+Top 5 (supporting):
+     [0.9526] So far all the masseuses have been good the front desk is helpful and kind .
+     [0.7983] Not only a great deep tissue massage but very personable as is the front desk .
+     [0.4385] Zina , at the front desk , takes care of me as if she was my personal assistant !
+     [0.2318] Not the best experience at all.The front office did make it up by giving me an intro offer and a coupon.I would probably find another location though .
+     [0.0730] They negotiate the membership if you don 't like the original terms.Good customer service .
+
+Top 5 (weakening):
+     [-0.5606] Massage was great .
+     [-0.5119] Every therapist has been a positive experience .
+     [-0.4332] the massage table was very comfortable and they environment relaxing
+     [-0.4235] She is the best massage therapist I have ever seen .
+     [-0.4175] Massage was rather short ( 40 minutes for a 1 hour session ) and the therapist was all over the place .
+
+**********
+[0.9094] The front desk is good.
+Parent: So far all the masseuses have been good the front desk is helpful and kind .
+
+Top 5 (supporting):
+     [0.9094] So far all the masseuses have been good the front desk is helpful and kind .
+     [0.8559] Not only a great deep tissue massage but very personable as is the front desk .
+     [0.1902] They negotiate the membership if you don 't like the original terms.Good customer service .
+     [0.1551] Zina , at the front desk , takes care of me as if she was my personal assistant !
+     [0.1207] Great office , and ambiance .
+
+Top 5 (weakening):
+     [-0.8178] Massage was great .
+     [-0.6902] I highly recommend a massage from him .
+     [-0.6885] She is the best massage therapist I have ever seen .
+     [-0.6679] Massages are always great .
+     [-0.6617] Too many bad reviews .
+
+**********
+[0.9958] I have had two massages.
+Parent: I 've had two massages here with two different therapist , and both timea they have been wonderful .
+
+Top 5 (supporting):
+     [0.9958] I 've had two massages here with two different therapist , and both timea they have been wonderful .
+     [0.9411] I 've probably averaged 2 massages a year at various places between AZ and CA for the last 9 years .
+     [0.4077] Nicole and Sandy are both good , Sandy for deep tissue and Nicole for wellness and trigger points .
+     [0.2004] Best massages ever given by Chandler .
+     [0.0639] Saw Melly for my massage on 6 / 1 .
+
+Top 5 (weakening):
+     [-0.5059] Too many bad reviews .
+     [-0.4229] There is a class action lawsuit going on about this .
+     [-0.3608] Watch your back .
+     [-0.3262] It may just be me that had a bad experience .
+     [-0.2986] Complete bait and switch .
+
+**********
+[0.9677] Both massages were with different therapists.
+Parent: I 've had two massages here with two different therapist , and both timea they have been wonderful .
+
+Top 5 (supporting):
+     [0.9677] I 've had two massages here with two different therapist , and both timea they have been wonderful .
+     [0.0518] Nicole and Sandy are both good , Sandy for deep tissue and Nicole for wellness and trigger points .
+     [0.0329] Massage was rather short ( 40 minutes for a 1 hour session ) and the therapist was all over the place .
+     [0.0016] the massage table was very comfortable and they environment relaxing
+     [0.0012] Massages here are usually pretty good .
+
+Top 5 (weakening):
+     [-0.7654] So far all the masseuses have been good the front desk is helpful and kind .
+     [-0.6074] Best massages ever given by Chandler .
+     [-0.4531] She is the best massage therapist I have ever seen .
+     [-0.4507] I highly recommend a massage from him .
+     [-0.4436] I was given a gift card for Christmas , I will go back and use it but dont think I will become a customer after .
+
+**********
+[0.9104] The therapists were wonderful both times.
+Parent: I 've had two massages here with two different therapist , and both timea they have been wonderful .
+
+Top 5 (supporting):
+     [0.9104] I 've had two massages here with two different therapist , and both timea they have been wonderful .
+     [0.0229] Nicole and Sandy are both good , Sandy for deep tissue and Nicole for wellness and trigger points .
+     [0.0220] Not only a great deep tissue massage but very personable as is the front desk .
+     [0.0213] Every therapist has been a positive experience .
+     [0.0105] Best massages ever given by Chandler .
+
+Top 5 (weakening):
+     [-0.9850] Not the best experience at all.The front office did make it up by giving me an intro offer and a coupon.I would probably find another location though .
+     [-0.9834] Too many bad reviews .
+     [-0.9041] It may just be me that had a bad experience .
+     [-0.7345] There is a class action lawsuit going on about this .
+     [-0.7078] Massage was rather short ( 40 minutes for a 1 hour session ) and the therapist was all over the place .
+
+**********
+[0.9559] This is a bait and switch.
+Parent: Complete bait and switch .
+
+Top 5 (supporting):
+     [0.9559] Complete bait and switch .
+     [0.0000] Polite .
+     [0.0000] Scam
+     [0.0000] !
+     [-0.0453] Got mixed up on the scheduled appointment day and came in the following day thinking that was my appointment .
+
+Top 5 (weakening):
+     [-0.9601] The staff is great and the process is always quick and painless .
+     [-0.9555] Great place !
+     [-0.9496] Love the staff here .
+     [-0.9482] An all around great experience .
+     [-0.9476] This location is superior , in my opinion !
+
+**********
+[0.6594] Massages are relaxing.
+Parent: I get a massage every month for whatever aches and pains I 've had .
+
+Top 5 (supporting):
+     [0.6594] the massage table was very comfortable and they environment relaxing
+     [0.2051] Massages are always great .
+     [0.1431] I 've had two massages here with two different therapist , and both timea they have been wonderful .
+     [0.1329] Sarah at Massage Envy was easily the best massage I 've every had .
+     [0.1101] Best massages ever given by Chandler .
+
+Top 5 (weakening):
+     [-0.8913] Complete bait and switch .
+     [-0.8754] Watch your back .
+     [-0.8294] There is a class action lawsuit going on about this .
+     [-0.7944] It may just be me that had a bad experience .
+     [-0.7444] Too many bad reviews .
+
+**********
+[0.9577] Getting a massage helps with aches and pains.
+Parent: I get a massage every month for whatever aches and pains I 've had .
+
+Top 5 (supporting):
+     [0.9577] I get a massage every month for whatever aches and pains I 've had .
+     [0.0505] Jeffery got all of my knots out !
+     [0.0486] Since I 've been going I 've discovered that I have had far fewer aches since I 've been going regularly .
+     [0.0200] Not only a great deep tissue massage but very personable as is the front desk .
+     [0.0149] He 's a gentle giant that saved my back tonight .
+
+Top 5 (weakening):
+     [-0.7061] Watch your back .
+     [-0.6655] Too many bad reviews .
+     [-0.6424] It may just be me that had a bad experience .
+     [-0.5643] There is a class action lawsuit going on about this .
+     [-0.4841] Complete bait and switch .
+
+**********
+[0.9935] I got a massage.
+Parent: Went in for a massage and was told I had to get a membership .
+
+Top 5 (supporting):
+     [0.9935] Massage was rather short ( 40 minutes for a 1 hour session ) and the therapist was all over the place .
+     [0.9935] I just had the most AMAZING massage with Ryan .
+     [0.9901] Sarah at Massage Envy was easily the best massage I 've every had .
+     [0.9896] Went in for a massage and was told I had to get a membership .
+     [0.9840] Saw Melly for my massage on 6 / 1 .
+
+Top 5 (weakening):
+     [-0.9689] Not the best experience at all.The front office did make it up by giving me an intro offer and a coupon.I would probably find another location though .
+     [-0.9565] Complete bait and switch .
+     [-0.9461] Watch your back .
+     [-0.9403] They charged my credit card $ 95 .
+     [-0.9243] Jeffery got all of my knots out !
+
+**********
+[0.9772] I had to get a membership.
+Parent: Went in for a massage and was told I had to get a membership .
+
+Top 5 (supporting):
+     [0.9772] Went in for a massage and was told I had to get a membership .
+     [0.0000] Polite .
+     [0.0000] Scam
+     [0.0000] !
+     [-0.0458] It 's my favorite Massage Envy location .
+
+Top 5 (weakening):
+     [-0.7281] I was given a gift card for Christmas , I will go back and use it but dont think I will become a customer after .
+     [-0.7243] They charged my credit card $ 95 .
+     [-0.6889] There is a class action lawsuit going on about this .
+     [-0.5918] They are very good about working around your schedule and accommodating to your request .
+     [-0.5583] He 's a gentle giant that saved my back tonight .

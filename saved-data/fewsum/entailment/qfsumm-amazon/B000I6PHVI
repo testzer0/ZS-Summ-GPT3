@@ -1,0 +1,277 @@
+Summary:
+
+I don ' t like plastic product , no matter how it works .
+Buttons are flimsy , and become easily stuck , as they are not a good fit with the housing .
+The lid is terribly design .
+But the product looks nice , and I have returned it becasue I don ' t like the material .
+Does all it advertises and more have been using almost everyday and I really like to cook my meals with it , steaming chicken , broccoli and potatoes as I am writing this .
+
+**********
+[0.9890] I don't like plastic products.
+Parent: I don ' t like plastic product , no matter how it works .
+
+Top 5 (supporting):
+     [0.9890] I don 't like plastic product , no matter how it works .
+     [0.0341] Honestly i dont know why this product is on the market but i does tell to avoid Deni products .
+     [0.0192] Worst steamer ever !
+     [0.0152] But the product looks nice , and I have returned it becasue I don 't like the material .
+     [0.0125] I can cook quick and healthy !
+
+Top 5 (weakening):
+     [-0.9724] Great product.Works perfectly.A lots of space to cook for a family of 4 / 5.I highly recommend this product .
+     [-0.9670] i love this steamer .
+     [-0.9544] I later purchased one for our home and just love using it .
+     [-0.9504] It 's fantastic !
+     [-0.9298] I use it all the time and am thinking about purchasing another one for a gift .
+
+**********
+[0.0000] It works.
+Parent: I don ' t like plastic product , no matter how it works .
+
+Top 5 (supporting):
+     [0.0000] Great item for the kitchen saves energy .
+     [0.0000] We already have a Deni steamer so a friend liked it so we bought one for her , would like to find a metal one though as we are not sure how long the plastic trays will last .
+     [0.0000] Very easy to clean and no sweat in operating
+     [0.0000] The size is great , i can cook with ease .
+     [0.0000] i love this steamer .
+
+Top 5 (weakening):
+     [0.0000] I don 't like plastic product , no matter how it works .
+     [0.0000] That 's my personal opinion .
+     [0.0000] But the product looks nice , and I have returned it becasue I don 't like the material .
+     [0.0000] THIS PRODUCT DID NOT EVEN START TO STEAM !
+     [0.0000] I WANTED TO RETURN IT THE SECOND I LEARNED IT 'S DEFECTIVE ...
+
+**********
+[0.8042] Buttons are not sturdy.
+Parent: Buttons are flimsy , and become easily stuck , as they are not a good fit with the housing .
+
+Top 5 (supporting):
+     [0.8042] Buttons are flimsy , and become easily stuck , as they are not a good fit with the housing .
+     [0.6578] Buttons began to sink from the start .
+     [0.3856] Liked this product while it was working , but the on / off button failed before 1 year.The jury is still out on whether the manufacturer will replace / repair.I don 't wish to pay for return shipping.I liked the large capacity , which is the reason purchased.The control buttons were funky from the beginning .
+     [0.3398] i HAVE BOUGHT SEVERAL STEAMERS AND THIS ONE IS CHEAPLY BUILT AND THE POWER BUTTON STUCK AND THEN BROKE AFTER JUST A FEW USES
+     [0.3300] I was not a good steamer I used it one time and shipped it back the buttons would stick on it and you could not adjust the time on it .
+
+Top 5 (weakening):
+     [-0.8848] The product is the best ever ! !
+     [-0.7903] it works perfect for steam foods !
+     [-0.7809] Great product.Works perfectly.A lots of space to cook for a family of 4 / 5.I highly recommend this product .
+     [-0.7546] the steamer is great ! !
+     [-0.7298] Great item for the kitchen saves energy .
+
+**********
+[0.9463] Buttons become stuck.
+Parent: Buttons are flimsy , and become easily stuck , as they are not a good fit with the housing .
+
+Top 5 (supporting):
+     [0.9463] Buttons are flimsy , and become easily stuck , as they are not a good fit with the housing .
+     [0.9337] I was not a good steamer I used it one time and shipped it back the buttons would stick on it and you could not adjust the time on it .
+     [0.9131] On / off button got stuck after 1st use and I 've never used it again .
+     [0.8729] i HAVE BOUGHT SEVERAL STEAMERS AND THIS ONE IS CHEAPLY BUILT AND THE POWER BUTTON STUCK AND THEN BROKE AFTER JUST A FEW USES
+     [0.7484] Buttons began to sink from the start .
+
+Top 5 (weakening):
+     [-0.9014] From vegetables to fish and chicken , they all come out perfect !
+     [-0.8936] Nothing wrong !
+     [-0.8883] Very easy to clean and no sweat in operating
+     [-0.8722] Very easy to use .
+     [-0.8420] The product is the best ever ! !
+
+**********
+[0.9791] Buttons do not fit well with the housing.
+Parent: Buttons are flimsy , and become easily stuck , as they are not a good fit with the housing .
+
+Top 5 (supporting):
+     [0.9791] Buttons are flimsy , and become easily stuck , as they are not a good fit with the housing .
+     [0.1272] I was not a good steamer I used it one time and shipped it back the buttons would stick on it and you could not adjust the time on it .
+     [0.1019] The lid is terribly design .
+     [0.0621] Buttons began to sink from the start .
+     [0.0517] i HAVE BOUGHT SEVERAL STEAMERS AND THIS ONE IS CHEAPLY BUILT AND THE POWER BUTTON STUCK AND THEN BROKE AFTER JUST A FEW USES
+
+Top 5 (weakening):
+     [-0.8895] Great item for the kitchen saves energy .
+     [-0.8789] Great product.Works perfectly.A lots of space to cook for a family of 4 / 5.I highly recommend this product .
+     [-0.8607] The product is the best ever ! !
+     [-0.8525] I later purchased one for our home and just love using it .
+     [-0.8260] From vegetables to fish and chicken , they all come out perfect !
+
+**********
+[0.9895] The lid is badly designed.
+Parent: The lid is terribly design .
+
+Top 5 (supporting):
+     [0.9895] The lid is terribly design .
+     [0.0480] I haven 't even used this steamer because the tiers and lid don 't seem to fit properly .
+     [0.0235] Design is bad too .
+     [0.0180] Worst steamer ever !
+     [0.0038] It 's almost criminal to sell something so poorly made .
+
+Top 5 (weakening):
+     [-0.9690] It 's fantastic !
+     [-0.9551] The meat was nicely cooked and even the wonton wrap.The steam disburment was just perfect .
+     [-0.9516] Great product.Works perfectly.A lots of space to cook for a family of 4 / 5.I highly recommend this product .
+     [-0.9512] The product is the best ever ! !
+     [-0.9308] Easy to put together , easy to use , easy to clean .
+
+**********
+[0.8746] The product is nice.
+Parent: But the product looks nice , and I have returned it becasue I don ' t like the material .
+
+Top 5 (supporting):
+     [0.8746] But the product looks nice , and I have returned it becasue I don 't like the material .
+     [0.7824] I really like the look of this product , however , it does not program well .
+     [0.7420] Great product.Works perfectly.A lots of space to cook for a family of 4 / 5.I highly recommend this product .
+     [0.6830] The product is the best ever ! !
+     [0.6827] the steamer is great ! !
+
+Top 5 (weakening):
+     [-0.9753] Worst steamer ever !
+     [-0.9367] Never buy this brand again .
+     [-0.9083] Not happy about this product though .
+     [-0.8899] I WANTED TO RETURN IT THE SECOND I LEARNED IT 'S DEFECTIVE ...
+     [-0.8707] upon receiving the box , i was somewhat disappointed : it seems fragile.
+
+**********
+[0.9778] I don't like the material.
+Parent: But the product looks nice , and I have returned it becasue I don ' t like the material .
+
+Top 5 (supporting):
+     [0.9778] But the product looks nice , and I have returned it becasue I don 't like the material .
+     [0.9224] I don 't like plastic product , no matter how it works .
+     [0.3500] I do not like cooked carrots , but steamed - they taste just like raw carrots ( which I love ) !
+     [0.1006] Worst steamer ever !
+     [0.0765] It 's almost criminal to sell something so poorly made .
+
+Top 5 (weakening):
+     [-0.9928] i love this steamer .
+     [-0.9873] Does all it advertises and more have been using almost everyday and I really like to cook my meals with it , steaming chicken , broccoli and potatoes as I am writing this .
+     [-0.9866] I love my steamer .
+     [-0.9833] I love it my corn on the cob , carrots and broccoli tastes so fresh , my cousin purchase a steamer and I purchase a Deni and it work for me love to steam .. my cousin never used hers .
+     [-0.9807] the steamer is great ! !
+
+**********
+[0.7984] The product is effective.
+Parent: Does all it advertises and more have been using almost everyday and I really like to cook my meals with it , steaming chicken , broccoli and potatoes as I am writing this .
+
+Top 5 (supporting):
+     [0.7984] it arrived on time and is very useful ! !
+     [0.6878] Great product.Works perfectly.A lots of space to cook for a family of 4 / 5.I highly recommend this product .
+     [0.6168] Does all it advertises and more have been using almost everyday and I really like to cook my meals with it , steaming chicken , broccoli and potatoes as I am writing this .
+     [0.5281] Deni 7600 3-Tier 9-1 / 2-Quart Stainless-Steel Digital Food Steamer Works great !
+     [0.2975] The steamer worked great for about 2 months after we bought it .
+
+Top 5 (weakening):
+     [-0.9503] I WANTED TO RETURN IT THE SECOND I LEARNED IT 'S DEFECTIVE ...
+     [-0.9453] Web-site deni doesn 't work .
+     [-0.9408] Steamer doesn 't work !
+     [-0.8369] Worst steamer ever !
+     [-0.8093] Not reliable appliance !
+
+**********
+[0.3081] The product is better than it advertises.
+Parent: Does all it advertises and more have been using almost everyday and I really like to cook my meals with it , steaming chicken , broccoli and potatoes as I am writing this .
+
+Top 5 (supporting):
+     [0.3081] Does all it advertises and more have been using almost everyday and I really like to cook my meals with it , steaming chicken , broccoli and potatoes as I am writing this .
+     [0.0465] From vegetables to fish and chicken , they all come out perfect !
+     [0.0288] The product is the best ever ! !
+     [0.0205] There is nothing better than steamed vegetables .
+     [0.0108] The meat was nicely cooked and even the wonton wrap.The steam disburment was just perfect .
+
+Top 5 (weakening):
+     [-0.7802] Its just the product itself wasn 't as good as i had hoped !
+     [-0.6975] I WANTED TO RETURN IT THE SECOND I LEARNED IT 'S DEFECTIVE ...
+     [-0.6477] upon receiving the box , i was somewhat disappointed : it seems fragile.
+     [-0.6090] Never buy this brand again .
+     [-0.5642] Not at all !
+
+**********
+[0.9723] The product is used almost everyday.
+Parent: Does all it advertises and more have been using almost everyday and I really like to cook my meals with it , steaming chicken , broccoli and potatoes as I am writing this .
+
+Top 5 (supporting):
+     [0.9723] Does all it advertises and more have been using almost everyday and I really like to cook my meals with it , steaming chicken , broccoli and potatoes as I am writing this .
+     [0.9379] Purchased one for my daughter for a gift , she is always saying how much she is enjoying it , so I purchased one for myself.I use my steamer almost every day .
+     [0.4361] I use it all the time and am thinking about purchasing another one for a gift .
+     [0.3369] Bought it for my 94 year old mom , she loves it , we use it all the time.Tracie Bobb , Philadelphia , Pa .
+     [0.2303] If you are going to use it daily it is going to quit working after about 30 or so days .
+
+Top 5 (weakening):
+     [-0.9515] On / off button got stuck after 1st use and I 've never used it again .
+     [-0.9184] I only use it for less than 5 times before it is broken .
+     [-0.8936] I have used the steamer just a couple of times .
+     [-0.8783] I haven 't even used this steamer because the tiers and lid don 't seem to fit properly .
+     [-0.8488] Never buy this brand again .
+
+**********
+[0.8783] The product is good for cooking meals.
+Parent: Does all it advertises and more have been using almost everyday and I really like to cook my meals with it , steaming chicken , broccoli and potatoes as I am writing this .
+
+Top 5 (supporting):
+     [0.8783] Does all it advertises and more have been using almost everyday and I really like to cook my meals with it , steaming chicken , broccoli and potatoes as I am writing this .
+     [0.7584] Also a healthy way to cook you food .
+     [0.6615] Can cook an entire meal in 20 minutes.
+     [0.6298] The size is great , i can cook with ease .
+     [0.6289] We have cooked about 4 meals on it and this is great tasting food and the best thing is we are eating very healthy now .
+
+Top 5 (weakening):
+     [-0.6261] Never buy this brand again .
+     [-0.6156] Please don 't buy it !
+     [-0.5922] The panel is actually hard to read .
+     [-0.5782] ; O ( WASTE OF TIME .
+     [-0.4526] old used 8 times First the view window went out Now nothing works To bad so sad Jw
+
+**********
+[0.8284] The product is good for steaming chicken.
+Parent: Does all it advertises and more have been using almost everyday and I really like to cook my meals with it , steaming chicken , broccoli and potatoes as I am writing this .
+
+Top 5 (supporting):
+     [0.8284] Does all it advertises and more have been using almost everyday and I really like to cook my meals with it , steaming chicken , broccoli and potatoes as I am writing this .
+     [0.0000] ! !
+     [0.0000] ! !
+     [0.0000] !
+     [0.0000] !
+
+Top 5 (weakening):
+     [-0.9087] My daughter moved to seattle so the seafood is great with this unit !
+     [-0.8485] There is nothing better than steamed vegetables .
+     [-0.8003] old used 8 times First the view window went out Now nothing works To bad so sad Jw
+     [-0.7857] The bowl for steaming rice etc is so small it is a joke .
+     [-0.7543] Never buy this brand again .
+
+**********
+[0.8068] The product is good for steaming broccoli.
+Parent: Does all it advertises and more have been using almost everyday and I really like to cook my meals with it , steaming chicken , broccoli and potatoes as I am writing this .
+
+Top 5 (supporting):
+     [0.8068] Does all it advertises and more have been using almost everyday and I really like to cook my meals with it , steaming chicken , broccoli and potatoes as I am writing this .
+     [0.6754] I love it my corn on the cob , carrots and broccoli tastes so fresh , my cousin purchase a steamer and I purchase a Deni and it work for me love to steam .. my cousin never used hers .
+     [0.0000] ! !
+     [0.0000] ! !
+     [0.0000] !
+
+Top 5 (weakening):
+     [-0.8483] My daughter moved to seattle so the seafood is great with this unit !
+     [-0.7433] Never buy this brand again .
+     [-0.7305] old used 8 times First the view window went out Now nothing works To bad so sad Jw
+     [-0.6160] Please don 't buy it !
+     [-0.6109] The panel is actually hard to read .
+
+**********
+[0.8697] The product is good for steaming potatoes.
+Parent: Does all it advertises and more have been using almost everyday and I really like to cook my meals with it , steaming chicken , broccoli and potatoes as I am writing this .
+
+Top 5 (supporting):
+     [0.8697] Does all it advertises and more have been using almost everyday and I really like to cook my meals with it , steaming chicken , broccoli and potatoes as I am writing this .
+     [0.0000] ! !
+     [0.0000] ! !
+     [0.0000] !
+     [0.0000] !
+
+Top 5 (weakening):
+     [-0.7248] old used 8 times First the view window went out Now nothing works To bad so sad Jw
+     [-0.6879] My daughter moved to seattle so the seafood is great with this unit !
+     [-0.6112] The panel is actually hard to read .
+     [-0.6099] Never buy this brand again .
+     [-0.5403] Please don 't buy it !

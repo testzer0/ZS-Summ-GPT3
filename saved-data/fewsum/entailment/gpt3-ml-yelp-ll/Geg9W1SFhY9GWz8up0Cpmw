@@ -1,0 +1,147 @@
+Summary:
+
+The reviews were positive overall, with people praising the food and atmosphere. The fish and chips, barbecue sandwich, and beef brisket were all singled out as being particularly good. The only negative comment was about the fish, which was said to be "so so."
+
+**********
+[0.4161] The reviews were positive.
+Parent: The reviews were positive overall, with people praising the food and atmosphere.
+
+Top 5 (supporting):
+     [0.4161] My buddy had a barbecue sandwich and he said it was very good .
+     [0.2863] Good BBQ and great atmosphere .
+     [0.2678] Great green beans and mash potatoes leaving one to desire seconds .
+     [0.2425] great wings .
+     [0.2177] Best I 've ever had .
+
+Top 5 (weakening):
+     [-0.9855] It was filthy and the food was salty and awful .
+     [-0.5257] Atmosphere and service lacked a bit , but food makes up for it .
+     [-0.0139] Fish , so so stick with the beef , pork and chicken .
+     [-0.0076] I am visiting the area .
+     [-0.0032] First time eating here .
+
+**********
+[0.9781] The food was good.
+Parent: The reviews were positive overall, with people praising the food and atmosphere.
+
+Top 5 (supporting):
+     [0.9781] The food was good .
+     [0.8437] Sad to say they closed permanently on April 30 , 2015Great food and really great service .
+     [0.5711] Atmosphere and service lacked a bit , but food makes up for it .
+     [0.5404] Club sandwich is good .
+     [0.5361] I had fish and chips that were great .
+
+Top 5 (weakening):
+     [-0.9939] It was filthy and the food was salty and awful .
+     [-0.0009] I am visiting the area .
+     [-0.0006] Happy to have discovered !
+     [-0.0004] Stopped here after shopping at concord mills .
+     [0.0000] Bar none .
+
+**********
+[0.7679] The atmosphere was praiseworthy.
+Parent: The reviews were positive overall, with people praising the food and atmosphere.
+
+Top 5 (supporting):
+     [0.7679] Good BBQ and great atmosphere .
+     [0.2567] It has a nice pub atmosphere and the staff was friendly and good .
+     [0.0882] Natalie the bartender is pleasant and attentive .
+     [0.0551] great wings .
+     [0.0403] Moist and tasty .
+
+Top 5 (weakening):
+     [-0.9670] It was filthy and the food was salty and awful .
+     [-0.9271] Atmosphere and service lacked a bit , but food makes up for it .
+     [-0.1291] Club sandwich is good .
+     [-0.1086] The food was good .
+     [-0.0719] I had the beer can chicken .
+
+**********
+[0.9648] The fish and chips were good.
+Parent: The fish and chips, barbecue sandwich, and beef brisket were all singled out as being particularly good.
+
+Top 5 (supporting):
+     [0.9648] I had fish and chips that were great .
+     [0.0088] The Nachos are great to order and share too , if you 're not too hungry .
+     [0.0053] Will defintely be back .
+     [0.0049] Moist and tasty .
+     [0.0040] Ordered the DY Cheesesteak and Fish and Chips ... And cleaned our plates .
+
+Top 5 (weakening):
+     [-0.9709] I had the beer can chicken .
+     [-0.9132] Great fried pickles.
+     [-0.8265] Try the smoke wings .
+     [-0.7822] I go out of my way to stop here and get the cheesesteak .
+     [-0.6738] Great green beans and mash potatoes leaving one to desire seconds .
+
+**********
+[0.4709] The barbecue sandwich was good.
+Parent: The fish and chips, barbecue sandwich, and beef brisket were all singled out as being particularly good.
+
+Top 5 (supporting):
+     [0.4709] My buddy had a barbecue sandwich and he said it was very good .
+     [0.3558] Good BBQ and great atmosphere .
+     [0.0090] Moist and tasty .
+     [0.0061] Will defintely be back .
+     [0.0048] Atmosphere and service lacked a bit , but food makes up for it .
+
+Top 5 (weakening):
+     [-0.9787] I had the beer can chicken .
+     [-0.8744] Ate the blue devil sandwich and tavern fries .
+     [-0.8041] I go out of my way to stop here and get the cheesesteak .
+     [-0.7411] I had fish and chips that were great .
+     [-0.6885] It was filthy and the food was salty and awful .
+
+**********
+[0.7954] The beef brisket was particularly good.
+Parent: The fish and chips, barbecue sandwich, and beef brisket were all singled out as being particularly good.
+
+Top 5 (supporting):
+     [0.7954] The beef brisket is amazing .
+     [0.0007] Will defintely be back .
+     [0.0007] Would definitely eat here again if I 'm in the area .
+     [0.0000] Bar none .
+     [-0.0003] I would recommend it and come back again .
+
+Top 5 (weakening):
+     [-0.9507] I had the beer can chicken .
+     [-0.8123] It was filthy and the food was salty and awful .
+     [-0.6799] Try the smoke wings .
+     [-0.5707] Great fried pickles.
+     [-0.5054] Best cheesesteak in town .
+
+**********
+[0.0000] The fish was the only negative comment.
+Parent: The only negative comment was about the fish, which was said to be "so so."
+
+Top 5 (supporting):
+     [0.0000] Bar none .
+     [-0.0149] I don 't like chain restaurants so this place was a great find .
+     [-0.0172] Would definitely eat here again if I 'm in the area .
+     [-0.0192] It has a nice pub atmosphere and the staff was friendly and good .
+     [-0.0274] The food was good .
+
+Top 5 (weakening):
+     [-0.9421] I had fish and chips that were great .
+     [-0.8661] The beef brisket is amazing .
+     [-0.8559] Try the smoke wings .
+     [-0.8493] Fries are not my favorite but ok . Service is good .
+     [-0.8371] Moist and tasty .
+
+**********
+[0.6584] The fish was "so so."
+Parent: The only negative comment was about the fish, which was said to be "so so."
+
+Top 5 (supporting):
+     [0.6584] Fish , so so stick with the beef , pork and chicken .
+     [0.0000] Bar none .
+     [-0.0048] One of our favorite restaurants an so so so much better the the chain restaurants
+     [-0.0156] First time eating here .
+     [-0.0255] In town for the race and we were driving around looking for lunch and happened upon this place .
+
+Top 5 (weakening):
+     [-0.9914] Excellent DYs cheesesteak .
+     [-0.9848] The beef brisket is amazing .
+     [-0.9809] I had fish and chips that were great .
+     [-0.9753] great wings .
+     [-0.9512] Moist and tasty .

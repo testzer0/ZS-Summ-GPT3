@@ -1,0 +1,111 @@
+Summary:
+
+The Yelp reviews for El Campesino were generally positive, with reviewers praising the food, service, and value. Some reviewers noted that the salsa could be improved, but overall people enjoyed their experience at the restaurant.
+
+**********
+[0.0048] The Yelp reviews were good.
+Parent: The Yelp reviews for El Campesino were generally positive, with reviewers praising the food, service, and value.
+
+Top 5 (supporting):
+     [0.0048] Our server was awesome and gave very good recommendations .
+     [0.0040] Good selection of food for all ages .
+     [0.0037] Great place to go with friends .
+     [0.0030] The chps and salsa were great !
+     [0.0025] Sososo yummy !
+
+Top 5 (weakening):
+     [-0.2222] Check there rating with the health inspector .
+     [-0.1441] F * * * Taco Bell .
+     [-0.1374] They are not clean and there are issues in the kitchen with pests .
+     [-0.1024] We were excited to go there , but we were disappointed .
+     [-0.0693] Wouldn 't eat here if you payed me .
+
+**********
+[0.9566] The food was good.
+Parent: The Yelp reviews for El Campesino were generally positive, with reviewers praising the food, service, and value.
+
+Top 5 (supporting):
+     [0.9566] Man the food is good , the prices are cheap , plus unlimited chips and salsa !
+     [0.9561] The food is good and the service friendly and fast .
+     [0.9559] The food and drinks were so good .
+     [0.9087] Always good food and fast friendly service !
+     [0.8583] Excellent food and margaritas .
+
+Top 5 (weakening):
+     [-0.4348] I was disappointed that they did not serve fresh salsa or horchata .
+     [-0.2538] Wouldn 't eat here if you payed me .
+     [-0.2158] Watch what your eating .
+     [-0.1874] We won 't be going back.Fish tacos would be your best choice .
+     [-0.1817] My colleague for the tacos and stated he shredded beef was also bland .
+
+**********
+[0.9144] The service was good.
+Parent: The Yelp reviews for El Campesino were generally positive, with reviewers praising the food, service, and value.
+
+Top 5 (supporting):
+     [0.9144] Great service and better food.The cheese dip is amazing !
+     [0.8682] The food and service is consistently good .
+     [0.7164] Always good food and fast friendly service !
+     [0.6602] Service is very friendly and you never wait for a table .
+     [0.6602] The chips , cheese dip , and fajita quesadillas are the best and the service is super fast !
+
+Top 5 (weakening):
+     [-0.9469] I was disappointed that they did not serve fresh salsa or horchata .
+     [-0.5519] They are not clean and there are issues in the kitchen with pests .
+     [-0.4342] We were excited to go there , but we were disappointed .
+     [-0.3356] Server could have cared less about serving our meal .
+     [-0.1944] We won 't be going back.Fish tacos would be your best choice .
+
+**********
+[0.3092] The value was praised.
+Parent: The Yelp reviews for El Campesino were generally positive, with reviewers praising the food, service, and value.
+
+Top 5 (supporting):
+     [0.3092] First time writing a review .... so worthy .
+     [0.1507] This place is outstanding !
+     [0.1077] Great service and better food.The cheese dip is amazing !
+     [0.0901] Still looking for outstanding Mexican , but this is our family 's best option in the area .
+     [0.0842] Guacamole--best I 've had in a restaurant 2 .
+
+Top 5 (weakening):
+     [-0.8819] We were excited to go there , but we were disappointed .
+     [-0.8371] The prices were a bit high & not worth it .
+     [-0.6568] I was disappointed that they did not serve fresh salsa or horchata .
+     [-0.5634] Server could have cared less about serving our meal .
+     [-0.5224] Wouldn 't eat here if you payed me .
+
+**********
+[0.1401] The salsa could be improved.
+Parent: Some reviewers noted that the salsa could be improved, but overall people enjoyed their experience at the restaurant.
+
+Top 5 (supporting):
+     [0.1401] The only negative is the salsa .
+     [0.1032] I was disappointed that they did not serve fresh salsa or horchata .
+     [0.0000] No joke .
+     [0.0000] Yum ! !
+     [0.0000] Honestly .
+
+Top 5 (weakening):
+     [-0.2607] Ask for the hot salsa in the back-muy bueno !
+     [-0.2030] The chps and salsa were great !
+     [-0.0995] Sososo yummy !
+     [-0.0955] The chips and salsa are fresh .
+     [-0.0835] There is also a nice patio available with lots of shade in the summertime .
+
+**********
+[0.2964] People enjoyed their experience at the restaurant.
+Parent: Some reviewers noted that the salsa could be improved, but overall people enjoyed their experience at the restaurant.
+
+Top 5 (supporting):
+     [0.2964] I always enjoy eating there .
+     [0.2553] I have been coming to el campesino since it opened , and it is still my favorite Mexican restaurant .
+     [0.2099] We will eat here again .
+     [0.1769] I realize this isn 't the most authentic or unique Mexican cuisine , but everything I have ever ordered has been delicious .
+     [0.1707] The food and drinks were so good .
+
+Top 5 (weakening):
+     [-0.7881] We were excited to go there , but we were disappointed .
+     [-0.6587] We won 't be going back.Fish tacos would be your best choice .
+     [-0.6267] Wouldn 't eat here if you payed me .
+     [-0.1889] I was disappointed that they did not serve fresh salsa or horchata .
+     [-0.1042] Watch what your eating .

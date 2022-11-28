@@ -1,0 +1,111 @@
+Summary:
+
+The reviews were mostly positive, with people saying that the product is comfortable, fits well, and is made of good quality material. There were a few negative reviews, however, with people saying that the product is expensive and runs large.
+
+**********
+[0.9420] The product is comfortable.
+Parent: The reviews were mostly positive, with people saying that the product is comfortable, fits well, and is made of good quality material.
+
+Top 5 (supporting):
+     [0.9420] These undies are comfortable and fun to wear .
+     [0.9392] This is a great work-out under clothing item.No " panty lines " and very comfortable.However , since it is " one size fits all " it fit a bit large on me ( I normally wear extra small / small depending on brand and style ) .
+     [0.9207] This is the most comfortable underwear of any kind ( excluding for now the " granny panties " ) that I 've worn .
+     [0.9134] I really like these thongs , very seamless and comfortable .
+     [0.9020] They are by far the most comfortable underwear I own !
+
+Top 5 (weakening):
+     [-0.9710] Very uncomfortable .
+     [-0.9509] Terrible product .
+     [-0.9431] It is paper thin and very uncomfortable .
+     [-0.9335] It was uncomfortable through the buttocks and I looked like I had camel-toe in the back .
+     [-0.8777] This was the worst thong I have ever had .
+
+**********
+[0.9534] The product fits well.
+Parent: The reviews were mostly positive, with people saying that the product is comfortable, fits well, and is made of good quality material.
+
+Top 5 (supporting):
+     [0.9534] the product is not for me but for woman with an athletic bodynice productit is good in shape and fitted well to her
+     [0.9407] The garment fit very well and my wife was highly pleased .
+     [0.8890] They fit perfect , do not ride up and do not show any lines .
+     [0.8854] Fits great , like its painted on .
+     [0.8827] THEY FIT PERFECTLY , THEY FEEL SO NICE .
+
+Top 5 (weakening):
+     [-0.9846] Terrible product .
+     [-0.9834] It was a waste of $ 12.00
+     [-0.9755] I would not recommend these at all .
+     [-0.9749] I was looking for something to wear under my running tights , but these don 't work .
+     [-0.9691] This was the worst thong I have ever had .
+
+**********
+[0.6445] The product is made of good quality material.
+Parent: The reviews were mostly positive, with people saying that the product is comfortable, fits well, and is made of good quality material.
+
+Top 5 (supporting):
+     [0.6445] Very nice material , stretches great , doesn 't leave panty lines under thin clothes and has plenty of room up front for my package .
+     [0.6078] Love the quality of the thong and barely know it is on .
+     [0.2996] Nice material , but doesn 't stretch enough for men like some of the ratings say .
+     [0.2530] says she can barely feel it on her , and the material is nice and smooth .
+     [0.1042] the product is not for me but for woman with an athletic bodynice productit is good in shape and fitted well to her
+
+Top 5 (weakening):
+     [-0.8398] Terrible product .
+     [-0.8257] It was a waste of $ 12.00
+     [-0.8156] This was the worst thong I have ever had .
+     [-0.6103] I would not recommend these at all .
+     [-0.3872] I do not recommend .
+
+**********
+[0.3877] There were negative reviews.
+Parent: There were a few negative reviews, however, with people saying that the product is expensive and runs large.
+
+Top 5 (supporting):
+     [0.3877] Terrible product .
+     [0.3532] This was the worst thong I have ever had .
+     [0.3127] I was looking for something to wear under my running tights , but these don 't work .
+     [0.2780] Very uncomfortable .
+     [0.2314] says she can barely feel it on her , and the material is nice and smooth .
+
+Top 5 (weakening):
+     [-0.9954] Love them !
+     [-0.9954] I love these !
+     [-0.9954] I love these !
+     [-0.9953] I Bought them for my girlfriend when she works out , she says they are GREAT !
+     [-0.9938] I LOVE THESE .
+
+**********
+[0.8952] The product is expensive.
+Parent: There were a few negative reviews, however, with people saying that the product is expensive and runs large.
+
+Top 5 (supporting):
+     [0.8952] I 'm a big fan of Under Armour , but I wish they weren 't so pricey .
+     [0.8444] A bit on the spendy side , but so comfy for any kind of use .
+     [0.8279] THe price is a little steep but if you think about the male equivalent- compression shorts that they have to pay $ 25 bucks a pop for it 's easier to fork out the $ $ .
+     [0.7016] A tad expensive or I 'd buy 10 more !
+     [0.0052] It was a waste of $ 12.00
+
+Top 5 (weakening):
+     [-0.9923] Cheaply made .
+     [-0.3834] THEY ARE SO SEEMLESS FOR ACTIVITIES
+     [-0.0785] Comfortable and feel like a second skin .
+     [-0.0783] I am 5 ' 8 , 130 lbs .
+     [-0.0491] The one size fits all fits me well .
+
+**********
+[0.9312] The product runs large.
+Parent: There were a few negative reviews, however, with people saying that the product is expensive and runs large.
+
+Top 5 (supporting):
+     [0.9312] One size fits all runs really big .
+     [0.2873] A bit on the spendy side , but so comfy for any kind of use .
+     [0.1611] Very nice material , stretches great , doesn 't leave panty lines under thin clothes and has plenty of room up front for my package .
+     [0.1296] We bought 6 or 7 to have in the rotation .
+     [0.0620] THe price is a little steep but if you think about the male equivalent- compression shorts that they have to pay $ 25 bucks a pop for it 's easier to fork out the $ $ .
+
+Top 5 (weakening):
+     [-0.9146] Nice material , but doesn 't stretch enough for men like some of the ratings say .
+     [-0.8713] she said it was a nice fit and was light , oh yea no panty lines .
+     [-0.8479] I bought these not sure how the sizing would work since it 's one size .
+     [-0.8448] The one size fits all fits me well .
+     [-0.8132] Cheaply made .

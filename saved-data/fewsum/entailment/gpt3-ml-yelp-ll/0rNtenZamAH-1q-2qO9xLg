@@ -1,0 +1,75 @@
+Summary:
+
+The product was reviewed positively, with people enjoying the food and service. They appreciated the healthy choices available.
+
+**********
+[0.7980] The product was good.
+Parent: The product was reviewed positively, with people enjoying the food and service.
+
+Top 5 (supporting):
+     [0.7980] I had the trifecta it was delicious ...
+     [0.7310] Food was very good , especially the potatos , out of this world .
+     [0.7264] Food was amazing .
+     [0.6177] Had the inspired Italian omelette and it was very tasty ... Not so sure that OJ is actually 100 % fresh squeezed but tasted good nonetheless .
+     [0.6142] Highly recommend the Hash .... potatoes & eggs cooked to perfection !
+
+Top 5 (weakening):
+     [-0.3837] Awsome service by staff .
+     [-0.1653] Love this place .
+     [-0.1195] Food was pretty good but the used syringe outside in the parking lot and the tin foil in the bathroom just killed it for me .
+     [-0.0615] Really can 't rate this place any higher solely based on their level of attentiveness and sincerity .
+     [-0.0375] Hostesses are a hit or miss - either nice or rude .
+
+**********
+[0.9061] The food was enjoyed.
+Parent: The product was reviewed positively, with people enjoying the food and service.
+
+Top 5 (supporting):
+     [0.9061] Food was very good , especially the potatos , out of this world .
+     [0.8501] Food was amazing .
+     [0.8340] Food was pretty good but the used syringe outside in the parking lot and the tin foil in the bathroom just killed it for me .
+     [0.8198] Excellent food , great service , beautiful environment .
+     [0.7211] Had the inspired Italian omelette and it was very tasty ... Not so sure that OJ is actually 100 % fresh squeezed but tasted good nonetheless .
+
+Top 5 (weakening):
+     [-0.4542] Loved every thing about First Watch .
+     [-0.2585] Try the day glow for an energizing drink .
+     [-0.2052] The food is just fine , but not long-wait-worthy .
+     [-0.1044] I am so happy there is a first watch closer to my house .
+     [-0.0488] However , food and service are standard , nothing unique or exceptional .
+
+**********
+[0.9400] The service was good.
+Parent: The product was reviewed positively, with people enjoying the food and service.
+
+Top 5 (supporting):
+     [0.9400] Service was pretty good .
+     [0.8962] Excellent food , great service , beautiful environment .
+     [0.8341] Service is always spot on .
+     [0.7868] Good service .
+     [0.7663] Come for a good breakfast with a great atmosphere and phenomenal service .
+
+Top 5 (weakening):
+     [-0.9844] Awsome service by staff .
+     [-0.2518] Food was pretty good but the used syringe outside in the parking lot and the tin foil in the bathroom just killed it for me .
+     [-0.2274] Hostesses are a hit or miss - either nice or rude .
+     [-0.1193] This place is shot out , pretty sure our server hadn 't slept in about 2 days .
+     [-0.0607] However , food and service are standard , nothing unique or exceptional .
+
+**********
+[0.6261] The healthy choices were appreciated.
+Parent: They appreciated the healthy choices available.
+
+Top 5 (supporting):
+     [0.6261] Excellent healthy choices !
+     [0.1623] Love the power quinoa breakfast bowl .
+     [0.1341] Highly recommend the Hash .... potatoes & eggs cooked to perfection !
+     [0.0722] Finally healthy food ! !
+     [0.0721] The bread and strawberry jam are to die for .
+
+Top 5 (weakening):
+     [-0.9173] Food was pretty good but the used syringe outside in the parking lot and the tin foil in the bathroom just killed it for me .
+     [-0.7486] Awsome service by staff .
+     [-0.3009] Hostesses are a hit or miss - either nice or rude .
+     [-0.2474] Only wished the kept a veteran discount they had in the past .
+     [-0.1919] So of you want a plate of more than 3 / 4 flavorless potatoes and money to throw away on flavorless food - this is the place for you .

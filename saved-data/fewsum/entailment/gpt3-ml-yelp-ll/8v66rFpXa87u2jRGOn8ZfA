@@ -1,0 +1,165 @@
+Summary:
+
+The product received mostly negative reviews, with customers complaining about the food being overcooked, dry, and of poor quality. There were also complaints about the service, including long wait times and unprofessional staff. The only positive review simply said that the reviewer loved the place.
+
+**********
+[0.5822] The product was not well-reviewed.
+Parent: The product received mostly negative reviews, with customers complaining about the food being overcooked, dry, and of poor quality.
+
+Top 5 (supporting):
+     [0.5822] I got a soda from there that tasted awful still in 2018 and it seems like they still didn 't do anything about it .
+     [0.5499] Walked in at 930 pm an the kitchen was closed also was there twice in the last year , food was terrible , didn 't pay and walked out .. WTF.
+     [0.4961] Food was over cooked , service slow .. avoid this location !
+     [0.4541] Our server was awesome but the restaurant itself isnt worth it .
+     [0.3576] Horrible service and horrible food , place turned super ghetto .
+
+Top 5 (weakening):
+     [-0.9905] Great deal on the appetizers ( they were all good ) and BEST service from our waitress that I 've had anywhere in ages .
+     [-0.9555] Im Definitely returning and i would highly recommend this place .
+     [-0.9534] Food came quick and fresh to the table , very friendly staff and the food was great !
+     [-0.9377] Our server was great .
+     [-0.9184] Love this place .
+
+**********
+[0.9710] The food was overcooked.
+Parent: The product received mostly negative reviews, with customers complaining about the food being overcooked, dry, and of poor quality.
+
+Top 5 (supporting):
+     [0.9710] Food was over cooked , service slow .. avoid this location !
+     [0.0013] Horrible service and horrible food , place turned super ghetto .
+     [0.0007] Walked in at 930 pm an the kitchen was closed also was there twice in the last year , food was terrible , didn 't pay and walked out .. WTF.
+     [0.0000] !
+     [0.0000] ugh.
+
+Top 5 (weakening):
+     [-0.9951] Food came quick and fresh to the table , very friendly staff and the food was great !
+     [-0.9626] ribs dry , little meat and I paid for the good Jack Daniels ones.
+     [-0.9404] The Stake was dry and chewy even when I requested medium rare .
+     [-0.8678] The Shrimps tasted like they fried right out of the freezer .
+     [-0.8345] Our server Jay was fantastic he was attentive and very detail oriented he made sure our meals were correct and came out hot .
+
+**********
+[0.8683] The food was dry.
+Parent: The product received mostly negative reviews, with customers complaining about the food being overcooked, dry, and of poor quality.
+
+Top 5 (supporting):
+     [0.8683] ribs dry , little meat and I paid for the good Jack Daniels ones.
+     [0.8623] The Stake was dry and chewy even when I requested medium rare .
+     [0.0629] very slow lackluster service.
+     [0.0262] Walked in at 930 pm an the kitchen was closed also was there twice in the last year , food was terrible , didn 't pay and walked out .. WTF.
+     [0.0189] Horrible service and horrible food , place turned super ghetto .
+
+Top 5 (weakening):
+     [-0.9969] The Italian dishes are superb .
+     [-0.9969] The appetizers came out hot and savory .
+     [-0.9963] The Chipotle Yucatan Chicken Salad was delicious and filling .
+     [-0.9938] I enjoyed a crisp harvest apple chicken salad with a touch of house dressing .
+     [-0.9915] Great place for lunch or dinner I really love the salads , ribs , chicken and appetizers also the drinks .
+
+**********
+[0.8729] The food was of poor quality.
+Parent: The product received mostly negative reviews, with customers complaining about the food being overcooked, dry, and of poor quality.
+
+Top 5 (supporting):
+     [0.8729] Horrible service and horrible food , place turned super ghetto .
+     [0.8652] Walked in at 930 pm an the kitchen was closed also was there twice in the last year , food was terrible , didn 't pay and walked out .. WTF.
+     [0.6251] ribs dry , little meat and I paid for the good Jack Daniels ones.
+     [0.6203] I 'll keep it real , The food sux !
+     [0.5522] Food was over cooked , service slow .. avoid this location !
+
+Top 5 (weakening):
+     [-0.9961] The Italian dishes are superb .
+     [-0.9941] Food came quick and fresh to the table , very friendly staff and the food was great !
+     [-0.9929] Great deal on the appetizers ( they were all good ) and BEST service from our waitress that I 've had anywhere in ages .
+     [-0.9911] Great food .
+     [-0.9821] Great place for lunch or dinner I really love the salads , ribs , chicken and appetizers also the drinks .
+
+**********
+[0.9268] The service was bad.
+Parent: There were also complaints about the service, including long wait times and unprofessional staff.
+
+Top 5 (supporting):
+     [0.9268] Horrible service and horrible food , place turned super ghetto .
+     [0.8894] Sad service and at the bar with only 4 others taking up bar chairs .
+     [0.8503] very slow lackluster service.
+     [0.7035] Food was over cooked , service slow .. avoid this location !
+     [0.6710] Never had bad service I will be back .
+
+Top 5 (weakening):
+     [-0.9979] Our server Jay was fantastic he was attentive and very detail oriented he made sure our meals were correct and came out hot .
+     [-0.9973] Great deal on the appetizers ( they were all good ) and BEST service from our waitress that I 've had anywhere in ages .
+     [-0.9970] Food came quick and fresh to the table , very friendly staff and the food was great !
+     [-0.9969] Very fast and prompt service , especially for a Saturday night .
+     [-0.9964] Our server was great .
+
+**********
+[0.4210] The wait times were too long.
+Parent: There were also complaints about the service, including long wait times and unprofessional staff.
+
+Top 5 (supporting):
+     [0.4210] Gross , avoid at all costs .. 6pm on a Friday evening .. what happened to the days of an hour wait .. place was dead .. now I know why !
+     [0.3684] Dropping my food on the floor of course was an accident however letting me wait nearly 20 minutes before I had to ask for another beer is ridiculous .
+     [0.0121] Sad service and at the bar with only 4 others taking up bar chairs .
+     [0.0000] !
+     [0.0000] ugh.
+
+Top 5 (weakening):
+     [-0.9923] Food came quick and fresh to the table , very friendly staff and the food was great !
+     [-0.9855] Very fast and prompt service , especially for a Saturday night .
+     [-0.9790] He never missed a beat .
+     [-0.9752] TJI Friday 's has fast , friendly service .
+     [-0.9733] Not only were our drinks serves promptly , but he offered us coffee , on him , before we left .
+
+**********
+[0.1638] The staff were unprofessional.
+Parent: There were also complaints about the service, including long wait times and unprofessional staff.
+
+Top 5 (supporting):
+     [0.1638] My bill was supposed to be 50 $ They were charging me 89 $ No sorry No oops They are criminals Avoid them
+     [0.1200] Sad service and at the bar with only 4 others taking up bar chairs .
+     [0.0887] Dropping my food on the floor of course was an accident however letting me wait nearly 20 minutes before I had to ask for another beer is ridiculous .
+     [0.0726] very slow lackluster service.
+     [0.0433] Horrible service and horrible food , place turned super ghetto .
+
+Top 5 (weakening):
+     [-0.9935] Our server Jay was fantastic he was attentive and very detail oriented he made sure our meals were correct and came out hot .
+     [-0.9905] The super staff conjured up our meals quickly after we orderred .
+     [-0.9855] Food came quick and fresh to the table , very friendly staff and the food was great !
+     [-0.9855] Great deal on the appetizers ( they were all good ) and BEST service from our waitress that I 've had anywhere in ages .
+     [-0.9825] If any employee can show great customer service during a rush is amazing .
+
+**********
+[0.6509] The review was good.
+Parent: The only positive review simply said that the reviewer loved the place.
+
+Top 5 (supporting):
+     [0.6509] Great deal on the appetizers ( they were all good ) and BEST service from our waitress that I 've had anywhere in ages .
+     [0.4159] Food came quick and fresh to the table , very friendly staff and the food was great !
+     [0.3616] Barmaid was excellent while busy .
+     [0.3004] Great food .
+     [0.2678] A good visit overall .
+
+Top 5 (weakening):
+     [-0.9880] This place is so horrible it 's not even funny .
+     [-0.9845] Horrible service and horrible food , place turned super ghetto .
+     [-0.9720] Food was over cooked , service slow .. avoid this location !
+     [-0.9713] Gross , avoid at all costs .. 6pm on a Friday evening .. what happened to the days of an hour wait .. place was dead .. now I know why !
+     [-0.9603] I got a soda from there that tasted awful still in 2018 and it seems like they still didn 't do anything about it .
+
+**********
+[0.9107] The reviewer thought the place was great.
+Parent: The only positive review simply said that the reviewer loved the place.
+
+Top 5 (supporting):
+     [0.9107] Great place for lunch or dinner I really love the salads , ribs , chicken and appetizers also the drinks .
+     [0.8838] Im Definitely returning and i would highly recommend this place .
+     [0.7642] Great deal on the appetizers ( they were all good ) and BEST service from our waitress that I 've had anywhere in ages .
+     [0.6111] Love this place .
+     [0.5649] Food came quick and fresh to the table , very friendly staff and the food was great !
+
+Top 5 (weakening):
+     [-0.9967] This is my second bad experience there and wanted to give them another chance to make it up , but No More !
+     [-0.9963] Food was over cooked , service slow .. avoid this location !
+     [-0.9963] I got a soda from there that tasted awful still in 2018 and it seems like they still didn 't do anything about it .
+     [-0.9956] Walked in at 930 pm an the kitchen was closed also was there twice in the last year , food was terrible , didn 't pay and walked out .. WTF.
+     [-0.9947] Gross , avoid at all costs .. 6pm on a Friday evening .. what happened to the days of an hour wait .. place was dead .. now I know why !

@@ -1,0 +1,321 @@
+Summary:
+
+Walked in at 930 pm an the kitchen was closed also was there twice in the last year , food was terrible , didn ' t pay and walked out .
+Great food .
+My bill was supposed to be 50 $ They were charging me 89 $ No sorry No oops They are criminals Avoid them
+Food was over cooked , service slow .
+maybe take some pointers from Applebee 's on food quality an service .
+
+**********
+[0.0000] It was 9:30 pm.
+Parent: Walked in at 930 pm an the kitchen was closed also was there twice in the last year , food was terrible , didn ' t pay and walked out .
+
+Top 5 (supporting):
+     [0.0000] !
+     [0.0000] ugh.
+     [0.0000] Thank you
+     [0.0000] ! !
+     [0.0000] ! !
+
+Top 5 (weakening):
+     [-0.9943] Gross , avoid at all costs .. 6pm on a Friday evening .. what happened to the days of an hour wait .. place was dead .. now I know why !
+     [-0.3687] Walked in at 930 pm an the kitchen was closed also was there twice in the last year , food was terrible , didn 't pay and walked out .. WTF.
+     [-0.1518] Great price !
+     [-0.1395] Great place for lunch or dinner I really love the salads , ribs , chicken and appetizers also the drinks .
+     [-0.1133] Good bites along with a convivial atmosphere makes this a destination to meet friends and family .
+
+**********
+[0.9871] The kitchen was closed.
+Parent: Walked in at 930 pm an the kitchen was closed also was there twice in the last year , food was terrible , didn ' t pay and walked out .
+
+Top 5 (supporting):
+     [0.9871] Walked in at 930 pm an the kitchen was closed also was there twice in the last year , food was terrible , didn 't pay and walked out .. WTF.
+     [0.0000] !
+     [0.0000] ugh.
+     [0.0000] Thank you
+     [0.0000] ! !
+
+Top 5 (weakening):
+     [-0.9977] Great food .
+     [-0.9972] The Italian dishes are superb .
+     [-0.9969] The super staff conjured up our meals quickly after we orderred .
+     [-0.9961] The appetizers came out hot and savory .
+     [-0.9955] The boneless wings and pretzels with beer cheese are a must .
+
+**********
+[0.9567] It happened twice in the last year.
+Parent: Walked in at 930 pm an the kitchen was closed also was there twice in the last year , food was terrible , didn ' t pay and walked out .
+
+Top 5 (supporting):
+     [0.9567] Walked in at 930 pm an the kitchen was closed also was there twice in the last year , food was terrible , didn 't pay and walked out .. WTF.
+     [0.0184] have had the same slow waitress twice in a row .
+     [0.0084] This is my second bad experience there and wanted to give them another chance to make it up , but No More !
+     [0.0000] !
+     [0.0000] ugh.
+
+Top 5 (weakening):
+     [-0.9061] Never had bad service I will be back .
+     [-0.1784] The last time I was here was in 2015 .
+     [-0.1355] I got a soda from there that tasted awful still in 2018 and it seems like they still didn 't do anything about it .
+     [-0.0794] Gross , avoid at all costs .. 6pm on a Friday evening .. what happened to the days of an hour wait .. place was dead .. now I know why !
+     [-0.0359] Shut it down
+
+**********
+[0.9505] The food was terrible.
+Parent: Walked in at 930 pm an the kitchen was closed also was there twice in the last year , food was terrible , didn ' t pay and walked out .
+
+Top 5 (supporting):
+     [0.9505] Walked in at 930 pm an the kitchen was closed also was there twice in the last year , food was terrible , didn 't pay and walked out .. WTF.
+     [0.9398] Horrible service and horrible food , place turned super ghetto .
+     [0.6222] I 'll keep it real , The food sux !
+     [0.2704] Food was over cooked , service slow .. avoid this location !
+     [0.1139] ribs dry , little meat and I paid for the good Jack Daniels ones.
+
+Top 5 (weakening):
+     [-0.9985] The Chipotle Yucatan Chicken Salad was delicious and filling .
+     [-0.9985] The Italian dishes are superb .
+     [-0.9985] Great place for lunch or dinner I really love the salads , ribs , chicken and appetizers also the drinks .
+     [-0.9977] Food came quick and fresh to the table , very friendly staff and the food was great !
+     [-0.9975] I enjoyed a crisp harvest apple chicken salad with a touch of house dressing .
+
+**********
+[0.0000] Don't pay.
+Parent: Walked in at 930 pm an the kitchen was closed also was there twice in the last year , food was terrible , didn ' t pay and walked out .
+
+Top 5 (supporting):
+     [0.0000] Never had bad service I will be back .
+     [0.0000] Great place for lunch or dinner I really love the salads , ribs , chicken and appetizers also the drinks .
+     [0.0000] Im Definitely returning and i would highly recommend this place .
+     [0.0000] Food came quick and fresh to the table , very friendly staff and the food was great !
+     [0.0000] TJI Friday 's has fast , friendly service .
+
+Top 5 (weakening):
+     [0.0000] Yuck .
+     [0.0000] Food was over cooked , service slow .. avoid this location !
+     [0.0000] ! !
+     [0.0000] Asked for rare steak , was like a hockey puck .
+     [0.0000] Shell still on the skewered shrimp .
+
+**********
+[0.9587] They walked out.
+Parent: Walked in at 930 pm an the kitchen was closed also was there twice in the last year , food was terrible , didn ' t pay and walked out .
+
+Top 5 (supporting):
+     [0.9587] Walked in at 930 pm an the kitchen was closed also was there twice in the last year , food was terrible , didn 't pay and walked out .. WTF.
+     [0.1508] Will never ever go there again ..
+     [0.0000] !
+     [0.0000] ugh.
+     [0.0000] Thank you
+
+Top 5 (weakening):
+     [-0.9925] The Italian dishes are superb .
+     [-0.9876] Great food .
+     [-0.9871] Food came quick and fresh to the table , very friendly staff and the food was great !
+     [-0.9855] A good visit overall .
+     [-0.9842] Our server was great .
+
+**********
+[0.9516] The food was great.
+Parent: Great food .
+
+Top 5 (supporting):
+     [0.9516] Food came quick and fresh to the table , very friendly staff and the food was great !
+     [0.7563] Great food .
+     [0.5644] The Italian dishes are superb .
+     [0.4742] Great place for lunch or dinner I really love the salads , ribs , chicken and appetizers also the drinks .
+     [0.4680] Great deal on the appetizers ( they were all good ) and BEST service from our waitress that I 've had anywhere in ages .
+
+Top 5 (weakening):
+     [-0.9979] Horrible service and horrible food , place turned super ghetto .
+     [-0.9977] Walked in at 930 pm an the kitchen was closed also was there twice in the last year , food was terrible , didn 't pay and walked out .. WTF.
+     [-0.9881] I 'll keep it real , The food sux !
+     [-0.9779] Our server was awesome but the restaurant itself isnt worth it .
+     [-0.9614] Food was over cooked , service slow .. avoid this location !
+
+**********
+[0.0000] My bill was 50$.
+Parent: My bill was supposed to be 50 $ They were charging me 89 $ No sorry No oops They are criminals Avoid them
+Food was over cooked , service slow .
+
+Top 5 (supporting):
+     [0.0000] !
+     [0.0000] ugh.
+     [0.0000] Thank you
+     [0.0000] ! !
+     [0.0000] ! !
+
+Top 5 (weakening):
+     [-0.9072] Walked in at 930 pm an the kitchen was closed also was there twice in the last year , food was terrible , didn 't pay and walked out .. WTF.
+     [-0.8060] Waste of $ 60
+     [-0.7153] Shut it down
+     [-0.7058] How was my food ?
+     [-0.5987] He never missed a beat .
+
+**********
+[0.2611] 89$ is too expensive.
+Parent: My bill was supposed to be 50 $ They were charging me 89 $ No sorry No oops They are criminals Avoid them
+Food was over cooked , service slow .
+
+Top 5 (supporting):
+     [0.2611] My bill was supposed to be 50 $ They were charging me 89 $ No sorry No oops They are criminals Avoid them
+     [0.0000] !
+     [0.0000] ugh.
+     [0.0000] Thank you
+     [0.0000] ! !
+
+Top 5 (weakening):
+     [-0.9414] Great price !
+     [-0.7524] Friendly staff .
+     [-0.7235] A good visit overall .
+     [-0.7183] He never missed a beat .
+     [-0.7108] I wish I 'd have gotten her name so I could give her recognition !
+
+**********
+[0.0000] No.
+Parent: My bill was supposed to be 50 $ They were charging me 89 $ No sorry No oops They are criminals Avoid them
+Food was over cooked , service slow .
+
+Top 5 (supporting):
+     [0.0000] Never had bad service I will be back .
+     [0.0000] Great place for lunch or dinner I really love the salads , ribs , chicken and appetizers also the drinks .
+     [0.0000] Im Definitely returning and i would highly recommend this place .
+     [0.0000] Food came quick and fresh to the table , very friendly staff and the food was great !
+     [0.0000] TJI Friday 's has fast , friendly service .
+
+Top 5 (weakening):
+     [0.0000] Yuck .
+     [0.0000] Food was over cooked , service slow .. avoid this location !
+     [0.0000] ! !
+     [0.0000] Asked for rare steak , was like a hockey puck .
+     [0.0000] Shell still on the skewered shrimp .
+
+**********
+[0.0000] No oops.
+Parent: My bill was supposed to be 50 $ They were charging me 89 $ No sorry No oops They are criminals Avoid them
+Food was over cooked , service slow .
+
+Top 5 (supporting):
+     [0.0000] Never had bad service I will be back .
+     [0.0000] Great place for lunch or dinner I really love the salads , ribs , chicken and appetizers also the drinks .
+     [0.0000] Im Definitely returning and i would highly recommend this place .
+     [0.0000] Food came quick and fresh to the table , very friendly staff and the food was great !
+     [0.0000] TJI Friday 's has fast , friendly service .
+
+Top 5 (weakening):
+     [0.0000] Yuck .
+     [0.0000] Food was over cooked , service slow .. avoid this location !
+     [0.0000] ! !
+     [0.0000] Asked for rare steak , was like a hockey puck .
+     [0.0000] Shell still on the skewered shrimp .
+
+**********
+[0.9024] They are criminals.
+Parent: My bill was supposed to be 50 $ They were charging me 89 $ No sorry No oops They are criminals Avoid them
+Food was over cooked , service slow .
+
+Top 5 (supporting):
+     [0.9024] My bill was supposed to be 50 $ They were charging me 89 $ No sorry No oops They are criminals Avoid them
+     [0.0110] Shut it down
+     [0.0000] !
+     [0.0000] ugh.
+     [0.0000] Thank you
+
+Top 5 (weakening):
+     [-0.9930] Great food .
+     [-0.9905] The Italian dishes are superb .
+     [-0.9870] Friendly staff .
+     [-0.9864] Food came quick and fresh to the table , very friendly staff and the food was great !
+     [-0.9861] Stopped by for happy hour and our server was Alonzo who was wonderful ! !
+
+**********
+[0.9692] They should be avoided.
+Parent: My bill was supposed to be 50 $ They were charging me 89 $ No sorry No oops They are criminals Avoid them
+Food was over cooked , service slow .
+
+Top 5 (supporting):
+     [0.9692] Gross , avoid at all costs .. 6pm on a Friday evening .. what happened to the days of an hour wait .. place was dead .. now I know why !
+     [0.9396] My bill was supposed to be 50 $ They were charging me 89 $ No sorry No oops They are criminals Avoid them
+     [0.9135] now on my must avoid list .
+     [0.7081] Food was over cooked , service slow .. avoid this location !
+     [0.2350] I warning others about this specific restaurant in Brooklyn.Look carefully at your bill .
+
+Top 5 (weakening):
+     [-0.9981] Im Definitely returning and i would highly recommend this place .
+     [-0.9976] His manager Carmen runs a great ship and please visit this location if it 's for a meal on the west side of Cleveland
+     [-0.9971] The boneless wings and pretzels with beer cheese are a must .
+     [-0.9966] Great place for lunch or dinner I really love the salads , ribs , chicken and appetizers also the drinks .
+     [-0.9961] Good bites along with a convivial atmosphere makes this a destination to meet friends and family .
+
+**********
+[0.9710] The food was overcooked.
+Parent: My bill was supposed to be 50 $ They were charging me 89 $ No sorry No oops They are criminals Avoid them
+Food was over cooked , service slow .
+
+Top 5 (supporting):
+     [0.9710] Food was over cooked , service slow .. avoid this location !
+     [0.0013] Horrible service and horrible food , place turned super ghetto .
+     [0.0007] Walked in at 930 pm an the kitchen was closed also was there twice in the last year , food was terrible , didn 't pay and walked out .. WTF.
+     [0.0000] !
+     [0.0000] ugh.
+
+Top 5 (weakening):
+     [-0.9951] Food came quick and fresh to the table , very friendly staff and the food was great !
+     [-0.9626] ribs dry , little meat and I paid for the good Jack Daniels ones.
+     [-0.9404] The Stake was dry and chewy even when I requested medium rare .
+     [-0.8678] The Shrimps tasted like they fried right out of the freezer .
+     [-0.8345] Our server Jay was fantastic he was attentive and very detail oriented he made sure our meals were correct and came out hot .
+
+**********
+[0.9629] Service was bad.
+Parent: My bill was supposed to be 50 $ They were charging me 89 $ No sorry No oops They are criminals Avoid them
+Food was over cooked , service slow .
+
+Top 5 (supporting):
+     [0.9629] Horrible service and horrible food , place turned super ghetto .
+     [0.9078] Sad service and at the bar with only 4 others taking up bar chairs .
+     [0.8921] very slow lackluster service.
+     [0.7603] Food was over cooked , service slow .. avoid this location !
+     [0.4704] Dropping my food on the floor of course was an accident however letting me wait nearly 20 minutes before I had to ask for another beer is ridiculous .
+
+Top 5 (weakening):
+     [-0.9974] Our server Jay was fantastic he was attentive and very detail oriented he made sure our meals were correct and came out hot .
+     [-0.9971] Great deal on the appetizers ( they were all good ) and BEST service from our waitress that I 've had anywhere in ages .
+     [-0.9969] Food came quick and fresh to the table , very friendly staff and the food was great !
+     [-0.9967] Very fast and prompt service , especially for a Saturday night .
+     [-0.9963] Our server was great .
+
+**********
+[0.7604] Applebee's has good food quality.
+Parent: maybe take some pointers from Applebee 's on food quality an service .
+
+Top 5 (supporting):
+     [0.7604] Food came quick and fresh to the table , very friendly staff and the food was great !
+     [0.4804] maybe take some pointers from Applebee 's on food quality an service .
+     [0.4665] Good bites along with a convivial atmosphere makes this a destination to meet friends and family .
+     [0.3378] Great deal on the appetizers ( they were all good ) and BEST service from our waitress that I 've had anywhere in ages .
+     [0.3099] Food and Service exceptional for a national concept .
+
+Top 5 (weakening):
+     [-0.9876] Horrible service and horrible food , place turned super ghetto .
+     [-0.9813] Walked in at 930 pm an the kitchen was closed also was there twice in the last year , food was terrible , didn 't pay and walked out .. WTF.
+     [-0.9510] I 'll keep it real , The food sux !
+     [-0.9493] Food was over cooked , service slow .. avoid this location !
+     [-0.9104] I got a soda from there that tasted awful still in 2018 and it seems like they still didn 't do anything about it .
+
+**********
+[0.9378] Take some pointers from Applebee's on service.
+Parent: maybe take some pointers from Applebee 's on food quality an service .
+
+Top 5 (supporting):
+     [0.9378] maybe take some pointers from Applebee 's on food quality an service .
+     [0.0000] !
+     [0.0000] ugh.
+     [0.0000] Thank you
+     [0.0000] ! !
+
+Top 5 (weakening):
+     [-0.9495] So a salad was on the menu .
+     [-0.9026] Barmaid was excellent while busy .
+     [-0.8985] The Chipotle Yucatan Chicken Salad was delicious and filling .
+     [-0.8738] Amazing outdoor patio with privacy .
+     [-0.8686] Especially the veal meatball .

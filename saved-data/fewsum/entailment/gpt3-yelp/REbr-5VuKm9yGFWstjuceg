@@ -1,0 +1,93 @@
+Summary:
+
+The reviewers said that the product was good, with fast delivery and reasonable prices. They also said that the product was fresh and that the customer service was great.
+
+**********
+[0.6363] The product was good.
+Parent: The reviewers said that the product was good, with fast delivery and reasonable prices.
+
+Top 5 (supporting):
+     [0.6363] I had the Tommy Tom unwhich and it was so tasty
+     [0.6091] Ordered some sandwiches and they were awesome .
+     [0.5789] I especially like the lettuce wrapped sandwhich and will be back for more
+     [0.5416] Good sandwiches , great price !
+     [0.5397] Best sandwich I 've had in Vegas , can 't wait to come back !
+
+Top 5 (weakening):
+     [-0.2695] I won 't be ordering from this location again as it has become a total waste of money .
+     [-0.0563] I also always ask for extra veggies and never receive them .
+     [-0.0472] R people serious with there bad reviews does this look like some uppity sandwich spot .
+     [-0.0209] Anytime I order from this location they forget something .
+     [0.0000] Love it !
+
+**********
+[0.8253] The product had fast delivery.
+Parent: The reviewers said that the product was good, with fast delivery and reasonable prices.
+
+Top 5 (supporting):
+     [0.8253] Super fast service ; delivery took 10 minutes from order to front door .
+     [0.6389] Hardly got my meal paid for and before I can walk away from the register , it 's ready !
+     [0.5959] Just as they claim , " Subs so fast you 'll freak ! "
+     [0.3998] Our delivery guy Kylon was really nice and quick .
+     [0.0134] Great customer service ! !
+
+Top 5 (weakening):
+     [-0.7479] I also always ask for extra veggies and never receive them .
+     [-0.6739] Anytime I order from this location they forget something .
+     [-0.3817] I won 't be ordering from this location again as it has become a total waste of money .
+     [-0.1257] Clean surroundings with cool postings on their walls !
+     [-0.1257] Clean surroundings with cool postings on their walls !
+
+**********
+[0.9613] The product had reasonable prices.
+Parent: The reviewers said that the product was good, with fast delivery and reasonable prices.
+
+Top 5 (supporting):
+     [0.9613] A great variety of tasty sandwiches filled with various meats and cheeses at a reasonable price .
+     [0.9592] A great variety of sandwiches at a reasonable price .
+     [0.8709] Good sandwiches , great price !
+     [0.0082] Now it 's a great sandwich shop .
+     [0.0042] Ive been here a few times for ljnch and have really enjoyed it .
+
+Top 5 (weakening):
+     [-0.9021] I won 't be ordering from this location again as it has become a total waste of money .
+     [-0.0758] Clean surroundings with cool postings on their walls !
+     [-0.0758] Clean surroundings with cool postings on their walls !
+     [-0.0531] Anytime I order from this location they forget something .
+     [-0.0372] So glad they added this location to the neighborhood .
+
+**********
+[0.6363] The product was good.
+Parent: They also said that the product was fresh and that the customer service was great.
+
+Top 5 (supporting):
+     [0.6363] I had the Tommy Tom unwhich and it was so tasty
+     [0.6091] Ordered some sandwiches and they were awesome .
+     [0.5789] I especially like the lettuce wrapped sandwhich and will be back for more
+     [0.5416] Good sandwiches , great price !
+     [0.5397] Best sandwich I 've had in Vegas , can 't wait to come back !
+
+Top 5 (weakening):
+     [-0.2695] I won 't be ordering from this location again as it has become a total waste of money .
+     [-0.0563] I also always ask for extra veggies and never receive them .
+     [-0.0472] R people serious with there bad reviews does this look like some uppity sandwich spot .
+     [-0.0209] Anytime I order from this location they forget something .
+     [0.0000] Love it !
+
+**********
+[0.9047] The customer service was good.
+Parent: They also said that the product was fresh and that the customer service was great.
+
+Top 5 (supporting):
+     [0.9047] Great customer service ! !
+     [0.4056] Our delivery guy Kylon was really nice and quick .
+     [0.1622] Super fast service ; delivery took 10 minutes from order to front door .
+     [0.0693] Hardly got my meal paid for and before I can walk away from the register , it 's ready !
+     [0.0280] Just what I needed .
+
+Top 5 (weakening):
+     [-0.9063] Anytime I order from this location they forget something .
+     [-0.7937] I also always ask for extra veggies and never receive them .
+     [-0.3986] I won 't be ordering from this location again as it has become a total waste of money .
+     [-0.0920] R people serious with there bad reviews does this look like some uppity sandwich spot .
+     [-0.0357] I had the Tommy Tom unwhich and it was so tasty

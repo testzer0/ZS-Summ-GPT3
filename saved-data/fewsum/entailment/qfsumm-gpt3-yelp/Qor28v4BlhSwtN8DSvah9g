@@ -1,0 +1,165 @@
+Summary:
+
+The reviewers loved the carne asada tacos, burritos, and fries, as well as the chiles toreados. They thought the service was fast and friendly, and that the prices were reasonable. The salsas and aguas frescas were also delicious.
+
+**********
+[0.7708] The reviewers loved the carne asada tacos.
+Parent: The reviewers loved the carne asada tacos, burritos, and fries, as well as the chiles toreados.
+
+Top 5 (supporting):
+     [0.7708] Love the carne asada tacos , chicken tacos have generally been bland in my experience , the al pastor tacos has been hit or miss for me .
+     [0.3546] The super burrito and carne asada nachos have also been winners .
+     [0.2919] Haven 't been to another restaurant that beats these tacos de asada .
+     [0.1354] Last week my boyfriend order asada tacos and loved them .
+     [0.0928] Had a carne asada burrito and two tacos al pastor today .... deliciouso !
+
+Top 5 (weakening):
+     [-0.9946] I can honestly say that I hate their tacos .
+     [-0.9770] it scared me to the point i dropped the box and screamed.i would not recommend .. they never honor their coupons that they print out
+     [-0.9763] Worst tacos ever .
+     [-0.9733] Stop giving these people your money these are not good at all .
+     [-0.9675] The attitude from the Spanish lady in front of the cashier the chubby one or the fat one was really rude and the tacos I believe that is the worse or maybe the worst I ever had on this establishmentI will maybe come back or maybe not The tacos was super burned The meet very hard !
+
+**********
+[0.9275] The burritos were great.
+Parent: The reviewers loved the carne asada tacos, burritos, and fries, as well as the chiles toreados.
+
+Top 5 (supporting):
+     [0.9275] Burritos are excellent !
+     [0.5843] The super burrito and carne asada nachos have also been winners .
+     [0.4128] Came in for the first time and the bean cheese rice wet burrito was amazing .
+     [0.3896] The super burrito was delicious !
+     [0.1292] My husband always gets the pastor burrito and is always good !
+
+Top 5 (weakening):
+     [-0.9936] Worst tacos ever .
+     [-0.9890] Horrible tacos compared to everywhere else .
+     [-0.9822] Stop giving these people your money these are not good at all .
+     [-0.9820] The pastor was good , but not much in the burrito .
+     [-0.9796] I don 't even know why they can serve this crap
+
+**********
+[0.8346] The fries were great.
+Parent: The reviewers loved the carne asada tacos, burritos, and fries, as well as the chiles toreados.
+
+Top 5 (supporting):
+     [0.8346] But this time the carne asada tacos and the asada fries were just freaking awesome .
+     [0.7952] Great tacos great quesodillas I live right around the corner from you guys so we eat there frequently and we love your food they are definitely one of the best little taco joints in town and they 're super fries are unbelievably good in the neighborhoods not too shabby
+     [0.6385] Customer service by Claudia is always the best.Asada fries were delicious .
+     [0.6045] Best asada fries too !
+     [0.4370] The world 's best Carne Asada fries they have on the back of their building led me here and let me tell you that sign should be taken down !
+
+Top 5 (weakening):
+     [-0.9959] Over priced , asada fries suck , funny smell ...
+     [-0.9771] The fries were soft , their salsa was flavorless , the restaurant was kind of dirty , it was just an overall a disappointing experience and I will not be going back .
+     [-0.9755] I don 't even know why they can serve this crap
+     [-0.9728] Stop giving these people your money these are not good at all .
+     [-0.9556] Open 24 / 7.Carne Asada Fries are so bomb !
+
+**********
+[0.8705] The chiles toreados were great.
+Parent: The reviewers loved the carne asada tacos, burritos, and fries, as well as the chiles toreados.
+
+Top 5 (supporting):
+     [0.8705] The chiles toreados are by far the best in town .
+     [0.6238] Chile rellenos are amazing !
+     [0.0329] Go get one- you won 't regret it !
+     [0.0305] They were so tender & yummy .
+     [0.0084] It was my first time trying it , and it was AWESOME !
+
+Top 5 (weakening):
+     [-0.9774] I don 't even know why they can serve this crap
+     [-0.9727] Stop giving these people your money these are not good at all .
+     [-0.9584] it scared me to the point i dropped the box and screamed.i would not recommend .. they never honor their coupons that they print out
+     [-0.9484] So disappointed
+     [-0.9462] Stay away from that disgusting place .
+
+**********
+[0.9561] The service was fast.
+Parent: They thought the service was fast and friendly, and that the prices were reasonable.
+
+Top 5 (supporting):
+     [0.9561] The food , the friendly bilingual staff and the speedy service make it a great place to eat .
+     [0.9166] Fast service .
+     [0.4801] Great fast Mexican food .
+     [0.1660] A great place for fast and authentic Mexican food .
+     [0.0585] This a the best place to get fast mexican food .
+
+Top 5 (weakening):
+     [-0.9613] Great food but the cashier accidentally took my order wrong and even after I corrected her she still charge me wrong .
+     [-0.9312] it scared me to the point i dropped the box and screamed.i would not recommend .. they never honor their coupons that they print out
+     [-0.9096] Since there 's no customer service or concern about the customers .
+     [-0.9086] Customer service was horrible 2 Servers stood there talking on the phone laughing and speaking in Spanish the whole time why they were helping us .
+     [-0.8644] This place is run down , their cashiers are VERY rude , and their food is starting to get a little pricy BUT it 's soooo good !
+
+**********
+[0.8242] The service was friendly.
+Parent: They thought the service was fast and friendly, and that the prices were reasonable.
+
+Top 5 (supporting):
+     [0.8242] Open 24 hours , great food and friendly staff .
+     [0.7802] Friendly staff !
+     [0.5985] Restaurant was clean and the staff was nice .
+     [0.5574] The food , the friendly bilingual staff and the speedy service make it a great place to eat .
+     [0.5261] The cashier very nice and kind ! !
+
+Top 5 (weakening):
+     [-0.9912] The attitude from the Spanish lady in front of the cashier the chubby one or the fat one was really rude and the tacos I believe that is the worse or maybe the worst I ever had on this establishmentI will maybe come back or maybe not The tacos was super burned The meet very hard !
+     [-0.9897] Customer service was horrible 2 Servers stood there talking on the phone laughing and speaking in Spanish the whole time why they were helping us .
+     [-0.9825] This place is run down , their cashiers are VERY rude , and their food is starting to get a little pricy BUT it 's soooo good !
+     [-0.9821] I don 't even know why they can serve this crap
+     [-0.9769] Great Food Worse service ever !
+
+**********
+[0.7245] The prices were reasonable.
+Parent: They thought the service was fast and friendly, and that the prices were reasonable.
+
+Top 5 (supporting):
+     [0.7245] Good food , good prices .
+     [0.7061] Not that bad on price too .
+     [0.6861] They have really good prices .
+     [0.4558] I mean for the price and the quality of food I think this is really place , down and dirty and delicious and does not cost much at all .
+     [0.3646] Cheap and delicious !
+
+Top 5 (weakening):
+     [-0.9866] The food is very expensive considering the way we were treated .
+     [-0.9855] Over priced , asada fries suck , funny smell ...
+     [-0.9462] Sorry but your pricing yourself right out .
+     [-0.9066] This place is run down , their cashiers are VERY rude , and their food is starting to get a little pricy BUT it 's soooo good !
+     [-0.8830] Soooo disappointed this time around.Paid $ 5.25 for guacamole and chips ... thinking an authentic Mexican restaurant can succeed in this ... nope ...
+
+**********
+[0.8721] The salsas were good.
+Parent: The salsas and aguas frescas were also delicious.
+
+Top 5 (supporting):
+     [0.8721] Delicious salsas and aguas frescas too ! !
+     [0.7672] Best Carne asada and salsas in Vegas yet .... well in my opinion this fat .
+     [0.6453] The salsa verde was great and had a good amount of heat .
+     [0.4549] Chile rellenos are amazing !
+     [0.4458] My boyfriend and I couldn 't even finish it , we had to save it for later.Horchata is on point .
+
+Top 5 (weakening):
+     [-0.9334] The fries were soft , their salsa was flavorless , the restaurant was kind of dirty , it was just an overall a disappointing experience and I will not be going back .
+     [-0.7935] Stop giving these people your money these are not good at all .
+     [-0.7343] I don 't even know why they can serve this crap
+     [-0.5876] Stay away from that disgusting place .
+     [-0.5753] Stay away from that filthy place I was there and my iPhone 6 Plus was stolen I called the owner several times and they ignore my calls so I 'm wondering if they 're covering something or someone .
+
+**********
+[0.7994] The aguas frescas were delicious.
+Parent: The salsas and aguas frescas were also delicious.
+
+Top 5 (supporting):
+     [0.7994] Delicious salsas and aguas frescas too ! !
+     [0.0890] Hot hot hot Great tacos I lived in LA for 15 years and this is the only place I found in vegas that does it like they do in LA
+     [0.0791] They were so tender & yummy .
+     [0.0672] That being said Pepes tacos has the most delicious beans which always enhances every dish I order .
+     [0.0261] Very tasty and my favorite drink We go almost every weekend .
+
+Top 5 (weakening):
+     [-0.9792] Stop giving these people your money these are not good at all .
+     [-0.9751] I don 't even know why they can serve this crap
+     [-0.9648] Stay away from that disgusting place .
+     [-0.9604] So disappointed
+     [-0.9491] Makes me sad .

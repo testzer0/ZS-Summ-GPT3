@@ -1,0 +1,129 @@
+Summary:
+
+The reviews were mixed, with some people loving the watch and others being disappointed. Some people found the watch to be of good quality, while others had issues with it falling apart or the band malfunctioning. Some people loved the small size and others found it too small.
+
+**********
+[0.9281] The watch was loved.
+Parent: The reviews were mixed, with some people loving the watch and others being disappointed.
+
+Top 5 (supporting):
+     [0.9281] I love this watch !
+     [0.8167] I am very pleased and love wearing my watch .
+     [0.3303] I have been wanting a Mickey Mouse watch for some time and this is exactly what I was looking for .
+     [0.0883] It has a very small face and fits small wrists but is very adorable !
+     [0.0764] Now she will be a Nanny to our three grand childrenWhat better watch for taking care of grandchildren .
+
+Top 5 (weakening):
+     [-0.9285] I was really disappointed that this watch fell apart after one month of having it .
+     [-0.9128] It 's not worth the money .
+     [-0.4328] Mechanically it runs well but the very first day the spring pins holding the band on malfunctioned and I had to take it to a jeweler to have them replaced .
+     [-0.3554] I am 64-years-old and now have my Mickey Mouse .
+     [-0.2714] I had a black Mickey watch for years , and lost it .
+
+**********
+[0.9054] They were disappointed.
+Parent: The reviews were mixed, with some people loving the watch and others being disappointed.
+
+Top 5 (supporting):
+     [0.9054] I was really disappointed that this watch fell apart after one month of having it .
+     [0.0599] It 's not worth the money .
+     [-0.0625] I had a black Mickey watch for years , and lost it .
+     [-0.0767] Mechanically it runs well but the very first day the spring pins holding the band on malfunctioned and I had to take it to a jeweler to have them replaced .
+     [-0.3947] It was a nice watch , unfortunately , the face was small for me to read so had to return it .
+
+Top 5 (weakening):
+     [-0.9980] Very pleased with this purchase .
+     [-0.9979] She is a real fan of the happiest place on earth and couldn 't be happier with these .
+     [-0.9965] I am very pleased and love wearing my watch .
+     [-0.9923] Quality and workmanship just fine .
+     [-0.9894] I love this watch !
+
+**********
+[0.2251] The watch was of good quality.
+Parent: Some people found the watch to be of good quality, while others had issues with it falling apart or the band malfunctioning.
+
+Top 5 (supporting):
+     [0.2251] It was a nice watch , unfortunately , the face was small for me to read so had to return it .
+     [0.0509] I have been wanting a Mickey Mouse watch for some time and this is exactly what I was looking for .
+     [0.0450] Quality and workmanship just fine .
+     [0.0446] I love this watch !
+     [0.0439] I am very pleased and love wearing my watch .
+
+Top 5 (weakening):
+     [-0.8320] I was really disappointed that this watch fell apart after one month of having it .
+     [-0.4205] It 's not worth the money .
+     [-0.0350] I am 64-years-old and now have my Mickey Mouse .
+     [-0.0273] I had a black Mickey watch for years , and lost it .
+     [0.0001] It is petite and fun .
+
+**********
+[0.9538] It fell apart.
+Parent: Some people found the watch to be of good quality, while others had issues with it falling apart or the band malfunctioning.
+
+Top 5 (supporting):
+     [0.9538] I was really disappointed that this watch fell apart after one month of having it .
+     [-0.0332] I had a black Mickey watch for years , and lost it .
+     [-0.4246] It 's not worth the money .
+     [-0.7849] This item was purchased as a gift for a 12 year old .
+     [-0.8777] I have wanted a Mickey Mouse watch since I was a child and one of my friends had one .
+
+Top 5 (weakening):
+     [-0.9970] Quality and workmanship just fine .
+     [-0.9961] Very pleased with this purchase .
+     [-0.9947] I love this watch !
+     [-0.9924] I am very pleased and love wearing my watch .
+     [-0.9912] I really like this new one .
+
+**********
+[0.8037] The band malfunctioned.
+Parent: Some people found the watch to be of good quality, while others had issues with it falling apart or the band malfunctioning.
+
+Top 5 (supporting):
+     [0.8037] Mechanically it runs well but the very first day the spring pins holding the band on malfunctioned and I had to take it to a jeweler to have them replaced .
+     [0.0051] I had to buy another band so I could wear it .
+     [-0.0014] I had a black Mickey watch for years , and lost it .
+     [-0.0154] I was really disappointed that this watch fell apart after one month of having it .
+     [-0.3500] I had bought a similar watch at WDW several years ago but the womens watch face was larger .
+
+Top 5 (weakening):
+     [-0.9639] Quality and workmanship just fine .
+     [-0.9365] Very pleased with this purchase .
+     [-0.9236] While it is small , the time is still easy to read .
+     [-0.9005] This was for my wife who was retiring as a teacher but not retiring from life .
+     [-0.8977] I love this watch !
+
+**********
+[0.0973] The small size was loved.
+Parent: Some people loved the small size and others found it too small.
+
+Top 5 (supporting):
+     [0.0973] It is petite and fun .
+     [0.0785] It has a very small face and fits small wrists but is very adorable !
+     [0.0025] I am very pleased and love wearing my watch .
+     [0.0007] I love this watch !
+     [0.0004] While it is small , the time is still easy to read .
+
+Top 5 (weakening):
+     [-0.7823] It was a nice watch , unfortunately , the face was small for me to read so had to return it .
+     [-0.3446] It 's not worth the money .
+     [-0.2958] I was really disappointed that this watch fell apart after one month of having it .
+     [-0.1144] I had a black Mickey watch for years , and lost it .
+     [-0.0438] She is a real fan of the happiest place on earth and couldn 't be happier with these .
+
+**********
+[0.2487] It was too small.
+Parent: Some people loved the small size and others found it too small.
+
+Top 5 (supporting):
+     [0.2487] It was a nice watch , unfortunately , the face was small for me to read so had to return it .
+     [0.0075] I had to buy another band so I could wear it .
+     [0.0024] It 's not worth the money .
+     [-0.0034] I had a black Mickey watch for years , and lost it .
+     [-0.0034] I was really disappointed that this watch fell apart after one month of having it .
+
+Top 5 (weakening):
+     [-0.7520] I love this watch !
+     [-0.6633] I have been wanting a Mickey Mouse watch for some time and this is exactly what I was looking for .
+     [-0.6230] I really like this new one .
+     [-0.6153] She is a real fan of the happiest place on earth and couldn 't be happier with these .
+     [-0.5036] I am very pleased and love wearing my watch .

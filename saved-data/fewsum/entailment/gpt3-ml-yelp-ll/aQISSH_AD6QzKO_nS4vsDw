@@ -1,0 +1,75 @@
+Summary:
+
+The reviewers said that the product is great and that it helps with pain. They also said that the staff is professional and caring.
+
+**********
+[0.8044] The product is great.
+Parent: The reviewers said that the product is great and that it helps with pain.
+
+Top 5 (supporting):
+     [0.8044] Dr. Misty is absolutely fabulous !
+     [0.7144] Dr. Misty is awesome !
+     [0.5111] Dr misty was amazing !
+     [0.5095] Dr. Misty and Dr. Nicholas are both wonderful !
+     [0.5076] Dr. Misty is the best .
+
+Top 5 (weakening):
+     [-0.5003] These people are fair and honest .
+     [-0.3413] I love this place !
+     [-0.2495] The service is awesome .
+     [-0.1764] Her care was professional and sincere .
+     [-0.1720] The entire staff is very professional .
+
+**********
+[0.8598] The product helps with pain.
+Parent: The reviewers said that the product is great and that it helps with pain.
+
+Top 5 (supporting):
+     [0.8598] It is helping me with severe low back pain .
+     [0.2666] She help me with my shoulder issues and I couldn 't be happier .
+     [0.2648] BEST CHIROPRACTORS IN TOWN ! !
+     [0.2452] The doctors are very knowledgeable about what they are doing and also provide different ways to adjust you if your uncomfortable .
+     [0.1700] It is very difficult to not only find a great Chiropractor but even more difficult to find one that sincerely care !
+
+Top 5 (weakening):
+     [-0.9506] The improvement in movement for my kids and I have been amazing .
+     [-0.9014] The customers service is pleasant .
+     [-0.8455] I love this place !
+     [-0.8255] It 's so refreshing to find integrity in a place of business .
+     [-0.7763] This place also has membership pricing at a really great deal .
+
+**********
+[0.7394] The staff is good.
+Parent: They also said that the staff is professional and caring.
+
+Top 5 (supporting):
+     [0.7394] Staff is friendly , the office is always clean / tidy and haven 't ever waited more than 10 mins .
+     [0.6385] The entire staff is very professional .
+     [0.4595] BEST CHIROPRACTORS IN TOWN ! !
+     [0.3156] These people are fair and honest .
+     [0.2236] Dr misty and Dr Nicholas are a great team !
+
+Top 5 (weakening):
+     [-0.0383] I have been told that it is a state law that I need X-rays , I have been told that I had to sign an agreement .
+     [-0.0097] I just wish I hadn 't of moved so far away or I 'd still be going .
+     [-0.0093] Over the past three years , my back has been getting stronger , and strong , and stronger .
+     [0.0000] ! !
+     [0.0000] ! !
+
+**********
+[0.7394] The staff is good.
+Parent: They also said that the staff is professional and caring.
+
+Top 5 (supporting):
+     [0.7394] Staff is friendly , the office is always clean / tidy and haven 't ever waited more than 10 mins .
+     [0.6385] The entire staff is very professional .
+     [0.4595] BEST CHIROPRACTORS IN TOWN ! !
+     [0.3156] These people are fair and honest .
+     [0.2236] Dr misty and Dr Nicholas are a great team !
+
+Top 5 (weakening):
+     [-0.0383] I have been told that it is a state law that I need X-rays , I have been told that I had to sign an agreement .
+     [-0.0097] I just wish I hadn 't of moved so far away or I 'd still be going .
+     [-0.0093] Over the past three years , my back has been getting stronger , and strong , and stronger .
+     [0.0000] ! !
+     [0.0000] ! !

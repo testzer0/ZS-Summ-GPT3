@@ -1,0 +1,572 @@
+Summary:
+
+Overall, the reviews were positive, with people enjoying the burgers, fries, and milkshakes.
+There were a few complaints about the wait time and the lack of a vegan option, but people generally had a good experience.
+The reviews of the product were mostly positive, with people praising the food, atmosphere, and service.
+However, some people felt that the burgers were not as good as other similar restaurants, and one person even said that the made the wrong item and blamed the customer.
+Overall, people seemed to enjoy the product and would recommend it to others.
+Overall, reviewers thought the food was good, especially the burgers and onion rings.
+However, some reviewers noted that the restaurant was cold and that orders were sometimes messed up.
+Parking can also be difficult to find.
+The reviewers said that the food was average to good, with some excellent dishes, and that the service was generally good.
+They also said that the beer selection was good.
+The reviews were mostly positive, with people praising the gluten-free bun options and the variety of toppings available.
+However, some people found the burgers to be overcooked, and there were also complaints about the service.
+
+**********
+[0.4077] The reviews were positive.
+Parent: Overall, the reviews were positive, with people enjoying the burgers, fries, and milkshakes.
+
+Top 5 (supporting):
+     [0.4077] Highly recommended ! !
+     [0.4062] Great staff , great environment , good specials !
+     [0.3875] Pleasant atmosphere and great service .
+     [0.3865] Delicious food , friendly service , and a great selection of beers .
+     [0.3856] Great atmosphere , friendly staff , really good food .
+
+Top 5 (weakening):
+     [-0.9867] Made wrong item and blamed us for ordering wrong !
+     [-0.9783] Service sucks .
+     [-0.9712] Would probably give it a three star if I didn 't get the terrible stomachache from their shakes .
+     [-0.9674] Everything is fairly average .
+     [-0.9552] They messed up my order slightly and the restaurant was super cold .
+
+**********
+[0.9637] The burgers were enjoyed.
+Parent: Overall, the reviews were positive, with people enjoying the burgers, fries, and milkshakes.
+
+Top 5 (supporting):
+     [0.9637] We really enjoyed our pick your topping burgers ... my daughter picked mac and cheese to top hers !
+     [0.8783] Burgers where to die for !
+     [0.8288] The burger was delicious !
+     [0.7992] Burger was great and the wait time was pretty sure even during busy hours .
+     [0.7603] These burgers are awesome !
+
+Top 5 (weakening):
+     [-0.9083] A variety of draft beers and my son enjoyed his milkshake .
+     [-0.9072] However I say skip the burger , totally not worth it .
+     [-0.8403] The milkshakes are amazing , would love to see a dairy-free one in the future .
+     [-0.7855] I 'll pass on the burger .
+     [-0.7606] Texas Toast with peanut butter is great ! !
+
+**********
+[0.7552] The fries were enjoyable.
+Parent: Overall, the reviews were positive, with people enjoying the burgers, fries, and milkshakes.
+
+Top 5 (supporting):
+     [0.7552] The sweet potato fries were pretty good , and really the star of the meal .
+     [0.4248] Got the chicken fingers with normal French fries and they were also delicious .
+     [0.2476] I would highly recommend the pierogies as an appetizer !
+     [0.1667] Pretzel bun was good too .
+     [0.1335] I 'd highly recommend this place if your in the need of a tasty cheeseburger !
+
+Top 5 (weakening):
+     [-0.5971] The milkshakes are amazing , would love to see a dairy-free one in the future .
+     [-0.3316] A variety of draft beers and my son enjoyed his milkshake .
+     [-0.3204] Lots of people and great location
+     [-0.3097] There are large TVs all around and the atmosphere is lively especially when school is in session .
+     [-0.2827] Service sucks .
+
+**********
+[0.8775] The milkshakes were enjoyed.
+Parent: Overall, the reviews were positive, with people enjoying the burgers, fries, and milkshakes.
+
+Top 5 (supporting):
+     [0.8775] The milkshakes are amazing , would love to see a dairy-free one in the future .
+     [0.7936] A variety of draft beers and my son enjoyed his milkshake .
+     [0.7441] Additionally , the milk shakes are pretty good , with crushed Graham crackers in them .
+     [0.0095] Would 100 % come back !
+     [0.0076] Highly recommended ! !
+
+Top 5 (weakening):
+     [-0.9067] Burgers where to die for !
+     [-0.8391] Got the chicken fingers with normal French fries and they were also delicious .
+     [-0.8347] We really enjoyed our pick your topping burgers ... my daughter picked mac and cheese to top hers !
+     [-0.8194] Really nice customized burgers !
+     [-0.8119] These burgers are awesome !
+
+**********
+[0.0000] The wait time was too long.
+Parent: There were a few complaints about the wait time and the lack of a vegan option, but people generally had a good experience.
+
+Top 5 (supporting):
+     [0.0000] !
+     [0.0000] Amazing .
+     [0.0000] Love it .
+     [0.0000] !
+     [0.0000] Meh ..
+
+Top 5 (weakening):
+     [-0.9859] The service was quick and efficient !
+     [-0.8457] The staff was quick to get my order and greet me .
+     [-0.6943] Delicious food , friendly service , and a great selection of beers .
+     [-0.6871] Pleasant atmosphere and great service .
+     [-0.5997] Highly recommended ! !
+
+**********
+[0.4692] There were complaints about the lack of a vegan option.
+Parent: There were a few complaints about the wait time and the lack of a vegan option, but people generally had a good experience.
+
+Top 5 (supporting):
+     [0.4692] Very good happy hour and daily specials , although it is disappointing that the veggie burger isn 't included in the half off burger night .
+     [0.0000] !
+     [0.0000] Amazing .
+     [0.0000] Love it .
+     [0.0000] !
+
+Top 5 (weakening):
+     [-0.2275] She made our night for my sisters 21st birthday .
+     [-0.1976] Michelle was awesome .
+     [-0.1808] Made wrong item and blamed us for ordering wrong !
+     [-0.1672] It 's an awesome new option for good food in Oakland .
+     [-0.1548] Everyone was super friendly
+
+**********
+[0.7060] People had a good experience.
+Parent: There were a few complaints about the wait time and the lack of a vegan option, but people generally had a good experience.
+
+Top 5 (supporting):
+     [0.7060] Had a blast .
+     [0.5835] We really enjoyed our pick your topping burgers ... my daughter picked mac and cheese to top hers !
+     [0.4756] Good burger , glad we went .
+     [0.4717] Great atmosphere , friendly staff , really good food .
+     [0.3372] Pleasant atmosphere and great service .
+
+Top 5 (weakening):
+     [-0.9719] Made wrong item and blamed us for ordering wrong !
+     [-0.9421] Service sucks .
+     [-0.8779] Tries to be Burgatory and isn 't up to par .
+     [-0.8559] Everything is fairly average .
+     [-0.8238] However I say skip the burger , totally not worth it .
+
+**********
+[0.8618] The product was good.
+Parent: The reviews of the product were mostly positive, with people praising the food, atmosphere, and service.
+
+Top 5 (supporting):
+     [0.8618] Pretzel bun was good too .
+     [0.7122] Burger was great and the wait time was pretty sure even during busy hours .
+     [0.6985] Came in and got the fried ravioli as an appetizer , and it was beyond amazing .
+     [0.6904] The sweet potato fries were pretty good , and really the star of the meal .
+     [0.6886] Drinks were good and atmosphere was right .
+
+Top 5 (weakening):
+     [-0.8217] Service sucks .
+     [-0.7408] Tries to be Burgatory and isn 't up to par .
+     [-0.6376] However I say skip the burger , totally not worth it .
+     [-0.4510] Lots of people and great location
+     [-0.4024] I guess it 's just another mediocre burger place in Pittsburgh .
+
+**********
+[0.9506] The food was good.
+Parent: The reviews of the product were mostly positive, with people praising the food, atmosphere, and service.
+
+Top 5 (supporting):
+     [0.9506] Food is excellent , love the build your burger set up .
+     [0.9060] Great atmosphere , friendly staff , really good food .
+     [0.8671] Great food , staff and beers !
+     [0.8535] They always get my order right and the quality of the food is really good .
+     [0.8347] Delicious food , friendly service , and a great selection of beers .
+
+Top 5 (weakening):
+     [-0.7022] I guess it 's just another mediocre burger place in Pittsburgh .
+     [-0.6935] However I say skip the burger , totally not worth it .
+     [-0.6776] They messed up my order slightly and the restaurant was super cold .
+     [-0.5276] I think the best thing this place has going for it is their beer selection.I 've never been wow 'ed by any of the food here .
+     [-0.2926] I 'll pass on the burger .
+
+**********
+[0.9430] The atmosphere was praised.
+Parent: The reviews of the product were mostly positive, with people praising the food, atmosphere, and service.
+
+Top 5 (supporting):
+     [0.9430] Great atmosphere , friendly staff , really good food .
+     [0.9393] Great staff , great environment , good specials !
+     [0.8227] Pleasant atmosphere and great service .
+     [0.7533] Drinks were good and atmosphere was right .
+     [0.1886] Lots of people and great location
+
+Top 5 (weakening):
+     [-0.8240] Tries to be Burgatory and isn 't up to par .
+     [-0.7797] They messed up my order slightly and the restaurant was super cold .
+     [-0.7320] Made wrong item and blamed us for ordering wrong !
+     [-0.6999] Service sucks .
+     [-0.5686] Not planning on any trips back to this place anytime soon especially on a Pitt Basketball game night .
+
+**********
+[0.9580] The service was good.
+Parent: The reviews of the product were mostly positive, with people praising the food, atmosphere, and service.
+
+Top 5 (supporting):
+     [0.9580] The service was also great .
+     [0.9267] You build your own with a huge list of items to chose from .Service was great , restaurant was alive .
+     [0.8854] Pleasant atmosphere and great service .
+     [0.8399] This restaurant always gives excellent service , even when it 's very busy .
+     [0.7182] The service was quick and efficient !
+
+Top 5 (weakening):
+     [-0.9850] Service sucks .
+     [-0.8482] Tries to be Burgatory and isn 't up to par .
+     [-0.8384] They messed up my order slightly and the restaurant was super cold .
+     [-0.8234] Made wrong item and blamed us for ordering wrong !
+     [-0.7242] Ordered takeout online and when I went to pick it up all the lights were shut off and doors were locked !
+
+**********
+[0.9546] The burgers were not as good as other restaurants.
+Parent: However, some people felt that the burgers were not as good as other similar restaurants, and one person even said that the made the wrong item and blamed the customer.
+
+Top 5 (supporting):
+     [0.9546] Burgers not even as good as shake shack , in n out , or super duper .
+     [0.1794] I guess it 's just another mediocre burger place in Pittsburgh .
+     [0.0391] Burger was good , not great .
+     [0.0136] However I say skip the burger , totally not worth it .
+     [0.0063] Tries to be Burgatory and isn 't up to par .
+
+Top 5 (weakening):
+     [-0.6773] Five Guys still rules as the best burger joint in Oakland .
+     [-0.6413] Burgers where to die for !
+     [-0.6272] These burgers are awesome !
+     [-0.4855] I 'd highly recommend this place if your in the need of a tasty cheeseburger !
+     [-0.4106] The make-your-own burgers are awesome , but I really love the quesadillas .
+
+**********
+[0.9123] They made the wrong item.
+Parent: However, some people felt that the burgers were not as good as other similar restaurants, and one person even said that the made the wrong item and blamed the customer.
+
+Top 5 (supporting):
+     [0.9123] Made wrong item and blamed us for ordering wrong !
+     [0.4752] They messed up my order slightly and the restaurant was super cold .
+     [0.1690] However I say skip the burger , totally not worth it .
+     [0.1588] Tries to be Burgatory and isn 't up to par .
+     [0.0862] I guess it 's just another mediocre burger place in Pittsburgh .
+
+Top 5 (weakening):
+     [-0.9966] It was the perfect choice .
+     [-0.9924] Great food , staff and beers !
+     [-0.9922] Overall amazing meal !
+     [-0.9899] One of the Best burgers I 've had .
+     [-0.9898] Really nice customized burgers !
+
+**********
+[0.8376] The customer was blamed.
+Parent: However, some people felt that the burgers were not as good as other similar restaurants, and one person even said that the made the wrong item and blamed the customer.
+
+Top 5 (supporting):
+     [0.8376] Made wrong item and blamed us for ordering wrong !
+     [0.0000] !
+     [0.0000] Amazing .
+     [0.0000] Love it .
+     [0.0000] !
+
+Top 5 (weakening):
+     [-0.9655] Our waitress was very pleasant and helpful .
+     [-0.9648] Highly recommended ! !
+     [-0.9621] Staff was attentive and very friendly .
+     [-0.9589] Everyone was super friendly
+     [-0.9586] We really enjoyed our pick your topping burgers ... my daughter picked mac and cheese to top hers !
+
+**********
+[0.8104] People enjoyed the product.
+Parent: Overall, people seemed to enjoy the product and would recommend it to others.
+
+Top 5 (supporting):
+     [0.8104] We really enjoyed our pick your topping burgers ... my daughter picked mac and cheese to top hers !
+     [0.6535] A variety of draft beers and my son enjoyed his milkshake .
+     [0.5995] Good burger , glad we went .
+     [0.5406] Came in and got the fried ravioli as an appetizer , and it was beyond amazing .
+     [0.4837] Burgers where to die for !
+
+Top 5 (weakening):
+     [-0.3784] Made wrong item and blamed us for ordering wrong !
+     [-0.2932] However I say skip the burger , totally not worth it .
+     [-0.2789] Service sucks .
+     [-0.2356] Tries to be Burgatory and isn 't up to par .
+     [-0.0797] They messed up my order slightly and the restaurant was super cold .
+
+**********
+[0.5875] The product was recommended to others.
+Parent: Overall, people seemed to enjoy the product and would recommend it to others.
+
+Top 5 (supporting):
+     [0.5875] 10 / 10 would recommend !
+     [0.5827] Recommended AF .
+     [0.5661] Highly recommended ! !
+     [0.2643] Place came recommended .
+     [0.1787] Highly recommend going when the weather is nice because they open up the garage doors .
+
+Top 5 (weakening):
+     [-0.1353] Lots of people and great location
+     [-0.0620] Found this place .
+     [-0.0574] My daughter took the college tour at Pitt .
+     [-0.0463] Not sure what the big deal is with this place .
+     [-0.0346] Service sucks .
+
+**********
+[0.9506] The food was good.
+Parent: Overall, reviewers thought the food was good, especially the burgers and onion rings.
+
+Top 5 (supporting):
+     [0.9506] Food is excellent , love the build your burger set up .
+     [0.9060] Great atmosphere , friendly staff , really good food .
+     [0.8671] Great food , staff and beers !
+     [0.8535] They always get my order right and the quality of the food is really good .
+     [0.8347] Delicious food , friendly service , and a great selection of beers .
+
+Top 5 (weakening):
+     [-0.7022] I guess it 's just another mediocre burger place in Pittsburgh .
+     [-0.6935] However I say skip the burger , totally not worth it .
+     [-0.6776] They messed up my order slightly and the restaurant was super cold .
+     [-0.5276] I think the best thing this place has going for it is their beer selection.I 've never been wow 'ed by any of the food here .
+     [-0.2926] I 'll pass on the burger .
+
+**********
+[0.0960] The burgers and onion rings were good.
+Parent: Overall, reviewers thought the food was good, especially the burgers and onion rings.
+
+Top 5 (supporting):
+     [0.0960] The make-your-own burgers are awesome , but I really love the quesadillas .
+     [0.0358] Pretzel bun was good too .
+     [0.0232] Food is excellent , love the build your burger set up .
+     [0.0187] I think their onion rings were the best food I 've tried there so far .
+     [0.0106] One of the Best burgers I 've had .
+
+Top 5 (weakening):
+     [-0.8597] Got the chicken fingers with normal French fries and they were also delicious .
+     [-0.8463] However I say skip the burger , totally not worth it .
+     [-0.8457] I 'll pass on the burger .
+     [-0.8060] A variety of draft beers and my son enjoyed his milkshake .
+     [-0.7347] I guess it 's just another mediocre burger place in Pittsburgh .
+
+**********
+[0.9799] The restaurant was cold.
+Parent: However, some reviewers noted that the restaurant was cold and that orders were sometimes messed up.
+
+Top 5 (supporting):
+     [0.9799] They messed up my order slightly and the restaurant was super cold .
+     [0.0000] !
+     [0.0000] Amazing .
+     [0.0000] Love it .
+     [0.0000] !
+
+Top 5 (weakening):
+     [-0.9871] The decor is modern and appealing , and it makes for a nice atmosphere when they open the garage door-style windows during nice weather .
+     [-0.9827] Pleasant atmosphere and great service .
+     [-0.9751] Overall amazing meal !
+     [-0.9740] You build your own with a huge list of items to chose from .Service was great , restaurant was alive .
+     [-0.9717] Best food I have tasted in a long time .
+
+**********
+[0.6320] Orders were sometimes messed up.
+Parent: However, some reviewers noted that the restaurant was cold and that orders were sometimes messed up.
+
+Top 5 (supporting):
+     [0.6320] They messed up my order slightly and the restaurant was super cold .
+     [0.4040] Made wrong item and blamed us for ordering wrong !
+     [0.1674] Tries to be Burgatory and isn 't up to par .
+     [0.1405] Ordered takeout online and when I went to pick it up all the lights were shut off and doors were locked !
+     [0.1095] Would probably give it a three star if I didn 't get the terrible stomachache from their shakes .
+
+Top 5 (weakening):
+     [-0.6077] The service was quick and efficient !
+     [-0.3442] Pleasant atmosphere and great service .
+     [-0.3430] This restaurant always gives excellent service , even when it 's very busy .
+     [-0.2920] The burgers are always delicious and properly prepared .
+     [-0.2844] They always get my order right and the quality of the food is really good .
+
+**********
+[0.9801] Parking is difficult to find.
+Parent: Parking can also be difficult to find.
+
+Top 5 (supporting):
+     [0.9801] Parking can be very difficult to find , but that 's what you expect of Pitt 's campus .
+     [0.0007] Long drive to Pittsburgh .
+     [0.0000] !
+     [0.0000] Amazing .
+     [0.0000] Love it .
+
+Top 5 (weakening):
+     [-0.2449] We really enjoyed our pick your topping burgers ... my daughter picked mac and cheese to top hers !
+     [-0.2389] Wide choice of toppings and sauce .
+     [-0.2254] They have gluten free bun options and they 're actually good buns .
+     [-0.2189] Made wrong item and blamed us for ordering wrong !
+     [-0.2171] I got a veggie burger with the fixings and sweet potato fries .
+
+**********
+[0.6329] The food was average.
+Parent: The reviewers said that the food was average to good, with some excellent dishes, and that the service was generally good.
+
+Top 5 (supporting):
+     [0.6329] It 's an average burger joint on a college campus .
+     [0.6201] I guess it 's just another mediocre burger place in Pittsburgh .
+     [0.0338] I think the best thing this place has going for it is their beer selection.I 've never been wow 'ed by any of the food here .
+     [0.0299] There isn 't a huge variety in food selection , but they have a bar with friendly service and a solid amount of TVs if you 're into whatever game is on .
+     [0.0182] We asked the girl who worked in admissions where to eat that wasn 't a chain , good and casual .
+
+Top 5 (weakening):
+     [-0.9960] Came in and got the fried ravioli as an appetizer , and it was beyond amazing .
+     [-0.9958] These burgers are awesome !
+     [-0.9953] The burgers are always delicious and properly prepared .
+     [-0.9946] Overall amazing meal !
+     [-0.9946] Great food , staff and beers !
+
+**********
+[0.9506] The food was good.
+Parent: The reviewers said that the food was average to good, with some excellent dishes, and that the service was generally good.
+
+Top 5 (supporting):
+     [0.9506] Food is excellent , love the build your burger set up .
+     [0.9060] Great atmosphere , friendly staff , really good food .
+     [0.8671] Great food , staff and beers !
+     [0.8535] They always get my order right and the quality of the food is really good .
+     [0.8347] Delicious food , friendly service , and a great selection of beers .
+
+Top 5 (weakening):
+     [-0.7022] I guess it 's just another mediocre burger place in Pittsburgh .
+     [-0.6935] However I say skip the burger , totally not worth it .
+     [-0.6776] They messed up my order slightly and the restaurant was super cold .
+     [-0.5276] I think the best thing this place has going for it is their beer selection.I 've never been wow 'ed by any of the food here .
+     [-0.2926] I 'll pass on the burger .
+
+**********
+[0.7930] There were some excellent dishes.
+Parent: The reviewers said that the food was average to good, with some excellent dishes, and that the service was generally good.
+
+Top 5 (supporting):
+     [0.7930] Great atmosphere , friendly staff , really good food .
+     [0.5106] Great food , staff and beers !
+     [0.4375] Best food I have tasted in a long time .
+     [0.4295] Food is excellent , love the build your burger set up .
+     [0.4112] The make-your-own burgers are awesome , but I really love the quesadillas .
+
+Top 5 (weakening):
+     [-0.6640] Just average .
+     [-0.5274] I guess it 's just another mediocre burger place in Pittsburgh .
+     [-0.4913] Everything is fairly average .
+     [-0.4558] Service sucks .
+     [-0.4491] I think the best thing this place has going for it is their beer selection.I 've never been wow 'ed by any of the food here .
+
+**********
+[0.9580] The service was good.
+Parent: The reviewers said that the food was average to good, with some excellent dishes, and that the service was generally good.
+
+Top 5 (supporting):
+     [0.9580] The service was also great .
+     [0.9267] You build your own with a huge list of items to chose from .Service was great , restaurant was alive .
+     [0.8854] Pleasant atmosphere and great service .
+     [0.8399] This restaurant always gives excellent service , even when it 's very busy .
+     [0.7182] The service was quick and efficient !
+
+Top 5 (weakening):
+     [-0.9850] Service sucks .
+     [-0.8482] Tries to be Burgatory and isn 't up to par .
+     [-0.8384] They messed up my order slightly and the restaurant was super cold .
+     [-0.8234] Made wrong item and blamed us for ordering wrong !
+     [-0.7242] Ordered takeout online and when I went to pick it up all the lights were shut off and doors were locked !
+
+**********
+[0.9219] The beer selection was good.
+Parent: They also said that the beer selection was good.
+
+Top 5 (supporting):
+     [0.9219] Delicious food , friendly service , and a great selection of beers .
+     [0.8843] There is also an alright selection of beer .
+     [0.7572] I think the best thing this place has going for it is their beer selection.I 've never been wow 'ed by any of the food here .
+     [0.7445] Very decent burgs and shakes for reasonable prices , plus friendly service !
+     [0.4472] Great food , staff and beers !
+
+Top 5 (weakening):
+     [-0.4982] The burger was delicious !
+     [-0.4526] The milkshakes are amazing , would love to see a dairy-free one in the future .
+     [-0.4445] The choice is extensive and you can actually really customise your burger to you 're liking.So it 's customised to your taste buds be it spicy or sweet sauce and also the cheese , bread and the patty ..
+     [-0.4356] Texas Toast with peanut butter is great ! !
+     [-0.4198] Really nice customized burgers !
+
+**********
+[0.4924] The reviews were good.
+Parent: The reviews were mostly positive, with people praising the gluten-free bun options and the variety of toppings available.
+
+Top 5 (supporting):
+     [0.4924] Great atmosphere , friendly staff , really good food .
+     [0.4379] Great staff , great environment , good specials !
+     [0.4292] Very good happy hour and daily specials , although it is disappointing that the veggie burger isn 't included in the half off burger night .
+     [0.3731] Delicious food , friendly service , and a great selection of beers .
+     [0.3660] Great food , staff and beers !
+
+Top 5 (weakening):
+     [-0.9351] Everything is fairly average .
+     [-0.9312] Service sucks .
+     [-0.9220] Made wrong item and blamed us for ordering wrong !
+     [-0.8987] Tries to be Burgatory and isn 't up to par .
+     [-0.8848] Just average .
+
+**********
+[0.1060] The gluten-free bun options were praised.
+Parent: The reviews were mostly positive, with people praising the gluten-free bun options and the variety of toppings available.
+
+Top 5 (supporting):
+     [0.1060] They have gluten free bun options and they 're actually good buns .
+     [0.0177] It was the perfect choice .
+     [0.0032] It 's an awesome new option for good food in Oakland .
+     [0.0000] !
+     [0.0000] Amazing .
+
+Top 5 (weakening):
+     [-0.8120] Made wrong item and blamed us for ordering wrong !
+     [-0.5612] How does a burger place not let you pick how you want your burger cooked ? !
+     [-0.3107] I 'll pass on the burger .
+     [-0.2817] Service sucks .
+     [-0.2752] However I say skip the burger , totally not worth it .
+
+**********
+[0.4791] The toppings were varied.
+Parent: The reviews were mostly positive, with people praising the gluten-free bun options and the variety of toppings available.
+
+Top 5 (supporting):
+     [0.4791] The choice is extensive and you can actually really customise your burger to you 're liking.So it 's customised to your taste buds be it spicy or sweet sauce and also the cheese , bread and the patty ..
+     [0.3467] Wide choice of toppings and sauce .
+     [0.2069] We really enjoyed our pick your topping burgers ... my daughter picked mac and cheese to top hers !
+     [0.0867] Really nice customized burgers !
+     [0.0449] They messed up my order slightly and the restaurant was super cold .
+
+Top 5 (weakening):
+     [-0.4126] Service sucks .
+     [-0.4013] Everything is fairly average .
+     [-0.3734] Just average .
+     [-0.2303] There isn 't a huge variety in food selection , but they have a bar with friendly service and a solid amount of TVs if you 're into whatever game is on .
+     [-0.0649] Tries to be Burgatory and isn 't up to par .
+
+**********
+[0.0192] The burgers were overcooked.
+Parent: However, some people found the burgers to be overcooked, and there were also complaints about the service.
+
+Top 5 (supporting):
+     [0.0192] Unless you like your burger practically burnt don 't bother .
+     [0.0000] !
+     [0.0000] Amazing .
+     [0.0000] Love it .
+     [0.0000] !
+
+Top 5 (weakening):
+     [-0.9381] Came in and got the fried ravioli as an appetizer , and it was beyond amazing .
+     [-0.9161] The burgers are always delicious and properly prepared .
+     [-0.8886] The milkshakes are amazing , would love to see a dairy-free one in the future .
+     [-0.8781] Got the chicken fingers with normal French fries and they were also delicious .
+     [-0.8516] I think their onion rings were the best food I 've tried there so far .
+
+**********
+[0.9354] The service was bad.
+Parent: However, some people found the burgers to be overcooked, and there were also complaints about the service.
+
+Top 5 (supporting):
+     [0.9354] Service sucks .
+     [0.3855] They messed up my order slightly and the restaurant was super cold .
+     [0.1517] Tries to be Burgatory and isn 't up to par .
+     [0.0559] Ordered takeout online and when I went to pick it up all the lights were shut off and doors were locked !
+     [0.0372] Made wrong item and blamed us for ordering wrong !
+
+Top 5 (weakening):
+     [-0.9975] Great staff , great environment , good specials !
+     [-0.9972] Pleasant atmosphere and great service .
+     [-0.9970] The service was quick and efficient !
+     [-0.9968] This restaurant always gives excellent service , even when it 's very busy .
+     [-0.9965] Staff was attentive and very friendly .

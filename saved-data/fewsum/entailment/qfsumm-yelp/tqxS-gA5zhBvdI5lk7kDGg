@@ -1,0 +1,295 @@
+Summary:
+
+The fish taco is my favorite , but everything I 've tried has been so fresh and tasty .
+- Service was a 2 star ( wasn ' t even rush hour and extremely slow ; many wrong orders within our party ; forgot to bring things ) - Drinks were a 1 star ( not tasty , limited choice , and REALLY expensive for what you got ) .
+Maize is my favorite Mexican restaurant in Champaign - Urbana .
+food is authentic mexican and flavorful .
+The gorditas are awesome !
+
+**********
+[0.8185] The fish taco is good.
+Parent: The fish taco is my favorite , but everything I 've tried has been so fresh and tasty .
+
+Top 5 (supporting):
+     [0.8185] The fish taco is my favorite , but everything I 've tried has been so fresh and tasty .
+     [0.0086] i will definitely go back
+     [0.0065] a solid option for mexican.
+     [0.0041] food is authentic mexican and flavorful.
+     [0.0035] would come again .
+
+Top 5 (weakening):
+     [-0.9590] Lime margarita was delish !
+     [-0.8982] Their steak tacos are to die for .
+     [-0.8911] Awesome half price margaritas on Tuesday !
+     [-0.8775] The refried beans were super salty .
+     [-0.8406] Especially the Americano with chorizo !
+
+**********
+[0.9612] Everything has been fresh.
+Parent: The fish taco is my favorite , but everything I 've tried has been so fresh and tasty .
+
+Top 5 (supporting):
+     [0.9612] The fish taco is my favorite , but everything I 've tried has been so fresh and tasty .
+     [0.1023] The new location is wonderful .
+     [0.0797] food is authentic mexican and flavorful.
+     [0.0641] Everything was excellent .
+     [0.0585] It did not disappoint .
+
+Top 5 (weakening):
+     [-0.9963] The refried beans were super salty .
+     [-0.9853] The rice didn 't taste fresh .
+     [-0.9745] The food was mediocre .
+     [-0.9237] the meat is very well marinated , leaning to the salty side , but still very good.
+     [-0.8058] Service seems a bit slow , though , and they have a weird thing about how they can only do 6 separate checks maximum .
+
+**********
+[0.8101] Everything is tasty.
+Parent: The fish taco is my favorite , but everything I 've tried has been so fresh and tasty .
+
+Top 5 (supporting):
+     [0.8101] The fish taco is my favorite , but everything I 've tried has been so fresh and tasty .
+     [0.2069] food is authentic mexican and flavorful.
+     [0.0963] Great food , nice staff , cicadas and live band both entertaining in the courtyard , and gorgeous old train station bar inside .
+     [0.0930] Everything was excellent .
+     [0.0901] This place is yummy !
+
+Top 5 (weakening):
+     [-0.9976] The food was mediocre .
+     [-0.9890] Chips were too thick for my taste but were sturdy and appears they would not break when scooping guac .
+     [-0.9833] -Service was a 2 star ( wasn 't even rush hour and extremely slow ; many wrong orders within our party ; forgot to bring things ) -Drinks were a 1 star ( not tasty , limited choice , and REALLY expensive for what you got ) .Overall , go for the food but expect to wait !
+     [-0.9693] The rice didn 't taste fresh .
+     [-0.9435] They were okay .
+
+**********
+[0.1975] Service was poor.
+Parent: - Service was a 2 star ( wasn ' t even rush hour and extremely slow ; many wrong orders within our party ; forgot to bring things ) - Drinks were a 1 star ( not tasty , limited choice , and REALLY expensive for what you got ) .
+
+Top 5 (supporting):
+     [0.1975] -Service was a 2 star ( wasn 't even rush hour and extremely slow ; many wrong orders within our party ; forgot to bring things ) -Drinks were a 1 star ( not tasty , limited choice , and REALLY expensive for what you got ) .Overall , go for the food but expect to wait !
+     [0.0141] This place has ruined other Mexican places for me .
+     [-0.0115] Had 3 tacos tradicional ( carne asada , pastor , and chorizo ) , chips and guacamole , and a margarita .
+     [-0.0128] Don 't expect your average Mexican restaurant experience .
+     [-0.0226] This was my first visit but certainly will not be my last !
+
+Top 5 (weakening):
+     [-0.9977] Lots of food for a good price and fantastic service ( super fast ) .
+     [-0.9969] Great food , nice staff , cicadas and live band both entertaining in the courtyard , and gorgeous old train station bar inside .
+     [-0.9961] service is fast and the food comes quickly too.
+     [-0.9930] Our server was very friendly & efficient !
+     [-0.9929] The service was okay .
+
+**********
+[0.9711] There were many wrong orders within our party.
+Parent: - Service was a 2 star ( wasn ' t even rush hour and extremely slow ; many wrong orders within our party ; forgot to bring things ) - Drinks were a 1 star ( not tasty , limited choice , and REALLY expensive for what you got ) .
+
+Top 5 (supporting):
+     [0.9711] -Service was a 2 star ( wasn 't even rush hour and extremely slow ; many wrong orders within our party ; forgot to bring things ) -Drinks were a 1 star ( not tasty , limited choice , and REALLY expensive for what you got ) .Overall , go for the food but expect to wait !
+     [-0.0002] Lots of fun to eat at .
+     [-0.0024] Don 't expect your average Mexican restaurant experience .
+     [-0.0072] Service seems a bit slow , though , and they have a weird thing about how they can only do 6 separate checks maximum .
+     [-0.0209] The food was mediocre .
+
+Top 5 (weakening):
+     [-0.9145] I 've never had a bad meal here .
+     [-0.9006] Everything was excellent .
+     [-0.8717] Lots of food for a good price and fantastic service ( super fast ) .
+     [-0.7434] Service was a bit too attentive , but wasn 't really a nuisance
+     [-0.7350] Nice atmosphere as well !
+
+**********
+[-0.0247] This was a forgetful thing to do.
+Parent: - Service was a 2 star ( wasn ' t even rush hour and extremely slow ; many wrong orders within our party ; forgot to bring things ) - Drinks were a 1 star ( not tasty , limited choice , and REALLY expensive for what you got ) .
+
+Top 5 (supporting):
+     [-0.0247] Lime margarita was delish !
+     [-0.0551] Daughter and I sat at the bar to have a snack and a drink .
+     [-0.1981] The rice didn 't taste fresh .
+     [-0.2201] Chips were too thick for my taste but were sturdy and appears they would not break when scooping guac .
+     [-0.2330] Had 3 tacos tradicional ( carne asada , pastor , and chorizo ) , chips and guacamole , and a margarita .
+
+Top 5 (weakening):
+     [-0.9819] It did not disappoint .
+     [-0.9799] Highly recommended .
+     [-0.9738] Everything was excellent .
+     [-0.9628] It 's never disappointing and I love the ambiance of this place .
+     [-0.9579] This place is yummy !
+
+**********
+[0.8574] Drinks were poor.
+Parent: - Service was a 2 star ( wasn ' t even rush hour and extremely slow ; many wrong orders within our party ; forgot to bring things ) - Drinks were a 1 star ( not tasty , limited choice , and REALLY expensive for what you got ) .
+
+Top 5 (supporting):
+     [0.8574] -Service was a 2 star ( wasn 't even rush hour and extremely slow ; many wrong orders within our party ; forgot to bring things ) -Drinks were a 1 star ( not tasty , limited choice , and REALLY expensive for what you got ) .Overall , go for the food but expect to wait !
+     [0.0124] This place has ruined other Mexican places for me .
+     [-0.0408] Don 't expect your average Mexican restaurant experience .
+     [-0.0586] Daughter and I sat at the bar to have a snack and a drink .
+     [-0.0596] Service seems a bit slow , though , and they have a weird thing about how they can only do 6 separate checks maximum .
+
+Top 5 (weakening):
+     [-0.9966] Yummy margaritas , great pastor tacos .
+     [-0.9929] Awesome half price margaritas on Tuesday !
+     [-0.9928] The gorditas are awesome !
+     [-0.9811] Lime margarita was delish !
+     [-0.9754] Especially the Americano with chorizo !
+
+**********
+[0.8672] It wasn't tasty.
+Parent: - Service was a 2 star ( wasn ' t even rush hour and extremely slow ; many wrong orders within our party ; forgot to bring things ) - Drinks were a 1 star ( not tasty , limited choice , and REALLY expensive for what you got ) .
+
+Top 5 (supporting):
+     [0.8672] -Service was a 2 star ( wasn 't even rush hour and extremely slow ; many wrong orders within our party ; forgot to bring things ) -Drinks were a 1 star ( not tasty , limited choice , and REALLY expensive for what you got ) .Overall , go for the food but expect to wait !
+     [0.8278] The food was mediocre .
+     [0.4597] Chips were too thick for my taste but were sturdy and appears they would not break when scooping guac .
+     [0.2508] The rice didn 't taste fresh .
+     [-0.0417] Daughter and I sat at the bar to have a snack and a drink .
+
+Top 5 (weakening):
+     [-0.9939] Their steak tacos are to die for .
+     [-0.9931] This place is yummy !
+     [-0.9920] Amazing chips and salsa .
+     [-0.9914] Yummy margaritas , great pastor tacos .
+     [-0.9911] The gorditas are awesome !
+
+**********
+[0.9272] The choice was limited.
+Parent: - Service was a 2 star ( wasn ' t even rush hour and extremely slow ; many wrong orders within our party ; forgot to bring things ) - Drinks were a 1 star ( not tasty , limited choice , and REALLY expensive for what you got ) .
+
+Top 5 (supporting):
+     [0.9272] -Service was a 2 star ( wasn 't even rush hour and extremely slow ; many wrong orders within our party ; forgot to bring things ) -Drinks were a 1 star ( not tasty , limited choice , and REALLY expensive for what you got ) .Overall , go for the food but expect to wait !
+     [0.1652] I wish they would give bigger portions of the salsa that came with the tortilla chips considering the fact that it was a party of 6 of us but each time we wanted a refill it came right away .
+     [0.0379] Don 't expect your average Mexican restaurant experience .
+     [0.0320] The food was mediocre .
+     [0.0106] Service seems a bit slow , though , and they have a weird thing about how they can only do 6 separate checks maximum .
+
+Top 5 (weakening):
+     [-0.8436] Unlike the original location , there is plenty of room to enjoy your dining experience .
+     [-0.8021] Everything was excellent .
+     [-0.7670] Lots of food for a good price and fantastic service ( super fast ) .
+     [-0.7109] It 's never disappointing and I love the ambiance of this place .
+     [-0.6993] Their steak tacos are to die for .
+
+**********
+[0.8348] It was REALLY expensive.
+Parent: - Service was a 2 star ( wasn ' t even rush hour and extremely slow ; many wrong orders within our party ; forgot to bring things ) - Drinks were a 1 star ( not tasty , limited choice , and REALLY expensive for what you got ) .
+
+Top 5 (supporting):
+     [0.8348] -Service was a 2 star ( wasn 't even rush hour and extremely slow ; many wrong orders within our party ; forgot to bring things ) -Drinks were a 1 star ( not tasty , limited choice , and REALLY expensive for what you got ) .Overall , go for the food but expect to wait !
+     [0.0045] This place has ruined other Mexican places for me .
+     [0.0010] This was my first visit but certainly will not be my last !
+     [0.0002] i will definitely go back
+     [0.0001] I will definitely come back .
+
+Top 5 (weakening):
+     [-0.9967] Prices are very reasonable , too .
+     [-0.9963] prices are very reasonable !
+     [-0.9956] Lots of food for a good price and fantastic service ( super fast ) .
+     [-0.9798] Awesome half price margaritas on Tuesday !
+     [-0.5306] They were okay .
+
+**********
+[0.9238] I like Maize.
+Parent: Maize is my favorite Mexican restaurant in Champaign - Urbana .
+
+Top 5 (supporting):
+     [0.9238] Maize is my favorite Mexican restaurant in Champaign-Urbana .
+     [0.0030] i will definitely go back
+     [-0.0034] Highly recommended .
+     [-0.0125] Got the veggie flutas here .
+     [-0.0250] Daughter and I sat at the bar to have a snack and a drink .
+
+Top 5 (weakening):
+     [-0.9827] Love the steak tostadas as well as the steak burrito .
+     [-0.9820] Tacos are the bomb !
+     [-0.9812] Favorite restaurant to go to for tacos !
+     [-0.9641] Lime margarita was delish !
+     [-0.9637] Their steak tacos are to die for .
+
+**********
+[0.5135] Maize is the best restaurant in Champaign - Urbana.
+Parent: Maize is my favorite Mexican restaurant in Champaign - Urbana .
+
+Top 5 (supporting):
+     [0.5135] Maize is my favorite Mexican restaurant in Champaign-Urbana .
+     [-0.0008] Lots of food for a good price and fantastic service ( super fast ) .
+     [-0.0008] i will definitely go back
+     [-0.0012] I will definitely come back .
+     [-0.0013] service is fast and the food comes quickly too.
+
+Top 5 (weakening):
+     [-0.8944] The food was mediocre .
+     [-0.4185] Cheryl is the greatest ever !
+     [-0.2803] The rice didn 't taste fresh .
+     [-0.1625] a solid option for mexican.
+     [-0.1320] They were okay .
+
+**********
+[0.9586] The food is authentic.
+Parent: food is authentic mexican and flavorful .
+
+Top 5 (supporting):
+     [0.9586] food is authentic mexican and flavorful.
+     [0.2109] The fish taco is my favorite , but everything I 've tried has been so fresh and tasty .
+     [0.0650] always great to get home made tortillas.
+     [0.0602] -Food is 5 star ( the pastor tacos were amazing ! )
+     [0.0417] Best Mexican food I 've had .
+
+Top 5 (weakening):
+     [-0.9580] The food was mediocre .
+     [-0.6982] The rice didn 't taste fresh .
+     [-0.3267] Lime margarita was delish !
+     [-0.2880] Awesome half price margaritas on Tuesday !
+     [-0.2171] Cheryl is the greatest ever !
+
+**********
+[0.8940] Mexican food is good.
+Parent: food is authentic mexican and flavorful .
+
+Top 5 (supporting):
+     [0.8940] food is authentic mexican and flavorful.
+     [0.8543] Best Mexican food I 've had .
+     [0.7086] Great for Mexican food and train aficionados both , and nice relaxed atmosphere for family or date
+     [0.5273] Tacos are the bomb !
+     [0.3729] Their steak tacos are to die for .
+
+Top 5 (weakening):
+     [-0.8648] The food was mediocre .
+     [-0.4473] Cheryl is the greatest ever !
+     [-0.1459] Don 't expect your average Mexican restaurant experience .
+     [-0.0370] The service was okay .
+     [-0.0347] The rice didn 't taste fresh .
+
+**********
+[0.9626] The food is flavorful.
+Parent: food is authentic mexican and flavorful .
+
+Top 5 (supporting):
+     [0.9626] food is authentic mexican and flavorful.
+     [0.5864] The fish taco is my favorite , but everything I 've tried has been so fresh and tasty .
+     [0.3326] Tacos are the bomb !
+     [0.3215] This place is yummy !
+     [0.2954] Lime margarita was delish !
+
+Top 5 (weakening):
+     [-0.8259] The food was mediocre .
+     [-0.0782] Chips were too thick for my taste but were sturdy and appears they would not break when scooping guac .
+     [-0.0365] The rice didn 't taste fresh .
+     [-0.0342] Cheryl is the greatest ever !
+     [-0.0124] The service was okay .
+
+**********
+[0.9681] The gorditas are great.
+Parent: The gorditas are awesome !
+
+Top 5 (supporting):
+     [0.9681] The gorditas are awesome !
+     [0.3251] Tacos are the bomb !
+     [0.0886] always great to get home made tortillas.
+     [0.0494] Great environment as well .
+     [0.0403] the meat is very well marinated , leaning to the salty side , but still very good.
+
+Top 5 (weakening):
+     [-0.8721] They were okay .
+     [-0.8620] The food was mediocre .
+     [-0.7912] Chips were too thick for my taste but were sturdy and appears they would not break when scooping guac .
+     [-0.7762] The service was okay .
+     [-0.5250] -Food is 5 star ( the pastor tacos were amazing ! )

@@ -1,0 +1,93 @@
+Summary:
+
+The product was largely praised by the reviewers. They found it to be effective and affordable. There were a few complaints about the product, but they were mostly minor.
+
+**********
+[0.8618] The product was good.
+Parent: The product was largely praised by the reviewers.
+
+Top 5 (supporting):
+     [0.8618] Pretzel bun was good too .
+     [0.7122] Burger was great and the wait time was pretty sure even during busy hours .
+     [0.6985] Came in and got the fried ravioli as an appetizer , and it was beyond amazing .
+     [0.6904] The sweet potato fries were pretty good , and really the star of the meal .
+     [0.6886] Drinks were good and atmosphere was right .
+
+Top 5 (weakening):
+     [-0.8217] Service sucks .
+     [-0.7408] Tries to be Burgatory and isn 't up to par .
+     [-0.6376] However I say skip the burger , totally not worth it .
+     [-0.4510] Lots of people and great location
+     [-0.4024] I guess it 's just another mediocre burger place in Pittsburgh .
+
+**********
+[0.7585] It was effective.
+Parent: They found it to be effective and affordable.
+
+Top 5 (supporting):
+     [0.7585] The service was quick and efficient !
+     [0.2534] It was the perfect choice .
+     [0.1586] The service was also great .
+     [0.1493] Came in and got the fried ravioli as an appetizer , and it was beyond amazing .
+     [0.1469] Pleasant atmosphere and great service .
+
+Top 5 (weakening):
+     [-0.9033] Tries to be Burgatory and isn 't up to par .
+     [-0.8394] Service sucks .
+     [-0.7110] Just average .
+     [-0.5816] However I say skip the burger , totally not worth it .
+     [-0.5057] Made wrong item and blamed us for ordering wrong !
+
+**********
+[0.9359] It was affordable.
+Parent: They found it to be effective and affordable.
+
+Top 5 (supporting):
+     [0.9359] The pricing is very reasonable , so I would recommend !
+     [0.8513] Very decent burgs and shakes for reasonable prices , plus friendly service !
+     [0.7481] Decent burgers , reasonably priced .
+     [0.5161] Prices are great , would highly recommend this place .
+     [0.2671] Awesome burger at half off in Tuesday night .
+
+Top 5 (weakening):
+     [-0.7459] However I say skip the burger , totally not worth it .
+     [-0.5413] Service sucks .
+     [-0.2945] Tries to be Burgatory and isn 't up to par .
+     [-0.2917] Burgers where to die for !
+     [-0.2870] Everything is fairly average .
+
+**********
+[0.6385] The product had a few complaints.
+Parent: There were a few complaints about the product, but they were mostly minor.
+
+Top 5 (supporting):
+     [0.6385] They messed up my order slightly and the restaurant was super cold .
+     [0.5377] Very good happy hour and daily specials , although it is disappointing that the veggie burger isn 't included in the half off burger night .
+     [0.5054] Would probably give it a three star if I didn 't get the terrible stomachache from their shakes .
+     [0.4620] Tries to be Burgatory and isn 't up to par .
+     [0.1858] Burgers not even as good as shake shack , in n out , or super duper .
+
+Top 5 (weakening):
+     [-0.1427] Lots of people and great location
+     [-0.0962] Great staff , great environment , good specials !
+     [-0.0808] Got the chicken fingers with normal French fries and they were also delicious .
+     [-0.0748] Came in and got the fried ravioli as an appetizer , and it was beyond amazing .
+     [-0.0678] Delicious food , friendly service , and a great selection of beers .
+
+**********
+[0.1491] The complaints were minor.
+Parent: There were a few complaints about the product, but they were mostly minor.
+
+Top 5 (supporting):
+     [0.1491] Just average .
+     [0.1284] Not bad , nothing special though .
+     [0.0117] Everything is fairly average .
+     [0.0089] They messed up my order slightly and the restaurant was super cold .
+     [0.0000] !
+
+Top 5 (weakening):
+     [-0.2731] Lots of people and great location
+     [-0.2710] This place is amazing !
+     [-0.2576] Came in and got the fried ravioli as an appetizer , and it was beyond amazing .
+     [-0.2508] Everyone was super friendly
+     [-0.2364] Delicious food , friendly service , and a great selection of beers .

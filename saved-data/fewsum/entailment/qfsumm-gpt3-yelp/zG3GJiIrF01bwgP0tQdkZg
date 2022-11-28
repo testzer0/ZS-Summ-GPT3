@@ -1,0 +1,183 @@
+Summary:
+
+The reviewers said that the food was authentic and tasteful, with a great selection of sushi, Thai specialities, and classic Chinese dishes. They also praised the staff as being friendly and prompt, and said that the restaurant was clean and comfortable. They particularly enjoyed the 3 cup chicken dish.
+
+**********
+[0.9541] The food was authentic.
+Parent: The reviewers said that the food was authentic and tasteful, with a great selection of sushi, Thai specialities, and classic Chinese dishes.
+
+Top 5 (supporting):
+     [0.9541] The menus selection was very authentic and tasteful .
+     [0.5256] The food has consistently been fresh and flavorful .
+     [0.5238] The last 10 + orders of our favorite dish , Prosperity Shrimp , have finally come as described on the menu .
+     [0.4962] Authentic Chinese , my mouth is watering as I type and I wish I was there for some pot stickers !
+     [0.3951] All the food is made fresh here ; egg roles , dumplings and you can task it .
+
+Top 5 (weakening):
+     [-0.9915] Also the food was very Americanized .
+     [-0.9463] Chicken was little strips fried .
+     [-0.9120] The food was rather disappointing .
+     [-0.8823] Drunken fish very tasty .
+     [-0.8767] Got me the wrong beer and wrong sashimi dish as well .
+
+**********
+[0.9274] The food was tasteful.
+Parent: The reviewers said that the food was authentic and tasteful, with a great selection of sushi, Thai specialities, and classic Chinese dishes.
+
+Top 5 (supporting):
+     [0.9274] Food is very flavorful .
+     [0.9192] The food has consistently been fresh and flavorful .
+     [0.8688] The menus selection was very authentic and tasteful .
+     [0.8638] We hasn 't been there for a few years and the food tasted better than I ever remembered !
+     [0.6536] The wonton soup is delicious and I love to pot stickers and the dipping sauce is amazing .
+
+Top 5 (weakening):
+     [-0.8198] The food was rather disappointing .
+     [-0.7534] Beautiful decor , disappointing food .
+     [-0.2792] Got me the wrong beer and wrong sashimi dish as well .
+     [-0.1613] The worst place I have been to , bad service , unfriendly managers , found hair in two meals , and lo mein had crusty hard glass like chunks in it .. would never go back
+     [-0.1552] Sushi is no longer any good and food is barely above that in a mall food court .
+
+**********
+[0.5959] The food had a great selection of sushi.
+Parent: The reviewers said that the food was authentic and tasteful, with a great selection of sushi, Thai specialities, and classic Chinese dishes.
+
+Top 5 (supporting):
+     [0.5959] The sushi , Thai specialities and classic Chinese restaurant style dishes are all equally good .
+     [0.4979] Great place for anything Asian-- sushi , sashimi , chinese you name it .
+     [0.2765] Loved the sushi , and my husband 's Salmon was excellent ! !
+     [0.0334] I went Chinese and sampled the sushi .
+     [0.0180] I had their interpretation of the bird 's nest and the seafood was fresh and delicious .
+
+Top 5 (weakening):
+     [-0.9189] Sushi is no longer any good and food is barely above that in a mall food court .
+     [-0.8450] Nice Spring Roll , but that 's about it .
+     [-0.8383] The worst place I have been to , bad service , unfriendly managers , found hair in two meals , and lo mein had crusty hard glass like chunks in it .. would never go back
+     [-0.7532] Beautiful decor , disappointing food .
+     [-0.7242] The food was rather disappointing .
+
+**********
+[0.4334] The food had a great selection of Thai specialities.
+Parent: The reviewers said that the food was authentic and tasteful, with a great selection of sushi, Thai specialities, and classic Chinese dishes.
+
+Top 5 (supporting):
+     [0.4334] The sushi , Thai specialities and classic Chinese restaurant style dishes are all equally good .
+     [0.0264] Their lo mein and General Tao 's chicken are amazing .
+     [0.0209] The wonton soup is delicious and I love to pot stickers and the dipping sauce is amazing .
+     [0.0132] The pad thai is incredible .
+     [0.0128] Wonderful wonton soup and miso soup .
+
+Top 5 (weakening):
+     [-0.9619] The worst place I have been to , bad service , unfriendly managers , found hair in two meals , and lo mein had crusty hard glass like chunks in it .. would never go back
+     [-0.9256] Beautiful decor , disappointing food .
+     [-0.9196] Nice Spring Roll , but that 's about it .
+     [-0.8921] The food was rather disappointing .
+     [-0.7829] The sushi is average but most of the Chinese dishes are excellent .
+
+**********
+[0.4602] The food had a great selection of classic Chinese dishes.
+Parent: The reviewers said that the food was authentic and tasteful, with a great selection of sushi, Thai specialities, and classic Chinese dishes.
+
+Top 5 (supporting):
+     [0.4602] The sushi , Thai specialities and classic Chinese restaurant style dishes are all equally good .
+     [0.0841] All the food is made fresh here ; egg roles , dumplings and you can task it .
+     [0.0631] The sushi is average but most of the Chinese dishes are excellent .
+     [0.0596] Authentic Chinese , my mouth is watering as I type and I wish I was there for some pot stickers !
+     [0.0566] Wonderful wonton soup and miso soup .
+
+Top 5 (weakening):
+     [-0.9697] The worst place I have been to , bad service , unfriendly managers , found hair in two meals , and lo mein had crusty hard glass like chunks in it .. would never go back
+     [-0.9359] Beautiful decor , disappointing food .
+     [-0.9092] The food was rather disappointing .
+     [-0.8896] Also the food was very Americanized .
+     [-0.7456] Nice Spring Roll , but that 's about it .
+
+**********
+[0.9837] The staff was friendly.
+Parent: They also praised the staff as being friendly and prompt, and said that the restaurant was clean and comfortable.
+
+Top 5 (supporting):
+     [0.9837] The staff is friendly and prompt it was just great .
+     [0.8296] Always a great meal , delicious & happy friendly service .
+     [0.7629] Great food and very friendly staf ... Clean and comforting ambience ... Do try their 3 Cup Chicken ! !
+     [0.5018] The wait is not long at all and the waitress we had last time was very nice but hard to understand .
+     [0.4541] Service was fast and friendly .
+
+Top 5 (weakening):
+     [-0.9913] The worst place I have been to , bad service , unfriendly managers , found hair in two meals , and lo mein had crusty hard glass like chunks in it .. would never go back
+     [-0.7542] Our server Jenn was flustered a bit at the start .
+     [-0.7351] Service was poor .
+     [-0.5735] You have lost our business !
+     [-0.5257] Very sad indeed .
+
+**********
+[0.9829] The staff was prompt.
+Parent: They also praised the staff as being friendly and prompt, and said that the restaurant was clean and comfortable.
+
+Top 5 (supporting):
+     [0.9829] The staff is friendly and prompt it was just great .
+     [0.4671] Always a great meal , delicious & happy friendly service .
+     [0.2229] Service was fast and friendly .
+     [0.1879] Good service even on a busy night like Mother 's Day , of course it helps to call ahead .
+     [0.1715] They also have some of the fastest delivery I 've ever seen .
+
+Top 5 (weakening):
+     [-0.9808] The worst place I have been to , bad service , unfriendly managers , found hair in two meals , and lo mein had crusty hard glass like chunks in it .. would never go back
+     [-0.9422] While I generally love the food I was disappointed when the server told me there is no more egg foo young ..... guess I 'll have to start going to Cleveland or make it myself .
+     [-0.9280] Service was poor .
+     [-0.9256] Our server Jenn was flustered a bit at the start .
+     [-0.9014] Very sad indeed .
+
+**********
+[0.8612] The restaurant was clean.
+Parent: They also praised the staff as being friendly and prompt, and said that the restaurant was clean and comfortable.
+
+Top 5 (supporting):
+     [0.8612] Great food and very friendly staf ... Clean and comforting ambience ... Do try their 3 Cup Chicken ! !
+     [0.1277] All the food is made fresh here ; egg roles , dumplings and you can task it .
+     [0.0638] I had their interpretation of the bird 's nest and the seafood was fresh and delicious .
+     [0.0427] Nice decor and good service .
+     [0.0230] You can tell someone really cares about this restaurant , the food that is served , and the manner in which it Is served .
+
+Top 5 (weakening):
+     [-0.9904] The worst place I have been to , bad service , unfriendly managers , found hair in two meals , and lo mein had crusty hard glass like chunks in it .. would never go back
+     [-0.9756] Both my Hot Sour Soup and Sechuan chicken had an overly vinegar undertone .
+     [-0.9115] Hot and sour soup was the perfect combination of heat and flavor , I was sad when I reached the bottom .
+     [-0.7943] I was expecting Hunan style and spicy ; very disappointing in the spicy level .
+     [-0.6895] This place is da bomb with a gong !
+
+**********
+[0.8799] The restaurant was comfortable.
+Parent: They also praised the staff as being friendly and prompt, and said that the restaurant was clean and comfortable.
+
+Top 5 (supporting):
+     [0.8799] Great food and very friendly staf ... Clean and comforting ambience ... Do try their 3 Cup Chicken ! !
+     [0.2470] After having a horrendous experience at Pad Thai Fairlawn less than a mile away , and storming out of there , I enjoyed a wonderful meal with my wife and two young daughters at House of Hunan .
+     [0.2210] Just stopped in on a business trip and was very satisfied with the restaurant .
+     [0.1458] Great atmosphere - reasonable prices and amazing food .
+     [0.1208] Always a great meal , delicious & happy friendly service .
+
+Top 5 (weakening):
+     [-0.9703] The worst place I have been to , bad service , unfriendly managers , found hair in two meals , and lo mein had crusty hard glass like chunks in it .. would never go back
+     [-0.9650] Food and service has taken a steep dive .
+     [-0.8105] This place is da bomb with a gong !
+     [-0.6755] Our server Jenn was flustered a bit at the start .
+     [-0.5479] I love this place it 's delish !
+
+**********
+[0.5417] They enjoyed the 3 cup chicken dish.
+Parent: They particularly enjoyed the 3 cup chicken dish.
+
+Top 5 (supporting):
+     [0.5417] Great food and very friendly staf ... Clean and comforting ambience ... Do try their 3 Cup Chicken ! !
+     [0.0056] Will definitely return .
+     [0.0028] Can 't wait to go again !
+     [0.0011] Really good food at reasonable prices .
+     [0.0007] We will be going back again soon !
+
+Top 5 (weakening):
+     [-0.9614] I had their interpretation of the bird 's nest and the seafood was fresh and delicious .
+     [-0.9572] The wonton soup is so good that I sometimes eat it as a meal .
+     [-0.9515] Hot and sour soup was the perfect combination of heat and flavor , I was sad when I reached the bottom .
+     [-0.9504] The wonton soup is delicious and I love to pot stickers and the dipping sauce is amazing .
+     [-0.9442] Drunken fish very tasty .

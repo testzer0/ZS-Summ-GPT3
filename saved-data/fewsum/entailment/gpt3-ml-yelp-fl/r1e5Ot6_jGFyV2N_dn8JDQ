@@ -1,0 +1,315 @@
+Summary:
+
+The reviews were all positive, praising the food for being delicious and affordable.
+There was mention of a wide variety of pastries available, as well as the quadruple cake being particularly good.
+There was also mention of the store being clean and tidy.
+The product being reviewed is a cake from Panadería Tricolor.
+The reviews are largely positive, with people especially enjoying the Tres Leche cake.
+There are a few negative reviews, but they are mostly from people who had specific requests that were not met.
+Overall, people seem to really enjoy the product and appreciate the friendly service.
+
+**********
+[0.4248] The reviews were positive.
+Parent: The reviews were all positive, praising the food for being delicious and affordable.
+
+Top 5 (supporting):
+     [0.4248] Everyone raved about it !
+     [0.3752] They were both AMAZING .
+     [0.2597] Also ordered a gelatina for my daughters school potluck and that received compliments as well
+     [0.2585] Service was very friendly .
+     [0.1056] Super delicious and they carry change for big bills The bread was nice and soft and big bonus for using abuelitas chocolates inside some of the breads .
+
+Top 5 (weakening):
+     [-0.9923] Worst experience EVER .
+     [-0.9906] They just lost my business and I am an easy going person but my experience was that bad .
+     [-0.7960] I had to wait for about 10min for my freshly made pupusas and they were the bomb ! !
+     [-0.7552] Will never send you another cu
+     [-0.7197] Next day came in to order 4 sopitas and was told no sopitas today .
+
+**********
+[0.7115] The food was delicious.
+Parent: The reviews were all positive, praising the food for being delicious and affordable.
+
+Top 5 (supporting):
+     [0.7115] Super delicious and they carry change for big bills The bread was nice and soft and big bonus for using abuelitas chocolates inside some of the breads .
+     [0.2886] I can only speak for the 4 in 1 cake , it is simply delicious ! !
+     [0.1559] I had to wait for about 10min for my freshly made pupusas and they were the bomb ! !
+     [0.0974] They sell by the slice and the sweet bread smelled great !
+     [0.0698] Taste like Fogo de cho tres leches in Beverly Hills .
+
+Top 5 (weakening):
+     [-0.9033] Worst experience EVER .
+     [-0.8240] They just lost my business and I am an easy going person but my experience was that bad .
+     [-0.7532] Will never send you another cu
+     [-0.5447] All they had was tres Leches cakes .
+     [-0.5314] Next day came in to order 4 sopitas and was told no sopitas today .
+
+**********
+[0.2367] The food was affordable.
+Parent: The reviews were all positive, praising the food for being delicious and affordable.
+
+Top 5 (supporting):
+     [0.2367] Also I had a piece of cake for $ 3.50
+     [0.1436] They sell by the slice and the sweet bread smelled great !
+     [0.0371] And super affordable !
+     [0.0047] Pizza , sandwiches and tortas , sopas .
+     [0.0040] This place was recommended .
+
+Top 5 (weakening):
+     [-0.7925] Super delicious and they carry change for big bills The bread was nice and soft and big bonus for using abuelitas chocolates inside some of the breads .
+     [-0.4833] Worst experience EVER .
+     [-0.4366] The clan there is to die for ! !
+     [-0.2278] Will never send you another cu
+     [-0.1714] I had to wait for about 10min for my freshly made pupusas and they were the bomb ! !
+
+**********
+[0.1615] There was a wide variety of pastries available.
+Parent: There was mention of a wide variety of pastries available, as well as the quadruple cake being particularly good.
+
+Top 5 (supporting):
+     [0.1615] Pizza , sandwiches and tortas , sopas .
+     [0.0416] Nice small bakery , a bit hidden inside a shopping center , tidy and clean with lots of goodies .
+     [0.0347] They have the freshest cakes and breads .
+     [0.0218] Muchas gracias Panadería Tricolor .
+     [0.0182] This bakery knows how to make them perfect .
+
+Top 5 (weakening):
+     [-0.9408] All they had was tres Leches cakes .
+     [-0.7197] Worst experience EVER .
+     [-0.7087] All the usual pastries .
+     [-0.6804] Next day came in to order 4 sopitas and was told no sopitas today .
+     [-0.6248] I can only speak for the 4 in 1 cake , it is simply delicious ! !
+
+**********
+[0.7719] The quadruple cake was good.
+Parent: There was mention of a wide variety of pastries available, as well as the quadruple cake being particularly good.
+
+Top 5 (supporting):
+     [0.7719] I can only speak for the 4 in 1 cake , it is simply delicious ! !
+     [0.1363] The quadruple cake .... aaahhh !
+     [0.0215] Not many bakery 's know how to make them taste just right .
+     [0.0079] They were big too .
+     [0.0047] Will be coming back for the cake next time !
+
+Top 5 (weakening):
+     [-0.8772] Worst experience EVER .
+     [-0.7797] Next day came in to order 4 sopitas and was told no sopitas today .
+     [-0.7001] Will never send you another cu
+     [-0.6941] Sweet bread was some of the best I 've had in town .
+     [-0.5661] Pizza , sandwiches and tortas , sopas .
+
+**********
+[0.9086] The store was clean.
+Parent: There was also mention of the store being clean and tidy.
+
+Top 5 (supporting):
+     [0.9086] Do not get discouraged by looks of the outside of this place , inside is quite cozy and clean .
+     [0.9047] Nice small bakery , a bit hidden inside a shopping center , tidy and clean with lots of goodies .
+     [0.0318] They were fresh .
+     [0.0054] Very friendly staff .
+     [0.0046] Service was very friendly .
+
+Top 5 (weakening):
+     [-0.6205] Worst experience EVER .
+     [-0.5187] All they had was tres Leches cakes .
+     [-0.3651] The clan there is to die for ! !
+     [-0.2906] I ordered a cake and upon arriving to pick it up the cake looked NOTHING like I ordered ; & I ordered it from there menu .
+     [-0.2552] They just lost my business and I am an easy going person but my experience was that bad .
+
+**********
+[0.0000] Sentence: It was a great gift for lawyers.
+Parent: There was also mention of the store being clean and tidy.
+
+Top 5 (supporting):
+     [0.0000] !
+     [0.0000] So unhappy
+     [0.0000] !
+     [0.0000] ! !
+     [0.0000] Delish ! !
+
+Top 5 (weakening):
+     [-0.9650] They just lost my business and I am an easy going person but my experience was that bad .
+     [-0.9563] Worst experience EVER .
+     [-0.7909] Not many bakery 's know how to make them taste just right .
+     [-0.7906] A misunderstanding about order amount was not my mistake but taken neglectively owners .
+     [-0.7812] All the usual pastries .
+
+**********
+[0.0000] Many people found that the pill helped lower their cholesterol levels.
+Parent: There was also mention of the store being clean and tidy.
+
+Top 5 (supporting):
+     [0.0000] !
+     [0.0000] So unhappy
+     [0.0000] !
+     [0.0000] ! !
+     [0.0000] Delish ! !
+
+Top 5 (weakening):
+     [-0.6415] I can only speak for the 4 in 1 cake , it is simply delicious ! !
+     [-0.4947] Not many bakery 's know how to make them taste just right .
+     [-0.4794] The clan there is to die for ! !
+     [-0.4694] Worst experience EVER .
+     [-0.4667] Pizza , sandwiches and tortas , sopas .
+
+**********
+[0.9361] The store was tidy.
+Parent: There was also mention of the store being clean and tidy.
+
+Top 5 (supporting):
+     [0.9361] Nice small bakery , a bit hidden inside a shopping center , tidy and clean with lots of goodies .
+     [0.8901] Do not get discouraged by looks of the outside of this place , inside is quite cozy and clean .
+     [0.0526] This bakery knows how to make them perfect .
+     [0.0096] Been a customer for 3 years .
+     [0.0087] Service was very friendly .
+
+Top 5 (weakening):
+     [-0.8102] All they had was tres Leches cakes .
+     [-0.8042] Worst experience EVER .
+     [-0.5647] They just lost my business and I am an easy going person but my experience was that bad .
+     [-0.4475] I ordered a cake and upon arriving to pick it up the cake looked NOTHING like I ordered ; & I ordered it from there menu .
+     [-0.3301] The clan there is to die for ! !
+
+**********
+[0.5827] The cake is a good product.
+Parent: The product being reviewed is a cake from Panadería Tricolor.
+
+Top 5 (supporting):
+     [0.5827] I can only speak for the 4 in 1 cake , it is simply delicious ! !
+     [0.1739] They have the freshest cakes and breads .
+     [0.1470] Not many bakery 's know how to make them taste just right .
+     [0.1456] Will be coming back for the cake next time !
+     [0.0903] I had to wait for about 10min for my freshly made pupusas and they were the bomb ! !
+
+Top 5 (weakening):
+     [-0.8757] Worst experience EVER .
+     [-0.6968] Will never send you another cu
+     [-0.4497] Pizza , sandwiches and tortas , sopas .
+     [-0.4013] They just lost my business and I am an easy going person but my experience was that bad .
+     [-0.3727] Do not get discouraged by looks of the outside of this place , inside is quite cozy and clean .
+
+**********
+[0.0000] The product is from Panadería Tricolor.
+Parent: The product being reviewed is a cake from Panadería Tricolor.
+
+Top 5 (supporting):
+     [0.0000] !
+     [0.0000] So unhappy
+     [0.0000] !
+     [0.0000] ! !
+     [0.0000] Delish ! !
+
+Top 5 (weakening):
+     [-0.8599] This place was recommended .
+     [-0.7188] Will never send you another cu
+     [-0.7014] Do not get discouraged by looks of the outside of this place , inside is quite cozy and clean .
+     [-0.6854] All they had was tres Leches cakes .
+     [-0.6486] All the usual pastries .
+
+**********
+[0.2925] The reviews are good.
+Parent: The reviews are largely positive, with people especially enjoying the Tres Leche cake.
+
+Top 5 (supporting):
+     [0.2925] They were both AMAZING .
+     [0.1545] Everyone raved about it !
+     [0.1498] Super delicious and they carry change for big bills The bread was nice and soft and big bonus for using abuelitas chocolates inside some of the breads .
+     [0.1383] Sweet bread was some of the best I 've had in town .
+     [0.1133] They were fresh .
+
+Top 5 (weakening):
+     [-0.9915] Worst experience EVER .
+     [-0.9817] They just lost my business and I am an easy going person but my experience was that bad .
+     [-0.5703] Will never send you another cu
+     [-0.4594] All they had was tres Leches cakes .
+     [-0.1562] Next day came in to order 4 sopitas and was told no sopitas today .
+
+**********
+[0.2030] People enjoy the Tres Leche cake.
+Parent: The reviews are largely positive, with people especially enjoying the Tres Leche cake.
+
+Top 5 (supporting):
+     [0.2030] Had a piece of their Tres Leche cake and their Pan Dulce .
+     [0.0451] Will be coming back for the cake next time !
+     [0.0237] The quadruple cake .... aaahhh !
+     [0.0216] Taste like Fogo de cho tres leches in Beverly Hills .
+     [0.0184] This bakery knows how to make them perfect .
+
+Top 5 (weakening):
+     [-0.6532] Worst experience EVER .
+     [-0.4515] I can only speak for the 4 in 1 cake , it is simply delicious ! !
+     [-0.3483] The clan there is to die for ! !
+     [-0.2532] Sweet bread was some of the best I 've had in town .
+     [-0.2477] They just lost my business and I am an easy going person but my experience was that bad .
+
+**********
+[0.7272] There are negative reviews.
+Parent: There are a few negative reviews, but they are mostly from people who had specific requests that were not met.
+
+Top 5 (supporting):
+     [0.7272] Worst experience EVER .
+     [0.4643] They just lost my business and I am an easy going person but my experience was that bad .
+     [0.0181] Will never send you another cu
+     [0.0084] Do not get discouraged by looks of the outside of this place , inside is quite cozy and clean .
+     [0.0000] !
+
+Top 5 (weakening):
+     [-0.9933] They were both AMAZING .
+     [-0.9624] Very friendly staff .
+     [-0.9407] Will be coming back for the cake next time !
+     [-0.9391] The clan there is to die for ! !
+     [-0.9329] Service was very friendly .
+
+**********
+[0.4283] Negative reviews are from people who had specific requests that were not met.
+Parent: There are a few negative reviews, but they are mostly from people who had specific requests that were not met.
+
+Top 5 (supporting):
+     [0.4283] Next day came in to order 4 sopitas and was told no sopitas today .
+     [0.2117] I ordered a cake and upon arriving to pick it up the cake looked NOTHING like I ordered ; & I ordered it from there menu .
+     [0.0000] !
+     [0.0000] So unhappy
+     [0.0000] !
+
+Top 5 (weakening):
+     [-0.9424] They were both AMAZING .
+     [-0.8695] Also ordered a gelatina for my daughters school potluck and that received compliments as well
+     [-0.7851] They were fresh .
+     [-0.7201] This place was recommended .
+     [-0.6042] Sent my co-worker in 1 hour later and she got her sopitas right a way .
+
+**********
+[0.4482] The product is enjoyable.
+Parent: Overall, people seem to really enjoy the product and appreciate the friendly service.
+
+Top 5 (supporting):
+     [0.4482] I can only speak for the 4 in 1 cake , it is simply delicious ! !
+     [0.3178] The clan there is to die for ! !
+     [0.3095] Super delicious and they carry change for big bills The bread was nice and soft and big bonus for using abuelitas chocolates inside some of the breads .
+     [0.2183] I had to wait for about 10min for my freshly made pupusas and they were the bomb ! !
+     [0.2042] Sweet bread was some of the best I 've had in town .
+
+Top 5 (weakening):
+     [-0.9142] Worst experience EVER .
+     [-0.5058] They just lost my business and I am an easy going person but my experience was that bad .
+     [-0.3382] Will never send you another cu
+     [-0.1702] Very friendly staff .
+     [-0.0508] Next day came in to order 4 sopitas and was told no sopitas today .
+
+**********
+[0.9695] The service is friendly.
+Parent: Overall, people seem to really enjoy the product and appreciate the friendly service.
+
+Top 5 (supporting):
+     [0.9695] Service was very friendly .
+     [0.8246] Very friendly staff .
+     [0.0300] Also ordered a gelatina for my daughters school potluck and that received compliments as well
+     [0.0242] Super delicious and they carry change for big bills The bread was nice and soft and big bonus for using abuelitas chocolates inside some of the breads .
+     [0.0241] Cinco estrellas For this place .
+
+Top 5 (weakening):
+     [-0.9582] Worst experience EVER .
+     [-0.8932] They just lost my business and I am an easy going person but my experience was that bad .
+     [-0.5926] Next day came in to order 4 sopitas and was told no sopitas today .
+     [-0.1595] A misunderstanding about order amount was not my mistake but taken neglectively owners .
+     [-0.1590] All they had was tres Leches cakes .

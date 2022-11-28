@@ -1,0 +1,111 @@
+Summary:
+
+The reviews say that the product is great, with quick service, a wide range of items, and nice employees. They also say that the prices are a bit high, but that the store has a lot to offer.
+
+**********
+[0.5068] The product is great.
+Parent: The reviews say that the product is great, with quick service, a wide range of items, and nice employees.
+
+Top 5 (supporting):
+     [0.5068] They are great , they 're quicker than Fry 's or Safeway and have an amazing range of items .
+     [0.4079] This place is bananas , a total gem .
+     [0.3008] Sunshine is the best !
+     [0.2795] Great beer and wine selection .
+     [0.2694] They have It all : ) Moved into the neighborhood a month ago and from water refills , to old fashioned fuses ( guest house still uses them ) sandwiches and Spicy Dill Pickles .. Yum .. everything you can think of and the nicest Employees .. Coronado is lucky to have Sunshine Market .
+
+Top 5 (weakening):
+     [-0.5884] This place is great .
+     [-0.3235] Love this place : )
+     [-0.1275] Is this real life ?
+     [-0.0180] You can 't cash checks , however .
+     [-0.0169] Same owners .
+
+**********
+[0.6483] The service is quick.
+Parent: The reviews say that the product is great, with quick service, a wide range of items, and nice employees.
+
+Top 5 (supporting):
+     [0.6483] They are great , they 're quicker than Fry 's or Safeway and have an amazing range of items .
+     [0.0205] Can 't say enough wonderful things aboutThis place The owner Salem is a gentlemen And a half Mark and Zack are great Guys too ...
+     [0.0196] They have It all : ) Moved into the neighborhood a month ago and from water refills , to old fashioned fuses ( guest house still uses them ) sandwiches and Spicy Dill Pickles .. Yum .. everything you can think of and the nicest Employees .. Coronado is lucky to have Sunshine Market .
+     [0.0184] I no longer live in Coronado but will travel to this market at least a couple days a week because of their great beer / liquor bargains and customer service !
+     [0.0114] This place is great .
+
+Top 5 (weakening):
+     [-0.1871] Is this real life ?
+     [-0.1283] You can 't cash checks , however .
+     [-0.0558] Good amount of services .
+     [-0.0481] Family business .
+     [-0.0275] $ 3.99 6 packs and $ 7.99 12 packs of craft beer ?
+
+**********
+[0.8785] The range of items is wide.
+Parent: The reviews say that the product is great, with quick service, a wide range of items, and nice employees.
+
+Top 5 (supporting):
+     [0.8785] They have It all : ) Moved into the neighborhood a month ago and from water refills , to old fashioned fuses ( guest house still uses them ) sandwiches and Spicy Dill Pickles .. Yum .. everything you can think of and the nicest Employees .. Coronado is lucky to have Sunshine Market .
+     [0.7670] They are great , they 're quicker than Fry 's or Safeway and have an amazing range of items .
+     [0.3865] Cheap drink prices .... they really do have almost anything .
+     [0.2964] Good amount of services .
+     [0.2465] Buy a pair of pliers , shampoo , aleve and porkchops all in one place .
+
+Top 5 (weakening):
+     [-0.2595] You can 't cash checks , however .
+     [-0.1252] Same owners .
+     [-0.0962] This place is bananas , a total gem .
+     [-0.0247] Is this real life ?
+     [-0.0152] Same great prices and service .
+
+**********
+[0.9664] The employees are nice.
+Parent: The reviews say that the product is great, with quick service, a wide range of items, and nice employees.
+
+Top 5 (supporting):
+     [0.9664] Employees are very nice , they have a neighborhood feeling to it .
+     [0.8423] They have It all : ) Moved into the neighborhood a month ago and from water refills , to old fashioned fuses ( guest house still uses them ) sandwiches and Spicy Dill Pickles .. Yum .. everything you can think of and the nicest Employees .. Coronado is lucky to have Sunshine Market .
+     [0.3533] Can 't say enough wonderful things aboutThis place The owner Salem is a gentlemen And a half Mark and Zack are great Guys too ...
+     [0.2903] The guy at the counter is always super chill too ; best corner store in the hood !
+     [0.0704] After leaving the hood when it was dangerous and not gentrified and full of urban / hipsters , I came back around , glad to see the same guys working there , they even recognized me .
+
+Top 5 (weakening):
+     [-0.0434] Pay your bills .
+     [-0.0389] Same owners .
+     [-0.0370] Is this real life ?
+     [-0.0166] My brain melted when I went down the beer aisle .
+     [-0.0065] $ 3.99 6 packs and $ 7.99 12 packs of craft beer ?
+
+**********
+[0.2752] The prices are high.
+Parent: They also say that the prices are a bit high, but that the store has a lot to offer.
+
+Top 5 (supporting):
+     [0.2752] Decent grocery selection , albeit a tad expensive in the dry grocery items area
+     [0.0193] $ 3.99 6 packs and $ 7.99 12 packs of craft beer ?
+     [0.0036] My brain melted when I went down the beer aisle .
+     [0.0000] !
+     [0.0000] ! !
+
+Top 5 (weakening):
+     [-0.9913] Cheap drink prices .... they really do have almost anything .
+     [-0.9184] I no longer live in Coronado but will travel to this market at least a couple days a week because of their great beer / liquor bargains and customer service !
+     [-0.1677] They have EVERYTHING !
+     [-0.1278] Is this real life ?
+     [-0.1163] Plus , 3.99 beer that is usually pretty good .
+
+**********
+[0.8602] The store offers a lot.
+Parent: They also say that the prices are a bit high, but that the store has a lot to offer.
+
+Top 5 (supporting):
+     [0.8602] They have It all : ) Moved into the neighborhood a month ago and from water refills , to old fashioned fuses ( guest house still uses them ) sandwiches and Spicy Dill Pickles .. Yum .. everything you can think of and the nicest Employees .. Coronado is lucky to have Sunshine Market .
+     [0.8130] They are great , they 're quicker than Fry 's or Safeway and have an amazing range of items .
+     [0.6598] Cheap drink prices .... they really do have almost anything .
+     [0.5560] Buy a pair of pliers , shampoo , aleve and porkchops all in one place .
+     [0.4525] I no longer live in Coronado but will travel to this market at least a couple days a week because of their great beer / liquor bargains and customer service !
+
+Top 5 (weakening):
+     [-0.0901] Is this real life ?
+     [-0.0104] Pay your bills .
+     [-0.0088] You can 't cash checks , however .
+     [-0.0051] Family business .
+     [-0.0032] Same owners .

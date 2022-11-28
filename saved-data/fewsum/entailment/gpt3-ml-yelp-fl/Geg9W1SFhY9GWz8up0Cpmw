@@ -1,0 +1,352 @@
+Summary:
+
+Overall, reviewers thought the food was good, although one found it salty and awful.
+The blue devil sandwich and the beer can chicken were both mentioned as being moist and tasty.
+The cheesesteak was also praised as the best in town.
+Some found the atmosphere and service lacking, but others thought it was fine.
+Overall, the reviews were positive.
+People liked the food and the atmosphere of the restaurant.
+The fish and chips, barbecue sandwich, and beef brisket were all singled out as being particularly good.
+The only negative comments were about the fish, which was said to be "so so."
+
+**********
+[0.9781] The food was good.
+Parent: Overall, reviewers thought the food was good, although one found it salty and awful.
+
+Top 5 (supporting):
+     [0.9781] The food was good .
+     [0.8437] Sad to say they closed permanently on April 30 , 2015Great food and really great service .
+     [0.5711] Atmosphere and service lacked a bit , but food makes up for it .
+     [0.5404] Club sandwich is good .
+     [0.5361] I had fish and chips that were great .
+
+Top 5 (weakening):
+     [-0.9939] It was filthy and the food was salty and awful .
+     [-0.0009] I am visiting the area .
+     [-0.0006] Happy to have discovered !
+     [-0.0004] Stopped here after shopping at concord mills .
+     [0.0000] Bar none .
+
+**********
+[0.9791] The food was salty.
+Parent: Overall, reviewers thought the food was good, although one found it salty and awful.
+
+Top 5 (supporting):
+     [0.9791] It was filthy and the food was salty and awful .
+     [0.4646] Great fried pickles.
+     [0.0000] Bar none .
+     [-0.0016] Came here for lunch with my family while traveling .
+     [-0.0020] In town for the race and we were driving around looking for lunch and happened upon this place .
+
+Top 5 (weakening):
+     [-0.9252] Moist and tasty .
+     [-0.5127] Great green beans and mash potatoes leaving one to desire seconds .
+     [-0.4446] Best cheesesteak in town .
+     [-0.4251] The beef brisket is amazing .
+     [-0.2246] Best I 've ever had .
+
+**********
+[0.9229] The food was awful.
+Parent: Overall, reviewers thought the food was good, although one found it salty and awful.
+
+Top 5 (supporting):
+     [0.9229] It was filthy and the food was salty and awful .
+     [0.0000] Bar none .
+     [-0.0429] First time eating here .
+     [-0.0764] I am visiting the area .
+     [-0.1207] In town for the race and we were driving around looking for lunch and happened upon this place .
+
+Top 5 (weakening):
+     [-0.9980] I had fish and chips that were great .
+     [-0.9980] The beef brisket is amazing .
+     [-0.9967] Sad to say they closed permanently on April 30 , 2015Great food and really great service .
+     [-0.9965] Club sandwich is good .
+     [-0.9964] The food was good .
+
+**********
+[0.0075] The blue devil sandwich was moist.
+Parent: The blue devil sandwich and the beer can chicken were both mentioned as being moist and tasty.
+
+Top 5 (supporting):
+     [0.0075] Moist and tasty .
+     [0.0074] Best I 've ever had .
+     [0.0039] Ate the blue devil sandwich and tavern fries .
+     [0.0013] Would definitely eat here again if I 'm in the area .
+     [0.0005] I would recommend it and come back again .
+
+Top 5 (weakening):
+     [-0.9704] I had the beer can chicken .
+     [-0.9221] Try the smoke wings .
+     [-0.9138] The beef brisket is amazing .
+     [-0.6560] I go out of my way to stop here and get the cheesesteak .
+     [-0.6200] I had fish and chips that were great .
+
+**********
+[0.0127] The blue devil sandwich was tasty.
+Parent: The blue devil sandwich and the beer can chicken were both mentioned as being moist and tasty.
+
+Top 5 (supporting):
+     [0.0127] Moist and tasty .
+     [0.0100] Ate the blue devil sandwich and tavern fries .
+     [0.0073] Best I 've ever had .
+     [0.0017] Will defintely be back .
+     [0.0015] Would definitely eat here again if I 'm in the area .
+
+Top 5 (weakening):
+     [-0.9785] I had the beer can chicken .
+     [-0.9364] The beef brisket is amazing .
+     [-0.9284] Try the smoke wings .
+     [-0.8328] My buddy had a barbecue sandwich and he said it was very good .
+     [-0.7478] I go out of my way to stop here and get the cheesesteak .
+
+**********
+[0.0044] The beer can chicken was moist.
+Parent: The blue devil sandwich and the beer can chicken were both mentioned as being moist and tasty.
+
+Top 5 (supporting):
+     [0.0044] I had the beer can chicken .
+     [0.0028] Best I 've ever had .
+     [0.0021] Moist and tasty .
+     [0.0010] Would definitely eat here again if I 'm in the area .
+     [0.0003] Atmosphere and service lacked a bit , but food makes up for it .
+
+Top 5 (weakening):
+     [-0.9320] The beef brisket is amazing .
+     [-0.8653] Try the smoke wings .
+     [-0.8223] Great green beans and mash potatoes leaving one to desire seconds .
+     [-0.7893] Best cheesesteak in town .
+     [-0.7465] Great fried pickles.
+
+**********
+[0.0146] The beer can chicken was tasty.
+Parent: The blue devil sandwich and the beer can chicken were both mentioned as being moist and tasty.
+
+Top 5 (supporting):
+     [0.0146] I had the beer can chicken .
+     [0.0052] Moist and tasty .
+     [0.0051] Best I 've ever had .
+     [0.0012] Will defintely be back .
+     [0.0009] Would definitely eat here again if I 'm in the area .
+
+Top 5 (weakening):
+     [-0.9565] The beef brisket is amazing .
+     [-0.9319] Try the smoke wings .
+     [-0.8709] Great fried pickles.
+     [-0.7621] Great green beans and mash potatoes leaving one to desire seconds .
+     [-0.7241] I go out of my way to stop here and get the cheesesteak .
+
+**********
+[0.4876] The cheesesteak was the best in town.
+Parent: The cheesesteak was also praised as the best in town.
+
+Top 5 (supporting):
+     [0.4876] Best cheesesteak in town .
+     [0.0030] Excellent DYs cheesesteak .
+     [0.0000] Bar none .
+     [-0.0010] I go out of my way to stop here and get the cheesesteak .
+     [-0.0016] One of our favorite restaurants an so so so much better the the chain restaurants
+
+Top 5 (weakening):
+     [-0.8343] I had the beer can chicken .
+     [-0.7134] The beef brisket is amazing .
+     [-0.6111] It was filthy and the food was salty and awful .
+     [-0.5312] Try the smoke wings .
+     [-0.4930] Great fried pickles.
+
+**********
+[0.8977] The atmosphere lacked.
+Parent: Some found the atmosphere and service lacking, but others thought it was fine.
+
+Top 5 (supporting):
+     [0.8977] Atmosphere and service lacked a bit , but food makes up for it .
+     [0.1125] It was filthy and the food was salty and awful .
+     [0.0000] Bar none .
+     [-0.0990] In town for the race and we were driving around looking for lunch and happened upon this place .
+     [-0.1276] I am visiting the area .
+
+Top 5 (weakening):
+     [-0.9973] Good BBQ and great atmosphere .
+     [-0.9968] It has a nice pub atmosphere and the staff was friendly and good .
+     [-0.9895] The beef brisket is amazing .
+     [-0.9885] Moist and tasty .
+     [-0.9876] Great green beans and mash potatoes leaving one to desire seconds .
+
+**********
+[0.9143] The service was lacking.
+Parent: Some found the atmosphere and service lacking, but others thought it was fine.
+
+Top 5 (supporting):
+     [0.9143] Atmosphere and service lacked a bit , but food makes up for it .
+     [0.0865] It was filthy and the food was salty and awful .
+     [0.0000] Bar none .
+     [-0.0370] I am visiting the area .
+     [-0.0428] Stopped here after shopping at concord mills .
+
+Top 5 (weakening):
+     [-0.9963] Sad to say they closed permanently on April 30 , 2015Great food and really great service .
+     [-0.9932] Fries are not my favorite but ok . Service is good .
+     [-0.9928] It has a nice pub atmosphere and the staff was friendly and good .
+     [-0.9829] Natalie the bartender is pleasant and attentive .
+     [-0.9766] Great green beans and mash potatoes leaving one to desire seconds .
+
+**********
+[0.3265] It was fine.
+Parent: Some found the atmosphere and service lacking, but others thought it was fine.
+
+Top 5 (supporting):
+     [0.3265] Excellent DYs cheesesteak .
+     [0.3232] Club sandwich is good .
+     [0.2739] Good BBQ and great atmosphere .
+     [0.2510] The food was good .
+     [0.2450] Best I 've ever had .
+
+Top 5 (weakening):
+     [-0.9963] It was filthy and the food was salty and awful .
+     [-0.8810] Sad to say they closed permanently on April 30 , 2015Great food and really great service .
+     [-0.8637] Atmosphere and service lacked a bit , but food makes up for it .
+     [-0.8148] Fish , so so stick with the beef , pork and chicken .
+     [-0.6998] The beef brisket is amazing .
+
+**********
+[0.6130] The reviews were good.
+Parent: Overall, the reviews were positive.
+
+Top 5 (supporting):
+     [0.6130] My buddy had a barbecue sandwich and he said it was very good .
+     [0.2841] Best I 've ever had .
+     [0.2581] Good BBQ and great atmosphere .
+     [0.2482] Excellent DYs cheesesteak .
+     [0.2318] Best cheesesteak in town .
+
+Top 5 (weakening):
+     [-0.9911] It was filthy and the food was salty and awful .
+     [-0.1666] Atmosphere and service lacked a bit , but food makes up for it .
+     [-0.0269] The food was good .
+     [-0.0104] I am visiting the area .
+     [-0.0050] Fish , so so stick with the beef , pork and chicken .
+
+**********
+[0.9781] The food was good.
+Parent: People liked the food and the atmosphere of the restaurant.
+
+Top 5 (supporting):
+     [0.9781] The food was good .
+     [0.8437] Sad to say they closed permanently on April 30 , 2015Great food and really great service .
+     [0.5711] Atmosphere and service lacked a bit , but food makes up for it .
+     [0.5404] Club sandwich is good .
+     [0.5361] I had fish and chips that were great .
+
+Top 5 (weakening):
+     [-0.9939] It was filthy and the food was salty and awful .
+     [-0.0009] I am visiting the area .
+     [-0.0006] Happy to have discovered !
+     [-0.0004] Stopped here after shopping at concord mills .
+     [0.0000] Bar none .
+
+**********
+[0.8252] The atmosphere of the restaurant was good.
+Parent: People liked the food and the atmosphere of the restaurant.
+
+Top 5 (supporting):
+     [0.8252] It has a nice pub atmosphere and the staff was friendly and good .
+     [0.5252] Good BBQ and great atmosphere .
+     [0.0892] Sad to say they closed permanently on April 30 , 2015Great food and really great service .
+     [0.0593] I don 't like chain restaurants so this place was a great find .
+     [0.0528] One of our favorite restaurants an so so so much better the the chain restaurants
+
+Top 5 (weakening):
+     [-0.9283] It was filthy and the food was salty and awful .
+     [-0.8719] Atmosphere and service lacked a bit , but food makes up for it .
+     [0.0000] Bar none .
+     [0.0008] I am visiting the area .
+     [0.0016] Happy to have discovered !
+
+**********
+[0.9648] The fish and chips were good.
+Parent: The fish and chips, barbecue sandwich, and beef brisket were all singled out as being particularly good.
+
+Top 5 (supporting):
+     [0.9648] I had fish and chips that were great .
+     [0.0088] The Nachos are great to order and share too , if you 're not too hungry .
+     [0.0053] Will defintely be back .
+     [0.0049] Moist and tasty .
+     [0.0040] Ordered the DY Cheesesteak and Fish and Chips ... And cleaned our plates .
+
+Top 5 (weakening):
+     [-0.9709] I had the beer can chicken .
+     [-0.9132] Great fried pickles.
+     [-0.8265] Try the smoke wings .
+     [-0.7822] I go out of my way to stop here and get the cheesesteak .
+     [-0.6738] Great green beans and mash potatoes leaving one to desire seconds .
+
+**********
+[0.4709] The barbecue sandwich was good.
+Parent: The fish and chips, barbecue sandwich, and beef brisket were all singled out as being particularly good.
+
+Top 5 (supporting):
+     [0.4709] My buddy had a barbecue sandwich and he said it was very good .
+     [0.3558] Good BBQ and great atmosphere .
+     [0.0090] Moist and tasty .
+     [0.0061] Will defintely be back .
+     [0.0048] Atmosphere and service lacked a bit , but food makes up for it .
+
+Top 5 (weakening):
+     [-0.9787] I had the beer can chicken .
+     [-0.8744] Ate the blue devil sandwich and tavern fries .
+     [-0.8041] I go out of my way to stop here and get the cheesesteak .
+     [-0.7411] I had fish and chips that were great .
+     [-0.6885] It was filthy and the food was salty and awful .
+
+**********
+[0.8933] The beef brisket was good.
+Parent: The fish and chips, barbecue sandwich, and beef brisket were all singled out as being particularly good.
+
+Top 5 (supporting):
+     [0.8933] The beef brisket is amazing .
+     [0.0079] Will defintely be back .
+     [0.0065] Moist and tasty .
+     [0.0051] Best I 've ever had .
+     [0.0031] Would definitely eat here again if I 'm in the area .
+
+Top 5 (weakening):
+     [-0.9636] I had the beer can chicken .
+     [-0.8966] Try the smoke wings .
+     [-0.8111] Great fried pickles.
+     [-0.6929] Excellent DYs cheesesteak .
+     [-0.6873] Best cheesesteak in town .
+
+**********
+[0.0000] The fish was the only negative part.
+Parent: The only negative comments were about the fish, which was said to be "so so."
+
+Top 5 (supporting):
+     [0.0000] Bar none .
+     [-0.0134] I don 't like chain restaurants so this place was a great find .
+     [-0.0213] Would definitely eat here again if I 'm in the area .
+     [-0.0238] It has a nice pub atmosphere and the staff was friendly and good .
+     [-0.0261] First time eating here .
+
+Top 5 (weakening):
+     [-0.9484] I had fish and chips that were great .
+     [-0.8922] Try the smoke wings .
+     [-0.8752] The beef brisket is amazing .
+     [-0.8373] Fries are not my favorite but ok . Service is good .
+     [-0.7903] I go out of my way to stop here and get the cheesesteak .
+
+**********
+[0.6584] The fish was "so so."
+Parent: The only negative comments were about the fish, which was said to be "so so."
+
+Top 5 (supporting):
+     [0.6584] Fish , so so stick with the beef , pork and chicken .
+     [0.0000] Bar none .
+     [-0.0048] One of our favorite restaurants an so so so much better the the chain restaurants
+     [-0.0156] First time eating here .
+     [-0.0255] In town for the race and we were driving around looking for lunch and happened upon this place .
+
+Top 5 (weakening):
+     [-0.9914] Excellent DYs cheesesteak .
+     [-0.9848] The beef brisket is amazing .
+     [-0.9809] I had fish and chips that were great .
+     [-0.9753] great wings .
+     [-0.9512] Moist and tasty .

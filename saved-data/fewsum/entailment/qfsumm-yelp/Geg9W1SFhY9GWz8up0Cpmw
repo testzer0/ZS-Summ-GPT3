@@ -1,0 +1,241 @@
+Summary:
+
+It has a nice pub atmosphere and the staff was friendly and good .
+Sad to say they closed permanently on April 30 , 2015Great food and really great service .
+I don ' t like chain restaurants so this place was a great find .
+It was filthy and the food was salty and awful .
+Atmosphere and service lacked a bit , but food makes up for it .
+
+**********
+[0.9910] It has a pub atmosphere.
+Parent: It has a nice pub atmosphere and the staff was friendly and good .
+
+Top 5 (supporting):
+     [0.9910] It has a nice pub atmosphere and the staff was friendly and good .
+     [0.1210] Ate the blue devil sandwich and tavern fries .
+     [0.0804] Natalie the bartender is pleasant and attentive .
+     [0.0544] Club sandwich is good .
+     [0.0438] I don 't like chain restaurants so this place was a great find .
+
+Top 5 (weakening):
+     [-0.3916] Fish , so so stick with the beef , pork and chicken .
+     [-0.3356] Moist and tasty .
+     [-0.2816] Atmosphere and service lacked a bit , but food makes up for it .
+     [-0.2480] My buddy had a barbecue sandwich and he said it was very good .
+     [-0.2227] Try the smoke wings .
+
+**********
+[0.9737] The staff was friendly.
+Parent: It has a nice pub atmosphere and the staff was friendly and good .
+
+Top 5 (supporting):
+     [0.9737] It has a nice pub atmosphere and the staff was friendly and good .
+     [0.0750] Natalie the bartender is pleasant and attentive .
+     [0.0635] Sad to say they closed permanently on April 30 , 2015Great food and really great service .
+     [0.0619] Fries are not my favorite but ok . Service is good .
+     [0.0115] Ordered the DY Cheesesteak and Fish and Chips ... And cleaned our plates .
+
+Top 5 (weakening):
+     [-0.2428] Atmosphere and service lacked a bit , but food makes up for it .
+     [-0.2007] It was filthy and the food was salty and awful .
+     [-0.0102] Try the smoke wings .
+     [-0.0024] Fish , so so stick with the beef , pork and chicken .
+     [-0.0013] I had the beer can chicken .
+
+**********
+[0.9557] The staff was good.
+Parent: It has a nice pub atmosphere and the staff was friendly and good .
+
+Top 5 (supporting):
+     [0.9557] It has a nice pub atmosphere and the staff was friendly and good .
+     [0.6573] Fries are not my favorite but ok . Service is good .
+     [0.4235] Sad to say they closed permanently on April 30 , 2015Great food and really great service .
+     [0.3238] The beef brisket is amazing .
+     [0.2820] great wings .
+
+Top 5 (weakening):
+     [-0.7008] It was filthy and the food was salty and awful .
+     [-0.4732] The food was good .
+     [-0.2606] Atmosphere and service lacked a bit , but food makes up for it .
+     [-0.1050] Try the smoke wings .
+     [-0.0676] Fish , so so stick with the beef , pork and chicken .
+
+**********
+[0.9907] They closed on April 30, 2015.
+Parent: Sad to say they closed permanently on April 30 , 2015Great food and really great service .
+
+Top 5 (supporting):
+     [0.9907] Sad to say they closed permanently on April 30 , 2015Great food and really great service .
+     [0.0000] Bar none .
+     [-0.0766] It was filthy and the food was salty and awful .
+     [-0.2526] great wings .
+     [-0.3013] The food was good .
+
+Top 5 (weakening):
+     [-0.9526] First time eating here .
+     [-0.9507] Ordered the DY Cheesesteak and Fish and Chips ... And cleaned our plates .
+     [-0.9405] Moist and tasty .
+     [-0.9298] Great green beans and mash potatoes leaving one to desire seconds .
+     [-0.9207] I go out of my way to stop here and get the cheesesteak .
+
+**********
+[0.8701] The food was great.
+Parent: Sad to say they closed permanently on April 30 , 2015Great food and really great service .
+
+Top 5 (supporting):
+     [0.8701] The food was good .
+     [0.8119] Sad to say they closed permanently on April 30 , 2015Great food and really great service .
+     [0.4688] I had fish and chips that were great .
+     [0.4520] Atmosphere and service lacked a bit , but food makes up for it .
+     [0.3831] Great green beans and mash potatoes leaving one to desire seconds .
+
+Top 5 (weakening):
+     [-0.9978] It was filthy and the food was salty and awful .
+     [-0.3333] Fries are not my favorite but ok . Service is good .
+     [-0.0085] Fish , so so stick with the beef , pork and chicken .
+     [-0.0050] Happy to have discovered !
+     [-0.0026] Stopped here after shopping at concord mills .
+
+**********
+[0.8624] The service was great.
+Parent: Sad to say they closed permanently on April 30 , 2015Great food and really great service .
+
+Top 5 (supporting):
+     [0.8624] Sad to say they closed permanently on April 30 , 2015Great food and really great service .
+     [0.8058] Fries are not my favorite but ok . Service is good .
+     [0.4834] It has a nice pub atmosphere and the staff was friendly and good .
+     [0.1515] Great fried pickles.
+     [0.0957] Great green beans and mash potatoes leaving one to desire seconds .
+
+Top 5 (weakening):
+     [-0.9616] Atmosphere and service lacked a bit , but food makes up for it .
+     [-0.8253] It was filthy and the food was salty and awful .
+     [-0.0447] Fish , so so stick with the beef , pork and chicken .
+     [-0.0361] Try the smoke wings .
+     [-0.0232] The food was good .
+
+**********
+[0.3351] I like independent restaurants.
+Parent: I don ' t like chain restaurants so this place was a great find .
+
+Top 5 (supporting):
+     [0.3351] I don 't like chain restaurants so this place was a great find .
+     [0.0027] Would definitely eat here again if I 'm in the area .
+     [0.0025] First time eating here .
+     [0.0022] I would recommend it and come back again .
+     [0.0017] In town for the race and we were driving around looking for lunch and happened upon this place .
+
+Top 5 (weakening):
+     [-0.4470] One of our favorite restaurants an so so so much better the the chain restaurants
+     [-0.3643] Fish , so so stick with the beef , pork and chicken .
+     [-0.1018] It was filthy and the food was salty and awful .
+     [-0.0986] It has a nice pub atmosphere and the staff was friendly and good .
+     [-0.0694] The Nachos are great to order and share too , if you 're not too hungry .
+
+**********
+[0.8796] This place was great.
+Parent: I don ' t like chain restaurants so this place was a great find .
+
+Top 5 (supporting):
+     [0.8796] I don 't like chain restaurants so this place was a great find .
+     [0.6870] Sad to say they closed permanently on April 30 , 2015Great food and really great service .
+     [0.3717] Good BBQ and great atmosphere .
+     [0.3702] One of our favorite restaurants an so so so much better the the chain restaurants
+     [0.3553] Best I 've ever had .
+
+Top 5 (weakening):
+     [-0.9980] It was filthy and the food was salty and awful .
+     [-0.8967] Atmosphere and service lacked a bit , but food makes up for it .
+     [-0.0983] Fries are not my favorite but ok . Service is good .
+     [-0.0541] First time eating here .
+     [-0.0446] Fish , so so stick with the beef , pork and chicken .
+
+**********
+[0.9810] It was dirty.
+Parent: It was filthy and the food was salty and awful .
+
+Top 5 (supporting):
+     [0.9810] It was filthy and the food was salty and awful .
+     [0.0111] Ordered the DY Cheesesteak and Fish and Chips ... And cleaned our plates .
+     [0.0000] Bar none .
+     [-0.0556] I am visiting the area .
+     [-0.0660] Try the smoke wings .
+
+Top 5 (weakening):
+     [-0.9946] It has a nice pub atmosphere and the staff was friendly and good .
+     [-0.9927] Moist and tasty .
+     [-0.9880] Good BBQ and great atmosphere .
+     [-0.9753] Natalie the bartender is pleasant and attentive .
+     [-0.9621] Excellent DYs cheesesteak .
+
+**********
+[0.8303] The food was too salty.
+Parent: It was filthy and the food was salty and awful .
+
+Top 5 (supporting):
+     [0.8303] It was filthy and the food was salty and awful .
+     [0.0000] Bar none .
+     [-0.0124] Came here for lunch with my family while traveling .
+     [-0.0239] In town for the race and we were driving around looking for lunch and happened upon this place .
+     [-0.0512] Stopped here after shopping at concord mills .
+
+Top 5 (weakening):
+     [-0.9868] Moist and tasty .
+     [-0.9361] The beef brisket is amazing .
+     [-0.9191] Best cheesesteak in town .
+     [-0.8856] Best I 've ever had .
+     [-0.8513] Excellent DYs cheesesteak .
+
+**********
+[0.9105] The food was bad.
+Parent: It was filthy and the food was salty and awful .
+
+Top 5 (supporting):
+     [0.9105] It was filthy and the food was salty and awful .
+     [0.0000] Bar none .
+     [-0.0456] First time eating here .
+     [-0.0525] I am visiting the area .
+     [-0.1112] In town for the race and we were driving around looking for lunch and happened upon this place .
+
+Top 5 (weakening):
+     [-0.9974] I had fish and chips that were great .
+     [-0.9973] The beef brisket is amazing .
+     [-0.9955] Sad to say they closed permanently on April 30 , 2015Great food and really great service .
+     [-0.9954] The food was good .
+     [-0.9954] Good BBQ and great atmosphere .
+
+**********
+[0.9615] The atmosphere and service were not great.
+Parent: Atmosphere and service lacked a bit , but food makes up for it .
+
+Top 5 (supporting):
+     [0.9615] Atmosphere and service lacked a bit , but food makes up for it .
+     [0.5690] It was filthy and the food was salty and awful .
+     [0.0000] Bar none .
+     [-0.0075] First time eating here .
+     [-0.0195] Ate the blue devil sandwich and tavern fries .
+
+Top 5 (weakening):
+     [-0.9946] Good BBQ and great atmosphere .
+     [-0.9912] It has a nice pub atmosphere and the staff was friendly and good .
+     [-0.9789] Sad to say they closed permanently on April 30 , 2015Great food and really great service .
+     [-0.9770] The beef brisket is amazing .
+     [-0.9753] Great green beans and mash potatoes leaving one to desire seconds .
+
+**********
+[0.2997] Food is compensation.
+Parent: Atmosphere and service lacked a bit , but food makes up for it .
+
+Top 5 (supporting):
+     [0.2997] Atmosphere and service lacked a bit , but food makes up for it .
+     [0.0000] Bar none .
+     [-0.0195] Fries are not my favorite but ok . Service is good .
+     [-0.0510] Would definitely eat here again if I 'm in the area .
+     [-0.0879] Ate the blue devil sandwich and tavern fries .
+
+Top 5 (weakening):
+     [-0.8312] It was filthy and the food was salty and awful .
+     [-0.7270] Happy to have discovered !
+     [-0.7183] great wings .
+     [-0.7052] Moist and tasty .
+     [-0.6219] Fish , so so stick with the beef , pork and chicken .

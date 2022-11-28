@@ -1,0 +1,183 @@
+Summary:
+
+The product was generally well-liked, with positive reviews mentioning the friendly staff, good food, and reasonable prices. However, some reviewers did not enjoy the food, finding it gross or bland. Others found the restaurant to be hot, smoky, or dirty.
+
+**********
+[0.6458] The product was good.
+Parent: The product was generally well-liked, with positive reviews mentioning the friendly staff, good food, and reasonable prices.
+
+Top 5 (supporting):
+     [0.6458] Food is good !
+     [0.6352] The caprese salad was one of the better ones I 've had--it just needed a little sea salt .
+     [0.6115] Smells a little smoky in the place put pizza is excellent and done just how you order it .
+     [0.5848] Service was awesome , prices were reasonable and the food was delicious ! !
+     [0.5831] Very tasty but I had to go home and heat it because the middle was cold !
+
+Top 5 (weakening):
+     [-0.9611] The pizza was so bad I had to spit it out ...
+     [-0.8455] Got an eggplant parm sandwich ( no taste ! )
+     [-0.7404] The salad was fair but the pizza a terrible .
+     [-0.7052] I 've come here a few times , but they seem to have dropped the quality of their food dramatically since the new year and it really ruined the experience of dinning here .. Would not recommend !
+     [-0.6413] I also ordered the chopped salad , not only was the salad chopped to nothing , the balsamic dressing was not good .
+
+**********
+[0.9719] The staff was friendly.
+Parent: The product was generally well-liked, with positive reviews mentioning the friendly staff, good food, and reasonable prices.
+
+Top 5 (supporting):
+     [0.9719] I love the friendly staff !
+     [0.9360] The staff is very pleasant and attentive .
+     [0.8750] Family feel to the staff and they are very nice !
+     [0.0467] The service was good from Eddy
+     [0.0379] Service was awesome , prices were reasonable and the food was delicious ! !
+
+Top 5 (weakening):
+     [-0.8201] This place was horrible !
+     [-0.5381] I will never go back
+     [-0.4127] The place is kinda awkward but the food is good and that 's most important .
+     [-0.3847] Drove to Carmine 's today only to discover that they had closed .
+     [-0.3671] I just stopped by and the premises were sealed by an eviction order dated 15 June---but then next to it was an order to stay the eviction dated 21 June .
+
+**********
+[0.9396] The food was good.
+Parent: The product was generally well-liked, with positive reviews mentioning the friendly staff, good food, and reasonable prices.
+
+Top 5 (supporting):
+     [0.9396] Service was awesome , prices were reasonable and the food was delicious ! !
+     [0.9301] The food is delicious !
+     [0.9249] The food is wonderful Bui I always find the place so hot .
+     [0.9122] The place is kinda awkward but the food is good and that 's most important .
+     [0.8723] Food is good !
+
+Top 5 (weakening):
+     [-0.9773] The pizza was so bad I had to spit it out ...
+     [-0.9711] I 've come here a few times , but they seem to have dropped the quality of their food dramatically since the new year and it really ruined the experience of dinning here .. Would not recommend !
+     [-0.8831] Got an eggplant parm sandwich ( no taste ! )
+     [-0.6866] This place was horrible !
+     [-0.5825] I also ordered the chopped salad , not only was the salad chopped to nothing , the balsamic dressing was not good .
+
+**********
+[0.9525] The prices were reasonable.
+Parent: The product was generally well-liked, with positive reviews mentioning the friendly staff, good food, and reasonable prices.
+
+Top 5 (supporting):
+     [0.9525] Service was awesome , prices were reasonable and the food was delicious ! !
+     [0.7793] Always wonderful food at a reasonable price .
+     [0.7783] It 's a great environment with good food and easy on your wallet !
+     [0.0027] Will return !
+     [0.0026] and a turkey sandwich .
+
+Top 5 (weakening):
+     [-0.3565] I will never go back
+     [-0.1766] I just stopped by and the premises were sealed by an eviction order dated 15 June---but then next to it was an order to stay the eviction dated 21 June .
+     [-0.1494] This place was horrible !
+     [-0.0658] Buyer beware if your gambling at the bar and you 're winning your drinks are not free .
+     [-0.0637] I 've come here a few times , but they seem to have dropped the quality of their food dramatically since the new year and it really ruined the experience of dinning here .. Would not recommend !
+
+**********
+[0.8744] Some reviewers did not enjoy the food.
+Parent: However, some reviewers did not enjoy the food, finding it gross or bland.
+
+Top 5 (supporting):
+     [0.8744] I 've come here a few times , but they seem to have dropped the quality of their food dramatically since the new year and it really ruined the experience of dinning here .. Would not recommend !
+     [0.7876] The pizza was so bad I had to spit it out ...
+     [0.7251] I also ordered the chopped salad , not only was the salad chopped to nothing , the balsamic dressing was not good .
+     [0.6865] While staying in Henderson for the week , we were getting a bit tired of the same restaurant foods ; buffets , burgers , etc .
+     [0.6527] Got an eggplant parm sandwich ( no taste ! )
+
+Top 5 (weakening):
+     [-0.0976] The food is wonderful Bui I always find the place so hot .
+     [-0.0794] Love it here !
+     [-0.0636] The food is delicious !
+     [-0.0613] Decided to try Carmine 's and we were not disappointed !
+     [-0.0598] Always wonderful food at a reasonable price .
+
+**********
+[0.6138] The food was gross.
+Parent: However, some reviewers did not enjoy the food, finding it gross or bland.
+
+Top 5 (supporting):
+     [0.6138] The pizza was so bad I had to spit it out ...
+     [0.0583] I 've come here a few times , but they seem to have dropped the quality of their food dramatically since the new year and it really ruined the experience of dinning here .. Would not recommend !
+     [0.0192] This place was horrible !
+     [0.0007] I will never go back
+     [0.0000] Gross .
+
+Top 5 (weakening):
+     [-0.9975] Always a great environment and amazing food ! !
+     [-0.9973] The food is delicious !
+     [-0.9966] The food is wonderful Bui I always find the place so hot .
+     [-0.9965] Service was awesome , prices were reasonable and the food was delicious ! !
+     [-0.9964] Always wonderful food at a reasonable price .
+
+**********
+[0.3070] The food was bland.
+Parent: However, some reviewers did not enjoy the food, finding it gross or bland.
+
+Top 5 (supporting):
+     [0.3070] While staying in Henderson for the week , we were getting a bit tired of the same restaurant foods ; buffets , burgers , etc .
+     [0.2702] Got an eggplant parm sandwich ( no taste ! )
+     [0.0269] The pizza was so bad I had to spit it out ...
+     [0.0071] This place was horrible !
+     [0.0055] I will never go back
+
+Top 5 (weakening):
+     [-0.9972] The food is delicious !
+     [-0.9969] Always a great environment and amazing food ! !
+     [-0.9968] The food is wonderful Bui I always find the place so hot .
+     [-0.9960] Service was awesome , prices were reasonable and the food was delicious ! !
+     [-0.9955] Calamari had great flavor but was tougher than the norm .
+
+**********
+[0.9218] The restaurant was hot.
+Parent: Others found the restaurant to be hot, smoky, or dirty.
+
+Top 5 (supporting):
+     [0.9218] The food is wonderful Bui I always find the place so hot .
+     [0.0544] The bartenders , and the atmosphere is great .
+     [0.0281] The portion sizes were huge and none of us left hungry .
+     [0.0212] Food is good !
+     [0.0154] The food is delicious !
+
+Top 5 (weakening):
+     [-0.9743] This place was horrible !
+     [-0.9381] I 've come here a few times , but they seem to have dropped the quality of their food dramatically since the new year and it really ruined the experience of dinning here .. Would not recommend !
+     [-0.8941] The pizza was so bad I had to spit it out ...
+     [-0.6924] Drove to Carmine 's today only to discover that they had closed .
+     [-0.5444] Got an eggplant parm sandwich ( no taste ! )
+
+**********
+[0.8954] The restaurant was smoky.
+Parent: Others found the restaurant to be hot, smoky, or dirty.
+
+Top 5 (supporting):
+     [0.8954] Smells a little smoky in the place put pizza is excellent and done just how you order it .
+     [0.0027] This place was horrible !
+     [0.0000] Gross .
+     [0.0000] !
+     [0.0000] ! !
+
+Top 5 (weakening):
+     [-0.9815] The food is wonderful Bui I always find the place so hot .
+     [-0.7641] Very tasty but I had to go home and heat it because the middle was cold !
+     [-0.6945] Family feel to the staff and they are very nice !
+     [-0.6895] The food is delicious !
+     [-0.6168] Always wonderful food at a reasonable price .
+
+**********
+[0.0567] The restaurant was dirty.
+Parent: Others found the restaurant to be hot, smoky, or dirty.
+
+Top 5 (supporting):
+     [0.0567] The pizza was so bad I had to spit it out ...
+     [0.0281] This place was horrible !
+     [0.0020] I will never go back
+     [0.0000] Gross .
+     [0.0000] !
+
+Top 5 (weakening):
+     [-0.9951] The food is delicious !
+     [-0.9933] Always a great environment and amazing food ! !
+     [-0.9930] The food is wonderful Bui I always find the place so hot .
+     [-0.9908] Always wonderful food at a reasonable price .
+     [-0.9906] The bartenders , and the atmosphere is great .

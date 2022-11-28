@@ -1,0 +1,93 @@
+Summary:
+
+The reviews said that the product was good quality, worked well, and was a good value for the price. They also said that the right angle connector was perfect for reducing cable strain and providing a more tidy appearance.
+
+**********
+[0.9004] The product was good quality.
+Parent: The reviews said that the product was good quality, worked well, and was a good value for the price.
+
+Top 5 (supporting):
+     [0.9004] Quality good , no ghost images and fits perfectly behind my HDTV set.I recommend it to everybody .
+     [0.8603] Good signal , good quality , and good price .
+     [0.5812] Very good value for the price and the right angle connection help it from disconnecting from laptop that don 't have screw connections built in for vga cables .
+     [0.4273] Despite the length the signal quality is fantastic and the right angle connector is perfect for reducing cable strain and providing a more tidy appearance .
+     [0.2271] This one went through perfectly and performs perfectly .
+
+Top 5 (weakening):
+     [-0.1666] I am kind of xtreme with the order of my computer cables , hate the hanging cables , stuff like that , my laptop does not receive a docking so I have to buy angled wires .
+     [-0.0152] i thought it was the angle that i needed but when i hooked it up it blocked other ports to my screen
+     [-0.0132] What more can I say ?
+     [0.0000] ! !
+     [0.0040] I had to run an SVGA cable from my homemade computer DVR along the side of our living room to a projector on the opposite side .
+
+**********
+[0.7503] The product worked well.
+Parent: The reviews said that the product was good quality, worked well, and was a good value for the price.
+
+Top 5 (supporting):
+     [0.7503] This one went through perfectly and performs perfectly .
+     [0.6929] Quality good , no ghost images and fits perfectly behind my HDTV set.I recommend it to everybody .
+     [0.6639] It works like a Charm .
+     [0.6583] it work 's just fine .
+     [0.4809] It works great .
+
+Top 5 (weakening):
+     [-0.7503] i thought it was the angle that i needed but when i hooked it up it blocked other ports to my screen
+     [-0.4619] I am kind of xtreme with the order of my computer cables , hate the hanging cables , stuff like that , my laptop does not receive a docking so I have to buy angled wires .
+     [-0.0099] i had to order an adapter so it could my pc screen.
+     [-0.0013] I had to run an SVGA cable from my homemade computer DVR along the side of our living room to a projector on the opposite side .
+     [0.0000] ! !
+
+**********
+[0.9451] The product was a good value.
+Parent: The reviews said that the product was good quality, worked well, and was a good value for the price.
+
+Top 5 (supporting):
+     [0.9451] Very good value for the price and the right angle connection help it from disconnecting from laptop that don 't have screw connections built in for vga cables .
+     [0.9069] We ordered this cable for work and it has proved to be a good buy .
+     [0.8189] Good signal , good quality , and good price .
+     [0.0988] Quality good , no ghost images and fits perfectly behind my HDTV set.I recommend it to everybody .
+     [0.0119] I have been looking for this cable for a long Time .
+
+Top 5 (weakening):
+     [-0.1109] I am kind of xtreme with the order of my computer cables , hate the hanging cables , stuff like that , my laptop does not receive a docking so I have to buy angled wires .
+     [-0.0573] It was difficult to find this cable at a good price .
+     [-0.0133] What more can I say ?
+     [-0.0039] i thought it was the angle that i needed but when i hooked it up it blocked other ports to my screen
+     [0.0000] ! !
+
+**********
+[0.9734] The right angle connector was good for reducing cable strain.
+Parent: They also said that the right angle connector was perfect for reducing cable strain and providing a more tidy appearance.
+
+Top 5 (supporting):
+     [0.9734] Despite the length the signal quality is fantastic and the right angle connector is perfect for reducing cable strain and providing a more tidy appearance .
+     [0.0212] Very good value for the price and the right angle connection help it from disconnecting from laptop that don 't have screw connections built in for vga cables .
+     [0.0001] It works like a Charm .
+     [0.0000] ! !
+     [-0.0002] It works great .
+
+Top 5 (weakening):
+     [-0.1785] i thought it was the angle that i needed but when i hooked it up it blocked other ports to my screen
+     [-0.0617] I am kind of xtreme with the order of my computer cables , hate the hanging cables , stuff like that , my laptop does not receive a docking so I have to buy angled wires .
+     [-0.0560] I needed a VGA cable that would fit through a cable hole that a conventional connector would not fit through .
+     [-0.0487] What more can I say ?
+     [-0.0238] The vga input is on the side , so regular vga cables protrude out and were visible .
+
+**********
+[0.9741] The right angle connector was perfect for providing a tidier appearance.
+Parent: They also said that the right angle connector was perfect for reducing cable strain and providing a more tidy appearance.
+
+Top 5 (supporting):
+     [0.9741] Despite the length the signal quality is fantastic and the right angle connector is perfect for reducing cable strain and providing a more tidy appearance .
+     [0.0000] ! !
+     [-0.0022] It works great .
+     [-0.0023] I bought this for my 40 " plasma tv .
+     [-0.0025] It works like a Charm .
+
+Top 5 (weakening):
+     [-0.3988] i thought it was the angle that i needed but when i hooked it up it blocked other ports to my screen
+     [-0.2039] I am kind of xtreme with the order of my computer cables , hate the hanging cables , stuff like that , my laptop does not receive a docking so I have to buy angled wires .
+     [-0.2030] What more can I say ?
+     [-0.1331] The vga input is on the side , so regular vga cables protrude out and were visible .
+     [-0.0569] I needed a VGA cable that would fit through a cable hole that a conventional connector would not fit through .

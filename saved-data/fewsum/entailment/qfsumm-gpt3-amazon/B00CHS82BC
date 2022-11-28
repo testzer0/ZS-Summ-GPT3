@@ -1,0 +1,165 @@
+Summary:
+
+The reviews were mostly positive, with people liking the color, fit, and style of the dress. However, some people found the material to be thin and not of great quality, and others felt that the dress ran small and suggested ordering a size up. Overall, people were happy with the dress and thought it was a great buy.
+
+**********
+[0.3210] The reviews were positive.
+Parent: The reviews were mostly positive, with people liking the color, fit, and style of the dress.
+
+Top 5 (supporting):
+     [0.3210] Overall , very satisfied with this product !
+     [0.2486] I got a lot of compliments on this dress every time I wore it .
+     [0.1902] The reviews were really helpful for this dress .
+     [0.1439] However , no regrets --- this was a GREAT buy !
+     [0.1086] I got several compliments when I wore it 😊
+
+Top 5 (weakening):
+     [-0.9608] I was disapointed in the way it looked on me .
+     [-0.7098] I loved the length but other than that I just didn 't like it .
+     [-0.5843] However the material was very thin and didn 't feel like what I was expecting .
+     [-0.1393] I wasn 't sure I would like the color ...
+     [-0.0526] So it was returned .
+
+**********
+[0.9631] The color of the dress was liked.
+Parent: The reviews were mostly positive, with people liking the color, fit, and style of the dress.
+
+Top 5 (supporting):
+     [0.9631] The color of this dress was nice .
+     [0.1790] I love the color green and the material is great quality much better than what I buy for more money .
+     [0.1248] I liked the color but will need to have some shoes that will go with it better .
+     [0.0120] The color is very soft aquamarine .
+     [0.0037] Very cute and comfy !
+
+Top 5 (weakening):
+     [-0.2155] I was disapointed in the way it looked on me .
+     [-0.1796] I wasn 't sure I would like the color ...
+     [-0.0717] I always go for a very non colorful option .
+     [-0.0541] I loved the length but other than that I just didn 't like it .
+     [-0.0190] So it was returned .
+
+**********
+[0.5283] The dress fit well.
+Parent: The reviews were mostly positive, with people liking the color, fit, and style of the dress.
+
+Top 5 (supporting):
+     [0.5283] I usually wear a US size 8 / 10 and this LG fits me perfectly .
+     [0.4563] The dress feels good on .
+     [0.2953] As earlier reviews suggested , I ordered a size up and it fit perfectly !
+     [0.2762] It does run a little small so I bought it a size bigger and it fits just right .
+     [0.0558] I got a lot of compliments on this dress every time I wore it .
+
+Top 5 (weakening):
+     [-0.7667] It must just run small ... it 's not really stretchy only around the chest area .
+     [-0.7169] I was disapointed in the way it looked on me .
+     [-0.1210] However the material was very thin and didn 't feel like what I was expecting .
+     [-0.0238] I love this dress but I wish I would 've ordered a size bigger .
+     [-0.0237] I liked the color but will need to have some shoes that will go with it better .
+
+**********
+[0.5045] The style of the dress was liked.
+Parent: The reviews were mostly positive, with people liking the color, fit, and style of the dress.
+
+Top 5 (supporting):
+     [0.5045] It 's not easy to find a maxi dress that provides coverage with a high neckline AND sleeves so I was excited to find this though I was cautiously optimistic about the quality & fit given the pretty affordable price .
+     [0.0679] I love this dress but I wish I would 've ordered a size bigger .
+     [0.0620] The dress feels good on .
+     [0.0488] I got a lot of compliments on this dress every time I wore it .
+     [0.0315] I ordered this dress for a trip to Morocco because I needed something with coverage but was lightweight .
+
+Top 5 (weakening):
+     [-0.8019] I was disapointed in the way it looked on me .
+     [-0.1898] I wasn 't sure I would like the color ...
+     [-0.1786] I loved the length but other than that I just didn 't like it .
+     [-0.0812] I liked the color but will need to have some shoes that will go with it better .
+     [-0.0747] The color of this dress was nice .
+
+**********
+[0.9826] The material was thin.
+Parent: However, some people found the material to be thin and not of great quality, and others felt that the dress ran small and suggested ordering a size up.
+
+Top 5 (supporting):
+     [0.9826] However the material was very thin and didn 't feel like what I was expecting .
+     [0.0271] It must just run small ... it 's not really stretchy only around the chest area .
+     [-0.0018] I wore it for Easter with a sweater over it .
+     [-0.0021] I was disapointed in the way it looked on me .
+     [-0.0061] I got several compliments when I wore it 😊
+
+Top 5 (weakening):
+     [-0.3449] It 's not easy to find a maxi dress that provides coverage with a high neckline AND sleeves so I was excited to find this though I was cautiously optimistic about the quality & fit given the pretty affordable price .
+     [-0.2535] Can be dressy or casual .
+     [-0.2463] I ordered this dress for a trip to Morocco because I needed something with coverage but was lightweight .
+     [-0.2034] Very cute and comfy !
+     [-0.1407] I usually wear a US size 8 / 10 and this LG fits me perfectly .
+
+**********
+[0.1137] The material was not of great quality.
+Parent: However, some people found the material to be thin and not of great quality, and others felt that the dress ran small and suggested ordering a size up.
+
+Top 5 (supporting):
+     [0.1137] However the material was very thin and didn 't feel like what I was expecting .
+     [0.0228] It 's not easy to find a maxi dress that provides coverage with a high neckline AND sleeves so I was excited to find this though I was cautiously optimistic about the quality & fit given the pretty affordable price .
+     [0.0134] I was disapointed in the way it looked on me .
+     [0.0128] It must just run small ... it 's not really stretchy only around the chest area .
+     [0.0080] I loved the length but other than that I just didn 't like it .
+
+Top 5 (weakening):
+     [-0.9860] I love the color green and the material is great quality much better than what I buy for more money .
+     [-0.5943] I really like this product !
+     [-0.2817] I got several compliments when I wore it 😊
+     [-0.2709] Overall , very satisfied with this product !
+     [-0.2468] I got a lot of compliments on this dress every time I wore it .
+
+**********
+[0.2736] The dress ran small.
+Parent: However, some people found the material to be thin and not of great quality, and others felt that the dress ran small and suggested ordering a size up.
+
+Top 5 (supporting):
+     [0.2736] I love this dress but I wish I would 've ordered a size bigger .
+     [0.1672] It must just run small ... it 's not really stretchy only around the chest area .
+     [0.1073] It does run a little small so I bought it a size bigger and it fits just right .
+     [-0.0032] I was disapointed in the way it looked on me .
+     [-0.0046] I got several compliments when I wore it 😊
+
+Top 5 (weakening):
+     [-0.8555] As earlier reviews suggested , I ordered a size up and it fit perfectly !
+     [-0.6182] It 's not easy to find a maxi dress that provides coverage with a high neckline AND sleeves so I was excited to find this though I was cautiously optimistic about the quality & fit given the pretty affordable price .
+     [-0.5519] I usually wear a US size 8 / 10 and this LG fits me perfectly .
+     [-0.3311] I loved the length but other than that I just didn 't like it .
+     [-0.2898] I ordered this dress for a trip to Morocco because I needed something with coverage but was lightweight .
+
+**********
+[0.8780] The dress was good.
+Parent: Overall, people were happy with the dress and thought it was a great buy.
+
+Top 5 (supporting):
+     [0.8780] The dress feels good on .
+     [0.7309] I love this dress but I wish I would 've ordered a size bigger .
+     [0.7054] The color of this dress was nice .
+     [0.2281] I got a lot of compliments on this dress every time I wore it .
+     [0.1430] The reviews were really helpful for this dress .
+
+Top 5 (weakening):
+     [-0.7329] I was disapointed in the way it looked on me .
+     [-0.0648] I loved the length but other than that I just didn 't like it .
+     [-0.0393] It must just run small ... it 's not really stretchy only around the chest area .
+     [-0.0281] Can be dressy or casual .
+     [-0.0206] I always go for a very non colorful option .
+
+**********
+[0.9641] It was a great buy.
+Parent: Overall, people were happy with the dress and thought it was a great buy.
+
+Top 5 (supporting):
+     [0.9641] However , no regrets --- this was a GREAT buy !
+     [0.1572] It 's not easy to find a maxi dress that provides coverage with a high neckline AND sleeves so I was excited to find this though I was cautiously optimistic about the quality & fit given the pretty affordable price .
+     [0.0876] Overall , very satisfied with this product !
+     [0.0780] I love the color green and the material is great quality much better than what I buy for more money .
+     [0.0709] I really like this product !
+
+Top 5 (weakening):
+     [-0.6326] I was disapointed in the way it looked on me .
+     [-0.1856] I loved the length but other than that I just didn 't like it .
+     [-0.0820] I always go for a very non colorful option .
+     [-0.0514] I wasn 't sure I would like the color ...
+     [-0.0368] So it was returned .

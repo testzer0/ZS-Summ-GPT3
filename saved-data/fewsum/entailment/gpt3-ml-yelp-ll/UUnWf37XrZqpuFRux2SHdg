@@ -1,0 +1,129 @@
+Summary:
+
+The reviews were all positive, with customers stating that the staff were polite and the service excellent. They also said that the massage was relaxing and that their therapist did a great job. Some customers did mention that their massage only lasted 50 minutes instead of 60 minutes, but overall they were all happy with the service they received.
+
+**********
+[0.5429] The reviews were positive.
+Parent: The reviews were all positive, with customers stating that the staff were polite and the service excellent.
+
+Top 5 (supporting):
+     [0.5429] I have been going to this office for over a year now and have always been very happy with the quality of care and the friendly staff .
+     [0.2735] .. clean , professional , friendly !
+     [0.2321] I have had several massages at this location and have had an amazing experience thus far !
+     [0.2321] I 'm happy with results after my first PRP injection , I never have to long wait , and he even followed up , with a personal phone call .
+     [0.2232] Nice office atmosphere .
+
+Top 5 (weakening):
+     [-0.3515] It hurt so good .
+     [-0.1451] I left loosened up and discomfort free
+     [-0.0560] My therapist has been doing massages for 25 + years .
+     [-0.0338] The rehabilitation from my knee injury has been going great thanks to Dr. Dabbah and his staff .
+     [-0.0204] Finally a great deep tissue massage !
+
+**********
+[0.9840] The staff were polite.
+Parent: The reviews were all positive, with customers stating that the staff were polite and the service excellent.
+
+Top 5 (supporting):
+     [0.9840] The staff was very polite and the service was excellent .
+     [0.8676] I have been going to this office for over a year now and have always been very happy with the quality of care and the friendly staff .
+     [0.3055] The office is friendly and clean .
+     [0.1816] .. clean , professional , friendly !
+     [0.0849] Front desk gals were great also !
+
+Top 5 (weakening):
+     [-0.4842] It hurt so good .
+     [-0.4746] Strong hands and great pressure .
+     [-0.0793] She 's awesome !
+     [-0.0490] She worked out all my sore and tight spots .
+     [-0.0355] Athena is the greatest .
+
+**********
+[0.9704] The service was excellent.
+Parent: The reviews were all positive, with customers stating that the staff were polite and the service excellent.
+
+Top 5 (supporting):
+     [0.9704] The staff was very polite and the service was excellent .
+     [0.5670] Front desk gals were great also !
+     [0.5500] I have been going to this office for over a year now and have always been very happy with the quality of care and the friendly staff .
+     [0.5201] Had a Groupon for a deep tissue massage ... seriously one of the best massages I 've ever had , Tami was absolutely amazing !
+     [0.4112] She did a great job .
+
+Top 5 (weakening):
+     [-0.9288] It hurt so good .
+     [-0.0848] I left loosened up and discomfort free
+     [-0.0201] They 're also having a cool promotion right now for first timers .
+     [-0.0020] You can use a coupon from their site that allows to have 1 hour massage for 25 usd ... it is cheap and gives you idea about their quality
+     [-0.0005] The physician who treats my chronic pain condition recommended I try some massages to see if they might help mitigate the pain .
+
+**********
+[0.9685] The massage was relaxing.
+Parent: They also said that the massage was relaxing and that their therapist did a great job.
+
+Top 5 (supporting):
+     [0.9685] Had a very relaxing massage and will definitely make another appointment .
+     [0.0851] Been going here for the last couple months for my sporadic " destress " massages.Amazing !
+     [0.0831] Michelle gave a fantastic massage .
+     [0.0800] They worked on my neck and back for nearly an hour and I left feeling better than I have in a very long time .
+     [0.0725] I was visiting from LA and found a place for $ 25 massage and the therapist was amazing .
+
+Top 5 (weakening):
+     [-0.9820] It hurt so good .
+     [-0.8232] Strong hands and great pressure .
+     [-0.6952] The office is friendly and clean .
+     [-0.6557] They 're also having a cool promotion right now for first timers .
+     [-0.5750] Front desk gals were great also !
+
+**********
+[0.9676] The therapist did a great job.
+Parent: They also said that the massage was relaxing and that their therapist did a great job.
+
+Top 5 (supporting):
+     [0.9676] The Massage Therapist takes the time to understand your needs and area of concern and does an amazing job to address those areas .
+     [0.9222] I was visiting from LA and found a place for $ 25 massage and the therapist was amazing .
+     [0.6826] Had a Groupon for a deep tissue massage ... seriously one of the best massages I 've ever had , Tami was absolutely amazing !
+     [0.6356] Bought a $ 25 Groupon and scheduled an appointment with Erika , she was fantastic and got deep into my back where all the knots were .
+     [0.6027] Michelle gave a fantastic massage .
+
+Top 5 (weakening):
+     [-0.2424] It hurt so good .
+     [-0.2074] Front desk gals were great also !
+     [-0.1530] They 're also having a cool promotion right now for first timers .
+     [-0.0803] The physician who treats my chronic pain condition recommended I try some massages to see if they might help mitigate the pain .
+     [-0.0176] Will be back !
+
+**********
+[0.9704] The massage only lasted 50 minutes.
+Parent: Some customers did mention that their massage only lasted 50 minutes instead of 60 minutes, but overall they were all happy with the service they received.
+
+Top 5 (supporting):
+     [0.9704] I purchased the massage on Groupon for a fantastic rate and was very pleased , however , my massage only lasted 50 minutes rather then 60 minutes .
+     [0.0000] Thx !
+     [0.0000] OMG .
+     [-0.0031] Had a massage .
+     [-0.0045] Had a very relaxing massage and will definitely make another appointment .
+
+Top 5 (weakening):
+     [-0.9918] They worked on my neck and back for nearly an hour and I left feeling better than I have in a very long time .
+     [-0.5758] They 're also having a cool promotion right now for first timers .
+     [-0.5745] Front desk gals were great also !
+     [-0.5227] Listen to all your needs and give you everything you want / need and nothing more !
+     [-0.4786] Nice office atmosphere .
+
+**********
+[0.4501] Customers were happy with the service.
+Parent: Some customers did mention that their massage only lasted 50 minutes instead of 60 minutes, but overall they were all happy with the service they received.
+
+Top 5 (supporting):
+     [0.4501] I have been going to this office for over a year now and have always been very happy with the quality of care and the friendly staff .
+     [0.3852] Had a very relaxing massage and will definitely make another appointment .
+     [0.3780] I 'm happy with results after my first PRP injection , I never have to long wait , and he even followed up , with a personal phone call .
+     [0.2602] I purchased the massage on Groupon for a fantastic rate and was very pleased , however , my massage only lasted 50 minutes rather then 60 minutes .
+     [0.1061] Had a Groupon for a deep tissue massage ... seriously one of the best massages I 've ever had , Tami was absolutely amazing !
+
+Top 5 (weakening):
+     [-0.2030] I left loosened up and discomfort free
+     [-0.1755] It hurt so good .
+     [-0.0475] I 've been a patient for a few weeks at Advanced Back and Neck .
+     [-0.0286] I 'm definitely considering making her my new MT !
+     [-0.0077] I will be back : ) Ask for Shanice if you want trigger point therapy .

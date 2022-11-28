@@ -1,0 +1,183 @@
+Summary:
+
+Overall, the reviews of the product were positive, with people finding the food to be moist and tasty, and the blue devil sandwich in particular being noted as a standout dish. Some reviewers found the atmosphere and service to be lacking, but said that the food made up for it. One reviewer said that the restaurant was filthy and the food was salty and awful, but this was in the minority.
+
+**********
+[0.6945] The product was good.
+Parent: Overall, the reviews of the product were positive, with people finding the food to be moist and tasty, and the blue devil sandwich in particular being noted as a standout dish.
+
+Top 5 (supporting):
+     [0.6945] The food was good .
+     [0.6742] Club sandwich is good .
+     [0.5965] Great fried pickles.
+     [0.5738] Good BBQ and great atmosphere .
+     [0.5471] The beef brisket is amazing .
+
+Top 5 (weakening):
+     [-0.9324] It was filthy and the food was salty and awful .
+     [-0.0248] I am visiting the area .
+     [0.0000] Bar none .
+     [0.0051] First time eating here .
+     [0.0090] In town for the race and we were driving around looking for lunch and happened upon this place .
+
+**********
+[0.6849] The food was moist.
+Parent: Overall, the reviews of the product were positive, with people finding the food to be moist and tasty, and the blue devil sandwich in particular being noted as a standout dish.
+
+Top 5 (supporting):
+     [0.6849] Moist and tasty .
+     [0.0898] Great green beans and mash potatoes leaving one to desire seconds .
+     [0.0770] Great fried pickles.
+     [0.0664] Best wings in my neighborhood of Highland Creek .
+     [0.0655] Best cheesesteak in town .
+
+Top 5 (weakening):
+     [-0.8637] It was filthy and the food was salty and awful .
+     [-0.0935] Fries are not my favorite but ok . Service is good .
+     [-0.0138] Ordered the DY Cheesesteak and Fish and Chips ... And cleaned our plates .
+     [-0.0137] Happy to have discovered !
+     [-0.0090] I am visiting the area .
+
+**********
+[0.7217] The food was tasty.
+Parent: Overall, the reviews of the product were positive, with people finding the food to be moist and tasty, and the blue devil sandwich in particular being noted as a standout dish.
+
+Top 5 (supporting):
+     [0.7217] The food was good .
+     [0.5446] Sad to say they closed permanently on April 30 , 2015Great food and really great service .
+     [0.2565] I had fish and chips that were great .
+     [0.2391] Great green beans and mash potatoes leaving one to desire seconds .
+     [0.2205] Atmosphere and service lacked a bit , but food makes up for it .
+
+Top 5 (weakening):
+     [-0.9822] It was filthy and the food was salty and awful .
+     [-0.0109] Happy to have discovered !
+     [-0.0030] I am visiting the area .
+     [-0.0023] Stopped here after shopping at concord mills .
+     [-0.0023] Fish , so so stick with the beef , pork and chicken .
+
+**********
+[0.0049] The blue devil sandwich was a standout dish.
+Parent: Overall, the reviews of the product were positive, with people finding the food to be moist and tasty, and the blue devil sandwich in particular being noted as a standout dish.
+
+Top 5 (supporting):
+     [0.0049] Best I 've ever had .
+     [0.0045] Ate the blue devil sandwich and tavern fries .
+     [0.0025] Will defintely be back .
+     [0.0006] Would definitely eat here again if I 'm in the area .
+     [0.0000] Bar none .
+
+Top 5 (weakening):
+     [-0.9599] I had the beer can chicken .
+     [-0.9311] The beef brisket is amazing .
+     [-0.9202] Try the smoke wings .
+     [-0.8462] My buddy had a barbecue sandwich and he said it was very good .
+     [-0.8223] Club sandwich is good .
+
+**********
+[0.9058] The atmosphere was lacking.
+Parent: Some reviewers found the atmosphere and service to be lacking, but said that the food made up for it.
+
+Top 5 (supporting):
+     [0.9058] Atmosphere and service lacked a bit , but food makes up for it .
+     [0.1294] It was filthy and the food was salty and awful .
+     [0.0000] Bar none .
+     [-0.0440] I am visiting the area .
+     [-0.0748] First time eating here .
+
+Top 5 (weakening):
+     [-0.9978] Good BBQ and great atmosphere .
+     [-0.9973] It has a nice pub atmosphere and the staff was friendly and good .
+     [-0.9889] The beef brisket is amazing .
+     [-0.9879] Moist and tasty .
+     [-0.9855] Great green beans and mash potatoes leaving one to desire seconds .
+
+**********
+[0.9143] The service was lacking.
+Parent: Some reviewers found the atmosphere and service to be lacking, but said that the food made up for it.
+
+Top 5 (supporting):
+     [0.9143] Atmosphere and service lacked a bit , but food makes up for it .
+     [0.0865] It was filthy and the food was salty and awful .
+     [0.0000] Bar none .
+     [-0.0370] I am visiting the area .
+     [-0.0428] Stopped here after shopping at concord mills .
+
+Top 5 (weakening):
+     [-0.9963] Sad to say they closed permanently on April 30 , 2015Great food and really great service .
+     [-0.9932] Fries are not my favorite but ok . Service is good .
+     [-0.9928] It has a nice pub atmosphere and the staff was friendly and good .
+     [-0.9829] Natalie the bartender is pleasant and attentive .
+     [-0.9766] Great green beans and mash potatoes leaving one to desire seconds .
+
+**********
+[0.9625] The food made up for it.
+Parent: Some reviewers found the atmosphere and service to be lacking, but said that the food made up for it.
+
+Top 5 (supporting):
+     [0.9625] Atmosphere and service lacked a bit , but food makes up for it .
+     [0.2223] Great green beans and mash potatoes leaving one to desire seconds .
+     [0.0875] The beef brisket is amazing .
+     [0.0797] Great fried pickles.
+     [0.0684] Moist and tasty .
+
+Top 5 (weakening):
+     [-0.2368] Happy to have discovered !
+     [-0.0770] Fish , so so stick with the beef , pork and chicken .
+     [-0.0457] I am visiting the area .
+     [-0.0435] Will defintely be back .
+     [-0.0304] It was filthy and the food was salty and awful .
+
+**********
+[0.2663] The restaurant was filthy.
+Parent: One reviewer said that the restaurant was filthy and the food was salty and awful, but this was in the minority.
+
+Top 5 (supporting):
+     [0.2663] It was filthy and the food was salty and awful .
+     [0.0000] Bar none .
+     [-0.0547] I am visiting the area .
+     [-0.1236] Came here for lunch with my family while traveling .
+     [-0.1597] In town for the race and we were driving around looking for lunch and happened upon this place .
+
+Top 5 (weakening):
+     [-0.9968] It has a nice pub atmosphere and the staff was friendly and good .
+     [-0.9967] Good BBQ and great atmosphere .
+     [-0.9962] The food was good .
+     [-0.9943] The beef brisket is amazing .
+     [-0.9919] I had fish and chips that were great .
+
+**********
+[0.9791] The food was salty.
+Parent: One reviewer said that the restaurant was filthy and the food was salty and awful, but this was in the minority.
+
+Top 5 (supporting):
+     [0.9791] It was filthy and the food was salty and awful .
+     [0.4646] Great fried pickles.
+     [0.0000] Bar none .
+     [-0.0016] Came here for lunch with my family while traveling .
+     [-0.0020] In town for the race and we were driving around looking for lunch and happened upon this place .
+
+Top 5 (weakening):
+     [-0.9252] Moist and tasty .
+     [-0.5127] Great green beans and mash potatoes leaving one to desire seconds .
+     [-0.4446] Best cheesesteak in town .
+     [-0.4251] The beef brisket is amazing .
+     [-0.2246] Best I 've ever had .
+
+**********
+[0.9229] The food was awful.
+Parent: One reviewer said that the restaurant was filthy and the food was salty and awful, but this was in the minority.
+
+Top 5 (supporting):
+     [0.9229] It was filthy and the food was salty and awful .
+     [0.0000] Bar none .
+     [-0.0429] First time eating here .
+     [-0.0764] I am visiting the area .
+     [-0.1207] In town for the race and we were driving around looking for lunch and happened upon this place .
+
+Top 5 (weakening):
+     [-0.9980] I had fish and chips that were great .
+     [-0.9980] The beef brisket is amazing .
+     [-0.9967] Sad to say they closed permanently on April 30 , 2015Great food and really great service .
+     [-0.9965] Club sandwich is good .
+     [-0.9964] The food was good .

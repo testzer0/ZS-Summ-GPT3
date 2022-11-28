@@ -1,0 +1,241 @@
+Summary:
+
+Slowed down eating because I didn ' t want it to end .
+First time writing a review ... .
+I have been coming to el campesino since it opened , and it is still my favorite Mexican restaurant .
+I am a weekly ( or several times a week ) visitor to El Camp , great prices , good food , and fast service .
+I realize this isn ' t the most authentic or unique Mexican cuisine , but everything I have ever ordered has been delicious .
+
+**********
+[0.9828] I ate slowly.
+Parent: Slowed down eating because I didn ' t want it to end .
+
+Top 5 (supporting):
+     [0.9828] Slowed down eating because I didn 't want it to end .
+     [0.0819] Service was especially slow and not at a busy hour .
+     [0.0000] No joke .
+     [0.0000] Yum ! !
+     [0.0000] Honestly .
+
+Top 5 (weakening):
+     [-0.9158] I 'm running to this border .
+     [-0.5962] 10 minutes each time just to bring expected items like water .
+     [-0.5155] Plates come out extremely hot .
+     [-0.4460] I had the chicken fajita quesadilla and it was super yummy and flavorful and a huge portion .
+     [-0.4430] The place is large and I 've never had to wait .
+
+**********
+[0.8786] I wanted the eating to continue.
+Parent: Slowed down eating because I didn ' t want it to end .
+
+Top 5 (supporting):
+     [0.8786] Slowed down eating because I didn 't want it to end .
+     [0.1290] I always look forward to an el campesino combination platter when I return home to Twinsburg .
+     [0.0627] Ask for the hot salsa in the back-muy bueno !
+     [0.0620] We will eat here again .
+     [0.0389] Will be back , desserts super affordable !
+
+Top 5 (weakening):
+     [-0.9284] We won 't be going back.Fish tacos would be your best choice .
+     [-0.7921] First time writing a review .... so worthy .
+     [-0.7751] The staff is hardworking .
+     [-0.6403] 10 minutes each time just to bring expected items like water .
+     [-0.6291] Watch what your eating .
+
+**********
+[0.8601] This is my first review.
+Parent: First time writing a review ... .
+
+Top 5 (supporting):
+     [0.8601] First time writing a review .... so worthy .
+     [0.0000] No joke .
+     [0.0000] Yum ! !
+     [0.0000] Honestly .
+     [0.0000] Dirty .
+
+Top 5 (weakening):
+     [-0.9877] I have had the quesadilla , the enchiladas , the beans and rice and have never had a bad experience there ever .
+     [-0.9827] I have been coming to el campesino since it opened , and it is still my favorite Mexican restaurant .
+     [-0.9791] I get it almost every time .
+     [-0.9687] I am a weekly ( or several times a week ) visitor to El Camp , great prices , good food , and fast service .
+     [-0.9210] I realize this isn 't the most authentic or unique Mexican cuisine , but everything I have ever ordered has been delicious .
+
+**********
+[0.9373] I like el campesino.
+Parent: I have been coming to el campesino since it opened , and it is still my favorite Mexican restaurant .
+
+Top 5 (supporting):
+     [0.9373] I always look forward to an el campesino combination platter when I return home to Twinsburg .
+     [0.9322] I have been coming to el campesino since it opened , and it is still my favorite Mexican restaurant .
+     [0.4918] I am a weekly ( or several times a week ) visitor to El Camp , great prices , good food , and fast service .
+     [0.1791] The chips , cheese dip , and fajita quesadillas are the best and the service is super fast !
+     [0.0289] The place is large and I 've never had to wait .
+
+Top 5 (weakening):
+     [-0.9201] I had the fire burrito .
+     [-0.9095] The Salas 's great the fajitas is my go to but I 've never had anything bad there .
+     [-0.8671] F * * * Taco Bell .
+     [-0.8482] Love the Roqueto Burrito .
+     [-0.8217] Wouldn 't eat here if you payed me .
+
+**********
+[0.9827] It is my favorite Mexican restaurant.
+Parent: I have been coming to el campesino since it opened , and it is still my favorite Mexican restaurant .
+
+Top 5 (supporting):
+     [0.9827] I have been coming to el campesino since it opened , and it is still my favorite Mexican restaurant .
+     [0.7086] This is my wife and My favorite place for Mexican .
+     [0.5886] My favorite Mexican place !
+     [0.0167] Best mexican restaurant in the area .
+     [0.0126] Best Mexican food in town !
+
+Top 5 (weakening):
+     [-0.9619] Wouldn 't eat here if you payed me .
+     [-0.8722] We won 't be going back.Fish tacos would be your best choice .
+     [-0.4292] I 'm running to this border .
+     [-0.3861] We were excited to go there , but we were disappointed .
+     [-0.1667] Watch what your eating .
+
+**********
+[0.9681] I visit El Camp weekly.
+Parent: I am a weekly ( or several times a week ) visitor to El Camp , great prices , good food , and fast service .
+
+Top 5 (supporting):
+     [0.9681] I am a weekly ( or several times a week ) visitor to El Camp , great prices , good food , and fast service .
+     [0.1815] I try to go once a week .
+     [0.0054] I have been coming to el campesino since it opened , and it is still my favorite Mexican restaurant .
+     [0.0023] They have consistent and decent food at a decent price .
+     [0.0019] I always enjoy eating there .
+
+Top 5 (weakening):
+     [-0.4867] We won 't be going back.Fish tacos would be your best choice .
+     [-0.3482] Wouldn 't eat here if you payed me .
+     [-0.2823] We were excited to go there , but we were disappointed .
+     [-0.1857] I 'm running to this border .
+     [-0.0930] How the f * * * can you go wrong with that ?
+
+**********
+[0.9767] I visit El Camp several times a week.
+Parent: I am a weekly ( or several times a week ) visitor to El Camp , great prices , good food , and fast service .
+
+Top 5 (supporting):
+     [0.9767] I am a weekly ( or several times a week ) visitor to El Camp , great prices , good food , and fast service .
+     [0.0047] I have been coming to el campesino since it opened , and it is still my favorite Mexican restaurant .
+     [0.0043] I always enjoy eating there .
+     [0.0029] They have consistent and decent food at a decent price .
+     [0.0026] The food and service is consistently good .
+
+Top 5 (weakening):
+     [-0.7955] I try to go once a week .
+     [-0.3662] We won 't be going back.Fish tacos would be your best choice .
+     [-0.2713] Wouldn 't eat here if you payed me .
+     [-0.2600] We were excited to go there , but we were disappointed .
+     [-0.1109] I 'm running to this border .
+
+**********
+[0.9783] El Camp has good prices.
+Parent: I am a weekly ( or several times a week ) visitor to El Camp , great prices , good food , and fast service .
+
+Top 5 (supporting):
+     [0.9783] I am a weekly ( or several times a week ) visitor to El Camp , great prices , good food , and fast service .
+     [0.4467] Man the food is good , the prices are cheap , plus unlimited chips and salsa !
+     [0.3702] They have consistent and decent food at a decent price .
+     [0.2906] A lot of Mexican restaurants like this are prone to have mediocre margs but these were delicious and reasonably priced .
+     [0.2264] Staff is very friendly and the prices are reasonable .
+
+Top 5 (weakening):
+     [-0.9259] The prices were a bit high & not worth it .
+     [-0.4833] Wouldn 't eat here if you payed me .
+     [-0.2364] We were excited to go there , but we were disappointed .
+     [-0.2027] Watch what your eating .
+     [-0.1163] We won 't be going back.Fish tacos would be your best choice .
+
+**********
+[0.9830] El Camp has good food.
+Parent: I am a weekly ( or several times a week ) visitor to El Camp , great prices , good food , and fast service .
+
+Top 5 (supporting):
+     [0.9830] I am a weekly ( or several times a week ) visitor to El Camp , great prices , good food , and fast service .
+     [0.7137] They have consistent and decent food at a decent price .
+     [0.6431] Man the food is good , the prices are cheap , plus unlimited chips and salsa !
+     [0.5867] Their service and food is pretty fast , and they have a decent variety of options .
+     [0.5520] Good selection of food for all ages .
+
+Top 5 (weakening):
+     [-0.5404] Wouldn 't eat here if you payed me .
+     [-0.4995] The drinks are cheapOther than that , this place is just your generic canned refried beans and pre-mixed margarita joint .
+     [-0.3978] I was disappointed that they did not serve fresh salsa or horchata .
+     [-0.3776] We were excited to go there , but we were disappointed .
+     [-0.2975] We won 't be going back.Fish tacos would be your best choice .
+
+**********
+[0.8970] El Camp has good service.
+Parent: I am a weekly ( or several times a week ) visitor to El Camp , great prices , good food , and fast service .
+
+Top 5 (supporting):
+     [0.8970] I am a weekly ( or several times a week ) visitor to El Camp , great prices , good food , and fast service .
+     [0.7617] Their service and food is pretty fast , and they have a decent variety of options .
+     [0.7382] The chips , cheese dip , and fajita quesadillas are the best and the service is super fast !
+     [0.4651] The food and service is consistently good .
+     [0.4214] Staff is very friendly and the prices are reasonable .
+
+Top 5 (weakening):
+     [-0.8002] I was disappointed that they did not serve fresh salsa or horchata .
+     [-0.7255] We were excited to go there , but we were disappointed .
+     [-0.7249] They are not clean and there are issues in the kitchen with pests .
+     [-0.3878] Wouldn 't eat here if you payed me .
+     [-0.3734] We won 't be going back.Fish tacos would be your best choice .
+
+**********
+[0.9407] This isn't authentic Mexican cuisine.
+Parent: I realize this isn ' t the most authentic or unique Mexican cuisine , but everything I have ever ordered has been delicious .
+
+Top 5 (supporting):
+     [0.9407] I realize this isn 't the most authentic or unique Mexican cuisine , but everything I have ever ordered has been delicious .
+     [0.2413] The drinks are cheapOther than that , this place is just your generic canned refried beans and pre-mixed margarita joint .
+     [0.0553] Crab enchilada was nothing like I have seen or expected .
+     [0.0310] I was disappointed that they did not serve fresh salsa or horchata .
+     [0.0186] We won 't be going back.Fish tacos would be your best choice .
+
+Top 5 (weakening):
+     [-0.8688] Good Mexican food .
+     [-0.8614] I have been coming to el campesino since it opened , and it is still my favorite Mexican restaurant .
+     [-0.8533] My favorite Mexican place !
+     [-0.8527] The chps and salsa were great !
+     [-0.8488] The chips and salsa are fresh .
+
+**********
+[0.9780] This isn't the most unique Mexican cuisine.
+Parent: I realize this isn ' t the most authentic or unique Mexican cuisine , but everything I have ever ordered has been delicious .
+
+Top 5 (supporting):
+     [0.9780] I realize this isn 't the most authentic or unique Mexican cuisine , but everything I have ever ordered has been delicious .
+     [0.2524] The drinks are cheapOther than that , this place is just your generic canned refried beans and pre-mixed margarita joint .
+     [0.0775] A lot of Mexican restaurants like this are prone to have mediocre margs but these were delicious and reasonably priced .
+     [0.0328] They have consistent and decent food at a decent price .
+     [0.0259] We won 't be going back.Fish tacos would be your best choice .
+
+Top 5 (weakening):
+     [-0.8266] Place is totally legit .
+     [-0.6074] This place is outstanding !
+     [-0.4652] That dish is the sh * * .
+     [-0.4037] Love this place !
+     [-0.3713] The queso is amazing and the chips are fresh and delicious .
+
+**********
+[0.9779] Everything I have ordered was delicious.
+Parent: I realize this isn ' t the most authentic or unique Mexican cuisine , but everything I have ever ordered has been delicious .
+
+Top 5 (supporting):
+     [0.9779] I realize this isn 't the most authentic or unique Mexican cuisine , but everything I have ever ordered has been delicious .
+     [0.0481] The food and drinks were so good .
+     [0.0275] Always good food and fast friendly service !
+     [0.0244] They were delicious .
+     [0.0204] Chips very fresh , desserts had pretty plating and delicious .
+
+Top 5 (weakening):
+     [-0.9967] I was disappointed that they did not serve fresh salsa or horchata .
+     [-0.9963] My colleague for the tacos and stated he shredded beef was also bland .
+     [-0.9918] We were excited to go there , but we were disappointed .
+     [-0.9883] Crab enchilada was nothing like I have seen or expected .
+     [-0.9811] Fried shrimp came undercooked twice .

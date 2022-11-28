@@ -1,0 +1,165 @@
+Summary:
+
+The majority of the reviewers had positive things to say about the Home Depot store, mentioning the convenience, helpfulness of the staff, and fair pricing. A few reviewers mentioned that the store hours should be updated online, and that the store was not always open when it was supposed to be. One reviewer had a negative experience with a staff member, but the rest of the reviewers had positive experiences. Overall, reviewers seemed to be happy with the store.
+
+**********
+[0.4517] The reviewers had positive things to say about the Home Depot store.
+Parent: The majority of the reviewers had positive things to say about the Home Depot store, mentioning the convenience, helpfulness of the staff, and fair pricing.
+
+Top 5 (supporting):
+     [0.4517] Great selection , good staff 90 % of the time , really can only remember one experience where they messed up and unfortunately it was on a copy of my house key .
+     [0.1820] Convenient well stocked store , helpful staff .
+     [0.1304] Friendly staff , easy to find stuff I need .
+     [0.0640] Normally , our experience at Home Depot is great .
+     [0.0582] Prices are fair and store is clean and well maintained .
+
+Top 5 (weakening):
+     [-0.9841] Worst Home Depot ive been to ...
+     [-0.9628] She was rude , dismissive , unhelpful and appeared annoyed with our situation .
+     [-0.9524] This store blows
+     [-0.9414] So annoying .
+     [-0.9286] He didn 't like it when I said " no one else in here can turn on a self checkout ? "
+
+**********
+[0.7405] It was convenient.
+Parent: The majority of the reviewers had positive things to say about the Home Depot store, mentioning the convenience, helpfulness of the staff, and fair pricing.
+
+Top 5 (supporting):
+     [0.7405] Convenient well stocked store , helpful staff .
+     [0.4578] Friendly staff , easy to find stuff I need .
+     [0.0814] Great place , never crowded.Lumber anyways seems to be damaged or cracked .
+     [0.0403] Went to Thomas location and they had everything in stock i need and where its supposed to be ...
+     [0.0359] I 'm so happy I found Randy ( Home Depot associate ) he was very helpful and worked really hard to find what I was looking for for months Great Job Randy !
+
+Top 5 (weakening):
+     [-0.9756] Today , however , we had the unfortunate experience of dealing with Diana in customer service .
+     [-0.9710] So annoying .
+     [-0.9664] After that , the lock broke and I had to go right back and spend more money on a new knob / lock .
+     [-0.9183] She was rude , dismissive , unhelpful and appeared annoyed with our situation .
+     [-0.8960] Worst Home Depot ive been to ...
+
+**********
+[0.9243] The staff was helpful.
+Parent: The majority of the reviewers had positive things to say about the Home Depot store, mentioning the convenience, helpfulness of the staff, and fair pricing.
+
+Top 5 (supporting):
+     [0.9243] Convenient well stocked store , helpful staff .
+     [0.4234] Great selection , good staff 90 % of the time , really can only remember one experience where they messed up and unfortunately it was on a copy of my house key .
+     [0.3444] Friendly staff , easy to find stuff I need .
+     [0.2409] Very grateful to an employee that returned a valuable item that I lost in the restroom .
+     [0.1244] The gentleman chuck answered my questions in a timely manner .
+
+Top 5 (weakening):
+     [-0.9915] Customer service people are rude and don 't know how to do their job .
+     [-0.9595] She was rude , dismissive , unhelpful and appeared annoyed with our situation .
+     [-0.8622] It 's a Home Depot , pretty basic ... lost points for two different employees giving wrong directions on where to find a tree stand .
+     [-0.7981] Today , however , we had the unfortunate experience of dealing with Diana in customer service .
+     [-0.7776] Smallest selection of Milwaukee tools compared to others especially Thunderbird store .... Online it said 3 Milwaukee M18 Sawzalls left ... Couldnt find them ... Home Depot employee couldnt find them ....
+
+**********
+[0.9526] The pricing was fair.
+Parent: The majority of the reviewers had positive things to say about the Home Depot store, mentioning the convenience, helpfulness of the staff, and fair pricing.
+
+Top 5 (supporting):
+     [0.9526] Prices are fair and store is clean and well maintained .
+     [0.0437] They were cheaper than Walmart ( $ 2.88 vs. $ 2.97 for the larger ones ) .
+     [0.0173] Compared to other HD stores , this one is about par with the others .
+     [0.0026] Went to Thomas location and they had everything in stock i need and where its supposed to be ...
+     [0.0024] Normally , our experience at Home Depot is great .
+
+Top 5 (weakening):
+     [-0.5515] This store blows
+     [-0.4903] This lady definitely needed lots of guidance
+     [-0.3502] Tree department sucks .
+     [-0.3208] Especially Ivette that was rude and unprofessional .
+     [-0.3065] Today , however , we had the unfortunate experience of dealing with Diana in customer service .
+
+**********
+[0.9789] The store hours should be updated online.
+Parent: A few reviewers mentioned that the store hours should be updated online, and that the store was not always open when it was supposed to be.
+
+Top 5 (supporting):
+     [0.9789] The store hours should be updated online to match when the store actually closes .
+     [0.2043] No one wants to drive all the way to the store at 9pm thinking they close at 10pm ( because that 's what it says online ) only to find they actually close at 9pm .
+     [0.0731] Online says open at 5 am .
+     [0.0000] Sad !
+     [0.0000] !
+
+Top 5 (weakening):
+     [-0.5574] This lady definitely needed lots of guidance
+     [-0.1855] Tree department sucks .
+     [-0.1836] Mane sure you inspect the lumber before you buy it .
+     [-0.1809] She was rude , dismissive , unhelpful and appeared annoyed with our situation .
+     [-0.1761] One set worked fine but the other one would get stuck and not turn completely , leaving my 10 year old locked out .
+
+**********
+[0.7773] The store was not always open when it was supposed to be.
+Parent: A few reviewers mentioned that the store hours should be updated online, and that the store was not always open when it was supposed to be.
+
+Top 5 (supporting):
+     [0.7773] No one wants to drive all the way to the store at 9pm thinking they close at 10pm ( because that 's what it says online ) only to find they actually close at 9pm .
+     [0.1915] The store hours should be updated online to match when the store actually closes .
+     [0.1207] No registers open sooo no " was his answer .
+     [0.0760] Great selection , good staff 90 % of the time , really can only remember one experience where they messed up and unfortunately it was on a copy of my house key .
+     [0.0603] Great place , never crowded.Lumber anyways seems to be damaged or cracked .
+
+Top 5 (weakening):
+     [-0.4809] I am in this store all the time and they always have what I need !
+     [-0.4319] Went to Thomas location and they had everything in stock i need and where its supposed to be ...
+     [-0.2048] Prices are fair and store is clean and well maintained .
+     [-0.1980] The gentleman chuck answered my questions in a timely manner .
+     [-0.1163] Friendly staff , easy to find stuff I need .
+
+**********
+[0.8728] The reviewer had a negative experience with a staff member.
+Parent: One reviewer had a negative experience with a staff member, but the rest of the reviewers had positive experiences.
+
+Top 5 (supporting):
+     [0.8728] Today , however , we had the unfortunate experience of dealing with Diana in customer service .
+     [0.7380] She was rude , dismissive , unhelpful and appeared annoyed with our situation .
+     [0.7007] It 's a Home Depot , pretty basic ... lost points for two different employees giving wrong directions on where to find a tree stand .
+     [0.4250] He didn 't like it when I said " no one else in here can turn on a self checkout ? "
+     [0.2861] Especially Ivette that was rude and unprofessional .
+
+Top 5 (weakening):
+     [-0.9886] I 'm so happy I found Randy ( Home Depot associate ) he was very helpful and worked really hard to find what I was looking for for months Great Job Randy !
+     [-0.9774] Friendly staff , easy to find stuff I need .
+     [-0.9528] Larry in the paint department is great and talented at matching a previous color .
+     [-0.9338] Thanks Steve for helping me pick the sprinkler parts I needed for my repair .
+     [-0.9337] Very grateful to an employee that returned a valuable item that I lost in the restroom .
+
+**********
+[0.5433] The reviewers had positive experiences.
+Parent: One reviewer had a negative experience with a staff member, but the rest of the reviewers had positive experiences.
+
+Top 5 (supporting):
+     [0.5433] Great selection , good staff 90 % of the time , really can only remember one experience where they messed up and unfortunately it was on a copy of my house key .
+     [0.4051] Normally , our experience at Home Depot is great .
+     [0.3488] I 'm so happy I found Randy ( Home Depot associate ) he was very helpful and worked really hard to find what I was looking for for months Great Job Randy !
+     [0.2549] Very grateful to an employee that returned a valuable item that I lost in the restroom .
+     [0.2240] Friendly staff , easy to find stuff I need .
+
+Top 5 (weakening):
+     [-0.9928] Worst Home Depot ive been to ...
+     [-0.9896] She was rude , dismissive , unhelpful and appeared annoyed with our situation .
+     [-0.9847] Today , however , we had the unfortunate experience of dealing with Diana in customer service .
+     [-0.9697] So annoying .
+     [-0.9590] No registers open sooo no " was his answer .
+
+**********
+[0.7159] The store was good.
+Parent: Overall, reviewers seemed to be happy with the store.
+
+Top 5 (supporting):
+     [0.7159] Convenient well stocked store , helpful staff .
+     [0.6365] Great selection , good staff 90 % of the time , really can only remember one experience where they messed up and unfortunately it was on a copy of my house key .
+     [0.5716] Prices are fair and store is clean and well maintained .
+     [0.3451] Normally , our experience at Home Depot is great .
+     [0.3351] Went to Thomas location and they had everything in stock i need and where its supposed to be ...
+
+Top 5 (weakening):
+     [-0.9831] Worst Home Depot ive been to ...
+     [-0.9574] This store blows
+     [-0.8672] Never buy a tree from there again .
+     [-0.8406] Especially Ivette that was rude and unprofessional .
+     [-0.8228] Tree department sucks .

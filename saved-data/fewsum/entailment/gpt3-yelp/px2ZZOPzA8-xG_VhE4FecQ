@@ -1,0 +1,93 @@
+Summary:
+
+The reviews of the product are mixed. Some people said that the car wash did a good job and that they were happy with the service. Others said that the car wash was terrible and that they were not happy with the service.
+
+**********
+[0.3505] The reviews of the product are mixed.
+Parent: The reviews of the product are mixed.
+
+Top 5 (supporting):
+     [0.3505] The quality can be a little hit or miss .
+     [0.2356] The wash I received did not take off the bird remains on my sun roof , and the interior had areas of attention that I had specifically I asked to be addressed , but were nonetheless neglected .
+     [0.2017] They are very quick but at the expense of doing even a decent job .
+     [0.0756] I got the VIP car wash , my car wasn 't vacuumed , the inside the the windows weren 't wiped , the dashboard wasn 't wiped and still had glitter on my back seat .
+     [0.0215] I have been here 4 times now trying to give it an honest try and they can 't get it right .
+
+Top 5 (weakening):
+     [-0.9802] Can 't say enough about this car wash the general manager Timothy is a big reason why he is really making a difference there customer service has really been improved .
+     [-0.9710] Great service !
+     [-0.9690] Edwaedo very nice and helpful .
+     [-0.9594] Horrible experience .
+     [-0.9478] Not sure why there are such bad reviews for this place .
+
+**********
+[0.7042] The car wash did a good job.
+Parent: Some people said that the car wash did a good job and that they were happy with the service.
+
+Top 5 (supporting):
+     [0.7042] Can 't say enough about this car wash the general manager Timothy is a big reason why he is really making a difference there customer service has really been improved .
+     [0.6676] Also washed my car free of charge : ) Great customer service !
+     [0.5937] If I pay 18.99 for a car wash I expect a pretty thorough ( not perfect ) but decent job done on the car .
+     [0.5278] It was a bit pricey ( 120 ) but we 'll worth it as they cleaned the interior , tires and made the car paint shine again .
+     [0.5078] Not a bad car wash . Rates are reasonable .
+
+Top 5 (weakening):
+     [-0.9943] Worst car wash ever !
+     [-0.9940] A bunch of guys standing around on their phones and doing a crappy job on car washes .
+     [-0.9934] Worst experience I have EVER had at a car wash ....
+     [-0.9924] This is by far the WORST car wash I 've ever been to .
+     [-0.9921] Worst car wash ever .
+
+**********
+[0.5050] They were happy with the service.
+Parent: Some people said that the car wash did a good job and that they were happy with the service.
+
+Top 5 (supporting):
+     [0.5050] Great service , they take care of me every time I come in here .
+     [0.3930] Great service !
+     [0.1425] Very happy and will take it back in a few months to do it again
+     [0.1377] Can 't say enough about this car wash the general manager Timothy is a big reason why he is really making a difference there customer service has really been improved .
+     [0.1175] I 've gone to this location a couple times now and have experienced consistently good service .
+
+Top 5 (weakening):
+     [-0.9859] Then after paying over $ 44. they did a horrible job .
+     [-0.9845] Horrible experience .
+     [-0.9845] Awful awful awful !
+     [-0.9844] Worst service went for an oil change and a wash got in my car still a mess and oil all over my steering wheel and center consul and they want to tell me it was there very rude and unprofessional car wasn 't even clean poorly done well never be back here
+     [-0.9811] Again very dissatisfied .
+
+**********
+[0.9525] The car wash was terrible.
+Parent: Others said that the car wash was terrible and that they were not happy with the service.
+
+Top 5 (supporting):
+     [0.9525] This car wash is horrible says the $ 5 for a machine wash and they don 't even dry your car .
+     [0.9520] Worst experience I have EVER had at a car wash ....
+     [0.9494] This has to be the worst car wash in town .
+     [0.9431] Worst car wash ever !
+     [0.9398] This is by far the WORST car wash I 've ever been to .
+
+Top 5 (weakening):
+     [-0.9956] Not a bad car wash . Rates are reasonable .
+     [-0.9955] Can 't say enough about this car wash the general manager Timothy is a big reason why he is really making a difference there customer service has really been improved .
+     [-0.9942] Such a good job on my Jeep !
+     [-0.9916] This is one of the best places to have your car washed and detailed .
+     [-0.9912] Great service !
+
+**********
+[0.9511] The service was not good.
+Parent: Others said that the car wash was terrible and that they were not happy with the service.
+
+Top 5 (supporting):
+     [0.9511] Very bad service they are discriminations , not come first service first .
+     [0.9182] Worst service went for an oil change and a wash got in my car still a mess and oil all over my steering wheel and center consul and they want to tell me it was there very rude and unprofessional car wasn 't even clean poorly done well never be back here
+     [0.7749] The worst car wash ever $ 25.00 for the vip wash and I had to point out several areas for them to redo in addition I spent 30 minutes when I got home to re clean my car ... will never go back ever again .
+     [0.7724] They ' filled ' a small chip in my windshield , did a HORRIBLE job , then couldn 't do anything to help me except a free wash ... ?
+     [0.7056] This car wash is horrible says the $ 5 for a machine wash and they don 't even dry your car .
+
+Top 5 (weakening):
+     [-0.9964] Great service !
+     [-0.9958] Great service , they take care of me every time I come in here .
+     [-0.9943] Also washed my car free of charge : ) Great customer service !
+     [-0.9929] The crew under the leadership of Tim , the general manager , is friendly and provide excellent customer service .
+     [-0.9914] I 've gone to this location a couple times now and have experienced consistently good service .

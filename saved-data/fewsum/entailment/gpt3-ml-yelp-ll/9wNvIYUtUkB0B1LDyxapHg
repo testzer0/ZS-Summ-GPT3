@@ -1,0 +1,129 @@
+Summary:
+
+The reviewers generally thought that the food was good, especially the tacos, and that the restaurant was clean and fast. They also appreciated the self-serve salsa bar. However, some reviewers thought that the portions were small and that the restaurant was overpriced.
+
+**********
+[0.9377] The reviewers thought the food was good.
+Parent: The reviewers generally thought that the food was good, especially the tacos, and that the restaurant was clean and fast.
+
+Top 5 (supporting):
+     [0.9377] We loved the food !
+     [0.8802] This place has the best food and the guacamole is the best we 've had since leaving California .
+     [0.8292] Healthy opinions of great quilty food which I 'm searching for right after working out .
+     [0.8055] We were out running errands and just stopped in for a quick meal.I can 't believe how cheap the prices are for such good food .
+     [0.7916] Had a great experience with both food and staff , what more could you ask for ?
+
+Top 5 (weakening):
+     [-0.5227] The food wasn 't absolutely terrible but nowhere near good enough for a repeat visit .
+     [-0.4380] These are unusable .
+     [-0.3775] First time here , had our first experience in noda , which was perfect and on point.This location serves waaaaaaaay less quality mexican foods compares t their noda location.I hate their flip screen POS that pretty forces ( default at ) service fees of 20 % .
+     [-0.2018] Chicken was quite dry and bland but with the salsa went down easy .
+     [-0.1227] The only bad thing was the cold front Mother Nature sent through on the night we visited .
+
+**********
+[0.8475] The tacos were good.
+Parent: The reviewers generally thought that the food was good, especially the tacos, and that the restaurant was clean and fast.
+
+Top 5 (supporting):
+     [0.8475] The tacos were the best I have had in Charlotte .
+     [0.7247] Great street corn and tacos , particularly the pastor with pineapple !
+     [0.7220] Love the corn tortilla tacos .
+     [0.6270] Tacos al pastor were our favorite , and I was super impressed with the chorizo , which wasn 't greasy at all !
+     [0.6032] Awesome $ 1 taco tuesdays , love the chicken quesadillas , love love love , come here at least once a week !
+
+Top 5 (weakening):
+     [-0.9528] Especially love the salads !
+     [-0.9514] Pattrick took our order and made us a couple margaritas that hit the spot !
+     [-0.9215] The margaritas are also fantastic .
+     [-0.8896] Weird but true .. they have great tea , it is usually an indicator for me .
+     [-0.8784] My favorite dish is the Supreme Nachos with grilled chicken and black beans .
+
+**********
+[0.8114] The restaurant was clean.
+Parent: The reviewers generally thought that the food was good, especially the tacos, and that the restaurant was clean and fast.
+
+Top 5 (supporting):
+     [0.8114] Superior service , fast , clean , fresh food , salsa buffet , and the cherry on top : queso ! !
+     [0.3000] Clean and fast service .
+     [0.2105] Great menu items fresh , tasty and healthy .
+     [0.1401] Tasty food and fresh .
+     [0.1168] Portions were nice sized and freshly made to order .
+
+Top 5 (weakening):
+     [-0.9897] In addition the place was dirty .
+     [-0.9373] The only complain I have is that the fries get soggy and so did my quesadilla .
+     [-0.8849] The plastic utensils are the worst thing about this location , the utensils seem small and are flimsy .
+     [-0.7968] Chicken was quite dry and bland but with the salsa went down easy .
+     [-0.7851] Yuca fries- crunchy outside , supple inside- yummy ! !
+
+**********
+[0.9466] The restaurant was fast.
+Parent: The reviewers generally thought that the food was good, especially the tacos, and that the restaurant was clean and fast.
+
+Top 5 (supporting):
+     [0.9466] I love this place , it 's not expensive and the food is fast and amazing !
+     [0.9217] Really authentic , good quality food that is fast and well priced is a rare thing in the Charlotte and this place is fantastic ! !
+     [0.8364] Superior service , fast , clean , fresh food , salsa buffet , and the cherry on top : queso ! !
+     [0.7501] Great food price is a little high but the taste makes up for that the people were really nice and the service was quick it have a very authentic feel
+     [0.6474] Quick and easy stop for a Latin food fix !
+
+Top 5 (weakening):
+     [-0.6495] We went to the hawthorne location but it was way to loud and busy .
+     [-0.4213] These are unusable .
+     [-0.4011] I live in an area full of your typical everyday fast food chains and its truly a breathe of fresh air when I have Sabor to eat at .
+     [-0.3526] Not only is the food affordable , it 's delicious .
+     [-0.2729] The only bad thing was the cold front Mother Nature sent through on the night we visited .
+
+**********
+[0.1120] They liked the self-serve salsa bar.
+Parent: They also appreciated the self-serve salsa bar.
+
+Top 5 (supporting):
+     [0.1120] The sauces in the back of the dining area were yummy , accurately described , and tasted fresh .
+     [0.0851] Love the salsa selection and seasoned chips make for a welcome change from the standard taqueria fare .
+     [0.0239] Chicken was quite dry and bland but with the salsa went down easy .
+     [0.0046] I like the salsa bar they have as well ( especially the pineapple habanero ) .
+     [0.0040] They also have a self service salsa bar with to go cups .
+
+Top 5 (weakening):
+     [-0.9610] Especially love the salads !
+     [-0.8885] Love the corn tortilla tacos .
+     [-0.8786] Women love Merlot more than Beer lol ! !
+     [-0.8783] Our favorite is the nachos with steak .
+     [-0.8656] I hope they serve house red wine and not just beer .
+
+**********
+[0.5843] The portions were small.
+Parent: However, some reviewers thought that the portions were small and that the restaurant was overpriced.
+
+Top 5 (supporting):
+     [0.5843] It 's too popular to be in such a small location .
+     [0.4066] The plastic utensils are the worst thing about this location , the utensils seem small and are flimsy .
+     [0.1300] They could definitely use more seating or just a bigger place .
+     [0.1032] Tasted good but did not sit well in my stomach .
+     [0.0861] The restaurant itself is small so it can fill up quickly .
+
+Top 5 (weakening):
+     [-0.9960] The portions are huge , and super fresh ingredients .
+     [-0.9937] Great prices for such large portions and if you buy a large queso you get the chips for free .
+     [-0.9854] Huge burritos !
+     [-0.9834] The Sabor Special Burrito is excellent and huge in size .
+     [-0.9799] Huge nachos !
+
+**********
+[0.8062] The restaurant was overpriced.
+Parent: However, some reviewers thought that the portions were small and that the restaurant was overpriced.
+
+Top 5 (supporting):
+     [0.8062] Food is pretty good for a chain restaurant but be prepared to spend a lot of $ $ for little amount of food they up charge you for every thing and the size of the side are absurdly ridiculous !
+     [0.5321] Great food price is a little high but the taste makes up for that the people were really nice and the service was quick it have a very authentic feel
+     [0.0921] I had the burrito and my friend had the nachos , which for the price was an insane amount of nachos .
+     [0.0000] !
+     [0.0000] !
+
+Top 5 (weakening):
+     [-0.9963] Not only is the food affordable , it 's delicious .
+     [-0.9956] We were out running errands and just stopped in for a quick meal.I can 't believe how cheap the prices are for such good food .
+     [-0.9956] I love this place , it 's not expensive and the food is fast and amazing !
+     [-0.9407] Love the ease of ordering and the margs too .
+     [-0.9363] : ) great value , great taste , goodService !

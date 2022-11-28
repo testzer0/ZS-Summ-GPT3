@@ -1,0 +1,93 @@
+Summary:
+
+The reviewers generally thought that the glasses were a good product, well-made and as described. They were happy with their purchase and would recommend them to others.
+
+**********
+[0.5502] The glasses were a good product.
+Parent: The reviewers generally thought that the glasses were a good product, well-made and as described.
+
+Top 5 (supporting):
+     [0.5502] These glasses are outstanding .
+     [0.5040] Super high quality glasses .
+     [0.4809] I saw this glass in a restaurant that I like and wanted to pick up a few ..... they could not sell it to me at the location so I found they on Amazon and they were exactly as described -- well packaged and delivered on time .
+     [0.4487] The photograph gives you some idea , but the actual glasses are even better .
+     [0.1747] This item was a great gift idea for a friend who loves to have her Heinekin beer in a chilled glass .
+
+Top 5 (weakening):
+     [-0.0231] Not to mention , how great the customer service is .
+     [-0.0044] I don 't see anything wrong with them
+     [0.0029] This product met the expectations set by pictures and the review .
+     [0.0056] Very happy with the product -- thank you !
+     [0.0061] This product was exactly what I ordered .
+
+**********
+[0.7891] The glasses were well-made.
+Parent: The reviewers generally thought that the glasses were a good product, well-made and as described.
+
+Top 5 (supporting):
+     [0.7891] Super high quality glasses .
+     [0.3346] I saw this glass in a restaurant that I like and wanted to pick up a few ..... they could not sell it to me at the location so I found they on Amazon and they were exactly as described -- well packaged and delivered on time .
+     [0.2724] These glasses are outstanding .
+     [0.2154] The photograph gives you some idea , but the actual glasses are even better .
+     [0.0854] The glasses are sharp looking .
+
+Top 5 (weakening):
+     [-0.0200] Not to mention , how great the customer service is .
+     [-0.0041] I don 't see anything wrong with them
+     [0.0023] This product met the expectations set by pictures and the review .
+     [0.0028] He enjoys drinking his Heineken out of them every weekend .
+     [0.0030] Very happy with the product -- thank you !
+
+**********
+[0.9607] The glasses were as described.
+Parent: The reviewers generally thought that the glasses were a good product, well-made and as described.
+
+Top 5 (supporting):
+     [0.9607] I saw this glass in a restaurant that I like and wanted to pick up a few ..... they could not sell it to me at the location so I found they on Amazon and they were exactly as described -- well packaged and delivered on time .
+     [0.3744] The photograph gives you some idea , but the actual glasses are even better .
+     [0.1888] Super high quality glasses .
+     [0.0813] These glasses are outstanding .
+     [0.0758] The glasses are sharp looking .
+
+Top 5 (weakening):
+     [-0.0307] He enjoys drinking his Heineken out of them every weekend .
+     [-0.0049] Not to mention , how great the customer service is .
+     [-0.0014] They make a great addition to a home bar .
+     [-0.0010] I don 't see anything wrong with them
+     [0.0002] They are wonderful gift for your husband who enjoys Heineken .
+
+**********
+[0.8421] They were happy.
+Parent: They were happy with their purchase and would recommend them to others.
+
+Top 5 (supporting):
+     [0.8421] Very happy with the product -- thank you !
+     [0.7037] My brother was quite pleased with these and will enjoy using them .
+     [0.3890] I am happy w the product and use them often .
+     [0.2971] My husband loved them !
+     [0.2469] So happy I bought them !
+
+Top 5 (weakening):
+     [-0.4596] These glasses are outstanding .
+     [-0.3757] The glasses are sharp looking .
+     [-0.2019] This product was exactly what I ordered .
+     [-0.1463] The photograph gives you some idea , but the actual glasses are even better .
+     [-0.1407] Super high quality glasses .
+
+**********
+[0.5462] They were good recommendations.
+Parent: They were happy with their purchase and would recommend them to others.
+
+Top 5 (supporting):
+     [0.5462] They were a great gift idea for me to send him ..
+     [0.3002] This item was a great gift idea for a friend who loves to have her Heinekin beer in a chilled glass .
+     [0.1924] They are wonderful gift for your husband who enjoys Heineken .
+     [0.0945] They make a great addition to a home bar .
+     [0.0844] Very happy with the product -- thank you !
+
+Top 5 (weakening):
+     [0.0016] The shipping was fast as well .
+     [0.0040] I don 't see anything wrong with them
+     [0.0048] The glasses are sharp looking .
+     [0.0050] He enjoys drinking his Heineken out of them every weekend .
+     [0.0097] My husband loved them !

@@ -1,0 +1,219 @@
+Summary:
+
+The product received mostly positive reviews, with people enjoying the food and finding it to be a great value. However, there were also some complaints about the service, including long wait times and confusion at the counter. Some people also found the food to be bland and lacking in flavor. Overall, the reviewers thought that the food was excellent, the atmosphere was clean and friendly, and the restaurant was a great overall experience.
+
+**********
+[0.7773] The product was good.
+Parent: The product received mostly positive reviews, with people enjoying the food and finding it to be a great value.
+
+Top 5 (supporting):
+     [0.7773] Food was pretty good .
+     [0.6711] Excellent food !
+     [0.6476] I only had the wonton soup , very good and flavorful ... but they need better staff .
+     [0.6292] The egg rolls are the best ever .
+     [0.5955] The women was very nice and the food was great .
+
+Top 5 (weakening):
+     [-0.8541] Ordered the szechuan beef and chicken egg roll at lunch and it was bland and they gave me a vegetable egg roll !
+     [-0.8379] The pork on ours tasted nasty .
+     [-0.7364] Cannot recommend it .
+     [-0.6457] those hard super chewy tough chicken bits in a bland sweet sauce was an insult ( takeout ) .
+     [-0.5413] I was excited to try this play because of the raving reviews , but I found it to be rather average .
+
+**********
+[0.8891] The food was enjoyed.
+Parent: The product received mostly positive reviews, with people enjoying the food and finding it to be a great value.
+
+Top 5 (supporting):
+     [0.8891] The women was very nice and the food was great .
+     [0.8413] Great food , and service !
+     [0.8394] Food was pretty good .
+     [0.7695] Great food , poor service .
+     [0.7470] Very casual Food was awesome and with large portions great for trying out food with a group .
+
+Top 5 (weakening):
+     [-0.9273] Ordered the szechuan beef and chicken egg roll at lunch and it was bland and they gave me a vegetable egg roll !
+     [-0.7973] The pork on ours tasted nasty .
+     [-0.7604] those hard super chewy tough chicken bits in a bland sweet sauce was an insult ( takeout ) .
+     [-0.5371] Cannot recommend it .
+     [-0.5286] I was excited to try this play because of the raving reviews , but I found it to be rather average .
+
+**********
+[0.3234] It was a great value.
+Parent: The product received mostly positive reviews, with people enjoying the food and finding it to be a great value.
+
+Top 5 (supporting):
+     [0.3234] A very diverse menu and excellent prices for quality & fresh ingredients .
+     [0.2785] Been here half a dozen haven 't had a bad dish solid appetizers good service must be a small staff I 've always had the same waitress I 've only gone for lunch never been disappointed with my meal good food at reasonable prices
+     [0.1621] I recommend it greatly !
+     [0.0753] I ate here for the first time on Saturday and I must say it was very good , .
+     [0.0666] I highly recommend !
+
+Top 5 (weakening):
+     [-0.9895] Cannot recommend it .
+     [-0.9676] those hard super chewy tough chicken bits in a bland sweet sauce was an insult ( takeout ) .
+     [-0.9576] Not too impressed .
+     [-0.9561] I was excited to try this play because of the raving reviews , but I found it to be rather average .
+     [-0.9403] There is a reason this place is empty at lunch time - overpriced , long wait for my dish , and below average bland food !
+
+**********
+[0.9387] The service was not good.
+Parent: However, there were also some complaints about the service, including long wait times and confusion at the counter.
+
+Top 5 (supporting):
+     [0.9387] Great food , poor service .
+     [0.4921] Bright lights are annoying and it is understaffed .
+     [0.4239] I only had the wonton soup , very good and flavorful ... but they need better staff .
+     [0.3303] Just picked up an order for lettuce wraps and three eggs rolls .. Was over charged and the cashier didn 't understand English well enough to comprehend what we were trying to explain ... Ended up just giving up and paying .
+     [0.3186] Sorry House of meh , but serving chicken trash as General Tso 's is unacceptable.
+
+Top 5 (weakening):
+     [-0.9928] the place was very clean , the service was great .
+     [-0.9892] Very friendly and welcoming staff .
+     [-0.9860] Great food , and service !
+     [-0.9828] Been here half a dozen haven 't had a bad dish solid appetizers good service must be a small staff I 've always had the same waitress I 've only gone for lunch never been disappointed with my meal good food at reasonable prices
+     [-0.9746] They have an excellent website that allows customers to order on line and your order is ready when you arrive .
+
+**********
+[0.3291] The wait times were too long.
+Parent: However, there were also some complaints about the service, including long wait times and confusion at the counter.
+
+Top 5 (supporting):
+     [0.3291] There is a reason this place is empty at lunch time - overpriced , long wait for my dish , and below average bland food !
+     [0.0708] Wait time was horrible today ...
+     [0.0238] I 've never seen the place so busy and un- organized ... i felt bad for the women at the counter as she was very very busy but also very confused .
+     [0.0000] !
+     [0.0000] !
+
+Top 5 (weakening):
+     [-0.9672] Friendly service and ready for pick-up promptly .
+     [-0.9206] Polite and fast Waitress .
+     [-0.9183] They have an excellent website that allows customers to order on line and your order is ready when you arrive .
+     [-0.8772] Been here half a dozen haven 't had a bad dish solid appetizers good service must be a small staff I 've always had the same waitress I 've only gone for lunch never been disappointed with my meal good food at reasonable prices
+     [-0.7129] I highly recommend !
+
+**********
+[0.9345] The counter was confusing.
+Parent: However, there were also some complaints about the service, including long wait times and confusion at the counter.
+
+Top 5 (supporting):
+     [0.9345] I 've never seen the place so busy and un- organized ... i felt bad for the women at the counter as she was very very busy but also very confused .
+     [0.3042] Just picked up an order for lettuce wraps and three eggs rolls .. Was over charged and the cashier didn 't understand English well enough to comprehend what we were trying to explain ... Ended up just giving up and paying .
+     [0.0456] The place has zero atmosphere and personality .
+     [0.0415] Wait time was horrible today ...
+     [0.0358] Next time we 'll order online to avoid the miscommunication and pay the correct prices .
+
+Top 5 (weakening):
+     [-0.9078] Clean and friendly atmosphere .
+     [-0.8763] Friendly service and ready for pick-up promptly .
+     [-0.8538] A very diverse menu and excellent prices for quality & fresh ingredients .
+     [-0.8291] Very clean , nice looking decor .
+     [-0.8257] Great place for sit down or take out .
+
+**********
+[0.8618] The food was bland.
+Parent: Some people also found the food to be bland and lacking in flavor.
+
+Top 5 (supporting):
+     [0.8618] Ordered the szechuan beef and chicken egg roll at lunch and it was bland and they gave me a vegetable egg roll !
+     [0.8462] There is a reason this place is empty at lunch time - overpriced , long wait for my dish , and below average bland food !
+     [0.6747] those hard super chewy tough chicken bits in a bland sweet sauce was an insult ( takeout ) .
+     [0.2161] Flavorless , even the spicy dishes .
+     [0.0061] The place has zero atmosphere and personality .
+
+Top 5 (weakening):
+     [-0.9963] Absolutely delicious !
+     [-0.9963] Excellent food !
+     [-0.9961] A very diverse menu and excellent prices for quality & fresh ingredients .
+     [-0.9953] The egg rolls are the best ever .
+     [-0.9949] It tasted very fresh !
+
+**********
+[0.9371] The food lacked flavor.
+Parent: Some people also found the food to be bland and lacking in flavor.
+
+Top 5 (supporting):
+     [0.9371] Flavorless , even the spicy dishes .
+     [0.7849] There is a reason this place is empty at lunch time - overpriced , long wait for my dish , and below average bland food !
+     [0.7218] Ordered the szechuan beef and chicken egg roll at lunch and it was bland and they gave me a vegetable egg roll !
+     [0.7009] those hard super chewy tough chicken bits in a bland sweet sauce was an insult ( takeout ) .
+     [0.0525] It was just " typical . "
+
+Top 5 (weakening):
+     [-0.9946] I always order the house chicken ( sweet , mildly spicy , high quality chicken ) .
+     [-0.9943] Absolutely delicious !
+     [-0.9889] The egg rolls are the best ever .
+     [-0.9888] I only had the wonton soup , very good and flavorful ... but they need better staff .
+     [-0.9800] Excellent food !
+
+**********
+[0.9418] The food was excellent.
+Parent: Overall, the reviewers thought that the food was excellent, the atmosphere was clean and friendly, and the restaurant was a great overall experience.
+
+Top 5 (supporting):
+     [0.9418] The women was very nice and the food was great .
+     [0.8863] Great food , and service !
+     [0.8638] Excellent food !
+     [0.8388] Very casual Food was awesome and with large portions great for trying out food with a group .
+     [0.8124] Food was pretty good .
+
+Top 5 (weakening):
+     [-0.9960] Ordered the szechuan beef and chicken egg roll at lunch and it was bland and they gave me a vegetable egg roll !
+     [-0.9943] There is a reason this place is empty at lunch time - overpriced , long wait for my dish , and below average bland food !
+     [-0.9876] those hard super chewy tough chicken bits in a bland sweet sauce was an insult ( takeout ) .
+     [-0.9874] The pork on ours tasted nasty .
+     [-0.9715] Okay food .
+
+**********
+[0.9454] The atmosphere was clean.
+Parent: Overall, the reviewers thought that the food was excellent, the atmosphere was clean and friendly, and the restaurant was a great overall experience.
+
+Top 5 (supporting):
+     [0.9454] the place was very clean , the service was great .
+     [0.9185] Clean and friendly atmosphere .
+     [0.9064] Friends of ours took us here and the first thing I noticed was that it was clean , which is always a bonus .
+     [0.8199] Very clean , nice looking decor .
+     [0.0210] The women was very nice and the food was great .
+
+Top 5 (weakening):
+     [-0.9956] I 've never seen the place so busy and un- organized ... i felt bad for the women at the counter as she was very very busy but also very confused .
+     [-0.9895] The pork on ours tasted nasty .
+     [-0.9799] those hard super chewy tough chicken bits in a bland sweet sauce was an insult ( takeout ) .
+     [-0.9602] Bright lights are annoying and it is understaffed .
+     [-0.9487] The place has zero atmosphere and personality .
+
+**********
+[0.9521] The atmosphere was friendly.
+Parent: Overall, the reviewers thought that the food was excellent, the atmosphere was clean and friendly, and the restaurant was a great overall experience.
+
+Top 5 (supporting):
+     [0.9521] Clean and friendly atmosphere .
+     [0.8322] Very friendly and welcoming staff .
+     [0.4044] Friendly service and ready for pick-up promptly .
+     [0.3641] The staff were incredibly helpful and friendly , though !
+     [0.2934] The women was very nice and the food was great .
+
+Top 5 (weakening):
+     [-0.9769] The place has zero atmosphere and personality .
+     [-0.9494] I 've never seen the place so busy and un- organized ... i felt bad for the women at the counter as she was very very busy but also very confused .
+     [-0.9430] Bright lights are annoying and it is understaffed .
+     [-0.8611] those hard super chewy tough chicken bits in a bland sweet sauce was an insult ( takeout ) .
+     [-0.8232] Cannot recommend it .
+
+**********
+[0.3046] The restaurant was a great experience.
+Parent: Overall, the reviewers thought that the food was excellent, the atmosphere was clean and friendly, and the restaurant was a great overall experience.
+
+Top 5 (supporting):
+     [0.3046] Great food , and service !
+     [0.2966] Very casual Food was awesome and with large portions great for trying out food with a group .
+     [0.2403] Great place for sit down or take out .
+     [0.2043] The women was very nice and the food was great .
+     [0.2020] Food was pretty good .
+
+Top 5 (weakening):
+     [-0.9626] those hard super chewy tough chicken bits in a bland sweet sauce was an insult ( takeout ) .
+     [-0.9389] Cannot recommend it .
+     [-0.9283] Ordered the szechuan beef and chicken egg roll at lunch and it was bland and they gave me a vegetable egg roll !
+     [-0.9125] I gave it a second chance on Saturday but was disappointed again .
+     [-0.8961] There is a reason this place is empty at lunch time - overpriced , long wait for my dish , and below average bland food !

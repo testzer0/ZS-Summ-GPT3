@@ -1,0 +1,237 @@
+Summary:
+
+Overall, reviewers thought the food was good, especially the fried chicken. Some found the portions or prices to be a bit small or high, respectively, but most thought the food was a good value. The cocktails were also praised. Reviewers enjoyed the atmosphere and found the staff to be friendly and accommodating. A few reviewers found some of the food to be overcooked or otherwise not to their liking, but most thought the food was tasty and enjoyable.
+
+**********
+[0.9506] The food was good.
+Parent: Overall, reviewers thought the food was good, especially the fried chicken.
+
+Top 5 (supporting):
+     [0.9506] The food was great and so was the atmosphere .
+     [0.9428] Food was tasty .
+     [0.9331] Food was decent , and drinks were okay , but the service was great .
+     [0.8987] The food tastes really really good .
+     [0.8823] Been here twice , service is always great and the food tastes great .
+
+Top 5 (weakening):
+     [-0.9399] Food is meh .
+     [-0.8828] The mashed potatoes were just okay .
+     [-0.8505] The fried wings were pretty average .
+     [-0.8230] My most expected Kentucky slush and cocktails were disappointing.
+     [-0.7181] The drinks were great .
+
+**********
+[0.7783] The fried chicken was especially good.
+Parent: Overall, reviewers thought the food was good, especially the fried chicken.
+
+Top 5 (supporting):
+     [0.7783] Best fried chicken I have ever had .
+     [0.7289] truthfully best God Damn fried chicken Period !
+     [0.6418] The fried chicken here is out of this world !
+     [0.5011] Best fried chicken in town and their late night food is the perfect midnight snack , always .
+     [0.2793] Although it is definitely as close to the highest price you can charge for fried chicken , it is very good and rivals any restaurant in downtown .
+
+Top 5 (weakening):
+     [-0.9671] Horrible service .
+     [-0.9617] Just awful .
+     [-0.9607] The peach iced tea is amazing .
+     [-0.9497] My most expected Kentucky slush and cocktails were disappointing.
+     [-0.9428] Lol but their fried chicken came out black .
+
+**********
+[0.7066] The portions were a bit small.
+Parent: Some found the portions or prices to be a bit small or high, respectively, but most thought the food was a good value.
+
+Top 5 (supporting):
+     [0.7066] Smaller portions and price and shorter hours keep me from 5th star .
+     [0.0999] The first time we visited , they were out of two things we wanted to order which was super disappointing .
+     [0.0554] The gravy fries starter was also really fantastic.Now for the bad : each biscuit is approximately the size of a thimble and it costs $ 3.50 for two of them .
+     [0.0188] The fried wings were pretty average .
+     [0.0126] Food is meh .
+
+Top 5 (weakening):
+     [-0.9657] Both were well complemented with sides and extremely filling
+     [-0.8092] Very extensive bar .
+     [-0.5929] Nice portion size .
+     [-0.4936] For $ 3.50 I should get thimble-sized biscuits for life .
+     [-0.2116] Chicken is off the hook !
+
+**********
+[0.8990] The prices were a bit high.
+Parent: Some found the portions or prices to be a bit small or high, respectively, but most thought the food was a good value.
+
+Top 5 (supporting):
+     [0.8990] and the fried chicken was flavorless and waaaay overpriced for the quality of food that you get .
+     [0.8451] And it 's totally overpriced .
+     [0.7048] Although it is definitely as close to the highest price you can charge for fried chicken , it is very good and rivals any restaurant in downtown .
+     [0.2553] Kitchen better get it together for the prices .
+     [0.0901] The gravy fries starter was also really fantastic.Now for the bad : each biscuit is approximately the size of a thimble and it costs $ 3.50 for two of them .
+
+Top 5 (weakening):
+     [-0.8636] Good value .
+     [-0.4903] This place has quality food and drinks at the right price !
+     [-0.2936] Smaller portions and price and shorter hours keep me from 5th star .
+     [-0.2142] The fried wings were pretty average .
+     [-0.2060] Loved that chicken was free range from an Amish farm nearby .
+
+**********
+[0.7832] The food was a good value.
+Parent: Some found the portions or prices to be a bit small or high, respectively, but most thought the food was a good value.
+
+Top 5 (supporting):
+     [0.7832] This place has quality food and drinks at the right price !
+     [0.5877] Food was decent , and drinks were okay , but the service was great .
+     [0.5546] Although it is definitely as close to the highest price you can charge for fried chicken , it is very good and rivals any restaurant in downtown .
+     [0.4851] Very great meal .
+     [0.4671] The food was great and so was the atmosphere .
+
+Top 5 (weakening):
+     [-0.9267] My most expected Kentucky slush and cocktails were disappointing.
+     [-0.8250] The fried wings were pretty average .
+     [-0.6131] Food is meh .
+     [-0.6077] Avoid at all costs .
+     [-0.5921] Just awful .
+
+**********
+[0.8423] The cocktails were good.
+Parent: The cocktails were also praised.
+
+Top 5 (supporting):
+     [0.8423] Their cocktails are amazing ( Watson 's Wabbit & the frozen Moscow Mule are a must to try ) .
+     [0.7423] Great attention by the staff and well mixed cocktails !
+     [0.7414] The drinks were great .
+     [0.7087] The drinks are also top notch .
+     [0.4922] Watson 's Wabbit craft cocktail was unusual ( featuring carrot juice ) and delicious !
+
+Top 5 (weakening):
+     [-0.9458] My most expected Kentucky slush and cocktails were disappointing.
+     [-0.8941] Drinks are meh .
+     [-0.8739] Anyway , I personally don 't like those cocktails
+     [-0.8357] The chicken sandwich and bloody Mary 's are amazing !
+     [-0.8011] I crave this chicken .
+
+**********
+[0.9468] The atmosphere was enjoyed.
+Parent: Reviewers enjoyed the atmosphere and found the staff to be friendly and accommodating.
+
+Top 5 (supporting):
+     [0.9468] Love the environment here , the food , staff and the boozy slushees are top of the line .
+     [0.9013] The food was great and so was the atmosphere .
+     [0.8368] Amazing atmosphere and live music .
+     [0.7885] Great food , service and atmosphere .
+     [0.3277] Cool atmosphere & good service .
+
+Top 5 (weakening):
+     [-0.9376] Just awful .
+     [-0.8177] Avoid at all costs .
+     [-0.7999] Horrible service .
+     [-0.5118] I don 't get the hype .
+     [-0.5027] Anyway , I personally don 't like those cocktails
+
+**********
+[0.4319] The staff was friendly.
+Parent: Reviewers enjoyed the atmosphere and found the staff to be friendly and accommodating.
+
+Top 5 (supporting):
+     [0.4319] Great attention by the staff and well mixed cocktails !
+     [0.4244] Bar service is speedy and friendly .
+     [0.3933] Friendly service .
+     [0.3283] Really cute interiors & staff was very nice .
+     [0.2008] Food was decent , and drinks were okay , but the service was great .
+
+Top 5 (weakening):
+     [-0.9161] Horrible service .
+     [-0.6660] Those Chicharrones ! !
+     [-0.6210] Just awful .
+     [-0.4565] Avoid at all costs .
+     [-0.2475] My mind is blown !
+
+**********
+[0.8958] The staff was accommodating.
+Parent: Reviewers enjoyed the atmosphere and found the staff to be friendly and accommodating.
+
+Top 5 (supporting):
+     [0.8958] Great attention by the staff and well mixed cocktails !
+     [0.8665] I got the jerk chicken burrito special but since I can 't have wheat they were EXTREMELY accommodating and made me the equivalent as tacos and they were amazing .
+     [0.7831] Food was decent , and drinks were okay , but the service was great .
+     [0.7157] The service was good and the food was fresh .
+     [0.7128] Been here twice , service is always great and the food tastes great .
+
+Top 5 (weakening):
+     [-0.9568] Horrible service .
+     [-0.8314] Avoid at all costs .
+     [-0.6190] Just awful .
+     [-0.4783] Service is meh .
+     [-0.3259] Probably won 't be back .
+
+**********
+[0.3748] Some of the food was overcooked.
+Parent: A few reviewers found some of the food to be overcooked or otherwise not to their liking, but most thought the food was tasty and enjoyable.
+
+Top 5 (supporting):
+     [0.3748] I love the fried chicken here but mine is kinda burnt .
+     [0.1962] Lol but their fried chicken came out black .
+     [0.1698] Then the salad had shredded chicken which was fatty & wired .
+     [0.0905] The fried chicken here is out of this world !
+     [0.0870] This place served me BURNT crab hush puppies ( change the grease ! )
+
+Top 5 (weakening):
+     [-0.1542] The service was good and the food was fresh .
+     [-0.1170] every cocktail had too much alcohol .
+     [-0.0977] The waffle was cold where the butter did not melt and slightly burnt They offered to replace the waffle , but it would have required additional wait time .
+     [-0.0912] Can we talk about the drinks here ? !
+     [-0.0694] Excellent new place in downtown champaign , the chicken is super solid , fresh and very tasty .
+
+**********
+[0.8733] Some reviewers did not like some of the food.
+Parent: A few reviewers found some of the food to be overcooked or otherwise not to their liking, but most thought the food was tasty and enjoyable.
+
+Top 5 (supporting):
+     [0.8733] My most expected Kentucky slush and cocktails were disappointing.
+     [0.8604] I 'll probably be back to try the mac and cheese , but was disappointed in the lack of other " soul food " type options , especially considering this place claims to have soul food .
+     [0.6615] The first time we visited , they were out of two things we wanted to order which was super disappointing .
+     [0.6279] The waffle was cold where the butter did not melt and slightly burnt They offered to replace the waffle , but it would have required additional wait time .
+     [0.5729] I love the fried chicken here but mine is kinda burnt .
+
+Top 5 (weakening):
+     [-0.0554] Been here twice , service is always great and the food tastes great .
+     [-0.0501] The tofu po ' boy is awesome , as well as the chicken & waffle , and the pie !
+     [-0.0481] I also got to try someone twice fried potato wedges and wow those were good .
+     [-0.0415] The hot honey sauce I picked was a great delicious choice .
+     [-0.0400] I got the jerk chicken burrito special but since I can 't have wheat they were EXTREMELY accommodating and made me the equivalent as tacos and they were amazing .
+
+**********
+[0.9460] The food was tasty.
+Parent: A few reviewers found some of the food to be overcooked or otherwise not to their liking, but most thought the food was tasty and enjoyable.
+
+Top 5 (supporting):
+     [0.9460] Food was tasty .
+     [0.9072] The food tastes really really good .
+     [0.8929] Been here twice , service is always great and the food tastes great .
+     [0.7539] Excellent new place in downtown champaign , the chicken is super solid , fresh and very tasty .
+     [0.5864] The food was great and so was the atmosphere .
+
+Top 5 (weakening):
+     [-0.9144] and the fried chicken was flavorless and waaaay overpriced for the quality of food that you get .
+     [-0.8934] My most expected Kentucky slush and cocktails were disappointing.
+     [-0.8328] The mashed potatoes were just okay .
+     [-0.8249] Lol but their fried chicken came out black .
+     [-0.7952] Avoid at all costs .
+
+**********
+[0.8317] The food was enjoyable.
+Parent: A few reviewers found some of the food to be overcooked or otherwise not to their liking, but most thought the food was tasty and enjoyable.
+
+Top 5 (supporting):
+     [0.8317] The food was great and so was the atmosphere .
+     [0.8311] Been here twice , service is always great and the food tastes great .
+     [0.8073] Food was tasty .
+     [0.7163] Great service and amazing food .
+     [0.6999] Food was decent , and drinks were okay , but the service was great .
+
+Top 5 (weakening):
+     [-0.8829] My most expected Kentucky slush and cocktails were disappointing.
+     [-0.7158] Food is meh .
+     [-0.6927] The fried wings were pretty average .
+     [-0.5321] I will never eat here again ! !
+     [-0.4895] The drinks were great .

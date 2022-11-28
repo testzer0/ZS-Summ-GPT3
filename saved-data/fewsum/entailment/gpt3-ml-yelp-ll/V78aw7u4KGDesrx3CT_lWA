@@ -1,0 +1,111 @@
+Summary:
+
+Overall, the reviews of the product were mixed. Some people loved it, while others found it to be just average. There were also some complaints about the service and the prices. However, the food was good.
+
+**********
+[0.2512] The reviews of the product were mixed.
+Parent: Overall, the reviews of the product were mixed.
+
+Top 5 (supporting):
+     [0.2512] the food is ok , the chicken is a bit more harder if that make any scence , the shrimp sause is thick and is not so good , they dont offer as much as other hibachi places and they cost the same .
+     [0.0112] Was like rubber .
+     [0.0000] !
+     [0.0000] WRONG .
+     [-0.0039] Will try other options next time .
+
+Top 5 (weakening):
+     [-0.9866] Great new chef the hibachi was amazing !
+     [-0.9788] I love this sushi bar , absolutely would recommend any sushi lover to try them out !
+     [-0.9734] The sushi is amazing and half off on Wednesdays and Sundays , so it 's a great deal !
+     [-0.9694] They are fresh , delicious , and service is fantastic .
+     [-0.9568] Food was really good .
+
+**********
+[0.6375] It was loved.
+Parent: Some people loved it, while others found it to be just average.
+
+Top 5 (supporting):
+     [0.6375] I love this sushi bar , absolutely would recommend any sushi lover to try them out !
+     [0.3050] Takara 's cruchy roll is to doe for ... so much so for about a month I went every few days to get one ~ and then two.Excellent staff knew what I wanted when I walked through the door.Tocaras has become a favorite place where friends and I love to meet and catch up from our busy lives ~
+     [0.2519] Great new chef the hibachi was amazing !
+     [0.1997] Food was really good .
+     [0.1840] Definitely give it a try , you won 't be disappointed !
+
+Top 5 (weakening):
+     [-0.9838] Ridiculously bad service .
+     [-0.9819] Not worth the money !
+     [-0.9710] Not worth the money .
+     [-0.9680] Therefore , I cannot recommend this restaurant unless you don 't feel like driving far from your hotel .
+     [-0.9341] We paid 50 $ for two people and the rolls were to tiny : / bit disappointing a regular rainbow roll at .
+
+**********
+[0.0000] It was just average.
+Parent: Some people loved it, while others found it to be just average.
+
+Top 5 (supporting):
+     [0.0000] !
+     [0.0000] WRONG .
+     [-0.0370] Not going back ever .
+     [-0.0409] I had Sushi and sak ad fir lunch .
+     [-0.0695] Made a reservation at 7 : 00 , barely got sat by 8 : 00 .... on a Wednesday .
+
+Top 5 (weakening):
+     [-0.9984] Some great sushi to be had here , and the specials they have going on are amazing !
+     [-0.9983] Great new chef the hibachi was amazing !
+     [-0.9978] They are fresh , delicious , and service is fantastic .
+     [-0.9977] The sushi is amazing and half off on Wednesdays and Sundays , so it 's a great deal !
+     [-0.9976] Highly recommend !
+
+**********
+[0.9698] The service was not good.
+Parent: There were also some complaints about the service and the prices.
+
+Top 5 (supporting):
+     [0.9698] Ridiculously bad service .
+     [0.3004] Our server didn 't even know what " gluten free " meant , so to avoid any consequences I stuck with an overpriced leaf of iceberg lettuce and a few avocado cubes .
+     [0.2608] We paid 50 $ for two people and the rolls were to tiny : / bit disappointing a regular rainbow roll at .
+     [0.1625] Not worth the money .
+     [0.1591] Not worth the money !
+
+Top 5 (weakening):
+     [-0.9946] They are fresh , delicious , and service is fantastic .
+     [-0.9924] Takara 's cruchy roll is to doe for ... so much so for about a month I went every few days to get one ~ and then two.Excellent staff knew what I wanted when I walked through the door.Tocaras has become a favorite place where friends and I love to meet and catch up from our busy lives ~
+     [-0.9886] The staff is awesome too , always so friendly !
+     [-0.9865] The service and food were both good .
+     [-0.9776] Some great sushi to be had here , and the specials they have going on are amazing !
+
+**********
+[0.6666] The prices were too high.
+Parent: There were also some complaints about the service and the prices.
+
+Top 5 (supporting):
+     [0.6666] Our server didn 't even know what " gluten free " meant , so to avoid any consequences I stuck with an overpriced leaf of iceberg lettuce and a few avocado cubes .
+     [0.3316] Felt the price to be high considering you get ALOT of rice with your meal and not enough of anything else .
+     [0.0493] Not worth the money !
+     [0.0410] Not worth the money .
+     [0.0000] !
+
+Top 5 (weakening):
+     [-0.9958] Hibachi lunch is cheap and fun to go to , and we try to come as often as we can .
+     [-0.9486] Take advantage of half priced sushi on Wednesdays and Sundays .
+     [-0.9337] They also have Hibachi which is great for lunch at only 8 bucks .
+     [-0.9154] the food is ok , the chicken is a bit more harder if that make any scence , the shrimp sause is thick and is not so good , they dont offer as much as other hibachi places and they cost the same .
+     [-0.8727] The sushi is amazing and half off on Wednesdays and Sundays , so it 's a great deal !
+
+**********
+[0.9723] The food was good.
+Parent: However, the food was good.
+
+Top 5 (supporting):
+     [0.9723] Food was really good .
+     [0.9418] The service and food were both good .
+     [0.7948] Hibachi - Chef was a rock star - food was good but way to salty to me .
+     [0.6100] Great new chef the hibachi was amazing !
+     [0.5653] Well prepared food cooked in front of you .
+
+Top 5 (weakening):
+     [-0.3608] Therefore , I cannot recommend this restaurant unless you don 't feel like driving far from your hotel .
+     [-0.2637] Wife 's steak was underdone .
+     [-0.2483] We paid 50 $ for two people and the rolls were to tiny : / bit disappointing a regular rainbow roll at .
+     [-0.2253] Was like rubber .
+     [-0.1624] Ridiculously bad service .

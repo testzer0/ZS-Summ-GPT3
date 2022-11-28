@@ -1,0 +1,93 @@
+Summary:
+
+Overall, reviewers thought that the food at this restaurant was good, but that the prices were high and the service was poor. There were also complaints about the quality of the food and the rudeness of the cashiers.
+
+**********
+[0.9399] The food at this restaurant was good.
+Parent: Overall, reviewers thought that the food at this restaurant was good, but that the prices were high and the service was poor.
+
+Top 5 (supporting):
+     [0.9399] The steak quesadillas was delicious , Im not a big fan of Mexican food but this place was good .
+     [0.9182] Whenever I eat from here I take it home because I don 't like the inside but the food is great .
+     [0.9153] This place is run down , their cashiers are VERY rude , and their food is starting to get a little pricy BUT it 's soooo good !
+     [0.8356] The food , the friendly bilingual staff and the speedy service make it a great place to eat .
+     [0.7836] I mean for the price and the quality of food I think this is really place , down and dirty and delicious and does not cost much at all .
+
+Top 5 (weakening):
+     [-0.9861] The attitude from the Spanish lady in front of the cashier the chubby one or the fat one was really rude and the tacos I believe that is the worse or maybe the worst I ever had on this establishmentI will maybe come back or maybe not The tacos was super burned The meet very hard !
+     [-0.9799] The fries were soft , their salsa was flavorless , the restaurant was kind of dirty , it was just an overall a disappointing experience and I will not be going back .
+     [-0.9520] I don 't even know why they can serve this crap
+     [-0.9414] Soooo disappointed this time around.Paid $ 5.25 for guacamole and chips ... thinking an authentic Mexican restaurant can succeed in this ... nope ...
+     [-0.9282] Food is just sub par .
+
+**********
+[0.8439] The prices at this restaurant were high.
+Parent: Overall, reviewers thought that the food at this restaurant was good, but that the prices were high and the service was poor.
+
+Top 5 (supporting):
+     [0.8439] The food is very expensive considering the way we were treated .
+     [0.8350] The rice was bland , but the beans were very good.The food is a better than average , but their pricing is higher and portions smaller than the competition .
+     [0.7037] Never been to a over priced Mexican food restaurant where the customer isn 't allow to change order .
+     [0.6389] This place is run down , their cashiers are VERY rude , and their food is starting to get a little pricy BUT it 's soooo good !
+     [0.5616] Prices are higher , burrito is smaller .
+
+Top 5 (weakening):
+     [-0.9940] Cheap and delicious !
+     [-0.9840] I mean for the price and the quality of food I think this is really place , down and dirty and delicious and does not cost much at all .
+     [-0.9634] And dirt cheap .
+     [-0.8822] Love the no-frills feel of this place .
+     [-0.8407] Good food , good prices .
+
+**********
+[0.7700] The service at this restaurant was poor.
+Parent: Overall, reviewers thought that the food at this restaurant was good, but that the prices were high and the service was poor.
+
+Top 5 (supporting):
+     [0.7700] This place is run down , their cashiers are VERY rude , and their food is starting to get a little pricy BUT it 's soooo good !
+     [0.7634] The attitude from the Spanish lady in front of the cashier the chubby one or the fat one was really rude and the tacos I believe that is the worse or maybe the worst I ever had on this establishmentI will maybe come back or maybe not The tacos was super burned The meet very hard !
+     [0.5846] A little lacking in personal service and that staff is a bit ... blah but I love their horchata .
+     [0.5236] Great Food Worse service ever !
+     [0.4817] Customer service was horrible 2 Servers stood there talking on the phone laughing and speaking in Spanish the whole time why they were helping us .
+
+Top 5 (weakening):
+     [-0.9979] The food , the friendly bilingual staff and the speedy service make it a great place to eat .
+     [-0.9970] Customer service by Claudia is always the best.Asada fries were delicious .
+     [-0.9965] Open 24 hours , great food and friendly staff .
+     [-0.9962] Order late night though , they have the best customer service and food .
+     [-0.9945] Restaurant was clean and the staff was nice .
+
+**********
+[0.8655] The food was poor quality.
+Parent: There were also complaints about the quality of the food and the rudeness of the cashiers.
+
+Top 5 (supporting):
+     [0.8655] Food is just sub par .
+     [0.7927] The fries were soft , their salsa was flavorless , the restaurant was kind of dirty , it was just an overall a disappointing experience and I will not be going back .
+     [0.6014] To start the guacamole was watered down slush.As I continued to eat it I found something in my guacamole and a burnt French fry in my chips ... eww .
+     [0.5926] The attitude from the Spanish lady in front of the cashier the chubby one or the fat one was really rude and the tacos I believe that is the worse or maybe the worst I ever had on this establishmentI will maybe come back or maybe not The tacos was super burned The meet very hard !
+     [0.5225] Cabeza was decent but the tacos al pastor and carnitas were garbage .
+
+Top 5 (weakening):
+     [-0.9960] This food is so perfect !
+     [-0.9950] Chile rellenos are amazing !
+     [-0.9950] Amazing cabeza tacos !
+     [-0.9950] Burritos are excellent !
+     [-0.9949] Very good food .
+
+**********
+[0.9852] The cashiers were rude.
+Parent: There were also complaints about the quality of the food and the rudeness of the cashiers.
+
+Top 5 (supporting):
+     [0.9852] This place is run down , their cashiers are VERY rude , and their food is starting to get a little pricy BUT it 's soooo good !
+     [0.8537] The attitude from the Spanish lady in front of the cashier the chubby one or the fat one was really rude and the tacos I believe that is the worse or maybe the worst I ever had on this establishmentI will maybe come back or maybe not The tacos was super burned The meet very hard !
+     [0.1026] Customer service was horrible 2 Servers stood there talking on the phone laughing and speaking in Spanish the whole time why they were helping us .
+     [0.0350] Great food but the cashier accidentally took my order wrong and even after I corrected her she still charge me wrong .
+     [0.0165] A little lacking in personal service and that staff is a bit ... blah but I love their horchata .
+
+Top 5 (weakening):
+     [-0.9970] The cashier very nice and kind ! !
+     [-0.9931] The food , the friendly bilingual staff and the speedy service make it a great place to eat .
+     [-0.9891] Open 24 hours , great food and friendly staff .
+     [-0.9888] Restaurant was clean and the staff was nice .
+     [-0.9866] Friendly staff !

@@ -1,0 +1,75 @@
+Summary:
+
+The product was given mixed reviews. Some people said it was great and others said it was not so great.
+
+**********
+[0.6160] The product was good.
+Parent: The product was given mixed reviews.
+
+Top 5 (supporting):
+     [0.6160] Seriously so freaking good , can 't wait to have it again !
+     [0.5103] Best damn Popeyes I 've had in awhile !
+     [0.2338] 南 部 的 なフライドチキンが 楽 しめる 全 国 チェーン 。 チキンのからあげ 等 が 大 好 きな 日 本 人 にとって 、 思 う 存 分 に 楽 しめる 。 年 齢 のせいもあるが 、 コロモに 油 が 比 較 的 多 く 含 まれているので 、 ランチコンボを 二 人 で 分 ける 位 が 丁 度 良 さそう 。 従 業 員 の 方 も 親 切 の 対 応 してくれる 。
+     [0.2178] It used to suck but lately the service is good and the food is delicious .
+     [0.1906] The chicken was fresh and moist .
+
+Top 5 (weakening):
+     [-0.5819] Never again
+     [-0.3752] Shorted my chicken order , chicken was old and seemed to have been sitting around .
+     [-0.3613] It really is un- called for .
+     [-0.3407] Do not go to this Popeyes .
+     [-0.1630] No chicken because it wasn 't defrosted the night before ?
+
+**********
+[0.2657] The product was not good.
+Parent: The product was given mixed reviews.
+
+Top 5 (supporting):
+     [0.2657] Shorted my chicken order , chicken was old and seemed to have been sitting around .
+     [0.2457] First time trying Popeyes ... in a hurry and decided to take the lazy way out of dinner.Good thing I was headed home anyway ... no utensils ... no dipping sauce ... Cole slaw swimming in sauce ... more like cold cabbage soup.Chicken was moist ... would try again ... but not this location .
+     [0.1877] Never again
+     [0.1300] It really is un- called for .
+     [0.1182] If I could give it a zero I would .
+
+Top 5 (weakening):
+     [-0.9907] I totally recommend it .
+     [-0.9906] Seriously so freaking good , can 't wait to have it again !
+     [-0.9813] Best damn Popeyes I 've had in awhile !
+     [-0.9253] The chicken was fresh and moist .
+     [-0.9195] This place has really improved .
+
+**********
+[0.7934] It was great.
+Parent: Some people said it was great and others said it was not so great.
+
+Top 5 (supporting):
+     [0.7934] Seriously so freaking good , can 't wait to have it again !
+     [0.4065] Best damn Popeyes I 've had in awhile !
+     [0.2107] I totally recommend it .
+     [0.1184] 南 部 的 なフライドチキンが 楽 しめる 全 国 チェーン 。 チキンのからあげ 等 が 大 好 きな 日 本 人 にとって 、 思 う 存 分 に 楽 しめる 。 年 齢 のせいもあるが 、 コロモに 油 が 比 較 的 多 く 含 まれているので 、 ランチコンボを 二 人 で 分 ける 位 が 丁 度 良 さそう 。 従 業 員 の 方 も 親 切 の 対 応 してくれる 。
+     [0.0295] This place has really improved .
+
+Top 5 (weakening):
+     [-0.9947] It really is un- called for .
+     [-0.9934] Never again
+     [-0.9927] First time trying Popeyes ... in a hurry and decided to take the lazy way out of dinner.Good thing I was headed home anyway ... no utensils ... no dipping sauce ... Cole slaw swimming in sauce ... more like cold cabbage soup.Chicken was moist ... would try again ... but not this location .
+     [-0.9906] Do not go to this Popeyes .
+     [-0.9771] If I could give it a zero I would .
+
+**********
+[0.7224] It was not so great.
+Parent: Some people said it was great and others said it was not so great.
+
+Top 5 (supporting):
+     [0.7224] It really is un- called for .
+     [0.6949] Never again
+     [0.5916] First time trying Popeyes ... in a hurry and decided to take the lazy way out of dinner.Good thing I was headed home anyway ... no utensils ... no dipping sauce ... Cole slaw swimming in sauce ... more like cold cabbage soup.Chicken was moist ... would try again ... but not this location .
+     [0.4934] If I could give it a zero I would .
+     [0.3079] It used to suck but lately the service is good and the food is delicious .
+
+Top 5 (weakening):
+     [-0.9928] Seriously so freaking good , can 't wait to have it again !
+     [-0.9913] I totally recommend it .
+     [-0.9834] Best damn Popeyes I 've had in awhile !
+     [-0.9608] This place has really improved .
+     [-0.8201] The chicken was fresh and moist .

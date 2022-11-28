@@ -1,0 +1,111 @@
+Summary:
+
+The product was reviewed positively overall. The reviewers found the greens to be in good condition, the course to be fun, and the price to be affordable. However, there was one reviewer who had a negative experience with a staff member, and another who encountered a "toolbag" on the course.
+
+**********
+[0.7016] The product was good.
+Parent: The product was reviewed positively overall.
+
+Top 5 (supporting):
+     [0.7016] Greens were good .
+     [0.5069] The attendant in the pro shop was a dick , but the course is good .
+     [0.4154] The 9 hole was a good great for me since I 'm a beginner .
+     [0.3587] I liked this course .
+     [0.1987] The course is in great shape especially for a municipal course .
+
+Top 5 (weakening):
+     [-0.8773] Overall good experience but the toolbag was downer
+     [-0.3394] Average course .
+     [-0.1715] Don 't go to Burger King afterwards .
+     [-0.1164] We tried talking to him but i think he must be really dumb and kept harassing us .
+     [-0.0375] The service was horrible , restaurant was not open till 7.00 am , they lost our tee time and had us play stating on the back nine .
+
+**********
+[0.8631] The greens were in good condition.
+Parent: The reviewers found the greens to be in good condition, the course to be fun, and the price to be affordable.
+
+Top 5 (supporting):
+     [0.8631] Greens were nice smooth and fast , there were areas where there was no grass , course was in good shape .
+     [0.6617] Greens were good .
+     [0.1274] The course is in great shape especially for a municipal course .
+     [0.0548] Some serious props go to the greens keeper and the grounds crew staff .
+     [0.0352] Always in great condition , and is usually super affordable compared to other options in Phoenix .
+
+Top 5 (weakening):
+     [-0.4919] Overall good experience but the toolbag was downer
+     [-0.2537] Course overall in good shape with bunkers loaded with fresh new sand , but it looks like greens are being worked on so should be getting shaped up for summer play !
+     [-0.2181] We tried talking to him but i think he must be really dumb and kept harassing us .
+     [-0.2138] Average course .
+     [-0.1668] The service was horrible , restaurant was not open till 7.00 am , they lost our tee time and had us play stating on the back nine .
+
+**********
+[0.8901] The course was fun.
+Parent: The reviewers found the greens to be in good condition, the course to be fun, and the price to be affordable.
+
+Top 5 (supporting):
+     [0.8901] Really fun course design too .
+     [0.2292] The attendant in the pro shop was a dick , but the course is good .
+     [0.1040] The Par 3 course is a great way to spend an hour and a half .
+     [0.0761] We had a great round until we came across this goofy foreign guy with a terrible goatee .
+     [0.0732] I liked this course .
+
+Top 5 (weakening):
+     [-0.9311] Average course .
+     [-0.7145] Overall good experience but the toolbag was downer
+     [-0.1803] A fifteen minute drive from downtown Phoenix .
+     [-0.1674] Always in great condition , and is usually super affordable compared to other options in Phoenix .
+     [-0.1536] Great idea getting food trucks out on weekends since restaurant still isn 't open .
+
+**********
+[0.0151] The reviewers found the price affordable.
+Parent: The reviewers found the greens to be in good condition, the course to be fun, and the price to be affordable.
+
+Top 5 (supporting):
+     [0.0151] Always in great condition , and is usually super affordable compared to other options in Phoenix .
+     [-0.0001] If I lived closer , I would play here more often .
+     [-0.0007] Grab a fresh burger off the club grill from Sally !
+     [-0.0008] Paid $ 11.35 for 9 holes and that included the club cart .
+     [-0.0008] Great idea getting food trucks out on weekends since restaurant still isn 't open .
+
+Top 5 (weakening):
+     [-0.6009] Don 't go to Burger King afterwards .
+     [-0.5826] We tried talking to him but i think he must be really dumb and kept harassing us .
+     [-0.2775] Overall good experience but the toolbag was downer
+     [-0.2102] We had a great round until we came across this goofy foreign guy with a terrible goatee .
+     [-0.1270] The service was horrible , restaurant was not open till 7.00 am , they lost our tee time and had us play stating on the back nine .
+
+**********
+[0.8948] The reviewer had a negative experience with a staff member.
+Parent: However, there was one reviewer who had a negative experience with a staff member, and another who encountered a "toolbag" on the course.
+
+Top 5 (supporting):
+     [0.8948] The attendant in the pro shop was a dick , but the course is good .
+     [0.6224] The service was horrible , restaurant was not open till 7.00 am , they lost our tee time and had us play stating on the back nine .
+     [0.3636] We tried talking to him but i think he must be really dumb and kept harassing us .
+     [0.3325] We had a great round until we came across this goofy foreign guy with a terrible goatee .
+     [-0.0006] Don 't go to Burger King afterwards .
+
+Top 5 (weakening):
+     [-0.9674] The person at the counter said you can go through the course as many times as you want too which was cool .
+     [-0.9470] Guys and gals in and out to the pro shop were super .
+     [-0.8843] Some serious props go to the greens keeper and the grounds crew staff .
+     [-0.8101] I liked this course .
+     [-0.7822] Grab a fresh burger off the club grill from Sally !
+
+**********
+[0.5608] The reviewer encountered a "toolbag" on the course.
+Parent: However, there was one reviewer who had a negative experience with a staff member, and another who encountered a "toolbag" on the course.
+
+Top 5 (supporting):
+     [0.5608] Overall good experience but the toolbag was downer
+     [-0.0246] If he comes up to you just tell him to get lost .
+     [-0.0471] We tried talking to him but i think he must be really dumb and kept harassing us .
+     [-0.0536] The Par 3 course is a great way to spend an hour and a half .
+     [-0.0548] Probably the best municipal course Phoenix has .
+
+Top 5 (weakening):
+     [-0.5949] The attendant in the pro shop was a dick , but the course is good .
+     [-0.5798] Some serious props go to the greens keeper and the grounds crew staff .
+     [-0.5703] Grab a fresh burger off the club grill from Sally !
+     [-0.4591] Always in great condition , and is usually super affordable compared to other options in Phoenix .
+     [-0.4494] The person at the counter said you can go through the course as many times as you want too which was cool .

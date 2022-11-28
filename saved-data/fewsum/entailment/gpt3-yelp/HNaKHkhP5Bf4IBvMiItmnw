@@ -1,0 +1,93 @@
+Summary:
+
+Overall, reviewers thought the product was great, with beautiful flowers that lasted a long time. They also thought the staff was friendly and accommodating.
+
+**********
+[0.4234] The product was great.
+Parent: Overall, reviewers thought the product was great, with beautiful flowers that lasted a long time.
+
+Top 5 (supporting):
+     [0.4234] This is a wonderful florist .
+     [0.3934] The flowers were beautiful and still look great a week later !
+     [0.2741] I want to thank you so much for the beautiful arrangement you made for us .... it was actually better than the photo in your book ... the arrangement was full of white orchids and red roses .
+     [0.2408] Every time I have ordered flowers from them , they are simply incredibly gorgeous and always right .
+     [0.2368] My family sent me Birthday flowers I was so pleased the flowers were perfect the house smelled so fragrant for days !
+
+Top 5 (weakening):
+     [-0.0235] The lady who answered was very friendly and extremely accommodating .
+     [0.0000] Julie
+     [0.0038] We live in Sun City Summerlin so it is very convenient .
+     [0.0054] I also had a very friendly experience with the staff .
+     [0.0064] The staff is very friendly and it 's obviously love what they do .
+
+**********
+[0.9501] The flowers were beautiful.
+Parent: Overall, reviewers thought the product was great, with beautiful flowers that lasted a long time.
+
+Top 5 (supporting):
+     [0.9501] The flowers were beautiful and still look great a week later !
+     [0.8007] My family sent me Birthday flowers I was so pleased the flowers were perfect the house smelled so fragrant for days !
+     [0.7510] Every time I have ordered flowers from them , they are simply incredibly gorgeous and always right .
+     [0.5496] My long-distance boyfriend has had flowers sent to me from sun city a few times and every time they are just beautiful ! !
+     [0.5222] I just had to stop by Sun City Summerlin Florist to personally thank them for a flower arrangement I received in the hospital my roses were beautiful and lasted over 2 plus weeks I give them thumbs up .
+
+Top 5 (weakening):
+     [-0.0482] I would highly recommend your sho and staff to my friends .
+     [-0.0389] These ladies game him great service and made super recommendations .
+     [-0.0219] The lady who answered was very friendly and extremely accommodating .
+     [-0.0114] I also had a very friendly experience with the staff .
+     [-0.0060] always super friendly delivery as well !
+
+**********
+[0.6414] The flowers were long-lasting.
+Parent: Overall, reviewers thought the product was great, with beautiful flowers that lasted a long time.
+
+Top 5 (supporting):
+     [0.6414] I just had to stop by Sun City Summerlin Florist to personally thank them for a flower arrangement I received in the hospital my roses were beautiful and lasted over 2 plus weeks I give them thumbs up .
+     [0.3275] The flowers were beautiful and still look great a week later !
+     [0.1915] My family sent me Birthday flowers I was so pleased the flowers were perfect the house smelled so fragrant for days !
+     [0.0170] I am completely satisfied with the way the staff handled my order and will absolutely use Sun City-Summerlin Floweres for all my future floral needs .
+     [0.0147] This is a wonderful florist .
+
+Top 5 (weakening):
+     [-0.6153] I look forward to seeing the new ones when I come in : )
+     [-0.1736] Your prices are very reasonable for the freshness and quality of your work !
+     [-0.0730] These ladies game him great service and made super recommendations .
+     [-0.0528] always super friendly delivery as well !
+     [-0.0472] Give them a try !
+
+**********
+[0.9834] The staff was friendly.
+Parent: They also thought the staff was friendly and accommodating.
+
+Top 5 (supporting):
+     [0.9834] The staff is very friendly and it 's obviously love what they do .
+     [0.9499] I also had a very friendly experience with the staff .
+     [0.6030] You just cannot go wrong with their courteous service and beautiful arrangements .
+     [0.4276] always super friendly delivery as well !
+     [0.1493] The lady who answered was very friendly and extremely accommodating .
+
+Top 5 (weakening):
+     [-0.0137] My family sent me Birthday flowers I was so pleased the flowers were perfect the house smelled so fragrant for days !
+     [-0.0049] I want to thank you so much for the beautiful arrangement you made for us .... it was actually better than the photo in your book ... the arrangement was full of white orchids and red roses .
+     [-0.0031] Our yoga studio also uses them in our front desk arrangements and they are always so different and gorgeous !
+     [-0.0020] My husband selected a gorgous long stem red rose arrangement , for our 30th wedding anniversary , with the help of Hileah and Ellerie .
+     [-0.0005] Your prices are very reasonable for the freshness and quality of your work !
+
+**********
+[0.9450] The staff was accommodating.
+Parent: They also thought the staff was friendly and accommodating.
+
+Top 5 (supporting):
+     [0.9450] The staff is very friendly and it 's obviously love what they do .
+     [0.8225] You just cannot go wrong with their courteous service and beautiful arrangements .
+     [0.7431] I also had a very friendly experience with the staff .
+     [0.7227] I am completely satisfied with the way the staff handled my order and will absolutely use Sun City-Summerlin Floweres for all my future floral needs .
+     [0.5542] These ladies game him great service and made super recommendations .
+
+Top 5 (weakening):
+     [-0.0171] My family sent me Birthday flowers I was so pleased the flowers were perfect the house smelled so fragrant for days !
+     [-0.0129] Your prices are very reasonable for the freshness and quality of your work !
+     [-0.0065] Give them a try !
+     [-0.0032] The flowers were beautiful and still look great a week later !
+     [-0.0028] My husband selected a gorgous long stem red rose arrangement , for our 30th wedding anniversary , with the help of Hileah and Ellerie .

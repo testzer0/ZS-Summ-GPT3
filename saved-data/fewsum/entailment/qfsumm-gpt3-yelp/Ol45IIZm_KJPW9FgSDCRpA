@@ -1,0 +1,147 @@
+Summary:
+
+The food at The Bridge restaurant is good, with a great atmosphere and friendly staff. However, some customers felt that the food was not anything special and that there could be more menu options. There were also complaints about the wait time to be seated. Overall, though, reviewers enjoyed their experience at the restaurant and would recommend it to others.
+
+**********
+[0.2709] The food at The Bridge restaurant is good.
+Parent: The food at The Bridge restaurant is good, with a great atmosphere and friendly staff.
+
+Top 5 (supporting):
+     [0.2709] The food is southern and pretty good , the service is outstanding .
+     [0.1566] Good food , great atmosphere , friendly staff really enjoy the breakfasts .
+     [0.0749] No doubt in my mind they will find the right servers to match the food and the owners passion .
+     [0.0590] Kevin and Julie have done a wonderful job of presenting a first class menu at affordable prices .
+     [0.0526] They have a great selection of food .
+
+Top 5 (weakening):
+     [-0.9447] Quite loud , food mediocre .
+     [-0.4199] Staff was really nice so I feel bad but food needs improvement .
+     [-0.3595] The food wasn 't bad , it was just nothing special .
+     [-0.3111] Disappointing .
+     [-0.1389] Good tasting coffee .
+
+**********
+[0.1280] The atmosphere at The Bridge restaurant is good.
+Parent: The food at The Bridge restaurant is good, with a great atmosphere and friendly staff.
+
+Top 5 (supporting):
+     [0.1280] Good food , great atmosphere , friendly staff really enjoy the breakfasts .
+     [0.0475] Nice local place with southern charm to grab breakfast and lunch .
+     [0.0299] Quaint little nostalgic restaurant .
+     [0.0298] No doubt in my mind they will find the right servers to match the food and the owners passion .
+     [0.0219] The food is southern and pretty good , the service is outstanding .
+
+Top 5 (weakening):
+     [-0.5909] Disappointing .
+     [-0.4107] I live nearby and really wanted to support local but place wasn 't great .
+     [-0.3520] Bad customer service .
+     [-0.2059] Staff was really nice so I feel bad but food needs improvement .
+     [-0.2046] Quite loud , food mediocre .
+
+**********
+[0.2499] The staff at The Bridge restaurant is friendly.
+Parent: The food at The Bridge restaurant is good, with a great atmosphere and friendly staff.
+
+Top 5 (supporting):
+     [0.2499] Good food , great atmosphere , friendly staff really enjoy the breakfasts .
+     [0.0582] Fantastic daily specials , friendly staff and quick service .
+     [0.0457] Friendly staff .
+     [0.0437] The food is southern and pretty good , the service is outstanding .
+     [0.0208] Great service .
+
+Top 5 (weakening):
+     [-0.8355] Bad customer service .
+     [-0.3410] Disappointing .
+     [-0.1265] Don 't think I 'll be back .
+     [-0.1021] I live nearby and really wanted to support local but place wasn 't great .
+     [-0.0884] 40 minutes later still not seated and to find out they just skipped over our name .
+
+**********
+[0.9889] The food was not special.
+Parent: However, some customers felt that the food was not anything special and that there could be more menu options.
+
+Top 5 (supporting):
+     [0.9889] The food wasn 't bad , it was just nothing special .
+     [0.9333] Quite loud , food mediocre .
+     [0.5749] Staff was really nice so I feel bad but food needs improvement .
+     [0.0214] Disappointing .
+     [0.0119] I live nearby and really wanted to support local but place wasn 't great .
+
+Top 5 (weakening):
+     [-0.9887] The steak sandwich was outstanding .
+     [-0.9879] Squash casserole is to die for !
+     [-0.9822] Great food .
+     [-0.9792] Kevin and Julie have done a wonderful job of presenting a first class menu at affordable prices .
+     [-0.9762] The omlettes were awesome .
+
+**********
+[0.8106] There could be more menu options.
+Parent: However, some customers felt that the food was not anything special and that there could be more menu options.
+
+Top 5 (supporting):
+     [0.8106] The only thing I would say is wish there were more menu options .
+     [0.0342] Staff was really nice so I feel bad but food needs improvement .
+     [0.0239] No doubt in my mind they will find the right servers to match the food and the owners passion .
+     [0.0222] We visited for lunch , they were packed !
+     [0.0189] Nice local place with southern charm to grab breakfast and lunch .
+
+Top 5 (weakening):
+     [-0.2430] You know it 's good when the parking lot stays full .
+     [-0.1234] You are treated like family .
+     [-0.0905] Don 't think I 'll be back .
+     [-0.0889] Bad customer service .
+     [-0.0714] 40 minutes later still not seated and to find out they just skipped over our name .
+
+**********
+[0.0034] The wait time to be seated was too long.
+Parent: There were also complaints about the wait time to be seated.
+
+Top 5 (supporting):
+     [0.0034] 40 minutes later still not seated and to find out they just skipped over our name .
+     [0.0000] !
+     [0.0000] ! !
+     [-0.0018] I live nearby and really wanted to support local but place wasn 't great .
+     [-0.0025] Bad customer service .
+
+Top 5 (weakening):
+     [-0.9742] Fantastic daily specials , friendly staff and quick service .
+     [-0.8972] We had the opportunity of being one of the first customers at The Bridge restaurant while enjoying the Hemby Bridge Christmas Parade .
+     [-0.7972] Very friendly staff with plenty of parking in the back .
+     [-0.7329] You know it 's good when the parking lot stays full .
+     [-0.4967] Great service .
+
+**********
+[0.5378] The reviewers enjoyed their experience at the restaurant.
+Parent: Overall, though, reviewers enjoyed their experience at the restaurant and would recommend it to others.
+
+Top 5 (supporting):
+     [0.5378] We had breakfast here and the food was spot on .
+     [0.5182] We went back for lunch a few weeks ago and even though they were out of meatloaf I really enjoyed my Club sandwich and fried Squash !
+     [0.4443] Good food , great atmosphere , friendly staff really enjoy the breakfasts .
+     [0.2125] Great food .
+     [0.1772] Great service and food quality .
+
+Top 5 (weakening):
+     [-0.8926] Disappointing .
+     [-0.8626] Staff was really nice so I feel bad but food needs improvement .
+     [-0.8453] I live nearby and really wanted to support local but place wasn 't great .
+     [-0.7710] Bad customer service .
+     [-0.5305] Quite loud , food mediocre .
+
+**********
+[0.4583] Reviewers recommended it to others.
+Parent: Overall, though, reviewers enjoyed their experience at the restaurant and would recommend it to others.
+
+Top 5 (supporting):
+     [0.4583] I highly recommend this place .
+     [0.1889] I would recommend !
+     [0.1758] We will be back once you get your dining room open .
+     [0.1096] My husband lived the grits and Im soooo glad they have rye toast : ) I think they will be a 5 star once they get some time under their belt .
+     [0.0330] Make sure you get there early because that line gets long later in the morning .
+
+Top 5 (weakening):
+     [-0.1382] Don 't think I 'll be back .
+     [-0.0916] Disappointing .
+     [-0.0542] I live nearby and really wanted to support local but place wasn 't great .
+     [-0.0371] Bad customer service .
+     [-0.0198] Have no idea how there food is .

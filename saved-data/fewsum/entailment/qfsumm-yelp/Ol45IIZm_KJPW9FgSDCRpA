@@ -1,0 +1,169 @@
+Summary:
+
+Good food , great atmosphere , friendly staff really enjoy the breakfasts .
+Great atmosphere .
+Great service .
+Staff was really nice so I feel bad but food needs improvement .
+Friendly staff .
+
+**********
+[0.8248] The food is great.
+Parent: Good food , great atmosphere , friendly staff really enjoy the breakfasts .
+
+Top 5 (supporting):
+     [0.8248] We had breakfast here and the food was spot on .
+     [0.8111] Great service and food quality .
+     [0.8106] Good food , great atmosphere , friendly staff really enjoy the breakfasts .
+     [0.7835] Great food .
+     [0.5844] The food is southern and pretty good , the service is outstanding .
+
+Top 5 (weakening):
+     [-0.9975] Quite loud , food mediocre .
+     [-0.9934] The food wasn 't bad , it was just nothing special .
+     [-0.9928] Staff was really nice so I feel bad but food needs improvement .
+     [-0.8626] Disappointing .
+     [-0.4853] Good tasting coffee .
+
+**********
+[0.9434] The atmosphere is good.
+Parent: Good food , great atmosphere , friendly staff really enjoy the breakfasts .
+
+Top 5 (supporting):
+     [0.9434] Good food , great atmosphere , friendly staff really enjoy the breakfasts .
+     [0.9305] Overall great atmosphere
+     [0.9188] Great atmosphere .
+     [0.1998] One is really make to feel at home .
+     [0.1814] Love the cowboy caviar !
+
+Top 5 (weakening):
+     [-0.5876] Disappointing .
+     [-0.4659] I live nearby and really wanted to support local but place wasn 't great .
+     [-0.2200] Bad customer service .
+     [-0.1981] Have no idea how there food is .
+     [-0.1196] Don 't think I 'll be back .
+
+**********
+[0.9633] The staff is friendly.
+Parent: Good food , great atmosphere , friendly staff really enjoy the breakfasts .
+
+Top 5 (supporting):
+     [0.9633] Very friendly staff with plenty of parking in the back .
+     [0.9515] Good food , great atmosphere , friendly staff really enjoy the breakfasts .
+     [0.9205] Friendly staff .
+     [0.9139] Fantastic daily specials , friendly staff and quick service .
+     [0.8320] Staff was really nice so I feel bad but food needs improvement .
+
+Top 5 (weakening):
+     [-0.8907] Bad customer service .
+     [-0.4212] Disappointing .
+     [-0.2402] She greeted us and checked on us more than the waitress who seemed not care a bit about customers .
+     [-0.2031] Don 't think I 'll be back .
+     [-0.1253] 40 minutes later still not seated and to find out they just skipped over our name .
+
+**********
+[0.9655] I enjoy the breakfasts.
+Parent: Good food , great atmosphere , friendly staff really enjoy the breakfasts .
+
+Top 5 (supporting):
+     [0.9655] Good food , great atmosphere , friendly staff really enjoy the breakfasts .
+     [0.3814] Their breakfast is fantastic .
+     [0.3761] For me a tad pricy for breakfast but worth it .
+     [0.2609] The omlettes were awesome .
+     [0.1885] My husband lived the grits and Im soooo glad they have rye toast : ) I think they will be a 5 star once they get some time under their belt .
+
+Top 5 (weakening):
+     [-0.7853] Great burgers ( pimento cheese burger ) yummy !
+     [-0.6953] Disappointing .
+     [-0.6927] We went back for lunch a few weeks ago and even though they were out of meatloaf I really enjoyed my Club sandwich and fried Squash !
+     [-0.5516] You know it 's good when the parking lot stays full .
+     [-0.5290] Went for lunch with a friend and this place was packed .
+
+**********
+[0.9455] The atmosphere was good.
+Parent: Great atmosphere .
+
+Top 5 (supporting):
+     [0.9455] Overall great atmosphere
+     [0.9350] Good food , great atmosphere , friendly staff really enjoy the breakfasts .
+     [0.9210] Great atmosphere .
+     [0.1435] Love the cowboy caviar !
+     [0.1426] One is really make to feel at home .
+
+Top 5 (weakening):
+     [-0.4458] I live nearby and really wanted to support local but place wasn 't great .
+     [-0.3806] Disappointing .
+     [-0.2651] Bad customer service .
+     [-0.1317] Have no idea how there food is .
+     [-0.1210] Quite loud , food mediocre .
+
+**********
+[0.9155] The service was great.
+Parent: Great service .
+
+Top 5 (supporting):
+     [0.9155] The food is southern and pretty good , the service is outstanding .
+     [0.8197] Great service and food quality .
+     [0.7582] Great service .
+     [0.4809] Fantastic daily specials , friendly staff and quick service .
+     [0.3177] Very friendly staff with plenty of parking in the back .
+
+Top 5 (weakening):
+     [-0.9976] Bad customer service .
+     [-0.9633] The service lacked a lot but was made up for by an amazing owner .
+     [-0.9618] Disappointing .
+     [-0.8742] I live nearby and really wanted to support local but place wasn 't great .
+     [-0.6213] 40 minutes later still not seated and to find out they just skipped over our name .
+
+**********
+[0.9608] Staff was nice.
+Parent: Staff was really nice so I feel bad but food needs improvement .
+
+Top 5 (supporting):
+     [0.9608] Staff was really nice so I feel bad but food needs improvement .
+     [0.8971] Very friendly staff with plenty of parking in the back .
+     [0.8914] Good food , great atmosphere , friendly staff really enjoy the breakfasts .
+     [0.8913] Fantastic daily specials , friendly staff and quick service .
+     [0.7256] Friendly staff .
+
+Top 5 (weakening):
+     [-0.9881] Bad customer service .
+     [-0.9373] Disappointing .
+     [-0.5969] Don 't think I 'll be back .
+     [-0.3744] Quite loud , food mediocre .
+     [-0.3034] Have no idea how there food is .
+
+**********
+[0.9726] Food needs to be improved.
+Parent: Staff was really nice so I feel bad but food needs improvement .
+
+Top 5 (supporting):
+     [0.9726] Staff was really nice so I feel bad but food needs improvement .
+     [0.0919] Quite loud , food mediocre .
+     [0.0791] The only thing I would say is wish there were more menu options .
+     [0.0766] No doubt in my mind they will find the right servers to match the food and the owners passion .
+     [0.0087] Have no idea how there food is .
+
+Top 5 (weakening):
+     [-0.9320] Kevin and Julie have done a wonderful job of presenting a first class menu at affordable prices .
+     [-0.8376] Great food .
+     [-0.7829] They have a great selection of food .
+     [-0.7817] Fantastic daily specials , friendly staff and quick service .
+     [-0.7776] Great burgers ( pimento cheese burger ) yummy !
+
+**********
+[0.9663] The staff was friendly.
+Parent: Friendly staff .
+
+Top 5 (supporting):
+     [0.9663] Very friendly staff with plenty of parking in the back .
+     [0.9536] Good food , great atmosphere , friendly staff really enjoy the breakfasts .
+     [0.9207] Fantastic daily specials , friendly staff and quick service .
+     [0.8682] Friendly staff .
+     [0.8621] Staff was really nice so I feel bad but food needs improvement .
+
+Top 5 (weakening):
+     [-0.9453] Bad customer service .
+     [-0.3678] Disappointing .
+     [-0.2249] She greeted us and checked on us more than the waitress who seemed not care a bit about customers .
+     [-0.1493] Don 't think I 'll be back .
+     [-0.1422] 40 minutes later still not seated and to find out they just skipped over our name .

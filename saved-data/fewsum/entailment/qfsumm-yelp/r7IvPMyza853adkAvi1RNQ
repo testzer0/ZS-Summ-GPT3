@@ -1,0 +1,223 @@
+Summary:
+
+Service was awesome , prices were reasonable and the food was delicious !
+It 's a great environment with good food and easy on your wallet !
+Always wonderful food at a reasonable price .
+The food is wonderful Bui I always find the place so hot .
+The staff is very pleasant and attentive .
+
+**********
+[0.9643] Service was great.
+Parent: Service was awesome , prices were reasonable and the food was delicious !
+
+Top 5 (supporting):
+     [0.9643] Service was awesome , prices were reasonable and the food was delicious ! !
+     [0.8413] The service was good from Eddy
+     [0.7866] Service was good .
+     [0.3492] I love the friendly staff !
+     [0.3267] The staff is very pleasant and attentive .
+
+Top 5 (weakening):
+     [-0.9793] This place was horrible !
+     [-0.9777] The pizza was so bad I had to spit it out ...
+     [-0.8864] Drove to Carmine 's today only to discover that they had closed .
+     [-0.7843] Such a huge disappointment , as we loved the food .
+     [-0.7748] I will never go back
+
+**********
+[0.9525] The prices were reasonable.
+Parent: Service was awesome , prices were reasonable and the food was delicious !
+
+Top 5 (supporting):
+     [0.9525] Service was awesome , prices were reasonable and the food was delicious ! !
+     [0.7793] Always wonderful food at a reasonable price .
+     [0.7783] It 's a great environment with good food and easy on your wallet !
+     [0.0027] Will return !
+     [0.0026] and a turkey sandwich .
+
+Top 5 (weakening):
+     [-0.3565] I will never go back
+     [-0.1766] I just stopped by and the premises were sealed by an eviction order dated 15 June---but then next to it was an order to stay the eviction dated 21 June .
+     [-0.1494] This place was horrible !
+     [-0.0658] Buyer beware if your gambling at the bar and you 're winning your drinks are not free .
+     [-0.0637] I 've come here a few times , but they seem to have dropped the quality of their food dramatically since the new year and it really ruined the experience of dinning here .. Would not recommend !
+
+**********
+[0.9579] The food was delicious.
+Parent: Service was awesome , prices were reasonable and the food was delicious !
+
+Top 5 (supporting):
+     [0.9579] The food is delicious !
+     [0.9549] Service was awesome , prices were reasonable and the food was delicious ! !
+     [0.8013] The food is wonderful Bui I always find the place so hot .
+     [0.5886] Always a great environment and amazing food ! !
+     [0.4144] Very tasty but I had to go home and heat it because the middle was cold !
+
+Top 5 (weakening):
+     [-0.9974] I 've come here a few times , but they seem to have dropped the quality of their food dramatically since the new year and it really ruined the experience of dinning here .. Would not recommend !
+     [-0.9949] The pizza was so bad I had to spit it out ...
+     [-0.9910] Got an eggplant parm sandwich ( no taste ! )
+     [-0.9848] The salad was fair but the pizza a terrible .
+     [-0.9760] I also ordered the chopped salad , not only was the salad chopped to nothing , the balsamic dressing was not good .
+
+**********
+[0.9468] The environment is great.
+Parent: It 's a great environment with good food and easy on your wallet !
+
+Top 5 (supporting):
+     [0.9468] The bartenders , and the atmosphere is great .
+     [0.9430] It 's a great environment with good food and easy on your wallet !
+     [0.9063] Always a great environment and amazing food ! !
+     [0.1821] The food is wonderful Bui I always find the place so hot .
+     [0.1153] Family feel to the staff and they are very nice !
+
+Top 5 (weakening):
+     [-0.9955] This place was horrible !
+     [-0.7017] Such a huge disappointment , as we loved the food .
+     [-0.6589] The pizza was so bad I had to spit it out ...
+     [-0.6329] I will never go back
+     [-0.5004] I was here with coworkers and we should have known it wasnt going to be good by the name .
+
+**********
+[0.9542] The food is good.
+Parent: It 's a great environment with good food and easy on your wallet !
+
+Top 5 (supporting):
+     [0.9542] The food is wonderful Bui I always find the place so hot .
+     [0.9538] The food is delicious !
+     [0.9296] The place is kinda awkward but the food is good and that 's most important .
+     [0.9204] Service was awesome , prices were reasonable and the food was delicious ! !
+     [0.8883] Food is good !
+
+Top 5 (weakening):
+     [-0.9773] I 've come here a few times , but they seem to have dropped the quality of their food dramatically since the new year and it really ruined the experience of dinning here .. Would not recommend !
+     [-0.9685] The pizza was so bad I had to spit it out ...
+     [-0.8320] Got an eggplant parm sandwich ( no taste ! )
+     [-0.7699] This place was horrible !
+     [-0.4102] I also ordered the chopped salad , not only was the salad chopped to nothing , the balsamic dressing was not good .
+
+**********
+[0.9268] It's affordable.
+Parent: It 's a great environment with good food and easy on your wallet !
+
+Top 5 (supporting):
+     [0.9268] Service was awesome , prices were reasonable and the food was delicious ! !
+     [0.8956] It 's a great environment with good food and easy on your wallet !
+     [0.8474] Always wonderful food at a reasonable price .
+     [0.0045] My favorite is the seafood pizza .
+     [0.0044] and a turkey sandwich .
+
+Top 5 (weakening):
+     [-0.7618] I just stopped by and the premises were sealed by an eviction order dated 15 June---but then next to it was an order to stay the eviction dated 21 June .
+     [-0.7029] This place was horrible !
+     [-0.4738] I will never go back
+     [-0.4647] Buyer beware if your gambling at the bar and you 're winning your drinks are not free .
+     [-0.3946] The pizza was so bad I had to spit it out ...
+
+**********
+[0.9687] The food is great.
+Parent: Always wonderful food at a reasonable price .
+
+Top 5 (supporting):
+     [0.9687] The food is wonderful Bui I always find the place so hot .
+     [0.9020] The food is delicious !
+     [0.9001] Service was awesome , prices were reasonable and the food was delicious ! !
+     [0.8493] Always a great environment and amazing food ! !
+     [0.8449] The place is kinda awkward but the food is good and that 's most important .
+
+Top 5 (weakening):
+     [-0.9966] I 've come here a few times , but they seem to have dropped the quality of their food dramatically since the new year and it really ruined the experience of dinning here .. Would not recommend !
+     [-0.9957] The pizza was so bad I had to spit it out ...
+     [-0.9843] The salad was fair but the pizza a terrible .
+     [-0.9794] Got an eggplant parm sandwich ( no taste ! )
+     [-0.9729] This place was horrible !
+
+**********
+[0.9621] The food is reasonably priced.
+Parent: Always wonderful food at a reasonable price .
+
+Top 5 (supporting):
+     [0.9621] Always wonderful food at a reasonable price .
+     [0.9421] Service was awesome , prices were reasonable and the food was delicious ! !
+     [0.9042] It 's a great environment with good food and easy on your wallet !
+     [0.0101] The place is kinda awkward but the food is good and that 's most important .
+     [0.0088] Will return !
+
+Top 5 (weakening):
+     [-0.4091] This place was horrible !
+     [-0.3333] I will never go back
+     [-0.1661] I just stopped by and the premises were sealed by an eviction order dated 15 June---but then next to it was an order to stay the eviction dated 21 June .
+     [-0.1654] While staying in Henderson for the week , we were getting a bit tired of the same restaurant foods ; buffets , burgers , etc .
+     [-0.0928] The pizza was so bad I had to spit it out ...
+
+**********
+[0.9687] The food is great.
+Parent: The food is wonderful Bui I always find the place so hot .
+
+Top 5 (supporting):
+     [0.9687] The food is wonderful Bui I always find the place so hot .
+     [0.9020] The food is delicious !
+     [0.9001] Service was awesome , prices were reasonable and the food was delicious ! !
+     [0.8493] Always a great environment and amazing food ! !
+     [0.8449] The place is kinda awkward but the food is good and that 's most important .
+
+Top 5 (weakening):
+     [-0.9966] I 've come here a few times , but they seem to have dropped the quality of their food dramatically since the new year and it really ruined the experience of dinning here .. Would not recommend !
+     [-0.9957] The pizza was so bad I had to spit it out ...
+     [-0.9843] The salad was fair but the pizza a terrible .
+     [-0.9794] Got an eggplant parm sandwich ( no taste ! )
+     [-0.9729] This place was horrible !
+
+**********
+[0.9339] The place is hot.
+Parent: The food is wonderful Bui I always find the place so hot .
+
+Top 5 (supporting):
+     [0.9339] The food is wonderful Bui I always find the place so hot .
+     [0.0511] The bartenders , and the atmosphere is great .
+     [0.0098] Highly recommended !
+     [0.0068] Love it here !
+     [0.0045] Will return !
+
+Top 5 (weakening):
+     [-0.9914] This place was horrible !
+     [-0.8816] The pizza was so bad I had to spit it out ...
+     [-0.8492] Very tasty but I had to go home and heat it because the middle was cold !
+     [-0.7382] The place is kinda awkward but the food is good and that 's most important .
+     [-0.6707] Got an eggplant parm sandwich ( no taste ! )
+
+**********
+[0.9854] The staff is pleasant.
+Parent: The staff is very pleasant and attentive .
+
+Top 5 (supporting):
+     [0.9854] The staff is very pleasant and attentive .
+     [0.9306] I love the friendly staff !
+     [0.8931] Family feel to the staff and they are very nice !
+     [0.1762] The service was good from Eddy
+     [0.1664] The bartenders , and the atmosphere is great .
+
+Top 5 (weakening):
+     [-0.7661] This place was horrible !
+     [-0.6206] I will never go back
+     [-0.4096] Drove to Carmine 's today only to discover that they had closed .
+     [-0.3024] I just stopped by and the premises were sealed by an eviction order dated 15 June---but then next to it was an order to stay the eviction dated 21 June .
+     [-0.2180] Calamari had great flavor but was tougher than the norm .
+
+**********
+[0.8393] The staff is good.
+Parent: The staff is very pleasant and attentive .
+
+Top 5 (supporting):
+     [0.8393] The staff is very pleasant and attentive .
+     [0.8043] Family feel to the staff and they are very nice !
+     [0.7703] I love the friendly staff !
+     [0.4671] The service was good from Eddy
+     [0.4257] The bartenders , and the atmosphere is great .
+
+Top 5 (weakening):
+     [-0.7802] The pizza was so bad I had to spit it out ...
+     [-0.6866] This place was horrible !
+     [-0.6673] I was here with coworkers and we should have known it wasnt going to be good by the name .
+     [-0.5583] I will never go back
+     [-0.4569] Got an eggplant parm sandwich ( no taste ! )

@@ -1,0 +1,719 @@
+Summary:
+
+The Yelp reviews for this product were mostly positive, with customers praising the effectiveness of the anti-aging facial and chemical peel, as well as the quality of the massage.
+There were a few negative reviews, mostly concerning the emphasis on purchasing a membership, but overall the reviewers seemed to be happy with their experience.
+Overall, the reviews of this product are positive.
+Customers appreciate the serene and inviting atmosphere of the spa, and report that the employees are friendly and helpful.
+They are also happy with the quality of the massages and facials, finding them to be relaxing and effective.
+One negative review noted that the spa does not take walk-ins, but otherwise the reviewers seem to be pleased with the product.
+Overall, reviewers seemed to enjoy the massages they received at Yelp, with many saying that their massage therapist was able to target their specific needs.
+Some reviewers found the corporate sales pitch to be a bit off-putting, but others said that the membership is worth it if you can take advantage of the specials.
+Shellie and Freddy were both singled out as being particularly talented massage therapists.
+Finally, Nora was praised for giving a great facial that left reviewers' skin looking noticeably better.
+Overall, the reviewers seemed to enjoy the massages they received and found the staff to be professional and friendly.
+There were a few complaints about the size of the front desk and the wait times, but generally people seemed to be happy with their experience.
+Overall, the reviewers seemed to enjoy the product and found it relaxing and beneficial.
+There were a few minor billing issues that were resolved by the staff.
+The only real complaint was that some reviewers wished there were more specials or that their regular masseuse had more hours.
+
+**********
+[0.0025] The Yelp reviews for this product were positive.
+Parent: The Yelp reviews for this product were mostly positive, with customers praising the effectiveness of the anti-aging facial and chemical peel, as well as the quality of the massage.
+
+Top 5 (supporting):
+     [0.0025] Great service , super nice staff .
+     [0.0021] Greta is amazing for facials : Great results , relaxing session and it 's clear Greta truly cares for her clients .
+     [0.0019] She was very good .
+     [0.0018] I will definitely be coming back .
+     [0.0010] Highly recommend her .
+
+Top 5 (weakening):
+     [-0.4303] this place does not take walk-ins so if you don 't have an appointment do not waste your time here
+     [-0.2664] Extremely disappointed in this location .
+     [-0.0958] Today they refused to see me because they have no prenatal certified therapists .. come to find out my last therapist wasn 't even prenatal certified .
+     [-0.0840] I 'm not sure of the value of a member ship , but maybe ....
+     [-0.0640] Too bad I was her last client ever at this location or I would return despite the ridiculous emphasis on purchasing a membership .
+
+**********
+[0.7073] The anti-aging facial was effective.
+Parent: The Yelp reviews for this product were mostly positive, with customers praising the effectiveness of the anti-aging facial and chemical peel, as well as the quality of the massage.
+
+Top 5 (supporting):
+     [0.7073] Loved my anti aging facial with a chemical peel that greatly improved my skin with an amazing aesthetician .
+     [0.0547] The massage was great and relieved a lot of tension in my back and the facial was outstanding !
+     [0.0514] I came in with some minor muscle pain and she was able to rehabilitate me and get me back to my career as a hairstylist in Scottsdale .
+     [0.0412] I always leave feeling so relaxed and my back and neck feel like heaven .
+     [0.0298] I always look forward to seeing her each month and my neck and back feel like heaven when she is done .
+
+Top 5 (weakening):
+     [-0.6358] Extremely disappointed in this location .
+     [-0.2988] I had two that were just so-so .
+     [-0.2337] this place does not take walk-ins so if you don 't have an appointment do not waste your time here
+     [-0.1204] The massage is so theraputic I 've been coming monthly for two hour sessions for the last year and a half .
+     [-0.1145] My billing issue has been fixed .
+
+**********
+[0.6125] The chemical peel was effective.
+Parent: The Yelp reviews for this product were mostly positive, with customers praising the effectiveness of the anti-aging facial and chemical peel, as well as the quality of the massage.
+
+Top 5 (supporting):
+     [0.6125] Loved my anti aging facial with a chemical peel that greatly improved my skin with an amazing aesthetician .
+     [0.0225] Had the best deep tissue but an American massage place in a very very long time .
+     [0.0106] I had Daniell for my massage .
+     [0.0054] Great for deep tissue and great all around guy .
+     [0.0042] Overall perfect .
+
+Top 5 (weakening):
+     [-0.6744] Extremely disappointed in this location .
+     [-0.4606] I had a male masseuse and I like a lot of pressure and he did the job !
+     [-0.2998] The customer service is wonderful !
+     [-0.2843] Very happy with my service today and with the free foot scrub .
+     [-0.2810] I found the best therapist : Collin .
+
+**********
+[0.8272] The quality of the massage was good.
+Parent: The Yelp reviews for this product were mostly positive, with customers praising the effectiveness of the anti-aging facial and chemical peel, as well as the quality of the massage.
+
+Top 5 (supporting):
+     [0.8272] The massage was great and relieved a lot of tension in my back and the facial was outstanding !
+     [0.7872] Britt and the front desk treated me very well best massage I 've had in a month will definitely be back for Britt again as long as she 's there
+     [0.7582] I had an excellent massage there with Ashley I believe was her name .
+     [0.6717] Great service at the front desk and amazing massage from Benji .
+     [0.5998] One of the best massages Ive ever had .
+
+Top 5 (weakening):
+     [-0.8612] I had two that were just so-so .
+     [-0.3655] Extremely disappointed in this location .
+     [-0.2174] this place does not take walk-ins so if you don 't have an appointment do not waste your time here
+     [-0.0659] My billing issue has been fixed .
+     [-0.0535] Not many therapists understand or can really offer deep tissue for those of us who like that kind of torture .
+
+**********
+[0.2137] There were negative reviews.
+Parent: There were a few negative reviews, mostly concerning the emphasis on purchasing a membership, but overall the reviewers seemed to be happy with their experience.
+
+Top 5 (supporting):
+     [0.2137] I had two that were just so-so .
+     [0.1868] Extremely disappointed in this location .
+     [0.0000] ; )
+     [0.0000] ! !
+     [0.0000] : )
+
+Top 5 (weakening):
+     [-0.9957] Awesome massage and facial by LoriAnn !
+     [-0.9949] I always come out glowing and quite relaxed .
+     [-0.9945] On a whim I decided to try a facial out with their aesthetician Nora and that was a fantastic experience !
+     [-0.9943] Overall perfect .
+     [-0.9940] My therapist Ethan , was fantastic !
+
+**********
+[0.3311] The emphasis on purchasing a membership was negative.
+Parent: There were a few negative reviews, mostly concerning the emphasis on purchasing a membership, but overall the reviewers seemed to be happy with their experience.
+
+Top 5 (supporting):
+     [0.3311] Too bad I was her last client ever at this location or I would return despite the ridiculous emphasis on purchasing a membership .
+     [0.0060] Extremely disappointed in this location .
+     [0.0000] ; )
+     [0.0000] ! !
+     [0.0000] : )
+
+Top 5 (weakening):
+     [-0.9707] The customer service is wonderful !
+     [-0.9610] Britt and the front desk treated me very well best massage I 've had in a month will definitely be back for Britt again as long as she 's there
+     [-0.9494] My therapist was Jenny or Jenna I didn 't quite catch that but it was amazing ! !
+     [-0.9491] Great service at the front desk and amazing massage from Benji .
+     [-0.9345] Awesome massage and facial by LoriAnn !
+
+**********
+[0.7703] Reviewers were happy with their experience.
+Parent: There were a few negative reviews, mostly concerning the emphasis on purchasing a membership, but overall the reviewers seemed to be happy with their experience.
+
+Top 5 (supporting):
+     [0.7703] We left with smiles on our faces & rejuvenated bodies ! !
+     [0.7253] Very happy with my service today and with the free foot scrub .
+     [0.6091] I hobbled in with major hip pain and walked out feeling amazing .
+     [0.5512] Britt and the front desk treated me very well best massage I 've had in a month will definitely be back for Britt again as long as she 's there
+     [0.5137] I always come out glowing and quite relaxed .
+
+Top 5 (weakening):
+     [-0.9928] Extremely disappointed in this location .
+     [-0.7097] I had two that were just so-so .
+     [-0.6931] Too bad I was her last client ever at this location or I would return despite the ridiculous emphasis on purchasing a membership .
+     [-0.5719] Today they refused to see me because they have no prenatal certified therapists .. come to find out my last therapist wasn 't even prenatal certified .
+     [-0.5421] I 've tried other therapists and I don 't get the same results .
+
+**********
+[0.5621] The product is good.
+Parent: Overall, the reviews of this product are positive.
+
+Top 5 (supporting):
+     [0.5621] The massage was great and relieved a lot of tension in my back and the facial was outstanding !
+     [0.4872] Awesome massage and facial by LoriAnn !
+     [0.4854] One of the best massages Ive ever had .
+     [0.4694] My therapist Ethan , was fantastic !
+     [0.4158] Amazing techniques , great flow .
+
+Top 5 (weakening):
+     [-0.6935] Extremely disappointed in this location .
+     [-0.5548] I had two that were just so-so .
+     [-0.2781] I absolutely love this place .
+     [-0.1747] Great location and everyone is super friendly .
+     [-0.1522] Clean place and friendly staff .
+
+**********
+[0.9884] The spa has a serene and inviting atmosphere.
+Parent: Customers appreciate the serene and inviting atmosphere of the spa, and report that the employees are friendly and helpful.
+
+Top 5 (supporting):
+     [0.9884] The spa itself is very serene and inviting .
+     [0.1111] The facility was clean and very relaxing once you got into the waiting area .
+     [0.0547] The front Staff was very friendly also .
+     [0.0500] I always leave feeling so relaxed and my back and neck feel like heaven .
+     [0.0366] We left with smiles on our faces & rejuvenated bodies ! !
+
+Top 5 (weakening):
+     [-0.9859] Extremely disappointed in this location .
+     [-0.9669] This front desk was way too small for the volume of people that were coming in and out on a Thursday afternoon .
+     [-0.9585] Not many therapists understand or can really offer deep tissue for those of us who like that kind of torture .
+     [-0.8978] He worked out a knot I had in the middle of my shoulder blade and the rest I didn 't notice until they were all gone !
+     [-0.8889] I had two that were just so-so .
+
+**********
+[0.9211] The employees are friendly and helpful.
+Parent: Customers appreciate the serene and inviting atmosphere of the spa, and report that the employees are friendly and helpful.
+
+Top 5 (supporting):
+     [0.9211] The rest of the staff is incredibly friendly and nice .
+     [0.8844] The staff is friendly & my massage therapist has always been able to answer my questions .
+     [0.8511] The employees seem happy to work there and are very helpful .
+     [0.6642] Clean place and friendly staff .
+     [0.5702] The front Staff was very friendly also .
+
+Top 5 (weakening):
+     [-0.7274] Extremely disappointed in this location .
+     [-0.3310] Not many therapists understand or can really offer deep tissue for those of us who like that kind of torture .
+     [-0.2747] Today they refused to see me because they have no prenatal certified therapists .. come to find out my last therapist wasn 't even prenatal certified .
+     [-0.1800] He uses just the perfect amount of pressure every time and just has experience overall .
+     [-0.1665] this place does not take walk-ins so if you don 't have an appointment do not waste your time here
+
+**********
+[0.7979] The massages are of good quality.
+Parent: They are also happy with the quality of the massages and facials, finding them to be relaxing and effective.
+
+Top 5 (supporting):
+     [0.7979] The massage is so theraputic I 've been coming monthly for two hour sessions for the last year and a half .
+     [0.7436] Britt and the front desk treated me very well best massage I 've had in a month will definitely be back for Britt again as long as she 's there
+     [0.6565] The massage was great and relieved a lot of tension in my back and the facial was outstanding !
+     [0.6436] Great service at the front desk and amazing massage from Benji .
+     [0.6234] One of the best massages Ive ever had .
+
+Top 5 (weakening):
+     [-0.8501] I had two that were just so-so .
+     [-0.7921] Extremely disappointed in this location .
+     [-0.2003] this place does not take walk-ins so if you don 't have an appointment do not waste your time here
+     [-0.1270] Not many therapists understand or can really offer deep tissue for those of us who like that kind of torture .
+     [-0.0846] I 'm not sure of the value of a member ship , but maybe ....
+
+**********
+[0.8207] The quality of the facials was good.
+Parent: They are also happy with the quality of the massages and facials, finding them to be relaxing and effective.
+
+Top 5 (supporting):
+     [0.8207] The massage was great and relieved a lot of tension in my back and the facial was outstanding !
+     [0.5900] Greta is amazing for facials : Great results , relaxing session and it 's clear Greta truly cares for her clients .
+     [0.3959] Had the best deep tissue but an American massage place in a very very long time .
+     [0.2959] Awesome massage and facial by LoriAnn !
+     [0.2934] Loved my anti aging facial with a chemical peel that greatly improved my skin with an amazing aesthetician .
+
+Top 5 (weakening):
+     [-0.8933] I had two that were just so-so .
+     [-0.3749] Extremely disappointed in this location .
+     [-0.2174] this place does not take walk-ins so if you don 't have an appointment do not waste your time here
+     [-0.1983] Not many therapists understand or can really offer deep tissue for those of us who like that kind of torture .
+     [-0.0549] The main reason this place gets a 5 is because Shellie ( Shelly ) gave me a great deep tissue massage.The first time I went to massage envy they placed me with a therapist who was way too soft and he didn 't do so great .
+
+**********
+[0.5301] The massages are relaxing.
+Parent: They are also happy with the quality of the massages and facials, finding them to be relaxing and effective.
+
+Top 5 (supporting):
+     [0.5301] Amber did a great job with my massage- I felt so relaxed and she accommodated the pressure to what I needed and wanted .
+     [0.4683] The massage was great and relieved a lot of tension in my back and the facial was outstanding !
+     [0.2721] It was my first massage so he took his time to make me feel comfortable and relaxed .
+     [0.1649] Greta is amazing for facials : Great results , relaxing session and it 's clear Greta truly cares for her clients .
+     [0.0620] My boyfriend & I came in today for a couples massage and we must say this has been the best experience we 've had since we started getting massages 2 years ago .
+
+Top 5 (weakening):
+     [-0.8174] Extremely disappointed in this location .
+     [-0.6540] I had two that were just so-so .
+     [-0.5847] Not many therapists understand or can really offer deep tissue for those of us who like that kind of torture .
+     [-0.5710] I 'm not sure of the value of a member ship , but maybe ....
+     [-0.4869] This front desk was way too small for the volume of people that were coming in and out on a Thursday afternoon .
+
+**********
+[0.5560] The massages are effective.
+Parent: They are also happy with the quality of the massages and facials, finding them to be relaxing and effective.
+
+Top 5 (supporting):
+     [0.5560] The massage was great and relieved a lot of tension in my back and the facial was outstanding !
+     [0.3690] The massage is so theraputic I 've been coming monthly for two hour sessions for the last year and a half .
+     [0.2496] I had a male masseuse and I like a lot of pressure and he did the job !
+     [0.2475] Awesome massage and facial by LoriAnn !
+     [0.2315] My boyfriend & I came in today for a couples massage and we must say this has been the best experience we 've had since we started getting massages 2 years ago .
+
+Top 5 (weakening):
+     [-0.6111] I had two that were just so-so .
+     [-0.4876] Extremely disappointed in this location .
+     [-0.1847] this place does not take walk-ins so if you don 't have an appointment do not waste your time here
+     [-0.1711] The customer service is wonderful !
+     [-0.1664] I 'm not sure of the value of a member ship , but maybe ....
+
+**********
+[0.9171] The facials are relaxing.
+Parent: They are also happy with the quality of the massages and facials, finding them to be relaxing and effective.
+
+Top 5 (supporting):
+     [0.9171] Greta is amazing for facials : Great results , relaxing session and it 's clear Greta truly cares for her clients .
+     [0.3907] The massage was great and relieved a lot of tension in my back and the facial was outstanding !
+     [0.1117] I always leave feeling so relaxed and my back and neck feel like heaven .
+     [0.0958] Awesome massage and facial by LoriAnn !
+     [0.0947] We left with smiles on our faces & rejuvenated bodies ! !
+
+Top 5 (weakening):
+     [-0.8958] Extremely disappointed in this location .
+     [-0.7610] Not many therapists understand or can really offer deep tissue for those of us who like that kind of torture .
+     [-0.7466] I had two that were just so-so .
+     [-0.6660] I had a male masseuse and I like a lot of pressure and he did the job !
+     [-0.6021] The customer service is wonderful !
+
+**********
+[0.5907] The facials are effective.
+Parent: They are also happy with the quality of the massages and facials, finding them to be relaxing and effective.
+
+Top 5 (supporting):
+     [0.5907] Greta is amazing for facials : Great results , relaxing session and it 's clear Greta truly cares for her clients .
+     [0.5503] The massage was great and relieved a lot of tension in my back and the facial was outstanding !
+     [0.1728] Loved my anti aging facial with a chemical peel that greatly improved my skin with an amazing aesthetician .
+     [0.1447] Afterwards my skin glows and Gretta is a delight to spend the hour with .
+     [0.1376] Awesome massage and facial by LoriAnn !
+
+Top 5 (weakening):
+     [-0.6505] I had two that were just so-so .
+     [-0.5608] Extremely disappointed in this location .
+     [-0.3025] The customer service is wonderful !
+     [-0.2094] this place does not take walk-ins so if you don 't have an appointment do not waste your time here
+     [-0.1143] My billing issue has been fixed .
+
+**********
+[0.0778] The spa does not take walk-ins.
+Parent: One negative review noted that the spa does not take walk-ins, but otherwise the reviewers seem to be pleased with the product.
+
+Top 5 (supporting):
+     [0.0778] this place does not take walk-ins so if you don 't have an appointment do not waste your time here
+     [0.0000] ; )
+     [0.0000] ! !
+     [0.0000] : )
+     [-0.0097] Too bad I was her last client ever at this location or I would return despite the ridiculous emphasis on purchasing a membership .
+
+Top 5 (weakening):
+     [-0.9778] Afterwards my skin glows and Gretta is a delight to spend the hour with .
+     [-0.9680] I had two that were just so-so .
+     [-0.9621] My therapist was Jenny or Jenna I didn 't quite catch that but it was amazing ! !
+     [-0.9611] My therapist Ethan , was fantastic !
+     [-0.9587] Very professional and always makes sure to target my problem areas .
+
+**********
+[0.6848] Reviewers are pleased with the product.
+Parent: One negative review noted that the spa does not take walk-ins, but otherwise the reviewers seem to be pleased with the product.
+
+Top 5 (supporting):
+     [0.6848] Very happy with my service today and with the free foot scrub .
+     [0.6413] I was apprehensive to go in blind although I was very impressed .
+     [0.5255] I really love this Massage Envy , mostly because my masseuse , Jeni ( or Jeni-Lynne ) is amazing !
+     [0.5104] My boyfriend & I came in today for a couples massage and we must say this has been the best experience we 've had since we started getting massages 2 years ago .
+     [0.4702] We left with smiles on our faces & rejuvenated bodies ! !
+
+Top 5 (weakening):
+     [-0.9806] Extremely disappointed in this location .
+     [-0.8077] I had two that were just so-so .
+     [-0.3816] I 've tried other therapists and I don 't get the same results .
+     [-0.2513] this place does not take walk-ins so if you don 't have an appointment do not waste your time here
+     [-0.2436] Too bad I was her last client ever at this location or I would return despite the ridiculous emphasis on purchasing a membership .
+
+**********
+[0.6743] Reviewers enjoyed the massages they received at Yelp.
+Parent: Overall, reviewers seemed to enjoy the massages they received at Yelp, with many saying that their massage therapist was able to target their specific needs.
+
+Top 5 (supporting):
+     [0.6743] Great service at the front desk and amazing massage from Benji .
+     [0.1852] Amber was great for deep tissue massage , and if you can stand the corporate sales pitch , this is not a bad place to go for a legitimate massage .
+     [0.1382] The staff is friendly & my massage therapist has always been able to answer my questions .
+     [0.1361] Went to get a massage today and was treated really well , Lupita and the front desk staff were on point I will definitely be back .
+     [0.1302] Had the best deep tissue but an American massage place in a very very long time .
+
+Top 5 (weakening):
+     [-0.5514] this place does not take walk-ins so if you don 't have an appointment do not waste your time here
+     [-0.5227] I had two that were just so-so .
+     [-0.3756] Extremely disappointed in this location .
+     [-0.1254] Today they refused to see me because they have no prenatal certified therapists .. come to find out my last therapist wasn 't even prenatal certified .
+     [-0.0873] Not many therapists understand or can really offer deep tissue for those of us who like that kind of torture .
+
+**********
+[0.8489] The massage therapist was able to target their specific needs.
+Parent: Overall, reviewers seemed to enjoy the massages they received at Yelp, with many saying that their massage therapist was able to target their specific needs.
+
+Top 5 (supporting):
+     [0.8489] Amber did a great job with my massage- I felt so relaxed and she accommodated the pressure to what I needed and wanted .
+     [0.4341] It was my first massage so he took his time to make me feel comfortable and relaxed .
+     [0.2770] I came in with some minor muscle pain and she was able to rehabilitate me and get me back to my career as a hairstylist in Scottsdale .
+     [0.2349] He worked out a knot I had in the middle of my shoulder blade and the rest I didn 't notice until they were all gone !
+     [0.2110] The main reason this place gets a 5 is because Shellie ( Shelly ) gave me a great deep tissue massage.The first time I went to massage envy they placed me with a therapist who was way too soft and he didn 't do so great .
+
+Top 5 (weakening):
+     [-0.6136] Extremely disappointed in this location .
+     [-0.5579] Not many therapists understand or can really offer deep tissue for those of us who like that kind of torture .
+     [-0.4991] She focused on all of my needs .
+     [-0.1785] My billing issue has been fixed .
+     [-0.1753] Today they refused to see me because they have no prenatal certified therapists .. come to find out my last therapist wasn 't even prenatal certified .
+
+**********
+[0.0160] The corporate sales pitch was off-putting.
+Parent: Some reviewers found the corporate sales pitch to be a bit off-putting, but others said that the membership is worth it if you can take advantage of the specials.
+
+Top 5 (supporting):
+     [0.0160] Too bad I was her last client ever at this location or I would return despite the ridiculous emphasis on purchasing a membership .
+     [0.0009] Extremely disappointed in this location .
+     [0.0000] ; )
+     [0.0000] ! !
+     [0.0000] : )
+
+Top 5 (weakening):
+     [-0.9805] My therapist was Jenny or Jenna I didn 't quite catch that but it was amazing ! !
+     [-0.9775] Andrea is really amazing .
+     [-0.9760] Amazing techniques , great flow .
+     [-0.9754] Awesome massage and facial by LoriAnn !
+     [-0.9754] My therapist Ethan , was fantastic !
+
+**********
+[0.0308] The membership is worth it if you can take advantage of the specials.
+Parent: Some reviewers found the corporate sales pitch to be a bit off-putting, but others said that the membership is worth it if you can take advantage of the specials.
+
+Top 5 (supporting):
+     [0.0308] I can confidently say that finding one good therapist can have you become a lifetime member .
+     [0.0140] I might return if there are any specials that catch my eye .
+     [0.0077] I did end up signing up for a year membership so I am excited to start getting massages more often !
+     [0.0066] I will definitely be coming back .
+     [0.0055] Britt and the front desk treated me very well best massage I 've had in a month will definitely be back for Britt again as long as she 's there
+
+Top 5 (weakening):
+     [-0.1650] Extremely disappointed in this location .
+     [-0.0957] this place does not take walk-ins so if you don 't have an appointment do not waste your time here
+     [-0.0847] Today they refused to see me because they have no prenatal certified therapists .. come to find out my last therapist wasn 't even prenatal certified .
+     [-0.0754] Chris is the absolute best for deep tissue .
+     [-0.0685] She focused on all of my needs .
+
+**********
+[0.4244] Shellie was a particularly talented massage therapist.
+Parent: Shellie and Freddy were both singled out as being particularly talented massage therapists.
+
+Top 5 (supporting):
+     [0.4244] Colleen is by far the best massage therapist I have ever encountered in Arizona .
+     [0.3802] The main reason this place gets a 5 is because Shellie ( Shelly ) gave me a great deep tissue massage.The first time I went to massage envy they placed me with a therapist who was way too soft and he didn 't do so great .
+     [0.1011] Great service at the front desk and amazing massage from Benji .
+     [0.0715] I 've been seeing Jenna here for over a year and she 's an awesome masseuse !
+     [0.0434] Awesome massage and facial by LoriAnn !
+
+Top 5 (weakening):
+     [-0.8557] Extremely disappointed in this location .
+     [-0.6075] Greta is amazing for facials : Great results , relaxing session and it 's clear Greta truly cares for her clients .
+     [-0.5995] Chris is the absolute best for deep tissue .
+     [-0.4341] Freddy is the BEST massage therapist !
+     [-0.3900] On a whim I decided to try a facial out with their aesthetician Nora and that was a fantastic experience !
+
+**********
+[0.6387] Freddy was a particularly talented massage therapist.
+Parent: Shellie and Freddy were both singled out as being particularly talented massage therapists.
+
+Top 5 (supporting):
+     [0.6387] Freddy is the BEST massage therapist !
+     [0.3210] Great service at the front desk and amazing massage from Benji .
+     [0.0291] I always look forward to seeing her each month and my neck and back feel like heaven when she is done .
+     [0.0028] One of the best massages Ive ever had .
+     [0.0022] It was my first massage so he took his time to make me feel comfortable and relaxed .
+
+Top 5 (weakening):
+     [-0.8600] Extremely disappointed in this location .
+     [-0.8143] The main reason this place gets a 5 is because Shellie ( Shelly ) gave me a great deep tissue massage.The first time I went to massage envy they placed me with a therapist who was way too soft and he didn 't do so great .
+     [-0.8060] Greta is amazing for facials : Great results , relaxing session and it 's clear Greta truly cares for her clients .
+     [-0.7568] On a whim I decided to try a facial out with their aesthetician Nora and that was a fantastic experience !
+     [-0.7554] Colleen is by far the best massage therapist I have ever encountered in Arizona .
+
+**********
+[0.8386] Nora gave a great facial.
+Parent: Finally, Nora was praised for giving a great facial that left reviewers' skin looking noticeably better.
+
+Top 5 (supporting):
+     [0.8386] On a whim I decided to try a facial out with their aesthetician Nora and that was a fantastic experience !
+     [0.6129] I go to Gretta for facials and love the job she does .
+     [0.4172] Awesome massage and facial by LoriAnn !
+     [0.3533] Greta is amazing for facials : Great results , relaxing session and it 's clear Greta truly cares for her clients .
+     [0.2692] I would recommend a facial with Gretta anytime .
+
+Top 5 (weakening):
+     [-0.9603] Extremely disappointed in this location .
+     [-0.9040] I had an excellent massage there with Ashley I believe was her name .
+     [-0.8772] Amber did a great job with my massage- I felt so relaxed and she accommodated the pressure to what I needed and wanted .
+     [-0.8559] I had two that were just so-so .
+     [-0.8499] Freddy is the BEST massage therapist !
+
+**********
+[0.2602] Nora's facial left reviewers' skin looking better.
+Parent: Finally, Nora was praised for giving a great facial that left reviewers' skin looking noticeably better.
+
+Top 5 (supporting):
+     [0.2602] Afterwards my skin glows and Gretta is a delight to spend the hour with .
+     [0.0685] I always look forward to seeing her each month and my neck and back feel like heaven when she is done .
+     [0.0646] Loved my anti aging facial with a chemical peel that greatly improved my skin with an amazing aesthetician .
+     [0.0207] Great for deep tissue and great all around guy .
+     [0.0141] We left with smiles on our faces & rejuvenated bodies ! !
+
+Top 5 (weakening):
+     [-0.5947] Extremely disappointed in this location .
+     [-0.5333] this place does not take walk-ins so if you don 't have an appointment do not waste your time here
+     [-0.3829] I had a male masseuse and I like a lot of pressure and he did the job !
+     [-0.3028] Just recieved a massage with Matt .
+     [-0.2959] Ron is the best if you want to really get your muscles feeling good .
+
+**********
+[0.8704] Reviewers enjoyed the massages they received.
+Parent: Overall, the reviewers seemed to enjoy the massages they received and found the staff to be professional and friendly.
+
+Top 5 (supporting):
+     [0.8704] My boyfriend & I came in today for a couples massage and we must say this has been the best experience we 've had since we started getting massages 2 years ago .
+     [0.8589] Britt and the front desk treated me very well best massage I 've had in a month will definitely be back for Britt again as long as she 's there
+     [0.8502] The massage was great and relieved a lot of tension in my back and the facial was outstanding !
+     [0.7508] Great service at the front desk and amazing massage from Benji .
+     [0.7209] Went to get a massage today and was treated really well , Lupita and the front desk staff were on point I will definitely be back .
+
+Top 5 (weakening):
+     [-0.8121] I had two that were just so-so .
+     [-0.7312] this place does not take walk-ins so if you don 't have an appointment do not waste your time here
+     [-0.5960] Extremely disappointed in this location .
+     [-0.2841] On a whim I decided to try a facial out with their aesthetician Nora and that was a fantastic experience !
+     [-0.2417] Today they refused to see me because they have no prenatal certified therapists .. come to find out my last therapist wasn 't even prenatal certified .
+
+**********
+[0.7612] The staff was professional.
+Parent: Overall, the reviewers seemed to enjoy the massages they received and found the staff to be professional and friendly.
+
+Top 5 (supporting):
+     [0.7612] Went to get a massage today and was treated really well , Lupita and the front desk staff were on point I will definitely be back .
+     [0.5773] Very professional and always makes sure to target my problem areas .
+     [0.4496] She was very professional and really knows her stuff .
+     [0.3798] Great service at the front desk and amazing massage from Benji .
+     [0.2945] Great service , super nice staff .
+
+Top 5 (weakening):
+     [-0.8682] I had two that were just so-so .
+     [-0.6088] Today they refused to see me because they have no prenatal certified therapists .. come to find out my last therapist wasn 't even prenatal certified .
+     [-0.2580] Extremely disappointed in this location .
+     [-0.2470] Andrea is really amazing .
+     [-0.2383] Too bad I was her last client ever at this location or I would return despite the ridiculous emphasis on purchasing a membership .
+
+**********
+[0.9747] The staff was friendly.
+Parent: Overall, the reviewers seemed to enjoy the massages they received and found the staff to be professional and friendly.
+
+Top 5 (supporting):
+     [0.9747] The front Staff was very friendly also .
+     [0.9739] The staff is friendly & my massage therapist has always been able to answer my questions .
+     [0.9656] The rest of the staff is incredibly friendly and nice .
+     [0.9422] Clean place and friendly staff .
+     [0.6472] Great service , super nice staff .
+
+Top 5 (weakening):
+     [-0.3606] Extremely disappointed in this location .
+     [-0.3074] Today they refused to see me because they have no prenatal certified therapists .. come to find out my last therapist wasn 't even prenatal certified .
+     [-0.2003] Too bad I was her last client ever at this location or I would return despite the ridiculous emphasis on purchasing a membership .
+     [-0.1559] this place does not take walk-ins so if you don 't have an appointment do not waste your time here
+     [-0.1365] Not many therapists understand or can really offer deep tissue for those of us who like that kind of torture .
+
+**********
+[0.9860] The front desk was too small.
+Parent: There were a few complaints about the size of the front desk and the wait times, but generally people seemed to be happy with their experience.
+
+Top 5 (supporting):
+     [0.9860] This front desk was way too small for the volume of people that were coming in and out on a Thursday afternoon .
+     [0.0000] ; )
+     [0.0000] ! !
+     [0.0000] : )
+     [-0.0019] Extremely disappointed in this location .
+
+Top 5 (weakening):
+     [-0.9488] The place is also very clean and the front desk is amply staffed to accommodate guests .
+     [-0.8899] One of the best massages Ive ever had .
+     [-0.7778] The massage is so theraputic I 've been coming monthly for two hour sessions for the last year and a half .
+     [-0.7603] Awesome massage and facial by LoriAnn !
+     [-0.7375] The spa itself is very serene and inviting .
+
+**********
+[0.0226] The wait times were too long.
+Parent: There were a few complaints about the size of the front desk and the wait times, but generally people seemed to be happy with their experience.
+
+Top 5 (supporting):
+     [0.0226] I wish the 60 minutes was the full time not the " 55 hands on " so I usually upgrade to the 1 1 / 2 hour .
+     [0.0009] Extremely disappointed in this location .
+     [0.0000] ; )
+     [0.0000] ! !
+     [0.0000] : )
+
+Top 5 (weakening):
+     [-0.9417] This location is close to my house they are always able to get me in right away .
+     [-0.8553] Amazing techniques , great flow .
+     [-0.8347] Great service at the front desk and amazing massage from Benji .
+     [-0.8250] The customer service is wonderful !
+     [-0.7692] The place is also very clean and the front desk is amply staffed to accommodate guests .
+
+**********
+[0.6028] People were happy with their experience.
+Parent: There were a few complaints about the size of the front desk and the wait times, but generally people seemed to be happy with their experience.
+
+Top 5 (supporting):
+     [0.6028] The employees seem happy to work there and are very helpful .
+     [0.5472] We left with smiles on our faces & rejuvenated bodies ! !
+     [0.3280] My boyfriend & I came in today for a couples massage and we must say this has been the best experience we 've had since we started getting massages 2 years ago .
+     [0.3116] I hobbled in with major hip pain and walked out feeling amazing .
+     [0.2674] Very happy with my service today and with the free foot scrub .
+
+Top 5 (weakening):
+     [-0.9939] Extremely disappointed in this location .
+     [-0.6457] I had two that were just so-so .
+     [-0.6143] Today they refused to see me because they have no prenatal certified therapists .. come to find out my last therapist wasn 't even prenatal certified .
+     [-0.4823] I 've tried other therapists and I don 't get the same results .
+     [-0.3561] this place does not take walk-ins so if you don 't have an appointment do not waste your time here
+
+**********
+[0.7298] Reviewers enjoyed the product.
+Parent: Overall, the reviewers seemed to enjoy the product and found it relaxing and beneficial.
+
+Top 5 (supporting):
+     [0.7298] Loved my anti aging facial with a chemical peel that greatly improved my skin with an amazing aesthetician .
+     [0.7149] The massage was great and relieved a lot of tension in my back and the facial was outstanding !
+     [0.6733] I really love this Massage Envy , mostly because my masseuse , Jeni ( or Jeni-Lynne ) is amazing !
+     [0.6570] My boyfriend & I came in today for a couples massage and we must say this has been the best experience we 've had since we started getting massages 2 years ago .
+     [0.6070] Britt and the front desk treated me very well best massage I 've had in a month will definitely be back for Britt again as long as she 's there
+
+Top 5 (weakening):
+     [-0.7848] Extremely disappointed in this location .
+     [-0.3708] I had two that were just so-so .
+     [-0.2349] this place does not take walk-ins so if you don 't have an appointment do not waste your time here
+     [-0.0432] I 'm not sure of the value of a member ship , but maybe ....
+     [-0.0114] Too bad I was her last client ever at this location or I would return despite the ridiculous emphasis on purchasing a membership .
+
+**********
+[0.7584] The product was relaxing.
+Parent: Overall, the reviewers seemed to enjoy the product and found it relaxing and beneficial.
+
+Top 5 (supporting):
+     [0.7584] The massage was great and relieved a lot of tension in my back and the facial was outstanding !
+     [0.6464] Amber did a great job with my massage- I felt so relaxed and she accommodated the pressure to what I needed and wanted .
+     [0.5945] Greta is amazing for facials : Great results , relaxing session and it 's clear Greta truly cares for her clients .
+     [0.4336] The facility was clean and very relaxing once you got into the waiting area .
+     [0.3203] My therapist Ethan , was fantastic !
+
+Top 5 (weakening):
+     [-0.8886] Extremely disappointed in this location .
+     [-0.7174] Very professional and always makes sure to target my problem areas .
+     [-0.7138] Ron is the best if you want to really get your muscles feeling good .
+     [-0.6519] Ana is very skilled and educated .
+     [-0.5844] She was very professional and really knows her stuff .
+
+**********
+[0.6217] The product was beneficial.
+Parent: Overall, the reviewers seemed to enjoy the product and found it relaxing and beneficial.
+
+Top 5 (supporting):
+     [0.6217] The massage was great and relieved a lot of tension in my back and the facial was outstanding !
+     [0.5445] Loved my anti aging facial with a chemical peel that greatly improved my skin with an amazing aesthetician .
+     [0.1678] My therapist Ethan , was fantastic !
+     [0.1466] My boyfriend & I came in today for a couples massage and we must say this has been the best experience we 've had since we started getting massages 2 years ago .
+     [0.1380] Great for deep tissue and great all around guy .
+
+Top 5 (weakening):
+     [-0.6022] Extremely disappointed in this location .
+     [-0.2244] I had two that were just so-so .
+     [-0.1368] this place does not take walk-ins so if you don 't have an appointment do not waste your time here
+     [-0.0898] Today they refused to see me because they have no prenatal certified therapists .. come to find out my last therapist wasn 't even prenatal certified .
+     [-0.0442] I absolutely love this place .
+
+**********
+[0.6749] There were minor billing issues.
+Parent: There were a few minor billing issues that were resolved by the staff.
+
+Top 5 (supporting):
+     [0.6749] I 've had minor issues with gift cards being applied , but they resolved them once I pressed.I 've been a regular for awhile now and they recognize me by name .
+     [0.0331] My billing issue has been fixed .
+     [0.0038] I never knew thought that something so simple would make people notice a change .
+     [0.0015] This front desk was way too small for the volume of people that were coming in and out on a Thursday afternoon .
+     [0.0015] I definitely want to become a member after I pay off my student loans .
+
+Top 5 (weakening):
+     [-0.2861] I came in with some minor muscle pain and she was able to rehabilitate me and get me back to my career as a hairstylist in Scottsdale .
+     [-0.1407] He worked out a knot I had in the middle of my shoulder blade and the rest I didn 't notice until they were all gone !
+     [-0.0914] I found the best therapist : Collin .
+     [-0.0884] I always feel amazing after my massage with Maribel .
+     [-0.0881] I really love this Massage Envy , mostly because my masseuse , Jeni ( or Jeni-Lynne ) is amazing !
+
+**********
+[0.1385] The staff resolved the issues satisfactorily.
+Parent: There were a few minor billing issues that were resolved by the staff.
+
+Top 5 (supporting):
+     [0.1385] Very professional and always makes sure to target my problem areas .
+     [0.1036] The massage was great and relieved a lot of tension in my back and the facial was outstanding !
+     [0.0991] Britt and the front desk treated me very well best massage I 've had in a month will definitely be back for Britt again as long as she 's there
+     [0.0621] The employees seem happy to work there and are very helpful .
+     [0.0558] Great service at the front desk and amazing massage from Benji .
+
+Top 5 (weakening):
+     [-0.7311] I 've tried other therapists and I don 't get the same results .
+     [-0.5988] Today they refused to see me because they have no prenatal certified therapists .. come to find out my last therapist wasn 't even prenatal certified .
+     [-0.3733] Extremely disappointed in this location .
+     [-0.3715] Not many therapists understand or can really offer deep tissue for those of us who like that kind of torture .
+     [-0.3175] The main reason this place gets a 5 is because Shellie ( Shelly ) gave me a great deep tissue massage.The first time I went to massage envy they placed me with a therapist who was way too soft and he didn 't do so great .
+
+**********
+[0.8115] Some reviewers wished there were more specials.
+Parent: The only real complaint was that some reviewers wished there were more specials or that their regular masseuse had more hours.
+
+Top 5 (supporting):
+     [0.8115] Only drawback now is I wish they offered specials and that my regular masseuse had more hours !
+     [0.0851] I wish the 60 minutes was the full time not the " 55 hands on " so I usually upgrade to the 1 1 / 2 hour .
+     [0.0416] I might return if there are any specials that catch my eye .
+     [0.0064] Today they refused to see me because they have no prenatal certified therapists .. come to find out my last therapist wasn 't even prenatal certified .
+     [0.0018] Extremely disappointed in this location .
+
+Top 5 (weakening):
+     [-0.0507] You will not be disappointed .
+     [-0.0448] I never leave disappointed .
+     [-0.0332] I did end up signing up for a year membership so I am excited to start getting massages more often !
+     [-0.0224] Thanks Ladies .
+     [-0.0211] I had Daniell for my massage .
+
+**********
+[0.8393] Some reviewers wished their regular masseuse had more hours.
+Parent: The only real complaint was that some reviewers wished there were more specials or that their regular masseuse had more hours.
+
+Top 5 (supporting):
+     [0.8393] Only drawback now is I wish they offered specials and that my regular masseuse had more hours !
+     [0.2573] I wish the 60 minutes was the full time not the " 55 hands on " so I usually upgrade to the 1 1 / 2 hour .
+     [0.0000] ; )
+     [0.0000] ! !
+     [0.0000] : )
+
+Top 5 (weakening):
+     [-0.2003] Thank you Colleen ...
+     [-0.1658] Thanks Ladies .
+     [-0.1385] Girls compliment me all the time on my skin now .
+     [-0.1304] She focused on all of my needs .
+     [-0.1168] I never leave disappointed .

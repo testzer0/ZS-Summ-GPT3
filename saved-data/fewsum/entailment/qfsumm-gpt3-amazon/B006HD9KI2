@@ -1,0 +1,93 @@
+Summary:
+
+The reviews said that the product is made with good material, has a great graphic, and is a good quality shirt. They also said that the shirt fits true to size and that their daughter loved it.
+
+**********
+[0.9431] The product is made with good material.
+Parent: The reviews said that the product is made with good material, has a great graphic, and is a good quality shirt.
+
+Top 5 (supporting):
+     [0.9431] Made with good material and has a great graphic .
+     [0.5455] It was well made however the sizing scale is a little small .
+     [0.3193] The quality of the tee is excellent and I highly recommend this to any teen girl who is a fan of Mindless Behavior .
+     [0.1384] Otherwise a really nice shirt
+     [0.1251] My daughter is so obsessed with mindless behavior this shirt was perfect for her : ) this shirt is amazing : )
+
+Top 5 (weakening):
+     [0.0050] This group is one of my granddaughter 's favorite groups .
+     [0.0064] It has big pictures of each of the boys .
+     [0.0069] The only problem is that it is a size bigger then what I was expecting .
+     [0.0078] She requested a T-shirt with their picture on it for Christmas , so I ordered it from Amazon .
+     [0.0081] My daughter loves it !
+
+**********
+[0.9767] The product has a great graphic.
+Parent: The reviews said that the product is made with good material, has a great graphic, and is a good quality shirt.
+
+Top 5 (supporting):
+     [0.9767] Made with good material and has a great graphic .
+     [0.3937] It has big pictures of each of the boys .
+     [0.0932] My daughter is so obsessed with mindless behavior this shirt was perfect for her : ) this shirt is amazing : )
+     [0.0787] It was well made however the sizing scale is a little small .
+     [0.0251] Otherwise a really nice shirt
+
+Top 5 (weakening):
+     [-0.0497] This group is one of my granddaughter 's favorite groups .
+     [-0.0213] Great fit true to size .
+     [-0.0113] Good quality and great fit .
+     [-0.0103] The only problem is that it is a size bigger then what I was expecting .
+     [-0.0052] Thanks for fast delivery .
+
+**********
+[0.9361] The product is a good quality shirt.
+Parent: The reviews said that the product is made with good material, has a great graphic, and is a good quality shirt.
+
+Top 5 (supporting):
+     [0.9361] The quality of the tee is excellent and I highly recommend this to any teen girl who is a fan of Mindless Behavior .
+     [0.3610] Otherwise a really nice shirt
+     [0.3298] My daughter is so obsessed with mindless behavior this shirt was perfect for her : ) this shirt is amazing : )
+     [0.3003] Very nice shirt for the price .
+     [0.2696] The shirt was true to size .
+
+Top 5 (weakening):
+     [-0.3151] This group is one of my granddaughter 's favorite groups .
+     [-0.0082] Thanks Amazon for putting a huge smile on my daughter face .......
+     [0.0030] It was a part of a birthday surprise for my daughter along with tickets to see the group in concert .
+     [0.0040] She requested a T-shirt with their picture on it for Christmas , so I ordered it from Amazon .
+     [0.0043] It shipped sooner than i was told which came just in time for her birthday !
+
+**********
+[0.9651] The shirt fits true to size.
+Parent: They also said that the shirt fits true to size and that their daughter loved it.
+
+Top 5 (supporting):
+     [0.9651] The shirt was true to size .
+     [0.7863] My daughter is petite , I order the shirt in her current size and it fits but no room to grow .
+     [0.1720] Good quality and great fit .
+     [0.1398] Great fit true to size .
+     [0.1108] My daughter is so obsessed with mindless behavior this shirt was perfect for her : ) this shirt is amazing : )
+
+Top 5 (weakening):
+     [-0.9849] The only problem is that it is a size bigger then what I was expecting .
+     [-0.8912] It was well made however the sizing scale is a little small .
+     [-0.0948] It has big pictures of each of the boys .
+     [-0.0726] This group is one of my granddaughter 's favorite groups .
+     [-0.0222] Thanks Amazon for putting a huge smile on my daughter face .......
+
+**********
+[0.8804] Their daughter loved it.
+Parent: They also said that the shirt fits true to size and that their daughter loved it.
+
+Top 5 (supporting):
+     [0.8804] My daughter loves it !
+     [0.7524] My daughter is so obsessed with mindless behavior this shirt was perfect for her : ) this shirt is amazing : )
+     [0.3774] This group is one of my granddaughter 's favorite groups .
+     [0.2860] She love it .... i think this shirt is great for a young girl that is a mindless behavior fan ......
+     [0.2763] She loved the shirt .
+
+Top 5 (weakening):
+     [-0.0237] I am satisfied and will order other shirts .
+     [-0.0189] The only problem is that it is a size bigger then what I was expecting .
+     [-0.0173] I was so happy when it finally came .
+     [-0.0116] It has big pictures of each of the boys .
+     [-0.0092] The quality of the tee is excellent and I highly recommend this to any teen girl who is a fan of Mindless Behavior .

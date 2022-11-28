@@ -1,0 +1,201 @@
+Summary:
+
+Overall, reviewers thought the food was good, especially the guacamole, chips, and cheese dip. They also thought the portions were large and the prices reasonable. However, some reviewers thought the salsa was bland and watery, and that the ground beef was not well-seasoned. There were also some complaints about the cleanliness of the restaurant. Overall, reviewers would recommend this restaurant.
+
+**********
+[0.9566] The food was good.
+Parent: Overall, reviewers thought the food was good, especially the guacamole, chips, and cheese dip.
+
+Top 5 (supporting):
+     [0.9566] Man the food is good , the prices are cheap , plus unlimited chips and salsa !
+     [0.9561] The food is good and the service friendly and fast .
+     [0.9559] The food and drinks were so good .
+     [0.9087] Always good food and fast friendly service !
+     [0.8583] Excellent food and margaritas .
+
+Top 5 (weakening):
+     [-0.4348] I was disappointed that they did not serve fresh salsa or horchata .
+     [-0.2538] Wouldn 't eat here if you payed me .
+     [-0.2158] Watch what your eating .
+     [-0.1874] We won 't be going back.Fish tacos would be your best choice .
+     [-0.1817] My colleague for the tacos and stated he shredded beef was also bland .
+
+**********
+[0.8320] The guacamole was good.
+Parent: Overall, reviewers thought the food was good, especially the guacamole, chips, and cheese dip.
+
+Top 5 (supporting):
+     [0.8320] Guacamole--best I 've had in a restaurant 2 .
+     [0.7485] Got a take out tonight a shrimp quesadilla and guacamole dip both were great ! !
+     [0.1792] I had the chicken fajita quesadilla and it was super yummy and flavorful and a huge portion .
+     [0.0769] A lot of Mexican restaurants like this are prone to have mediocre margs but these were delicious and reasonably priced .
+     [0.0136] They were delicious .
+
+Top 5 (weakening):
+     [-0.4960] Great service and better food.The cheese dip is amazing !
+     [-0.4771] The queso is amazing and the chips are fresh and delicious .
+     [-0.4221] The chps and salsa were great !
+     [-0.4002] The chips , cheese dip , and fajita quesadillas are the best and the service is super fast !
+     [-0.3482] I had the fire burrito .
+
+**********
+[0.8299] The chips were good.
+Parent: Overall, reviewers thought the food was good, especially the guacamole, chips, and cheese dip.
+
+Top 5 (supporting):
+     [0.8299] The chips , cheese dip , and fajita quesadillas are the best and the service is super fast !
+     [0.8192] The queso is amazing and the chips are fresh and delicious .
+     [0.5962] Chips very fresh , desserts had pretty plating and delicious .
+     [0.0645] The chips and salsa are fresh .
+     [0.0324] Man the food is good , the prices are cheap , plus unlimited chips and salsa !
+
+Top 5 (weakening):
+     [-0.6992] They have great margaritas as well .
+     [-0.5121] Guacamole--best I 've had in a restaurant 2 .
+     [-0.4709] Ask for the hot salsa in the back-muy bueno !
+     [-0.4542] Got a take out tonight a shrimp quesadilla and guacamole dip both were great ! !
+     [-0.4504] The chps and salsa were great !
+
+**********
+[0.9144] The cheese dip was good.
+Parent: Overall, reviewers thought the food was good, especially the guacamole, chips, and cheese dip.
+
+Top 5 (supporting):
+     [0.9144] Great service and better food.The cheese dip is amazing !
+     [0.7585] The chips , cheese dip , and fajita quesadillas are the best and the service is super fast !
+     [0.0026] Will be back !
+     [0.0013] They were delicious .
+     [0.0011] I will definitely be returning .
+
+Top 5 (weakening):
+     [-0.9055] Got a take out tonight a shrimp quesadilla and guacamole dip both were great ! !
+     [-0.7121] Ask for the hot salsa in the back-muy bueno !
+     [-0.6213] Tons of shredded pork .
+     [-0.5777] The chps and salsa were great !
+     [-0.4960] Love the Roqueto Burrito .
+
+**********
+[0.9661] The portions were large.
+Parent: They also thought the portions were large and the prices reasonable.
+
+Top 5 (supporting):
+     [0.9661] The portions are large and the prices reasonable .
+     [0.8988] I had the chicken fajita quesadilla and it was super yummy and flavorful and a huge portion .
+     [0.8031] It was a good size burrito and the spicy sauce is yummy but the ground beef was not seasoned and very bland .
+     [0.5620] The place is large and I 've never had to wait .
+     [0.4685] Nice big patio for the summer .
+
+Top 5 (weakening):
+     [-0.2219] The drinks are cheapOther than that , this place is just your generic canned refried beans and pre-mixed margarita joint .
+     [-0.2075] Slowed down eating because I didn 't want it to end .
+     [-0.1875] We won 't be going back.Fish tacos would be your best choice .
+     [-0.1512] We were excited to go there , but we were disappointed .
+     [-0.1411] Wouldn 't eat here if you payed me .
+
+**********
+[0.9559] The prices were reasonable.
+Parent: They also thought the portions were large and the prices reasonable.
+
+Top 5 (supporting):
+     [0.9559] Staff is very friendly and the prices are reasonable .
+     [0.9477] Prices are very reasonable .
+     [0.9048] The portions are large and the prices reasonable .
+     [0.8949] They have consistent and decent food at a decent price .
+     [0.8433] Man the food is good , the prices are cheap , plus unlimited chips and salsa !
+
+Top 5 (weakening):
+     [-0.9801] The prices were a bit high & not worth it .
+     [-0.4349] Wouldn 't eat here if you payed me .
+     [-0.3548] Watch what your eating .
+     [-0.2370] Place is totally legit .
+     [-0.0981] We were excited to go there , but we were disappointed .
+
+**********
+[0.0021] The salsa was bland.
+Parent: However, some reviewers thought the salsa was bland and watery, and that the ground beef was not well-seasoned.
+
+Top 5 (supporting):
+     [0.0021] The only negative is the salsa .
+     [0.0000] No joke .
+     [0.0000] Yum ! !
+     [0.0000] Honestly .
+     [0.0000] Dirty .
+
+Top 5 (weakening):
+     [-0.9930] The chps and salsa were great !
+     [-0.9911] Sososo yummy !
+     [-0.9845] I had the chicken fajita quesadilla and it was super yummy and flavorful and a huge portion .
+     [-0.9814] Guacamole--best I 've had in a restaurant 2 .
+     [-0.9799] Ask for the hot salsa in the back-muy bueno !
+
+**********
+[0.0027] The salsa was watery.
+Parent: However, some reviewers thought the salsa was bland and watery, and that the ground beef was not well-seasoned.
+
+Top 5 (supporting):
+     [0.0027] The only negative is the salsa .
+     [0.0002] It was bland and runny / watery , but other than that , the food was delicious !
+     [0.0000] No joke .
+     [0.0000] Yum ! !
+     [0.0000] Honestly .
+
+Top 5 (weakening):
+     [-0.8185] Tons of shredded pork .
+     [-0.5754] They have great margaritas as well .
+     [-0.5542] The chips and salsa are fresh .
+     [-0.5261] The chips , cheese dip , and fajita quesadillas are the best and the service is super fast !
+     [-0.5062] It was a good size burrito and the spicy sauce is yummy but the ground beef was not seasoned and very bland .
+
+**********
+[0.9715] The ground beef was not well-seasoned.
+Parent: However, some reviewers thought the salsa was bland and watery, and that the ground beef was not well-seasoned.
+
+Top 5 (supporting):
+     [0.9715] It was a good size burrito and the spicy sauce is yummy but the ground beef was not seasoned and very bland .
+     [0.3129] My colleague for the tacos and stated he shredded beef was also bland .
+     [0.0008] Wouldn 't eat here if you payed me .
+     [0.0004] We were excited to go there , but we were disappointed .
+     [0.0000] No joke .
+
+Top 5 (weakening):
+     [-0.5435] This place is outstanding !
+     [-0.5327] It 's especially nice in the summer on the outdoor patio .
+     [-0.5070] Nice local place
+     [-0.4705] They have great margaritas as well .
+     [-0.3979] Love this place !
+
+**********
+[0.6116] The restaurant was not clean.
+Parent: There were also some complaints about the cleanliness of the restaurant.
+
+Top 5 (supporting):
+     [0.6116] It was bland and runny / watery , but other than that , the food was delicious !
+     [0.5428] They are not clean and there are issues in the kitchen with pests .
+     [0.5144] I was disappointed that they did not serve fresh salsa or horchata .
+     [0.1356] Plates come out extremely hot .
+     [0.1322] It was a good size burrito and the spicy sauce is yummy but the ground beef was not seasoned and very bland .
+
+Top 5 (weakening):
+     [-0.8856] Place is spotless .
+     [-0.8306] Place is totally legit .
+     [-0.5149] The queso is amazing and the chips are fresh and delicious .
+     [-0.5041] Food is amazing-always fresh .
+     [-0.4785] Chips very fresh , desserts had pretty plating and delicious .
+
+**********
+[0.5161] Reviewers recommended this restaurant.
+Parent: Overall, reviewers would recommend this restaurant.
+
+Top 5 (supporting):
+     [0.5161] Our server was awesome and gave very good recommendations .
+     [0.3656] We will eat here again .
+     [0.2296] The employees treat us as family , and we love it here .
+     [0.2157] I realize this isn 't the most authentic or unique Mexican cuisine , but everything I have ever ordered has been delicious .
+     [0.1623] Waiter checked in often , prefer this location over Streetsboro .
+
+Top 5 (weakening):
+     [-0.6998] Wouldn 't eat here if you payed me .
+     [-0.6481] We were excited to go there , but we were disappointed .
+     [-0.4789] We won 't be going back.Fish tacos would be your best choice .
+     [-0.4416] I was disappointed that they did not serve fresh salsa or horchata .
+     [-0.1237] I 'm running to this border .

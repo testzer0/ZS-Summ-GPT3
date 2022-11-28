@@ -1,0 +1,75 @@
+Summary:
+
+The reviews say that the product is very pretty, and that it is a perfect Easter dress for a newborn baby. They also recommend hand-washing the dress, as the lace can come apart in the washing machine.
+
+**********
+[0.7653] The product is pretty.
+Parent: The reviews say that the product is very pretty, and that it is a perfect Easter dress for a newborn baby.
+
+Top 5 (supporting):
+     [0.7653] It 's a very beautiful dress and soft for a newborns skin .
+     [0.5781] It looks really cute .
+     [0.4622] It was a very cute dress !
+     [0.4231] The lace and tulle are very nice as well .
+     [0.3524] Dress was very pretty but never was worn .
+
+Top 5 (weakening):
+     [-0.0061] I gave it four stars because the panty seems to be a little small , if you consider it goes over a diaper .
+     [-0.0001] This was a fast delievery ...
+     [0.0017] Dress was washed in gentle cycle and the lace around dress came apart .
+     [0.0019] I recommend you hand wash .
+     [0.0027] We prewash clothes before we put on baby to wear .
+
+**********
+[0.2102] The product is a perfect Easter dress for a newborn baby.
+Parent: The reviews say that the product is very pretty, and that it is a perfect Easter dress for a newborn baby.
+
+Top 5 (supporting):
+     [0.2102] This dress will be an Easter Dress for my Great GrandaughterThen we are saveing the dress for her first new born baby doll ..
+     [0.0120] It 's a very beautiful dress and soft for a newborns skin .
+     [0.0008] Even though it was slightly large for my 7 pound 8 oz baby , it fit much better than other newborn dresses that I got her .
+     [-0.0006] It was a very cute dress !
+     [-0.0012] The lace and tulle are very nice as well .
+
+Top 5 (weakening):
+     [-0.6234] this was a take home outfit for my 14th grandchild , She will be here in December , cant wait to see her in it
+     [-0.5234] We are saving it for her to use for a doll when she 's bigger .
+     [-0.2875] This will be my grand daughter 's come home outfit when she is born in September .
+     [-0.2585] She is petite for her age so the 3-6M fit her perfectly .
+     [-0.1817] Dress was very pretty but never was worn .
+
+**********
+[0.0146] Hand-washing the dress is recommended.
+Parent: They also recommend hand-washing the dress, as the lace can come apart in the washing machine.
+
+Top 5 (supporting):
+     [0.0146] I recommend you hand wash .
+     [-0.0014] I definitely recommend .
+     [-0.0074] This dress was for our daughters first Eaters and it was so much more than we thought it would be .
+     [-0.0083] Even though it was slightly large for my 7 pound 8 oz baby , it fit much better than other newborn dresses that I got her .
+     [-0.0091] It was a very cute dress !
+
+Top 5 (weakening):
+     [-0.2951] We prewash clothes before we put on baby to wear .
+     [-0.1412] We are saving it for her to use for a doll when she 's bigger .
+     [-0.1219] I think that 's a great idea .. Love doing business with you Nannettek
+     [-0.0692] This dress will be an Easter Dress for my Great GrandaughterThen we are saveing the dress for her first new born baby doll ..
+     [-0.0499] I gave it four stars because the panty seems to be a little small , if you consider it goes over a diaper .
+
+**********
+[0.8103] The lace falls apart in the washing machine.
+Parent: They also recommend hand-washing the dress, as the lace can come apart in the washing machine.
+
+Top 5 (supporting):
+     [0.8103] Dress was washed in gentle cycle and the lace around dress came apart .
+     [-0.0124] I recommend you hand wash .
+     [-0.0600] this was a take home outfit for my 14th grandchild , She will be here in December , cant wait to see her in it
+     [-0.0666] This dress was for our daughters first Eaters and it was so much more than we thought it would be .
+     [-0.0743] Dress was very pretty but never was worn .
+
+Top 5 (weakening):
+     [-0.6916] Lovely , beautiful , I 'm loving it !
+     [-0.6682] I think that 's a great idea .. Love doing business with you Nannettek
+     [-0.6340] It looks really cute .
+     [-0.6283] The lace and tulle are very nice as well .
+     [-0.6164] I definitely recommend .

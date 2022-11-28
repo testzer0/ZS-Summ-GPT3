@@ -1,0 +1,185 @@
+Summary:
+
+The reviewers said that the shop is staffed with good guys who are honest and have a lot of knowledge.
+They also said that the shop is great for sportbikes, with quick service and attention to detail.
+The reviews were all positive, praising the quality of work, reasonable prices, and great customer service.
+
+**********
+[0.2508] The shop is staffed with good guys.
+Parent: The reviewers said that the shop is staffed with good guys who are honest and have a lot of knowledge.
+
+Top 5 (supporting):
+     [0.2508] I would never take my bike to Ridenow or anything like that I want to know who 's working on my bike and with the knowledge and friendly people at the shop I will never take my bike anywhere else .
+     [0.2113] These guys do amazing work at reasonable prices .
+     [0.2031] The guys go above and beyond with thier saftey check .
+     [0.1619] Good bunch of guys with a wealth of information and honest service .
+     [0.1448] Ted and his staff have always done very good work anytime I have needed service .
+
+Top 5 (weakening):
+     [-0.0804] I brought in my hurt zx14 in pieces .
+     [-0.0499] Ask them about all the other motorsport things they do for fun !
+     [-0.0240] Took my R1 in with a coolant leak .
+     [-0.0177] They assessed the situation provided a fair estimate .
+     [-0.0048] Other places want to make a fast buck not the case here .
+
+**********
+[0.1250] The shop is staffed with honest guys.
+Parent: The reviewers said that the shop is staffed with good guys who are honest and have a lot of knowledge.
+
+Top 5 (supporting):
+     [0.1250] I would never take my bike to Ridenow or anything like that I want to know who 's working on my bike and with the knowledge and friendly people at the shop I will never take my bike anywhere else .
+     [0.1087] Good bunch of guys with a wealth of information and honest service .
+     [0.0751] These guys do amazing work at reasonable prices .
+     [0.0611] The guys go above and beyond with thier saftey check .
+     [0.0372] Ted and his staff have always done very good work anytime I have needed service .
+
+Top 5 (weakening):
+     [-0.4165] Ask them about all the other motorsport things they do for fun !
+     [-0.2306] I brought in my hurt zx14 in pieces .
+     [-0.1548] Took my R1 in with a coolant leak .
+     [-0.0807] The master mechanics didn 't even blink an eye .
+     [-0.0688] Thanks again !
+
+**********
+[0.2428] The shop is staffed with guys who have a lot of knowledge.
+Parent: The reviewers said that the shop is staffed with good guys who are honest and have a lot of knowledge.
+
+Top 5 (supporting):
+     [0.2428] Good bunch of guys with a wealth of information and honest service .
+     [0.1622] I would never take my bike to Ridenow or anything like that I want to know who 's working on my bike and with the knowledge and friendly people at the shop I will never take my bike anywhere else .
+     [0.0821] The guys go above and beyond with thier saftey check .
+     [0.0783] The master mechanics didn 't even blink an eye .
+     [0.0495] These guys do amazing work at reasonable prices .
+
+Top 5 (weakening):
+     [-0.0185] I brought in my hurt zx14 in pieces .
+     [-0.0121] Took my R1 in with a coolant leak .
+     [-0.0061] Ask them about all the other motorsport things they do for fun !
+     [-0.0060] I am a first time customer .
+     [-0.0046] Other places want to make a fast buck not the case here .
+
+**********
+[0.9715] The shop is great for sportbikes.
+Parent: They also said that the shop is great for sportbikes, with quick service and attention to detail.
+
+Top 5 (supporting):
+     [0.9715] One of the best shops to go to for sportbikes .
+     [0.5228] Sport bike Performance Center is the only place I take my bike when it needs repairs or service .
+     [0.0466] Ask them about all the other motorsport things they do for fun !
+     [0.0337] I 've been taking my bikes here for years .
+     [0.0321] I would never take my bike to Ridenow or anything like that I want to know who 's working on my bike and with the knowledge and friendly people at the shop I will never take my bike anywhere else .
+
+Top 5 (weakening):
+     [-0.5087] Only guys I trust with my pride and joy .
+     [-0.4995] They assessed the situation provided a fair estimate .
+     [-0.3806] Austin is a great guy .
+     [-0.2925] Other places want to make a fast buck not the case here .
+     [-0.2280] The team fixed the issue and did not try and screw me .
+
+**********
+[0.4152] The shop has good service.
+Parent: They also said that the shop is great for sportbikes, with quick service and attention to detail.
+
+Top 5 (supporting):
+     [0.4152] This place has consistently over delivered every time I 've had repairs done .
+     [0.3968] I would never take my bike to Ridenow or anything like that I want to know who 's working on my bike and with the knowledge and friendly people at the shop I will never take my bike anywhere else .
+     [0.2392] Ted and his staff have always done very good work anytime I have needed service .
+     [0.1102] These guys do amazing work at reasonable prices .
+     [0.1025] Great service .
+
+Top 5 (weakening):
+     [-0.0589] Only guys I trust with my pride and joy .
+     [-0.0469] They assessed the situation provided a fair estimate .
+     [-0.0143] The master mechanics didn 't even blink an eye .
+     [-0.0096] Austin is a great guy .
+     [-0.0028] Ask them about all the other motorsport things they do for fun !
+
+**********
+[0.4677] The shop is detail-oriented.
+Parent: They also said that the shop is great for sportbikes, with quick service and attention to detail.
+
+Top 5 (supporting):
+     [0.4677] I would never take my bike to Ridenow or anything like that I want to know who 's working on my bike and with the knowledge and friendly people at the shop I will never take my bike anywhere else .
+     [0.2832] The guys go above and beyond with thier saftey check .
+     [0.1112] This place has consistently over delivered every time I 've had repairs done .
+     [0.0842] Good bunch of guys with a wealth of information and honest service .
+     [0.0642] Go there to get my bikes looked at , and inspected .
+
+Top 5 (weakening):
+     [-0.3790] Only guys I trust with my pride and joy .
+     [-0.3558] Ask them about all the other motorsport things they do for fun !
+     [-0.3039] The master mechanics didn 't even blink an eye .
+     [-0.1517] Austin is a great guy .
+     [-0.0530] I brought in my hurt zx14 in pieces .
+
+**********
+[0.3327] The reviews were positive.
+Parent: The reviews were all positive, praising the quality of work, reasonable prices, and great customer service.
+
+Top 5 (supporting):
+     [0.3327] Very reliable group and a great job all the time .
+     [0.3225] Good bunch of guys with a wealth of information and honest service .
+     [0.2274] Great service .
+     [0.1952] Ted is great !
+     [0.1628] Ted and his staff have always done very good work anytime I have needed service .
+
+Top 5 (weakening):
+     [-0.1688] The master mechanics didn 't even blink an eye .
+     [-0.1633] I brought in my hurt zx14 in pieces .
+     [-0.1142] I would never take my bike to Ridenow or anything like that I want to know who 's working on my bike and with the knowledge and friendly people at the shop I will never take my bike anywhere else .
+     [-0.0210] Ask them about all the other motorsport things they do for fun !
+     [-0.0123] I am a first time customer .
+
+**********
+[0.7474] The work was high quality.
+Parent: The reviews were all positive, praising the quality of work, reasonable prices, and great customer service.
+
+Top 5 (supporting):
+     [0.7474] Very reliable group and a great job all the time .
+     [0.3238] These guys do amazing work at reasonable prices .
+     [0.3150] Great attention to detail .
+     [0.2472] Great service .
+     [0.2393] Ted and his staff have always done very good work anytime I have needed service .
+
+Top 5 (weakening):
+     [-0.0603] The master mechanics didn 't even blink an eye .
+     [-0.0030] I am a first time customer .
+     [-0.0003] Only guys I trust with my pride and joy .
+     [0.0000] I agreed .
+     [0.0004] Other places want to make a fast buck not the case here .
+
+**********
+[0.8459] The prices were reasonable.
+Parent: The reviews were all positive, praising the quality of work, reasonable prices, and great customer service.
+
+Top 5 (supporting):
+     [0.8459] Good prices and trustworthy .
+     [0.7320] These guys do amazing work at reasonable prices .
+     [0.0053] I will be a lifetime customer
+     [0.0038] One of the best shops to go to for sportbikes .
+     [0.0034] First time trying the shop and will be my go to shop for the future .
+
+Top 5 (weakening):
+     [-0.2100] The guys go above and beyond with thier saftey check .
+     [-0.1611] Other places want to make a fast buck not the case here .
+     [-0.1153] This place has consistently over delivered every time I 've had repairs done .
+     [-0.0532] Ask them about all the other motorsport things they do for fun !
+     [-0.0476] Only guys I trust with my pride and joy .
+
+**********
+[0.4690] The customer service was great.
+Parent: The reviews were all positive, praising the quality of work, reasonable prices, and great customer service.
+
+Top 5 (supporting):
+     [0.4690] Great service .
+     [0.4313] Ted and his staff have always done very good work anytime I have needed service .
+     [0.3269] They performed their magic and in no time at all I was back on the road .
+     [0.3111] Good bunch of guys with a wealth of information and honest service .
+     [0.1376] I would never take my bike to Ridenow or anything like that I want to know who 's working on my bike and with the knowledge and friendly people at the shop I will never take my bike anywhere else .
+
+Top 5 (weakening):
+     [-0.5798] The master mechanics didn 't even blink an eye .
+     [-0.2717] Only guys I trust with my pride and joy .
+     [-0.1711] Ted is great !
+     [-0.0822] Ask them about all the other motorsport things they do for fun !
+     [-0.0661] Took my R1 in with a coolant leak .

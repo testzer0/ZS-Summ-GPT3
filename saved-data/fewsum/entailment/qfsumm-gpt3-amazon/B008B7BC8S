@@ -1,0 +1,93 @@
+Summary:
+
+The reviews were mixed, with some people finding the product easy to use and others finding it difficult. Some people also found the quality of the materials to be lacking. Overall, the reviews were mixed but generally positive.
+
+**********
+[0.9557] The product was easy to use.
+Parent: The reviews were mixed, with some people finding the product easy to use and others finding it difficult.
+
+Top 5 (supporting):
+     [0.9557] This kit is portable , compact and easy to use .
+     [0.9528] The Friendship Bracelet Maker is very easy to use .
+     [0.0930] This was / is so nice and portable , with additional supplies just inside the included drawer .
+     [0.0545] This gadget makes making the bracelets alot easier .
+     [0.0193] the kids loved it , you can spend many hours playing with it.
+
+Top 5 (weakening):
+     [-0.9919] This was too complicated for my 9 year old daughter .
+     [-0.9911] It 's a little complicated to get started , but once going she found it entertaining .
+     [-0.9628] I tried to help her , but quickly lost my patience over the confusing instructions .
+     [-0.7609] This one ended up in the trash .
+     [-0.7215] Kinda dinky .
+
+**********
+[0.7147] The product was difficult.
+Parent: The reviews were mixed, with some people finding the product easy to use and others finding it difficult.
+
+Top 5 (supporting):
+     [0.7147] It 's a little complicated to get started , but once going she found it entertaining .
+     [0.5406] This was too complicated for my 9 year old daughter .
+     [0.1178] I tried to help her , but quickly lost my patience over the confusing instructions .
+     [0.0429] She is getting the hang of it , but it is easier for her if someone is helping her .
+     [0.0142] I give it 8 months until its broke.
+
+Top 5 (weakening):
+     [-0.9923] The Friendship Bracelet Maker is very easy to use .
+     [-0.9895] This kit is portable , compact and easy to use .
+     [-0.8998] This was / is so nice and portable , with additional supplies just inside the included drawer .
+     [-0.4430] the kids loved it , you can spend many hours playing with it.
+     [-0.3201] But novelty enough for a 6 year old .
+
+**********
+[0.6701] The quality of the materials was lacking.
+Parent: Some people also found the quality of the materials to be lacking.
+
+Top 5 (supporting):
+     [0.6701] the threads are low quality to it function .
+     [0.0450] Wish they made more quality toys these days .
+     [0.0193] Kinda dinky .
+     [0.0102] This one ended up in the trash .
+     [-0.0015] We have tried to make friendship bracelets before with them taped to the desk , table & books around the house in the past .
+
+Top 5 (weakening):
+     [-0.9002] I especially love how the clip and tooth parts at the top hold the floss very securely !
+     [-0.3638] Great product .
+     [-0.2030] She loves it .
+     [-0.1597] This gadget makes making the bracelets alot easier .
+     [-0.1595] This was / is so nice and portable , with additional supplies just inside the included drawer .
+
+**********
+[0.2957] The reviews were mixed.
+Parent: Overall, the reviews were mixed but generally positive.
+
+Top 5 (supporting):
+     [0.2957] Kinda dinky .
+     [-0.0016] We have tried to make friendship bracelets before with them taped to the desk , table & books around the house in the past .
+     [-0.0129] This kit is portable , compact and easy to use .
+     [-0.0132] Bought as a gift for teenager .
+     [-0.0222] I tried to help her , but quickly lost my patience over the confusing instructions .
+
+Top 5 (weakening):
+     [-0.9841] I bought for my 5 year old and she ( we ) love it .
+     [-0.9765] the kids loved it , you can spend many hours playing with it.
+     [-0.9763] Great product .
+     [-0.9715] My son loves it and can 't wait to see the fruition of his efforts .
+     [-0.9613] She loves it .
+
+**********
+[0.1407] The reviews were positive.
+Parent: Overall, the reviews were mixed but generally positive.
+
+Top 5 (supporting):
+     [0.1407] the kids loved it , you can spend many hours playing with it.
+     [0.1219] My son loves it and can 't wait to see the fruition of his efforts .
+     [0.0712] It 's a little complicated to get started , but once going she found it entertaining .
+     [0.0710] Great product .
+     [0.0701] She loves it .
+
+Top 5 (weakening):
+     [-0.9379] Kinda dinky .
+     [-0.9363] This one ended up in the trash .
+     [-0.5080] Wish they made more quality toys these days .
+     [-0.4475] This was too complicated for my 9 year old daughter .
+     [-0.4308] I tried to help her , but quickly lost my patience over the confusing instructions .
