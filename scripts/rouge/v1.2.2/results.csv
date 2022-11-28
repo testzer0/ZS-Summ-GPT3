@@ -1,0 +1,9 @@
+ROUGE-Type,Task Name,System Name,Avg_Recall,Avg_Precision,Avg_F-Score,Num Reference Summaries
+ROUGE-L+StopWordRemoval,TASK1,SYS.TXT,0.15800,0.19792,0.17572,3
+
+ROUGE-1+StopWordRemoval,TASK1,SYS.TXT,0.16373,0.15094,0.15708,3
+
+ROUGE-2+StopWordRemoval,TASK1,SYS.TXT,0.00833,0.00680,0.00749,3
+
+ROUGE-SU4+StopWordRemoval,TASK1,SYS.TXT,0.05232,0.04741,0.04974,3
+
