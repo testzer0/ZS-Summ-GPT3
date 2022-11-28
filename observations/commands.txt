@@ -1,0 +1,2 @@
+rsync -hvrPt /home/adithya/sem6/review-sum/baselines/QFSumm/src/ adithya@chhogori.csres.utexas.edu:/mnt/data0/adithya/review-sum/baselines/QFSumm/src
+rsync -hvrPt adithya@chhogori.csres.utexas.edu:/mnt/data0/adithya/review-sum/baselines/QFSumm/src/ /home/adithya/sem6/review-sum/baselines/QFSumm/src 

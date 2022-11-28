@@ -1,0 +1,34 @@
+Aspect - rooms
+Average Rouge-1 score F1 is 0.2696915602375513
+Average Rouge-L score F1 is 0.17173649812442243
+Average BERT score F1 is 0.8503297567367554
+**********
+Aspect - location
+Average Rouge-1 score F1 is 0.3230666815503529
+Average Rouge-L score F1 is 0.1899442730237286
+Average BERT score F1 is 0.8596539497375488
+**********
+Aspect - service
+Average Rouge-1 score F1 is 0.2206616795224093
+Average Rouge-L score F1 is 0.13577239994338738
+Average BERT score F1 is 0.8527372479438782
+**********
+Aspect - cleanliness
+Average Rouge-1 score F1 is 0.2023427433223036
+Average Rouge-L score F1 is 0.13478586174141033
+Average BERT score F1 is 0.8422855138778687
+**********
+Aspect - building
+Average Rouge-1 score F1 is 0.24898947228909235
+Average Rouge-L score F1 is 0.17900037048885836
+Average BERT score F1 is 0.853718101978302
+**********
+Aspect - food
+Average Rouge-1 score F1 is 0.2752728569797136
+Average Rouge-L score F1 is 0.18704353831071255
+Average BERT score F1 is 0.854356586933136
+**********
+Overall,
+Average Rouge-1 score F1 is 0.2566708323169038
+Average Rouge-L score F1 is 0.16638049027208662
+Average BERT score F1 is 0.8521801233291626

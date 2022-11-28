@@ -1,0 +1,11 @@
+Average top score (summac-zs)
+GPT-3 Firstlevel: 0.84592180068223
+GPT-3 Final: 0.7998442068770902
+QFSumm (noclusters) + GPT-3: 0.8779390555056596
+QFSumm (clusters) + GPT-3: 0.845092149358464
+QFSumm (noclusters): 0.8907457106944286
+QFSumm (clusters): 0.8619437839270566
+Review Stratified Firstlevel: 0.8192212984426513
+Review Stratified Final: 0.8024277541618449
+AceSum: 0.9570624534900372
+GPT-3 (Pure): 0.8250149941780198

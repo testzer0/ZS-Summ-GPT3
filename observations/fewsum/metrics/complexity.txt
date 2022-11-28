@@ -1,0 +1,17 @@
+Amazon
+------
+gpt3-amazon: Simple - 85(63.9098%) and Complex - 48(36.0902%)
+gpt3-ml-amazon-fl: Simple - 232(71.1656%) and Complex - 94(28.8344%)
+gpt3-ml-amazon-ll: Simple - 95(72.5191%) and Complex - 36(27.4809%)
+qfsumm-amazon: Simple - 203(85.2941%) and Complex - 35(14.7059%)
+qfsumm-gpt3-amazon: Simple - 87(65.4135%) and Complex - 46(34.5865%)
+fewsum-amazon: Simple - 154(83.2432%) and Complex - 31(16.7568%)
+
+Yelp
+----
+gpt3-yelp: Simple - 98(68.0556%) and Complex - 46(31.9444%)
+gpt3-ml-yelp-fl: Simple - 365(77.9915%) and Complex - 103(22.0085%)
+gpt3-ml-yelp-ll: Simple - 115(80.4196%) and Complex - 28(19.5804%)
+qfsumm-yelp: Simple - 223(92.1488%) and Complex - 19(7.8512%)
+qfsumm-gpt3-yelp: Simple - 88(67.1756%) and Complex - 43(32.8244%)
+fewsum-yelp: Simple - 202(92.6606%) and Complex - 16(7.3394%)

@@ -1,0 +1,99 @@
+Amazon
+------
+Support size frequency for gpt3-amazon
+     0 - 27.9874%
+     1 - 32.3899%
+     2 - 15.4088%
+     3 - 4.4025%
+     4 - 7.8616%
+     5+ - 11.9497%
+
+Support size frequency for gpt3-ml-amazon-fl
+     0 - 27.8146%
+     1 - 26.6225%
+     2 - 10.3311%
+     3 - 8.8742%
+     4 - 5.8278%
+     5+ - 20.5298%
+
+Support size frequency for gpt3-ml-amazon-ll
+     0 - 31.8885%
+     1 - 32.1981%
+     2 - 10.5263%
+     3 - 7.1207%
+     4 - 4.9536%
+     5+ - 13.3127%
+
+Support size frequency for qfsumm-amazon
+     0 - 9.5076%
+     1 - 51.6129%
+     2 - 13.2428%
+     3 - 7.1307%
+     4 - 5.7725%
+     5+ - 12.7334%
+
+Support size frequency for qfsumm-gpt3-amazon
+     0 - 27.5542%
+     1 - 34.6749%
+     2 - 11.7647%
+     3 - 6.5015%
+     4 - 5.2632%
+     5+ - 14.2415%
+
+Support size frequency for fewsum-amazon
+     0 - 52.78%
+     1 - 18.89%
+     2 - 8.89%
+     3 - 8.33%
+     4 - 4.17%
+     5+ - 6.94%
+
+Yelp
+----
+Support size frequency for gpt3-yelp
+     0 - 27.1930%
+     1 - 24.2690%
+     2 - 12.8655%
+     3 - 11.6959%
+     4 - 4.6784%
+     5+ - 19.2982%
+
+Support size frequency for gpt3-ml-yelp-fl
+     0 - 24.3880%
+     1 - 25.5666%
+     2 - 13.0553%
+     3 - 7.2529%
+     4 - 6.4370%
+     5+ - 23.3001%
+
+Support size frequency for gpt3-ml-yelp-ll
+     0 - 26.2537%
+     1 - 28.3186%
+     2 - 15.0442%
+     3 - 6.4897%
+     4 - 4.7198%
+     5+ - 19.1740%
+
+Support size frequency for qfsumm-yelp
+     0 - 8.3333%
+     1 - 46.1667%
+     2 - 16.8333%
+     3 - 9.5000%
+     4 - 5.0000%
+     5+ - 14.1667%
+
+Support size frequency for qfsumm-gpt3-yelp
+     0 - 30.6358%
+     1 - 30.3468%
+     2 - 14.1618%
+     3 - 9.2486%
+     4 - 4.0462%
+     5+ - 11.5607%
+
+Support size frequency for fewsum-yelp
+     0 - 76.9231%
+     1 - 11.1888%
+     2 - 5.3613%
+     3 - 1.8648%
+     4 - 1.1655%
+     5+ - 3.4965%

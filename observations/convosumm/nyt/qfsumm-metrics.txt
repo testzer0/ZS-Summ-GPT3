@@ -1,0 +1,99 @@
+***** Example 1 *****
+W.R.T the comments, QFSumm's summaries have
+   Rouge-1 0.08517887563884156
+   Rouge-L 0.07268597387847814
+   BERTScore 0.8738312125205994
+W.R.T the golden review, QFSumm's summaries have
+   Rouge-1 0.2608695652173913
+   Rouge-L 0.1366459627329193
+   BERTScore 0.8292051553726196
+***** Example 2 *****
+W.R.T the comments, QFSumm's summaries have
+   Rouge-1 0.0558055805580558
+   Rouge-L 0.050405040504050404
+   BERTScore 0.8667972683906555
+W.R.T the golden review, QFSumm's summaries have
+   Rouge-1 0.15492957746478875
+   Rouge-L 0.09859154929577466
+   BERTScore 0.8144509792327881
+***** Example 3 *****
+W.R.T the comments, QFSumm's summaries have
+   Rouge-1 0.2175732217573222
+   Rouge-L 0.16736401673640167
+   BERTScore 0.884175717830658
+W.R.T the golden review, QFSumm's summaries have
+   Rouge-1 0.28070175438596495
+   Rouge-L 0.11695906432748537
+   BERTScore 0.831390917301178
+***** Example 4 *****
+W.R.T the comments, QFSumm's summaries have
+   Rouge-1 0.11738148984198646
+   Rouge-L 0.11738148984198646
+   BERTScore 0.8668339848518372
+W.R.T the golden review, QFSumm's summaries have
+   Rouge-1 0.18803418803418803
+   Rouge-L 0.10256410256410257
+   BERTScore 0.8297321200370789
+***** Example 5 *****
+W.R.T the comments, QFSumm's summaries have
+   Rouge-1 0.0
+   Rouge-L 0
+   BERTScore 0.0
+W.R.T the golden review, QFSumm's summaries have
+   Rouge-1 0.0
+   Rouge-L 0
+   BERTScore 0.0
+***** Example 6 *****
+W.R.T the comments, QFSumm's summaries have
+   Rouge-1 0.09849849849849851
+   Rouge-L 0.07447447447447447
+   BERTScore 0.8743476867675781
+W.R.T the golden review, QFSumm's summaries have
+   Rouge-1 0.18791946308724833
+   Rouge-L 0.10738255033557047
+   BERTScore 0.8244410753250122
+***** Example 7 *****
+W.R.T the comments, QFSumm's summaries have
+   Rouge-1 0.06533575317604355
+   Rouge-L 0.06412583182093164
+   BERTScore 0.8689090013504028
+W.R.T the golden review, QFSumm's summaries have
+   Rouge-1 0.304
+   Rouge-L 0.15999999999999998
+   BERTScore 0.8259413838386536
+***** Example 8 *****
+W.R.T the comments, QFSumm's summaries have
+   Rouge-1 0.10421052631578948
+   Rouge-L 0.0863157894736842
+   BERTScore 0.8797590136528015
+W.R.T the golden review, QFSumm's summaries have
+   Rouge-1 0.2375
+   Rouge-L 0.125
+   BERTScore 0.8247866630554199
+***** Example 9 *****
+W.R.T the comments, QFSumm's summaries have
+   Rouge-1 0.07045009784735813
+   Rouge-L 0.057729941291585124
+   BERTScore 0.8804381489753723
+W.R.T the golden review, QFSumm's summaries have
+   Rouge-1 0.2981366459627329
+   Rouge-L 0.12422360248447205
+   BERTScore 0.8549959063529968
+***** Example 10 *****
+W.R.T the comments, QFSumm's summaries have
+   Rouge-1 0.0
+   Rouge-L 0
+   BERTScore 0.0
+W.R.T the golden review, QFSumm's summaries have
+   Rouge-1 0.0
+   Rouge-L 0
+   BERTScore 0.0
+***** Average Metrics *****
+W.R.T the comments, QFSumm's summaries have
+   Rouge-1 0.08144340436338957
+   Rouge-L 0.06904825580215922
+   BERTScore 0.6995092034339905
+W.R.T the golden review, QFSumm's summaries have
+   Rouge-1 0.19120911941523144
+   Rouge-L 0.09713668317403244
+   BERTScore 0.6634944081306458

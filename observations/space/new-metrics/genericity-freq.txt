@@ -1,0 +1,9 @@
+# Stopwords are removed, then for each word the fraction of sentences in (union of all summaries)
+# is found that contain that word - these values are averaged.
+
+tcg  :  0.22629586875236643
+tqg  :  0.22934005359532855
+qg  :  0.2330331241862759
+acesum  :  0.26960190711499943
+qfsumm  :  0.15300594519080116
+rg  :  0.22834168668401744

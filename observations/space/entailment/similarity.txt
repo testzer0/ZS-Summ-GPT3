@@ -1,0 +1,15 @@
+For each eid pair and aspect (e1, e2, a) calculate the entailment score of each sentence
+of (e2, a) w.r.t each sentence of (e1, a) - take max for each sentence of e2, then average
+the scores to get a value for (e1, e2, a). Average this across all (e1,e2) pairs and aspects a.
+
+GPT-3 : -0.1070882171466027 (7.5650118203309695% scores greater than 0.5)
+QFSumm (clusters) + GPT-3 : -0.053723082807328966 (3.680555555555556% scores 
+greater than 0.5)
+QFSumm (noclusters) + GPT-3 : -0.06430166062854584 (5.718954248366013% scores 
+greater than 0.5)
+QFSumm (clusters) : -0.11217844770969264 (1.5873015873015872% 
+scores greater than 0.5)
+QFSumm (noclusters) : -0.07326627729119758 (0.6633499170812603% scores greater than 0.5)
+Review Stratified : -0.02378829839052978 (8.159722222222223% scores greater than 0.5)
+AceSum : 0.03246898197833402 (10.917874396135266% scores greater than 0.5)
+GPT-3 (Pure) : -0.06162897201231968 (6.933333333333333% scores greater than 0.5)

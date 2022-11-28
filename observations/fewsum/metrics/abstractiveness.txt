@@ -1,0 +1,63 @@
+Amazon
+------
+gpt3-amazon
+     3-gram: 93.1407%
+     4-gram: 97.5427%
+     5-gram: 98.7590%
+
+gpt3-ml-amazon-fl
+     3-gram: 91.8293%
+     4-gram: 96.3368%
+     5-gram: 98.0724%
+
+gpt3-ml-amazon-ll
+     3-gram: 91.8057%
+     4-gram: 96.2178%
+     5-gram: 97.9322%
+
+qfsumm-amazon
+     3-gram: 4.4899%
+     4-gram: 5.7409%
+     5-gram: 6.9655%
+
+qfsumm-gpt3-amazon
+     3-gram: 90.9651%
+     4-gram: 95.5138%
+     5-gram: 97.6973%
+
+fewsum-amazon
+     3-gram: 89.2463%
+     4-gram: 96.3929%
+     5-gram: 99.0380%
+
+Yelp
+----
+gpt3-yelp
+     3-gram: 94.3884%
+     4-gram: 97.9461%
+     5-gram: 99.3872%
+
+gpt3-ml-yelp-fl
+     3-gram: 92.8681%
+     4-gram: 96.5777%
+     5-gram: 97.8845%
+
+gpt3-ml-yelp-ll
+     3-gram: 93.3105%
+     4-gram: 97.0255%
+     5-gram: 98.0041%
+
+qfsumm-yelp
+     3-gram: 4.1697%
+     4-gram: 5.3559%
+     5-gram: 6.6432%
+
+qfsumm-gpt3-yelp
+     3-gram: 94.2282%
+     4-gram: 97.8552%
+     5-gram: 98.9961%
+
+fewsum-yelp
+     3-gram: 97.0822%
+     4-gram: 99.4328%
+     5-gram: 99.9167%

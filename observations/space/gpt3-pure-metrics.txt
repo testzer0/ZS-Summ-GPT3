@@ -1,0 +1,37 @@
+GPT-3 Pure:
+
+Aspect - rooms
+Average Rouge-1 score F1 is 0.33585742247988126
+Average Rouge-L score F1 is 0.23246946717088127
+Average BERT score F1 is 0.8865524530410767
+**********
+Aspect - location
+Average Rouge-1 score F1 is 0.3096352645511753
+Average Rouge-L score F1 is 0.19780750715239054
+Average BERT score F1 is 0.8808043599128723
+**********
+Aspect - service
+Average Rouge-1 score F1 is 0.3615331813225723
+Average Rouge-L score F1 is 0.25813349063673646
+Average BERT score F1 is 0.9051252603530884
+**********
+Aspect - cleanliness
+Average Rouge-1 score F1 is 0.2940658219105635
+Average Rouge-L score F1 is 0.20934583881206822
+Average BERT score F1 is 0.897526741027832
+**********
+Aspect - building
+Average Rouge-1 score F1 is 0.23426755583001216
+Average Rouge-L score F1 is 0.17036895239199654
+Average BERT score F1 is 0.8786069750785828
+**********
+Aspect - food
+Average Rouge-1 score F1 is 0.3166728081177428
+Average Rouge-L score F1 is 0.20946774682694583
+Average BERT score F1 is 0.8867427110671997
+**********
+Overall,
+Average Rouge-1 score F1 is 0.30867200903532455
+Average Rouge-L score F1 is 0.21293216716516977
+Average BERT score F1 is 0.8892263174057007
+

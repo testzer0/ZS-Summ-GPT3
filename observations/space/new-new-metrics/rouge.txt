@@ -1,0 +1,224 @@
+------------ tcg -----------
+
+ROUGE-L
+    Recall: 0.28996535714285715
+    Precision: 0.17433583333333338
+    F-score: 0.20599916666666665
+
+ROUGE-1
+    Recall: 0.35733880952380936
+    Precision: 0.1948153174603175
+    F-score: 0.234914246031746
+
+ROUGE-2
+    Recall: 0.06956273809523814
+    Precision: 0.03465896825396828
+    F-score: 0.04299638888888888
+
+------------ tqg -----------
+
+ROUGE-L
+    Recall: 0.2788292857142858
+    Precision: 0.20615138888888884
+    F-score: 0.22288904761904757
+
+ROUGE-1
+    Recall: 0.3339300793650792
+    Precision: 0.23025666666666675
+    F-score: 0.25247123015873024
+
+ROUGE-2
+    Recall: 0.06782353174603177
+    Precision: 0.046893888888888915
+    F-score: 0.05067126984126981
+
+------------ qg -----------
+
+ROUGE-L
+    Recall: 0.2652761111111112
+    Precision: 0.21786706349206333
+    F-score: 0.22094023809523802
+
+ROUGE-1
+    Recall: 0.3209042857142855
+    Precision: 0.2437952777777778
+    F-score: 0.2514748412698412
+
+ROUGE-2
+    Recall: 0.06715964285714286
+    Precision: 0.05172226190476192
+    F-score: 0.05220182539682542
+
+------------ acesum -----------
+
+ROUGE-L
+    Recall: 0.283240238095238
+    Precision: 0.36341924603174575
+    F-score: 0.30175773809523815
+
+ROUGE-1
+    Recall: 0.33187702380952383
+    Precision: 0.3579728571428569
+    F-score: 0.32438686507936504
+
+ROUGE-2
+    Recall: 0.10429904761904758
+    Precision: 0.11047579365079367
+    F-score: 0.09956261904761905
+
+------------ qfsumm -----------
+
+ROUGE-L
+    Recall: 0.2922090079365081
+    Precision: 0.12570626984126973
+    F-score: 0.16726242063492067
+
+ROUGE-1
+    Recall: 0.35580281746031744
+    Precision: 0.14234337301587296
+    F-score: 0.1921592857142857
+
+ROUGE-2
+    Recall: 0.05852170634920637
+    Precision: 0.02196190476190477
+    F-score: 0.030011388888888883
+
+------------ rg -----------
+
+ROUGE-L
+    Recall: 0.28465214285714296
+    Precision: 0.17315615079365088
+    F-score: 0.20471722222222222
+
+ROUGE-1
+    Recall: 0.3483378968253967
+    Precision: 0.18986765873015876
+    F-score: 0.2304545238095238
+
+ROUGE-2
+    Recall: 0.06899718253968257
+    Precision: 0.03591063492063494
+    F-score: 0.043929087301587295
+
+
+------------------------
+Remote ABSADataset version: 2022.09.20 Local ABSADatasets version: Aspect - rooms
+Average BERT score F1 is 0.8869951367378235
+**********
+Aspect - location
+Average BERT score F1 is 0.8906433582305908
+**********
+Aspect - service
+Average BERT score F1 is 0.8939391374588013
+**********
+Aspect - cleanliness
+Average BERT score F1 is 0.8878993988037109
+**********
+Aspect - building
+Average BERT score F1 is 0.8791006803512573
+**********
+Aspect - food
+Average BERT score F1 is 0.8812766075134277
+**********
+Overall, Average BERT score F1 is 0.886642336845398
+[For tcg]
+Aspect - rooms
+Average BERT score F1 is 0.8918029069900513
+**********
+Aspect - location
+Average BERT score F1 is 0.8939327001571655
+**********
+Aspect - service
+Average BERT score F1 is 0.8921326398849487
+**********
+Aspect - cleanliness
+Average BERT score F1 is 0.8983665704727173
+**********
+Aspect - building
+Average BERT score F1 is 0.8758909106254578
+**********
+Aspect - food
+Average BERT score F1 is 0.8883144855499268
+**********
+Overall, Average BERT score F1 is 0.8900732398033142
+[For tqg]
+Aspect - rooms
+Average BERT score F1 is 0.8913695812225342
+**********
+Aspect - location
+Average BERT score F1 is 0.8925231099128723
+**********
+Aspect - service
+Average BERT score F1 is 0.8899379968643188
+**********
+Aspect - cleanliness
+Average BERT score F1 is 0.9076829552650452
+**********
+Aspect - building
+Average BERT score F1 is 0.8801196813583374
+**********
+Aspect - food
+Average BERT score F1 is 0.8866639733314514
+**********
+Overall, Average BERT score F1 is 0.8913828730583191
+[For qg]
+Aspect - rooms
+Average BERT score F1 is 0.893069326877594
+**********
+Aspect - location
+Average BERT score F1 is 0.8954042792320251
+**********
+Aspect - service
+Average BERT score F1 is 0.9132811427116394
+**********
+Aspect - cleanliness
+Average BERT score F1 is 0.914184033870697
+**********
+Aspect - building
+Average BERT score F1 is 0.8844619989395142
+**********
+Aspect - food
+Average BERT score F1 is 0.8903411030769348
+**********
+Overall, Average BERT score F1 is 0.8984567523002625
+[For acesum]
+Aspect - rooms
+Average BERT score F1 is 0.8549405336380005
+**********
+Aspect - location
+Average BERT score F1 is 0.857075035572052
+**********
+Aspect - service
+Average BERT score F1 is 0.8575454950332642
+**********
+Aspect - cleanliness
+Average BERT score F1 is 0.8535955548286438
+**********
+Aspect - building
+Average BERT score F1 is 0.8512710332870483
+**********
+Aspect - food
+Average BERT score F1 is 0.8473761677742004
+**********
+Overall, Average BERT score F1 is 0.8536339998245239
+[For qfsumm]
+Aspect - rooms
+Average BERT score F1 is 0.8843501806259155
+**********
+Aspect - location
+Average BERT score F1 is 0.8863427042961121
+**********
+Aspect - service
+Average BERT score F1 is 0.8870767951011658
+**********
+Aspect - cleanliness
+Average BERT score F1 is 0.8915375471115112
+**********
+Aspect - building
+Average BERT score F1 is 0.8776162266731262
+**********
+Aspect - food
+Average BERT score F1 is 0.8832112550735474
+**********
+Overall, Average BERT score F1 is 0.8850222826004028
+[For rg]

@@ -1,0 +1,23 @@
+# Log-IDF computed where the IDF set consists of all statements of all summaries.
+# Then the average of Log-IDF is computed (i.e. TF-IDF) for each sentence
+# This is further averaged per-system.
+
+# Specifically, IDF = log(N/(1+df))
+# If a word occurs very few times in other documents, this score will be high
+# I.e. low score = high repetitiveness
+
+tcg  :  54.38095238095238
+tqg  :  44.67460317460318
+qg  :  41.07142857142857
+acesum  :  25.46031746031746
+qfsumm  :  71.8015873015873
+rg  :  54.26587301587302
+
+
+------- new ----------
+tcg  :  8.40440527425242
+tqg  :  7.8194929974440015
+qg  :  6.927723784179444
+acesum  :  5.769633022065351
+qfsumm  :  11.996250100628297
+rg  :  8.872918139919271

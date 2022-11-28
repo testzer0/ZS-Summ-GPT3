@@ -1,0 +1,64 @@
+I was checking if some keyword extraction method/topic prediction model faster than GPT-3
+could be used for collating similar statements.
+
+Format: extracted-keyword (aspect-closest-to-keyword) : statement
+
+Ojas' paper uses TF-IDF:
+"
+For each document in CNN/DM, we calculate the most important tokens in that document 
+ according to their TF-IDF ranking with respect to the entire corpus. Of these tokens,
+ we select the ones that are present in the reference summary. This process selects 
+ tokens that are more likely to be consequential in affecting the output summary.
+"
+This often picks nouns like the Hotel name or the Country due to high IDF. Besides, words
+like "room" are very common in reviews so are given low weights.
+Selecting tokens that are in the reference summary is skipped.
+
+I tried KeyBERT (https://github.com/MaartenGr/KeyBERT).
+
+Observations:
+1) Generic words like "hotel" are often picked up as keywords. That's not wrong,
+just useless in this aspect. Example:
+- hotel (rooms) : Staff were friendly enough nice,modern,clean, and spacious room 
+-  the only falt was that the rooms were very dark ther were only spotlights that were 
+-  extremely dull but overall we enjoyed our stay and would definetly recommend this hotel 
+-  as the location is great :) 
+
+2) Keywords are often not representative-
+rome (none) : The staff can speak English well and loves to provide us useful information about Rome.
+walk (none) : The nice staff suggested us to visit the colosseo by walk and showed us how to get there.
+
+
+-----------
+Here are some reference GPT-3 assignments of topics to sentences (4-shot):
+hotel (rooms) : We found the Doubletree to be good for what we needed- a place to 
+ stay when our plane arrived late and we didn't want to start driving anywhere 
+ until the next day.
+airport (location) : The airport shuttle was very good- better than other hotels 
+ I have stayed in.
+fountains (cleanliness) : It seemed to ALWAYS be running, and was very convenient.
+airport (location) : We took the shuttle from the airport, and then back again to 
+ pick up our rental car (save the parking fee).
+hotel (rooms) : The hotel was fine- a big hotel by the airport.
+things (none) : I didn't expect much, but some things were better than average.
+view (location) : The view we had was of some large trees and some people's backyards- 
+ better than the parking lot for us (but I wouldn't want to live there!).
+cookies (food) : The cookies are, of course, one of our favorite things about the 
+ Doubletree chain.
+business (service) : If I had been wanting to stay for more than one night, be close 
+ to anything interesting (other than the artificially created world of SEATAC), or 
+ wanted to get some business done, this would not have been the best hotel.
+airport (location) : But it is fine for what it is- a quick, convenient, comfortable stay 
+ by the airport.
+conventions (none) : One thing to think about- this hotel is used by a lot of conventions.
+agents (none) : When we were there, there were a bunch of real estate agents who were 
+ getting a bit rowdy.
+noise (none) : We couldn't hear them in our room (thankfully), but they were pretty loud 
+ throughout the hotel.
+hotel (rooms) : The hotel is big and busy, so it always feels like there is some 
+ commotion going on in the common areas.
+booking (location) : We did book directly on the Hilton chain website and got a rate of about $89.
+reviews (none) : It looks from other reviews here like you may be able to do better on 
+ Priceline if you don't want your Hilton points.
+
+They are better, but not super good.
