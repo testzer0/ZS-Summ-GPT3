@@ -1,0 +1,86 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.7527702450752258
+
+**********
+
+[0.9844324588775635] The food at the hotel was good.
+Parent: Overall, the food at the hotel was good, with people finding it better than expected in some cases.
+
+----- Supporting -----
+
+[0.9844324588775635] We tried the hotel restaurants and the food was quite good.
+[0.9325284957885742] The restaurant also had good food (we were given a $10 per person coupon to use in the restaurant from the hotel).
+[0.8807640075683594] Pros: - cookies upon check-in - one of my favorite things about the Doubletrees - complimentary airport shuttle every 15 mins - nice pools, rooms are very comfortable with excellent beds and Neutrogena toiletries and Wolfgang Puck coffee - nice food selection in hotel Cons: - parking is expensive - $16/night.
+[0.790252685546875] The hotel restaurant was nice enough, but again, bland; the food was nicely presented but had no taste.
+[0.7448253631591797] Lovely spacious Doubletree, with gift shop and a very good restaurant inside it.
+
+----- Weakening -----
+
+[-0.92108154296875] The not so good news - food at the hotel was OK.
+[-0.6408252716064453] I could not recommend this hotel.
+[-0.58966064453125] The diner next door was good -- I think it's 'Dave's Diner'.
+[-0.5868797302246094] Coffee shop service was horrible.
+[-0.5829963684082031] Strange for such a large hotel not to have a restaurant or two.
+
+**********
+
+[0.09819984436035156] The food at the hotel was better than expected.
+Parent: Overall, the food at the hotel was good, with people finding it better than expected in some cases.
+
+----- Supporting -----
+
+[0.09819984436035156] We were pretty late 9.54pm but managed to get a decent meal in the bar, I will happily come back to this doubletrees.
+[0.06448173522949219] They never seem to slap my hand if I grab 2 or 3...recommendation goes to this hotel over others!
+[0.05952644348144531] We ordered clam chowder from the menu - much better than I expected - and finished off fruit from Pike Place Market.
+[0.04754638671875] The rooms are relatively spacious, our kids love the pool, and the breakfast buffet isn't a bad deal for what you get.
+[0.03522300720214844] The restaurant also had good food (we were given a $10 per person coupon to use in the restaurant from the hotel).
+
+----- Weakening -----
+
+[-0.8086919784545898] What I found was rather run down and shabby.
+[-0.8074989318847656] --Restaurant staff seemed to be overwhelmed during breakfast, so they fell behind a bit.
+[-0.7546062469482422] We ordered food and received ice cold food one hour later.
+[-0.7455463409423828] Strange for such a large hotel not to have a restaurant or two.
+[-0.7315406799316406] Coffee shop service was horrible.
+
+**********
+
+[0.9603538513183594] The rooms were smelly.
+Parent: There were a few complaints about the smell in the room, but on the whole the food was good.
+
+----- Supporting -----
+
+[0.9603538513183594] The crappy wings are old and the rooms smell musty.
+[0.865936279296875] The wing hallways had a damp smell.
+[0.8614692687988281] Anyway, I requested a non-smoking room but the floor smelled like the stench of smoke.
+[0.758392333984375] The room was like staying in a basement, an old and mildew smell.
+[0.63043212890625] The shuttle was hot and smelly again and people were mad.
+
+----- Weakening -----
+
+[-0.9921541213989258] The beds were comfortable and the room was very clean.
+[-0.9916582107543945] The bed was very nice, room was clean, we even had a balcony.
+[-0.9906339645385742] Room was enormous, with balcony and was spotlessly clean.
+[-0.9901561737060547] The room was very clean and comfortable.
+[-0.9892950057983398] The rooms were very clean and the staff was very nice.
+
+**********
+
+[0.9680948257446289] The food was good.
+Parent: There were a few complaints about the smell in the room, but on the whole the food was good.
+
+----- Supporting -----
+
+[0.9680948257446289] The food was good although a bit pricey.
+[0.9598751068115234] Food was good, but a bit overpriced.
+[0.9490771293640137] We had dinner in the attached restaurant, and the food was absolutely delicious.
+[0.9436769485473633] Restaurant food was excellent and reasonably priced and breakfast was good.
+[0.9420289993286133] The food was decent as was the wine selection.
+
+----- Weakening -----
+
+[-0.9760665893554688] Food was very expensive in restaurant and just okay.
+[-0.877227783203125] The not so good news - food at the hotel was OK.
+[-0.79388427734375] We ate at both the lounge and the cafe and food was average at best, but the service VERY GOOD!
+[-0.7062530517578125] VERY average burger.
+[-0.6980037689208984] What I found was rather run down and shabby.

@@ -1,0 +1,401 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.7629683896114952
+
+**********
+
+[0.9392604827880859] The buildings are old.
+Parent: The buildings are old and need to be updated.
+
+----- Supporting -----
+
+[0.9392604827880859] All 3 bldgs are old and need to be updated.. not with paint either...i mean gutted & refinished completely.
+[0.7563076019287109] This is a sprawling place but it is beginning to show its age.
+[0.7134628295898438] As for the hotel itself, it is old and outdated.
+[0.6977119445800781] The problems we saw were - hotel is older and needs help.
+[0.6584930419921875] On the downside, the rooms & common areas were quite outdated and in need of some repair.
+
+----- Weakening -----
+
+[-0.9902515411376953] You can see the new renovation and it is very nice.
+[-0.9752902984619141] and there new beds are awsome they are very comfortable.
+[-0.9661178588867188] I was told the place had been remodeled, I guess they meant new paint which is all dark colors and new carpet.
+[-0.9458808898925781] the beds are so fresh and smell good.so close to sleeping in my own beds.
+[-0.8471565246582031] You could definitly tell that they put some time and money into the renovation.
+
+**********
+
+[0.8433208465576172] The buildings are outdated.
+Parent: The buildings are old and need to be updated.
+
+----- Supporting -----
+
+[0.8433208465576172] All 3 bldgs are old and need to be updated.. not with paint either...i mean gutted & refinished completely.
+[0.7103424072265625] As for the hotel itself, it is old and outdated.
+[0.700653076171875] On the downside, the rooms & common areas were quite outdated and in need of some repair.
+[0.700653076171875] On the downside, the rooms & common areas were quite outdated and in need of some repair.
+[0.6679611206054688] This hotel is outdated.
+
+----- Weakening -----
+
+[-0.9906582832336426] You can see the new renovation and it is very nice.
+[-0.9879379272460938] Everything was clean and worked properly.
+[-0.9874496459960938] The landscape is lovely and the buildings are well kept and clean.
+[-0.9814438819885254] Everything was great---Front desk people were friendly and was always willing to help in anyway...Rooms were clean and fresh..Breakfast was good and good music to listen too....I would rate this hotel and one of the best Branson has to offer.
+[-0.980111837387085] They were clean and the furnishing were very nice.
+
+**********
+
+[0.9837560653686523] The fire alarms are disabled.
+Parent: The fire alarms are disabled throughout the entire hotel.
+
+----- Supporting -----
+
+[0.9837560653686523] The fire alarms were all disabled throughout the entire hotel.
+[0.0] !
+[0.0] love them.
+[0.0] very nice.
+[0.0] and small.
+
+----- Weakening -----
+
+[-0.8990077972412109] The staff keeps everything full and clean.
+[-0.8499088287353516] Stay away at all costs.
+[-0.7689208984375] Beware of The Stome Castle and the desk girl named Joy, they are a joke.
+[-0.7663040161132812] I highly recommend the Cascade.
+[-0.7355194091796875] and used the coupons.
+
+**********
+
+[0.9348506927490234] The fire alarms are not working.
+Parent: The fire alarms are disabled throughout the entire hotel.
+
+----- Supporting -----
+
+[0.9348506927490234] The fire alarms were all disabled throughout the entire hotel.
+[0.0255126953125] Once inside the hotel it smelled so musty I opened the window in my room to discover it didn't even lock (we had a main floor room, so window locks are a MUST) Husband went to the front desk to complain, maintenance man was able to fix it after at least 45 minute wait.
+[0.0] !
+[0.0] love them.
+[0.0] very nice.
+
+----- Weakening -----
+
+[-0.9226951599121094] Every requests is handled quickly and efficiently.
+[-0.90008544921875] We called the front desk to report that our air conditioning was not working.
+[-0.8732795715332031] The wireless internet did not work and we were basically told - "Sorry" and they couldn't do anything about it.
+[-0.8622245788574219] The staff keeps everything full and clean.
+[-0.83782958984375] The air conditioning in the buildings did not work properly.
+
+**********
+
+[0.9852638244628906] The walls are thin.
+Parent: The walls are paper thin.
+
+----- Supporting -----
+
+[0.9852638244628906] The walls are paper thin.
+[0.0296630859375] The rooms seem small, tight fit for a family of 4.
+[0.0283203125] I don't mind paying more money for a nice place to stay but when the motel is in the shape of the Stone Castle Motel, I would not reccommend it to anyone.
+[0.01956939697265625] Seems to me the constructors of this building were not playing with a full deck.
+[0.01691436767578125] At 11pm I contacted the Holiday Inn Express on Green Mountian Drive and Josh gave me a great rate to help compensate the poor quality of the Stone Castle.
+
+----- Weakening -----
+
+[-0.8928413391113281] We stayed in one of the regular rooms and toured the themed rooms ($50.00) more a night, I'm glad we did not pay extra for a room that was the same as ours except for murals on the walls and an old whirlpool tub, would never recommend a themed room.
+[-0.773773193359375] The staff keeps everything full and clean.
+[-0.7703399658203125] the rooms are so clean.
+[-0.751861572265625] The breakfast is great!
+[-0.7405319213867188] Nice TV; free WiFi.
+
+**********
+
+[0.8764991760253906] The building was in poor condition.
+Parent: The building was in poor condition and smelled bad.
+
+----- Supporting -----
+
+[0.8764991760253906] At 11pm I contacted the Holiday Inn Express on Green Mountian Drive and Josh gave me a great rate to help compensate the poor quality of the Stone Castle.
+[0.7806720733642578] The hotel just did not seem clean at all.
+[0.7782421112060547] We would never go back to this property again, because of the condition of the property, and the bad oders.
+[0.6239585876464844] The air conditioning in the buildings did not work properly.
+[0.6233806610107422] The carpet was old and the building had a musty smell to it.
+
+----- Weakening -----
+
+[-0.9971566200256348] The room was very clean and decorated very nicely.
+[-0.9957268238067627] They were clean and the furnishing were very nice.
+[-0.9956803321838379] Everything was clean and worked properly.
+[-0.9956026077270508] Rooms and halls were clean and neat.
+[-0.9955596923828125] Everything was great---Front desk people were friendly and was always willing to help in anyway...Rooms were clean and fresh..Breakfast was good and good music to listen too....I would rate this hotel and one of the best Branson has to offer.
+
+**********
+
+[0.9650535583496094] The building had a bad smell.
+Parent: The building was in poor condition and smelled bad.
+
+----- Supporting -----
+
+[0.9650535583496094] However, when we went into the building....the musty odor was horrible, the lobby area was humid as if the air conditioning wasn't on, the elevator smelled musty.
+[0.9452238082885742] The carpet was old and the building had a musty smell to it.
+[0.942901611328125] The room was like being in a cave with a bad smell.
+[0.92822265625] The hotel had a very musty smell as soon as you entered.
+[0.8997001647949219] Management should really address the musty smell of the hotel.
+
+----- Weakening -----
+
+[-0.990973949432373] It's in a very quiet part of Branson, the rooms are super clean, the staff is very helpful and they have a great hot breakfast.
+[-0.9898381233215332] the beds are so fresh and smell good.so close to sleeping in my own beds.
+[-0.9873676300048828] The facility was clean.
+[-0.9872021675109863] The room was nice and clean and the hotel staff was wonderful.
+[-0.9866523742675781] The hotel in all is very clean and the standard rooms are very spacious.
+
+**********
+
+[0.6237335205078125] The water was contaminated with bugs.
+Parent: There were also bugs in the water.
+
+----- Supporting -----
+
+[0.6237335205078125] There were dead bugs floating in the water, a hole in the wall under the window, a piece of wood holding a slide glass door open, chains on other doors that said "this entrance is in need of repairs, sorry for any inconvenience" or something to that affect.
+[0.001529693603515625] The beds were very very nasty.
+[0.0] !
+[0.0] love them.
+[0.0] very nice.
+
+----- Weakening -----
+
+[-0.9477434158325195] They have scrambled eggs, biscuits and gravy, waffles, hot and cold cereal, and even donuts!
+[-0.9450874328613281] The free breakfast buffet in the morning was delicious and had a good variety.
+[-0.9412307739257812] The breakfast buffet they provide has hot food (eggs, sausage, french toast sticks, biscuits and gravy) along with your typical hotel breakfast food.
+[-0.9397172927856445] There was a gorgeous painting on the wall, the lovely arch made me feel like a real Geneviere of Camelot.
+[-0.9382047653198242] The breakfast offered cereal, doughnuts, toast, eggs, biscuits and gravy, fresh waffles, fruit, juices, milk and coffee.
+
+**********
+
+[0.9665117263793945] The building is well-maintained.
+Parent: The building is well maintained, but the doors have trouble locking.
+
+----- Supporting -----
+
+[0.9665117263793945] The landscape is lovely and the buildings are well kept and clean.
+[0.7200736999511719] The facility was clean.
+[0.6807823181152344] The rooms are well maintained, clean, and spacious.
+[0.6129684448242188] The exterior is very well maintained.
+[0.5946521759033203] The hotel in all is very clean and the standard rooms are very spacious.
+
+----- Weakening -----
+
+[-0.9922881126403809] This hotel is outdated.
+[-0.990147590637207] As for the hotel itself, it is old and outdated.
+[-0.9896764755249023] Stay for convention...place was filthy....nothing was clean.
+[-0.9893894195556641] The air conditioning in the buildings did not work properly.
+[-0.9865684509277344] The problems we saw were - hotel is older and needs help.
+
+**********
+
+[0.9462575912475586] The building doors do not lock properly.
+Parent: The building is well maintained, but the doors have trouble locking.
+
+----- Supporting -----
+
+[0.9462575912475586] The exterior doors had problems locking.
+[0.643829345703125] Once inside the hotel it smelled so musty I opened the window in my room to discover it didn't even lock (we had a main floor room, so window locks are a MUST) Husband went to the front desk to complain, maintenance man was able to fix it after at least 45 minute wait.
+[0.5585861206054688] 2 people in my group had door locks that would not work properly on their rooms.
+[0.3930625915527344] We had a balcony that had a door that wouldn't lock.
+[0.37670135498046875] There were dead bugs floating in the water, a hole in the wall under the window, a piece of wood holding a slide glass door open, chains on other doors that said "this entrance is in need of repairs, sorry for any inconvenience" or something to that affect.
+
+----- Weakening -----
+
+[-0.9394073486328125] The bathroom door locks when you turn the lock left and then it locks again if you turn it very far to the right.
+[-0.6820640563964844] Every requests is handled quickly and efficiently.
+[-0.6552915573120117] The staff keeps everything full and clean.
+[-0.5713691711425781] Everything was clean and worked properly.
+[-0.5304813385009766] From check in to check out, everything was great.
+
+**********
+
+[0.2943572998046875] The furniture is insufficient.
+Parent: The furniture is sparse and not very comfortable.
+
+----- Supporting -----
+
+[0.2943572998046875] The beds were poorly made.
+[0.129486083984375] Flat screen TV with lots of channels, but no fridge or microwave.
+[0.10791015625] Rooms were nice in decor but there was dirt under the beds, TV was tiny, wireless internet was horrible, room was very small, pool and hot tub were tiny and full of rowdy kids with no one enforcing the rules of no jumping or horseplay, could not enjoy it at all.
+[0.10675048828125] Downfall no mini fridge or microwave.
+[0.050872802734375] The blanket on the bed looked to be about 20 years old and pilling and I didn't feel comfortable using it.
+
+----- Weakening -----
+
+[-0.9917140007019043] the characteristic of the furniture and art in the room was excellent.
+[-0.9912753105163574] We got to the room, looked good, nice furnishings.
+[-0.9895186424255371] The beds were fine, and the decor was very nice.
+[-0.9873905181884766] The rooms were clean and had nice furnishings.
+[-0.9866180419921875] at the stone castle hotel it is highly a must to see and stay at,from its three castles and two indoor heated pools and two spas it also is equipt with a family arcade,gift shop,laundry and a hot deliciuos breakfast each morning and if thats not enough it also has for your convience high speed internet and a computer for your use in the lobby.the rooms are newly remolded with pillow top beds,table and chairs,restroom etc needs,ironing board and iron,and a blow dryer.the tvs are meduim size and cable tv.this hotel is right smack in the heart of branson.
+
+**********
+
+[0.4528656005859375] The furniture is not comfortable.
+Parent: The furniture is sparse and not very comfortable.
+
+----- Supporting -----
+
+[0.4528656005859375] The beds were very very nasty.
+[0.318389892578125] The bedding felt nasty and we found hair.
+[0.2613983154296875] Rooms were nice in decor but there was dirt under the beds, TV was tiny, wireless internet was horrible, room was very small, pool and hot tub were tiny and full of rowdy kids with no one enforcing the rules of no jumping or horseplay, could not enjoy it at all.
+[0.23954010009765625] The blanket on the bed looked to be about 20 years old and pilling and I didn't feel comfortable using it.
+[0.1684417724609375] The beds not your average "hotel" beds.
+
+----- Weakening -----
+
+[-0.9930534362792969] A very nice room, lovely decorations, and amazingly comfortable beds.
+[-0.9911584854125977] The group just raves over the super comfy beds and overall cleanliness of everything.
+[-0.9893150329589844] The beds were very comfortable.
+[-0.9893150329589844] The beds were very comfortable.
+[-0.9890165328979492] The room was beautiful and the beds were some of the most comfortable beds I had ever slept in.
+
+**********
+
+[0.04119873046875] The iron is broken.
+Parent: The iron is broken and sprays rust water.
+
+----- Supporting -----
+
+[0.04119873046875] I used the iron and when I pressed the steam button rusty water sprayed all over the shirt I was ironing.
+[0.0] !
+[0.0] love them.
+[0.0] very nice.
+[0.0] and small.
+
+----- Weakening -----
+
+[-0.9621200561523438] Every requests is handled quickly and efficiently.
+[-0.9569034576416016] Check is was smooth, no problems at all.
+[-0.9521522521972656] He appreciated the staff that continuously kept everything filled and fresh.
+[-0.9375896453857422] Excellent guest service.
+[-0.9332199096679688] Check in was great.
+
+**********
+
+[0.89776611328125] The iron sprays rust water.
+Parent: The iron is broken and sprays rust water.
+
+----- Supporting -----
+
+[0.89776611328125] I used the iron and when I pressed the steam button rusty water sprayed all over the shirt I was ironing.
+[0.0] !
+[0.0] love them.
+[0.0] very nice.
+[0.0] and small.
+
+----- Weakening -----
+
+[-0.9808788299560547] The atmosphere was nice and friendly.
+[-0.9750690460205078] He appreciated the staff that continuously kept everything filled and fresh.
+[-0.9659843444824219] They have scrambled eggs, biscuits and gravy, waffles, hot and cold cereal, and even donuts!
+[-0.9640655517578125] Good breakfast and a/c good.
+[-0.9635734558105469] Very warm, cozy, and comfortable rooms.
+
+**********
+
+[0.8557205200195312] The reviews were positive.
+Parent: The reviews were mostly positive, with guests enjoying the new renovations and the cleanliness of the buildings.
+
+----- Supporting -----
+
+[0.8557205200195312] Overall, we were very pleased with our stay at the Stone Castle and would definitely stay there again, especiall for the great rate that we got!
+[0.8093643188476562] The positive things about the hotel: Pretty landscaping, the beds are comfortable, the rooms are cool - air conditioner works well, the eating area for the continental breakfast is very large and roomy, great location - walking distance to many attractions and quiet area.
+[0.7380752563476562] No complaints on the staff, they were helpfull and nice.
+[0.610443115234375] At 11pm I contacted the Holiday Inn Express on Green Mountian Drive and Josh gave me a great rate to help compensate the poor quality of the Stone Castle.
+[0.6073379516601562] Upon booking this hotel with ReserveBranson.com I checked tripadvisor and most reviews said good things.!
+
+----- Weakening -----
+
+[-0.9973640441894531] We got bad reception and approx 15 channels - most of which were news or informational.
+[-0.9971332550048828] I was very leery staying at this hotel after all reviewing a lot of negative reviews.
+[-0.9970493316650391] I have read the negative reviews and frankly am quite surprised by them.
+[-0.9961628913879395] There were some bad reviews too.
+[-0.9954333305358887] It was a very dissapointing place to stay ~ NEVER again
+
+**********
+
+[0.10724639892578125] The guests liked the new renovations.
+Parent: The reviews were mostly positive, with guests enjoying the new renovations and the cleanliness of the buildings.
+
+----- Supporting -----
+
+[0.10724639892578125] and there new beds are awsome they are very comfortable.
+[0.03344154357910156] You can see the new renovation and it is very nice.
+[0.014554977416992188] the beds are so fresh and smell good.so close to sleeping in my own beds.
+[0.011493682861328125] at the stone castle hotel it is highly a must to see and stay at,from its three castles and two indoor heated pools and two spas it also is equipt with a family arcade,gift shop,laundry and a hot deliciuos breakfast each morning and if thats not enough it also has for your convience high speed internet and a computer for your use in the lobby.the rooms are newly remolded with pillow top beds,table and chairs,restroom etc needs,ironing board and iron,and a blow dryer.the tvs are meduim size and cable tv.this hotel is right smack in the heart of branson.
+[0.009005546569824219] Our stay at the Settle Inn newly renamed to Stone Castle Hotel & Conference Center was great.
+
+----- Weakening -----
+
+[-0.9517083168029785] It should be condemned.
+[-0.9348917007446289] We would never go back to this property again, because of the condition of the property, and the bad oders.
+[-0.9326291084289551] Stay for convention...place was filthy....nothing was clean.
+[-0.9263725280761719] I have read the negative reviews and frankly am quite surprised by them.
+[-0.9133930206298828] The room was filthy and disgusting!
+
+**********
+
+[0.8678312301635742] The guests thought the buildings were clean.
+Parent: The reviews were mostly positive, with guests enjoying the new renovations and the cleanliness of the buildings.
+
+----- Supporting -----
+
+[0.8678312301635742] The group just raves over the super comfy beds and overall cleanliness of everything.
+[0.6677341461181641] The rooms were clean, the beds were comfortable, the staff was professional and friendly and the conference rooms were perfect for our group.
+[0.6233692169189453] Everything was great---Front desk people were friendly and was always willing to help in anyway...Rooms were clean and fresh..Breakfast was good and good music to listen too....I would rate this hotel and one of the best Branson has to offer.
+[0.6018466949462891] However, the rooms were clean enough, breakfast was fairly good and we enjoyed the location off the main strip.
+[0.4822502136230469] The entire complex is non-smoking, which is a real plus for us…..Bottom Line….would we go back…You Bet!
+
+----- Weakening -----
+
+[-0.986638069152832] The room was filthy and disgusting!
+[-0.9865665435791016] However, when we went into the building....the musty odor was horrible, the lobby area was humid as if the air conditioning wasn't on, the elevator smelled musty.
+[-0.9861640930175781] The room smelled musty when we first walked in.
+[-0.9854621887207031] The room was like being in a cave with a bad smell.
+[-0.9843311309814453] The beds were very very nasty.
+
+**********
+
+[0.9211273193359375] The hotel has two buildings with indoor pools.
+Parent: Some guests noted that there are two buildings with indoor pools, and the main building has a conference room and breakfast area.
+
+----- Supporting -----
+
+[0.9211273193359375] at the stone castle hotel it is highly a must to see and stay at,from its three castles and two indoor heated pools and two spas it also is equipt with a family arcade,gift shop,laundry and a hot deliciuos breakfast each morning and if thats not enough it also has for your convience high speed internet and a computer for your use in the lobby.the rooms are newly remolded with pillow top beds,table and chairs,restroom etc needs,ironing board and iron,and a blow dryer.the tvs are meduim size and cable tv.this hotel is right smack in the heart of branson.
+[0.389129638671875] Two buildings have indoor pools whereas the main building has the conference room/ breakfast area.
+[0.1156005859375] (The main building has the dining area, the other two has the pools.)
+[0.10356903076171875] Later on that night we went back to the 1st pool room the pool was warm and the hot tub was warm we pushed the bubble button it was still blowing out cold water.
+[0.07666015625] We then went to the 2nd pool room the hot tub was hot and the pool was still kinda cold.
+
+----- Weakening -----
+
+[-0.9248142242431641] The Settle Inn has three separate buildings and we were given a room in the oldest of the three.
+[-0.7346420288085938] The continental breakfast is served only in the first of the three buildings, which meant walking a distance.
+[-0.6765670776367188] We stayed in the 3rd building on the 2nd floor.
+[-0.6712837219238281] there was one very small, round table and 2 small, straight back chairs.
+[-0.6242618560791016] There are 3 different buildings in which one can stay, I found it confusing and the building we were in was the a long walk to the Front desk and where breakfast was.
+
+**********
+
+[0.9937787055969238] The main building has a conference room and breakfast area.
+Parent: Some guests noted that there are two buildings with indoor pools, and the main building has a conference room and breakfast area.
+
+----- Supporting -----
+
+[0.9937787055969238] Two buildings have indoor pools whereas the main building has the conference room/ breakfast area.
+[0.033203125] We stayed with a group recently and all had a good time....the group had experienced problems unrelated to the hotel but when we got there the treatment and service we received was wonderful.....we were made to feel right at home......I believe Joe was the gentleman who greeted us and was very kind and professional.....Maryann (I think that was her name) in the breakfast room was an absolute angel.....she went out of her way to make everyone feel special........this is an excellent choice for groups-affordable......receptive to needs.......Also the in charge cleaning lady was very professional and friendly.
+[0.0217437744140625] The breakfast was very good and there was lots of room for every\one to sit and eat.
+[0.0178375244140625] They had biscuts and gravy, waffle stations, cereal, bagels, toast, oatmeal, donuts, juice, milk, and coffee.
+[0.01629638671875] The staff was great but the breakfast was not so great but is was good enough.
+
+----- Weakening -----
+
+[-0.9551587104797363] (The main building has the dining area, the other two has the pools.)
+[-0.73309326171875] Our package included Belgian waffles and biscuits and gravy the next morning with a breathtaking view out the widespread windows in the dining room of the Ozark mountains on a crisp sunny morning.
+[-0.7173671722412109] There were all sorts of artifacts in the room from helmets to weapons and the waterfall jacuzzi was the most spectacular and ingenious piece.
+[-0.6773853302001953] Pools were clean but old looking.
+[-0.6706972122192383] Two swimming pools for the kids.

@@ -1,0 +1,212 @@
+***** Aspect: location Model Type : zs *****
+Overall score: 0.6854671478271485
+
+**********
+
+[0.9743161201477051] The place was in a good location.
+Parent: The place was in a good location and I was able to walk to a huge mall and what I guess is Torontoâ € ™ s equivalent of Times Square .
+
+----- Supporting -----
+
+[0.9743161201477051] The location was good, right where I needed to be, and the price was great for downtown and I only paid $89 with a corporate discount.
+[0.9680414199829102] Also the hotel was in a very good location for all attractions.
+[0.9679088592529297] The hotel itself is in a good location.
+[0.9658799171447754] The place was in a good location and I was able to walk to a huge mall and what I guess is Torontoâ€™s equivalent of Times Square.
+[0.9646663665771484] Would stay there again as price was great and location perfect.
+
+----- Weakening -----
+
+[-0.9846267700195312] It is very worn and in a terrible area of town.
+[-0.9818534851074219] The hotel is not in a nice area of the city and you will notice a great deal of sketchy personalities roaming the streets around the area.
+[-0.9530906677246094] I could not believe what they charged for a room at this hell-hole, and it is funny just around the corner from the building is a "back-packer's hostel which I thought would have been much better than this dump.
+[-0.9222335815429688] Heed this warning stay away from this crappy place, you'll be glad you did.
+[-0.8336658477783203] I've stayed in many places around the world but this was the worst.
+
+**********
+
+[0.9178171157836914] The mall was close by.
+Parent: The place was in a good location and I was able to walk to a huge mall and what I guess is Torontoâ € ™ s equivalent of Times Square .
+
+----- Supporting -----
+
+[0.9178171157836914] Several blocks walking to Eaton Center, the shopping mall nearby.
+[0.59259033203125] Close enough to walk to the Eaton Centre.
+[0.5466384887695312] The place was in a good location and I was able to walk to a huge mall and what I guess is Torontoâ€™s equivalent of Times Square.
+[0.423065185546875] The location was perfect as I walked to the Eaton Centre which was about 10 minutes away, and then the cab ride back only cost $8 including a tip.
+[0.1944122314453125] Dunbar Sq is within walking distance.
+
+----- Weakening -----
+
+[-0.8648052215576172] Went to Toronto for a conference which was being held at another hotel close by.
+[-0.8450965881347656] Several of the rooms appeared to be rented by students, either from Ryerson or the National Ballet School, both of which are very close.
+[-0.842803955078125] the subway is just up the street .
+[-0.8391799926757812] I could not believe what they charged for a room at this hell-hole, and it is funny just around the corner from the building is a "back-packer's hostel which I thought would have been much better than this dump.
+[-0.8279457092285156] Across the street from the old Maple Leaf Gardens, and it looks like a new grocery store is about to open up there soon.
+
+**********
+
+[0.4940032958984375] The hotel is located near Toronto's equivalent of Times Square.
+Parent: The place was in a good location and I was able to walk to a huge mall and what I guess is Torontoâ € ™ s equivalent of Times Square .
+
+----- Supporting -----
+
+[0.4940032958984375] The place was in a good location and I was able to walk to a huge mall and what I guess is Torontoâ€™s equivalent of Times Square.
+[0.0019435882568359375] Would stay there again as price was great and location perfect.
+[0.001861572265625] Was a good stay.
+[0.0018415451049804688] The location is great.
+[0.001773834228515625] would stay again.
+
+----- Weakening -----
+
+[-0.9032630920410156] East Lothian Scotland.
+[-0.8721580505371094] And when you are at the park don't forget to visit the Greenhouse.
+[-0.83782958984375] Across the street from the old Maple Leaf Gardens, and it looks like a new grocery store is about to open up there soon.
+[-0.8157157897949219] Several churches of different denominations are dotted around Allan Park that is across the street.
+[-0.7614154815673828] Got a room without a reservation at the Primrose Hotel which was right beside an underground train stop.
+
+**********
+
+[0.9416399002075195] The Thai restaurant Jasmine Garden's was great.
+Parent: There was a great Thai restaurant too called Jasmine Gardenâ € ™ s if anyone out there is into Thai food .
+
+----- Supporting -----
+
+[0.9416399002075195] There was a great Thai restaurant too called Jasmine Gardenâ€™s if anyone out there is into Thai food.
+[0.262939453125] Bankok Garden on Elm st. is wonderful for Thai.
+[0.01609039306640625] They even were able to get some roses put in the room before we arrived as a surprise.
+[0.0131988525390625] The price was also quite reasonable.
+[0.013036727905273438] This restaurant has a loyal group of customers.
+
+----- Weakening -----
+
+[-0.9589076042175293] The food is god awful, my stomach had to get used to it.
+[-0.9478363990783691] Heed this warning stay away from this crappy place, you'll be glad you did.
+[-0.9437360763549805] I would not reccomend this place to even my worst ennemies.
+[-0.9226069450378418] A couple of my friends and I stayed there for a weekend of fun and it was awful from the start.
+[-0.8964924812316895] It was so slow it was practically useless.
+
+**********
+
+[0.9807095527648926] Jasmine Garden's is a great place for Thai food.
+Parent: There was a great Thai restaurant too called Jasmine Gardenâ € ™ s if anyone out there is into Thai food .
+
+----- Supporting -----
+
+[0.9807095527648926] There was a great Thai restaurant too called Jasmine Gardenâ€™s if anyone out there is into Thai food.
+[0.2041015625] Bankok Garden on Elm st. is wonderful for Thai.
+[0.008655548095703125] I'll be back.
+[0.006130218505859375] The price was also quite reasonable.
+[0.0056629180908203125] I would probably go back again.
+
+----- Weakening -----
+
+[-0.9504241943359375] The food is god awful, my stomach had to get used to it.
+[-0.9465646743774414] We are heartbroken and will never recommend this hotel to anyone.
+[-0.9345417022705078] I would not recommend this hotel to anyone!
+[-0.9302339553833008] Heed this warning stay away from this crappy place, you'll be glad you did.
+[-0.9181375503540039] It is very worn and in a terrible area of town.
+
+**********
+
+[0.9738297462463379] The location was good.
+Parent: It was in a good location on Carlton / College Ave. .
+
+----- Supporting -----
+
+[0.9738297462463379] The location is great.
+[0.9737763404846191] The location was good, right where I needed to be, and the price was great for downtown and I only paid $89 with a corporate discount.
+[0.9650945663452148] The location is good and it was close to a great Thai food restaurant which I would recommend if you like Thai.
+[0.949254035949707] We were pleased with the choice, and the location was perfect.
+[0.9411802291870117] The location is good being a short walk into town and is close to the new Loblaws food emporium at Maple Leaf Gardens.
+
+----- Weakening -----
+
+[-0.9481391906738281] It is very worn and in a terrible area of town.
+[-0.7888870239257812] The hotel is not in a nice area of the city and you will notice a great deal of sketchy personalities roaming the streets around the area.
+[-0.775360107421875] I could not believe what they charged for a room at this hell-hole, and it is funny just around the corner from the building is a "back-packer's hostel which I thought would have been much better than this dump.
+[-0.7373008728027344] I've stayed in many places around the world but this was the worst.
+[-0.707305908203125] The underground parking is horribly laid out.
+
+**********
+
+[0.0831146240234375] The hotel is located on Carlton / College Ave.
+Parent: It was in a good location on Carlton / College Ave. .
+
+----- Supporting -----
+
+[0.0831146240234375] It was in a good location on Carlton/College Ave.
+[0.0025281906127929688] Was a good stay.
+[0.002475738525390625] Would stay there again as price was great and location perfect.
+[0.0022792816162109375] We had an absolutely fabulous time.
+[0.00220489501953125] The location is great.
+
+----- Weakening -----
+
+[-0.9833965301513672] Bankok Garden on Elm st. is wonderful for Thai.
+[-0.8856277465820312] it is right on Younge down near Dundas.
+[-0.8608818054199219] I would suggest this hotel if coming to visit the Church Street Village for nightlife and if you wish to visit the rest of the city a subway station is within easy walking distance.
+[-0.8549003601074219] It was only a few blocks east of Yonge St.
+[-0.8313827514648438] Location a few blocks from Yonge street where all the shops and restaurants are.
+
+**********
+
+[0.5449542999267578] The cost of parking is too high.
+Parent: The hotel parking was a little expensive ( CAN $ 15 ) and the garage is compact so I would be careful if you drive a big car or SUV .
+
+----- Supporting -----
+
+[0.5449542999267578] I`m glad I didn`t have a car, as the parking charges were horrendous.
+[0.35414886474609375] But from the time they told us we had to go get public parking down the street, to mixed up room arrangement, through just rude service, and a tile falling from the bathroom wall, the price was not worth it.
+[0.33323097229003906] The hotel charges $23 for parking, which should be free considering the difficulty it is to get into an actual parking spot.
+[0.0382080078125] Afterwards the Manager acknowledged that the lifts are in need of urgent replacement but due to the cost this has yet to be authorised.
+[0.0248565673828125] The hotel parking was a little expensive (CAN $15) and the garage is compact so I would be careful if you drive a big car or SUV.
+
+----- Weakening -----
+
+[-0.9721012115478516] It is free.
+[-0.9702143669128418] It was close to the theatre we were going to and the price was affordable.
+[-0.937861442565918] The price was good and they had a room with a king bed open.
+[-0.9044380187988281] Very good value for your money, in a very good location.
+[-0.9035415649414062] In a nutshell it was affordable clean comfortable, the staff where friendly .. we felt safe here and the stay was very pleasant!
+
+**********
+
+[0.9316673278808594] The hotel garage is small.
+Parent: The hotel parking was a little expensive ( CAN $ 15 ) and the garage is compact so I would be careful if you drive a big car or SUV .
+
+----- Supporting -----
+
+[0.9316673278808594] The hotel parking was a little expensive (CAN $15) and the garage is compact so I would be careful if you drive a big car or SUV.
+[0.47515869140625] Also, the hotel parking has a height limit of 6 feet, so, since we were driving a GMC Yukon, it was not available to us anyway.
+[0.080322265625] The Primrose is a dated property offering only basic levels of service.
+[0.076904296875] The hotel was clean, modern and the only concern that I had was the limited parking in the hotel garage.
+[0.060577392578125] For me, I believe that if a hotel has a parking garage that it should have adequate space reserved for hotel patrons regardless if they are going to use it or not.
+
+----- Weakening -----
+
+[-0.9890384674072266] It was a very large room for a great price.
+[-0.9875564575195312] The hotel is older but the room was huge and had a view all the way to the lake.
+[-0.9838199615478516] The room was wickedly huge and we had tons of space.
+[-0.9829845428466797] Large room, with really nice and comfy duvets, and overall much nicer than I've seen from most hotels in Toronto in this price range.
+[-0.98187255859375] The room itself was very spacious and clean.
+
+**********
+
+[0.012619495391845703] The hotel was a few blocks east of Yonge St.
+Parent: It was only a few blocks east of Yonge St. .
+
+----- Supporting -----
+
+[0.012619495391845703] It was only a few blocks east of Yonge St.
+[0.0020599365234375] Was a nice place.
+[0.0018253326416015625] Was a good stay.
+[0.0011234283447265625] It was a great last minute choice and would definitely stay there again.
+[0.001087188720703125] We had an absolutely fabulous time.
+
+----- Weakening -----
+
+[-0.913853645324707] the hotel is centrally located and is very comfortable with a nice bed and rooms cleaned daily.
+[-0.8971271514892578] We stayed in Toronto at the Primrose hotel which was great cuz it was right downtown.
+[-0.8884944915771484] We had chosen this hotel as it was downtown and they were able to give us a discounted group rate as we had 17 rooms in total.
+[-0.8534717559814453] The hotel was very clean and centrally located.
+[-0.8247184753417969] The station is about 300 yards west of the hotel.

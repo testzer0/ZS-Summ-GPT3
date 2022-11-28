@@ -1,0 +1,149 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.9762195859636579
+
+**********
+
+[0.970606803894043] The building was clean.
+Parent: The building was clean, the beds were fine, the hotel is located across the street from the airport, within walking distance to a Denny's, Jack in the Box, and a steak place.
+
+----- Supporting -----
+
+[0.970606803894043] The hotel was clean, beds were fine, hotel is located across the street from the air port, was within walking distance to a Denny's, Jack in the Box, and a steak place.
+[0.9687762260437012] The Hotel was clean, great staff, was greeted with hot fresh cookies at the check-in counter.
+[0.9361228942871094] This hotel is clean, neat and offers good value for the money.
+[0.9213886260986328] While the wing I was in appeared to be older, you could tell they try to take care of it and it was very clean.
+[0.8980293273925781] The suite was spacious, clean, and quiet.
+
+----- Weakening -----
+
+[-0.9969377517700195] The bathroom was dirty and stained.
+[-0.9964971542358398] Wall paper peeling off walls in different places, light bulb not replaced in room and carpet stained.
+[-0.996239185333252] When we found our room we discovered that the bathroom hadn't been cleaned and there were dirty towels lying around.
+[-0.9961557388305664] Bathroom floors seems dirty and needed to be regrouted.
+[-0.9960260391235352] It was so liquified that it spilled all over my hand and burned me terribly.
+
+**********
+
+[0.9662256240844727] The beds were fine.
+Parent: The building was clean, the beds were fine, the hotel is located across the street from the airport, within walking distance to a Denny's, Jack in the Box, and a steak place.
+
+----- Supporting -----
+
+[0.9662256240844727] The hotel was clean, beds were fine, hotel is located across the street from the air port, was within walking distance to a Denny's, Jack in the Box, and a steak place.
+[0.8956565856933594] Slept like a baby...very comfortable beds.
+[0.8928508758544922] The beds were comfortable and the room was very clean.
+[0.887298583984375] The beds were very comfortable, room large enough for wheelchair, and bathroom clean.
+[0.8628120422363281] The rooms are always clean, the beds great, bedding and bath linens top notch.
+
+----- Weakening -----
+
+[-0.9894237518310547] It was so liquified that it spilled all over my hand and burned me terribly.
+[-0.9785213470458984] Keep your children away from these set ups, they are going to injure someone terribly!
+[-0.9782752990722656] Then there was this set-up for the syrup which was under a sterno can and full flame, the syrup was boiling.
+[-0.9745092391967773] other bugs every where.
+[-0.9655055999755859] Robert immediately stepped in front of my husband and folded his arms and gave my husband many excuses why it was our fault we didn't have the bed yet.
+
+**********
+
+[0.9914870262145996] The hotel is located near the airport.
+Parent: The building was clean, the beds were fine, the hotel is located across the street from the airport, within walking distance to a Denny's, Jack in the Box, and a steak place.
+
+----- Supporting -----
+
+[0.9914870262145996] The good news - the hotel is very close to the airport with a 24hr shuttle to the airport.
+[0.9906625747680664] Hotel is very close the the airport and room was comfortable.
+[0.9895644187927246] Very nice hotel, very close to the airport, walkable in fact to the terminals in less than 10 minutes or one can take a free shuttle bus.
+[0.9891867637634277] The hotel is very close to the airport and sometimes we walk.
+[0.9880475997924805] The hotel is pretty big but the location next to the airport is great.
+
+----- Weakening -----
+
+[-0.9957015514373779] This hotel is by a small lake and at dusk there are misquitos and misc.
+[-0.9409713745117188] Out the back of mine (#5) the deck looked out into a forest.
+[-0.9250602722167969] Downtown Seattle was about a 30 minute ride by light rail service (cost of $16 for the 4 of us) or $40 cab ride to the pier.
+[-0.9111728668212891] The room had a large balcony overlooking a lake and on the 4th floor we were up in the trees.
+[-0.9102449417114258] We were told we had a great view of the "lake" from our room.
+
+**********
+
+[0.9590840339660645] The hotel is located near several restaurants, including Denny's, Jack in the Box, and a steakhouse.
+Parent: The building was clean, the beds were fine, the hotel is located across the street from the airport, within walking distance to a Denny's, Jack in the Box, and a steak place.
+
+----- Supporting -----
+
+[0.9590840339660645] The hotel was clean, beds were fine, hotel is located across the street from the air port, was within walking distance to a Denny's, Jack in the Box, and a steak place.
+[0.0041370391845703125] Food was good, but a bit overpriced.
+[0.004017829895019531] The food was good although a bit pricey.
+[0.0037384033203125] Other restaurants were withing walking distance of the hotel.
+[0.00339508056640625] Great place and would definately stay again.
+
+----- Weakening -----
+
+[-0.9958544969558716] It is on a busy street and I didn't see a restaurant within walking distance so I ate in the lobby.
+[-0.8763446807861328] OUR overall stay was great, would have been nice to have no feathered pillows , not having a MICROWAVE,REFRIDG not cool, they charge each day for a roll away bed they said they would accomumdate for up to five in one room stayed three days so used blankets on the floor for the two boys I requested four blanket but had to go down to argue after only getting one they charge for wi-fi in room, LOBBY FREE- charge for daily parking no continuial breakfast without charging all these should change I called on phone for the entertainment book checking in nope they dont take it close to many places to eat,bank and even small cascino the airport close yes somewhat noisy but hey what one is not only during day time night time very quiet staff quiet friendly HOUSEKEEPING WONDERFUL yes i would recommend this hotel to others it'sa nice place is great for summer as with pool only on outsde .
+[-0.6682291030883789] Don't expect a whole lot here.
+[-0.4938936233520508] I could not recommend this hotel.
+[-0.49132633209228516] I would not recommend this hotel.
+
+**********
+
+[0.9687590599060059] The staff was great.
+Parent: The staff was great and friendly.
+
+----- Supporting -----
+
+[0.9687590599060059] The staff are wonderful!
+[0.9515810012817383] The check-in was wonderful, the staff great, and the hotel itself was nice.
+[0.9498672485351562] All the staff we interacted with were great.
+[0.9385862350463867] The staff are exceptional and the quality without question.
+[0.9374370574951172] The restaurant and bar restaurant are better than average and again great staff.
+
+----- Weakening -----
+
+[-0.9976439476013184] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+[-0.9944887161254883] We experienced this poor attitude with a few other staff members within the hotel.
+[-0.9903631210327148] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[-0.9834613800048828] When we tried to leave, our paid parking pass wouldn't register to let us out of the parking lot, and there were no attendants handy, so we were late returning our rental car :( -- I'm thankful we didn't get dinged on that.
+[-0.9824600219726562] --Restaurant staff seemed to be overwhelmed during breakfast, so they fell behind a bit.
+
+**********
+
+[0.9861769676208496] The staff was friendly.
+Parent: The staff was great and friendly.
+
+----- Supporting -----
+
+[0.9861769676208496] The front desk staff was friendly and helpful.
+[0.9861221313476562] The hotel staff was friendly and accomodating.
+[0.9842438697814941] The staff was friendly and we appreciated the cookies after a long flight when we were waiting to check inn.
+[0.9829931259155273] Staff is very courteous and friendly.
+[0.9789009094238281] --Staff was friendly, both at the desk and in the restaurant.
+
+----- Weakening -----
+
+[-0.9966821670532227] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+[-0.994239330291748] We experienced this poor attitude with a few other staff members within the hotel.
+[-0.9735498428344727] When we were there, there were a bunch of real estate agents who were getting a bit rowdy.
+[-0.9617404937744141] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[-0.880645751953125] I took a taxi as everyone was trying to cram into the shuttle with no respect for first-come-first-served.
+
+**********
+
+[0.9911975860595703] The room was ready early.
+Parent: The room was ready very early in the morning for us.
+
+----- Supporting -----
+
+[0.9911975860595703] Room was ready very early in the morning for us.
+[0.957219123840332] In spite of the fact that a large convention was concluding and check-out time was not until noon, they had our room ready and waiting.
+[0.8448562622070312] Our room was reserved well in advance, with no mention of a parking fee for their guests!
+[0.4712371826171875] The hotel employees were very polite and most efficient: we were on our way to our room within 30 seconds, warm cookies in hand.
+[0.4483642578125] At 1:00AM we were again told the bed would be sent right up.
+
+----- Weakening -----
+
+[-0.988555908203125] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[-0.9878835678100586] Waited forever to be seated and there were only 3 others in the place.
+[-0.983698844909668] Arrived late, they had given our room away.
+[-0.9770736694335938] Bus driver called for our car but it wasn't ready when we arrived.
+[-0.9740371704101562] I talked to the manager on the phone at 1:30AM and he was still full of excuses why we didn't have the bed.

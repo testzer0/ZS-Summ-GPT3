@@ -1,0 +1,191 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.027898682488335505
+
+**********
+
+[-0.0015764236450195312] The hotel is located 40 minutes from DFW airport.
+Parent: The hotel is about 40 minutes from DFW airport in downtown Dallas .
+
+----- Supporting -----
+
+[-0.0015764236450195312] The service was amazing and the food was amazing.
+[-0.00201416015625] The food and service is amazing!
+[-0.002307891845703125] Our bags were brought to our room.
+[-0.0023946762084960938] I did have breakfast at the restaurant and the food was great.
+[-0.0025224685668945312] I'd definetely recommend 3 things if you are staying at The Joule: 1) Eat at Charlie Palmer - This is the restaurant right in the hotel.
+
+----- Weakening -----
+
+[-0.14636993408203125] Want a wine glass?
+[-0.12261962890625] As an order of french toast was around $20 I decided to walk down the street (out the front, down one block to left, take a left and Seven Eleven was on the right) and get a donut and some milk.
+[-0.0413360595703125] Nikki went out of her way to accomadate getting us some food Unfortunately she did not have enough pull to get what we needed.
+[-0.03985786437988281] Since the squid and quail eggs on their menu did not sound good, one of our group walked across the street to order some Food and bring it over.
+[-0.030984878540039062] PM was icing on the cake.
+
+**********
+
+[-5.91278076171875e-05] The hotel is in downtown Dallas.
+Parent: The hotel is about 40 minutes from DFW airport in downtown Dallas .
+
+----- Supporting -----
+
+[-5.91278076171875e-05] The service was amazing and the food was amazing.
+[-0.0002899169921875] The food and service is amazing!
+[-0.001506805419921875] No free Wi-Fi or coffee in the room, but everything else was very nice.
+[-0.00176239013671875] Charlie Palmers is connected to the hotel and it is excellent.
+[-0.0019378662109375] I did have breakfast at the restaurant and the food was great.
+
+----- Weakening -----
+
+[-0.0954742431640625] Want a wine glass?
+[-0.0926971435546875] New York strip was tender and the spinach side was a pefect complimant to the steak for me.
+[-0.0344085693359375] On a side note, the executive chef of the restaurant did come out to see us and was the only pleasant person we spoke to.
+[-0.0327911376953125] As an order of french toast was around $20 I decided to walk down the street (out the front, down one block to left, take a left and Seven Eleven was on the right) and get a donut and some milk.
+[-0.025360107421875] Get the BURGER!
+
+**********
+
+[0.013416290283203125] The room was spacious.
+Parent: The room was spacious enough , with a big glass wall on the outside , a 42 " flat screen TV , and terrific lighting arrangements that allowed you to adjust the brightness in various parts of the room .
+
+----- Supporting -----
+
+[0.013416290283203125] Charlie Palmers is connected to the hotel and it is excellent.
+[0.01153564453125] You can walk next door to iron cactus for bfast and lunch, then eat dinner at the ultra swanky Charlie Palmer.
+[0.010129928588867188] Once I arrived, Danielle took great care to check me in and point me in the direction of my room, which I didn't leave much unless it was to have a meeting downstairs in the restaurant.
+[0.007556915283203125] The service was amazing and the food was amazing.
+[0.00738525390625] No free Wi-Fi or coffee in the room, but everything else was very nice.
+
+----- Weakening -----
+
+[-0.91961669921875] Plus my husband doesn't drink and I'm 6 mths pregnant, so pretty sure we didn't access any alcohol at the mini bar.
+[-0.8064422607421875] Admittedly the open bathroom concept may not suit a lot of people so be aware â€¢ Food â€“ Charlie Palmer is a very very good restaurant.
+[-0.404052734375] Nikki went out of her way to accomadate getting us some food Unfortunately she did not have enough pull to get what we needed.
+[-0.252716064453125] Get the BURGER!
+[-0.249664306640625] This was nice because we got the food we wanted, didn't have to worry about it being cold and got to watch UT kick Missouri's [----].
+
+**********
+
+[-0.001918792724609375] The room had a big glass wall on the outside.
+Parent: The room was spacious enough , with a big glass wall on the outside , a 42 " flat screen TV , and terrific lighting arrangements that allowed you to adjust the brightness in various parts of the room .
+
+----- Supporting -----
+
+[-0.001918792724609375] Once I arrived, Danielle took great care to check me in and point me in the direction of my room, which I didn't leave much unless it was to have a meeting downstairs in the restaurant.
+[-0.004797935485839844] Our bags were brought to our room.
+[-0.008298873901367188] No free Wi-Fi or coffee in the room, but everything else was very nice.
+[-0.009922027587890625] While we will still never return to this hotel, the chef did make that evening a bit better.
+[-0.02335357666015625] He coordinated with NOKA Chocolates for a private wine and chocolate pairing on Saturday afternoon.
+
+----- Weakening -----
+
+[-0.6366424560546875] The food and service is amazing!
+[-0.48779296875] The food was amazing!
+[-0.47845458984375] Great food.
+[-0.475830078125] The salmon here is especially good â€¢ Service â€“ Very good and the staff are very friendly.
+[-0.416015625] You must try their signature desserts, the peanut butter bar...YUM!
+
+**********
+
+[-0.0011491775512695312] The room had a 42" flat screen TV.
+Parent: The room was spacious enough , with a big glass wall on the outside , a 42 " flat screen TV , and terrific lighting arrangements that allowed you to adjust the brightness in various parts of the room .
+
+----- Supporting -----
+
+[-0.0011491775512695312] Once I arrived, Danielle took great care to check me in and point me in the direction of my room, which I didn't leave much unless it was to have a meeting downstairs in the restaurant.
+[-0.0030202865600585938] Our bags were brought to our room.
+[-0.0034618377685546875] Charlie Palmers is connected to the hotel and it is excellent.
+[-0.00439453125] This was nice because we got the food we wanted, didn't have to worry about it being cold and got to watch UT kick Missouri's [----].
+[-0.013683319091796875] No free Wi-Fi or coffee in the room, but everything else was very nice.
+
+----- Weakening -----
+
+[-0.5245208740234375] The salmon here is especially good â€¢ Service â€“ Very good and the staff are very friendly.
+[-0.5127105712890625] Want a wine glass?
+[-0.3880615234375] You must try their signature desserts, the peanut butter bar...YUM!
+[-0.339019775390625] The food was amazing!
+[-0.3289031982421875] Loved it all, the bread options, the mushroom plate - yummy!
+
+**********
+
+[0.010431289672851562] The room had great lighting.
+Parent: The room was spacious enough , with a big glass wall on the outside , a 42 " flat screen TV , and terrific lighting arrangements that allowed you to adjust the brightness in various parts of the room .
+
+----- Supporting -----
+
+[0.010431289672851562] No free Wi-Fi or coffee in the room, but everything else was very nice.
+[0.01025390625] You can walk next door to iron cactus for bfast and lunch, then eat dinner at the ultra swanky Charlie Palmer.
+[0.007485389709472656] Charlie Palmers is connected to the hotel and it is excellent.
+[0.003448486328125] Later that night we returned to the hotel patio and wanted a simple meal.
+[0.002960205078125] This was nice because we got the food we wanted, didn't have to worry about it being cold and got to watch UT kick Missouri's [----].
+
+----- Weakening -----
+
+[-0.177642822265625] Great food.
+[-0.1092376708984375] Designer soap in the bathroom does not a luxury hotel make.
+[-0.08648681640625] Want a wine glass?
+[-0.078338623046875] Nikki went out of her way to accomadate getting us some food Unfortunately she did not have enough pull to get what we needed.
+[-0.07552337646484375] I only ordered a pot of coffee for 7am.
+
+**********
+
+[0.00177001953125] The room had adjustable lighting.
+Parent: The room was spacious enough , with a big glass wall on the outside , a 42 " flat screen TV , and terrific lighting arrangements that allowed you to adjust the brightness in various parts of the room .
+
+----- Supporting -----
+
+[0.00177001953125] No free Wi-Fi or coffee in the room, but everything else was very nice.
+[0.0009822845458984375] Once I arrived, Danielle took great care to check me in and point me in the direction of my room, which I didn't leave much unless it was to have a meeting downstairs in the restaurant.
+[0.0002498626708984375] Our bags were brought to our room.
+[3.814697265625e-05] Charlie Palmers is connected to the hotel and it is excellent.
+[-0.004322052001953125] None-the-less, it was still delicious!
+
+----- Weakening -----
+
+[-0.185699462890625] You must try their signature desserts, the peanut butter bar...YUM!
+[-0.16854095458984375] Designer soap in the bathroom does not a luxury hotel make.
+[-0.160308837890625] Loved it all, the bread options, the mushroom plate - yummy!
+[-0.121185302734375] The salmon here is especially good â€¢ Service â€“ Very good and the staff are very friendly.
+[-0.10870361328125] Nikki went out of her way to accomadate getting us some food Unfortunately she did not have enough pull to get what we needed.
+
+**********
+
+[0.219970703125] The front desk area is not huge.
+Parent: The front deks area is not huge , but has a farily open seating and meeting place .
+
+----- Supporting -----
+
+[0.219970703125] Plus my husband doesn't drink and I'm 6 mths pregnant, so pretty sure we didn't access any alcohol at the mini bar.
+[0.028076171875] As an order of french toast was around $20 I decided to walk down the street (out the front, down one block to left, take a left and Seven Eleven was on the right) and get a donut and some milk.
+[0.01519775390625] No free Wi-Fi or coffee in the room, but everything else was very nice.
+[0.003997802734375] Once I arrived, Danielle took great care to check me in and point me in the direction of my room, which I didn't leave much unless it was to have a meeting downstairs in the restaurant.
+[0.00164794921875] While we will still never return to this hotel, the chef did make that evening a bit better.
+
+----- Weakening -----
+
+[-0.1417388916015625] The food and service is amazing!
+[-0.101806640625] The food was amazing!
+[-0.07666015625] Great food.
+[-0.0731201171875] Nikki went out of her way to accomadate getting us some food Unfortunately she did not have enough pull to get what we needed.
+[-0.07086181640625] None-the-less, it was still delicious!
+
+**********
+
+[0.010203361511230469] The front deks area is open and has plenty of seating and meeting space.
+Parent: The front deks area is not huge , but has a farily open seating and meeting place .
+
+----- Supporting -----
+
+[0.010203361511230469] Charlie Palmers is connected to the hotel and it is excellent.
+[0.001491546630859375] The service was amazing and the food was amazing.
+[0.000823974609375] The food was amazing!
+[0.000762939453125] No free Wi-Fi or coffee in the room, but everything else was very nice.
+[0.000270843505859375] Great food.
+
+----- Weakening -----
+
+[-0.18768310546875] Nikki went out of her way to accomadate getting us some food Unfortunately she did not have enough pull to get what we needed.
+[-0.17011260986328125] Designer soap in the bathroom does not a luxury hotel make.
+[-0.15850830078125] Admittedly the open bathroom concept may not suit a lot of people so be aware â€¢ Food â€“ Charlie Palmer is a very very good restaurant.
+[-0.121734619140625] Once I arrived, Danielle took great care to check me in and point me in the direction of my room, which I didn't leave much unless it was to have a meeting downstairs in the restaurant.
+[-0.102813720703125] The food was amzing, the room service food is from the restaurant downstairs!!

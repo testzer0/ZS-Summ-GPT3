@@ -1,0 +1,149 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.8647282464163644
+
+**********
+
+[0.9597806930541992] The food was good.
+Parent: The reviewers said that the food was good.
+
+----- Supporting -----
+
+[0.9597806930541992] The room service was wonderful - the food was great, and the service was, again, exceptional.
+[0.9510421752929688] The food was amazing!
+[0.9467353820800781] I did have breakfast at the restaurant and the food was great.
+[0.9335203170776367] Great food.
+[0.9302520751953125] We ate at the restaurant before we were going to go out and the food was amazing and the service was second to none.
+
+----- Weakening -----
+
+[-0.7875785827636719] Since the squid and quail eggs on their menu did not sound good, one of our group walked across the street to order some Food and bring it over.
+[-0.6841278076171875] We both loved the shower.
+[-0.5252532958984375] Want a wine glass?
+[-0.41654205322265625] It needs to be removed ASAP.
+[-0.3614654541015625] I was so livid with how it was being handled that I was ready to completely lose it.
+
+**********
+
+[0.8804740905761719] The breakfast was good.
+Parent: They enjoyed the breakfast, restaurant, and room service options.
+
+----- Supporting -----
+
+[0.8804740905761719] I did have breakfast at the restaurant and the food was great.
+[0.8418340682983398] We had dinner and breakfast at the hotel restaurant Charlie Palmers and it was excellent.
+[0.8059234619140625] Restaurant very nice for breakfast.
+[0.6465435028076172] We reserved a guest room which was beautiful and enjoyed a wonderful breakfast on the patio Saturday morning at Charlie Palmer's Restaurant.
+[0.49987030029296875] We especially found the room service to be timely and tasty (yes, we even had breakfast by the pool one day!).
+
+----- Weakening -----
+
+[-0.8763160705566406] Dinner at Charlie Palmer's was simply superb!
+[-0.8743972778320312] Dinner at Charlie Palmer's was terrific and it finished with an anniversary card of sorts with a message spelled in chocolate at the top of our unbelievably rich Peanut Butter Bar - which btw, was practically a religious experience!
+[-0.8546562194824219] I had dinner at the restaurant that night and it was amazing from the service, ambiance and quality of the food.
+[-0.836273193359375] We had dinner at Nobu which is in Crescent Court which was really good too.
+[-0.8238143920898438] We both loved the shower.
+
+**********
+
+[0.9334516525268555] The restaurant was good.
+Parent: They enjoyed the breakfast, restaurant, and room service options.
+
+----- Supporting -----
+
+[0.9334516525268555] We had dinner and breakfast at the hotel restaurant Charlie Palmers and it was excellent.
+[0.9207830429077148] We ate at the restaurant before we were going to go out and the food was amazing and the service was second to none.
+[0.9120893478393555] I did have breakfast at the restaurant and the food was great.
+[0.906494140625] The room service was wonderful - the food was great, and the service was, again, exceptional.
+[0.9058876037597656] The pool is amazing and the restaurant cuisine is outstanding.
+
+----- Weakening -----
+
+[-0.8074798583984375] Furthermore, room service was closed at 10 pm, front desk was unhelpful (in ordering a pizza nonetheless) and Charlie Palmer was a waste of time and energy (great staff, HORRIBLE management.)
+[-0.7907218933105469] We both loved the shower.
+[-0.7718658447265625] The gym is okay, but somewhat small.
+[-0.6545219421386719] Cons: Service is terrible!!
+[-0.636627197265625] to get ONE sandwhich I had to call and ck on it and there are slow and the service is so bad and the managers know which makes it WORSE...
+
+**********
+
+[0.9668617248535156] The room service was good.
+Parent: They enjoyed the breakfast, restaurant, and room service options.
+
+----- Supporting -----
+
+[0.9668617248535156] The room service was wonderful - the food was great, and the service was, again, exceptional.
+[0.9243087768554688] Service was wonderful and the grilled cheese is to die for in room service.
+[0.9056873321533203] Our tweens loved the salt water heated infinity pool, the Charlie Palmer bar, awesome room service and gorgeous room......we live in Carrollton, but felt we had traveled to another luxurious country!
+[0.8698539733886719] We especially found the room service to be timely and tasty (yes, we even had breakfast by the pool one day!).
+[0.8178882598876953] We stayed in the Penthouse Suite and the service and the room was perfect.
+
+----- Weakening -----
+
+[-0.9768409729003906] The pool was nice as was the fitness center but with tiny cramped rooms, lack of customer service (I tried calling the desk 3 times and never go through) and the loading dock at the front of the building, I wouldn't recommend it.
+[-0.9764328002929688] Maybe I'm just spoiled, but I travel frequently and I have never recieved such poor service from an "upscale" hotel.
+[-0.9615039825439453] Cons: Service is terrible!!
+[-0.9567852020263672] to get ONE sandwhich I had to call and ck on it and there are slow and the service is so bad and the managers know which makes it WORSE...
+[-0.9316329956054688] It was insulting that the doorman/management were so disrespectful and unwilling to take care of their guest.
+
+**********
+
+[0.38629150390625] The cost of parking was too high.
+Parent: There were a few complaints about the cost of parking and the slow service, but overall the food was well-received.
+
+----- Supporting -----
+
+[0.38629150390625] The valet was very courteous (but very expensive at $27 a night) We had the King room on the 6th floor.
+[0.23916244506835938] The staff at the hotel and the parking company (ACE parking) are working hard to rectify the situation, but at $27/night for parking one would hope that her car was more secure than it apparently was.
+[0.082733154296875] Firstly our room smelt of smoke so they had to come spray the room, then there wasnt a hairdryer so they came and provided that, then the tv didn't work so they they had to come fix that, then we paid for valet at $27 for our car to be returned with bird droppings all over it.
+[0.008235931396484375] parking was $10/day.
+[0.000736236572265625] They did refund our $27 valet parking fee.
+
+----- Weakening -----
+
+[-0.9237794876098633] They upgraded us to a suite free of charge, brought in cupcakes, a special beer and were of ongoing assistance through out the stay, helping to make his birthday a great day and full of surprises.
+[-0.9021072387695312] The room was spacious enough, with a big glass wall on the outside, a 42" flat screen TV, and terrific lighting arrangements that allowed you to adjust the brightness in various parts of the room.
+[-0.8928470611572266] We used the free car service several times and the drivers all had great recommendations for places to go and to eat.
+[-0.8814826011657715] Every detail was managed perfectly.
+[-0.8656234741210938] So, the rate was great and the stay was absolutely Excellent!!!
+
+**********
+
+[0.9664573669433594] The service was slow.
+Parent: There were a few complaints about the cost of parking and the slow service, but overall the food was well-received.
+
+----- Supporting -----
+
+[0.9664573669433594] to get ONE sandwhich I had to call and ck on it and there are slow and the service is so bad and the managers know which makes it WORSE...
+[0.7079010009765625] The only reason I didn't give them 5 stars (if I could it would be 4.75) on "Service" is b/c they weren't so timely on pre-arranged room service...we asked for it by a certain time and it arrived about a half hour later.
+[0.50958251953125] After my first drink we had to flag down a girl to ask for another as the pool area was not busy maybe 6 other people so ni reason for service to be that bad.
+[0.47405242919921875] The pool was nice as was the fitness center but with tiny cramped rooms, lack of customer service (I tried calling the desk 3 times and never go through) and the loading dock at the front of the building, I wouldn't recommend it.
+[0.374267578125] The actual service at the front desk seemed a bit patchy, depending on who was there.
+
+----- Weakening -----
+
+[-0.9949436187744141] We received prompt and courteous service at check-in, and arrived to find an extremely nice well appointed room.
+[-0.9943199157714844] They were prompt, polite, and very accomodating.
+[-0.9914741516113281] We especially found the room service to be timely and tasty (yes, we even had breakfast by the pool one day!).
+[-0.9879894256591797] We walked to the front desk and were promptly greeted by name, wished a happy anniversary complete with a champagne toast and our room keys.
+[-0.9817404747009277] I truly appreciated how thorough they were in handling my requests and following up with me to ensure that I knew everything was taken care of.
+
+**********
+
+[0.9597806930541992] The food was good.
+Parent: There were a few complaints about the cost of parking and the slow service, but overall the food was well-received.
+
+----- Supporting -----
+
+[0.9597806930541992] The room service was wonderful - the food was great, and the service was, again, exceptional.
+[0.9510421752929688] The food was amazing!
+[0.9467353820800781] I did have breakfast at the restaurant and the food was great.
+[0.9335203170776367] Great food.
+[0.9302520751953125] We ate at the restaurant before we were going to go out and the food was amazing and the service was second to none.
+
+----- Weakening -----
+
+[-0.7875785827636719] Since the squid and quail eggs on their menu did not sound good, one of our group walked across the street to order some Food and bring it over.
+[-0.6841278076171875] We both loved the shower.
+[-0.5252532958984375] Want a wine glass?
+[-0.41654205322265625] It needs to be removed ASAP.
+[-0.3614654541015625] I was so livid with how it was being handled that I was ready to completely lose it.

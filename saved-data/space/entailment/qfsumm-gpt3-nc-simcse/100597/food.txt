@@ -1,0 +1,42 @@
+***** Aspect: food Model Type : simcse *****
+Overall score: 0.7292855083942413
+
+**********
+
+[0.759537398815155] The food at the hotel was clean and the beds were comfortable.
+
+----- Supporting -----
+
+[0.759537398815155] We tried the hotel restaurants and the food was quite good.
+[0.6186598539352417] Restaurant food was excellent and reasonably priced and breakfast was good.
+[0.6161535978317261] The hotel reception had a lovely smell of freshly baked cookies which were given out at check in and were delicious.
+[0.5979223251342773] The not so good news - food at the hotel was OK.
+[0.5881046056747437] That worked well for me since the food at the hotel is fairly pricey.
+
+----- Weakening -----
+
+[-0.02339562401175499] What a rip-off!
+[0.05919571965932846] All of this resulted in out take-out food getting cold plus I lost my scarf somewhere along the way.
+[0.06157850846648216] It is hard to find fault at that price, and I won't.
+[0.08792303502559662] We cannot comment on the value, as our price was included in our group travel, so Iwe're sure it was a group or discounted rate.
+[0.11475330591201782] Then there was this set-up for the syrup which was under a sterno can and full flame, the syrup was boiling.
+
+**********
+
+[0.6990336179733276] The hotel was located across the street from the airport and within walking distance to a Denny's, Jack in the Box, and a steak place.
+
+----- Supporting -----
+
+[0.6990336179733276] If you don't want to eat breakfast at the hotel, there is a Denny's across the street and an IHOP 2mile down the street.
+[0.6310997605323792] There is a Jack in the Box and Denny's across the street as well as a Subway, Thai restaurant and a BBQ restaurant nearby.
+[0.6198763847351074] Plenty of eating places nearby, and the bar in the hotel is fine also.
+[0.6198763847351074] Plenty of eating places nearby, and the bar in the hotel is fine also.
+[0.5327895283699036] We tried the hotel restaurants and the food was quite good.
+
+----- Weakening -----
+
+[-0.016908880323171616] The soup was brought to us pretty cold, but he seemed to vanish so we couldn't complain.
+[0.023106925189495087] What a rip-off!
+[0.02368859015405178] It is hard to find fault at that price, and I won't.
+[0.03261786699295044] Then there was this set-up for the syrup which was under a sterno can and full flame, the syrup was boiling.
+[0.03973159193992615] We cannot comment on the value, as our price was included in our group travel, so Iwe're sure it was a group or discounted rate.

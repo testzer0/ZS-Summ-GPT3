@@ -1,0 +1,42 @@
+***** Aspect: building Model Type : simcse *****
+Overall score: 0.6823265552520752
+
+**********
+
+[0.5496554374694824] the hotel is located in the downtown area and is a short walk to all of the attractions.
+
+----- Supporting -----
+
+[0.5496554374694824] The hotel was well designed and tastefully decorated.
+[0.5493667125701904] The lobby of the hotel is quite small, but well-appointed.
+[0.5468494892120361] Designwise, it could be any hotel in any city.
+[0.5213675498962402] The hotel itself is in an older building, but renovations have obviously kept it up to modern standards.
+[0.5211535692214966] Portland is a great city to visit, and I would recommend this hotel to anyone.
+
+----- Weakening -----
+
+[-0.05451482534408569] Still not sure why our car could not be found for that time.
+[-0.04233001172542572] My desk chair was broken and I asked for it to be replaced or fixed.
+[-0.03755403682589531] They could not find our car for about an hour!
+[0.004709694068878889] That was my only real complaint, that weird gappy window/air thing.
+[0.019841913133859634] The man who was working at the front desk looked very gruff and mean, when I would ask something he made me feel like I was putting him out.
+
+**********
+
+[0.814997673034668] the lobby is small and cozy and the staff is very helpful.
+
+----- Supporting -----
+
+[0.814997673034668] The lobby is small, but nice.
+[0.7682675719261169] The lobby of the hotel is quite small, but well-appointed.
+[0.6967061758041382] Small lobby very intimate but best of all was location.
+[0.6630066633224487] The lobby is beautfully furnished and offers a great meeting place or somewhere to rest.
+[0.6523245573043823] The lobby has a nice little living room style waiting area but only takes 10 seconds to get through to the elevators.
+
+----- Weakening -----
+
+[-0.07471360266208649] Still not sure why our car could not be found for that time.
+[-0.0587429404258728] The only thing was that there was construction going on right across the street that woke us up before 9am on a Monday morning.
+[-0.014904564246535301] Tons of construction in the neighborhood which starts at 6:30 am.
+[-0.014695167541503906] They could not find our car for about an hour!
+[-0.010908572003245354] Lots of daytime noise due to the construction.

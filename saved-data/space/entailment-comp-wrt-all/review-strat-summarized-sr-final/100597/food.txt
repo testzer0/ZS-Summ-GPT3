@@ -1,0 +1,128 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.8624018033345541
+
+**********
+
+[0.7882232666015625] Overall, the food was good.
+Parent: Overall, reviewers thought the food was good, although some found it cold and others thought it was overpriced.
+
+----- Supporting -----
+
+[0.7882232666015625] Food was good, but a bit overpriced.
+[0.7661418914794922] The food was good although a bit pricey.
+[0.6865921020507812] The food was decent as was the wine selection.
+[0.6029052734375] The restaurant also had good food (we were given a $10 per person coupon to use in the restaurant from the hotel).
+[0.5810785293579102] Restaurant food was excellent and reasonably priced and breakfast was good.
+
+----- Weakening -----
+
+[-0.771026611328125] Food was very expensive in restaurant and just okay.
+[-0.69842529296875] We ate at both the lounge and the cafe and food was average at best, but the service VERY GOOD!
+[-0.6334552764892578] What I found was rather run down and shabby.
+[-0.38498687744140625] VERY average burger.
+[-0.3477306365966797] We did not choose it.
+
+**********
+
+[0.9644546508789062] The food was cold.
+Parent: Overall, reviewers thought the food was good, although some found it cold and others thought it was overpriced.
+
+----- Supporting -----
+
+[0.9644546508789062] The soup was brought to us pretty cold, but he seemed to vanish so we couldn't complain.
+[0.9642658233642578] All of this resulted in out take-out food getting cold plus I lost my scarf somewhere along the way.
+[0.9616117477416992] Service in the more upscale of the two restaurants was almost unbearably slow and the food was cold when it finally arrived after over a hour at our table.
+[0.9613819122314453] We ordered food and received ice cold food one hour later.
+[0.19873046875] If it wasn't for Pam the waitress quick actions and bringing me ice, I am sure it would have blistered terribly.
+
+----- Weakening -----
+
+[-0.9966325759887695] Breakfast was delicious in the coffee shop, hot scones with jam and coffee.
+[-0.9947299957275391] On check in, the warm chocolate chip cookies were a lovely touch.
+[-0.9942712783813477] The staff was friendly and helpful and we enjoyed the warm, chocolate chip cookie we were given at check-in.
+[-0.9941768646240234] I absolutely loved the warm cookies we were given at check in and the beds in our room were so incredibly soft.
+[-0.9937686920166016] I love the big warm cookies in the evening.
+
+**********
+
+[0.9540138244628906] The food was overpriced.
+Parent: Overall, reviewers thought the food was good, although some found it cold and others thought it was overpriced.
+
+----- Supporting -----
+
+[0.9540138244628906] Food was good, but a bit overpriced.
+[0.9466400146484375] Food was very expensive in restaurant and just okay.
+[0.8971633911132812] The room service was horribly overpriced-- not only do they charge 18% more than listed price, the listed prices in the rooms are ALREADY higher than in the restaurant ($2 more on soups and $3-$8 more on entrees/burgers).
+[0.8260612487792969] With the $20 a night parking, internet fees, and insane food pricing I would expect a much more modern, bigger, and clean room.
+[0.7691612243652344] That worked well for me since the food at the hotel is fairly pricey.
+
+----- Weakening -----
+
+[-0.9922189712524414] Restaurant food was excellent and reasonably priced and breakfast was good.
+[-0.9743213653564453] The rooms are relatively spacious, our kids love the pool, and the breakfast buffet isn't a bad deal for what you get.
+[-0.9089860916137695] Cheap toiletries, few towels.
+[-0.9004268646240234] I was able to purchase a reasonably priced bottle of Oregon pinot noir for in-room consumption.
+[-0.8989524841308594] The gift shop was well stocked and very reasonably priced.
+
+**********
+
+[0.7205772399902344] The hotel has a coffee bar in the lobby.
+Parent: The hotel has a coffee bar in the lobby and gives out cookies at check-in, which were both well-received.
+
+----- Supporting -----
+
+[0.7205772399902344] We were able to grab a quick bite and coffee at the convenience Starbucks in the lobby on our way out to our flight.
+[0.6364822387695312] The coffee bar in the lobby is great and opens at 5.
+[0.5001564025878906] The coffee bar in the lobby was handy, too!
+[0.2031097412109375] Located within a few miles of Sea-Tac this is a very large hotel with a Starbucks, gift shop, meeting rooms, breakfast room, bar and dining room.
+[0.01976776123046875] The room was spacious and had a coffee maker.
+
+----- Weakening -----
+
+[-0.7484893798828125] other bugs every where.
+[-0.6276702880859375] The cookies are, of course, one of our favorite things about the Doubletree chain.
+[-0.61895751953125] Wolfgang Puck coffee was available for the in room coffee maker, My room was in the tower on the 8th floor and had a balcony.
+[-0.6100921630859375] It was so liquified that it spilled all over my hand and burned me terribly.
+[-0.6029510498046875] At 1am the lobby bar was still very active with a jovial but well-behaved crowd, although the bartenders were understandably ready to head home to their families.
+
+**********
+
+[0.9920263290405273] The hotel gives out cookies at check-in.
+Parent: The hotel has a coffee bar in the lobby and gives out cookies at check-in, which were both well-received.
+
+----- Supporting -----
+
+[0.9920263290405273] The hotel is huge and they give you warm cookies once you check-in.
+[0.9860153198242188] The hotel reception had a lovely smell of freshly baked cookies which were given out at check in and were delicious.
+[0.9775180816650391] Cons - Hotel is spread out so pay attention to how to get to your room as you may get lost, Feather pillows (synthetic available on request), Pay parking ($16 self/day $20 valet/day), warm cookies on check in.
+[0.9772796630859375] Pros: - cookies upon check-in - one of my favorite things about the Doubletrees - complimentary airport shuttle every 15 mins - nice pools, rooms are very comfortable with excellent beds and Neutrogena toiletries and Wolfgang Puck coffee - nice food selection in hotel Cons: - parking is expensive - $16/night.
+[0.9617805480957031] The Hotel was clean, great staff, was greeted with hot fresh cookies at the check-in counter.
+
+----- Weakening -----
+
+[-0.9060211181640625] It was so liquified that it spilled all over my hand and burned me terribly.
+[-0.9053955078125] Diamond members get a small gift...it was three pieces of fruit on a stick and two pieces of cheese...can you say cheesy!!
+[-0.8857688903808594] other bugs every where.
+[-0.8577804565429688] --Cookies at check in were good.
+[-0.8404006958007812] Then there was this set-up for the syrup which was under a sterno can and full flame, the syrup was boiling.
+
+**********
+
+[0.7551155090332031] The coffee bar and cookies were both good.
+Parent: The hotel has a coffee bar in the lobby and gives out cookies at check-in, which were both well-received.
+
+----- Supporting -----
+
+[0.7551155090332031] Breakfast was delicious in the coffee shop, hot scones with jam and coffee.
+[0.16717529296875] Pros: - cookies upon check-in - one of my favorite things about the Doubletrees - complimentary airport shuttle every 15 mins - nice pools, rooms are very comfortable with excellent beds and Neutrogena toiletries and Wolfgang Puck coffee - nice food selection in hotel Cons: - parking is expensive - $16/night.
+[0.1381988525390625] The rooms are comfortable and the cookies are great but getting smaller.
+[0.07818603515625] Love the warm chocolate chips cookies and the service has always been outstanding.
+[0.06912612915039062] Saw shuttle pass us along the way ;-( Still, LIKE the location and the cookies ;-)
+
+----- Weakening -----
+
+[-0.934290885925293] Burger, soda and tip $21.00.
+[-0.9102506637573242] So a burger and soup were $32, and it was a very.
+[-0.850677490234375] Nice size bath.
+[-0.8461456298828125] What I found was rather run down and shabby.
+[-0.7913494110107422] Coffee shop service was horrible.

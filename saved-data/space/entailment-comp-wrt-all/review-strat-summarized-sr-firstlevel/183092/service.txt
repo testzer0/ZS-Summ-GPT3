@@ -1,0 +1,632 @@
+***** Aspect: service Model Type : zs *****
+Overall score: 0.8216427803039551
+
+**********
+
+[0.9769392013549805] The service at this hotel was poor.
+Parent: The service at this hotel was poor.
+
+----- Supporting -----
+
+[0.9769392013549805] For business use the hotel gets a C, it was a poor service compared to the others.
+[0.2495403289794922] Not very convenient to go down to lobby all the time...Staff was not at all helpful in this matter... A sidenote: the room when we arrived was not vacumed and was not clean.
+[0.21710586547851562] other issues- bathroom really not that nice, concierge horrible at recommending things to do or good resutarants or giving directions.
+[0.18500518798828125] Stay here if you can put up with bugs and indifferent staff.
+[0.16146087646484375] I did however find the staff to be very indifferent, almost cold and the rooms to be on the smaller side.
+
+----- Weakening -----
+
+[-0.9981215000152588] We've stayed here several times, and everytime the staff have been exceptionally warm and given us some special treatment.
+[-0.9981060028076172] The staff was absolutely wonderful both at the front desk and especially in the breakfast area.
+[-0.9980478286743164] Amazing service between the front desk, bell hops, and valet workers.
+[-0.9979181289672852] The room service is always on time and tastey...I highly recommend this hotel.
+[-0.9979119300842285] The service was superb, our waiter (Ralph) was very courteous and helpful and friendly also, we couldn't ask for much more.
+
+**********
+
+[0.9869885444641113] The air conditioning didn't work properly.
+Parent: The air conditioning did not work properly and the window could not be opened.
+
+----- Supporting -----
+
+[0.9869885444641113] To compound this the air conditioning didnt work properly and we couldn't open the window.
+[0.06566429138183594] Poor QC here.
+[0.03169059753417969] We went to the Toronto Islands on sunday and when I was there- my stiches started to leak.
+[0.014087677001953125] Not very convenient to go down to lobby all the time...Staff was not at all helpful in this matter... A sidenote: the room when we arrived was not vacumed and was not clean.
+[0.005718231201171875] I called the customer service person (with my cell phone!)
+
+----- Weakening -----
+
+[-0.918975830078125] The room was great: quiet, roomy, comfortable beds and good ventilation.
+[-0.8781166076660156] All in all, a very successful business trip by day and very comfortable nights at the Marriott.
+[-0.8543434143066406] Bonus, no need to go out with a coat since the Marriott has indoor access to the Eaton Center...Shoppers Heaven for sure!!!
+[-0.8502492904663086] Overall, it was a perfectly nice stay.
+[-0.8479537963867188] Only hangup was the boarding pass console was not working for Porter.
+
+**********
+
+[0.9599361419677734] The window could not be opened.
+Parent: The air conditioning did not work properly and the window could not be opened.
+
+----- Supporting -----
+
+[0.9599361419677734] To compound this the air conditioning didnt work properly and we couldn't open the window.
+[0.8999252319335938] One small window that didn't open.
+[0.3406982421875] Again i treid to explain that i didn't really want to walk- especially in my situation and if the shoppers was not open for certain.
+[0.2503662109375] Great service, friendly staff, good food - pity the room wiater couldn't go further than the threshold !!!!
+[0.106842041015625] By the time we got back to the mainland and back to the mall adjacent to the hotel- the shoppers was closed.
+
+----- Weakening -----
+
+[-0.9897832870483398] I got a discounted rate because I am a Marriott rewards member which made it worth it.
+[-0.9879302978515625] Check in was quick, easy, and again the staff were very helpful.
+[-0.9838495254516602] Our rate due to the conference was very reasonable so no complaints.
+[-0.9801006317138672] Made Christmas shopping an absolute treat!!
+[-0.9783287048339844] You have easy access to everything you might want: Yonge Street, Eaton Centre, China Town, Financial District, Entertainment District etc.
+
+**********
+
+[0.643798828125] The staff was disappointing.
+Parent: Some reviewers were disappointed with the staff, finding them to be indifferent or even rude.
+
+----- Supporting -----
+
+[0.643798828125] I did however find the staff to be very indifferent, almost cold and the rooms to be on the smaller side.
+[0.6290550231933594] Not very convenient to go down to lobby all the time...Staff was not at all helpful in this matter... A sidenote: the room when we arrived was not vacumed and was not clean.
+[0.606536865234375] Front desk staff were not the friendliest...common to big cities perhaps?
+[0.54425048828125] Stay here if you can put up with bugs and indifferent staff.
+[0.3491058349609375] Poor QC here.
+
+----- Weakening -----
+
+[-0.9980487823486328] We've stayed here several times, and everytime the staff have been exceptionally warm and given us some special treatment.
+[-0.9980206489562988] Reception and checkin staff are flawless and will help you with anything youay need.
+[-0.9979925155639648] Great staff, this hotel knows what they are doing and when I stay in downtown Toronto they are always my first choice.
+[-0.9979190826416016] The staff was great right from check-in with a "welcome back" from every employee starting with the valet.
+[-0.997887134552002] The hotel staff was very friendly and offered great service.
+
+**********
+
+[0.9780282974243164] The staff was indifferent.
+Parent: Some reviewers were disappointed with the staff, finding them to be indifferent or even rude.
+
+----- Supporting -----
+
+[0.9780282974243164] I did however find the staff to be very indifferent, almost cold and the rooms to be on the smaller side.
+[0.7675933837890625] Stay here if you can put up with bugs and indifferent staff.
+[0.54833984375] When we complained to the front desk, they didn't say sorry, they simply said they'd send someone up.
+[0.427978515625] When my husband's Cesar salad was served with chicken instead of salmon, he had to hunt down the waiter to point out the problem, and the waiter barely seemed to care.
+[0.339569091796875] Not very convenient to go down to lobby all the time...Staff was not at all helpful in this matter... A sidenote: the room when we arrived was not vacumed and was not clean.
+
+----- Weakening -----
+
+[-0.9986176490783691] Every hotel worker we encountered was friendly and helpful.
+[-0.998582124710083] The staff was absolutely wonderful both at the front desk and especially in the breakfast area.
+[-0.9985055923461914] The Staff were great and very helpful.
+[-0.9984850883483887] On arrival, the front door staff couldn't have been more helpful (hey, Jimmy !!)
+[-0.9984631538391113] Al the staff were very nice and helpful.
+
+**********
+
+[0.496795654296875] The staff was rude.
+Parent: Some reviewers were disappointed with the staff, finding them to be indifferent or even rude.
+
+----- Supporting -----
+
+[0.496795654296875] Front desk staff were not the friendliest...common to big cities perhaps?
+[0.25518798828125] The gentleman was excessively rude, simply entered the room, removed the dead bug and looked VERY quickly over the rest of the room before saying "Looks like we got em all".
+[0.1949462890625] We declined, and he became very indignant.
+[0.11468505859375] Stay here if you can put up with bugs and indifferent staff.
+[0.05808258056640625] But the parking attendants were telling us we couldn't leave our car there.
+
+----- Weakening -----
+
+[-0.9980947971343994] From the concierge and front desk staff, everyone was very nice and attentive during our stay.
+[-0.9980912208557129] Every hotel worker we encountered was friendly and helpful.
+[-0.9980664253234863] Everyone on staff was friendly and helpful.
+[-0.9980487823486328] All staff that we dealt with were courteous and professional.
+[-0.998023509979248] Al the staff were very nice and helpful.
+
+**********
+
+[0.9017982482910156] The rooms were not clean.
+Parent: There were also complaints about the cleanliness of the rooms and the speed of the internet connection.
+
+----- Supporting -----
+
+[0.9017982482910156] Not very convenient to go down to lobby all the time...Staff was not at all helpful in this matter... A sidenote: the room when we arrived was not vacumed and was not clean.
+[0.8930854797363281] my colleagues staying at the sheraton said their rooms were old and not maintained and in some cases dirty.
+[0.7497215270996094] While the beds were comfy and we had plenty of room, the guest rooms are in need of a renovation.
+[0.7020416259765625] The toilet did not flush properly and the shower seemed to have only 2 temperatures: scalding hot or freezing cold.
+[0.7009735107421875] To start with the decor in the rooms is dreadful; mustard coloured walls, a mustard coloured 3D (dont ask) carpet, mustard cloured bed throws and an artexed ceiling only just over 7 feet over our heads.
+
+----- Weakening -----
+
+[-0.9903583526611328] Not only that, but the rooms were spotlessly clean, the amenities were nice and our view was spectacular.
+[-0.9899578094482422] The staff was outstanding, the rooms were a bit small but very clean and with the most comfortable beds.
+[-0.9892539978027344] The rooms are clean and the beds are extremely comfortable...it was actually hard to get up in the morning!
+[-0.9875755310058594] The room was clean and the bed was very comfortable.
+[-0.9872970581054688] The room was clean, spacious and even included a pull out couch!
+
+**********
+
+[0.731842041015625] The internet connection was too slow.
+Parent: There were also complaints about the cleanliness of the rooms and the speed of the internet connection.
+
+----- Supporting -----
+
+[0.731842041015625] i think this is a good value for the area except for the internet charges which were high for such a slow connection.
+[0.395263671875] They charged us 17 Dollars for the internet a day.. which would have been fine had there been a fast wifi connection or multiple ethernet connections in the room.
+[0.3851280212402344] I was happy to get this hotel for $159/night - though internet was slow and added $16 dollars per day (though it included all calls - or so i thought until i got my bill and they had charged me $40 worth of long distance calls - they were promptly removed).
+[0.086883544921875] Great service, friendly staff, good food - pity the room wiater couldn't go further than the threshold !!!!
+[0.03012847900390625] and said that I really needed to do some work on my computer and I asked whether they could not speed up the repair on the line.
+
+----- Weakening -----
+
+[-0.9829998016357422] Book-in online was quick and easy, check-in was a breeze and they even gave us a free upgrade to a bedroom suite to celebrate the occassion.
+[-0.98175048828125] Marriott also has uncompetitive internet access rates - because internet and phone are bundled together as a package.
+[-0.9643497467041016] I had to book at the last minute and was able to get an excellent internet rate over the weekend days.
+[-0.9419870376586914] Amazing service between the front desk, bell hops, and valet workers.
+[-0.9259109497070312] You have easy access to everything you might want: Yonge Street, Eaton Centre, China Town, Financial District, Entertainment District etc.
+
+**********
+
+[0.27188873291015625] Some guests liked the hotel, while others did not.
+Parent: The reviews were mixed, but overall it seems that the service at the hotel was good.
+
+----- Supporting -----
+
+[0.27188873291015625] Overrall, my room was a comfortable place to spend some time (I liked the large flat panel tv), while the rest of the hotel was unexciting.
+[0.17989349365234375] For business use the hotel gets a C, it was a poor service compared to the others.
+[0.17882537841796875] I don't agree with the majority of the rave reviews for this hotel.
+[0.1542816162109375] my colleagues staying at the sheraton said their rooms were old and not maintained and in some cases dirty.
+[0.1540069580078125] I was surprised, after reading the reviews on this site, and visiting the hotel the disparity that exists between the two.
+
+----- Weakening -----
+
+[-0.111724853515625] We were very impressed with the hotel in general.
+[-0.097869873046875] We enjoyed nearly everything about the hotel.
+[-0.09699249267578125] We were working on an important project.
+[-0.0953369140625] Friday AM I had surgery.
+[-0.089019775390625] We've stayed here several times, and everytime the staff have been exceptionally warm and given us some special treatment.
+
+**********
+
+[0.64862060546875] The reviews were good.
+Parent: The reviews were mixed, but overall it seems that the service at the hotel was good.
+
+----- Supporting -----
+
+[0.64862060546875] Great service, friendly staff, good food - pity the room wiater couldn't go further than the threshold !!!!
+[0.6034164428710938] Everything was as expected, good check in, great location, nice room, good staff, etc....then about 11:00pm the fire alarms went off.
+[0.58575439453125] The staff are good.
+[0.5680885314941406] I stayed at the hotel with my family of 4 and my mother last weekend and we were really pleased with the hotel.
+[0.5485343933105469] We stayed 2 nights and found the hotel to be generally very good.
+
+----- Weakening -----
+
+[-0.9912014007568359] We are NOT demanding restaurant a patrons, but both the food and the service was poor.
+[-0.9863767623901367] Poor QC here.
+[-0.9858522415161133] During our recent trip we stayed in 5 hotels in Canada and this was by far the worst.
+[-0.9823102951049805] It is probably the most depressing hotel I have ever stayed in.
+[-0.9805831909179688] However, we were very dissapointed when we checked in to find that our sheets had stains on them and looked worn.
+
+**********
+
+[0.9786069393157959] The service at the hotel was good.
+Parent: The reviews were mixed, but overall it seems that the service at the hotel was good.
+
+----- Supporting -----
+
+[0.9786069393157959] The hotel staff was very friendly and offered great service.
+[0.9587693214416504] The room service is always on time and tastey...I highly recommend this hotel.
+[0.9324002265930176] The hotel was nearly 100% full, but check-in went quickly and we felt like the staff was taking good care of us.
+[0.9262619018554688] The service at the Mariott was wonderful for the duration of our stay.
+[0.9244322776794434] For a Downtown hotel, I would give this a 5 star for friendly and efficient service.
+
+----- Weakening -----
+
+[-0.9909381866455078] For business use the hotel gets a C, it was a poor service compared to the others.
+[-0.9608688354492188] I did however find the staff to be very indifferent, almost cold and the rooms to be on the smaller side.
+[-0.9578590393066406] Not very convenient to go down to lobby all the time...Staff was not at all helpful in this matter... A sidenote: the room when we arrived was not vacumed and was not clean.
+[-0.9539260864257812] other issues- bathroom really not that nice, concierge horrible at recommending things to do or good resutarants or giving directions.
+[-0.9188423156738281] Front desk staff were not the friendliest...common to big cities perhaps?
+
+**********
+
+[0.5204238891601562] The fees for internet access were too high.
+Parent: Some people were annoyed at the fees charged for internet access, but most people seemed to be happy with the service overall.
+
+----- Supporting -----
+
+[0.5204238891601562] i think this is a good value for the area except for the internet charges which were high for such a slow connection.
+[0.278778076171875] And what is it with hotels charging more than $300 a night and still nickle and diming you with a daily internet charge?
+[0.2633705139160156] I was disappointed with the Internet service, though: $15 + $3 service charge daily, from noon to noon, with some interruptions.
+[0.26003265380859375] One is my usual complaint of charging the exhorbitant fees for internet access in the guest rooms...this drives me crazy that I can go to a Holiday Inn Express and get free wireless internet in my room but the higher end hotels charge for it.
+[0.1939544677734375] Internet connection in room rather pricey.
+
+----- Weakening -----
+
+[-0.9218411445617676] Book-in online was quick and easy, check-in was a breeze and they even gave us a free upgrade to a bedroom suite to celebrate the occassion.
+[-0.9093899726867676] I had to book at the last minute and was able to get an excellent internet rate over the weekend days.
+[-0.8669538497924805] Our rate due to the conference was very reasonable so no complaints.
+[-0.8150167465209961] We had the concierge lounge promotion and we enjoyed the free drinks and appetizers.
+[-0.7769546508789062] Convenient to transportation.
+
+**********
+
+[0.9535007476806641] The service was good.
+Parent: Some people were annoyed at the fees charged for internet access, but most people seemed to be happy with the service overall.
+
+----- Supporting -----
+
+[0.9535007476806641] The service has always been excellent.
+[0.9534416198730469] The service was superb, our waiter (Ralph) was very courteous and helpful and friendly also, we couldn't ask for much more.
+[0.9480218887329102] The maid service was excellent and very prompt.
+[0.9476242065429688] Great service, friendly staff, good food - pity the room wiater couldn't go further than the threshold !!!!
+[0.9373273849487305] The service at the Mariott was wonderful for the duration of our stay.
+
+----- Weakening -----
+
+[-0.9925575256347656] For business use the hotel gets a C, it was a poor service compared to the others.
+[-0.9913482666015625] We are NOT demanding restaurant a patrons, but both the food and the service was poor.
+[-0.96502685546875] Not very convenient to go down to lobby all the time...Staff was not at all helpful in this matter... A sidenote: the room when we arrived was not vacumed and was not clean.
+[-0.9639472961425781] other issues- bathroom really not that nice, concierge horrible at recommending things to do or good resutarants or giving directions.
+[-0.9585189819335938] The gentleman was excessively rude, simply entered the room, removed the dead bug and looked VERY quickly over the rest of the room before saying "Looks like we got em all".
+
+**********
+
+[0.971888542175293] The service was great.
+Parent: The service was great, with some staff going above and beyond to make sure guests were happy.
+
+----- Supporting -----
+
+[0.971888542175293] The service was superb, our waiter (Ralph) was very courteous and helpful and friendly also, we couldn't ask for much more.
+[0.9603385925292969] The service was exceptional, the beds VERY comfortable and the room is really nice size.
+[0.9579219818115234] The service has always been excellent.
+[0.9569292068481445] The service at the Mariott was wonderful for the duration of our stay.
+[0.9544696807861328] The maid service was excellent and very prompt.
+
+----- Weakening -----
+
+[-0.9977154731750488] For business use the hotel gets a C, it was a poor service compared to the others.
+[-0.9976458549499512] We are NOT demanding restaurant a patrons, but both the food and the service was poor.
+[-0.9957208633422852] I was disappointed with the Internet service, though: $15 + $3 service charge daily, from noon to noon, with some interruptions.
+[-0.9932036399841309] I did however find the staff to be very indifferent, almost cold and the rooms to be on the smaller side.
+[-0.9928174018859863] The gentleman was excessively rude, simply entered the room, removed the dead bug and looked VERY quickly over the rest of the room before saying "Looks like we got em all".
+
+**********
+
+[0.9762153625488281] The staff were amazing.
+Parent: The service was great, with some staff going above and beyond to make sure guests were happy.
+
+----- Supporting -----
+
+[0.9762153625488281] The staff were wonderful!
+[0.9743537902832031] The staff are incredible and don't accept tips, so if you are not from North America this is the place for you.
+[0.9713687896728516] The staff was absolutely wonderful both at the front desk and especially in the breakfast area.
+[0.9710845947265625] The staff was outstanding, the rooms were a bit small but very clean and with the most comfortable beds.
+[0.9639105796813965] The Staff were great and very helpful.
+
+----- Weakening -----
+
+[-0.9978704452514648] I did however find the staff to be very indifferent, almost cold and the rooms to be on the smaller side.
+[-0.996922492980957] Not very convenient to go down to lobby all the time...Staff was not at all helpful in this matter... A sidenote: the room when we arrived was not vacumed and was not clean.
+[-0.9959425926208496] Stay here if you can put up with bugs and indifferent staff.
+[-0.9958915710449219] Front desk staff were not the friendliest...common to big cities perhaps?
+[-0.9949994087219238] other issues- bathroom really not that nice, concierge horrible at recommending things to do or good resutarants or giving directions.
+
+**********
+
+[0.5067672729492188] The guests were happy.
+Parent: The service was great, with some staff going above and beyond to make sure guests were happy.
+
+----- Supporting -----
+
+[0.5067672729492188] I stayed at the hotel with my family of 4 and my mother last weekend and we were really pleased with the hotel.
+[0.486358642578125] We can't wait to come back!
+[0.3856773376464844] We enjoyed our stay both times.
+[0.3525114059448242] All in all, a pleasant stay.
+[0.34783935546875] The service was superb, our waiter (Ralph) was very courteous and helpful and friendly also, we couldn't ask for much more.
+
+----- Weakening -----
+
+[-0.9896411895751953] One was dead and under the chair in the room, and the other my husband saw scurrying across the floor.
+[-0.9787492752075195] We declined, and he became very indignant.
+[-0.9739093780517578] However, we were very dissapointed when we checked in to find that our sheets had stains on them and looked worn.
+[-0.9199180603027344] I will not stay there again.
+[-0.9044380187988281] I was so frustrated.
+
+**********
+
+[0.8483142852783203] The phone service in the rooms was not good.
+Parent: There were some issues with the phone and internet service in the rooms, but the front desk staff were apologetic and tried to help as much as they could.
+
+----- Supporting -----
+
+[0.8483142852783203] The issue I had is that the phone system in some of the rooms was not functioning when I checked in.
+[0.3988800048828125] I was happy to get this hotel for $159/night - though internet was slow and added $16 dollars per day (though it included all calls - or so i thought until i got my bill and they had charged me $40 worth of long distance calls - they were promptly removed).
+[0.3638763427734375] For business use the hotel gets a C, it was a poor service compared to the others.
+[0.30632591247558594] I tried to hook up my computer to the internet in the room afterwards, but I found that this was not working either because of the phone line issue.
+[0.119293212890625] Our in-room safe wasn't working properly, but that was corrected while we went out for an afternoon exploration of Toronto.
+
+----- Weakening -----
+
+[-0.8963775634765625] The service has always been excellent.
+[-0.860687255859375] Great service is offered without the expectation of a gratuity.
+[-0.8087234497070312] Amazing service between the front desk, bell hops, and valet workers.
+[-0.7607040405273438] I thought that the service response was great - I have never had someone come to my room to hand me another key.
+[-0.6905517578125] The highlight for me was th staff.
+
+**********
+
+[0.89599609375] The internet service in the rooms was not good.
+Parent: There were some issues with the phone and internet service in the rooms, but the front desk staff were apologetic and tried to help as much as they could.
+
+----- Supporting -----
+
+[0.89599609375] Great service, friendly staff, good food - pity the room wiater couldn't go further than the threshold !!!!
+[0.8173332214355469] I was happy to get this hotel for $159/night - though internet was slow and added $16 dollars per day (though it included all calls - or so i thought until i got my bill and they had charged me $40 worth of long distance calls - they were promptly removed).
+[0.5243072509765625] They charged us 17 Dollars for the internet a day.. which would have been fine had there been a fast wifi connection or multiple ethernet connections in the room.
+[0.352203369140625] No free internet in the rooms just in the Concierge Lounge.
+[0.3239021301269531] I tried to hook up my computer to the internet in the room afterwards, but I found that this was not working either because of the phone line issue.
+
+----- Weakening -----
+
+[-0.9500484466552734] I had to book at the last minute and was able to get an excellent internet rate over the weekend days.
+[-0.9251289367675781] Marriott also has uncompetitive internet access rates - because internet and phone are bundled together as a package.
+[-0.9087400436401367] The service has always been excellent.
+[-0.8879718780517578] Great service is offered without the expectation of a gratuity.
+[-0.75299072265625] That was great.
+
+**********
+
+[0.8993415832519531] The front desk staff was apologetic.
+Parent: There were some issues with the phone and internet service in the rooms, but the front desk staff were apologetic and tried to help as much as they could.
+
+----- Supporting -----
+
+[0.8993415832519531] We called reception at 3am to get them changed, they were apologetic and changed them immediately but even the 'new' sheets still had holes and looked worn!
+[0.7379913330078125] The customer service person was quite apologetic and told me that she would see what she could do.
+[0.401763916015625] This time the clerk did manage a sorry, but it was forced.
+[0.1224365234375] Front desk staff were not the friendliest...common to big cities perhaps?
+[0.03391265869140625] I hesitate to start with a description of a not-so-good experience, but the staff response to the not-so-good experience was handled so well that in the end, I left the hotel quite impressed.
+
+----- Weakening -----
+
+[-0.9919748306274414] The staff was absolutely wonderful both at the front desk and especially in the breakfast area.
+[-0.9918174743652344] When we complained to the front desk, they didn't say sorry, they simply said they'd send someone up.
+[-0.9889488220214844] concierge was fairly helpful, front desk staff was prompt and helpful.
+[-0.9874796867370605] The staff took care of all ours needs and requests with enthusiasm and the concierge even went so far as recommend vineyards to visit for our side trip to Niagra wine country.
+[-0.9868602752685547] The hotel staff was very friendly and offered great service.
+
+**********
+
+[0.979095458984375] The front desk staff was helpful.
+Parent: There were some issues with the phone and internet service in the rooms, but the front desk staff were apologetic and tried to help as much as they could.
+
+----- Supporting -----
+
+[0.979095458984375] The front desk staff were also friendly and helpful with any requests.
+[0.9776477813720703] concierge was fairly helpful, front desk staff was prompt and helpful.
+[0.9603338241577148] The people at the front desk were more than willing to help us out with what we needed.
+[0.8460712432861328] Reception and checkin staff are flawless and will help you with anything youay need.
+[0.8256874084472656] From the front desk to housekeeping to the restaurant/bar service, everyone was polite and very helpful.
+
+----- Weakening -----
+
+[-0.9803009033203125] Front desk staff were not the friendliest...common to big cities perhaps?
+[-0.9527778625488281] Not very convenient to go down to lobby all the time...Staff was not at all helpful in this matter... A sidenote: the room when we arrived was not vacumed and was not clean.
+[-0.9245061874389648] I did however find the staff to be very indifferent, almost cold and the rooms to be on the smaller side.
+[-0.9206008911132812] The front desk girl didn't seem to understand the situation and said "oh there is a shoppers 2 blocks from here."
+[-0.9118518829345703] The gentleman was excessively rude, simply entered the room, removed the dead bug and looked VERY quickly over the rest of the room before saying "Looks like we got em all".
+
+**********
+
+[0.9301414489746094] Room service was efficient.
+Parent: Room service was efficient and not overpriced.
+
+----- Supporting -----
+
+[0.9301414489746094] I have to mention the housekeeping staff who were very efficient, and cleaned up our room almost as soon as we left it.
+[0.912989616394043] For a Downtown hotel, I would give this a 5 star for friendly and efficient service.
+[0.8389320373535156] The room service is always on time and tastey...I highly recommend this hotel.
+[0.6821136474609375] Room service was not over-priced and it took about half an hour for our dinner to arrive on the Saturday evening, when we were too lazy to venture out for a meal.
+[0.6715850830078125] The maid service was excellent and very prompt.
+
+----- Weakening -----
+
+[-0.9715156555175781] Not very convenient to go down to lobby all the time...Staff was not at all helpful in this matter... A sidenote: the room when we arrived was not vacumed and was not clean.
+[-0.9652290344238281] For business use the hotel gets a C, it was a poor service compared to the others.
+[-0.9585647583007812] The gentleman was excessively rude, simply entered the room, removed the dead bug and looked VERY quickly over the rest of the room before saying "Looks like we got em all".
+[-0.9542312622070312] They were slow to arrive at the lobby on Saturday afternoon, evening and the next morning.
+[-0.9490432739257812] We also experienced a false fire alarm which was disconcerting as it took quite some time for us to get through to the receptionist to see whether we should proceed down the fire stairs or stay put..
+
+**********
+
+[0.9310073852539062] Room service was reasonably priced.
+Parent: Room service was efficient and not overpriced.
+
+----- Supporting -----
+
+[0.9310073852539062] Room service was not over-priced and it took about half an hour for our dinner to arrive on the Saturday evening, when we were too lazy to venture out for a meal.
+[0.7646255493164062] (1) Location of the hotel is ideal , my wife was thrilled as it was within short walling distance to the Eaton center one of the largest shopping centers in Toronto (2) Room is spacious compared to other 4 star hotels, good furniture, clean and neat (3) Good entertainment with LCD 37 inch TV with on demand movies and more (4) Staff are friendly and professional, good staffing numbers very adequate (5) Breakfast was great and included in the price of around US$ 200 per night , very fair price for this hotel, the breakfast included fresh fruits (Produce of Canada) and eggs and an egg station and many other delights
+[0.6732177734375] I was happy to get this hotel for $159/night - though internet was slow and added $16 dollars per day (though it included all calls - or so i thought until i got my bill and they had charged me $40 worth of long distance calls - they were promptly removed).
+[0.66387939453125] Excellent rate of 3 nights for the price of 2 provided a huge room with ample storage facilities, Plasma TV and safe.
+[0.66046142578125] Room service breakfast was $20 for nothing too special.
+
+----- Weakening -----
+
+[-0.9897308349609375] I can't comment on the food or drinks offered at the hotel as we did not order anything at the restaurant or room service - it was pretty expensive.
+[-0.9854240417480469] The breakfast on room service and in the hotel (buffet and menu) are both pretty pricey (around 18$ each approx).
+[-0.9836893081665039] And for this we paid fancy hotel restaurant prices - ugh!
+[-0.9761543273925781] The prices are way to high for what you get... a room.
+[-0.9522209167480469] It is a little expensive, but they offer a great variety.
+
+**********
+
+[0.98309326171875] The staff were courteous.
+Parent: The staff were generally courteous and professional.
+
+----- Supporting -----
+
+[0.98309326171875] The staff were courteous and helpful, and the sports bar on the first floor was a great place to hang out.
+[0.9810342788696289] All the hotel staff were friendly and courteous.
+[0.97125244140625] All staff that we dealt with were courteous and professional.
+[0.9627494812011719] The hotel is in a great location and staff were efficient and polite.
+[0.956171989440918] The staff at the hotel were polite and helpful at all times.
+
+----- Weakening -----
+
+[-0.9896659851074219] Front desk staff were not the friendliest...common to big cities perhaps?
+[-0.9883017539978027] The gentleman was excessively rude, simply entered the room, removed the dead bug and looked VERY quickly over the rest of the room before saying "Looks like we got em all".
+[-0.9797134399414062] I did however find the staff to be very indifferent, almost cold and the rooms to be on the smaller side.
+[-0.9687118530273438] This time the clerk did manage a sorry, but it was forced.
+[-0.9683265686035156] Stay here if you can put up with bugs and indifferent staff.
+
+**********
+
+[0.9615097045898438] The staff were professional.
+Parent: The staff were generally courteous and professional.
+
+----- Supporting -----
+
+[0.9615097045898438] The lobby is very appealing and the front desk staff were professional and polite.
+[0.9571552276611328] Food was good and service from all of the staff was extremely professional.
+[0.9514598846435547] All staff that we dealt with were courteous and professional.
+[0.9513454437255859] (1) Location of the hotel is ideal , my wife was thrilled as it was within short walling distance to the Eaton center one of the largest shopping centers in Toronto (2) Room is spacious compared to other 4 star hotels, good furniture, clean and neat (3) Good entertainment with LCD 37 inch TV with on demand movies and more (4) Staff are friendly and professional, good staffing numbers very adequate (5) Breakfast was great and included in the price of around US$ 200 per night , very fair price for this hotel, the breakfast included fresh fruits (Produce of Canada) and eggs and an egg station and many other delights
+[0.9458904266357422] In addition to being spacious, the lobby was decorated in a modern fashion with booth-like check-in desk, complete with a very professional and courteous staff who checked us in promptly.
+
+----- Weakening -----
+
+[-0.9834403991699219] I did however find the staff to be very indifferent, almost cold and the rooms to be on the smaller side.
+[-0.9805612564086914] The gentleman was excessively rude, simply entered the room, removed the dead bug and looked VERY quickly over the rest of the room before saying "Looks like we got em all".
+[-0.9558143615722656] Stay here if you can put up with bugs and indifferent staff.
+[-0.9457054138183594] This time the clerk did manage a sorry, but it was forced.
+[-0.929779052734375] other issues- bathroom really not that nice, concierge horrible at recommending things to do or good resutarants or giving directions.
+
+**********
+
+[0.984379768371582] The staff at this hotel are friendly.
+Parent: The staff at this hotel are consistently friendly and helpful, offering great service to guests.
+
+----- Supporting -----
+
+[0.984379768371582] The hotel staff was very friendly and offered great service.
+[0.983802318572998] All the hotel staff were friendly and courteous.
+[0.9752888679504395] The staff at the hotel were polite and helpful at all times.
+[0.9742898941040039] The hotel staff was friendly and efficient, our room was clean and spacious and the amenities made it feel very upscale.
+[0.9716472625732422] The hotel was very clean, the hotel staff were very friendly and information, and it was close to public transportation, which we used for our entire time in Toronto.
+
+----- Weakening -----
+
+[-0.9832515716552734] I did however find the staff to be very indifferent, almost cold and the rooms to be on the smaller side.
+[-0.9823760986328125] The gentleman was excessively rude, simply entered the room, removed the dead bug and looked VERY quickly over the rest of the room before saying "Looks like we got em all".
+[-0.9785289764404297] Stay here if you can put up with bugs and indifferent staff.
+[-0.9734668731689453] Front desk staff were not the friendliest...common to big cities perhaps?
+[-0.95208740234375] Not very convenient to go down to lobby all the time...Staff was not at all helpful in this matter... A sidenote: the room when we arrived was not vacumed and was not clean.
+
+**********
+
+[0.976102352142334] The staff at this hotel are helpful.
+Parent: The staff at this hotel are consistently friendly and helpful, offering great service to guests.
+
+----- Supporting -----
+
+[0.976102352142334] The staff at the hotel were polite and helpful at all times.
+[0.9434394836425781] I stayed in this hotel as part of a large family group who travelled from Ireland to Toronto for a wedding, the management and staff were wonderful, this was not only about the facilities of the hotel but they were very helpful in guiding us where to go in Toronto and how to get there.
+[0.9266271591186523] Every hotel worker we encountered was friendly and helpful.
+[0.9075660705566406] But hotel staff did their best to help.
+[0.8919143676757812] The hotel staff was friendly and efficient, our room was clean and spacious and the amenities made it feel very upscale.
+
+----- Weakening -----
+
+[-0.9906826019287109] I did however find the staff to be very indifferent, almost cold and the rooms to be on the smaller side.
+[-0.9853019714355469] Not very convenient to go down to lobby all the time...Staff was not at all helpful in this matter... A sidenote: the room when we arrived was not vacumed and was not clean.
+[-0.9839630126953125] other issues- bathroom really not that nice, concierge horrible at recommending things to do or good resutarants or giving directions.
+[-0.9825077056884766] Stay here if you can put up with bugs and indifferent staff.
+[-0.9627342224121094] Front desk staff were not the friendliest...common to big cities perhaps?
+
+**********
+
+[0.9741814136505127] The staff at this hotel offers great service to guests.
+Parent: The staff at this hotel are consistently friendly and helpful, offering great service to guests.
+
+----- Supporting -----
+
+[0.9741814136505127] The hotel staff was very friendly and offered great service.
+[0.9353427886962891] The hotel was nearly 100% full, but check-in went quickly and we felt like the staff was taking good care of us.
+[0.9149961471557617] I stayed in this hotel as part of a large family group who travelled from Ireland to Toronto for a wedding, the management and staff were wonderful, this was not only about the facilities of the hotel but they were very helpful in guiding us where to go in Toronto and how to get there.
+[0.8831443786621094] (1) Location of the hotel is ideal , my wife was thrilled as it was within short walling distance to the Eaton center one of the largest shopping centers in Toronto (2) Room is spacious compared to other 4 star hotels, good furniture, clean and neat (3) Good entertainment with LCD 37 inch TV with on demand movies and more (4) Staff are friendly and professional, good staffing numbers very adequate (5) Breakfast was great and included in the price of around US$ 200 per night , very fair price for this hotel, the breakfast included fresh fruits (Produce of Canada) and eggs and an egg station and many other delights
+[0.8060121536254883] But hotel staff did their best to help.
+
+----- Weakening -----
+
+[-0.9945545196533203] Stay here if you can put up with bugs and indifferent staff.
+[-0.9941697120666504] I did however find the staff to be very indifferent, almost cold and the rooms to be on the smaller side.
+[-0.9937238693237305] Not very convenient to go down to lobby all the time...Staff was not at all helpful in this matter... A sidenote: the room when we arrived was not vacumed and was not clean.
+[-0.9916458129882812] other issues- bathroom really not that nice, concierge horrible at recommending things to do or good resutarants or giving directions.
+[-0.988121509552002] For business use the hotel gets a C, it was a poor service compared to the others.
+
+**********
+
+[0.5848236083984375] The hotel responds quickly to requests.
+Parent: They are quick to respond to requests and go above and beyond to make sure guests are comfortable and have everything they need.
+
+----- Supporting -----
+
+[0.5848236083984375] The room service is always on time and tastey...I highly recommend this hotel.
+[0.37096405029296875] Fire alarm at 5.20am and evacuation was well handled although muddled about the return to the rooms - no problems with that becuase the staff made sure you were out of the hotel and the Toronto Fire Brigade were there in an instant!
+[0.3385810852050781] In addition to being spacious, the lobby was decorated in a modern fashion with booth-like check-in desk, complete with a very professional and courteous staff who checked us in promptly.
+[0.2977294921875] concierge was fairly helpful, front desk staff was prompt and helpful.
+[0.293487548828125] When I called to cancel, rather than just accept my cancellation request and take the money (I prepaid a nonrefunable sum for the room), they directed me to a manager person, who immediately heard my concerns and showed me objective evidence of what measures were taken to ensure that no bedbugs were in this hotel.
+
+----- Weakening -----
+
+[-0.9958839416503906] I would often try to tip them, sometimes $20, but they always refused, stating that it was against hotel policy and that it was "part of the service".
+[-0.9940462112426758] They were slow to arrive at the lobby on Saturday afternoon, evening and the next morning.
+[-0.9937982559204102] We also experienced a false fire alarm which was disconcerting as it took quite some time for us to get through to the receptionist to see whether we should proceed down the fire stairs or stay put..
+[-0.9921979904174805] Not very convenient to go down to lobby all the time...Staff was not at all helpful in this matter... A sidenote: the room when we arrived was not vacumed and was not clean.
+[-0.9915332794189453] other issues- bathroom really not that nice, concierge horrible at recommending things to do or good resutarants or giving directions.
+
+**********
+
+[0.5176486968994141] They make sure guests are comfortable.
+Parent: They are quick to respond to requests and go above and beyond to make sure guests are comfortable and have everything they need.
+
+----- Supporting -----
+
+[0.5176486968994141] The rooms are clean and the beds are extremely comfortable...it was actually hard to get up in the morning!
+[0.48388099670410156] Beds are very comfortable and staff are numerous and helpful.
+[0.4206390380859375] Bed comfortable; furniture, carpeting, drapes in good repair.
+[0.3790855407714844] The staff was outstanding, the rooms were a bit small but very clean and with the most comfortable beds.
+[0.34548377990722656] This place is very clean, its got THE MOST comfortable beds, and the location is great.
+
+----- Weakening -----
+
+[-0.9822940826416016] Not very convenient to go down to lobby all the time...Staff was not at all helpful in this matter... A sidenote: the room when we arrived was not vacumed and was not clean.
+[-0.9802608489990234] Stay here if you can put up with bugs and indifferent staff.
+[-0.9779434204101562] I did however find the staff to be very indifferent, almost cold and the rooms to be on the smaller side.
+[-0.9747791290283203] The effect in the small room was to feel as if the ceiling and walls were closing in on us.
+[-0.9643573760986328] Front desk staff were not the friendliest...common to big cities perhaps?
+
+**********
+
+[0.6796092987060547] The hotel staff are attentive and make sure guests have everything they need.
+Parent: They are quick to respond to requests and go above and beyond to make sure guests are comfortable and have everything they need.
+
+----- Supporting -----
+
+[0.6796092987060547] The staff took care of all ours needs and requests with enthusiasm and the concierge even went so far as recommend vineyards to visit for our side trip to Niagra wine country.
+[0.5173425674438477] Reception and checkin staff are flawless and will help you with anything youay need.
+[0.41338157653808594] The hotel staff was friendly and efficient, our room was clean and spacious and the amenities made it feel very upscale.
+[0.40462398529052734] From the concierge and front desk staff, everyone was very nice and attentive during our stay.
+[0.3971405029296875] And David and Paul the Concierges were very knowledgable and nothing was too much trouble..
+
+----- Weakening -----
+
+[-0.9976530075073242] Not very convenient to go down to lobby all the time...Staff was not at all helpful in this matter... A sidenote: the room when we arrived was not vacumed and was not clean.
+[-0.9975180625915527] I did however find the staff to be very indifferent, almost cold and the rooms to be on the smaller side.
+[-0.9966588020324707] Stay here if you can put up with bugs and indifferent staff.
+[-0.996628999710083] other issues- bathroom really not that nice, concierge horrible at recommending things to do or good resutarants or giving directions.
+[-0.9911093711853027] Front desk staff were not the friendliest...common to big cities perhaps?

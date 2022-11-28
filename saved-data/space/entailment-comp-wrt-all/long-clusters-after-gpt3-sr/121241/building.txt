@@ -1,0 +1,128 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.9527692794799805
+
+**********
+
+[0.8764991760253906] The building was in poor condition.
+Parent: The building was in poor condition, with dead bugs in the water, a hole in the wall, and chains on the doors.
+
+----- Supporting -----
+
+[0.8764991760253906] At 11pm I contacted the Holiday Inn Express on Green Mountian Drive and Josh gave me a great rate to help compensate the poor quality of the Stone Castle.
+[0.7806720733642578] The hotel just did not seem clean at all.
+[0.7782421112060547] We would never go back to this property again, because of the condition of the property, and the bad oders.
+[0.6239585876464844] The air conditioning in the buildings did not work properly.
+[0.6233806610107422] The carpet was old and the building had a musty smell to it.
+
+----- Weakening -----
+
+[-0.9971566200256348] The room was very clean and decorated very nicely.
+[-0.9957268238067627] They were clean and the furnishing were very nice.
+[-0.9956803321838379] Everything was clean and worked properly.
+[-0.9956026077270508] Rooms and halls were clean and neat.
+[-0.9955596923828125] Everything was great---Front desk people were friendly and was always willing to help in anyway...Rooms were clean and fresh..Breakfast was good and good music to listen too....I would rate this hotel and one of the best Branson has to offer.
+
+**********
+
+[0.9912376403808594] There were dead bugs in the water.
+Parent: The building was in poor condition, with dead bugs in the water, a hole in the wall, and chains on the doors.
+
+----- Supporting -----
+
+[0.9912376403808594] There were dead bugs floating in the water, a hole in the wall under the window, a piece of wood holding a slide glass door open, chains on other doors that said "this entrance is in need of repairs, sorry for any inconvenience" or something to that affect.
+[0.0052547454833984375] The beds were very very nasty.
+[0.001811981201171875] The pool area was in terrible shape.
+[0.001430511474609375] Stay for convention...place was filthy....nothing was clean.
+[0.0] !
+
+----- Weakening -----
+
+[-0.9336166381835938] The free breakfast buffet in the morning was delicious and had a good variety.
+[-0.92449951171875] They have scrambled eggs, biscuits and gravy, waffles, hot and cold cereal, and even donuts!
+[-0.9224052429199219] The breakfast buffet they provide has hot food (eggs, sausage, french toast sticks, biscuits and gravy) along with your typical hotel breakfast food.
+[-0.9074230194091797] There was a gorgeous painting on the wall, the lovely arch made me feel like a real Geneviere of Camelot.
+[-0.9050827026367188] Eggs, sausage, ham, biscuits and gravy plus hot and cold cereals were served.
+
+**********
+
+[0.9454631805419922] There was a hole in the wall.
+Parent: The building was in poor condition, with dead bugs in the water, a hole in the wall, and chains on the doors.
+
+----- Supporting -----
+
+[0.9454631805419922] There were dead bugs floating in the water, a hole in the wall under the window, a piece of wood holding a slide glass door open, chains on other doors that said "this entrance is in need of repairs, sorry for any inconvenience" or something to that affect.
+[0.10471725463867188] In fact, it had a hole where some kind of lock used to be.
+[0.0023193359375] NAsty hotel!!!!
+[0.0013275146484375] The room was filthy and disgusting!
+[0.001178741455078125] I had to take my wife, 6 week old daughter, and my 8 year old daughter out at 11 pm to take them to a clean place for them to sleep!
+
+----- Weakening -----
+
+[-0.8873977661132812] There was a gorgeous painting on the wall, the lovely arch made me feel like a real Geneviere of Camelot.
+[-0.884307861328125] My son found a long hair in his pancake.
+[-0.8487014770507812] There is a convenient onsight restaurant.
+[-0.8341140747070312] They have a wonderful breakfast buffet with entertainment in the mornings (at no extra cost).
+[-0.8222198486328125] The continental breakfast was wonderful and well organized.
+
+**********
+
+[0.9461936950683594] The building had chains on the doors.
+Parent: The building was in poor condition, with dead bugs in the water, a hole in the wall, and chains on the doors.
+
+----- Supporting -----
+
+[0.9461936950683594] There were dead bugs floating in the water, a hole in the wall under the window, a piece of wood holding a slide glass door open, chains on other doors that said "this entrance is in need of repairs, sorry for any inconvenience" or something to that affect.
+[0.2122802734375] we were locked in this property because of the package we bought through the tracel company.
+[0.0432891845703125] It was a constant job to make sure you didn't lock yourself out.
+[0.03662109375] The bathroom door locks when you turn the lock left and then it locks again if you turn it very far to the right.
+[0.01149749755859375] Since this was right after Christmas there weren't many people staying there and half the property was closed off.
+
+----- Weakening -----
+
+[-0.9510536193847656] Nice TV; free WiFi.
+[-0.9362392425537109] The staff keeps everything full and clean.
+[-0.9254188537597656] They give a nice brakfast, sometimes with entertainment and a pool and hot tub that is open from 6 am to 1 am.
+[-0.9192619323730469] They have scrambled eggs, biscuits and gravy, waffles, hot and cold cereal, and even donuts!
+[-0.9162979125976562] They have a wonderful breakfast buffet with entertainment in the mornings (at no extra cost).
+
+**********
+
+[0.9922056198120117] The fire alarms were disabled.
+Parent: The fire alarms were disabled and the musty odor was horrible.
+
+----- Supporting -----
+
+[0.9922056198120117] The fire alarms were all disabled throughout the entire hotel.
+[0.001102447509765625] The hotel just did not seem clean at all.
+[6.67572021484375e-05] That was inconvenient.
+[0.0] !
+[0.0] love them.
+
+----- Weakening -----
+
+[-0.94427490234375] The staff keeps everything full and clean.
+[-0.8939208984375] Stay away at all costs.
+[-0.78131103515625] Every requests is handled quickly and efficiently.
+[-0.7765178680419922] Everything was clean and worked properly.
+[-0.7367782592773438] Look elsewhere!
+
+**********
+
+[0.9650163650512695] The musty odor was horrible.
+Parent: The fire alarms were disabled and the musty odor was horrible.
+
+----- Supporting -----
+
+[0.9650163650512695] However, when we went into the building....the musty odor was horrible, the lobby area was humid as if the air conditioning wasn't on, the elevator smelled musty.
+[0.9001684188842773] Opening the door, our room was musty and it smelled horrible.
+[0.27581787109375] Once inside the hotel it smelled so musty I opened the window in my room to discover it didn't even lock (we had a main floor room, so window locks are a MUST) Husband went to the front desk to complain, maintenance man was able to fix it after at least 45 minute wait.
+[0.18983745574951172] The room was filthy and disgusting!
+[0.11222362518310547] The room was like being in a cave with a bad smell.
+
+----- Weakening -----
+
+[-0.9973089694976807] The atmosphere was nice and friendly.
+[-0.9972424507141113] the beds are so fresh and smell good.so close to sleeping in my own beds.
+[-0.9963037967681885] Check in process was very pleasant, room was nice and CLEAN!!
+[-0.9958236217498779] The room was nice and clean and the hotel staff was wonderful.
+[-0.9953382015228271] The room was very large and comfortable, clean, quiet, great location.

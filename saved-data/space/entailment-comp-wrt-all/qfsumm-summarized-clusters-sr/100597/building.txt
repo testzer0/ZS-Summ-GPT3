@@ -1,0 +1,128 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.9648941357930502
+
+**********
+
+[0.9791431427001953] The wing building was closed.
+Parent: One wing building was closed for renovation .
+
+----- Supporting -----
+
+[0.9791431427001953] One wing building was closed for renovation.
+[0.114837646484375] No b-fast was offered.
+[0.03094482421875] We had planned to eat at the hotel restaurant but it was not open.
+[0.0069580078125] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[0.0] All good!
+
+----- Weakening -----
+
+[-0.9939026832580566] While the wing I was in appeared to be older, you could tell they try to take care of it and it was very clean.
+[-0.9886054992675781] But the rooms are a great size, and we noticed large groups of flight attendants from various airlines staying there as well.
+[-0.9860343933105469] The crappy wings are old and the rooms smell musty.
+[-0.98492431640625] We had dinner in the attached restaurant, and the food was absolutely delicious.
+[-0.9829826354980469] The rooms in the wings are larger than those in the tower and if you get wings 2 or 3 closer than walking to the tower wing plus no elevator hassle.
+
+**********
+
+[0.915557861328125] The wing building was renovated.
+Parent: One wing building was closed for renovation .
+
+----- Supporting -----
+
+[0.915557861328125] One wing building was closed for renovation.
+[0.773223876953125] I had plently of outlets, but my suite on the 12th floor had recently been remodeled.
+[0.6739501953125] My room, in the renovated tower, had very insufficient lighting and a bathroom that had seen better days.
+[0.3443603515625] I was informed that entire floor was currently being re-furbished and there were no rooms of that quality available.
+[0.1915283203125] The room was done up in buttery soft yellows.
+
+----- Weakening -----
+
+[-0.8996047973632812] Room was highly run down.
+[-0.8265800476074219] The bathrooms are worn and need updating.
+[-0.811248779296875] First, the hotel is going through major renovations in the tower part of the hotel.
+[-0.8057899475097656] other bugs every where.
+[-0.7249298095703125] They discovered faulty battery problem and reset.
+
+**********
+
+[0.9892387390136719] The tower elevators were cold.
+Parent: The tower elevators , which run on the exterior of the building , were quite cold .
+
+----- Supporting -----
+
+[0.9892387390136719] The tower elevators, which run on the exterior of the building, were quite cold.
+[0.0] All good!
+[0.0] Ripoff.
+[0.0] !
+[0.0] .
+
+----- Weakening -----
+
+[-0.9712514877319336] The shuttle was hot and smelly again and people were mad.
+[-0.9684658050537109] The shuttle getting from the airport to the hotel was very croweded and hot (yes hot for Seattle) and smelled.
+[-0.9654102325439453] The pool was huge and gorgeous.
+[-0.9647464752197266] The pool is very relaxing and big.
+[-0.9625682830810547] The rooms were gorgeous and spacious and comfortable.
+
+**********
+
+[0.9812431335449219] The tower elevators are on the outside of the building.
+Parent: The tower elevators , which run on the exterior of the building , were quite cold .
+
+----- Supporting -----
+
+[0.9812431335449219] The tower elevators, which run on the exterior of the building, were quite cold.
+[0.8750152587890625] Access to the tower is by external glass elevators.
+[0.673370361328125] Our room was in the main tower, and was reached by an external elevator with glass walls.
+[0.192138671875] I had to trek all the way to the front-desk from out tower location (to have key re-coded) only to f ind it did not resolve issue.
+[0.185028076171875] The elevators for the tower are not close.
+
+----- Weakening -----
+
+[-0.9547119140625] You go up stairs, down the elevator and thorugh doors.
+[-0.9031524658203125] The tower rooms do have balconies but the space is shared with the room next door and divided by a set of austere looking bars--plus there is no furniture to sit on so the balconies are not really functional.
+[-0.897430419921875] The cookies are a nice touch too.
+[-0.8904571533203125] other bugs every where.
+[-0.8817977905273438] After commuting back and fort from florida if too tired to drive back to my destination i always stay at this dbl tree.
+
+**********
+
+[0.9956579208374023] The lobby has several fireplaces and seating areas.
+Parent: Several fireplaces and seating areas in the lobby make it comfortable .
+
+----- Supporting -----
+
+[0.9956579208374023] Several fireplaces and seating areas in the lobby make it comfortable.
+[0.01238250732421875] Just a nice touch!
+[0.0099334716796875] Waited forever to be seated and there were only 3 others in the place.
+[0.009435653686523438] Overall, the room is nice, but could have a refrigerator in it for the price.
+[0.008758544921875] I sateyed here with husband and 1 year old son.
+
+----- Weakening -----
+
+[-0.8902974128723145] The hotel has seen its newer days: the carpets are threadbare in some spots and the cement balconies are noticeably empty of furniture.
+[-0.8716964721679688] The tower rooms do have balconies but the space is shared with the room next door and divided by a set of austere looking bars--plus there is no furniture to sit on so the balconies are not really functional.
+[-0.5383758544921875] Had a huge mirror in the bathroom that was well light around the edges.
+[-0.45796966552734375] The pool is very relaxing and big.
+[-0.4567985534667969] I arrived late at night and was flustered by the confusing and poorly lit parking options.
+
+**********
+
+[0.9285240173339844] The lobby is comfortable.
+Parent: Several fireplaces and seating areas in the lobby make it comfortable .
+
+----- Supporting -----
+
+[0.9285240173339844] Large spacious lobby, clean comfortable rooms.
+[0.9166884422302246] Several fireplaces and seating areas in the lobby make it comfortable.
+[0.520965576171875] The hotel interior itself is a bit outdated, but the room we stayed in (in the tower) was very pleasant, relaxing and modern.
+[0.5025711059570312] The room room's AC was working fine and it was pretty quite.
+[0.4810791015625] The rooms are comfortable and the cookies are great but getting smaller.
+
+----- Weakening -----
+
+[-0.9640960693359375] Room was highly run down.
+[-0.9447174072265625] The bed was VERY comfortable (a Serta mattress).
+[-0.9389572143554688] The crappy wings are old and the rooms smell musty.
+[-0.9387664794921875] Anyway, I requested a non-smoking room but the floor smelled like the stench of smoke.
+[-0.9386978149414062] When you finally reach your room the heaters all make tremendous noise, rattle, rumble.

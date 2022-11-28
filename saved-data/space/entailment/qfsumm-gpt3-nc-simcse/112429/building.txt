@@ -1,0 +1,42 @@
+***** Aspect: building Model Type : simcse *****
+Overall score: 0.609578549861908
+
+**********
+
+[0.7595655918121338] The hotel was very well positioned, clean, comfortable, and had an excellent king bed.
+
+----- Supporting -----
+
+[0.7595655918121338] The hotel was well designed and tastefully decorated.
+[0.5756986141204834] We were impressed with the lobby and had high hopes for the room.
+[0.5603529214859009] the lobby is sort of lackluster but the rooms were tasfully updated and very clean.
+[0.5313994884490967] Other than the thin wall between rooms, it was an excellent stay and we'd definitely stay there again.
+[0.521601676940918] The hotel itself is in an older building, but renovations have obviously kept it up to modern standards.
+
+----- Weakening -----
+
+[0.01457575149834156] There is BTW always only one person at front desk, so you can find yourself lining up to get even the simplest things done, like getting a demagnetized card reprogrammed.
+[0.01708344556391239] Still not sure why our car could not be found for that time.
+[0.046513039618730545] Lots of daytime noise due to the construction.
+[0.054318711161613464] Pine Street is much easier to walk down to the Market than some of the other downtown streets (less incline.)
+[0.05668356642127037] Tons of construction in the neighborhood which starts at 6:30 am.
+
+**********
+
+[0.45959150791168213] There were no significant complaints with the hotel during the entire week stay there.
+
+----- Supporting -----
+
+[0.45959150791168213] Other than the thin wall between rooms, it was an excellent stay and we'd definitely stay there again.
+[0.43166255950927734] I talked to the front desk and they painlessly arranged for a hotel town car to take me in so I could make my flight on time.
+[0.40887027978897095] The hotel was well designed and tastefully decorated.
+[0.3814600706100464] the lobby is sort of lackluster but the rooms were tasfully updated and very clean.
+[0.35515591502189636] The hotel was under exterior renovations, but that worked out for me as I was out of my room for most of the day.
+
+----- Weakening -----
+
+[-0.06615398824214935] Lots of daytime noise due to the construction.
+[-0.06531548500061035] There is a great coffee shop across the street and the stunning Paramount Theater down the block.
+[-0.044257406145334244] Tons of construction in the neighborhood which starts at 6:30 am.
+[-0.015379270538687706] Pine Street is much easier to walk down to the Market than some of the other downtown streets (less incline.)
+[-0.01023385301232338] It was within walking distance to shopping and entertainment in Capitol Hill.

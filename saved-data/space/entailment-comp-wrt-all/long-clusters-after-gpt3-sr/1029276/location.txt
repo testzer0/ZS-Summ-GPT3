@@ -1,0 +1,128 @@
+***** Aspect: location Model Type : zs *****
+Overall score: 0.9530817667643229
+
+**********
+
+[0.9539690017700195] The hotel is close to the Metromover.
+Parent: The hotel is located near the Metromover, Bayside, and Metrorail.
+
+----- Supporting -----
+
+[0.9539690017700195] The hotel is a three minute walk to the Metromover which will take you to Bayside in a couple of minutes where there is nightlife, shops, drinks, and restaurants.
+[0.9539241790771484] The hotel is a very short walk from the Metromover whcih we took to Bayside Marketplace.
+[0.8619575500488281] The Downtown Miami Hilton is on the fringe of the downtown area but very close to the light rail and a short drive to S. Beach and Little Havana.
+[0.8429641723632812] Being downtown the hotel is a bit lacking in local amenities.
+[0.8136520385742188] Bayside Plaza is a short taxi ride away which is a lot of fun especially on Super Bowl week end and the Metromover is just a block away which gives access to Metrorail.
+
+----- Weakening -----
+
+[-0.8974609375] Hotel location is away from the main tourist attractions (Bayside Marketplace, Miami beaches).
+[-0.8486061096191406] The hotel is not convenient to anything or anyplace.
+[-0.38320159912109375] This hotel is nice , but for a business traveller is far from ideal , i arrived with no sleep and had to pop a coupe of earplugs to be able to , the beds are great and rooms are spacious and beautiful view but the walls are paper thin and you can hear crystal clear conversation tvs sex ect coming from the other room ,you can also hear the hallway noise amplified times 4.. there is no minibar which is also quite annoying when u are in business as usually you need drinks and snaks at hand ,, room service was ok and inexpensive compared to other Hiltons I have been at ..had the Chicken quesadillas which where not bad but artificial cheese , beware ... this hotel is far from everywhere touritsy and you need a car or taxi to move around , this was not an issue for me as i only needed the room to sleep and eat and had a driver.. an Ok hotel but too noisy to book it again , probably best for a group and tourist trip, avoid if in Buisness and looking for peace
+[-0.36690521240234375] Got a 4th floor room with canyon views.
+[-0.30431365966796875] The Hotel is good - the location is not.
+
+**********
+
+[0.9671306610107422] The hotel is located near Bayside.
+Parent: The hotel is located near the Metromover, Bayside, and Metrorail.
+
+----- Supporting -----
+
+[0.9671306610107422] The hotel is conveniently located: as you can assume reading the address this hotel is just a block from Bayside Marketplace (biscayne blvd runs parallel to the port) and above all it is 15 minutes drive from south beach.
+[0.9539031982421875] The hotel is a three minute walk to the Metromover which will take you to Bayside in a couple of minutes where there is nightlife, shops, drinks, and restaurants.
+[0.916717529296875] The hotel is a very short walk from the Metromover whcih we took to Bayside Marketplace.
+[0.9060306549072266] Not right in South Beach, but this hotel still has a very good location near the Biscayne Bay with beautiful views!
+[0.8853073120117188] The good: Excellent Conciere and Valet service and their helpful tips The food was very good both in the restaurant and room service Nice view of the harbor and I was only on the 3rd floor Close to free tram Close to Downtown and Bayside Market area Pool area looked nice but did not use The bad: Room was in a block reserved by the Conference yet when checking in, there was no mention as to where the conference check-in was located and had to search the hotel over to find it.
+
+----- Weakening -----
+
+[-0.9925422668457031] Hotel location is away from the main tourist attractions (Bayside Marketplace, Miami beaches).
+[-0.9745063781738281] Being downtown the hotel is a bit lacking in local amenities.
+[-0.9647216796875] The Downtown Miami Hilton is on the fringe of the downtown area but very close to the light rail and a short drive to S. Beach and Little Havana.
+[-0.9545249938964844] Not so at the Hilton Miami Downtown.
+[-0.9482955932617188] Hilton Miami Downtown is fine if you are a business traveler.
+
+**********
+
+[0.9733810424804688] The hotel is located near the Metrorail.
+Parent: The hotel is located near the Metromover, Bayside, and Metrorail.
+
+----- Supporting -----
+
+[0.9733810424804688] The hotel is a three minute walk to the Metromover which will take you to Bayside in a couple of minutes where there is nightlife, shops, drinks, and restaurants.
+[0.9686641693115234] The hotel is a very short walk from the Metromover whcih we took to Bayside Marketplace.
+[0.8810348510742188] Bayside Plaza is a short taxi ride away which is a lot of fun especially on Super Bowl week end and the Metromover is just a block away which gives access to Metrorail.
+[0.3818359375] Location was great 200 yds from Omni station for free Metro Mover + local bus station ($2 one way anywhere on route).
+[0.286834716796875] The location is not that good for the regular tourist with no car but a Metromover station is nearby.
+
+----- Weakening -----
+
+[-0.9722623825073242] This hotel deals with lots of "cruisers" and the location is so convenient next to the port --I could see my ship from my hotel window.
+[-0.9617156982421875] The hotel is near the ski train that will take you right downtown for free.
+[-0.9141426086425781] The central fire station is located a few blocks down from this hotel.
+[-0.8797607421875] This hotel was booked for us through our travel agent - it was near the airport & near the port of Miami where we were leaving on a cruise.
+[-0.8307304382324219] And yes, we were now near an ice machine.
+
+**********
+
+[0.9388389587402344] The hotel is a short drive from South Beach.
+Parent: It is also a short drive from South Beach.
+
+----- Supporting -----
+
+[0.9388389587402344] The hotel is conveniently located: as you can assume reading the address this hotel is just a block from Bayside Marketplace (biscayne blvd runs parallel to the port) and above all it is 15 minutes drive from south beach.
+[0.8929405212402344] Although the hotel was only a taxi drive away from south beach.
+[0.8834686279296875] The Downtown Miami Hilton is on the fringe of the downtown area but very close to the light rail and a short drive to S. Beach and Little Havana.
+[0.8297348022460938] Anyway if you have a car it takes 3 minutes to go to South Beach and it is better spend money for a good hotel in downtown compared to a fake design hotel in SOBE.
+[0.6910858154296875] As we had a car ,the location was not a problem.South Beach is just a short drive across the bridge and we took a taxi to Bayside.We ordered room service for breakfast and it was excellent.
+
+----- Weakening -----
+
+[-0.5861968994140625] If you're visiting the med school, it's supposedly only 2.5 miles away - but it took me nearly half an hour to deal with the miami traffic - so either familiarize yourself the night before OR leave early enough to address the bumper to bumper traffic.
+[-0.559539794921875] The hotel is a three minute walk to the Metromover which will take you to Bayside in a couple of minutes where there is nightlife, shops, drinks, and restaurants.
+[-0.4479217529296875] Do not wander off the main strip!
+[-0.4363861083984375] The only downside is that it is a bit of a hassle to get to the beach compared to staying in South Beach, but I already knew that going into the stay.
+[-0.39479827880859375] Really abusive.
+
+**********
+
+[0.925175666809082] The location was convenient.
+Parent: Some reviewers found the location convenient, while others found it lacking in amenities.
+
+----- Supporting -----
+
+[0.925175666809082] The hotel is conveniently located: as you can assume reading the address this hotel is just a block from Bayside Marketplace (biscayne blvd runs parallel to the port) and above all it is 15 minutes drive from south beach.
+[0.9227838516235352] This hotel deals with lots of "cruisers" and the location is so convenient next to the port --I could see my ship from my hotel window.
+[0.8035964965820312] Aside from the convenient location to the MetroMover, which was all we needed to get to the bayside station.
+[0.7759666442871094] Location was great 200 yds from Omni station for free Metro Mover + local bus station ($2 one way anywhere on route).
+[0.7563667297363281] I had to spend my last night in Miami, and in Downtown I found this Hilto more convenient than the Hyatt, where I spent a couple of nights ten days before.
+
+----- Weakening -----
+
+[-0.9601936340332031] The hotel is not convenient to anything or anyplace.
+[-0.9569358825683594] The location is less than optimal - the northern edge of Downtown.
+[-0.9558181762695312] The Hotel is good - the location is not.
+[-0.943817138671875] Location is a little awkward to enter due to road construction.
+[-0.9423370361328125] One of the downsides to this motel is the location.
+
+**********
+
+[0.9599952697753906] The location was lacking in amenities.
+Parent: Some reviewers found the location convenient, while others found it lacking in amenities.
+
+----- Supporting -----
+
+[0.9599952697753906] Being downtown the hotel is a bit lacking in local amenities.
+[0.8498096466064453] The hotel sorely lacks business services...no FedEx supplies and no one that even understands enough about business needs to ask about supplies.
+[0.7737655639648438] Lounge lacked bottles of water!
+[0.740478515625] It lacks a new television sets.
+[0.6910858154296875] I thinks the location it's not the best for young people or a group of friends because there not much to do, but for just one night when traveling for business or with family it's a great place.
+
+----- Weakening -----
+
+[-0.9965968132019043] Room was great, very large corner room, nice flat panel TV, fridge, the 2 outer walls were basically floor to ceiling windows with amazing views.
+[-0.9965591430664062] The pool area was actually a nice surprise as it was spacious and well furnished with a very friendly full service pool bar and grill.
+[-0.9965338706970215] Everything there were great from the nice clean and comfortable room with the unbelievable pretty view until the good food, the great bar and pool etc and last but not least the helpful friendly and sympathetic staff especially the ladjh in the little shop and the men called fernando at the front desk, he'd done a well work, gave good advices and was very cordially,smart, professional with a nice charisma and left behind a positive impression!
+[-0.9962112903594971] It can take you to the Bayside Marketplace where you find nice restaurants and shops.
+[-0.9961740970611572] The pool is on the roof just off of the lobby, with a large selection of loungers as well as couples loungers with cushions.

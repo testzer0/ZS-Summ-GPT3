@@ -1,0 +1,128 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.22860113779703775
+
+**********
+
+[0.1520233154296875] The food was clean.
+Parent: The food at the hotel was clean and the beds were comfortable.
+
+----- Supporting -----
+
+[0.1520233154296875] The hotel reception had a lovely smell of freshly baked cookies which were given out at check in and were delicious.
+[0.08224105834960938] --Cookies at check in were good.
+[0.03647422790527344] Choice of food was excelent.
+[0.028425216674804688] The food was decent as was the wine selection.
+[0.02783203125] The cookies are a nice touch too.
+
+----- Weakening -----
+
+[-0.9847297668457031] Then there was this set-up for the syrup which was under a sterno can and full flame, the syrup was boiling.
+[-0.957611083984375] We ordered food and received ice cold food one hour later.
+[-0.8500137329101562] All of this resulted in out take-out food getting cold plus I lost my scarf somewhere along the way.
+[-0.45330810546875] The soup was brought to us pretty cold, but he seemed to vanish so we couldn't complain.
+[-0.366424560546875] Food was very expensive in restaurant and just okay.
+
+**********
+
+[0.537017822265625] The beds were comfortable.
+Parent: The food at the hotel was clean and the beds were comfortable.
+
+----- Supporting -----
+
+[0.537017822265625] The rooms are comfortable and the cookies are great but getting smaller.
+[0.01226806640625] I loved that the heating system was quiet.
+[0.008968353271484375] It was good and the staff was attentive.
+[0.00286102294921875] 75.00 (not including taxes) for a full day stay.
+[0.0028171539306640625] Overall I was quite pleased as we paid only $50 through Priceline.
+
+----- Weakening -----
+
+[-0.8013153076171875] Then there was this set-up for the syrup which was under a sterno can and full flame, the syrup was boiling.
+[-0.7979888916015625] The chocolate chip cookies are always a treat.
+[-0.725067138671875] VERY average burger.
+[-0.7154693603515625] Cookies were good, as always.
+[-0.7141876220703125] The cookies are a nice touch too.
+
+**********
+
+[-0.0008640289306640625] The hotel is across the street from the airport.
+Parent: The hotel was located across the street from the airport and within walking distance to a Denny's, Jack in the Box, and a steak place.
+
+----- Supporting -----
+
+[-0.0008640289306640625] 75.00 (not including taxes) for a full day stay.
+[-0.00189208984375] It was good and the staff was attentive.
+[-0.0019617080688476562] The rooms are comfortable and the cookies are great but getting smaller.
+[-0.003662109375] We tried the hotel restaurants and the food was quite good.
+[-0.00399017333984375] We cannot comment on the value, as our price was included in our group travel, so Iwe're sure it was a group or discounted rate.
+
+----- Weakening -----
+
+[-0.8308982849121094] There is a Jack in the Box and Denny's across the street as well as a Subway, Thai restaurant and a BBQ restaurant nearby.
+[-0.5256423950195312] The cookies are, of course, one of our favorite things about the Doubletree chain.
+[-0.2196197509765625] Then there was this set-up for the syrup which was under a sterno can and full flame, the syrup was boiling.
+[-0.18665313720703125] We ordered clam chowder from the menu - much better than I expected - and finished off fruit from Pike Place Market.
+[-0.163299560546875] If you don't want to eat breakfast at the hotel, there is a Denny's across the street and an IHOP 2mile down the street.
+
+**********
+
+[0.64813232421875] The hotel is close to a Denny's.
+Parent: The hotel was located across the street from the airport and within walking distance to a Denny's, Jack in the Box, and a steak place.
+
+----- Supporting -----
+
+[0.64813232421875] If you don't want to eat breakfast at the hotel, there is a Denny's across the street and an IHOP 2mile down the street.
+[0.0420989990234375] There is a Jack in the Box and Denny's across the street as well as a Subway, Thai restaurant and a BBQ restaurant nearby.
+[-0.00101470947265625] Food was good, but a bit overpriced.
+[-0.0017004013061523438] 75.00 (not including taxes) for a full day stay.
+[-0.0019989013671875] Burger, soda and tip $21.00.
+
+----- Weakening -----
+
+[-0.4624176025390625] We were able to grab a quick bite and coffee at the convenience Starbucks in the lobby on our way out to our flight.
+[-0.374359130859375] The cookies are, of course, one of our favorite things about the Doubletree chain.
+[-0.29986572265625] We ordered clam chowder from the menu - much better than I expected - and finished off fruit from Pike Place Market.
+[-0.24005126953125] We were pretty late 9.54pm but managed to get a decent meal in the bar, I will happily come back to this doubletrees.
+[-0.239410400390625] We ate at both the lounge and the cafe and food was average at best, but the service VERY GOOD!
+
+**********
+
+[0.02996826171875] The hotel is close to a Jack in the Box.
+Parent: The hotel was located across the street from the airport and within walking distance to a Denny's, Jack in the Box, and a steak place.
+
+----- Supporting -----
+
+[0.02996826171875] There is a Jack in the Box and Denny's across the street as well as a Subway, Thai restaurant and a BBQ restaurant nearby.
+[-0.002468109130859375] 75.00 (not including taxes) for a full day stay.
+[-0.006633758544921875] The rooms are comfortable and the cookies are great but getting smaller.
+[-0.0113983154296875] We cannot comment on the value, as our price was included in our group travel, so Iwe're sure it was a group or discounted rate.
+[-0.012804031372070312] The only good thing about it was that i booked it on Priceline and got a really good price.
+
+----- Weakening -----
+
+[-0.495574951171875] You absolutely cannot beat a Doubletree chocolate chip cookie as a welcome treat.
+[-0.4251708984375] We were able to grab a quick bite and coffee at the convenience Starbucks in the lobby on our way out to our flight.
+[-0.37982177734375] The cookies are, of course, one of our favorite things about the Doubletree chain.
+[-0.3667755126953125] AND they have the famous Doubletree chocolate chip cookies!
+[-0.342315673828125] The chocolate chip cookies are always a treat.
+
+**********
+
+[0.005329132080078125] The hotel is close to a steak place.
+Parent: The hotel was located across the street from the airport and within walking distance to a Denny's, Jack in the Box, and a steak place.
+
+----- Supporting -----
+
+[0.005329132080078125] Food was good, but a bit overpriced.
+[0.00370025634765625] The food was good although a bit pricey.
+[-0.0011930465698242188] 75.00 (not including taxes) for a full day stay.
+[-0.0027408599853515625] Booked thru hotwire and got such a great price ($69) we were worried what we'd be getting.... We were very pleasantly suprised!!
+[-0.0035228729248046875] The only good thing about it was that i booked it on Priceline and got a really good price.
+
+----- Weakening -----
+
+[-0.5709991455078125] The cookies are, of course, one of our favorite things about the Doubletree chain.
+[-0.48516845703125] There is a Jack in the Box and Denny's across the street as well as a Subway, Thai restaurant and a BBQ restaurant nearby.
+[-0.48183441162109375] The chocolate chip cookies are always a treat.
+[-0.399688720703125] If you don't want to eat breakfast at the hotel, there is a Denny's across the street and an IHOP 2mile down the street.
+[-0.382080078125] AND they have the famous Doubletree chocolate chip cookies!

@@ -1,0 +1,35 @@
+***** building : Sentiments for original sentences *****
+area : + 0     - 1
+seating : + 1     - 0
+decorations : + 1     - 0
+front desk clerks : + 0     - 1
+inside : + 1     - 0
+Lobby : + 1     - 0
+owner : + 2     - 0
+facilities : + 1     - 0
+property : + 1     - 0
+driver : + 0     - 1
+design : + 1     - 0
+decor : + 1     - 0
+hood : + 0     - 1
+front bumper : + 0     - 1
+smell : + 1     - 0
+lobby : + 2     - 0
+drink : + 1     - 0
+architecture : + 1     - 0
+car service : + 1     - 0
+drivers : + 1     - 0
+places : + 1     - 0
+furniture : + 1     - 0
+bed : + 1     - 0
+lighting system : + 1     - 0
+downtown area : + 1     - 0
+***** building : Sentiments for raw summaries *****
+lobby : + 1     - 0
+owner : + 1     - 0
+car service : + 1     - 0
+downtown : + 1     - 0
+design : + 1     - 0
+art : + 1     - 0
+architecture : + 1     - 0
+***** building : Sentiments for final summary *****

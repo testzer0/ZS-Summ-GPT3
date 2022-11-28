@@ -1,0 +1,128 @@
+***** Aspect: service Model Type : zs *****
+Overall score: 0.8849050203959147
+
+**********
+
+[0.9915609359741211] The staff was friendly.
+Parent: Overall, reviewers found the staff friendly and helpful, and the hotel clean and modern.
+
+----- Supporting -----
+
+[0.9915609359741211] The staff were friendly and helpful.
+[0.9901242256164551] The staff was friendly.
+[0.9894251823425293] The staff were friendly and efficient.
+[0.9866700172424316] The staff were very friendly and cheery and the kids also liked the Tim Hortons in the lobby for the donuts.
+[0.9865131378173828] Staff were very helpful and friendly.
+
+----- Weakening -----
+
+[-0.9966096878051758] The staff were rude and quite useless, they just seemed annoyed and unwilling to help no matter how polite we were.
+[-0.9956388473510742] The front desk person was very abrupt and had a serious attitude problem.
+[-0.9953594207763672] The front desk staff were very unfriendly and always seemed to make matters overly complicated.
+[-0.995025634765625] Looks very disgruntled employees they have got.
+[-0.9929742813110352] Before checking in, they rudely told us that the parking space we had requested had been given to someone else and that we were to go down the street to public parking lot.
+
+**********
+
+[0.9900565147399902] The staff were helpful.
+Parent: Overall, reviewers found the staff friendly and helpful, and the hotel clean and modern.
+
+----- Supporting -----
+
+[0.9900565147399902] The staff were nice and helpful.
+[0.9895486831665039] The staff were friendly and helpful.
+[0.9871835708618164] Staff were very helpful and friendly.
+[0.9781570434570312] The staff were friendly, helpful and the view of the Toronto skyline I had from my room was great.
+[0.9781355857849121] I found the staff to be helpful and courteous as well.
+
+----- Weakening -----
+
+[-0.9976210594177246] The staff were rude and quite useless, they just seemed annoyed and unwilling to help no matter how polite we were.
+[-0.9966344833374023] The front desk staff were very unfriendly and always seemed to make matters overly complicated.
+[-0.9911842346191406] One front desk was outright rude and unhelpful for several requests which had to be handled by a morning person who was confused why the evening staff wouldn't help me until I told her the staff name and she rolled her eyes and suggested I speak with management.
+[-0.987823486328125] hair bath front desk staff unhappy and helpless.
+[-0.9785728454589844] Before checking in, they rudely told us that the parking space we had requested had been given to someone else and that we were to go down the street to public parking lot.
+
+**********
+
+[0.9871954917907715] The hotel was clean.
+Parent: Overall, reviewers found the staff friendly and helpful, and the hotel clean and modern.
+
+----- Supporting -----
+
+[0.9871954917907715] The hotel was very clean and centrally located.
+[0.9804778099060059] The hotel was clean, modern and the only concern that I had was the limited parking in the hotel garage.
+[0.9668807983398438] However on arriving found the hotel room to be very spacious, clean and very comfortable.
+[0.9652562141418457] Found my room and the hotel in general very clean and well kept.
+[0.9640531539916992] The staff was very polite, rooms were clean, and the hotel has a great location.
+
+----- Weakening -----
+
+[-0.9968318939208984] The room was so filthy, we decided to leave, and find another hotel.
+[-0.996455192565918] Exhausted, we walked into our room, and experienced the most overwhelming foul smells, I canâ€™t even describe!
+[-0.9963035583496094] We arrived at 3:00 in the morning, and drove through the night to arrive to the filthiest hotel we have ever seen!
+[-0.9962940216064453] The shower was disgusting and there were marks all over the walls and carpet.
+[-0.9951190948486328] There was brown stuff on the walls of the bathroom, and the room was very shabby.
+
+**********
+
+[0.9564504623413086] The hotel is modern.
+Parent: Overall, reviewers found the staff friendly and helpful, and the hotel clean and modern.
+
+----- Supporting -----
+
+[0.9564504623413086] The hotel was clean, modern and the only concern that I had was the limited parking in the hotel garage.
+[0.6040935516357422] The rooms were very updated and the beds were very comfortable!
+[0.34112548828125] The hotel was very nice, and looks like they are doing renovations.
+[0.3221244812011719] I thought the rooms were very well kept and the bedding looked new.
+[0.28278350830078125] Over all our hotel was clean and we had a newly renovated room.
+
+----- Weakening -----
+
+[-0.9963054656982422] The general feeling of this hotel was tired and run down.
+[-0.9949522018432617] The rooms are old, the bathroom smelled, we had a view of air conditioners and the gym was a joke.
+[-0.9946079254150391] The Primrose is a dated property offering only basic levels of service.
+[-0.9941463470458984] The hotel is older but the room was huge and had a view all the way to the lake.
+[-0.9927024841308594] Although most of the staff were nice, the rooms were dated and could use some renovation.
+
+**********
+
+[0.8362922668457031] The parking was too expensive.
+Parent: Some reviewers found the parking to be a bit expensive, but others appreciated its convenience.
+
+----- Supporting -----
+
+[0.8362922668457031] I`m glad I didn`t have a car, as the parking charges were horrendous.
+[0.59490966796875] But from the time they told us we had to go get public parking down the street, to mixed up room arrangement, through just rude service, and a tile falling from the bathroom wall, the price was not worth it.
+[0.4757957458496094] The hotel charges $23 for parking, which should be free considering the difficulty it is to get into an actual parking spot.
+[0.132720947265625] Afterwards the Manager acknowledged that the lifts are in need of urgent replacement but due to the cost this has yet to be authorised.
+[0.08300018310546875] Parking was 23 dollars per night, and it was a bit of a fiasco to even get back into the secure lot to get the car back.
+
+----- Weakening -----
+
+[-0.9835097789764404] It was close to the theatre we were going to and the price was affordable.
+[-0.9692244529724121] I was given a discount as I was a senior so the price ended up being very reasonable.
+[-0.9687461853027344] The price was also quite reasonable.
+[-0.9503664970397949] The location was good, right where I needed to be, and the price was great for downtown and I only paid $89 with a corporate discount.
+[-0.9039726257324219] It is free.
+
+**********
+
+[0.5478744506835938] The parking was convenient.
+Parent: Some reviewers found the parking to be a bit expensive, but others appreciated its convenience.
+
+----- Supporting -----
+
+[0.5478744506835938] The parking attendant was pleasant, the check in went smoothly,the room and the view was terrific.
+[0.10937881469726562] It comes very useful if you don't want to drive in downtown.
+[0.09375] We were advised to park our car about 2 blocks away where there were no "in and out" priviledges.
+[0.02098846435546875] Its really tight down there, but there is also a public lot outside which you can use.
+[0.018280029296875] From the time we got our parking permit until the time we checked out we had nothing but polite staff.
+
+----- Weakening -----
+
+[-0.985809326171875] While I'd agree that the parking garage was hard to manoevre and the elevators were slow, that's as far as the negative experiences I had at this hotel went.
+[-0.9825401306152344] The parking garage was a tight squeeze if you were driving anything bigger than a four door car.
+[-0.9801101684570312] I`m glad I didn`t have a car, as the parking charges were horrendous.
+[-0.9779586791992188] Parking was 23 dollars per night, and it was a bit of a fiasco to even get back into the secure lot to get the car back.
+[-0.9646596908569336] On the way up to my room - I got stuck in an elevator.

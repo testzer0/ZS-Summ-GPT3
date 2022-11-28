@@ -1,0 +1,170 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.8183645009994507
+
+**********
+
+[0.9871954917907715] The hotel was clean.
+Parent: Some guests said that the hotel was clean, while others said that it could have been cleaner.
+
+----- Supporting -----
+
+[0.9871954917907715] The hotel was very clean and centrally located.
+[0.9804778099060059] The hotel was clean, modern and the only concern that I had was the limited parking in the hotel garage.
+[0.9668807983398438] However on arriving found the hotel room to be very spacious, clean and very comfortable.
+[0.9652562141418457] Found my room and the hotel in general very clean and well kept.
+[0.9640531539916992] The staff was very polite, rooms were clean, and the hotel has a great location.
+
+----- Weakening -----
+
+[-0.9968318939208984] The room was so filthy, we decided to leave, and find another hotel.
+[-0.996455192565918] Exhausted, we walked into our room, and experienced the most overwhelming foul smells, I canâ€™t even describe!
+[-0.9963035583496094] We arrived at 3:00 in the morning, and drove through the night to arrive to the filthiest hotel we have ever seen!
+[-0.9962940216064453] The shower was disgusting and there were marks all over the walls and carpet.
+[-0.9951190948486328] There was brown stuff on the walls of the bathroom, and the room was very shabby.
+
+**********
+
+[0.8476486206054688] The hotel was not clean enough.
+Parent: Some guests said that the hotel was clean, while others said that it could have been cleaner.
+
+----- Supporting -----
+
+[0.8476486206054688] I did speak to housekeeping and the reception but the somehow they managed not to get the room clean thoroughly.
+[0.5949344635009766] Although most of the staff were nice, the rooms were dated and could use some renovation.
+[0.5923919677734375] The hotel was dirty.
+[0.4792633056640625] The room was so filthy, we decided to leave, and find another hotel.
+[0.41522216796875] Each time weâ€™ve stayed I have always had the impression that the place needs a good cleaning.
+
+----- Weakening -----
+
+[-0.974024772644043] Found my room and the hotel in general very clean and well kept.
+[-0.9721927642822266] It was very clean and comfortable and had very nice artwork on the walls.
+[-0.9708614349365234] The hotel was very clean and centrally located.
+[-0.9685287475585938] It was really clean, and the housekeeping lady was very friendly and always asking if I needed any additional toiletries or coffee.
+[-0.9680013656616211] Everything was spotlessly clean and comfortable and the staff were very helpful and polite.
+
+**********
+
+[0.2978324890136719] There were stains on towels and bedding.
+Parent: There were also some complaints about stains on towels and bedding, as well as a musty smell in the room.
+
+----- Supporting -----
+
+[0.2978324890136719] ), and the the bath towels had yellow stains and smelled "funky"!
+[0.0464935302734375] There are stains on my bed and it's literally sleeping on a gym mat in student residence.
+[0.03350067138671875] The maid came in everyday to clean and leave fresh towels.
+[0.02945709228515625] Even provided ones were not washed by staff.
+[0.02861785888671875] A bathtub so filthy I wouldnâ€™t dare stand to take a shower.
+
+----- Weakening -----
+
+[-0.8664779663085938] We had a breathtaking view of downtown Toronto second only to the CN Tower view.
+[-0.8518095016479492] Everything was spotlessly clean and comfortable and the staff were very helpful and polite.
+[-0.827362060546875] great coffee & doughnuts in the mornings!
+[-0.8165702819824219] Very clean and the beds were VERY comfortable.
+[-0.80853271484375] Great wi-fi service too.
+
+**********
+
+[0.87255859375] The room smelled musty.
+Parent: There were also some complaints about stains on towels and bedding, as well as a musty smell in the room.
+
+----- Supporting -----
+
+[0.87255859375] Musty smell, but pretty clean in the room.
+[0.6830215454101562] Also, when I booked the hotel I was told that there were only smoking rooms left which was fine because I too smoke, but the smell was almost unbearable.
+[0.578857421875] My second room also had a window that would not close, there were beer caps scattered throughout the room, there was hair in the tub and on the toilet seat, and the room smelt like an ashtray.
+[0.3535881042480469] Exhausted, we walked into our room, and experienced the most overwhelming foul smells, I canâ€™t even describe!
+[0.2565765380859375] we stayed on the 15th floor but accidentally went to the 18 floor one day and it was stinky!
+
+----- Weakening -----
+
+[-0.9940924644470215] The entire hotel was very bright and the rooms were very clean.
+[-0.9936821460723877] Everything was spotlessly clean and comfortable and the staff were very helpful and polite.
+[-0.9936456680297852] The lobby was clean, as was the elevator.
+[-0.9932796955108643] It was clean and comfortable.
+[-0.9931850433349609] The room was clean, and had a great view.
+
+**********
+
+[0.9871954917907715] The hotel was clean.
+Parent: Some reviewers thought the hotel was clean while others found issues with the cleanliness such as dust and stains.
+
+----- Supporting -----
+
+[0.9871954917907715] The hotel was very clean and centrally located.
+[0.9804778099060059] The hotel was clean, modern and the only concern that I had was the limited parking in the hotel garage.
+[0.9668807983398438] However on arriving found the hotel room to be very spacious, clean and very comfortable.
+[0.9652562141418457] Found my room and the hotel in general very clean and well kept.
+[0.9640531539916992] The staff was very polite, rooms were clean, and the hotel has a great location.
+
+----- Weakening -----
+
+[-0.9968318939208984] The room was so filthy, we decided to leave, and find another hotel.
+[-0.996455192565918] Exhausted, we walked into our room, and experienced the most overwhelming foul smells, I canâ€™t even describe!
+[-0.9963035583496094] We arrived at 3:00 in the morning, and drove through the night to arrive to the filthiest hotel we have ever seen!
+[-0.9962940216064453] The shower was disgusting and there were marks all over the walls and carpet.
+[-0.9951190948486328] There was brown stuff on the walls of the bathroom, and the room was very shabby.
+
+**********
+
+[0.9394521713256836] The reviewers found that the hotel was not clean.
+Parent: Some reviewers thought the hotel was clean while others found issues with the cleanliness such as dust and stains.
+
+----- Supporting -----
+
+[0.9394521713256836] The room was so filthy, we decided to leave, and find another hotel.
+[0.9325370788574219] We arrived at 3:00 in the morning, and drove through the night to arrive to the filthiest hotel we have ever seen!
+[0.8793449401855469] 1) Rude staff at the front desk (only one of the employees we dealt with were nice); 2) Restaurant only open part of the time; 3) They DID give us a bigger and cheaper parking space out behind the building because our SUV wouldn't fit in the underground parking, but there were junkies hanging around at that parking lot; 3) FOUND A BEDBUG IN THE BATHROOM SINK (ALIVE) -- 'NUFF SAID!
+[0.8189868927001953] The rooms are old, the bathroom smelled, we had a view of air conditioners and the gym was a joke.
+[0.795623779296875] When we arrived at the Hilton (which we really couldnâ€™t afford, but were tired and in desperate need of a clean place to stay), staff noted that â€œThe Primroseâ€� Best Western was know for their bedbugs!!!
+
+----- Weakening -----
+
+[-0.9907608032226562] Found my room and the hotel in general very clean and well kept.
+[-0.9844369888305664] It was really clean, and the housekeeping lady was very friendly and always asking if I needed any additional toiletries or coffee.
+[-0.9819488525390625] Overall, a great place to stay because the rooms were clean, staff was friendly and helpful, many attractions and great restaurants are walking distance from the hotel.
+[-0.9815917015075684] It was very clean and comfortable and had very nice artwork on the walls.
+[-0.9805693626403809] The hotel was very clean and centrally located.
+
+**********
+
+[0.6224098205566406] The hotel was dusty.
+Parent: Some reviewers thought the hotel was clean while others found issues with the cleanliness such as dust and stains.
+
+----- Supporting -----
+
+[0.6224098205566406] The hotel was dirty.
+[0.2555389404296875] The room was so filthy, we decided to leave, and find another hotel.
+[0.24924468994140625] The rooms are old, the bathroom smelled, we had a view of air conditioners and the gym was a joke.
+[0.15610122680664062] We arrived at 3:00 in the morning, and drove through the night to arrive to the filthiest hotel we have ever seen!
+[0.148193359375] There was brown stuff on the walls of the bathroom, and the room was very shabby.
+
+----- Weakening -----
+
+[-0.9966022968292236] Everything was spotlessly clean and comfortable and the staff were very helpful and polite.
+[-0.9965305328369141] The entire hotel was very bright and the rooms were very clean.
+[-0.996455192565918] The rooms were very updated and the beds were very comfortable!
+[-0.9954571723937988] Found my room and the hotel in general very clean and well kept.
+[-0.9946761131286621] The hotel was very clean and centrally located.
+
+**********
+
+[0.9926233291625977] The hotel was dirty.
+Parent: Some reviewers thought the hotel was clean while others found issues with the cleanliness such as dust and stains.
+
+----- Supporting -----
+
+[0.9926233291625977] The hotel was dirty.
+[0.9765229225158691] The room was so filthy, we decided to leave, and find another hotel.
+[0.8540077209472656] We arrived at 3:00 in the morning, and drove through the night to arrive to the filthiest hotel we have ever seen!
+[0.48989105224609375] Also, when I booked the hotel I was told that there were only smoking rooms left which was fine because I too smoke, but the smell was almost unbearable.
+[0.45883941650390625] The rooms are old, the bathroom smelled, we had a view of air conditioners and the gym was a joke.
+
+----- Weakening -----
+
+[-0.9972405433654785] Found my room and the hotel in general very clean and well kept.
+[-0.9971189498901367] The entire hotel was very bright and the rooms were very clean.
+[-0.9965534210205078] Simply put Its a clean, well run hotel, with excellent service at the front desk and very large rooms that look great.
+[-0.9964942932128906] Everything was spotlessly clean and comfortable and the staff were very helpful and polite.
+[-0.9960155487060547] Over all our hotel was clean and we had a newly renovated room.

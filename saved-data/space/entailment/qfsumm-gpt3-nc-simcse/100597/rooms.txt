@@ -1,0 +1,62 @@
+***** Aspect: rooms Model Type : simcse *****
+Overall score: 0.816477100054423
+
+**********
+
+[0.895103931427002] The rooms at the hotel were clean and comfortable, with fine beds.
+
+----- Supporting -----
+
+[0.895103931427002] The hotel was nice; good clean rooms.
+[0.8670189380645752] The beds were comfortable and the room was very clean.
+[0.8058327436447144] Too bad considering the hotel facilities are lovely and the rooms are comfortable and spacious.
+[0.8017781972885132] The rooms were gorgeous and spacious and comfortable.
+[0.7881678342819214] The beds were very comfortable, room large enough for wheelchair, and bathroom clean.
+
+----- Weakening -----
+
+[0.03789487108588219] If I come back to Seattle, I'd go back to Hampton.
+[0.045744895935058594] Overall, if this were MY money, I would NOT stay here.
+[0.08023542910814285] After this stay we will only stay here in the future when at Seatac.
+[0.08256261795759201] No b-fast was offered.
+[0.08369699120521545] We spent one night here before flying out to Alaska.
+
+**********
+
+[0.8459470868110657] The hotel was located across the street from the airport, and within walking distance of a Denny's, Jack in the Box, and a steak place.
+
+----- Supporting -----
+
+[0.8459470868110657] The hotel was clean, beds were fine, hotel is located across the street from the air port, was within walking distance to a Denny's, Jack in the Box, and a steak place.
+[0.8032313585281372] There are a few restaurants around the hotel area and you can also easily walk to the airport should you want to.
+[0.7711570858955383] Other restaurants were withing walking distance of the hotel.
+[0.7658219933509827] This hotel is a nice size and is convenient to the airport and restaurants.
+[0.7124407291412354] The hotel was fine- a big hotel by the airport.
+
+----- Weakening -----
+
+[0.010526493191719055] The bathroom was dirty and stained.
+[0.013270127587020397] Wall paper peeling off walls in different places, light bulb not replaced in room and carpet stained.
+[0.017154386267066002] 90 minutes later we still did not have the bed.
+[0.019238974899053574] The room was very sound prrof, as I did not hear anyone in the halls or other rooms.
+[0.022720035165548325] So why would I pay to use it in the room?
+
+**********
+
+[0.7083802819252014] The staff was friendly and helpful.
+
+----- Supporting -----
+
+[0.7083802819252014] Breakfast was good and the staff were very helpful.
+[0.6439979672431946] The rooms were very clean and the staff was very nice.
+[0.6146035194396973] Staff are friendly and helpful, the rooms are decent, and it's very close to the airport.
+[0.6066468954086304] The breakfast in the restaurant was amazing, and the staff was very attentive and friendly.
+[0.6015415191650391] For an airport hotel, it was surprisingly quiet, rooms were extremely comfortable and well prepared, and the staff were all extremely helpful and courteous.
+
+----- Weakening -----
+
+[-0.059100572019815445] I will not stay in a Doubletree again.
+[-0.050760287791490555] After this stay we will only stay here in the future when at Seatac.
+[-0.03507164493203163] Overall, if this were MY money, I would NOT stay here.
+[-0.009246313013136387] There is no complimentary breakfast; there is a coffee shop and an espresso bar that also sells yogurt, bagels and pastries.
+[-0.008073221892118454] On the basis of this experience I will never choose a Doubletree hotel again.

@@ -1,0 +1,107 @@
+***** Aspect: service Model Type : zs *****
+Overall score: 0.755084228515625
+
+**********
+
+[0.9770326614379883] The service was good.
+Parent: The service was generally praised by reviewers, with many noting that the staff were friendly and helpful.
+
+----- Supporting -----
+
+[0.9770326614379883] The service was quite good.
+[0.9546346664428711] The service is great and you must try a croissant - the best.
+[0.9473466873168945] The service was excellent, we were offered a deal on breakfast at check in.
+[0.9375371932983398] Restaurant was really good too with great service!
+[0.9197158813476562] The service was exceptional and the rooms are very clean and comfortable.
+
+----- Weakening -----
+
+[-0.9933719635009766] Never in my life have I spent so much in one place and been treated so poorly.
+[-0.9585552215576172] I would not stay her again because of the rude front desk staff and the street noise.
+[-0.9546623229980469] First, there was absolutely no housecleaning/maid service!
+[-0.950286865234375] I would avoid the restaurant in the hotel as the service is slow and inconsistent.
+[-0.9434814453125] We spoke with the lady at the desk and all she had to say was "we have never had a Sunday like this... We have another valet employee coming in in an hour" Not helpful!
+
+**********
+
+[0.9931163787841797] The staff were friendly and helpful.
+Parent: The service was generally praised by reviewers, with many noting that the staff were friendly and helpful.
+
+----- Supporting -----
+
+[0.9931163787841797] The staff was friendly, helpful and efficient.
+[0.9901714324951172] Staff was friendly and helpful.
+[0.9863224029541016] The staff is pleasant and helpful.
+[0.985863208770752] The staff on the front desk were very polite and helpful.
+[0.982417106628418] The staff was friendly and they did all they could to help us.
+
+----- Weakening -----
+
+[-0.997978687286377] We spoke with the lady at the desk and all she had to say was "we have never had a Sunday like this... We have another valet employee coming in in an hour" Not helpful!
+[-0.9969582557678223] I would not stay her again because of the rude front desk staff and the street noise.
+[-0.9964661598205566] They told us in a very rude tone and with attitude that our credit card had been declined over the last few days and that they had tried it several time so we would have to provide a cash deposit.
+[-0.9941978454589844] Never in my life have I spent so much in one place and been treated so poorly.
+[-0.9714832305908203] We requested to have a maid clean our bathroom and take the trash out, no one ever came!
+
+**********
+
+[0.987004280090332] There was no housekeeping/maid service.
+Parent: However, some guests complained that there was no housekeeping/maid service available, and that noise levels could be an issue, particularly on weekends.
+
+----- Supporting -----
+
+[0.987004280090332] First, there was absolutely no housecleaning/maid service!
+[0.66064453125] We requested to have a maid clean our bathroom and take the trash out, no one ever came!
+[0.35687255859375] Pool and hot tub clean, though bizarrly no changing room.
+[0.08730316162109375] my boyfriend and i both went home sore and dead tired from trying to find a comfortable way to sleep tossing and turning all night but there was none.
+[0.072784423828125] Gym is very good, and to my surprise, was empty the couple of times I went about.
+
+----- Weakening -----
+
+[-0.9980771541595459] If we call for extra towels/sheets/cups, it's all sent up very quickly by housekeeping staff.
+[-0.997889518737793] Housekeeping changed towels when not needed, and so on and so forth!
+[-0.9969892501831055] Housekeeping even stopped by to make sure we had everything we needed shortly after we arrived.
+[-0.996518611907959] The rooms are in excellent condition, housekeeping is very good, and the location is very handy to everything downtown.
+[-0.9959249496459961] housekeeping was super here.
+
+**********
+
+[0.27783203125] The noise levels were too high.
+Parent: However, some guests complained that there was no housekeeping/maid service available, and that noise levels could be an issue, particularly on weekends.
+
+----- Supporting -----
+
+[0.27783203125] The Hilton Garden Inn is in a great location within walking distance of C.N.Tower and Rogers Stadium and next to a wide selection of restaurants,bars,shops etc There are fresh apples to help yourself each morning and cookies at night,also complimentary drinks on some days ?The rooms are spacious and clean BUT if you are stayingThursday through until Sunday there is a club with a patio next door and the noise is terrific until around three in the morning so if your not out yourself you will not sleep.We only had this experience on the Sat night the rest of our stay was perfect through until the following Wednesday.Fridge,microwave abd coffe maker in room really useful.Go to the italian quarter for some really great little restaurants and bars.Toronto is a terrific city ENJOY!
+[0.25544261932373047] That was a bit of a pain, but understandable, because it was getting extremely rowdy and it was clear people were bringing in about 10 people into one room.
+[0.20648193359375] Nice staff, great location, wonderful breakfast, clean modern rooms, but if your room is on the south side of the building, the noise from the club next door will rock your world until about 2:30 AM.
+[0.17212677001953125] From the 17th floor we could be awakened from the thump thump of the disco music at 3am on a Saturday night !
+[0.13805389404296875] Being in the heart of the entertainment district may be a plus for some but for me it means that you can't leave your window open at night for fresh air because of all the noise from the late night revellers.
+
+----- Weakening -----
+
+[-0.9953014850616455] Convenient location, quiet and large room (mine was very quiet, while some rooms are not because of the proximity of night clubs), wonderful breakfast, free Internet.
+[-0.9948441982269287] Did not hear a thing the whole time we were there.
+[-0.9933285713195801] It was also VERY quiet.
+[-0.9928524494171143] Despite this (and some of the other reviews), I found that the hotel is quiet and I was never disturbed by what is going outside.
+[-0.9923288822174072] Quiet, comfortable and utilitarian.
+
+**********
+
+[0.540435791015625] The noise levels are too high on weekends.
+Parent: However, some guests complained that there was no housekeeping/maid service available, and that noise levels could be an issue, particularly on weekends.
+
+----- Supporting -----
+
+[0.540435791015625] The Hilton Garden Inn is in a great location within walking distance of C.N.Tower and Rogers Stadium and next to a wide selection of restaurants,bars,shops etc There are fresh apples to help yourself each morning and cookies at night,also complimentary drinks on some days ?The rooms are spacious and clean BUT if you are stayingThursday through until Sunday there is a club with a patio next door and the noise is terrific until around three in the morning so if your not out yourself you will not sleep.We only had this experience on the Sat night the rest of our stay was perfect through until the following Wednesday.Fridge,microwave abd coffe maker in room really useful.Go to the italian quarter for some really great little restaurants and bars.Toronto is a terrific city ENJOY!
+[0.5283279418945312] I have stayed at this Hilton Garden on Peter street on business many, many times-so when planning a weekend visit with the family I had no hesitation to book- Its well situated, clean and modern and generally a very good value and the Hhnonors perks are good- WOW what a difference during the weekend-instead of business folk and tourists-its packed with club kids and partyers-the staff do their best-but its noisy and the area around the hotel is pretty crazy late in the evening on weekends- I will stay again during the week-but never on a weekend
+[0.2613525390625] The week-end floozies everywhere and drunken partners are too much !
+[0.21403884887695312] From the 17th floor we could be awakened from the thump thump of the disco music at 3am on a Saturday night !
+[0.11709976196289062] Cons: Saturday night was very noisy-- club on street just below the hotel had noise that was heard even on my upper floor room with windows closed.
+
+----- Weakening -----
+
+[-0.910491943359375] everything was super clean.
+[-0.9092798233032227] Quiet, comfortable and utilitarian.
+[-0.845585823059082] I have nothing bad to say about this hotel, helpful staff, clean tidy room, comfy beds, great location, it was a perfect place to stay.
+[-0.8288278579711914] Exceptional service!
+[-0.8262934684753418] Spent the Thanksgiving weekend at the Hilton Garden Inn on Peter St. A lovely, clean, modern hotel downtown.

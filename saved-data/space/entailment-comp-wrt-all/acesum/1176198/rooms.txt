@@ -1,0 +1,23 @@
+***** Aspect: rooms Model Type : zs *****
+Overall score: 0.9887971878051758
+
+**********
+
+[0.9887971878051758] The room was clean.
+Parent: The room was clean.
+
+----- Supporting -----
+
+[0.9887971878051758] The room was clean and and the beds are really comfortable.
+[0.9887151718139648] The rooms were very clean and nice.
+[0.9885783195495605] The room was large and very clean.
+[0.9876117706298828] The room was clean and comfortable with modern decor.
+[0.9866266250610352] The room was clean and quite large.
+
+----- Weakening -----
+
+[-0.9972906112670898] This night was a bit of a mess; we would walk out to the hallway and smell weed, hear loud music blasting, etc.
+[-0.9959650039672852] There were weird grease marks on the wall as well.
+[-0.9959630966186523] Plus the spa had too much chlorine in and that my eye's were stinging.
+[-0.9953641891479492] The wallpaper in the bathroom and our room was warped, bubbled, etc.
+[-0.9905834197998047] The week-end floozies everywhere and drunken partners are too much !

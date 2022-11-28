@@ -1,0 +1,821 @@
+***** Aspect: rooms Model Type : zs *****
+Overall score: 0.8490037795824882
+
+**********
+
+[0.5424270629882812] The rooms were dirty.
+Parent: The guests felt that the rooms were dirty and noisy, and that the hotel did not do a good job of accommodating their requests.
+
+----- Supporting -----
+
+[0.5424270629882812] The wallpaper in the bathroom and our room was warped, bubbled, etc.
+[0.5124053955078125] This night was a bit of a mess; we would walk out to the hallway and smell weed, hear loud music blasting, etc.
+[0.28459930419921875] We requested to have a maid clean our bathroom and take the trash out, no one ever came!
+[0.27545166015625] Plus the spa had too much chlorine in and that my eye's were stinging.
+[0.2560272216796875] There were weird grease marks on the wall as well.
+
+----- Weakening -----
+
+[-0.9975719451904297] The rooms were very clean and nice.
+[-0.9974513053894043] The condition of the shared areas and room were very clean and neat.
+[-0.9974384307861328] The room was very clean and modern.
+[-0.9973530769348145] The room was clean and comfortable with modern decor.
+[-0.997286319732666] The room was very clean w/ very new furnishings.
+
+**********
+
+[0.4846038818359375] The rooms were too noisy.
+Parent: The guests felt that the rooms were dirty and noisy, and that the hotel did not do a good job of accommodating their requests.
+
+----- Supporting -----
+
+[0.4846038818359375] That was a bit of a pain, but understandable, because it was getting extremely rowdy and it was clear people were bringing in about 10 people into one room.
+[0.25469970703125] Being in the heart of the entertainment district may be a plus for some but for me it means that you can't leave your window open at night for fresh air because of all the noise from the late night revellers.
+[0.23260498046875] BAD: Make sure you request a room that is not above the nightclub downstairs on Peter St. We were on the 17th floor & we could still hear all the music, even with our windows shut.
+[0.211578369140625] I would recommend staying on a floor higher than 10, I am a light sleeper and woke up at 230-330 AM after the bars let out and there was a lot of noise below!
+[0.199371337890625] (once we figured out how to work all the shower heads) The walls were very thin though-we could really hear our neighbours mini party at 2AM in the morning.
+
+----- Weakening -----
+
+[-0.9982585906982422] Despite this (and some of the other reviews), I found that the hotel is quiet and I was never disturbed by what is going outside.
+[-0.9982247352600098] The room was comfortable, clean and spacious and quiet.
+[-0.998093843460083] Convenient location, quiet and large room (mine was very quiet, while some rooms are not because of the proximity of night clubs), wonderful breakfast, free Internet.
+[-0.9973597526550293] Night club outside was busy, but we heard nothing from our room.
+[-0.9973061084747314] Did not hear a thing the whole time we were there.
+
+**********
+
+[0.7977523803710938] The hotel did not accommodate guests' requests well.
+Parent: The guests felt that the rooms were dirty and noisy, and that the hotel did not do a good job of accommodating their requests.
+
+----- Supporting -----
+
+[0.7977523803710938] Another issue I had is that we always ask for a room on an upper floor, this is the only Hilton on our entire trip that did not honor our request.
+[0.6561279296875] Not a bad place for _recreational_ travelers But the desk clerks could not figure out that for business travel, two people might have two reservations to share one room -- not, as the clerks set it up, for one to be the guest of the other (which also means no "HHonors" points for the "guest).
+[0.4096794128417969] We requested a later check out and they would not accommodate this....which I have never had happen before.
+[0.3470458984375] It's pretty clear that this hotel did not train the staff before opening: You can only valet park your car for $35.
+[0.33306884765625] We were given a regular room and when we called to ask to have our room replaced with another Jacuzzi room it took 25 minutes for the front desk to call us back.
+
+----- Weakening -----
+
+[-0.9926118850708008] Lots of thought has gone in to making guests happy, with a huge flat screen TV, very comfy bed, noon check-out, blackout curtains, fridge and fab bathroom with the huge shower/jet enclosure and nice toiletries!
+[-0.9895553588867188] The hotel staff was very nice and let us leave our luggage before and after check in so that we can go around the city.
+[-0.9889159202575684] Everything was to our standards, and all of our needs were met.
+[-0.9882259368896484] Breakfast was wonderful- the staff encouraged us to take whatever we wanted to go - with paper bags made available.
+[-0.9874382019042969] Exceptional service!
+
+**********
+
+[0.9916987419128418] The rooms were clean.
+Parent: The rooms were clean and nicely presented, but there were some issues with the 24 hour room service and the roll out beds.
+
+----- Supporting -----
+
+[0.9916987419128418] The rooms were very clean and nice.
+[0.986142635345459] The rooms were very clean and comfortable and the location was very convenient to a lot of major attractions downtown.
+[0.9811248779296875] Rooms are clean and spacious with your own refrigerator and microwave.
+[0.9803647994995117] The room was clean and and the beds are really comfortable.
+[0.9787993431091309] :-) Rooms VERY clean and were comfortable and roomy...sitting chairs and ottomans to put your feet up.
+
+----- Weakening -----
+
+[-0.9962472915649414] This night was a bit of a mess; we would walk out to the hallway and smell weed, hear loud music blasting, etc.
+[-0.9945783615112305] The wallpaper in the bathroom and our room was warped, bubbled, etc.
+[-0.9913330078125] There were weird grease marks on the wall as well.
+[-0.9902877807617188] Plus the spa had too much chlorine in and that my eye's were stinging.
+[-0.9787521362304688] However the carpet in the room had 2 stains.
+
+**********
+
+[0.9856123924255371] The rooms were clean and tidy.
+Parent: The rooms were clean and nicely presented, but there were some issues with the 24 hour room service and the roll out beds.
+
+----- Supporting -----
+
+[0.9856123924255371] The condition of the shared areas and room were very clean and neat.
+[0.9827566146850586] The rooms were very clean and comfortable and the location was very convenient to a lot of major attractions downtown.
+[0.9810466766357422] The service was exceptional and the rooms are very clean and comfortable.
+[0.979344367980957] The rooms were very clean and nice.
+[0.9748821258544922] I have nothing bad to say about this hotel, helpful staff, clean tidy room, comfy beds, great location, it was a perfect place to stay.
+
+----- Weakening -----
+
+[-0.9978995323181152] This night was a bit of a mess; we would walk out to the hallway and smell weed, hear loud music blasting, etc.
+[-0.9973125457763672] The wallpaper in the bathroom and our room was warped, bubbled, etc.
+[-0.9967403411865234] There were weird grease marks on the wall as well.
+[-0.9966261386871338] That was a bit of a pain, but understandable, because it was getting extremely rowdy and it was clear people were bringing in about 10 people into one room.
+[-0.9956479072570801] The week-end floozies everywhere and drunken partners are too much !
+
+**********
+
+[0.1526031494140625] The 24 hour room service was not up to par.
+Parent: The rooms were clean and nicely presented, but there were some issues with the 24 hour room service and the roll out beds.
+
+----- Supporting -----
+
+[0.1526031494140625] Clearly they need more than two valet guys working on a Sunday morning when everyone is checking out for the weekend There was a party going on at 1-2AM beside one of our rooms.
+[0.0873870849609375] We spoke with the lady at the desk and all she had to say was "we have never had a Sunday like this... We have another valet employee coming in in an hour" Not helpful!
+[0.0758209228515625] Front desk person said we could get into two adjoining rooms right away, but each room only had a king bed and a pull-out couch.
+[0.0650634765625] The 20 minute wait the following morning for the car wasn't good either especially as I could have parked across the street for $15 dollars rather than the $36 the hotel charge, Overall recommended
+[0.04265594482421875] Two nights we did have a guest, who had orginally intended to attend the conference: despite being assured on the phone that we could add a rollaway for him, when he arrived, we couldn't, and he and my colleague had to split a regular bed.
+
+----- Weakening -----
+
+[-0.9870195388793945] Exceptional service!
+[-0.9826650619506836] The service was exceptional and the rooms are very clean and comfortable.
+[-0.9814901351928711] The service is great and you must try a croissant - the best.
+[-0.9794983863830566] housekeeping was super here.
+[-0.9737563133239746] The service was quite good.
+
+**********
+
+[0.2320709228515625] The roll out beds did not function properly.
+Parent: The rooms were clean and nicely presented, but there were some issues with the 24 hour room service and the roll out beds.
+
+----- Supporting -----
+
+[0.2320709228515625] Two nights we did have a guest, who had orginally intended to attend the conference: despite being assured on the phone that we could add a rollaway for him, when he arrived, we couldn't, and he and my colleague had to split a regular bed.
+[0.06744384765625] Also, the staff for some reason couldn't seem to do the sums right!
+[0.053375244140625] When we arrived at room we had no sheets for pull out couch so we had to wait on housekeeping, who were friendly.
+[0.05263519287109375] We requested a later check out and they would not accommodate this....which I have never had happen before.
+[0.03912353515625] Took three attempts to get my change right and even then they got it wrong!
+
+----- Weakening -----
+
+[-0.9824495315551758] Exceptional service!
+[-0.9719295501708984] The king bed was one of the best I ever had.
+[-0.9708614349365234] Wonderful beds and linens.
+[-0.961970329284668] And the bed was terrific!
+[-0.9595232009887695] They have great rates, and works good for all purposes.
+
+**********
+
+[0.63299560546875] The Jacuzzi was a nice touch.
+Parent: The Jacuzzi in the room was a nice touch, but the pool was not open yet.
+
+----- Supporting -----
+
+[0.63299560546875] the pool and jacuzzi were awesome after waling around all day.
+[0.5709228515625] The whirpool temperature was awesome!
+[0.5234222412109375] The whirpool was great - it is located in the bedroom rather than the bathroom and was big enough for two!
+[0.1783885955810547] The rooms are modern, very clean and have many more amenities than one expects, including fridge, microwave, large HDTV, adjustable bed, spacious bathroom and, if upgrading, a wonderful Jacuzzi.
+[0.15472412109375] Super clean..i mean there wasn't any dust...dirt, smudges...The (glass or plexiglass) partition for whirpool was so clean that it positively sparkled.
+
+----- Weakening -----
+
+[-0.9570865631103516] My fav part was the breakfast buffet.
+[-0.9443588256835938] The breakfast at the restaurant downstairs was delicious!!
+[-0.9410934448242188] good breakfast.
+[-0.9382228851318359] Loved the in room coffee machine and microwave.
+[-0.9368343353271484] I particularly loved the breakfast they offer where we have a choice of a continental breakfast for $10 +tx or a buffet (all you can eat) for $15 +tx.
+
+**********
+
+[0.839141845703125] The pool was closed.
+Parent: The Jacuzzi in the room was a nice touch, but the pool was not open yet.
+
+----- Supporting -----
+
+[0.839141845703125] We called the front desk and they told us the pool was not open yet.
+[0.121826171875] The hotel had a indoor pool and gym facilities but didn't use them.
+[0.0] Horrible !
+[0.0] WOW !
+[0.0] Downfall ?
+
+----- Weakening -----
+
+[-0.9981174468994141] The pool and spa were much appreciated as was the Marquis dining room where we had a great breakfast in a relaxed atmosphere.
+[-0.9980757236480713] Plus the spa had too much chlorine in and that my eye's were stinging.
+[-0.9980525970458984] Pool is very small, and every time we stopped by there it was quite busy.
+[-0.9979686737060547] the pool and jacuzzi were awesome after waling around all day.
+[-0.9974417686462402] They have an incredible pool and gym that are both kept impeccably clean.
+
+**********
+
+[0.9526443481445312] The wallpaper in the bathroom was not up to par.
+Parent: There were also some issues with the wallpaper in the bathroom and the room.
+
+----- Supporting -----
+
+[0.9526443481445312] The wallpaper in the bathroom and our room was warped, bubbled, etc.
+[0.0904388427734375] (once we figured out how to work all the shower heads) The walls were very thin though-we could really hear our neighbours mini party at 2AM in the morning.
+[0.012247085571289062] There were weird grease marks on the wall as well.
+[0.0040130615234375] Took three attempts to get my change right and even then they got it wrong!
+[0.00313568115234375] Had to spend much time fixing their error.
+
+----- Weakening -----
+
+[-0.8367767333984375] Exceptional service!
+[-0.7956295013427734] The bathroom was lovely and clean as well.
+[-0.7819938659667969] Bathroom very clean.
+[-0.7763042449951172] Super clean..i mean there wasn't any dust...dirt, smudges...The (glass or plexiglass) partition for whirpool was so clean that it positively sparkled.
+[-0.7260990142822266] The service was exceptional and went beyond the standard service.
+
+**********
+
+[0.9181785583496094] The wallpaper in the room was not up to par.
+Parent: There were also some issues with the wallpaper in the bathroom and the room.
+
+----- Supporting -----
+
+[0.9181785583496094] The wallpaper in the bathroom and our room was warped, bubbled, etc.
+[0.048191070556640625] (once we figured out how to work all the shower heads) The walls were very thin though-we could really hear our neighbours mini party at 2AM in the morning.
+[0.044635772705078125] There were weird grease marks on the wall as well.
+[0.0272216796875] Took three attempts to get my change right and even then they got it wrong!
+[0.016021728515625] However the carpet in the room had 2 stains.
+
+----- Weakening -----
+
+[-0.950371265411377] everything was super clean.
+[-0.9107322692871094] Exceptional service!
+[-0.8847866058349609] They are very nicely decorated and supper clean.
+[-0.873875617980957] Everything was brand new and of great quality.
+[-0.859619140625] The service was exceptional and went beyond the standard service.
+
+**********
+
+[0.9794645309448242] The rooms were nice.
+Parent: Overall, reviewers thought the rooms were nice, clean, and modern.
+
+----- Supporting -----
+
+[0.9794645309448242] The rooms were very clean and nice.
+[0.9764337539672852] The rooms in this hotel are really nice and the front desk staff were very friendly when we checked in.
+[0.9555168151855469] The rooms were fabulous!
+[0.9509544372558594] Rooms are attractive and well-appointed with super comfortable beds We were traveling light and didn't bring our laptops so the business center with free internet was a definite plus.
+[0.9422874450683594] The rooms are great.
+
+----- Weakening -----
+
+[-0.8779220581054688] This night was a bit of a mess; we would walk out to the hallway and smell weed, hear loud music blasting, etc.
+[-0.8762168884277344] my boyfriend and i both went home sore and dead tired from trying to find a comfortable way to sleep tossing and turning all night but there was none.
+[-0.800079345703125] BAD: Make sure you request a room that is not above the nightclub downstairs on Peter St. We were on the 17th floor & we could still hear all the music, even with our windows shut.
+[-0.7931995391845703] Never in my life have I spent so much in one place and been treated so poorly.
+[-0.754425048828125] My boyfriend and I stayed here this past weekend january 21-23 and the people were nice not that we were in the hotel to much other than to sleep but the bed was absolutely awful it was like sleeping on a board.
+
+**********
+
+[0.9916987419128418] The rooms were clean.
+Parent: Overall, reviewers thought the rooms were nice, clean, and modern.
+
+----- Supporting -----
+
+[0.9916987419128418] The rooms were very clean and nice.
+[0.986142635345459] The rooms were very clean and comfortable and the location was very convenient to a lot of major attractions downtown.
+[0.9811248779296875] Rooms are clean and spacious with your own refrigerator and microwave.
+[0.9803647994995117] The room was clean and and the beds are really comfortable.
+[0.9787993431091309] :-) Rooms VERY clean and were comfortable and roomy...sitting chairs and ottomans to put your feet up.
+
+----- Weakening -----
+
+[-0.9962472915649414] This night was a bit of a mess; we would walk out to the hallway and smell weed, hear loud music blasting, etc.
+[-0.9945783615112305] The wallpaper in the bathroom and our room was warped, bubbled, etc.
+[-0.9913330078125] There were weird grease marks on the wall as well.
+[-0.9902877807617188] Plus the spa had too much chlorine in and that my eye's were stinging.
+[-0.9787521362304688] However the carpet in the room had 2 stains.
+
+**********
+
+[0.9166526794433594] Overall, the rooms were modern.
+Parent: Overall, reviewers thought the rooms were nice, clean, and modern.
+
+----- Supporting -----
+
+[0.9166526794433594] The rooms are modern, very clean and have many more amenities than one expects, including fridge, microwave, large HDTV, adjustable bed, spacious bathroom and, if upgrading, a wonderful Jacuzzi.
+[0.8945140838623047] This hotel is very up-to-date with great beds, good-sized rooms, refrigerator and a nice flat screen tv.
+[0.8394060134887695] The hotel was clean and the rooms modern and good sized.
+[0.8308143615722656] The rooms are new and well appointed.
+[0.8075637817382812] Nice staff, great location, wonderful breakfast, clean modern rooms, but if your room is on the south side of the building, the noise from the club next door will rock your world until about 2:30 AM.
+
+----- Weakening -----
+
+[-0.9605627059936523] The rooms where pretty standard and had very comfortable beds.
+[-0.8129043579101562] My mom and I had a fabulous stay there...Essentially, we needed a nice place with a pool and hot tub, quiet clean rooms, at an affordable rate... We had all of that and so much more...
+[-0.7476882934570312] we were so tired and sore from bad sleep we went home early on monday without shopping or anything the room was kind of plain we had the room with a jacuzzi and fireplace but both nights when we were in bed sleeping the jacuzzi mysteriously turned on and woke us both up and we couldn't figure out how to turn it off.
+[-0.7419815063476562] In summary, comfortable clean moderm hotel in great location - I would definately stay here again!
+[-0.7359809875488281] The condition of the shared areas and room were very clean and neat.
+
+**********
+
+[0.9619073867797852] The beds were uncomfortable.
+Parent: However, some reviewers found the beds to be uncomfortable and the bathroom to be too small.
+
+----- Supporting -----
+
+[0.9619073867797852] overall the people were nice but because of the uncomfortable bed we would not stay here again.
+[0.8714408874511719] It was an adjustable bed that allows you to choose the softness, I found it to be lumpy and uncomfortable.
+[0.6845130920410156] My boyfriend and I stayed here this past weekend january 21-23 and the people were nice not that we were in the hotel to much other than to sleep but the bed was absolutely awful it was like sleeping on a board.
+[0.117706298828125] Couldn't sleep in their wonderful beds !
+[0.1129608154296875] my boyfriend and i both went home sore and dead tired from trying to find a comfortable way to sleep tossing and turning all night but there was none.
+
+----- Weakening -----
+
+[-0.9951162338256836] Rooms are attractive and well-appointed with super comfortable beds We were traveling light and didn't bring our laptops so the business center with free internet was a definite plus.
+[-0.9947009086608887] I have nothing bad to say about this hotel, helpful staff, clean tidy room, comfy beds, great location, it was a perfect place to stay.
+[-0.9941291809082031] Nice finishings, very comfortable bed, beautiful bathrooms.
+[-0.9938859939575195] Lots of thought has gone in to making guests happy, with a huge flat screen TV, very comfy bed, noon check-out, blackout curtains, fridge and fab bathroom with the huge shower/jet enclosure and nice toiletries!
+[-0.9934186935424805] The bed was so comfortable that we fell right to sleep and never noticed any noise from the club.
+
+**********
+
+[0.9916200637817383] The bathroom was too small.
+Parent: However, some reviewers found the beds to be uncomfortable and the bathroom to be too small.
+
+----- Supporting -----
+
+[0.9916200637817383] The bathroom is too small.
+[0.4351654052734375] The only negative thing I would have to say would be regarding the small size of the bathroom.
+[0.383544921875] In the bathroom you feel like you are in a space capsule and these are a little cramped but lets face it how much time do you spend in a bathroom...in and out right!
+[0.009796142578125] It took nearly half hour to get change!
+[0.0046539306640625] We were given a regular room and when we called to ask to have our room replaced with another Jacuzzi room it took 25 minutes for the front desk to call us back.
+
+----- Weakening -----
+
+[-0.9981110095977783] It had a lovely spacious bathroom and a really comfortable bed.
+[-0.9980173110961914] The bathroom is large, the shower is great, everything you might expect from a hotel of this category.There are some clubs close, but had no problems with noise, even at the reception.
+[-0.9964923858642578] Washroom is big too, lots of counter space (which is handy when you have 4 girls doing their hair and makeup).
+[-0.9945616722106934] The rooms are modern, very clean and have many more amenities than one expects, including fridge, microwave, large HDTV, adjustable bed, spacious bathroom and, if upgrading, a wonderful Jacuzzi.
+[-0.9915857315063477] and instead had a very large glassed in shower area.
+
+**********
+
+[0.9755592346191406] The hotel is quite noisy on weekends.
+Parent: Additionally, some guests noted that the hotel could be quite noisy on weekends due to its proximity to clubs.
+
+----- Supporting -----
+
+[0.9755592346191406] I have stayed at this Hilton Garden on Peter street on business many, many times-so when planning a weekend visit with the family I had no hesitation to book- Its well situated, clean and modern and generally a very good value and the Hhnonors perks are good- WOW what a difference during the weekend-instead of business folk and tourists-its packed with club kids and partyers-the staff do their best-but its noisy and the area around the hotel is pretty crazy late in the evening on weekends- I will stay again during the week-but never on a weekend
+[0.9400138854980469] The Hilton Garden Inn is in a great location within walking distance of C.N.Tower and Rogers Stadium and next to a wide selection of restaurants,bars,shops etc There are fresh apples to help yourself each morning and cookies at night,also complimentary drinks on some days ?The rooms are spacious and clean BUT if you are stayingThursday through until Sunday there is a club with a patio next door and the noise is terrific until around three in the morning so if your not out yourself you will not sleep.We only had this experience on the Sat night the rest of our stay was perfect through until the following Wednesday.Fridge,microwave abd coffe maker in room really useful.Go to the italian quarter for some really great little restaurants and bars.Toronto is a terrific city ENJOY!
+[0.6556320190429688] Cons: Saturday night was very noisy-- club on street just below the hotel had noise that was heard even on my upper floor room with windows closed.
+[0.36896514892578125] The Saturday night rave at the local night spot was fairly noisy and interrupted our sleep.
+[0.33956146240234375] Clearly they need more than two valet guys working on a Sunday morning when everyone is checking out for the weekend There was a party going on at 1-2AM beside one of our rooms.
+
+----- Weakening -----
+
+[-0.4065742492675781] Quiet, comfortable and utilitarian.
+[-0.33837318420410156] Spent the Thanksgiving weekend at the Hilton Garden Inn on Peter St. A lovely, clean, modern hotel downtown.
+[-0.29956817626953125] Linen crisp and clean, beds comfy, v quiet with view over CN Tower.
+[-0.2732429504394531] In summary, comfortable clean moderm hotel in great location - I would definately stay here again!
+[-0.25221824645996094] Despite this (and some of the other reviews), I found that the hotel is quiet and I was never disturbed by what is going outside.
+
+**********
+
+[0.8120651245117188] The hotel is too noisy on weekends.
+Parent: Additionally, some guests noted that the hotel could be quite noisy on weekends due to its proximity to clubs.
+
+----- Supporting -----
+
+[0.8120651245117188] I have stayed at this Hilton Garden on Peter street on business many, many times-so when planning a weekend visit with the family I had no hesitation to book- Its well situated, clean and modern and generally a very good value and the Hhnonors perks are good- WOW what a difference during the weekend-instead of business folk and tourists-its packed with club kids and partyers-the staff do their best-but its noisy and the area around the hotel is pretty crazy late in the evening on weekends- I will stay again during the week-but never on a weekend
+[0.78692626953125] The Hilton Garden Inn is in a great location within walking distance of C.N.Tower and Rogers Stadium and next to a wide selection of restaurants,bars,shops etc There are fresh apples to help yourself each morning and cookies at night,also complimentary drinks on some days ?The rooms are spacious and clean BUT if you are stayingThursday through until Sunday there is a club with a patio next door and the noise is terrific until around three in the morning so if your not out yourself you will not sleep.We only had this experience on the Sat night the rest of our stay was perfect through until the following Wednesday.Fridge,microwave abd coffe maker in room really useful.Go to the italian quarter for some really great little restaurants and bars.Toronto is a terrific city ENJOY!
+[0.251220703125] Cons: Saturday night was very noisy-- club on street just below the hotel had noise that was heard even on my upper floor room with windows closed.
+[0.16684341430664062] From the 17th floor we could be awakened from the thump thump of the disco music at 3am on a Saturday night !
+[0.0890350341796875] Clearly they need more than two valet guys working on a Sunday morning when everyone is checking out for the weekend There was a party going on at 1-2AM beside one of our rooms.
+
+----- Weakening -----
+
+[-0.949155330657959] Spent the Thanksgiving weekend at the Hilton Garden Inn on Peter St. A lovely, clean, modern hotel downtown.
+[-0.8874197006225586] Quiet, comfortable and utilitarian.
+[-0.8568191528320312] Couldn't find any faults with this hotel.
+[-0.7816781997680664] everything was super clean.
+[-0.7578849792480469] Linen crisp and clean, beds comfy, v quiet with view over CN Tower.
+
+**********
+
+[0.9788103103637695] The rooms at this hotel are clean.
+Parent: The rooms at this hotel are clean, spacious, and modern.
+
+----- Supporting -----
+
+[0.9788103103637695] I have nothing bad to say about this hotel, helpful staff, clean tidy room, comfy beds, great location, it was a perfect place to stay.
+[0.9686365127563477] The hotel was very clean, room was quite large and shower had good water pressure.
+[0.9672183990478516] The Hilton Garden Inn is in a great location within walking distance of C.N.Tower and Rogers Stadium and next to a wide selection of restaurants,bars,shops etc There are fresh apples to help yourself each morning and cookies at night,also complimentary drinks on some days ?The rooms are spacious and clean BUT if you are stayingThursday through until Sunday there is a club with a patio next door and the noise is terrific until around three in the morning so if your not out yourself you will not sleep.We only had this experience on the Sat night the rest of our stay was perfect through until the following Wednesday.Fridge,microwave abd coffe maker in room really useful.Go to the italian quarter for some really great little restaurants and bars.Toronto is a terrific city ENJOY!
+[0.9638662338256836] My fiance and I stayed at this hotel the last time we went to Toronto to see a jays ball game, located a few footsteps from the cn tower/rogers centre, very convenient location, very good price, clean room, friendly staff, but as other reviews say, and we were expecting it and didn't mind considering the price and location, this hotel is right next to a night club, so the music really boom booms until early morning, unless you are a light sleeper, I would recommend this hotel to you.
+[0.9591741561889648] Pros: room very clean and well-lit; staff extremely helpful; extra comfortable beds (probably one of the best hotel beds I've slept in) Cons: room internet was very slow except for very basic email checks; breakfast room was understaffed so that two frantic staff-members were running around looking very flustered and struggling to deal with all the guests
+
+----- Weakening -----
+
+[-0.9814457893371582] This night was a bit of a mess; we would walk out to the hallway and smell weed, hear loud music blasting, etc.
+[-0.9791193008422852] Plus the spa had too much chlorine in and that my eye's were stinging.
+[-0.9488668441772461] The wallpaper in the bathroom and our room was warped, bubbled, etc.
+[-0.9473958015441895] There were weird grease marks on the wall as well.
+[-0.941838264465332] We were on the 15th floor and it still carried up and made it hard to sleep.
+
+**********
+
+[0.97540283203125] The rooms at this hotel are spacious.
+Parent: The rooms at this hotel are clean, spacious, and modern.
+
+----- Supporting -----
+
+[0.97540283203125] The Hilton Garden Inn is in a great location within walking distance of C.N.Tower and Rogers Stadium and next to a wide selection of restaurants,bars,shops etc There are fresh apples to help yourself each morning and cookies at night,also complimentary drinks on some days ?The rooms are spacious and clean BUT if you are stayingThursday through until Sunday there is a club with a patio next door and the noise is terrific until around three in the morning so if your not out yourself you will not sleep.We only had this experience on the Sat night the rest of our stay was perfect through until the following Wednesday.Fridge,microwave abd coffe maker in room really useful.Go to the italian quarter for some really great little restaurants and bars.Toronto is a terrific city ENJOY!
+[0.945012092590332] The hotel was very clean, room was quite large and shower had good water pressure.
+[0.8965721130371094] Rooms were large for a downtown hotel, nicely appointed.
+[0.8730258941650391] This hotel is very up-to-date with great beds, good-sized rooms, refrigerator and a nice flat screen tv.
+[0.8495635986328125] Clean, shiny new hotel with spacious welcoming lobby and attractive decor.
+
+----- Weakening -----
+
+[-0.9692420959472656] In the bathroom you feel like you are in a space capsule and these are a little cramped but lets face it how much time do you spend in a bathroom...in and out right!
+[-0.9266691207885742] my boyfriend and i both went home sore and dead tired from trying to find a comfortable way to sleep tossing and turning all night but there was none.
+[-0.9239959716796875] A fairly small hotel for Toronto but modern (it is a pretty new property) and very, very clean.
+[-0.8748779296875] The lobby is also small.
+[-0.8728866577148438] The bathroom is too small.
+
+**********
+
+[0.9638214111328125] The rooms at this hotel are modern.
+Parent: The rooms at this hotel are clean, spacious, and modern.
+
+----- Supporting -----
+
+[0.9638214111328125] The hotel was clean and the rooms modern and good sized.
+[0.9609389305114746] This hotel is very up-to-date with great beds, good-sized rooms, refrigerator and a nice flat screen tv.
+[0.8899593353271484] The hotel is brand new, fantastic rooms and public areas.
+[0.8252735137939453] Nice staff, great location, wonderful breakfast, clean modern rooms, but if your room is on the south side of the building, the noise from the club next door will rock your world until about 2:30 AM.
+[0.7484359741210938] My room was sizeable, very clean, in fact the entire hotel has an almost brand new feel to it.
+
+----- Weakening -----
+
+[-0.9776897430419922] The rooms where pretty standard and had very comfortable beds.
+[-0.9309921264648438] The room itself and the hotel were very nicely decorated, combining old and new accents.
+[-0.90948486328125] The lobby is a little spare, and the furnishings are going down that Hilton Garden Inn direction of "your room is your office", which I appreciate when I travel for, well, business, and which appeals less for when I'm there because it's down the street from the theatre.
+[-0.8932380676269531] My mom and I had a fabulous stay there...Essentially, we needed a nice place with a pool and hot tub, quiet clean rooms, at an affordable rate... We had all of that and so much more...
+[-0.8659553527832031] we were so tired and sore from bad sleep we went home early on monday without shopping or anything the room was kind of plain we had the room with a jacuzzi and fireplace but both nights when we were in bed sleeping the jacuzzi mysteriously turned on and woke us both up and we couldn't figure out how to turn it off.
+
+**********
+
+[0.9054527282714844] The rooms with whirlpools are a nice feature.
+Parent: Some rooms have whirlpools, fireplaces, and adjustable beds.
+
+----- Supporting -----
+
+[0.9054527282714844] The great space for the pool and whirlpool is , without question, very impressive.
+[0.48534393310546875] Since this hotel is fairly new, the bathrooms are very nice.
+[0.23351287841796875] The whirpool was great - it is located in the bedroom rather than the bathroom and was big enough for two!
+[0.16845703125] The bathroom is large, the shower is great, everything you might expect from a hotel of this category.There are some clubs close, but had no problems with noise, even at the reception.
+[0.1339111328125] The rooms are modern, very clean and have many more amenities than one expects, including fridge, microwave, large HDTV, adjustable bed, spacious bathroom and, if upgrading, a wonderful Jacuzzi.
+
+----- Weakening -----
+
+[-0.8883056640625] Wireless internet was complimentary in the room which is great.
+[-0.87042236328125] what makes is worse is the drunk people returning to there rooms from 12am to 5am.
+[-0.8528289794921875] The week-end floozies everywhere and drunken partners are too much !
+[-0.8067417144775391] This is where the weekend turns for the worse....
+[-0.7871780395507812] Loved the in room coffee machine and microwave.
+
+**********
+
+[0.9746084213256836] Some rooms have fireplaces.
+Parent: Some rooms have whirlpools, fireplaces, and adjustable beds.
+
+----- Supporting -----
+
+[0.9746084213256836] You can get a whirlpool room with a fireplace if you are so inclined and the price is pretty much the same as a room without.
+[0.9558582305908203] we were so tired and sore from bad sleep we went home early on monday without shopping or anything the room was kind of plain we had the room with a jacuzzi and fireplace but both nights when we were in bed sleeping the jacuzzi mysteriously turned on and woke us both up and we couldn't figure out how to turn it off.
+[0.9552278518676758] I went to The Hilton Garden Inn on Peter Street for a one night stay with my BF to celebrate our Anniversary, we opted for the King Room with Jacuzzi and Fireplace.
+[0.9044227600097656] Also the room had a two person whirlpool bath from which you could watch either the TV or the fireplace.
+[0.8809928894042969] The rooms were warm and comfortable, and the hotel has a small but cozy lobby with a fireplace, business center and small market shop.
+
+----- Weakening -----
+
+[-0.57940673828125] If you have a car, consider the cost of parking.
+[-0.56048583984375] It cost you at least double of the standard taxi ride.
+[-0.537353515625] It is not that hard to match up numbers on tickets to find a vehicle.
+[-0.421630859375] How easy could it have been for someone else to leave with our truck if they could bring us the wrong car?
+[-0.40716552734375] The valet parking service guys are really nice and rest assured your car will be safe.
+
+**********
+
+[0.08884429931640625] The rooms with adjustable beds are more comfortable.
+Parent: Some rooms have whirlpools, fireplaces, and adjustable beds.
+
+----- Supporting -----
+
+[0.08884429931640625] Beds were adjustable to firmness and the chairs in the rooms are awsome!
+[0.0363922119140625] Tell us how you liked the room - Had a 2 queen bed room - very spacious and beds were extremely comfortable.
+[0.0332794189453125] Pros: room very clean and well-lit; staff extremely helpful; extra comfortable beds (probably one of the best hotel beds I've slept in) Cons: room internet was very slow except for very basic email checks; breakfast room was understaffed so that two frantic staff-members were running around looking very flustered and struggling to deal with all the guests
+[0.027660369873046875] The bed had a control to change firmness which was neat- overall could have been softer but no complaints.
+[0.0240631103515625] Rooms are attractive and well-appointed with super comfortable beds We were traveling light and didn't bring our laptops so the business center with free internet was a definite plus.
+
+----- Weakening -----
+
+[-0.6728515625] For a price of $10 we had a choice of hot and cold items, both ready made, and made to order.
+[-0.593963623046875] The valet parking service guys are really nice and rest assured your car will be safe.
+[-0.547210693359375] They don't keep change in the restaurant!!!
+[-0.536346435546875] If you have a car, consider the cost of parking.
+[-0.5339202880859375] In the shower there is a very nice rainfall shower head that feels great to get into after a long day walking around Toronto, especially in the heat!
+
+**********
+
+[0.9836263656616211] The hotel is conveniently located.
+Parent: The hotel is conveniently located and has a good breakfast buffet.
+
+----- Supporting -----
+
+[0.9836263656616211] The hotel is very conveniently located to the nearby entertainment district, and 20 min walk to the island ferries, and is convenient to the Queen and King Streetcar lines if you wish to go further.
+[0.9793281555175781] The hotel is very conveniently located in downtown Toronto and overall the stay was very satisfactory for the price.
+[0.9751043319702148] The hotel was conveniently located close to most sights in the city.
+[0.9688677787780762] The hotel is convenient to all of Torontoâ€™s main attractions and close to the cityâ€™s exciting nightlife.
+[0.9654703140258789] The hotel is close enough to the big attractions to be convenient but still is not in an overly busy/loud part of town which was nice.
+
+----- Weakening -----
+
+[-0.8256092071533203] my boyfriend and i both went home sore and dead tired from trying to find a comfortable way to sleep tossing and turning all night but there was none.
+[-0.8182334899902344] Try not to get a room on that side, even high up.
+[-0.8111457824707031] I would NOT recommend giving this hotel your business.
+[-0.7896499633789062] BAD: Make sure you request a room that is not above the nightclub downstairs on Peter St. We were on the 17th floor & we could still hear all the music, even with our windows shut.
+[-0.7411098480224609] Unfortunately, we made the wrong decision on where to stay.
+
+**********
+
+[0.9796500205993652] The breakfast buffet was good.
+Parent: The hotel is conveniently located and has a good breakfast buffet.
+
+----- Supporting -----
+
+[0.9796500205993652] The buffet breakfast is really quite good and worth the price if you are hungry.
+[0.9221611022949219] Great location, especially for going to Rogers Centre, plenty of places to eat nearby, very good breakfast buffet, and has pool for the kids.
+[0.8874673843383789] The breakfast buffett was very well stocked and had lots of options.
+[0.8600196838378906] We had bed and breakfast rate..food was really good.
+[0.792449951171875] My fav part was the breakfast buffet.
+
+----- Weakening -----
+
+[-0.8691978454589844] There's good coffee nearby (I'm fairly sure that they didn't offer breakfast).
+[-0.8612136840820312] Breakfast is adequate, nothing impressive.
+[-0.74591064453125] We had dinner at Wayne Gretzky's just down the road, and that was really nice.
+[-0.6683063507080078] The Saturday night rave at the local night spot was fairly noisy and interrupted our sleep.
+[-0.6519012451171875] And the free internet is speedy.
+
+**********
+
+[0.986236572265625] The rooms are beautiful.
+Parent: The rooms are beautiful and spacious.
+
+----- Supporting -----
+
+[0.986236572265625] The rooms are beautiful and spacious.
+[0.9608888626098633] Rooms are attractive and well-appointed with super comfortable beds We were traveling light and didn't bring our laptops so the business center with free internet was a definite plus.
+[0.8905181884765625] The rooms in this hotel are really nice and the front desk staff were very friendly when we checked in.
+[0.8249654769897461] The rooms were fabulous!
+[0.6614837646484375] The room was absolutely beautiful!
+
+----- Weakening -----
+
+[-0.9230270385742188] The room is OK, though I vave seen better bedding.
+[-0.8423919677734375] Breakfast is adequate, nothing impressive.
+[-0.8073883056640625] OK, I love music, but this was no music !
+[-0.790740966796875] we were so tired and sore from bad sleep we went home early on monday without shopping or anything the room was kind of plain we had the room with a jacuzzi and fireplace but both nights when we were in bed sleeping the jacuzzi mysteriously turned on and woke us both up and we couldn't figure out how to turn it off.
+[-0.7758026123046875] The valet parking service guys are really nice and rest assured your car will be safe.
+
+**********
+
+[0.9861211776733398] The rooms are spacious.
+Parent: The rooms are beautiful and spacious.
+
+----- Supporting -----
+
+[0.9861211776733398] The rooms are beautiful and spacious.
+[0.9756088256835938] Rooms are clean and spacious with your own refrigerator and microwave.
+[0.9666061401367188] The Hilton Garden Inn is in a great location within walking distance of C.N.Tower and Rogers Stadium and next to a wide selection of restaurants,bars,shops etc There are fresh apples to help yourself each morning and cookies at night,also complimentary drinks on some days ?The rooms are spacious and clean BUT if you are stayingThursday through until Sunday there is a club with a patio next door and the noise is terrific until around three in the morning so if your not out yourself you will not sleep.We only had this experience on the Sat night the rest of our stay was perfect through until the following Wednesday.Fridge,microwave abd coffe maker in room really useful.Go to the italian quarter for some really great little restaurants and bars.Toronto is a terrific city ENJOY!
+[0.9231605529785156] Really comfy beds and rooms are a good size.
+[0.9062652587890625] The room was large, the bed was oh so comfortable, the shower was really nice and we liked having a fridge in the room.
+
+----- Weakening -----
+
+[-0.9944486618041992] In the bathroom you feel like you are in a space capsule and these are a little cramped but lets face it how much time do you spend in a bathroom...in and out right!
+[-0.9893093109130859] The lobby is also small.
+[-0.9838829040527344] I used the fitness center and pool which were both small but well maintained.
+[-0.9837837219238281] Lobby was a little small and at times quite crowded, but once you pass through that it was a non-issue.
+[-0.9765777587890625] Pool is very small, and every time we stopped by there it was quite busy.
+
+**********
+
+[0.9852132797241211] The rooms are clean.
+Parent: They are clean and have many amenities, including a refrigerator, microwave, large HDTV, and adjustable bed.
+
+----- Supporting -----
+
+[0.9852132797241211] The rooms were very clean and nice.
+[0.9792366027832031] Rooms are clean and spacious with your own refrigerator and microwave.
+[0.9775967597961426] The rooms were very clean and comfortable and the location was very convenient to a lot of major attractions downtown.
+[0.9757547378540039] The service was exceptional and the rooms are very clean and comfortable.
+[0.9740104675292969] The rooms are modern, very clean and have many more amenities than one expects, including fridge, microwave, large HDTV, adjustable bed, spacious bathroom and, if upgrading, a wonderful Jacuzzi.
+
+----- Weakening -----
+
+[-0.9933252334594727] This night was a bit of a mess; we would walk out to the hallway and smell weed, hear loud music blasting, etc.
+[-0.993250846862793] The wallpaper in the bathroom and our room was warped, bubbled, etc.
+[-0.9879322052001953] There were weird grease marks on the wall as well.
+[-0.9870176315307617] Plus the spa had too much chlorine in and that my eye's were stinging.
+[-0.9742927551269531] The week-end floozies everywhere and drunken partners are too much !
+
+**********
+
+[0.8583488464355469] The amenities were good.
+Parent: They are clean and have many amenities, including a refrigerator, microwave, large HDTV, and adjustable bed.
+
+----- Supporting -----
+
+[0.8583488464355469] The facilities are also better than I have encountered in any hotel.
+[0.8141403198242188] The rooms are well-equipped and comfortable.
+[0.7962703704833984] Room was very comfortable, good location for sightseeing in Toronto, breakfasts cooked to order, and all went well until the third night when the nightclub next door went into action.
+[0.7866001129150391] Nice facilityin a convenient location, very useful business services room, friendly restaurant staff (though the honeydew melon in the salad bar was off).
+[0.7596321105957031] I have stayed at this Hilton Garden on Peter street on business many, many times-so when planning a weekend visit with the family I had no hesitation to book- Its well situated, clean and modern and generally a very good value and the Hhnonors perks are good- WOW what a difference during the weekend-instead of business folk and tourists-its packed with club kids and partyers-the staff do their best-but its noisy and the area around the hotel is pretty crazy late in the evening on weekends- I will stay again during the week-but never on a weekend
+
+----- Weakening -----
+
+[-0.9525642395019531] We were extremely inconvenienced (mother in law in hospital).
+[-0.9452896118164062] my boyfriend and i both went home sore and dead tired from trying to find a comfortable way to sleep tossing and turning all night but there was none.
+[-0.8690185546875] Pool/Hot Tub isn't much to write home about.
+[-0.7764205932617188] First, there was absolutely no housecleaning/maid service!
+[-0.7447509765625] BAD: Make sure you request a room that is not above the nightclub downstairs on Peter St. We were on the 17th floor & we could still hear all the music, even with our windows shut.
+
+**********
+
+[0.9904818534851074] They have a refrigerator.
+Parent: They are clean and have many amenities, including a refrigerator, microwave, large HDTV, and adjustable bed.
+
+----- Supporting -----
+
+[0.9904818534851074] This hotel is very up-to-date with great beds, good-sized rooms, refrigerator and a nice flat screen tv.
+[0.9861774444580078] Lots of thought has gone in to making guests happy, with a huge flat screen TV, very comfy bed, noon check-out, blackout curtains, fridge and fab bathroom with the huge shower/jet enclosure and nice toiletries!
+[0.9840631484985352] The rooms have a small fridge, a microwave oven and a large flat screen television.
+[0.9828996658325195] The room has a refrigerator and microwave.
+[0.9742765426635742] The room also had a coffee maker and a fridge.
+
+----- Weakening -----
+
+[-0.9452552795410156] There was a business centre, gym and pool, all of which were high quality.
+[-0.9321098327636719] Plus the spa had too much chlorine in and that my eye's were stinging.
+[-0.9277763366699219] and instead had a very large glassed in shower area.
+[-0.9259109497070312] The fitness center, pool, and hot tub where all nice like I said everything was brand new.
+[-0.9247283935546875] They have an incredible pool and gym that are both kept impeccably clean.
+
+**********
+
+[0.8892135620117188] The microwave is available.
+Parent: They are clean and have many amenities, including a refrigerator, microwave, large HDTV, and adjustable bed.
+
+----- Supporting -----
+
+[0.8892135620117188] The Hilton Garden Inn is in a great location within walking distance of C.N.Tower and Rogers Stadium and next to a wide selection of restaurants,bars,shops etc There are fresh apples to help yourself each morning and cookies at night,also complimentary drinks on some days ?The rooms are spacious and clean BUT if you are stayingThursday through until Sunday there is a club with a patio next door and the noise is terrific until around three in the morning so if your not out yourself you will not sleep.We only had this experience on the Sat night the rest of our stay was perfect through until the following Wednesday.Fridge,microwave abd coffe maker in room really useful.Go to the italian quarter for some really great little restaurants and bars.Toronto is a terrific city ENJOY!
+[0.8157958984375] Having the refridgerator and microwave is essential for us when traveling with our kids - so that was a plus.
+[0.810272216796875] Rooms are clean and spacious with your own refrigerator and microwave.
+[0.8060531616210938] The rooms are modern, very clean and have many more amenities than one expects, including fridge, microwave, large HDTV, adjustable bed, spacious bathroom and, if upgrading, a wonderful Jacuzzi.
+[0.746246337890625] Otherwise the room was clean [and cleaned], the fridge and microwave worked too.
+
+----- Weakening -----
+
+[-0.8631668090820312] Indoor pool if you want to take a dip.
+[-0.86090087890625] Also offered professional driver to get car back.
+[-0.8510360717773438] If you have a car, consider the cost of parking.
+[-0.838470458984375] It is not that hard to match up numbers on tickets to find a vehicle.
+[-0.8264923095703125] We were informed that we can get the cart and use it ourselves.
+
+**********
+
+[0.8655624389648438] The HDTV is large.
+Parent: They are clean and have many amenities, including a refrigerator, microwave, large HDTV, and adjustable bed.
+
+----- Supporting -----
+
+[0.8655624389648438] The rooms are modern, very clean and have many more amenities than one expects, including fridge, microwave, large HDTV, adjustable bed, spacious bathroom and, if upgrading, a wonderful Jacuzzi.
+[0.170501708984375] The rooms have a small fridge, a microwave oven and a large flat screen television.
+[0.13232421875] The room has everything you need, good and effective air-condition (important as we had 38Â°C outside), large flat screen 37" TV, fast cable Internet, excellent bathroom.
+[0.1251220703125] Lots of thought has gone in to making guests happy, with a huge flat screen TV, very comfy bed, noon check-out, blackout curtains, fridge and fab bathroom with the huge shower/jet enclosure and nice toiletries!
+[0.046783447265625] The room had a small fridge, microwave and large TV.
+
+----- Weakening -----
+
+[-0.9180412292480469] The bathroom is too small.
+[-0.905181884765625] It was adequate to do lengths, but not large by any means.
+[-0.8867950439453125] the Pool, while not large, was comfortable and clean, and the workout facilities were excellent.
+[-0.878936767578125] A fairly small hotel for Toronto but modern (it is a pretty new property) and very, very clean.
+[-0.8729782104492188] For anyone wondering (like we were), the tub is huge, more than enough room for two people.
+
+**********
+
+[0.9846973419189453] The bed is adjustable.
+Parent: They are clean and have many amenities, including a refrigerator, microwave, large HDTV, and adjustable bed.
+
+----- Supporting -----
+
+[0.9846973419189453] It was an adjustable bed that allows you to choose the softness, I found it to be lumpy and uncomfortable.
+[0.9732818603515625] Beds were adjustable to firmness and the chairs in the rooms are awsome!
+[0.9440994262695312] It is a sleep number bed so you can adjust the firmness.
+[0.926666259765625] Room was very clean and the bed very comfotable.
+[0.9138565063476562] The rooms are modern, very clean and have many more amenities than one expects, including fridge, microwave, large HDTV, adjustable bed, spacious bathroom and, if upgrading, a wonderful Jacuzzi.
+
+----- Weakening -----
+
+[-0.8963470458984375] The restaurant food was excellent-we had chicken stir fry and shrimp pasta.
+[-0.889190673828125] If you have a car, consider the cost of parking.
+[-0.8819427490234375] 40 minutes later we finally got our cars.
+[-0.8524322509765625] Restaurant was really good too with great service!
+[-0.8378753662109375] We had to rent a car and travel back to US to have key made.
+
+**********
+
+[0.9891071319580078] The breakfast buffett is well stocked.
+Parent: The breakfast buffett is well stocked and the pool and hot tub are both clean and well maintained.
+
+----- Supporting -----
+
+[0.9891071319580078] The breakfast buffett was very well stocked and had lots of options.
+[0.7644596099853516] A full cooked to order breakfast (including omlettes, eggs, waffles, home fries, bacon, sausage, toast, muffin, fruit, etc etc.)
+[0.7580070495605469] Hot breakfast is on until 11am for (civilized) late sleepers, and offers lots to choose from, all good and very well prepared.
+[0.44246578216552734] Food for breakfast was very good with lots to choose from.
+[0.384521484375] Made to order eggs, french toast, waffles, omlettes, fresh fruit, cereals, selection of pastries, yogurts..you name it.
+
+----- Weakening -----
+
+[-0.9818649291992188] Pros: room very clean and well-lit; staff extremely helpful; extra comfortable beds (probably one of the best hotel beds I've slept in) Cons: room internet was very slow except for very basic email checks; breakfast room was understaffed so that two frantic staff-members were running around looking very flustered and struggling to deal with all the guests
+[-0.8677921295166016] Two nights we did have a guest, who had orginally intended to attend the conference: despite being assured on the phone that we could add a rollaway for him, when he arrived, we couldn't, and he and my colleague had to split a regular bed.
+[-0.8671112060546875] There's good coffee nearby (I'm fairly sure that they didn't offer breakfast).
+[-0.7538242340087891] I would NOT recommend giving this hotel your business.
+[-0.7161598205566406] The service manager refused!
+
+**********
+
+[0.9597625732421875] The pool is clean.
+Parent: The breakfast buffett is well stocked and the pool and hot tub are both clean and well maintained.
+
+----- Supporting -----
+
+[0.9597625732421875] the Pool, while not large, was comfortable and clean, and the workout facilities were excellent.
+[0.9422826766967773] They have an incredible pool and gym that are both kept impeccably clean.
+[0.9022254943847656] Pool and hot tub clean, though bizarrly no changing room.
+[0.8870849609375] Super clean..i mean there wasn't any dust...dirt, smudges...The (glass or plexiglass) partition for whirpool was so clean that it positively sparkled.
+[0.8215904235839844] The lobby, pool area, rooms and hallway were all very clean.
+
+----- Weakening -----
+
+[-0.9962196350097656] Plus the spa had too much chlorine in and that my eye's were stinging.
+[-0.9754123687744141] The week-end floozies everywhere and drunken partners are too much !
+[-0.9563159942626953] Hotel rooms and restaurant = great "Valet" = brutal and ruined the whole stay.
+[-0.9488430023193359] There were weird grease marks on the wall as well.
+[-0.9117889404296875] It was an adjustable bed that allows you to choose the softness, I found it to be lumpy and uncomfortable.
+
+**********
+
+[0.9422826766967773] The pool is well maintained.
+Parent: The breakfast buffett is well stocked and the pool and hot tub are both clean and well maintained.
+
+----- Supporting -----
+
+[0.9422826766967773] They have an incredible pool and gym that are both kept impeccably clean.
+[0.935089111328125] I used the fitness center and pool which were both small but well maintained.
+[0.84613037109375] the Pool, while not large, was comfortable and clean, and the workout facilities were excellent.
+[0.8019790649414062] Pool and hot tub clean, though bizarrly no changing room.
+[0.60455322265625] Super clean..i mean there wasn't any dust...dirt, smudges...The (glass or plexiglass) partition for whirpool was so clean that it positively sparkled.
+
+----- Weakening -----
+
+[-0.916229248046875] Hotel rooms and restaurant = great "Valet" = brutal and ruined the whole stay.
+[-0.8188562393188477] Never in my life have I spent so much in one place and been treated so poorly.
+[-0.7844314575195312] Pool/Hot Tub isn't much to write home about.
+[-0.7018260955810547] There were weird grease marks on the wall as well.
+[-0.6451797485351562] This night was a bit of a mess; we would walk out to the hallway and smell weed, hear loud music blasting, etc.
+
+**********
+
+[0.896270751953125] The hot tub is clean.
+Parent: The breakfast buffett is well stocked and the pool and hot tub are both clean and well maintained.
+
+----- Supporting -----
+
+[0.896270751953125] Pool and hot tub clean, though bizarrly no changing room.
+[0.63616943359375] the Pool, while not large, was comfortable and clean, and the workout facilities were excellent.
+[0.5834121704101562] Super clean..i mean there wasn't any dust...dirt, smudges...The (glass or plexiglass) partition for whirpool was so clean that it positively sparkled.
+[0.3438262939453125] The pool and hot tub looked nice and clean, although we didnn't use it.
+[0.33319091796875] The hotel was very clean, room was quite large and shower had good water pressure.
+
+----- Weakening -----
+
+[-0.9938068389892578] Plus the spa had too much chlorine in and that my eye's were stinging.
+[-0.9839954376220703] There were weird grease marks on the wall as well.
+[-0.9651908874511719] This night was a bit of a mess; we would walk out to the hallway and smell weed, hear loud music blasting, etc.
+[-0.9574012756347656] The fire alarm went off in the ENTIRE hotel very early in the morning because someone burned toast.
+[-0.9378585815429688] It was an adjustable bed that allows you to choose the softness, I found it to be lumpy and uncomfortable.
+
+**********
+
+[0.7689361572265625] The hot tub is in good condition.
+Parent: The breakfast buffett is well stocked and the pool and hot tub are both clean and well maintained.
+
+----- Supporting -----
+
+[0.7689361572265625] Pool and hot tub clean, though bizarrly no changing room.
+[0.45944976806640625] Super clean..i mean there wasn't any dust...dirt, smudges...The (glass or plexiglass) partition for whirpool was so clean that it positively sparkled.
+[0.45490264892578125] The pool and hot tub looked nice and clean, although we didnn't use it.
+[0.3666534423828125] The fitness center, pool, and hot tub where all nice like I said everything was brand new.
+[0.3504486083984375] I have stayed at this Hilton Garden on Peter street on business many, many times-so when planning a weekend visit with the family I had no hesitation to book- Its well situated, clean and modern and generally a very good value and the Hhnonors perks are good- WOW what a difference during the weekend-instead of business folk and tourists-its packed with club kids and partyers-the staff do their best-but its noisy and the area around the hotel is pretty crazy late in the evening on weekends- I will stay again during the week-but never on a weekend
+
+----- Weakening -----
+
+[-0.9517230987548828] The fire alarm went off in the ENTIRE hotel very early in the morning because someone burned toast.
+[-0.9511394500732422] There were weird grease marks on the wall as well.
+[-0.9421463012695312] This night was a bit of a mess; we would walk out to the hallway and smell weed, hear loud music blasting, etc.
+[-0.912322998046875] It was an adjustable bed that allows you to choose the softness, I found it to be lumpy and uncomfortable.
+[-0.8869476318359375] Plus the spa had too much chlorine in and that my eye's were stinging.

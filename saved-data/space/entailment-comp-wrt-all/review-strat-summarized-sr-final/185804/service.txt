@@ -1,0 +1,170 @@
+***** Aspect: service Model Type : zs *****
+Overall score: 0.6986132264137268
+
+**********
+
+[0.9638156890869141] The hotel service was good.
+Parent: The reviews of the hotel service were mixed.
+
+----- Supporting -----
+
+[0.9638156890869141] The hotel is very good, with decent sized rooms, great prices and excellent service!
+[0.9595508575439453] The hotel staff were very good and accomodating, the hotel itself is good.
+[0.9499416351318359] Generally this hotel has excellent service, is fantastic value, the restaurant is good with great views, but the best thing is that it just has a lovely relaxed and friendly atmosphere.
+[0.9159231185913086] At the hotel’s restaurant where I ate often, the service was attentive and friendly; they even went out of their way tonight to make a strawberry compote for the cheesecake because I didn’t want the cherry compote!
+[0.9120254516601562] Hotel was friendly, staff helpful, room lovely, bathroom really lovely, restaurant and bar great food and drink and service.
+
+----- Weakening -----
+
+[-0.975494384765625] Unfortunately they just don't have the level of service that would make them a great hotel.
+[-0.9713020324707031] * The restaurant has a very limited and boring menu and the service is terrible.
+[-0.8894882202148438] The staff just seemed disinterested, especially at the bar and the front desk.
+[-0.8765544891357422] We recently had an extremely bad stay at an American Sheraton hotel, and were a bit gunshy about staying in ANY hotel again...haha.
+[-0.8231525421142578] I have to say I was disappointed with the hotel.
+
+**********
+
+[0.853515625] The hotel service was bad.
+Parent: The reviews of the hotel service were mixed.
+
+----- Supporting -----
+
+[0.853515625] Unfortunately they just don't have the level of service that would make them a great hotel.
+[0.274627685546875] The desk staff would not look up on Hotels.ca the discrepancies we sited when checking out but they were very cheery and smiling the whole time while denying our information which was infuriating!
+[0.17723846435546875] The staff just seemed disinterested, especially at the bar and the front desk.
+[0.17576026916503906] We recently had an extremely bad stay at an American Sheraton hotel, and were a bit gunshy about staying in ANY hotel again...haha.
+[0.167724609375] The hotel is in a great location but needs some serious updating, sound proofing and desk staff needs an attitude check towards guests.
+
+----- Weakening -----
+
+[-0.997797966003418] The hotel is very good, with decent sized rooms, great prices and excellent service!
+[-0.9977426528930664] Generally this hotel has excellent service, is fantastic value, the restaurant is good with great views, but the best thing is that it just has a lovely relaxed and friendly atmosphere.
+[-0.997553825378418] Great food and great service.
+[-0.9973850250244141] First, wonderful staff who were so attentive to my needs, treating and speaking with me with respect that is often hard to find in modern hotels.
+[-0.9969563484191895] The service is fantastic… in nine days I’ve only encountered nice, friendly, helpful, courteous, attentive and caring employees.
+
+**********
+
+[0.9950728416442871] The staff was friendly and helpful.
+Parent: Some reviewers found the staff to be friendly and helpful, while others thought the service was poor or average.
+
+----- Supporting -----
+
+[0.9950728416442871] The Staff was very friendly and helpful.
+[0.9931368827819824] The staff were all very friendly and helpful.
+[0.9926357269287109] The staff are friendly, helpful and always pleased to see us.
+[0.9907078742980957] The staff at the hotel were very friendly, helpful and cheerful.
+[0.9883468151092529] Staff were very pleasant and helpful.
+
+----- Weakening -----
+
+[-0.9953465461730957] The staff just seemed disinterested, especially at the bar and the front desk.
+[-0.9889035224914551] I rented a bike but no one offered to show me how to use the lock.
+[-0.9665069580078125] The hotel is in a great location but needs some serious updating, sound proofing and desk staff needs an attitude check towards guests.
+[-0.9441909790039062] However, if problems arise, as they did on our night, do not expect the manage to be of any help.
+[-0.9403085708618164] * The restaurant has a very limited and boring menu and the service is terrible.
+
+**********
+
+[0.17822265625] The service was poor or average.
+Parent: Some reviewers found the staff to be friendly and helpful, while others thought the service was poor or average.
+
+----- Supporting -----
+
+[0.17822265625] Unfortunately they just don't have the level of service that would make them a great hotel.
+[0.082763671875] The staff just seemed disinterested, especially at the bar and the front desk.
+[0.02008056640625] Otherwise, it is kind of a humble little hotel.
+[0.01271820068359375] We stayed in 6 hotels in all and this was by no means the cheapest, but it was the least appealing.
+[0.006839752197265625] In no way was this a three star hotel.
+
+----- Weakening -----
+
+[-0.99786376953125] Generally this hotel has excellent service, is fantastic value, the restaurant is good with great views, but the best thing is that it just has a lovely relaxed and friendly atmosphere.
+[-0.9978599548339844] Great food and great service.
+[-0.997492790222168] The food and service were outstanding.
+[-0.9974918365478516] Awesome food, service and view!
+[-0.9973325729370117] The staff was consistently warm and friendly and above all very servicing.
+
+**********
+
+[0.6558303833007812] The staff was unhelpful.
+Parent: There were complaints about the staff being unhelpful in addressing problems, and about the use of the ferry boats being expensive.
+
+----- Supporting -----
+
+[0.6558303833007812] The staff just seemed disinterested, especially at the bar and the front desk.
+[0.3508148193359375] However, if problems arise, as they did on our night, do not expect the manage to be of any help.
+[0.1069488525390625] I rented a bike but no one offered to show me how to use the lock.
+[0.0611419677734375] The hotel is in a great location but needs some serious updating, sound proofing and desk staff needs an attitude check towards guests.
+[0.056262969970703125] * The restaurant has a very limited and boring menu and the service is terrible.
+
+----- Weakening -----
+
+[-0.9979238510131836] The Front Desk staff went out of their way to provide excellent directions along with helpful driving tips.
+[-0.9977850914001465] The hotel is really nice and the staff are friendly and helpful.
+[-0.9977607727050781] All staff at the hotel were very helpful and friendly.
+[-0.9977269172668457] The staff are friendly, helpful and always pleased to see us.
+[-0.9977221488952637] Very pleasant hotel and particularly helpful and accommodating staff.
+
+**********
+
+[0.0016450881958007812] The use of the ferry boats was too expensive.
+Parent: There were complaints about the staff being unhelpful in addressing problems, and about the use of the ferry boats being expensive.
+
+----- Supporting -----
+
+[0.0016450881958007812] Granville Island was a little too touristy for me.
+[0.0] Perfect
+[0.0] Enjoy!
+[0.0] !
+[0.0] .
+
+----- Weakening -----
+
+[-0.9941229820251465] A short, inexpensive ferry ride to Downtown Vancouver makes it an ideal place to stay if you want to explore the main shops or get to some of the other major attractions.
+[-0.9394693374633789] If you want to visit downtown just take the water taxi or "aqua bus" these little boats are fun, not very expensive and the quickest way to gt there.
+[-0.8916964530944824] There are a variety of options at a reasonable price.
+[-0.8792076110839844] There is free internet access which is a great bonus.
+[-0.8575992584228516] As it was misty and a bit rainy that day they offered us the use of an umbrella which made our walk around the area much more pleasant.
+
+**********
+
+[0.9675846099853516] The service was fantastic.
+Parent: However, the overall consensus was that the service was fantastic, and the staff were praised for being friendly, helpful, and attentive.
+
+----- Supporting -----
+
+[0.9675846099853516] The service is fantastic… in nine days I’ve only encountered nice, friendly, helpful, courteous, attentive and caring employees.
+[0.9348545074462891] The room service was great!
+[0.9257602691650391] The food and service were outstanding.
+[0.9092483520507812] The housekeeping service is excellent; the room was spotless every day.
+[0.9017314910888672] Great food and great service.
+
+----- Weakening -----
+
+[-0.9983596801757812] * The restaurant has a very limited and boring menu and the service is terrible.
+[-0.9978151321411133] Unfortunately they just don't have the level of service that would make them a great hotel.
+[-0.9930744171142578] My wife and I had a bad experience at GIH.
+[-0.9925928115844727] The staff just seemed disinterested, especially at the bar and the front desk.
+[-0.9920482635498047] The service in the restaurant was a bit snobbish and I didn't get the condiments I requested the second morning, however this is minor in my opinion.
+
+**********
+
+[0.9732189178466797] The staff were friendly, helpful, and attentive.
+Parent: However, the overall consensus was that the service was fantastic, and the staff were praised for being friendly, helpful, and attentive.
+
+----- Supporting -----
+
+[0.9732189178466797] The service is fantastic… in nine days I’ve only encountered nice, friendly, helpful, courteous, attentive and caring employees.
+[0.9548740386962891] The staff was consistently warm and friendly and above all very servicing.
+[0.9437770843505859] The staff are friendly, helpful and always pleased to see us.
+[0.9313650131225586] The people that work at the front desk are charming, very polite & helpful.
+[0.917546272277832] Our evening snack on the patio was delicious, relaxing and we had a lovely server...again most helpful and obliging...and the view!
+
+----- Weakening -----
+
+[-0.9975323677062988] The staff just seemed disinterested, especially at the bar and the front desk.
+[-0.9900655746459961] * The restaurant has a very limited and boring menu and the service is terrible.
+[-0.9869194030761719] The hotel is in a great location but needs some serious updating, sound proofing and desk staff needs an attitude check towards guests.
+[-0.9866161346435547] I rented a bike but no one offered to show me how to use the lock.
+[-0.9849028587341309] Unfortunately they just don't have the level of service that would make them a great hotel.

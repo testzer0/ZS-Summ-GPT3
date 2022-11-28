@@ -1,0 +1,42 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.18322467803955078
+
+**********
+
+[0.362823486328125] The food at the hotel was clean and the beds were comfortable.
+
+----- Supporting -----
+
+[0.362823486328125] The rooms are comfortable and the cookies are great but getting smaller.
+[0.01226806640625] The hotel reception had a lovely smell of freshly baked cookies which were given out at check in and were delicious.
+[0.010125160217285156] It was good and the staff was attentive.
+[0.01012420654296875] --Cookies at check in were good.
+[0.00872039794921875] The coffee bar in the lobby was handy, too!
+
+----- Weakening -----
+
+[-0.9786992073059082] We ordered food and received ice cold food one hour later.
+[-0.9400548934936523] All of this resulted in out take-out food getting cold plus I lost my scarf somewhere along the way.
+[-0.8282203674316406] Then there was this set-up for the syrup which was under a sterno can and full flame, the syrup was boiling.
+[-0.6190376281738281] Food was very expensive in restaurant and just okay.
+[-0.3421783447265625] The soup was brought to us pretty cold, but he seemed to vanish so we couldn't complain.
+
+**********
+
+[0.0036258697509765625] The hotel was located across the street from the airport and within walking distance to a Denny's, Jack in the Box, and a steak place.
+
+----- Supporting -----
+
+[0.0036258697509765625] The food was good although a bit pricey.
+[0.0033359527587890625] Food was good, but a bit overpriced.
+[0.0015497207641601562] Plenty of eating places nearby, and the bar in the hotel is fine also.
+[0.0015497207641601562] Plenty of eating places nearby, and the bar in the hotel is fine also.
+[0.00061798095703125] Choice of food was excelent.
+
+----- Weakening -----
+
+[-0.48464202880859375] There is a Jack in the Box and Denny's across the street as well as a Subway, Thai restaurant and a BBQ restaurant nearby.
+[-0.32051849365234375] If you don't want to eat breakfast at the hotel, there is a Denny's across the street and an IHOP 2mile down the street.
+[-0.23468017578125] Then there was this set-up for the syrup which was under a sterno can and full flame, the syrup was boiling.
+[-0.20833969116210938] VERY average burger.
+[-0.2080230712890625] The cookies are, of course, one of our favorite things about the Doubletree chain.

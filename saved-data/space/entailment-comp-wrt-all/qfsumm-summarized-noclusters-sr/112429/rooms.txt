@@ -1,0 +1,151 @@
+***** Aspect: rooms Model Type : zs *****
+Overall score: 0.9199831145150321
+
+**********
+
+[0.9084129333496094] Sentence:
+    
+    The hotel was clean.
+Parent: Reading some reviews after staying for a week in late September prompted me to add my review ; I think some of the unhappy reviewers need to do their research better before booking a hotel so as not to blame the hotel for their own lack of knowledge .
+
+----- Supporting -----
+
+[0.9084129333496094] Highly recommend this hotel rooms, they were nice and clean and very comfortable.
+[0.8805809020996094] Friendly welcoming staff, clean, one of the best hotels I've stayed at in a long time!
+[0.87432861328125] Hotel is extremely clean and quiet, and the staff is very helpful.
+[0.8515663146972656] Hotel was very clean, very quiet, great for a business trip.
+[0.8116378784179688] The hotel is recently remodeled and the rooms are very clean and modern as is the hotel lobby.
+
+----- Weakening -----
+
+[-0.9959688186645508] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[-0.991912841796875] The air conditioning vent had so much filthy residue trapped inside that it could not possibly pass a health audit.
+[-0.9912624359130859] Stripping the sheets, I found a fairly fresh urine stain that made me want to vomit.
+[-0.9901723861694336] It was dark, dirty, and noisy from the construction right outside my window.
+[-0.9898433685302734] Our toliet overflowed at 11pm resulting in a flood in our bathroom.
+
+**********
+
+[0.9239044189453125] Some reviewers are unhappy because they lack knowledge about booking hotels.
+Parent: Reading some reviews after staying for a week in late September prompted me to add my review ; I think some of the unhappy reviewers need to do their research better before booking a hotel so as not to blame the hotel for their own lack of knowledge .
+
+----- Supporting -----
+
+[0.9239044189453125] Reading some reviews after staying for a week in late September prompted me to add my review; I think some of the unhappy reviewers need to do their research better before booking a hotel so as not to blame the hotel for their own lack of knowledge.
+[0.14630508422851562] He was very rude and would not let me use the phone to call other hotels for vacancies.
+[0.0642852783203125] The back breaker was when I called the concierge asking what time the mariners game started that day as I had tickets, he told me 7pm.
+[0.0401611328125] With the exception of one clerk who wasn't a lot of help advising me on finding a cheap nearby breakfast (" I don't know--this IS Seattle...") the staff was unusually friendly and helpful, always welcoming me back when I came in.
+[0.0391998291015625] So now we are out a GPS and will NEVER stay at the Paramount again.
+
+----- Weakening -----
+
+[-0.36443328857421875] At the last minute, we booked a conference room for a couple days.
+[-0.3047904968261719] We were able to walk to the baseball stadium and get tickets on the day of the game.
+[-0.2784576416015625] What a wonderful surprise.
+[-0.2784233093261719] I loved everything about this hotel.
+[-0.266876220703125] First off we reserved 2 rooms with 2 queens.
+
+**********
+
+[0.9874281883239746] The hotel restaurant was not very good.
+Parent: The hotel restaurant was no great shakes but it is walking distance to some great eateries .
+
+----- Supporting -----
+
+[0.9874281883239746] hotel restaurant isn't very good, try others like palace kitchen, wild ginger, le pitchet.
+[0.895416259765625] The hotel restaurant was no great shakes but it is walking distance to some great eateries.
+[0.8918495178222656] The in-house restaurant is mediocre but not too pricey.
+[0.5848731994628906] The room-service was way overpriced for mediocre food though.
+[0.2908668518066406] I like breakfast buffets, there isnâ€™t one in this hotel.
+
+----- Weakening -----
+
+[-0.9950017929077148] We enjoyed dining at the Dragonfish restaurant for great food and reasonable pricing.
+[-0.994837760925293] The Happy Hour at the Dragonfish was exceptional - great prices, great food, great service.
+[-0.9944519996643066] The restaurant downstairs has amazing happy hours with great food and drink specials.
+[-0.9942760467529297] The Dragonfish has great food, and they have a LATE happy hour for the food and select drinks that can't be beat!
+[-0.9941339492797852] I especially like the Dragonfish Cafe restaurant - it is one of my favorite restaurants for Asian Fusion.
+
+**********
+
+[0.9698419570922852] The hotel restaurant is close to some great eateries.
+Parent: The hotel restaurant was no great shakes but it is walking distance to some great eateries .
+
+----- Supporting -----
+
+[0.9698419570922852] The hotel restaurant was no great shakes but it is walking distance to some great eateries.
+[0.7447433471679688] It is within easy walking distance of shopping, great restaurants and Pike's Place.
+[0.5289926528930664] Location is excellent; the hotel is within walking distance of a bunch of restaurants and the downtown shopping.
+[0.39963531494140625] This hotel is probably one of the best in terms of location for shopping and restaurant etc.
+[0.2914752960205078] The location of the hotel is great...close to the convention center, bus and light rail tunnel, Westlake Center as well as restaurants and shopping.
+
+----- Weakening -----
+
+[-0.6169395446777344] The location isn't even that good, a little to far north for me.
+[-0.5001583099365234] Based on my overall experience I could not recommend this hotel.
+[-0.45381927490234375] Ok, it is bad.
+[-0.3931159973144531] PLEASE don't give this awful chain your business!
+[-0.3643684387207031] Stripping the sheets, I found a fairly fresh urine stain that made me want to vomit.
+
+**********
+
+[0.9914817810058594] The restaurant was convenient for quick happy hour.
+Parent: The restaurant was always convenient for a quick happy hour and even allowed me to take a drink or a dessert upstairs ; the concierge went out to the store to deliver me a Sunday NY Times newspaper .
+
+----- Supporting -----
+
+[0.9914817810058594] The restaurant was always convenient for a quick happy hour and even allowed me to take a drink or a dessert upstairs; the concierge went out to the store to deliver me a Sunday NY Times newspaper.
+[0.30194091796875] The restaurant (Dragonfish) has amazing food, and a wonderful happy hour small plates menu, though it can get quite busy, the hostess just took our room number and called us when our reservation was ready.
+[0.2164306640625] Small portions to share, beyond cheap happy hour prices (we didn't pay over $5 for anything we ordered.)
+[0.2079315185546875] Location is great, rooms are pretty nice for the price and the happy hour deals at Dragonfish are quite nice.
+[0.159881591796875] The restaurant is excellent - with 7 hours of happy hour specials a day - who could argue?!
+
+----- Weakening -----
+
+[-0.9351119995117188] Only negative was the attached restaurant for breakfast.
+[-0.9339332580566406] It was rush hour, so the concierge had to stand out there quite a while to catch one that was empty.
+[-0.9110603332519531] We arrived and though there were few patrons, it took a while to be seated.
+[-0.8514041900634766] Sounded like a jackhammer.
+[-0.8089389801025391] We opted for a taxi to the Amtrak station to catch our train to Vancouver.
+
+**********
+
+[0.6692771911621094] The restaurant allowed me to take a drink or a dessert to my room.
+Parent: The restaurant was always convenient for a quick happy hour and even allowed me to take a drink or a dessert upstairs ; the concierge went out to the store to deliver me a Sunday NY Times newspaper .
+
+----- Supporting -----
+
+[0.6692771911621094] The restaurant was always convenient for a quick happy hour and even allowed me to take a drink or a dessert upstairs; the concierge went out to the store to deliver me a Sunday NY Times newspaper.
+[0.16461181640625] When was the the last time that someone arrived at your hotel door with water and chocolates to welcome you?
+[0.15875244140625] They accommodated us with an 3 hour early check in and a two hour late check out and when we asked for wine glasses, they happily obliged with souvenir ones to take home.
+[0.08135986328125] The only minor thing that I did not like was that they ice machines are on every other floor and located next to the stairwell, so it was a little startling to my girlfriend when someone walked in unbeknownst to her while the machine was running.
+[0.0635528564453125] Location is great, rooms are pretty nice for the price and the happy hour deals at Dragonfish are quite nice.
+
+----- Weakening -----
+
+[-0.9569835662841797] Also, the restaurant downstairs I assummed is affiliated with the hotel, but the bill gave you no option to bill it to your room.
+[-0.9200172424316406] Every time I called down to the Front Desk with questions it felt like I was putting them out.
+[-0.9035968780517578] The bed and luxurious bedding were extremely comforting during the first 48 hours after the accident when I was aching so badly and just needed to sleep.
+[-0.8980751037597656] They never did it.
+[-0.8769817352294922] Had there been much noise it would have been uncomfortable; I wasn't taking chances and jammed the earplugs in before bed.
+
+**********
+
+[0.9895353317260742] The concierge went to the store to get me a Sunday NY Times newspaper.
+Parent: The restaurant was always convenient for a quick happy hour and even allowed me to take a drink or a dessert upstairs ; the concierge went out to the store to deliver me a Sunday NY Times newspaper .
+
+----- Supporting -----
+
+[0.9895353317260742] The restaurant was always convenient for a quick happy hour and even allowed me to take a drink or a dessert upstairs; the concierge went out to the store to deliver me a Sunday NY Times newspaper.
+[0.0] :)
+[0.0] Not cool!
+[0.0] walk.
+[-0.0049533843994140625] We stayed here for a couple of nights and I would definitely recommend this hotel.
+
+----- Weakening -----
+
+[-0.9682297706604004] He ran two blocks down to get us a cab to the cruise terminal.
+[-0.9352030754089355] A waiter showed up and took coffee orders.
+[-0.852717399597168] When he saw I was getting no where with the front staff he came over and helped us out.
+[-0.8479156494140625] The baggage staff was very slow and had no sense of urgency to help us with our bags.
+[-0.8139991760253906] We gave him the order and he promised to return with milk.

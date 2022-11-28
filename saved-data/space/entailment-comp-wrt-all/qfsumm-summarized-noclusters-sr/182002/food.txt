@@ -1,0 +1,149 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.770603861127581
+
+**********
+
+[0.9553580284118652] The Primrose is a good hotel.
+Parent: The Primrose is a good hotel for people who plan on staying just a few dates in Toronto and plan on only sleeping there .
+
+----- Supporting -----
+
+[0.9553580284118652] My stay was for three days at the Primrose and I found it to be a fine hotel.
+[0.9453201293945312] The Primrose is a good hotel for people who plan on staying just a few dates in Toronto and plan on only sleeping there.
+[0.9012069702148438] We have never been to Canada before or to a huge city like Toronto, we found it very easy to get around, Primrose hotel is an excellent location as the subway is only 5min walk way .There is a lot of restaurants , bars, stores ,drugmarts and shops within walking distance also Dundas sq , Eaton centre &hockey Hall of Fame are close by.
+[0.8028316497802734] I can honestly say the Best Western Primrose Hotel, Toronto Downtown was one of the very best I have had the pleasure of staying in.
+[0.6401920318603516] We had a good time in the city and would use the Primrose Hotel again.
+
+----- Weakening -----
+
+[-0.9802780151367188] We are heartbroken and will never recommend this hotel to anyone.
+[-0.9743318557739258] I cannot begin to explain how awful this hotel is.
+[-0.972752571105957] I would not recommend this hotel to anyone!
+[-0.9626674652099609] I would never step into that hotel.
+[-0.9512119293212891] My experience at this hotel was the worst I've ever experience within the service industry.
+
+**********
+
+[0.9784059524536133] The Primrose is a good hotel for short-term stays in Toronto.
+Parent: The Primrose is a good hotel for people who plan on staying just a few dates in Toronto and plan on only sleeping there .
+
+----- Supporting -----
+
+[0.9784059524536133] The Primrose is a good hotel for people who plan on staying just a few dates in Toronto and plan on only sleeping there.
+[0.24483489990234375] Went to Toronto for a weekend â€œstaycationâ€� and got a cheap room online at the Primrose Hotel.
+[0.23305130004882812] Recently spent a night in Toronto to do some shopping and stayed overnight at the Primrose Hotel after finding a good price online.
+[0.14141845703125] So we went to Toronto for a girlâ€™s weekend out and booked 2 rooms at the Primrose Hotel online after finding a good deal on Hotwire.
+[0.1094818115234375] I would suggest this hotel if coming to visit the Church Street Village for nightlife and if you wish to visit the rest of the city a subway station is within easy walking distance.
+
+----- Weakening -----
+
+[-0.6301355361938477] I would never step into that hotel.
+[-0.6043596267700195] We are heartbroken and will never recommend this hotel to anyone.
+[-0.5882186889648438] East Lothian Scotland.
+[-0.5554141998291016] I would not recommend this hotel to anyone!
+[-0.4605255126953125] This restaurant has a loyal group of customers.
+
+**********
+
+[0.9366531372070312] The Primrose is a good hotel for people who only need a place to sleep.
+Parent: The Primrose is a good hotel for people who plan on staying just a few dates in Toronto and plan on only sleeping there .
+
+----- Supporting -----
+
+[0.9366531372070312] The Primrose is a good hotel for people who plan on staying just a few dates in Toronto and plan on only sleeping there.
+[0.098846435546875] We had a fantastic weekend out, and the hotel was perfect for what we needed.
+[0.0386962890625] I wouldn't recommend this hotel to anyone who is looking for a nice weekend getaway or a family looking for a vacation.
+[0.0291748046875] Other than the hotel is OK, but far from great.
+[0.024444580078125] I would describe it as typical Best Western standard 3 star hotel quality, nothing special and no frills.
+
+----- Weakening -----
+
+[-0.9895839691162109] I guess this hotel would be ok for people who are looking to party.
+[-0.9869668483734131] This restaurant has a loyal group of customers.
+[-0.9865107536315918] great for shopping, dining & partying.
+[-0.9775943756103516] There was also a business room where you could enjoy free internet and use of the fax and printer.
+[-0.9769725799560547] Pool was good â€“ it was outside so able to get some sun tanning in too.
+
+**********
+
+[0.5449542999267578] The cost of parking is too high.
+Parent: The hotel parking was a little expensive ( CAN $ 15 ) and the garage is compact so I would be careful if you drive a big car or SUV .
+
+----- Supporting -----
+
+[0.5449542999267578] I`m glad I didn`t have a car, as the parking charges were horrendous.
+[0.35414886474609375] But from the time they told us we had to go get public parking down the street, to mixed up room arrangement, through just rude service, and a tile falling from the bathroom wall, the price was not worth it.
+[0.33323097229003906] The hotel charges $23 for parking, which should be free considering the difficulty it is to get into an actual parking spot.
+[0.0382080078125] Afterwards the Manager acknowledged that the lifts are in need of urgent replacement but due to the cost this has yet to be authorised.
+[0.0248565673828125] The hotel parking was a little expensive (CAN $15) and the garage is compact so I would be careful if you drive a big car or SUV.
+
+----- Weakening -----
+
+[-0.9721012115478516] It is free.
+[-0.9702143669128418] It was close to the theatre we were going to and the price was affordable.
+[-0.937861442565918] The price was good and they had a room with a king bed open.
+[-0.9044380187988281] Very good value for your money, in a very good location.
+[-0.9035415649414062] In a nutshell it was affordable clean comfortable, the staff where friendly .. we felt safe here and the stay was very pleasant!
+
+**********
+
+[0.9316673278808594] The hotel garage is small.
+Parent: The hotel parking was a little expensive ( CAN $ 15 ) and the garage is compact so I would be careful if you drive a big car or SUV .
+
+----- Supporting -----
+
+[0.9316673278808594] The hotel parking was a little expensive (CAN $15) and the garage is compact so I would be careful if you drive a big car or SUV.
+[0.47515869140625] Also, the hotel parking has a height limit of 6 feet, so, since we were driving a GMC Yukon, it was not available to us anyway.
+[0.080322265625] The Primrose is a dated property offering only basic levels of service.
+[0.076904296875] The hotel was clean, modern and the only concern that I had was the limited parking in the hotel garage.
+[0.060577392578125] For me, I believe that if a hotel has a parking garage that it should have adequate space reserved for hotel patrons regardless if they are going to use it or not.
+
+----- Weakening -----
+
+[-0.9890384674072266] It was a very large room for a great price.
+[-0.9875564575195312] The hotel is older but the room was huge and had a view all the way to the lake.
+[-0.9838199615478516] The room was wickedly huge and we had tons of space.
+[-0.9829845428466797] Large room, with really nice and comfy duvets, and overall much nicer than I've seen from most hotels in Toronto in this price range.
+[-0.98187255859375] The room itself was very spacious and clean.
+
+**********
+
+[0.9738297462463379] The location was good.
+Parent: It was in a good location on Carlton / College Ave. .
+
+----- Supporting -----
+
+[0.9738297462463379] The location is great.
+[0.9737763404846191] The location was good, right where I needed to be, and the price was great for downtown and I only paid $89 with a corporate discount.
+[0.9650945663452148] The location is good and it was close to a great Thai food restaurant which I would recommend if you like Thai.
+[0.949254035949707] We were pleased with the choice, and the location was perfect.
+[0.9411802291870117] The location is good being a short walk into town and is close to the new Loblaws food emporium at Maple Leaf Gardens.
+
+----- Weakening -----
+
+[-0.9481391906738281] It is very worn and in a terrible area of town.
+[-0.7888870239257812] The hotel is not in a nice area of the city and you will notice a great deal of sketchy personalities roaming the streets around the area.
+[-0.775360107421875] I could not believe what they charged for a room at this hell-hole, and it is funny just around the corner from the building is a "back-packer's hostel which I thought would have been much better than this dump.
+[-0.7373008728027344] I've stayed in many places around the world but this was the worst.
+[-0.707305908203125] The underground parking is horribly laid out.
+
+**********
+
+[0.07335853576660156] The hotel was on Carlton / College Ave.
+Parent: It was in a good location on Carlton / College Ave. .
+
+----- Supporting -----
+
+[0.07335853576660156] It was in a good location on Carlton/College Ave.
+[0.0041332244873046875] Was a nice place.
+[0.0035352706909179688] Was a good stay.
+[0.002780914306640625] Very good value for your money, in a very good location.
+[0.0025110244750976562] We had an absolutely fabulous time.
+
+----- Weakening -----
+
+[-0.977452278137207] Bankok Garden on Elm st. is wonderful for Thai.
+[-0.9265213012695312] it is right on Younge down near Dundas.
+[-0.9210433959960938] I would suggest this hotel if coming to visit the Church Street Village for nightlife and if you wish to visit the rest of the city a subway station is within easy walking distance.
+[-0.8497447967529297] Location a few blocks from Yonge street where all the shops and restaurants are.
+[-0.8467979431152344] It was only a few blocks east of Yonge St.

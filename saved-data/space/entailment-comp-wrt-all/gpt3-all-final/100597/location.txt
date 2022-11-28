@@ -1,0 +1,86 @@
+***** Aspect: location Model Type : zs *****
+Overall score: 0.6380648612976074
+
+**********
+
+[0.9814996719360352] The location of the hotel is convenient.
+Parent: The location of the hotel was praised by reviewers for its convenience, especially for those with early morning flights.
+
+----- Supporting -----
+
+[0.9814996719360352] The hotel is conveniently located, just across the street from the airport entrance with a free shuttle that runs every 20 minutes.
+[0.7599411010742188] For me the location worked well since I was attending events at the hotel and didn't have to rent a car to get there.
+[0.7442026138305664] Hotel is very close the the airport and room was comfortable.
+[0.7300014495849609] This hotel is a nice size and is convenient to the airport and restaurants.
+[0.7136020660400391] Front desk service can be a bit hit or miss, but the location, shuttle service, and stress-free park & fly service wins out.
+
+----- Weakening -----
+
+[-0.9887542724609375] Our room was in the farthest section of the hotel, and tedious to get into to, and by the time we got settled it was too much trouble to go out to eat.
+[-0.9706211090087891] Cons - Hotel is spread out so pay attention to how to get to your room as you may get lost, Feather pillows (synthetic available on request), Pay parking ($16 self/day $20 valet/day), warm cookies on check in.
+[-0.9635219573974609] Parts of the hotel are laid-out such that it can be difficult to find your room.
+[-0.9438552856445312] It is laid out in wings that make carrying your bags a nightmare, up elevators and down again.
+[-0.8311252593994141] --The doubletree is not just a hotel, its like a little village of condo buildings too, which makes it very crowded and hard to get around the property.
+
+**********
+
+[0.6660518646240234] The location of the hotel is convenient for those with early morning flights.
+Parent: The location of the hotel was praised by reviewers for its convenience, especially for those with early morning flights.
+
+----- Supporting -----
+
+[0.6660518646240234] We stayed at this hotel as it was close to the airport for our early morning flight.
+[0.4248771667480469] Great for those early morning flights, and no worries about traffic jams as Seatac Airport is right across the street.
+[0.2702159881591797] We live about two hours and a ferry ride from the airport and always stay here when we have an early morning flight.
+[0.18896484375] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[0.095458984375] It is an easy drive into downtown Seattle from here and worked great for my late-arriving flight before meetings in Seattle the following morning.
+
+----- Weakening -----
+
+[-0.841461181640625] I am a loyal Hilton customer and am glad to get the points but this hotel seems better-suited to guests staying for several days, not for someone who just wants a place to crash before an early flight.
+[-0.7760028839111328] late at night.
+[-0.5753707885742188] Whenever my husband moved, I felt like we were on a boat in rough water.
+[-0.5483779907226562] I could not recommend this hotel.
+[-0.5010757446289062] Keep your children away from these set ups, they are going to injure someone terribly!
+
+**********
+
+[0.9019155502319336] There are better value hotels a few miles away.
+Parent: However, some reviewers felt that there are better value hotels a few miles away if you have your own transportation.
+
+----- Supporting -----
+
+[0.9019155502319336] If I had transportation and didn't have events at the hotel, I would look a few miles away for a better buy for the money.
+[0.5761489868164062] It's an ok hotel by any other standards but nice compared to what's close by.
+[0.429229736328125] I believe there are better options in walking distance from the hotel.
+[0.09710693359375] We have stayed at Hotels that are many times more expensive yet the staff are nowhere near as impressive as the Doubletree.
+[0.06591033935546875] Have stayed at cheaper hotels with park n fly and they are always scary!
+
+----- Weakening -----
+
+[-0.15679931640625] Lots of conveniences close by.
+[-0.1548919677734375] Diamond members get a small gift...it was three pieces of fruit on a stick and two pieces of cheese...can you say cheesy!!
+[-0.1075897216796875] The cookies are, of course, one of our favorite things about the Doubletree chain.
+[-0.09701156616210938] The cookies are a nice touch too.
+[-0.095733642578125] You absolutely cannot beat a Doubletree chocolate chip cookie as a welcome treat.
+
+**********
+
+[0.0027923583984375] The hotels are too far away.
+Parent: However, some reviewers felt that there are better value hotels a few miles away if you have your own transportation.
+
+----- Supporting -----
+
+[0.0027923583984375] It was a long ackward walk to our room.
+[0.0] All good!
+[0.0] Ripoff.
+[0.0] !
+[0.0] .
+
+----- Weakening -----
+
+[-0.9982235431671143] The hotel is pretty big but the location next to the airport is great.
+[-0.9981861114501953] The good news - the hotel is very close to the airport with a 24hr shuttle to the airport.
+[-0.9981708526611328] The hotel is very close to the airport and sometimes we walk.
+[-0.9981584548950195] The hotel is conveniently located, just across the street from the airport entrance with a free shuttle that runs every 20 minutes.
+[-0.9981570243835449] Hotel is very close the the airport and room was comfortable.

@@ -1,0 +1,44 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.5275247097015381
+
+**********
+
+[0.9896502494812012] The hotel was clean.
+Parent: The reviewers said that the hotel was clean overall, with some reports of cigarette butts and mildew around the property.
+
+----- Supporting -----
+
+[0.9896502494812012] The hotel was clean, beds were fine, hotel is located across the street from the air port, was within walking distance to a Denny's, Jack in the Box, and a steak place.
+[0.9872698783874512] The Hotel was clean, great staff, was greeted with hot fresh cookies at the check-in counter.
+[0.9832820892333984] The hotel was nice; good clean rooms.
+[0.9815225601196289] This hotel is clean, neat and offers good value for the money.
+[0.9575014114379883] My room and bathroom were both very clean and the service at the hotel was friendly, The check in process could be slow and it would be helpful if the airline crews were not given first priority to jump in front of everyone waiting.
+
+----- Weakening -----
+
+[-0.996180534362793] When we found our room we discovered that the bathroom hadn't been cleaned and there were dirty towels lying around.
+[-0.9951038360595703] The bathroom was dirty and stained.
+[-0.9944906234741211] This property is a mess.
+[-0.9943456649780273] Upon further inspection of the room, the older bathroom wood doors were dirty from years of use-these "Hilton Honors" rooms really need refurbishing.
+[-0.9941530227661133] It was so liquified that it spilled all over my hand and burned me terribly.
+
+**********
+
+[0.065399169921875] The hotel was dirty and had cigarette butts and mildew around the property.
+Parent: The reviewers said that the hotel was clean overall, with some reports of cigarette butts and mildew around the property.
+
+----- Supporting -----
+
+[0.065399169921875] Anyway, I requested a non-smoking room but the floor smelled like the stench of smoke.
+[0.062774658203125] The crappy wings are old and the rooms smell musty.
+[0.0583648681640625] The room was like staying in a basement, an old and mildew smell.
+[0.0384063720703125] We would not stay here again because of the noise and mildew.
+[0.009753704071044922] This property is a mess.
+
+----- Weakening -----
+
+[-0.9982116222381592] The Hotel was clean, great staff, was greeted with hot fresh cookies at the check-in counter.
+[-0.997765064239502] The hotel was nice; good clean rooms.
+[-0.9977638721466064] The rooms were very clean and the staff was very nice.
+[-0.9977526664733887] The hotel was clean, beds were fine, hotel is located across the street from the air port, was within walking distance to a Denny's, Jack in the Box, and a steak place.
+[-0.9972660541534424] The room was very clean, cozy and very quiet even though it was so close to the airport.

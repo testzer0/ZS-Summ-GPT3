@@ -1,0 +1,222 @@
+***** Aspect: building Model Type : simcse *****
+Overall score: 0.7170761823654175
+
+**********
+
+[0.8254913091659546] Some reviews said that the elevator dinged all night long, keeping up the entire family.
+
+----- Supporting -----
+
+[0.8254913091659546] The elevator dinged all night long keeping up the entire family.
+[0.4833117127418518] The elevator can take 20-30 minutes to get to your floor and is often filled with people and luggage.
+[0.47075986862182617] VALET: I must say the only friendly people at this hotel were the actually valet driversâ€¦those in the Valet booth were extremely rude and will forget to give your keys to a driver to get your car (happened to several guests) RENOVATIONS: Drilling started at 7am right outside our window.
+[0.42709219455718994] We finally got to the lobby and due to the many marathon guests, it was busy.
+[0.411673367023468] Ended up riding up and back down to get to the lobby.
+
+----- Weakening -----
+
+[-0.005730567499995232] It is by no means a South Beach property (thankfully).
+[0.11506041139364243] The downtown is a ghost town except for a couple of hotels and Bayside.
+[0.12638667225837708] A design genius put this hotel together clearly.
+[0.12994424998760223] The renovations that I have been reading about appear to be just about complete.
+[0.1449243724346161] They are doing the best they can with the old building.
+
+**********
+
+[0.9261819124221802] Others called the front desk and they sent someone up to check.
+
+----- Supporting -----
+
+[0.9261819124221802] We called the front desk and they sent someone up to check.
+[0.5458152294158936] Rooms were clean and the staff was nice except for the front desk clerk who double-charged me and my friend's credit cards.
+[0.5394273996353149] When we finally got to the lobby (because it's a little bit tricky) it was full of people checking in, but everything ran just perfect thanks to the professionalism and friendly attitude of the front desk agents.
+[0.4782470464706421] Ended up riding up and back down to get to the lobby.
+[0.47232478857040405] We finally got to the lobby and due to the many marathon guests, it was busy.
+
+----- Weakening -----
+
+[-0.018266942352056503] It is by no means a South Beach property (thankfully).
+[0.029212290421128273] The downtown is a ghost town except for a couple of hotels and Bayside.
+[0.04136771708726883] Only negative, which is not fault of Hilton was road construction on Biscayne blvd.
+[0.08149909973144531] Also lots of construction on the streets make sure you plan to leave a bit early especially on the weekend.
+[0.10971267521381378] The renovations that I have been reading about appear to be just about complete.
+
+**********
+
+[0.6108361482620239] The building is undergoing renovations, and some guests have found the noise level to be disruptive.
+
+----- Supporting -----
+
+[0.6108361482620239] The ongoing construction and the strange location of the lobby doesn't give you the feeling that you're in a 4star hotel.
+[0.5134519338607788] Hotel could do with a refurbishment.
+[0.5116132497787476] Construction was happening on the exterior of the hotel.
+[0.4793206751346588] And a lot of construction in the "motor lobby" on the ground floor.
+[0.44149982929229736] They are doing the best they can with the old building.
+
+----- Weakening -----
+
+[0.07535868883132935] We picked up a car through Enterprise at the airport & was allowed to drop it off at the hotel the next day, very convenient, since the cruise line was supplying a shuttle for us to the pier.
+[0.15388163924217224] Last night i took it back from Bayside and the car was filled with drunk teens that were looking for a fight.
+[0.15966659784317017] When we finally got to the lobby (because it's a little bit tricky) it was full of people checking in, but everything ran just perfect thanks to the professionalism and friendly attitude of the front desk agents.
+[0.15995728969573975] It is by no means a South Beach property (thankfully).
+[0.17742615938186646] Spent 6 days here for a conference and workshop.
+
+**********
+
+[0.6610046029090881] Additionally, some guests have found the staff to be rude and unaccommodating.
+
+----- Supporting -----
+
+[0.6610046029090881] VALET: I must say the only friendly people at this hotel were the actually valet driversâ€¦those in the Valet booth were extremely rude and will forget to give your keys to a driver to get your car (happened to several guests) RENOVATIONS: Drilling started at 7am right outside our window.
+[0.43977317214012146] Rooms were clean and the staff was nice except for the front desk clerk who double-charged me and my friend's credit cards.
+[0.37129443883895874] The ongoing construction and the strange location of the lobby doesn't give you the feeling that you're in a 4star hotel.
+[0.3351203203201294] We called the front desk and they sent someone up to check.
+[0.3313836455345154] The elevator can take 20-30 minutes to get to your floor and is often filled with people and luggage.
+
+----- Weakening -----
+
+[0.04896681755781174] The renovations that I have been reading about appear to be just about complete.
+[0.07212107628583908] And a lot of construction in the "motor lobby" on the ground floor.
+[0.08880958706140518] The downtown is a ghost town except for a couple of hotels and Bayside.
+[0.09890585392713547] The renovations were the least of our worries.
+[0.10319718718528748] They are doing the best they can with the old building.
+
+**********
+
+[0.5138712525367737] However, others have found the design of the building to be pleasing.
+
+----- Supporting -----
+
+[0.5138712525367737] They are doing the best they can with the old building.
+[0.41539663076400757] You drive up to what seems to be the 3-4 floor and there is a nice entrance.
+[0.410021036863327] Ä±t has an interesting entrance you take a lift to 3 floor above to enter the lobby from the valet service but still not tiring.
+[0.38581541180610657] A design genius put this hotel together clearly.
+[0.38062727451324463] Beautiful lobby!
+
+----- Weakening -----
+
+[-0.02974783629179001] Last night i took it back from Bayside and the car was filled with drunk teens that were looking for a fight.
+[0.009507203474640846] The elevator dinged all night long keeping up the entire family.
+[0.02324543707072735] VALET: I must say the only friendly people at this hotel were the actually valet driversâ€¦those in the Valet booth were extremely rude and will forget to give your keys to a driver to get your car (happened to several guests) RENOVATIONS: Drilling started at 7am right outside our window.
+[0.060819484293460846] We picked up a car through Enterprise at the airport & was allowed to drop it off at the hotel the next day, very convenient, since the cruise line was supplying a shuttle for us to the pier.
+[0.06119828671216965] Spent 6 days here for a conference and workshop.
+
+**********
+
+[0.732052206993103] The building is in need of a refurbishment and is old.
+
+----- Supporting -----
+
+[0.732052206993103] They are doing the best they can with the old building.
+[0.5829041004180908] Hotel could do with a refurbishment.
+[0.49991849064826965] And a lot of construction in the "motor lobby" on the ground floor.
+[0.48823773860931396] The ongoing construction and the strange location of the lobby doesn't give you the feeling that you're in a 4star hotel.
+[0.46666982769966125] Construction was happening on the exterior of the hotel.
+
+----- Weakening -----
+
+[-0.017774751409888268] We picked up a car through Enterprise at the airport & was allowed to drop it off at the hotel the next day, very convenient, since the cruise line was supplying a shuttle for us to the pier.
+[0.0051667345687747] Spent 6 days here for a conference and workshop.
+[0.03376191109418869] Last night i took it back from Bayside and the car was filled with drunk teens that were looking for a fight.
+[0.05562876537442207] VALET: I must say the only friendly people at this hotel were the actually valet driversâ€¦those in the Valet booth were extremely rude and will forget to give your keys to a driver to get your car (happened to several guests) RENOVATIONS: Drilling started at 7am right outside our window.
+[0.07023078948259354] When we finally got to the lobby (because it's a little bit tricky) it was full of people checking in, but everything ran just perfect thanks to the professionalism and friendly attitude of the front desk agents.
+
+**********
+
+[0.7267451286315918] There is construction going on which can make it difficult to get around.
+
+----- Supporting -----
+
+[0.7267451286315918] Also lots of construction on the streets make sure you plan to leave a bit early especially on the weekend.
+[0.4501086473464966] Construction was happening on the exterior of the hotel.
+[0.4137657880783081] Only negative, which is not fault of Hilton was road construction on Biscayne blvd.
+[0.4088008403778076] The ongoing construction and the strange location of the lobby doesn't give you the feeling that you're in a 4star hotel.
+[0.3607114851474762] And a lot of construction in the "motor lobby" on the ground floor.
+
+----- Weakening -----
+
+[-0.07725445926189423] Rooms were clean and the staff was nice except for the front desk clerk who double-charged me and my friend's credit cards.
+[-0.04252003878355026] We called the front desk and they sent someone up to check.
+[-0.02493607997894287] When we finally got to the lobby (because it's a little bit tricky) it was full of people checking in, but everything ran just perfect thanks to the professionalism and friendly attitude of the front desk agents.
+[-0.010075153782963753] Beautiful lobby!
+[0.0040326849557459354] We picked up a car through Enterprise at the airport & was allowed to drop it off at the hotel the next day, very convenient, since the cruise line was supplying a shuttle for us to the pier.
+
+**********
+
+[0.8109952211380005] The staff are generally nice, except for the front desk clerk who double-charged guests.
+
+----- Supporting -----
+
+[0.8109952211380005] Rooms were clean and the staff was nice except for the front desk clerk who double-charged me and my friend's credit cards.
+[0.5520087480545044] When we finally got to the lobby (because it's a little bit tricky) it was full of people checking in, but everything ran just perfect thanks to the professionalism and friendly attitude of the front desk agents.
+[0.5437052249908447] We called the front desk and they sent someone up to check.
+[0.5081557631492615] VALET: I must say the only friendly people at this hotel were the actually valet driversâ€¦those in the Valet booth were extremely rude and will forget to give your keys to a driver to get your car (happened to several guests) RENOVATIONS: Drilling started at 7am right outside our window.
+[0.3758352994918823] We finally got to the lobby and due to the many marathon guests, it was busy.
+
+----- Weakening -----
+
+[0.051166072487831116] The renovations that I have been reading about appear to be just about complete.
+[0.07174674421548843] The downtown is a ghost town except for a couple of hotels and Bayside.
+[0.08098200708627701] Also lots of construction on the streets make sure you plan to leave a bit early especially on the weekend.
+[0.09091393649578094] Spent 6 days here for a conference and workshop.
+[0.09989430755376816] Construction was happening on the exterior of the hotel.
+
+**********
+
+[0.751147985458374] The hotel has a convenient location and a beautiful lobby, but the signage to direct guests to the lobby is lacking.
+
+----- Supporting -----
+
+[0.751147985458374] But the lobby is on the 7th floor, and the signage to direct guests was lacking.
+[0.7048752307891846] The ongoing construction and the strange location of the lobby doesn't give you the feeling that you're in a 4star hotel.
+[0.5750819444656372] The main lobby was not actually on the second floor - confusing.
+[0.5651782751083374] Hotel could do with a refurbishment.
+[0.5274261236190796] Beautiful lobby!
+
+----- Weakening -----
+
+[-0.015368951484560966] Last night i took it back from Bayside and the car was filled with drunk teens that were looking for a fight.
+[0.0689898282289505] Spent 6 days here for a conference and workshop.
+[0.10576768219470978] The elevator dinged all night long keeping up the entire family.
+[0.17480510473251343] Also lots of construction on the streets make sure you plan to leave a bit early especially on the weekend.
+[0.17811769247055054] The renovations that I have been reading about appear to be just about complete.
+
+**********
+
+[0.6585273146629333] The hotel is busy due to the many marathon guests.
+
+----- Supporting -----
+
+[0.6585273146629333] We finally got to the lobby and due to the many marathon guests, it was busy.
+[0.4983065128326416] Hotel could do with a refurbishment.
+[0.42866671085357666] Construction was happening on the exterior of the hotel.
+[0.3837466239929199] When we finally got to the lobby (because it's a little bit tricky) it was full of people checking in, but everything ran just perfect thanks to the professionalism and friendly attitude of the front desk agents.
+[0.36569151282310486] The elevator can take 20-30 minutes to get to your floor and is often filled with people and luggage.
+
+----- Weakening -----
+
+[0.08898335695266724] Last night i took it back from Bayside and the car was filled with drunk teens that were looking for a fight.
+[0.10088709741830826] The renovations were the least of our worries.
+[0.12841764092445374] It is by no means a South Beach property (thankfully).
+[0.16262605786323547] They are doing the best they can with the old building.
+[0.18054260313510895] Only negative, which is not fault of Hilton was road construction on Biscayne blvd.
+
+**********
+
+[0.6709849238395691] The reviews said that there was construction happening on the exterior of the hotel and on the streets, which could make it difficult to get around.
+
+----- Supporting -----
+
+[0.6709849238395691] Construction was happening on the exterior of the hotel.
+[0.5857785940170288] The ongoing construction and the strange location of the lobby doesn't give you the feeling that you're in a 4star hotel.
+[0.556665301322937] Only negative, which is not fault of Hilton was road construction on Biscayne blvd.
+[0.5328172445297241] Hotel could do with a refurbishment.
+[0.5269959568977356] Also lots of construction on the streets make sure you plan to leave a bit early especially on the weekend.
+
+----- Weakening -----
+
+[0.17059645056724548] Beautiful lobby!
+[0.18717947602272034] It is by no means a South Beach property (thankfully).
+[0.21579545736312866] Spent 6 days here for a conference and workshop.
+[0.23069193959236145] We picked up a car through Enterprise at the airport & was allowed to drop it off at the hotel the next day, very convenient, since the cruise line was supplying a shuttle for us to the pier.
+[0.23434215784072876] Rooms were clean and the staff was nice except for the front desk clerk who double-charged me and my friend's credit cards.

@@ -1,0 +1,170 @@
+***** Aspect: service Model Type : zs *****
+Overall score: 0.7006093263626099
+
+**********
+
+[0.3541259765625] The service at the Marriott was friendly.
+Parent: The service at the Marriott was consistently praised by reviewers for being friendly, helpful, and efficient.
+
+----- Supporting -----
+
+[0.3541259765625] Hotel staff seemed to be competent and very pleasant, although my interactions with them were minimal.
+[0.34809112548828125] The staff at the hotel were polite and helpful at all times.
+[0.2761573791503906] But hotel staff did their best to help.
+[0.24542236328125] The service at the Mariott was wonderful for the duration of our stay.
+[0.2436542510986328] For a Downtown hotel, I would give this a 5 star for friendly and efficient service.
+
+----- Weakening -----
+
+[-0.9841728210449219] The gentleman was excessively rude, simply entered the room, removed the dead bug and looked VERY quickly over the rest of the room before saying "Looks like we got em all".
+[-0.9518985748291016] I did however find the staff to be very indifferent, almost cold and the rooms to be on the smaller side.
+[-0.89483642578125] Not very convenient to go down to lobby all the time...Staff was not at all helpful in this matter... A sidenote: the room when we arrived was not vacumed and was not clean.
+[-0.8847675323486328] Front desk staff were not the friendliest...common to big cities perhaps?
+[-0.8838005065917969] For business use the hotel gets a C, it was a poor service compared to the others.
+
+**********
+
+[0.6394119262695312] The service at the Marriott was helpful.
+Parent: The service at the Marriott was consistently praised by reviewers for being friendly, helpful, and efficient.
+
+----- Supporting -----
+
+[0.6394119262695312] The Marriott Eaton Centre provided service at its best.
+[0.3952178955078125] But hotel staff did their best to help.
+[0.30089759826660156] The staff at the hotel were polite and helpful at all times.
+[0.27776145935058594] I stayed in this hotel as part of a large family group who travelled from Ireland to Toronto for a wedding, the management and staff were wonderful, this was not only about the facilities of the hotel but they were very helpful in guiding us where to go in Toronto and how to get there.
+[0.27776145935058594] I stayed in this hotel as part of a large family group who travelled from Ireland to Toronto for a wedding, the management and staff were wonderful, this was not only about the facilities of the hotel but they were very helpful in guiding us where to go in Toronto and how to get there.
+
+----- Weakening -----
+
+[-0.9561748504638672] I did however find the staff to be very indifferent, almost cold and the rooms to be on the smaller side.
+[-0.9272079467773438] For business use the hotel gets a C, it was a poor service compared to the others.
+[-0.9234428405761719] Not very convenient to go down to lobby all the time...Staff was not at all helpful in this matter... A sidenote: the room when we arrived was not vacumed and was not clean.
+[-0.9053430557250977] When we arrived at the hotel, there was nobody available to get our bags.
+[-0.9043388366699219] The gentleman was excessively rude, simply entered the room, removed the dead bug and looked VERY quickly over the rest of the room before saying "Looks like we got em all".
+
+**********
+
+[0.5327911376953125] The service at the Marriott was efficient.
+Parent: The service at the Marriott was consistently praised by reviewers for being friendly, helpful, and efficient.
+
+----- Supporting -----
+
+[0.5327911376953125] The Marriott Eaton Centre provided service at its best.
+[0.2866544723510742] But hotel staff did their best to help.
+[0.2607421875] The service at the Mariott was wonderful for the duration of our stay.
+[0.2150888442993164] The staff at the hotel were polite and helpful at all times.
+[0.19236373901367188] For a Downtown hotel, I would give this a 5 star for friendly and efficient service.
+
+----- Weakening -----
+
+[-0.9740104675292969] For business use the hotel gets a C, it was a poor service compared to the others.
+[-0.9681739807128906] Not very convenient to go down to lobby all the time...Staff was not at all helpful in this matter... A sidenote: the room when we arrived was not vacumed and was not clean.
+[-0.9436054229736328] I did however find the staff to be very indifferent, almost cold and the rooms to be on the smaller side.
+[-0.9339504241943359] The gentleman was excessively rude, simply entered the room, removed the dead bug and looked VERY quickly over the rest of the room before saying "Looks like we got em all".
+[-0.880767822265625] Stay here if you can put up with bugs and indifferent staff.
+
+**********
+
+[0.5967025756835938] The phone service in the rooms was poor.
+Parent: There were some complaints about the phone and internet service in the rooms, but the staff were responsive and apologetic.
+
+----- Supporting -----
+
+[0.5967025756835938] The issue I had is that the phone system in some of the rooms was not functioning when I checked in.
+[0.3561973571777344] For business use the hotel gets a C, it was a poor service compared to the others.
+[0.19372940063476562] I tried to hook up my computer to the internet in the room afterwards, but I found that this was not working either because of the phone line issue.
+[0.013671875] Called down twice, still no cots, finally my husband had to go down to complain at desk, finally 20 minutes later got both of the cots.
+[0.002475738525390625] She still didn't get it- and said-"well I'll call to see if it is open".
+
+----- Weakening -----
+
+[-0.9448275566101074] The service has always been excellent.
+[-0.9343042373657227] Great service is offered without the expectation of a gratuity.
+[-0.9313249588012695] Amazing service between the front desk, bell hops, and valet workers.
+[-0.8587131500244141] I thought that the service response was great - I have never had someone come to my room to hand me another key.
+[-0.7883472442626953] The service at the Mariott was wonderful for the duration of our stay.
+
+**********
+
+[0.89599609375] The internet service in the rooms was not good.
+Parent: There were some complaints about the phone and internet service in the rooms, but the staff were responsive and apologetic.
+
+----- Supporting -----
+
+[0.89599609375] Great service, friendly staff, good food - pity the room wiater couldn't go further than the threshold !!!!
+[0.5243072509765625] They charged us 17 Dollars for the internet a day.. which would have been fine had there been a fast wifi connection or multiple ethernet connections in the room.
+[0.352203369140625] No free internet in the rooms just in the Concierge Lounge.
+[0.3239021301269531] I tried to hook up my computer to the internet in the room afterwards, but I found that this was not working either because of the phone line issue.
+[0.20302581787109375] No free internet in your room, but free in the lobby.
+
+----- Weakening -----
+
+[-0.9087400436401367] The service has always been excellent.
+[-0.8879718780517578] Great service is offered without the expectation of a gratuity.
+[-0.6856460571289062] Amazing service between the front desk, bell hops, and valet workers.
+[-0.6625995635986328] The service at the Mariott was wonderful for the duration of our stay.
+[-0.5800056457519531] The Marriott Eaton Centre provided service at its best.
+
+**********
+
+[0.9658136367797852] The staff were responsive.
+Parent: There were some complaints about the phone and internet service in the rooms, but the staff were responsive and apologetic.
+
+----- Supporting -----
+
+[0.9658136367797852] The staff were courteous and helpful, and the sports bar on the first floor was a great place to hang out.
+[0.9643783569335938] concierge was fairly helpful, front desk staff was prompt and helpful.
+[0.9454736709594727] From the concierge and front desk staff, everyone was very nice and attentive during our stay.
+[0.9262180328369141] The staff at the hotel were polite and helpful at all times.
+[0.9172124862670898] Staff was friendly and helpful, and the beds were comfortable.
+
+----- Weakening -----
+
+[-0.9842185974121094] I did however find the staff to be very indifferent, almost cold and the rooms to be on the smaller side.
+[-0.9806785583496094] Not very convenient to go down to lobby all the time...Staff was not at all helpful in this matter... A sidenote: the room when we arrived was not vacumed and was not clean.
+[-0.97283935546875] Front desk staff were not the friendliest...common to big cities perhaps?
+[-0.9690399169921875] The gentleman was excessively rude, simply entered the room, removed the dead bug and looked VERY quickly over the rest of the room before saying "Looks like we got em all".
+[-0.956787109375] Stay here if you can put up with bugs and indifferent staff.
+
+**********
+
+[0.8688201904296875] The staff was apologetic.
+Parent: There were some complaints about the phone and internet service in the rooms, but the staff were responsive and apologetic.
+
+----- Supporting -----
+
+[0.8688201904296875] This time the clerk did manage a sorry, but it was forced.
+[0.8350677490234375] The customer service person was quite apologetic and told me that she would see what she could do.
+[-0.00934600830078125] The issue I had is that the phone system in some of the rooms was not functioning when I checked in.
+[-0.011302947998046875] I called the customer service person (with my cell phone!)
+[-0.01686859130859375] They were slow to arrive at the lobby on Saturday afternoon, evening and the next morning.
+
+----- Weakening -----
+
+[-0.9944496154785156] Everyone on staff was friendly and helpful.
+[-0.9937257766723633] All the hotel staff were friendly and courteous.
+[-0.9916276931762695] Al the staff were very nice and helpful.
+[-0.9915313720703125] The staff were wonderful!
+[-0.9913210868835449] The staff was absolutely wonderful both at the front desk and especially in the breakfast area.
+
+**********
+
+[0.7512130737304688] The breakfast area staff were praised.
+Parent: There was also praise for the breakfast area staff.
+
+----- Supporting -----
+
+[0.7512130737304688] The staff was absolutely wonderful both at the front desk and especially in the breakfast area.
+[0.2479705810546875] The bell staff (usually women) would handle this for us cheerfully.
+[0.2164306640625] Amazing service between the front desk, bell hops, and valet workers.
+[0.1660003662109375] And David and Paul the Concierges were very knowledgable and nothing was too much trouble..
+[0.08116912841796875] Great service, friendly staff, good food - pity the room wiater couldn't go further than the threshold !!!!
+
+----- Weakening -----
+
+[-0.9095802307128906] I did however find the staff to be very indifferent, almost cold and the rooms to be on the smaller side.
+[-0.8852996826171875] This time the clerk did manage a sorry, but it was forced.
+[-0.7864456176757812] Well, after 45 minutes, no one showed up so I called the desk again.
+[-0.7559242248535156] The gentleman was excessively rude, simply entered the room, removed the dead bug and looked VERY quickly over the rest of the room before saying "Looks like we got em all".
+[-0.6877288818359375] They said "he" was called and must be busy.

@@ -1,0 +1,23 @@
+***** Aspect: location Model Type : zs *****
+Overall score: 0.9684963226318359
+
+**********
+
+[0.9684963226318359] The location is good.
+Parent: the location is good.
+
+----- Supporting -----
+
+[0.9684963226318359] The location couldn't be better.
+[0.9664468765258789] I must admit, the location is perfect!
+[0.9648342132568359] Location is good and the hotel is quiet.
+[0.9647989273071289] No disappointments, location is absolutely perfect.
+[0.9591836929321289] The location is perfect, near everything one might need on a business trip and for doing some shopping.
+
+----- Weakening -----
+
+[-0.5439910888671875] The hotel is connected to the Eaton center = dangerous!!!
+[-0.51678466796875] My only negative comment about the room was the view - it looked straight into an adjacent office building.
+[-0.3718223571777344] During our recent trip we stayed in 5 hotels in Canada and this was by far the worst.
+[-0.36067962646484375] It is probably the most depressing hotel I have ever stayed in.
+[-0.2733306884765625] Poor QC here.

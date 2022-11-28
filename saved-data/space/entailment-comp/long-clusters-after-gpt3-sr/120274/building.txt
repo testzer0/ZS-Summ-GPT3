@@ -1,0 +1,149 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.6837141173226493
+
+**********
+
+[0.4350776672363281] Overall, the hotel was comfortable.
+Parent: Overall, reviewers thought the hotel was comfortable, although some furniture was a bit old.
+
+----- Supporting -----
+
+[0.4350776672363281] I would certainly reccomend this property to anyone who desires a comfortable "sleeper" at a great price
+[0.11701202392578125] Ok so the furniture was a bit tired but stuff worked, plenty of hot water and there was a microwave and fridge in the room.
+[0.0401763916015625] The person at the front desk met all are requests... a quiet room away from the traffic.
+[0.008501052856445312] We have been to this complex a number of times.
+[0.00263214111328125] When we arrived, although the front desk staff could not find our reservation, I showed them my confirmation sheet and they fixed everything.
+
+----- Weakening -----
+
+[-0.65753173828125] The property though was not nice at all.
+[-0.12200164794921875] A must is a car because travelling around on foot is hard the roads are really hard to cross you take your life into your own hands and wait up to 15 mins for the lights to change and watch the traffic from the right because while your crossing they are too.
+[-0.1129913330078125] A car will definitely be handy.
+[-0.1072845458984375] We would have struggled without the hire car so I would advise you to get one!
+[-0.067626953125] The furniture, i.e tv unit and clothes drawers seemed to be the only thing that seemed a little tired, but not so much that you would notice.
+
+**********
+
+[0.4844355583190918] Some furniture in the hotel was old.
+Parent: Overall, reviewers thought the hotel was comfortable, although some furniture was a bit old.
+
+----- Supporting -----
+
+[0.4844355583190918] Ok so the furniture was a bit tired but stuff worked, plenty of hot water and there was a microwave and fridge in the room.
+[0.10523414611816406] The furniture, i.e tv unit and clothes drawers seemed to be the only thing that seemed a little tired, but not so much that you would notice.
+[0.004924297332763672] The property though was not nice at all.
+[0.001373291015625] The person at the front desk met all are requests... a quiet room away from the traffic.
+[0.0011920928955078125] We have been to this complex a number of times.
+
+----- Weakening -----
+
+[-0.16595458984375] A must is a car because travelling around on foot is hard the roads are really hard to cross you take your life into your own hands and wait up to 15 mins for the lights to change and watch the traffic from the right because while your crossing they are too.
+[-0.141204833984375] A car will definitely be handy.
+[-0.134613037109375] We would have struggled without the hire car so I would advise you to get one!
+[-0.04843902587890625] Small gift/corner shop, internet access.
+[-0.0412750244140625] 30$ cab ride to florida mall.
+
+**********
+
+[0.7013607025146484] It was a good value.
+Parent: They also thought it was a good value.
+
+----- Supporting -----
+
+[0.7013607025146484] I would certainly reccomend this property to anyone who desires a comfortable "sleeper" at a great price
+[0.07686424255371094] VERY cheap mall , we walked in and walked out right away.
+[0.023548126220703125] We would have struggled without the hire car so I would advise you to get one!
+[0.019222259521484375] A car will definitely be handy.
+[0.015239715576171875] 30$ cab ride to florida mall.
+
+----- Weakening -----
+
+[-0.611358642578125] Hotel shop is very expensive so be warned.
+[-0.17456817626953125] The property though was not nice at all.
+[-0.00042724609375] We never used the hotel shuttle bus as we hired a car.
+[0.004299163818359375] The furniture, i.e tv unit and clothes drawers seemed to be the only thing that seemed a little tired, but not so much that you would notice.
+[0.0049114227294921875] When we arrived, although the front desk staff could not find our reservation, I showed them my confirmation sheet and they fixed everything.
+
+**********
+
+[0.9514522552490234] You should get a car.
+Parent: It is recommended to get a car, as it can be difficult to get around without one.
+
+----- Supporting -----
+
+[0.9514522552490234] We would have struggled without the hire car so I would advise you to get one!
+[0.9412460327148438] A must is a car because travelling around on foot is hard the roads are really hard to cross you take your life into your own hands and wait up to 15 mins for the lights to change and watch the traffic from the right because while your crossing they are too.
+[0.8589916229248047] A car will definitely be handy.
+[0.003875732421875] We never used the hotel shuttle bus as we hired a car.
+[-0.5695648193359375] The property though was not nice at all.
+
+----- Weakening -----
+
+[-0.9942359924316406] I would certainly reccomend this property to anyone who desires a comfortable "sleeper" at a great price
+[-0.9795799255371094] Small gift/corner shop, internet access.
+[-0.9794559478759766] Hotel shop is very expensive so be warned.
+[-0.9433650970458984] Ok so the furniture was a bit tired but stuff worked, plenty of hot water and there was a microwave and fridge in the room.
+[-0.9349155426025391] The person at the front desk met all are requests... a quiet room away from the traffic.
+
+**********
+
+[0.9421157836914062] You need a car to get around.
+Parent: It is recommended to get a car, as it can be difficult to get around without one.
+
+----- Supporting -----
+
+[0.9421157836914062] A must is a car because travelling around on foot is hard the roads are really hard to cross you take your life into your own hands and wait up to 15 mins for the lights to change and watch the traffic from the right because while your crossing they are too.
+[0.4328632354736328] A car will definitely be handy.
+[0.42197418212890625] We would have struggled without the hire car so I would advise you to get one!
+[0.1139678955078125] We never used the hotel shuttle bus as we hired a car.
+[-0.020383834838867188] We have been to this complex a number of times.
+
+----- Weakening -----
+
+[-0.9876632690429688] VERY cheap mall , we walked in and walked out right away.
+[-0.9713668823242188] Ok so the furniture was a bit tired but stuff worked, plenty of hot water and there was a microwave and fridge in the room.
+[-0.9329757690429688] The furniture, i.e tv unit and clothes drawers seemed to be the only thing that seemed a little tired, but not so much that you would notice.
+[-0.8653564453125] Small gift/corner shop, internet access.
+[-0.859344482421875] 30$ cab ride to florida mall.
+
+**********
+
+[0.342193603515625] The complex has a mall.
+Parent: The complex has a very cheap mall.
+
+----- Supporting -----
+
+[0.342193603515625] 30$ cab ride to florida mall.
+[0.17697906494140625] VERY cheap mall , we walked in and walked out right away.
+[6.961822509765625e-05] We have been to this complex a number of times.
+[-0.011577606201171875] When we arrived, although the front desk staff could not find our reservation, I showed them my confirmation sheet and they fixed everything.
+[-0.03696441650390625] We never used the hotel shuttle bus as we hired a car.
+
+----- Weakening -----
+
+[-0.6682891845703125] Small gift/corner shop, internet access.
+[-0.5640869140625] We would have struggled without the hire car so I would advise you to get one!
+[-0.3864898681640625] Ok so the furniture was a bit tired but stuff worked, plenty of hot water and there was a microwave and fridge in the room.
+[-0.25176239013671875] The furniture, i.e tv unit and clothes drawers seemed to be the only thing that seemed a little tired, but not so much that you would notice.
+[-0.2432403564453125] Hotel shop is very expensive so be warned.
+
+**********
+
+[0.9293632507324219] The mall is cheap.
+Parent: The complex has a very cheap mall.
+
+----- Supporting -----
+
+[0.9293632507324219] VERY cheap mall , we walked in and walked out right away.
+[-0.0029163360595703125] We have been to this complex a number of times.
+[-0.03691864013671875] We never used the hotel shuttle bus as we hired a car.
+[-0.0766448974609375] When we arrived, although the front desk staff could not find our reservation, I showed them my confirmation sheet and they fixed everything.
+[-0.07704925537109375] The person at the front desk met all are requests... a quiet room away from the traffic.
+
+----- Weakening -----
+
+[-0.68914794921875] I would certainly reccomend this property to anyone who desires a comfortable "sleeper" at a great price
+[-0.42181396484375] 30$ cab ride to florida mall.
+[-0.4007415771484375] Hotel shop is very expensive so be warned.
+[-0.33172607421875] A must is a car because travelling around on foot is hard the roads are really hard to cross you take your life into your own hands and wait up to 15 mins for the lights to change and watch the traffic from the right because while your crossing they are too.
+[-0.3124542236328125] The furniture, i.e tv unit and clothes drawers seemed to be the only thing that seemed a little tired, but not so much that you would notice.

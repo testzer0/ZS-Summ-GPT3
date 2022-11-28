@@ -1,0 +1,149 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.9004814965384347
+
+**********
+
+[0.9833207130432129] The food was good.
+Parent: The reviewers said that the food was good, although they thought it was expensive.
+
+----- Supporting -----
+
+[0.9833207130432129] The food was excellent.
+[0.9718503952026367] Food was good and service from all of the staff was extremely professional.
+[0.9551897048950195] The meal itself was extremely good, it is well worth your money to have a meal there, you won't be disappointed.
+[0.9322152137756348] We never went hungry and the quality of the food was excellent.
+[0.8329296112060547] We had breakfast and lunch at the Parkside restaurant in the hotel, the food was of a very high standard, and children less than three eat free ( it costs $7.95 for children over three for the breakfast buffet).
+
+----- Weakening -----
+
+[-0.9843788146972656] We are NOT demanding restaurant a patrons, but both the food and the service was poor.
+[-0.9813728332519531] Food presentation was fancy, but the food didn't taste very good.
+[-0.9202079772949219] Concierge lounge nibbles in the evening were a little disappointing, but the staff were friendly (I think this area used to be the old steak house).
+[-0.8643379211425781] I can't comment on the food or drinks offered at the hotel as we did not order anything at the restaurant or room service - it was pretty expensive.
+[-0.8501834869384766] Didn't eat there.
+
+**********
+
+[0.989079475402832] The food was expensive.
+Parent: The reviewers said that the food was good, although they thought it was expensive.
+
+----- Supporting -----
+
+[0.989079475402832] The meal was pricey, but well worth it.
+[0.9049568176269531] I can't comment on the food or drinks offered at the hotel as we did not order anything at the restaurant or room service - it was pretty expensive.
+[0.3677482604980469] Had a Bloody Ceasar at the Hotel Bar...ouch..10$ for a small glass.
+[0.3586883544921875] And for this we paid fancy hotel restaurant prices - ugh!
+[0.27587890625] The meal itself was extremely good, it is well worth your money to have a meal there, you won't be disappointed.
+
+----- Weakening -----
+
+[-0.4805755615234375] Found the cheapest price directly on their website.
+[-0.24541473388671875] I got a discounted rate because I am a Marriott rewards member which made it worth it.
+[-0.2127685546875] We had breakfast and lunch at the Parkside restaurant in the hotel, the food was of a very high standard, and children less than three eat free ( it costs $7.95 for children over three for the breakfast buffet).
+[-0.208404541015625] You may have a difficult fit.
+[-0.14200592041015625] I wasn't in any particular hurry, but just am not used to waiting for hot water these days.
+
+**********
+
+[0.9833207130432129] The food was good.
+Parent: They appreciated the variety of food available, and thought that the quality was good.
+
+----- Supporting -----
+
+[0.9833207130432129] The food was excellent.
+[0.9718503952026367] Food was good and service from all of the staff was extremely professional.
+[0.9551897048950195] The meal itself was extremely good, it is well worth your money to have a meal there, you won't be disappointed.
+[0.9322152137756348] We never went hungry and the quality of the food was excellent.
+[0.8329296112060547] We had breakfast and lunch at the Parkside restaurant in the hotel, the food was of a very high standard, and children less than three eat free ( it costs $7.95 for children over three for the breakfast buffet).
+
+----- Weakening -----
+
+[-0.9843788146972656] We are NOT demanding restaurant a patrons, but both the food and the service was poor.
+[-0.9813728332519531] Food presentation was fancy, but the food didn't taste very good.
+[-0.9202079772949219] Concierge lounge nibbles in the evening were a little disappointing, but the staff were friendly (I think this area used to be the old steak house).
+[-0.8643379211425781] I can't comment on the food or drinks offered at the hotel as we did not order anything at the restaurant or room service - it was pretty expensive.
+[-0.8501834869384766] Didn't eat there.
+
+**********
+
+[0.9334020614624023] The quality was good.
+Parent: They appreciated the variety of food available, and thought that the quality was good.
+
+----- Supporting -----
+
+[0.9334020614624023] We never went hungry and the quality of the food was excellent.
+[0.7807292938232422] We had breakfast and lunch at the Parkside restaurant in the hotel, the food was of a very high standard, and children less than three eat free ( it costs $7.95 for children over three for the breakfast buffet).
+[0.4234809875488281] Food was good and service from all of the staff was extremely professional.
+[0.24388504028320312] The food was excellent.
+[0.23743820190429688] The meal itself was extremely good, it is well worth your money to have a meal there, you won't be disappointed.
+
+----- Weakening -----
+
+[-0.9158935546875] We are NOT demanding restaurant a patrons, but both the food and the service was poor.
+[-0.9032859802246094] Concierge lounge nibbles in the evening were a little disappointing, but the staff were friendly (I think this area used to be the old steak house).
+[-0.615325927734375] I had some fried rice that was much too gingery; my side dish of broccoli was overcooked; the key lime pie tasted as if it came from a mix - you get the idea.
+[-0.45961761474609375] At over $250 a night, that's not too good.
+[-0.44063568115234375] Had a Bloody Ceasar at the Hotel Bar...ouch..10$ for a small glass.
+
+**********
+
+[0.9554843902587891] The food was not good.
+Parent: However, they did note that there were some problems with the food, such as the wrong dish being served, or the food not tasting very good.
+
+----- Supporting -----
+
+[0.9554843902587891] We are NOT demanding restaurant a patrons, but both the food and the service was poor.
+[0.935760498046875] Food presentation was fancy, but the food didn't taste very good.
+[0.8286514282226562] Concierge lounge nibbles in the evening were a little disappointing, but the staff were friendly (I think this area used to be the old steak house).
+[0.37762451171875] I had some fried rice that was much too gingery; my side dish of broccoli was overcooked; the key lime pie tasted as if it came from a mix - you get the idea.
+[0.121337890625] Had a Bloody Ceasar at the Hotel Bar...ouch..10$ for a small glass.
+
+----- Weakening -----
+
+[-0.9946918487548828] We never went hungry and the quality of the food was excellent.
+[-0.9945030212402344] The meal itself was extremely good, it is well worth your money to have a meal there, you won't be disappointed.
+[-0.9932212829589844] We had breakfast and lunch at the Parkside restaurant in the hotel, the food was of a very high standard, and children less than three eat free ( it costs $7.95 for children over three for the breakfast buffet).
+[-0.9929771423339844] The food was excellent.
+[-0.9916515350341797] Food was good and service from all of the staff was extremely professional.
+
+**********
+
+[0.49982452392578125] The dish was wrong.
+Parent: However, they did note that there were some problems with the food, such as the wrong dish being served, or the food not tasting very good.
+
+----- Supporting -----
+
+[0.49982452392578125] We are NOT demanding restaurant a patrons, but both the food and the service was poor.
+[0.4962158203125] I had some fried rice that was much too gingery; my side dish of broccoli was overcooked; the key lime pie tasted as if it came from a mix - you get the idea.
+[0.4725341796875] When my husband's Cesar salad was served with chicken instead of salmon, he had to hunt down the waiter to point out the problem, and the waiter barely seemed to care.
+[0.421295166015625] Food presentation was fancy, but the food didn't taste very good.
+[0.2042388916015625] Concierge lounge nibbles in the evening were a little disappointing, but the staff were friendly (I think this area used to be the old steak house).
+
+----- Weakening -----
+
+[-0.9961004257202148] We never went hungry and the quality of the food was excellent.
+[-0.9959716796875] The food was excellent.
+[-0.9942812919616699] Food was good and service from all of the staff was extremely professional.
+[-0.9926395416259766] The meal itself was extremely good, it is well worth your money to have a meal there, you won't be disappointed.
+[-0.9916715621948242] We had breakfast and lunch at the Parkside restaurant in the hotel, the food was of a very high standard, and children less than three eat free ( it costs $7.95 for children over three for the breakfast buffet).
+
+**********
+
+[0.9589385986328125] The food was not very good.
+Parent: However, they did note that there were some problems with the food, such as the wrong dish being served, or the food not tasting very good.
+
+----- Supporting -----
+
+[0.9589385986328125] Food presentation was fancy, but the food didn't taste very good.
+[0.9347085952758789] We are NOT demanding restaurant a patrons, but both the food and the service was poor.
+[0.8785362243652344] Concierge lounge nibbles in the evening were a little disappointing, but the staff were friendly (I think this area used to be the old steak house).
+[0.4029541015625] I had some fried rice that was much too gingery; my side dish of broccoli was overcooked; the key lime pie tasted as if it came from a mix - you get the idea.
+[0.11090087890625] I can't comment on the food or drinks offered at the hotel as we did not order anything at the restaurant or room service - it was pretty expensive.
+
+----- Weakening -----
+
+[-0.9946479797363281] We never went hungry and the quality of the food was excellent.
+[-0.9942922592163086] The meal itself was extremely good, it is well worth your money to have a meal there, you won't be disappointed.
+[-0.9937095642089844] The food was excellent.
+[-0.9927263259887695] We had breakfast and lunch at the Parkside restaurant in the hotel, the food was of a very high standard, and children less than three eat free ( it costs $7.95 for children over three for the breakfast buffet).
+[-0.9866619110107422] Food was good and service from all of the staff was extremely professional.

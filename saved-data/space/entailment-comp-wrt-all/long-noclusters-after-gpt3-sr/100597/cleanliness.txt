@@ -1,0 +1,65 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.7332735061645508
+
+**********
+
+[0.9896502494812012] The hotel was clean.
+Parent: The reviews were generally positive about the cleanliness of the hotel.
+
+----- Supporting -----
+
+[0.9896502494812012] The hotel was clean, beds were fine, hotel is located across the street from the air port, was within walking distance to a Denny's, Jack in the Box, and a steak place.
+[0.9872698783874512] The Hotel was clean, great staff, was greeted with hot fresh cookies at the check-in counter.
+[0.9832820892333984] The hotel was nice; good clean rooms.
+[0.9815225601196289] This hotel is clean, neat and offers good value for the money.
+[0.9575014114379883] My room and bathroom were both very clean and the service at the hotel was friendly, The check in process could be slow and it would be helpful if the airline crews were not given first priority to jump in front of everyone waiting.
+
+----- Weakening -----
+
+[-0.996180534362793] When we found our room we discovered that the bathroom hadn't been cleaned and there were dirty towels lying around.
+[-0.9951038360595703] The bathroom was dirty and stained.
+[-0.9944906234741211] This property is a mess.
+[-0.9943456649780273] Upon further inspection of the room, the older bathroom wood doors were dirty from years of use-these "Hilton Honors" rooms really need refurbishing.
+[-0.9941530227661133] It was so liquified that it spilled all over my hand and burned me terribly.
+
+**********
+
+[0.22052001953125] The rooms were too small.
+Parent: There were some complaints about the size of the rooms, but overall people seemed to be happy with the cleanliness of the hotel.
+
+----- Supporting -----
+
+[0.22052001953125] Complimentary shuttle nice although couldn't fit everyone on a Sunday mid-AM!
+[0.11138916015625] By the time the shuttle was prepared to leave on the hour there were to many people to fit in the shuttle(they could have run there & back in that time ).
+[0.0141754150390625] I just wish the smokers had their own wing.
+[0.007190704345703125] 90 minutes later we still did not have the bed.
+[0.0021142959594726562] Would avoid this hotel in the future.
+
+----- Weakening -----
+
+[-0.9980754852294922] The rooms are very spacious and very nice.
+[-0.9977092742919922] We had a large room with a balcony, comfortable beds, an easy chair and ottoman, and a coffee maker - all things we don't always find.
+[-0.9976227283477783] Our room was large and very comfortable.
+[-0.9975399971008301] The rooms were very spacious, modern and clean.
+[-0.9975004196166992] Rooms large and comfortable.
+
+**********
+
+[0.9896502494812012] The hotel was clean.
+Parent: There were some complaints about the size of the rooms, but overall people seemed to be happy with the cleanliness of the hotel.
+
+----- Supporting -----
+
+[0.9896502494812012] The hotel was clean, beds were fine, hotel is located across the street from the air port, was within walking distance to a Denny's, Jack in the Box, and a steak place.
+[0.9872698783874512] The Hotel was clean, great staff, was greeted with hot fresh cookies at the check-in counter.
+[0.9832820892333984] The hotel was nice; good clean rooms.
+[0.9815225601196289] This hotel is clean, neat and offers good value for the money.
+[0.9575014114379883] My room and bathroom were both very clean and the service at the hotel was friendly, The check in process could be slow and it would be helpful if the airline crews were not given first priority to jump in front of everyone waiting.
+
+----- Weakening -----
+
+[-0.996180534362793] When we found our room we discovered that the bathroom hadn't been cleaned and there were dirty towels lying around.
+[-0.9951038360595703] The bathroom was dirty and stained.
+[-0.9944906234741211] This property is a mess.
+[-0.9943456649780273] Upon further inspection of the room, the older bathroom wood doors were dirty from years of use-these "Hilton Honors" rooms really need refurbishing.
+[-0.9941530227661133] It was so liquified that it spilled all over my hand and burned me terribly.

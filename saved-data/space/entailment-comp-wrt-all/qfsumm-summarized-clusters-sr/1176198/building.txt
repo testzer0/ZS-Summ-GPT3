@@ -1,0 +1,107 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.8267078399658203
+
+**********
+
+[0.9622325897216797] The lobby is lovely.
+Parent: The lobby is quite lovely , the parking is expensive .
+
+----- Supporting -----
+
+[0.9622325897216797] The lobby is quite lovely, the parking is expensive.
+[0.8359546661376953] Nice lobby with fresh cookies in the evening.
+[0.7843656539916992] Clean, shiny new hotel with spacious welcoming lobby and attractive decor.
+[0.3005180358886719] The rooms were warm and comfortable, and the hotel has a small but cozy lobby with a fireplace, business center and small market shop.
+[0.2369842529296875] The rooms are beautiful and spacious.
+
+----- Weakening -----
+
+[-0.9148139953613281] Hotel rooms and restaurant = great "Valet" = brutal and ruined the whole stay.
+[-0.9038810729980469] I truly disliked the bed.
+[-0.8998203277587891] That was a bit of a pain, but understandable, because it was getting extremely rowdy and it was clear people were bringing in about 10 people into one room.
+[-0.8882617950439453] This night was a bit of a mess; we would walk out to the hallway and smell weed, hear loud music blasting, etc.
+[-0.8789176940917969] I would NOT recommend giving this hotel your business.
+
+**********
+
+[0.4656562805175781] The parking is too expensive.
+Parent: The lobby is quite lovely , the parking is expensive .
+
+----- Supporting -----
+
+[0.4656562805175781] The lobby is quite lovely, the parking is expensive.
+[0.289398193359375] Parking rates are high as you will find in all major cities around the world.
+[0.2798919677734375] Very easy to get to - but parking is an issue and the rate of $35.00 / day is very steep.
+[0.2738037109375] Also, if you are planning on parking your car there is only valet parking available which at $35 per day is quite pricey.
+[0.2447357177734375] Searching around for alternate parking in the area is a crapshoot, as much parking in the area [only a few blocks from the Rogers Centre/Skydome and inside the Entertainment District] is outdoors and prices are jacked up for events and weekends.
+
+----- Weakening -----
+
+[-0.9731621742248535] Great rates, Great location, friendly staff.
+[-0.9648399353027344] It was so inexpensive for the area and amenities.
+[-0.9401459693908691] Price was good, too.
+[-0.9296360015869141] Great Location , great price.
+[-0.9092464447021484] For a price of $10 we had a choice of hot and cold items, both ready made, and made to order.
+
+**********
+
+[0.9845256805419922] The facilities are better than in any other hotel.
+Parent: The facilities are also better than I have encountered in any hotel .
+
+----- Supporting -----
+
+[0.9845256805419922] The facilities are also better than I have encountered in any hotel.
+[0.26983642578125] The shower was one of the best we have ever had at any hotel *anywhere*.
+[0.043425559997558594] This hotel, by far, is the BEST hotel I have every stayed at.
+[0.01983642578125] The rooms are equal to anything Hilton offers, the fitness facility is first rate and the restaurant staff are friendly and attentive - to the right degree.
+[0.019134521484375] Stayed here 3 nights last weekend and I couldn't have asked for anything better.
+
+----- Weakening -----
+
+[-0.9859611988067627] my boyfriend and i both went home sore and dead tired from trying to find a comfortable way to sleep tossing and turning all night but there was none.
+[-0.9639480113983154] I would NOT recommend giving this hotel your business.
+[-0.9607419967651367] Pool/Hot Tub isn't much to write home about.
+[-0.9576184749603271] My boyfriend and I stayed here this past weekend january 21-23 and the people were nice not that we were in the hotel to much other than to sleep but the bed was absolutely awful it was like sleeping on a board.
+[-0.9567089080810547] First, there was absolutely no housecleaning/maid service!
+
+**********
+
+[0.9705867767333984] The hotel has a fire alarm.
+Parent: The only bad things that i can mention are that during my stay another guest decided to set the fire alarm of at 04:30 , not a wake up call I want to repeat .
+
+----- Supporting -----
+
+[0.9705867767333984] The fire alarm went off in the ENTIRE hotel very early in the morning because someone burned toast.
+[0.5939788818359375] The only bad things that i can mention are that during my stay another guest decided to set the fire alarm of at 04:30, not a wake up call I want to repeat.
+[0.0052127838134765625] This hotel was modern, clean and well maintained.
+[0.0037841796875] This hotel was clean, convenient and reasonably priced.
+[0.00185394287109375] The Hotel is very clean, has free WiFi, is well decorated and very comfortable.
+
+----- Weakening -----
+
+[-0.751495361328125] You could make your own waffles with delicious toppings, huge choice of cereals and pastries, cooked items are made to order so fresh and yummy!
+[-0.6703948974609375] How about a sign that states this at the front desk so we don't waste our time changing and taking off all of our makeup!
+[-0.6518344879150391] I am glad w/ Hilton Garden Inn's TV's.
+[-0.6157379150390625] So, rather than go look for a bank we went ahead and exchanged out money and gave them 40 dollars American and they gave us 40 dollars Canadian.
+[-0.571533203125] Thankfully it's deep bass, so ear plugs do little good.
+
+**********
+
+[0.7505378723144531] The hotel had a guest set off the fire alarm at 04:30.
+Parent: The only bad things that i can mention are that during my stay another guest decided to set the fire alarm of at 04:30 , not a wake up call I want to repeat .
+
+----- Supporting -----
+
+[0.7505378723144531] The only bad things that i can mention are that during my stay another guest decided to set the fire alarm of at 04:30, not a wake up call I want to repeat.
+[0.0051116943359375] The fire alarm went off in the ENTIRE hotel very early in the morning because someone burned toast.
+[0.0] Horrible !
+[0.0] WOW !
+[0.0] Downfall ?
+
+----- Weakening -----
+
+[-0.8878841400146484] Check in was very quick and easy.
+[-0.8877429962158203] Check-in was fast and friendly.
+[-0.8853960037231445] The check-in process was quick and efficient.
+[-0.8664493560791016] You could make your own waffles with delicious toppings, huge choice of cereals and pastries, cooked items are made to order so fresh and yummy!
+[-0.8209962844848633] We had no complaints.

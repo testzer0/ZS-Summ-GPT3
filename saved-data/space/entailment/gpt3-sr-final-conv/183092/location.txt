@@ -1,0 +1,128 @@
+***** Aspect: location Model Type : zs *****
+Overall score: 0.8457550207773844
+
+**********
+
+[0.9723362922668457] The location was central.
+Parent: The location was praised in all of the reviews for its centrality and proximity to public transportation, the Eaton Centre, and various attractions.
+
+----- Supporting -----
+
+[0.9723362922668457] Great location, very central.
+[0.9617137908935547] The location of this hotel is excellent â€“ very central and close to public transport, shopping, restaurants, etc.
+[0.9475889205932617] The central location was perfect for us as tourists.
+[0.9412174224853516] location very central for downtown.
+[0.9200382232666016] Stayed for three nights as a family, couldn't be more central for all the downtown attractions, everything's within walking distance and the hotel is connected by a walkway to the Eaton Centre.
+
+----- Weakening -----
+
+[-0.9893016815185547] The location is reasonable but quite a long way from the waterfront.
+[-0.9015388488769531] The highlight for me was th staff.
+[-0.9007110595703125] It was a nice hotel, but I would recommend staying closer to the center of activities.
+[-0.7930755615234375] This makes it an ideal location for vacationers, but a bit far if you have meetings in the main business district in the downtown core (although it's not too bad for that).
+[-0.6968650817871094] It is probably the most depressing hotel I have ever stayed in.
+
+**********
+
+[0.9234371185302734] The location was praised for being close to public transportation.
+Parent: The location was praised in all of the reviews for its centrality and proximity to public transportation, the Eaton Centre, and various attractions.
+
+----- Supporting -----
+
+[0.9234371185302734] The location was an excellent one for us because our event was just across the street, but we also walked to dinner on Queen Street, had many shopping choices (itâ€™s connected to the Eaton Centre, or you can meander along funky Queen West) and itâ€™s close to the subway.
+[0.7235164642333984] The location of this hotel is excellent â€“ very central and close to public transport, shopping, restaurants, etc.
+[0.2433300018310547] The location, right next to the Eaton Centre, is ideal and makes it easy to take in all of the traditional tourist sights and access the subway.
+[0.20310211181640625] The hotel's downtown location is convenient for public transportation and adjacent to the Eaton Centre Mall.
+[0.14971923828125] The hotel was very clean, the hotel staff were very friendly and information, and it was close to public transportation, which we used for our entire time in Toronto.
+
+----- Weakening -----
+
+[-0.6852312088012695] The hotel is connected to the Eaton center = dangerous!!!
+[-0.6817054748535156] But the parking attendants were telling us we couldn't leave our car there.
+[-0.6458206176757812] However the bus driver pointed out that the U. of Toronto Residence stop (the last stop) was much closer, just a very short walk between some buildings to arrive at the hotel.
+[-0.5844821929931641] Not very convenient to go down to lobby all the time...Staff was not at all helpful in this matter... A sidenote: the room when we arrived was not vacumed and was not clean.
+[-0.58160400390625] The front desk girl didn't seem to understand the situation and said "oh there is a shoppers 2 blocks from here."
+
+**********
+
+[0.9524974822998047] The location was good because it was close to the Eaton Centre.
+Parent: The location was praised in all of the reviews for its centrality and proximity to public transportation, the Eaton Centre, and various attractions.
+
+----- Supporting -----
+
+[0.9524974822998047] The best thing about this hotel is its location next to Eaton Centre.
+[0.9392299652099609] One of the best features of this hotel is its proximity to the Eaton Centre as it is connected with a walkway so you can leave your coats in your room and shop all day.
+[0.9313507080078125] (1) Location of the hotel is ideal , my wife was thrilled as it was within short walling distance to the Eaton center one of the largest shopping centers in Toronto (2) Room is spacious compared to other 4 star hotels, good furniture, clean and neat (3) Good entertainment with LCD 37 inch TV with on demand movies and more (4) Staff are friendly and professional, good staffing numbers very adequate (5) Breakfast was great and included in the price of around US$ 200 per night , very fair price for this hotel, the breakfast included fresh fruits (Produce of Canada) and eggs and an egg station and many other delights
+[0.9254360198974609] The location was an excellent one for us because our event was just across the street, but we also walked to dinner on Queen Street, had many shopping choices (itâ€™s connected to the Eaton Centre, or you can meander along funky Queen West) and itâ€™s close to the subway.
+[0.8817605972290039] The location is also perfect for us: next to the Eaton Centre and walking distance to Chinatown and Queen Street.
+
+----- Weakening -----
+
+[-0.7497940063476562] The major tourist attractions are within walking distance (such as the CN Tower and the Rogers Center), not to mention its close proximity to the financial district of the city.
+[-0.6910781860351562] Easy walking to Canon Theater and to many restaurants.
+[-0.6085205078125] Near the mall entrance you will find a Starbucks and the entrance to the subway where you can catch a quick ride to Union Station (CN Tower, Rogers Centre, Hockey Hall of Fame, etc.)
+[-0.5769882202148438] CN Tower is not far from here.
+[-0.5423965454101562] It is across the streets from both old and new City Hall.
+
+**********
+
+[0.9249000549316406] The location was good because it was close to various attractions.
+Parent: The location was praised in all of the reviews for its centrality and proximity to public transportation, the Eaton Centre, and various attractions.
+
+----- Supporting -----
+
+[0.9249000549316406] Described as a business hotel the Eaton Centre Marriott is also well suited for leisure breaks, situated close to a range of attractions the hotel provides an ideal base to explore Toronto.
+[0.9243535995483398] The location was an excellent one for us because our event was just across the street, but we also walked to dinner on Queen Street, had many shopping choices (itâ€™s connected to the Eaton Centre, or you can meander along funky Queen West) and itâ€™s close to the subway.
+[0.918370246887207] The location of this hotel is excellent â€“ very central and close to public transport, shopping, restaurants, etc.
+[0.7137689590454102] It is in a great location - attached to the Eaton Centre for some last minute Christmas shopping, and close to Nathan Phillips Square and other Toronto sights.
+[0.6305427551269531] The major tourist attractions are within walking distance (such as the CN Tower and the Rogers Center), not to mention its close proximity to the financial district of the city.
+
+----- Weakening -----
+
+[-0.22761154174804688] The hotel is connected to the Eaton center = dangerous!!!
+[-0.21288204193115234] It is probably the most depressing hotel I have ever stayed in.
+[-0.184173583984375] Again i treid to explain that i didn't really want to walk- especially in my situation and if the shoppers was not open for certain.
+[-0.16782665252685547] During our recent trip we stayed in 5 hotels in Canada and this was by far the worst.
+[-0.14511489868164062] I was so frustrated.
+
+**********
+
+[0.3271007537841797] The cost of parking was too high.
+Parent: The only negative comments about the location were that the parking was expensive and that the boarding pass console was not working for Porter.
+
+----- Supporting -----
+
+[0.3271007537841797] Expensive parking.
+[0.28147125244140625] The parking was very expensive, the cost was $25 a day.
+[0.1324939727783203] Expensive to park, $25 per day and daily rates are high.
+[0.098541259765625] Parking expensive but what isn't in Toronto?
+[0.03716850280761719] Parking is also expensive at $18 per day and the garage was small.
+
+----- Weakening -----
+
+[-0.9529304504394531] They arranged rental car service for us as well as airport transport.. All very reasonably priced and on time.
+[-0.9343132972717285] We were to get a "cars eat free" weekend, as well as free parking.
+[-0.9122958183288574] Our rate due to the conference was very reasonable so no complaints.
+[-0.9055137634277344] Convenient to transportation.
+[-0.9027595520019531] Parking at the hotel's underground lot was easy and efficient... No worries if you're planning a stay at this downtown Toronto hotel!
+
+**********
+
+[0.9742584228515625] The boarding pass console was not working.
+Parent: The only negative comments about the location were that the parking was expensive and that the boarding pass console was not working for Porter.
+
+----- Supporting -----
+
+[0.9742584228515625] Only hangup was the boarding pass console was not working for Porter.
+[0.082275390625] I tried to hook up my computer to the internet in the room afterwards, but I found that this was not working either because of the phone line issue.
+[0.011016845703125] Great service, friendly staff, good food - pity the room wiater couldn't go further than the threshold !!!!
+[0.0067138671875] Again i treid to explain that i didn't really want to walk- especially in my situation and if the shoppers was not open for certain.
+[0.005084991455078125] She still didn't get it- and said-"well I'll call to see if it is open".
+
+----- Weakening -----
+
+[-0.9581031799316406] Quick check-in and check-out.
+[-0.9376697540283203] My wife enjoyed the gym which had new and excellent machines.
+[-0.9012641906738281] As an elite member, I had access to the ground floor concierge lounge and the complementary buffet breakfast each morning.
+[-0.8893527984619141] The maid service was excellent and very prompt.
+[-0.8771476745605469] Check-in smooth.

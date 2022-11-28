@@ -1,0 +1,23 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.9941825866699219
+
+**********
+
+[0.9941825866699219] The room was clean.
+Parent: The room was clean.
+
+----- Supporting -----
+
+[0.9941825866699219] The room was very clean.
+[0.9921808242797852] The room was clean.
+[0.9902119636535645] The room was very clean and beautifully decorated.
+[0.9887945652008057] My room was clean.
+[0.9886531829833984] The room was very clean and anything you may need was available in the room.
+
+----- Weakening -----
+
+[-0.9978480339050293] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[-0.9971985816955566] Stripping the sheets, I found a fairly fresh urine stain that made me want to vomit.
+[-0.99713134765625] Our toliet overflowed at 11pm resulting in a flood in our bathroom.
+[-0.9966344833374023] It was dark, dirty, and noisy from the construction right outside my window.
+[-0.9964923858642578] The air conditioning vent had so much filthy residue trapped inside that it could not possibly pass a health audit.

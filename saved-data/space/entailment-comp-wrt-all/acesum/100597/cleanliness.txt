@@ -1,0 +1,23 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.9921226501464844
+
+**********
+
+[0.9921226501464844] The room was clean.
+Parent: The room was clean.
+
+----- Supporting -----
+
+[0.9921226501464844] The room was very clean and comfortable.
+[0.9891242980957031] The room was very clean, cozy and very quiet even though it was so close to the airport.
+[0.9874343872070312] The room was large and clean.
+[0.987128734588623] The room was spacious, clean and well appointed.
+[0.9871025085449219] The room was clean and bed comfortable.
+
+----- Weakening -----
+
+[-0.9971733093261719] It was so liquified that it spilled all over my hand and burned me terribly.
+[-0.9962444305419922] The bathroom was dirty and stained.
+[-0.9961051940917969] When we found our room we discovered that the bathroom hadn't been cleaned and there were dirty towels lying around.
+[-0.9960174560546875] Bathroom floors seems dirty and needed to be regrouted.
+[-0.9960050582885742] other bugs every where.

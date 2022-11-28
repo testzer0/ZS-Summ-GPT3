@@ -1,0 +1,611 @@
+***** Aspect: rooms Model Type : zs *****
+Overall score: 0.6952111638825516
+
+**********
+
+[0.879241943359375] The rooms are in poor condition.
+Parent: The rooms are pretty rundown and dirty.
+
+----- Supporting -----
+
+[0.879241943359375] Room was highly run down.
+[0.85174560546875] The crappy wings are old and the rooms smell musty.
+[0.7881965637207031] The bathrooms are worn and need updating.
+[0.7329063415527344] Upon further inspection of the room, the older bathroom wood doors were dirty from years of use-these "Hilton Honors" rooms really need refurbishing.
+[0.6587791442871094] Wall paper peeling off walls in different places, light bulb not replaced in room and carpet stained.
+
+----- Weakening -----
+
+[-0.9980216026306152] The rooms are clean and nicely appointed.
+[-0.9979915618896484] Easy to reach, very clean and well-appointed rooms.
+[-0.9976317882537842] The room was very clean and comfortable.
+[-0.9976301193237305] We had a large room very clean and well furnished.
+[-0.9974226951599121] The rooms were very clean and the staff was very nice.
+
+**********
+
+[0.8375167846679688] The rooms are dirty.
+Parent: The rooms are pretty rundown and dirty.
+
+----- Supporting -----
+
+[0.8375167846679688] The crappy wings are old and the rooms smell musty.
+[0.7579383850097656] The bathrooms are worn and need updating.
+[0.7421340942382812] The bathroom was dirty and stained.
+[0.7303085327148438] Upon further inspection of the room, the older bathroom wood doors were dirty from years of use-these "Hilton Honors" rooms really need refurbishing.
+[0.6925735473632812] Bathroom floors seems dirty and needed to be regrouted.
+
+----- Weakening -----
+
+[-0.9971575736999512] The rooms are clean and nicely appointed.
+[-0.997124195098877] Easy to reach, very clean and well-appointed rooms.
+[-0.9969997406005859] The rooms were very clean and the staff was very nice.
+[-0.9969968795776367] The rooms are always clean, the beds great, bedding and bath linens top notch.
+[-0.9968361854553223] The room was very clean and comfortable.
+
+**********
+
+[0.9592828750610352] The rooms are in good condition.
+Parent: The rooms are generally well-kept and comfortable, although some reviewers noted that they could use some updating.
+
+----- Supporting -----
+
+[0.9592828750610352] The rooms are clean and nicely appointed.
+[0.943850040435791] The rooms were very clean and the staff was very nice.
+[0.9419698715209961] The rooms are always clean, the beds great, bedding and bath linens top notch.
+[0.9417757987976074] The hotel was nice; good clean rooms.
+[0.9376158714294434] Easy to reach, very clean and well-appointed rooms.
+
+----- Weakening -----
+
+[-0.9972310066223145] Room was highly run down.
+[-0.9963197708129883] The bathroom was dirty and stained.
+[-0.9961957931518555] Upon further inspection of the room, the older bathroom wood doors were dirty from years of use-these "Hilton Honors" rooms really need refurbishing.
+[-0.994969367980957] The crappy wings are old and the rooms smell musty.
+[-0.9941716194152832] Wall paper peeling off walls in different places, light bulb not replaced in room and carpet stained.
+
+**********
+
+[0.9624433517456055] The rooms are comfortable.
+Parent: The rooms are generally well-kept and comfortable, although some reviewers noted that they could use some updating.
+
+----- Supporting -----
+
+[0.9624433517456055] The rooms are comfortable and the cookies are great but getting smaller.
+[0.9606876373291016] Pros: - cookies upon check-in - one of my favorite things about the Doubletrees - complimentary airport shuttle every 15 mins - nice pools, rooms are very comfortable with excellent beds and Neutrogena toiletries and Wolfgang Puck coffee - nice food selection in hotel Cons: - parking is expensive - $16/night.
+[0.9435577392578125] Too bad considering the hotel facilities are lovely and the rooms are comfortable and spacious.
+[0.9421176910400391] The room was very clean and comfortable.
+[0.9407262802124023] For an airport hotel, it was surprisingly quiet, rooms were extremely comfortable and well prepared, and the staff were all extremely helpful and courteous.
+
+----- Weakening -----
+
+[-0.9444122314453125] Room was highly run down.
+[-0.8982391357421875] The crappy wings are old and the rooms smell musty.
+[-0.8958587646484375] The wing hallways had a damp smell.
+[-0.852630615234375] Wall paper peeling off walls in different places, light bulb not replaced in room and carpet stained.
+[-0.8493728637695312] The room to which I was initially assigned had a broken lamp and a rip in the carpet.
+
+**********
+
+[0.7837409973144531] The rooms are outdated.
+Parent: The rooms are generally well-kept and comfortable, although some reviewers noted that they could use some updating.
+
+----- Supporting -----
+
+[0.7837409973144531] Room was highly run down.
+[0.7739830017089844] The crappy wings are old and the rooms smell musty.
+[0.7552490234375] The room was a bit basic and dated but it was inexpensive and we could leave our car in their car park while we were on holiday.
+[0.40374755859375] The bathrooms are worn and need updating.
+[0.37774658203125] But the bathroom was not so clean and it's a huge let-down for a hotel like this to be so neglected.
+
+----- Weakening -----
+
+[-0.9959721565246582] Newer furniture, very comfortable bed with nice linens, two large sink areas and super clean.
+[-0.9956035614013672] The rooms were very spacious, modern and clean.
+[-0.9903304576873779] Easy to reach, very clean and well-appointed rooms.
+[-0.9874401092529297] Room was enormous, with balcony and was spotlessly clean.
+[-0.986053466796875] The hotel itself is very nice, we were given a very recently updated room in the tower.
+
+**********
+
+[-0.00386810302734375] The proximity of the elevators to the rooms in the tower was too close.
+Parent: There were also complaints about the proximity of the elevators to the rooms in the tower, as well as the lack of privacy due to the gaps at the bottom of the doors.
+
+----- Supporting -----
+
+[-0.00386810302734375] I will not stay in a Doubletree again.
+[-0.004192352294921875] Would avoid this hotel in the future.
+[-0.006389617919921875] This is a huge hotel.
+[-0.008331298828125] On the basis of this experience I will never choose a Doubletree hotel again.
+[-0.008882522583007812] I would not recommend this hotel.
+
+----- Weakening -----
+
+[-0.9580144882202148] The elevators for the tower are not close.
+[-0.862457275390625] Room was an "upgrade" but so far from the elevator.
+[-0.8500862121582031] There are also other choices, with several restaurants and fast food places within a very short walk.
+[-0.8292808532714844] The pool is very relaxing and big.
+[-0.8131732940673828] You could safely cross the street at the light and crosswalk and find your self at a diner or several other restaurants.
+
+**********
+
+[-0.0016880035400390625] There were complaints about the lack of privacy due to the gaps at the bottom of the doors.
+Parent: There were also complaints about the proximity of the elevators to the rooms in the tower, as well as the lack of privacy due to the gaps at the bottom of the doors.
+
+----- Supporting -----
+
+[-0.0016880035400390625] Ours was kind of dingy, definitely in need of a remodeling.
+[-0.00179290771484375] This hotel disappointed.
+[-0.0018205642700195312] This is a pretty rundown hotel.
+[-0.0018339157104492188] The room was a bit basic and dated but it was inexpensive and we could leave our car in their car park while we were on holiday.
+[-0.00189971923828125] Other than that issue, the hotel is nice and staff was great.
+
+----- Weakening -----
+
+[-0.20624637603759766] Every room seemed to have a balcony.
+[-0.178192138671875] After commuting back and fort from florida if too tired to drive back to my destination i always stay at this dbl tree.
+[-0.13639068603515625] I'm always pleased when my Priceline bid results in the Doubletree
+[-0.1345367431640625] Pros: - cookies upon check-in - one of my favorite things about the Doubletrees - complimentary airport shuttle every 15 mins - nice pools, rooms are very comfortable with excellent beds and Neutrogena toiletries and Wolfgang Puck coffee - nice food selection in hotel Cons: - parking is expensive - $16/night.
+[-0.12184715270996094] This room was one of the most comfortable rooms I've stayed at in a long time.
+
+**********
+
+[0.9801692962646484] The rooms were large.
+Parent: The rooms were large and clean, but some guests found them dated.
+
+----- Supporting -----
+
+[0.9801692962646484] But the rooms are a great size, and we noticed large groups of flight attendants from various airlines staying there as well.
+[0.9616308212280273] Rooms large and comfortable.
+[0.9607391357421875] The rooms are a good size, which is a bonus for me as I was traveling with my husband and two large teenaged sons in one room.
+[0.948939323425293] The rooms were very spacious, modern and clean.
+[0.9485912322998047] (For the discounted price) The room was very large, faced the airport, but was still quiet.
+
+----- Weakening -----
+
+[-0.9887733459472656] Rooms are not particularly posh or large.
+[-0.9872627258300781] The fitness room is small but the bedrooms are standard.
+[-0.8895721435546875] Decent size with flat panel TV, and normal size bathroom.
+[-0.670806884765625] The room was like staying in a basement, an old and mildew smell.
+[-0.47612762451171875] The room was a bit basic and dated but it was inexpensive and we could leave our car in their car park while we were on holiday.
+
+**********
+
+[0.987757682800293] The rooms were clean.
+Parent: The rooms were large and clean, but some guests found them dated.
+
+----- Supporting -----
+
+[0.987757682800293] The rooms were very clean and the staff was very nice.
+[0.9852638244628906] The rooms are clean and nicely appointed.
+[0.9797172546386719] The room was very clean and comfortable.
+[0.9754848480224609] The beds were comfortable and the room was very clean.
+[0.9740681648254395] The hotel was nice; good clean rooms.
+
+----- Weakening -----
+
+[-0.996891975402832] The bathroom was dirty and stained.
+[-0.9968481063842773] When we found our room we discovered that the bathroom hadn't been cleaned and there were dirty towels lying around.
+[-0.9963274002075195] Room was highly run down.
+[-0.9960699081420898] Upon further inspection of the room, the older bathroom wood doors were dirty from years of use-these "Hilton Honors" rooms really need refurbishing.
+[-0.9955711364746094] Bathroom floors seems dirty and needed to be regrouted.
+
+**********
+
+[0.9554691314697266] The rooms were dated.
+Parent: The rooms were large and clean, but some guests found them dated.
+
+----- Supporting -----
+
+[0.9554691314697266] The room was a bit basic and dated but it was inexpensive and we could leave our car in their car park while we were on holiday.
+[0.8952522277832031] The crappy wings are old and the rooms smell musty.
+[0.8848991394042969] Room was highly run down.
+[0.8001861572265625] Upon further inspection of the room, the older bathroom wood doors were dirty from years of use-these "Hilton Honors" rooms really need refurbishing.
+[0.7708377838134766] Carpet was old as were the other furnishings.
+
+----- Weakening -----
+
+[-0.9892215728759766] The rooms were very spacious, modern and clean.
+[-0.9813899993896484] The beds were comfortable and the room was very clean.
+[-0.9792289733886719] Room was enormous, with balcony and was spotlessly clean.
+[-0.9790325164794922] The room was very clean and comfortable.
+[-0.9773788452148438] Newer furniture, very comfortable bed with nice linens, two large sink areas and super clean.
+
+**********
+
+[0.9179840087890625] There were no refrigerators in the rooms.
+Parent: There were no refrigerators or microwaves in the rooms, and internet cost extra.
+
+----- Supporting -----
+
+[0.9179840087890625] The room did not have a refrigerator or microwave; the high speed internet connection in the room cost about $10.
+[0.8958587646484375] No frig or microwaves in Doubletree hotels, too many pillows on the bed.
+[0.21142578125] Overall, the room is nice, but could have a refrigerator in it for the price.
+[0.0399322509765625] Clean rooms, comfortable bed.
+[0.0330657958984375] The bed was very nice, room was clean, we even had a balcony.
+
+----- Weakening -----
+
+[-0.9980645179748535] I had a spacious and clean suite with fridge, microwave, nice sized table and a comfortable bed.
+[-0.8219680786132812] Lovely spacious Doubletree, with gift shop and a very good restaurant inside it.
+[-0.7775726318359375] There are also other choices, with several restaurants and fast food places within a very short walk.
+[-0.7709426879882812] Excellent morning breakfasts and the airport shuttle runs every 15 minutes but we have made the 10 minute walk numerous times to the airport terminal.
+[-0.756500244140625] There are restaurants all around, plus two in the hotel.
+
+**********
+
+[0.9790592193603516] The rooms did not have microwaves.
+Parent: There were no refrigerators or microwaves in the rooms, and internet cost extra.
+
+----- Supporting -----
+
+[0.9790592193603516] The room did not have a refrigerator or microwave; the high speed internet connection in the room cost about $10.
+[0.9510536193847656] No frig or microwaves in Doubletree hotels, too many pillows on the bed.
+[0.103515625] The room to which I was initially assigned had a broken lamp and a rip in the carpet.
+[0.0281982421875] Overall, the room is nice, but could have a refrigerator in it for the price.
+[0.026214599609375] Clean rooms, comfortable bed.
+
+----- Weakening -----
+
+[-0.9966592788696289] I had a spacious and clean suite with fridge, microwave, nice sized table and a comfortable bed.
+[-0.76617431640625] There are also other choices, with several restaurants and fast food places within a very short walk.
+[-0.7111358642578125] Lovely spacious Doubletree, with gift shop and a very good restaurant inside it.
+[-0.71099853515625] Excellent morning breakfasts and the airport shuttle runs every 15 minutes but we have made the 10 minute walk numerous times to the airport terminal.
+[-0.6749038696289062] The hotel is huge and they give you warm cookies once you check-in.
+
+**********
+
+[0.00927734375] The internet should be free.
+Parent: There were no refrigerators or microwaves in the rooms, and internet cost extra.
+
+----- Supporting -----
+
+[0.00927734375] If you're just crashing for the night, the hotel has 1 night hotel plus x days parking that's not a bad deal - no breakfast - no free wireless in the room - it's a fee - don't remember what it was since I've never used it - HUGE complex - both a plus and a minus - if you get one of the far wing rooms, you have a long way to walk after check-in Overall, I think it's a great value, especially if you get a Priceline rate.
+[-0.02907562255859375] The room did not have a refrigerator or microwave; the high speed internet connection in the room cost about $10.
+[-0.03438568115234375] With the $20 a night parking, internet fees, and insane food pricing I would expect a much more modern, bigger, and clean room.
+[-0.0487518310546875] Too bad considering the hotel facilities are lovely and the rooms are comfortable and spacious.
+[-0.07726287841796875] On the incoming leg earlier, we stayed across the street at the Hampton for about the same price, wireless internet, free parking and free breakfast.
+
+----- Weakening -----
+
+[-0.9192352294921875] We have stayed here a few times and keep coming back because it is good value for money.
+[-0.90899658203125] There are also other choices, with several restaurants and fast food places within a very short walk.
+[-0.9055328369140625] The breakfast in the restaurant was amazing, and the staff was very attentive and friendly.
+[-0.9017105102539062] My husband was hoping there was an indoor pool, but the pool was warm, and the hot tub was awesome.
+[-0.9014053344726562] Love that the hotel provided a shuttle from the airport to the hotel, every 15-20mins.
+
+**********
+
+[0.9899239540100098] The hallways smelled damp.
+Parent: Some guests also noted that the hallways had a damp smell.
+
+----- Supporting -----
+
+[0.9899239540100098] The wing hallways had a damp smell.
+[0.27935791015625] The crappy wings are old and the rooms smell musty.
+[0.01624298095703125] Physically, this is a very tired property.
+[0.010868072509765625] This Doubletree is very tired, and more like a 2 star property than a 3 star.
+[0.0037078857421875] It was a long ackward walk to our room.
+
+----- Weakening -----
+
+[-0.9788789749145508] The rooms are always clean, the beds great, bedding and bath linens top notch.
+[-0.9754819869995117] The Hotel was clean, great staff, was greeted with hot fresh cookies at the check-in counter.
+[-0.9739465713500977] The rooms were very clean and the staff was very nice.
+[-0.9671030044555664] Room was enormous, with balcony and was spotlessly clean.
+[-0.9660425186157227] The bed was amazingly comfortable.
+
+**********
+
+[0.48688507080078125] The reviews were positive.
+Parent: The reviews were positive, mentioning that the rooms were clean, spacious, and comfortable, with some having views of the airport or nearby forest.
+
+----- Supporting -----
+
+[0.48688507080078125] We've stayed in this hotel three times in the past 2 years and overall we've been very satisfied.
+[0.4755363464355469] We really liked the Doubletree Sea-Tac.
+[0.42945098876953125] Overall, it was OK - decent room, nice staff, convenient to airport.
+[0.3505439758300781] We just returned from a stay at the Doubletree Seattle Airport on both sides of our trip to Mexico and where nothing but pleased.
+[0.34113311767578125] Overall, a very nice surprise, I have read on here it is best to request a room in the main towers, if not I would definatly ask to be on the top floor.
+
+----- Weakening -----
+
+[-0.9879288673400879] What I found was rather run down and shabby.
+[-0.9835071563720703] Unfortunately, there was nothing memorable about the hotel itself; it was a huge place, reminiscent of a rambling casino hotel (but without the lights or the casino), but just bland.
+[-0.97930908203125] To sum up: Just nothing special, I'd rate this hotel as an average place.
+[-0.9646234512329102] The room service was horribly overpriced-- not only do they charge 18% more than listed price, the listed prices in the rooms are ALREADY higher than in the restaurant ($2 more on soups and $3-$8 more on entrees/burgers).
+[-0.9602842330932617] This hotel disappointed.
+
+**********
+
+[0.987757682800293] The rooms were clean.
+Parent: The reviews were positive, mentioning that the rooms were clean, spacious, and comfortable, with some having views of the airport or nearby forest.
+
+----- Supporting -----
+
+[0.987757682800293] The rooms were very clean and the staff was very nice.
+[0.9852638244628906] The rooms are clean and nicely appointed.
+[0.9797172546386719] The room was very clean and comfortable.
+[0.9754848480224609] The beds were comfortable and the room was very clean.
+[0.9740681648254395] The hotel was nice; good clean rooms.
+
+----- Weakening -----
+
+[-0.996891975402832] The bathroom was dirty and stained.
+[-0.9968481063842773] When we found our room we discovered that the bathroom hadn't been cleaned and there were dirty towels lying around.
+[-0.9963274002075195] Room was highly run down.
+[-0.9960699081420898] Upon further inspection of the room, the older bathroom wood doors were dirty from years of use-these "Hilton Honors" rooms really need refurbishing.
+[-0.9955711364746094] Bathroom floors seems dirty and needed to be regrouted.
+
+**********
+
+[0.9871582984924316] The rooms were spacious.
+Parent: The reviews were positive, mentioning that the rooms were clean, spacious, and comfortable, with some having views of the airport or nearby forest.
+
+----- Supporting -----
+
+[0.9871582984924316] The rooms are very spacious and very nice.
+[0.9846067428588867] The rooms were gorgeous and spacious and comfortable.
+[0.9822201728820801] The rooms were very spacious, modern and clean.
+[0.9667253494262695] Spacious room and very comfortable bedding.
+[0.9617223739624023] The room was spacious with a comfortable bed and a large selection of various pillows.
+
+----- Weakening -----
+
+[-0.9785308837890625] The fitness room is small but the bedrooms are standard.
+[-0.9775142669677734] Room was highly run down.
+[-0.9744644165039062] Rooms are not particularly posh or large.
+[-0.8003482818603516] The room was like staying in a basement, an old and mildew smell.
+[-0.7629127502441406] It is laid out in wings that make carrying your bags a nightmare, up elevators and down again.
+
+**********
+
+[0.975581169128418] The rooms were comfortable.
+Parent: The reviews were positive, mentioning that the rooms were clean, spacious, and comfortable, with some having views of the airport or nearby forest.
+
+----- Supporting -----
+
+[0.975581169128418] The rooms were gorgeous and spacious and comfortable.
+[0.9728050231933594] The room was very clean and comfortable.
+[0.9727401733398438] The rooms are comfortable and the cookies are great but getting smaller.
+[0.9644112586975098] The room was clean and bed comfortable.
+[0.9609165191650391] Pros: - cookies upon check-in - one of my favorite things about the Doubletrees - complimentary airport shuttle every 15 mins - nice pools, rooms are very comfortable with excellent beds and Neutrogena toiletries and Wolfgang Puck coffee - nice food selection in hotel Cons: - parking is expensive - $16/night.
+
+----- Weakening -----
+
+[-0.9712867736816406] Room was highly run down.
+[-0.941497802734375] The wing hallways had a damp smell.
+[-0.909881591796875] Bathroom floors seems dirty and needed to be regrouted.
+[-0.901641845703125] The crappy wings are old and the rooms smell musty.
+[-0.8928451538085938] The room to which I was initially assigned had a broken lamp and a rip in the carpet.
+
+**********
+
+[0.025214195251464844] The rooms with views of the airport were better.
+Parent: The reviews were positive, mentioning that the rooms were clean, spacious, and comfortable, with some having views of the airport or nearby forest.
+
+----- Supporting -----
+
+[0.025214195251464844] We needed a hotel near the airport for just one night, and selected the Doubletree.
+[0.016597747802734375] I was then given another "Hilton Honors" room.
+[0.0117340087890625] Decided to stay one night by the airport and used priceline to get a room and ended up with the doubletree at a good rate!
+[0.010303497314453125] The hotel is pretty big but the location next to the airport is great.
+[0.007556915283203125] Upgrade to King Corner Room or Penthouse to really treat yourself, balcony are amazing in these rooms.
+
+----- Weakening -----
+
+[-0.713287353515625] It has that "west-coast" feel to it with lots of wood and glimpses of green forrest outside.
+[-0.6882896423339844] This hotel is by a small lake and at dusk there are misquitos and misc.
+[-0.675933837890625] Out the back of mine (#5) the deck looked out into a forest.
+[-0.6312179565429688] The pool is very relaxing and big.
+[-0.5877723693847656] We had a double queen room in the tower, looking out towards the mountains.
+
+**********
+
+[0.6434326171875] The views from some rooms were of the nearby forest.
+Parent: The reviews were positive, mentioning that the rooms were clean, spacious, and comfortable, with some having views of the airport or nearby forest.
+
+----- Supporting -----
+
+[0.6434326171875] Out the back of mine (#5) the deck looked out into a forest.
+[0.357879638671875] The room had a large balcony overlooking a lake and on the 4th floor we were up in the trees.
+[0.20597457885742188] It has that "west-coast" feel to it with lots of wood and glimpses of green forrest outside.
+[0.0354766845703125] Room was typical for a double tree.
+[0.006866455078125] We really liked the Doubletree Sea-Tac.
+
+----- Weakening -----
+
+[-0.429168701171875] I asked for a room in the tower and the room was spacious with a nice king bed and a balcony that overlooked the airport.
+[-0.4005851745605469] (For the discounted price) The room was very large, faced the airport, but was still quiet.
+[-0.2980194091796875] We explored the other areas of this large hotel complex and noticed some rooms were actually are on a small lake, and others overlook the attractive outdoor pool.
+[-0.2220001220703125] There is no complimentary breakfast; there is a coffee shop and an espresso bar that also sells yogurt, bagels and pastries.
+[-0.2003326416015625] Went to breakfast and got some french toast.
+
+**********
+
+[0.9372577667236328] The rooms smelled bad.
+Parent: There were a few negative comments about particular rooms smelling bad, but otherwise the reviews were positive.
+
+----- Supporting -----
+
+[0.9372577667236328] The crappy wings are old and the rooms smell musty.
+[0.747283935546875] The wing hallways had a damp smell.
+[0.02092742919921875] But the bathroom was not so clean and it's a huge let-down for a hotel like this to be so neglected.
+[0.00679779052734375] When we found our room we discovered that the bathroom hadn't been cleaned and there were dirty towels lying around.
+[0.003192901611328125] It was a long ackward walk to our room.
+
+----- Weakening -----
+
+[-0.9930853843688965] Newer furniture, very comfortable bed with nice linens, two large sink areas and super clean.
+[-0.9930672645568848] The rooms were very clean and the staff was very nice.
+[-0.992948055267334] The hotel was nice; good clean rooms.
+[-0.9926114082336426] The beds were comfortable and the room was very clean.
+[-0.9915895462036133] Room was enormous, with balcony and was spotlessly clean.
+
+**********
+
+[0.48688507080078125] The reviews were positive.
+Parent: There were a few negative comments about particular rooms smelling bad, but otherwise the reviews were positive.
+
+----- Supporting -----
+
+[0.48688507080078125] We've stayed in this hotel three times in the past 2 years and overall we've been very satisfied.
+[0.4755363464355469] We really liked the Doubletree Sea-Tac.
+[0.42945098876953125] Overall, it was OK - decent room, nice staff, convenient to airport.
+[0.3505439758300781] We just returned from a stay at the Doubletree Seattle Airport on both sides of our trip to Mexico and where nothing but pleased.
+[0.34113311767578125] Overall, a very nice surprise, I have read on here it is best to request a room in the main towers, if not I would definatly ask to be on the top floor.
+
+----- Weakening -----
+
+[-0.9879288673400879] What I found was rather run down and shabby.
+[-0.9835071563720703] Unfortunately, there was nothing memorable about the hotel itself; it was a huge place, reminiscent of a rambling casino hotel (but without the lights or the casino), but just bland.
+[-0.97930908203125] To sum up: Just nothing special, I'd rate this hotel as an average place.
+[-0.9646234512329102] The room service was horribly overpriced-- not only do they charge 18% more than listed price, the listed prices in the rooms are ALREADY higher than in the restaurant ($2 more on soups and $3-$8 more on entrees/burgers).
+[-0.9602842330932617] This hotel disappointed.
+
+**********
+
+[0.131805419921875] The rooms at the Double Tree hotel are spacious.
+Parent: The rooms at the Double Tree hotel are spacious, clean, and comfortable, with great beds and pillows.
+
+----- Supporting -----
+
+[0.131805419921875] Lovely spacious Doubletree, with gift shop and a very good restaurant inside it.
+[0.1197509765625] The rooms in the wings are larger than those in the tower and if you get wings 2 or 3 closer than walking to the tower wing plus no elevator hassle.
+[0.07135009765625] Pros: - cookies upon check-in - one of my favorite things about the Doubletrees - complimentary airport shuttle every 15 mins - nice pools, rooms are very comfortable with excellent beds and Neutrogena toiletries and Wolfgang Puck coffee - nice food selection in hotel Cons: - parking is expensive - $16/night.
+[0.07074546813964844] The rooms are a good size, which is a bonus for me as I was traveling with my husband and two large teenaged sons in one room.
+[0.063385009765625] The good: large room, food at the restaurants (especially the clam chowder), bed, view from the elevators, service, shuttle every 20 minutes to and from the airport (5 minutes away) The bad: the insulation for the windows is awful, so the hotel is extremely noisy at night (at least if you are facing the airport): airplanes, busy airport boulevard, rooftop with furnaces/chillers etc.
+
+----- Weakening -----
+
+[-0.8570823669433594] Rooms are not particularly posh or large.
+[-0.7903556823730469] The Hilton is a great hotel, but the Doubletree is purely a nightmare.
+[-0.7502212524414062] The fitness room is small but the bedrooms are standard.
+[-0.7197227478027344] Room was highly run down.
+[-0.7081375122070312] It is laid out in wings that make carrying your bags a nightmare, up elevators and down again.
+
+**********
+
+[0.368438720703125] The rooms at the Double Tree hotel are clean.
+Parent: The rooms at the Double Tree hotel are spacious, clean, and comfortable, with great beds and pillows.
+
+----- Supporting -----
+
+[0.368438720703125] Pros: - cookies upon check-in - one of my favorite things about the Doubletrees - complimentary airport shuttle every 15 mins - nice pools, rooms are very comfortable with excellent beds and Neutrogena toiletries and Wolfgang Puck coffee - nice food selection in hotel Cons: - parking is expensive - $16/night.
+[0.1703948974609375] Yes, the hotel is large and somewhat dated - but the cleanliness and service is very goo d. My only blip was with a faulty magnetic door reader that prevented us from gaining access to our room.
+[0.04863739013671875] For an airport hotel, it was surprisingly quiet, rooms were extremely comfortable and well prepared, and the staff were all extremely helpful and courteous.
+[0.034699440002441406] Plenty big, nicely kept bathrooms, bed was fairly comfy.
+[0.03396034240722656] The beds were very comfortable, room large enough for wheelchair, and bathroom clean.
+
+----- Weakening -----
+
+[-0.9699578285217285] The bathroom was dirty and stained.
+[-0.9635782241821289] Upon further inspection of the room, the older bathroom wood doors were dirty from years of use-these "Hilton Honors" rooms really need refurbishing.
+[-0.9626636505126953] The crappy wings are old and the rooms smell musty.
+[-0.9602012634277344] When we found our room we discovered that the bathroom hadn't been cleaned and there were dirty towels lying around.
+[-0.9557437896728516] Bathroom floors seems dirty and needed to be regrouted.
+
+**********
+
+[0.9454994201660156] The rooms at the Double Tree hotel are comfortable.
+Parent: The rooms at the Double Tree hotel are spacious, clean, and comfortable, with great beds and pillows.
+
+----- Supporting -----
+
+[0.9454994201660156] Pros: - cookies upon check-in - one of my favorite things about the Doubletrees - complimentary airport shuttle every 15 mins - nice pools, rooms are very comfortable with excellent beds and Neutrogena toiletries and Wolfgang Puck coffee - nice food selection in hotel Cons: - parking is expensive - $16/night.
+[0.10074424743652344] The rooms are always clean, the beds great, bedding and bath linens top notch.
+[0.09477615356445312] The rooms are relatively spacious, our kids love the pool, and the breakfast buffet isn't a bad deal for what you get.
+[0.09477615356445312] The rooms are relatively spacious, our kids love the pool, and the breakfast buffet isn't a bad deal for what you get.
+[0.09477615356445312] The rooms are relatively spacious, our kids love the pool, and the breakfast buffet isn't a bad deal for what you get.
+
+----- Weakening -----
+
+[-0.90582275390625] The Hilton is a great hotel, but the Doubletree is purely a nightmare.
+[-0.8031539916992188] The crappy wings are old and the rooms smell musty.
+[-0.7158031463623047] I could not recommend this hotel.
+[-0.6451034545898438] Room was highly run down.
+[-0.638092041015625] The tower rooms do have balconies but the space is shared with the room next door and divided by a set of austere looking bars--plus there is no furniture to sit on so the balconies are not really functional.
+
+**********
+
+[0.8660736083984375] The beds at the Double Tree hotel are great.
+Parent: The rooms at the Double Tree hotel are spacious, clean, and comfortable, with great beds and pillows.
+
+----- Supporting -----
+
+[0.8660736083984375] Pros: - cookies upon check-in - one of my favorite things about the Doubletrees - complimentary airport shuttle every 15 mins - nice pools, rooms are very comfortable with excellent beds and Neutrogena toiletries and Wolfgang Puck coffee - nice food selection in hotel Cons: - parking is expensive - $16/night.
+[0.044001102447509766] We have stayed at the DoubleTree Seatac more than 15 times, love it.
+[0.0358734130859375] The good: large room, food at the restaurants (especially the clam chowder), bed, view from the elevators, service, shuttle every 20 minutes to and from the airport (5 minutes away) The bad: the insulation for the windows is awful, so the hotel is extremely noisy at night (at least if you are facing the airport): airplanes, busy airport boulevard, rooftop with furnaces/chillers etc.
+[0.0313258171081543] We've stayed at the Doubletree Seatac four or five times in the past few years, and we've always enjoyed our visits.
+[0.029155731201171875] The beds were very comfortable, room large enough for wheelchair, and bathroom clean.
+
+----- Weakening -----
+
+[-0.9863080978393555] The Hilton is a great hotel, but the Doubletree is purely a nightmare.
+[-0.9726033210754395] This hotel disappointed.
+[-0.9656057357788086] I would not recommend this hotel.
+[-0.9493408203125] The crappy wings are old and the rooms smell musty.
+[-0.9440774917602539] I could not recommend this hotel.
+
+**********
+
+[0.1258544921875] The pillows at the Double Tree hotel are great.
+Parent: The rooms at the Double Tree hotel are spacious, clean, and comfortable, with great beds and pillows.
+
+----- Supporting -----
+
+[0.1258544921875] No frig or microwaves in Doubletree hotels, too many pillows on the bed.
+[0.01617431640625] Pros: - cookies upon check-in - one of my favorite things about the Doubletrees - complimentary airport shuttle every 15 mins - nice pools, rooms are very comfortable with excellent beds and Neutrogena toiletries and Wolfgang Puck coffee - nice food selection in hotel Cons: - parking is expensive - $16/night.
+[0.0101470947265625] The room was quiet, very comfy beds and we enjoyed the view from the 10th floor; the room and hallways could use an update, but are perfectly adequate.
+[0.010054588317871094] It was a huge room with great bedding,sheet count & pillows.
+[0.008844375610351562] The room was nice, comfortable beds, good selection of pillows, nice TV channel selections (was no guide so I had to search for channels).
+
+----- Weakening -----
+
+[-0.9165792465209961] This hotel disappointed.
+[-0.9079570770263672] The Hilton is a great hotel, but the Doubletree is purely a nightmare.
+[-0.8827238082885742] I would not recommend this hotel.
+[-0.861262321472168] I could not recommend this hotel.
+[-0.8555908203125] This is a hotel in the Hilton chain and I was disappointed.....:(
+
+**********
+
+[0.9677133560180664] The hotel is close to restaurants.
+Parent: They are also close to restaurants and the airport.
+
+----- Supporting -----
+
+[0.9677133560180664] This hotel is a nice size and is convenient to the airport and restaurants.
+[0.9509754180908203] There are a few restaurants around the hotel area and you can also easily walk to the airport should you want to.
+[0.9446125030517578] The hotel was clean, beds were fine, hotel is located across the street from the air port, was within walking distance to a Denny's, Jack in the Box, and a steak place.
+[0.9221591949462891] Other restaurants were withing walking distance of the hotel.
+[0.7900161743164062] There are restaurants all around, plus two in the hotel.
+
+----- Weakening -----
+
+[-0.3409881591796875] The elevators for the tower are not close.
+[-0.13154983520507812] I could not recommend this hotel.
+[-0.12398147583007812] I would not recommend this hotel.
+[-0.08443069458007812] I will not stay in a Doubletree again.
+[-0.08068084716796875] --The doubletree is not just a hotel, its like a little village of condo buildings too, which makes it very crowded and hard to get around the property.
+
+**********
+
+[0.9892563819885254] The hotel is close to the airport.
+Parent: They are also close to restaurants and the airport.
+
+----- Supporting -----
+
+[0.9892563819885254] Very nice hotel, very close to the airport, walkable in fact to the terminals in less than 10 minutes or one can take a free shuttle bus.
+[0.984860897064209] The hotel is very close to the airport and sometimes we walk.
+[0.9743556976318359] Even though the hotel was close to the airport, you couldn't haer the planes taking off, it was quiet and very relaxing.
+[0.9659152030944824] The hotel is pretty big but the location next to the airport is great.
+[0.9599094390869141] We would highly recommend this hotel for before and after cruising because it is minutes from the airport and is lovely.
+
+----- Weakening -----
+
+[-0.9556269645690918] This hotel is by a small lake and at dusk there are misquitos and misc.
+[-0.7396965026855469] Out the back of mine (#5) the deck looked out into a forest.
+[-0.6334457397460938] The room had a large balcony overlooking a lake and on the 4th floor we were up in the trees.
+[-0.4547882080078125] There was a huge wrap around balcony with a view of the glass elavators and a view of the Cascade Mts.
+[-0.376708984375] We LIKED the fact that it was close to new rapid transit terminal which we chose to take to stadium.

@@ -1,0 +1,86 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.5187733173370361
+
+**********
+
+[0.035552978515625] The hotel is clean.
+Parent: The accounts indicated that the hotel was generally clean, but there were some complaints about specific areas not being clean enough.
+
+----- Supporting -----
+
+[0.035552978515625] The valet man was excellent.
+[0.0274810791015625] The bed was amazingly comfortable, and the decor in good taste (lots of texture, neutral tone, and rich burgandy to soothe the spirit).
+[0.022247314453125] The only aspect of the hotel that could be improved, in my opinion, is the fitness center -- it's in the basement and has older equipment.
+[0.01595306396484375] The decor fits well with the holidays.
+[0.0102996826171875] There is a coffee maker and an empty refrigerator.
+
+----- Weakening -----
+
+[-0.9832925796508789] Our toliet overflowed at 11pm resulting in a flood in our bathroom.
+[-0.9531211853027344] The heater came off and on frequently and it made a jarring clicking noise each time...all night long.
+[-0.8943262100219727] They just seem unsanitary to me.
+[-0.8279762268066406] When I had got back to my room the first day I was there housekeeping had still not been to my room, I had left at 9am and it was then 3:30.
+[-0.79766845703125] My gripe was that housekeeping must have noticed this when they changed the sheets, but made no attempt at cleaning the mattress and simply covered it back up.
+
+**********
+
+[0.25232791900634766] Some areas of the hotel were not clean enough.
+Parent: The accounts indicated that the hotel was generally clean, but there were some complaints about specific areas not being clean enough.
+
+----- Supporting -----
+
+[0.25232791900634766] When I had got back to my room the first day I was there housekeeping had still not been to my room, I had left at 9am and it was then 3:30.
+[0.2277984619140625] The A/C, no matter how low it was set, didn't keep the room very cool.
+[0.15407943725585938] My gripe was that housekeeping must have noticed this when they changed the sheets, but made no attempt at cleaning the mattress and simply covered it back up.
+[0.146026611328125] Our toliet overflowed at 11pm resulting in a flood in our bathroom.
+[0.119659423828125] The maids had left the alarm on from the last guest (a major pet peeve of mine) and so we were awakened at 7 a.m. And, a large group of guests arrived in the room next door at 7:30 and the lack of soundproofing between connecting rooms became glaringly apparent.
+
+----- Weakening -----
+
+[-0.09296417236328125] It's Asian inspired and they have some incredible little dishes of sushi and japanese type dishes.
+[-0.035419464111328125] The bed was amazingly comfortable, and the decor in good taste (lots of texture, neutral tone, and rich burgandy to soothe the spirit).
+[-0.03466796875] Monorail super close.
+[-0.029584884643554688] We were also provided with free Wifi, which was great!
+[-0.028583526611328125] Free wi-fi.
+
+**********
+
+[0.9127883911132812] The fitness center was mentioned.
+Parent: In particular, the fitness center was mentioned as being in need of more attention.
+
+----- Supporting -----
+
+[0.9127883911132812] The only aspect of the hotel that could be improved, in my opinion, is the fitness center -- it's in the basement and has older equipment.
+[0.72344970703125] The only thing I didn't care for was the fitness center, which was sort of a dungeon in the basement.
+[0.514404296875] Has fitness (I did not use it), free Wi-Fi and a desk where you can print e.g.
+[0.16680908203125] They do have free weights and a bench though so I used those instead.
+[-0.0181884765625] The A/C, no matter how low it was set, didn't keep the room very cool.
+
+----- Weakening -----
+
+[-0.9539909362792969] Pikes Market was 4 blocks away.
+[-0.868682861328125] Monorail super close.
+[-0.8379974365234375] Only one block walk to the Nordstrom flagship store, three blocks to Macy's and about six to Pike Place Market.
+[-0.823333740234375] ps: the chocolate truffles that was promoted through a Foursquare check-in was extremely good.
+[-0.8157958984375] The Dragonfish Sushi is right in the hotel downstairs.
+
+**********
+
+[0.8744239807128906] The fitness center needs more attention.
+Parent: In particular, the fitness center was mentioned as being in need of more attention.
+
+----- Supporting -----
+
+[0.8744239807128906] The only aspect of the hotel that could be improved, in my opinion, is the fitness center -- it's in the basement and has older equipment.
+[0.003932952880859375] I notified the front desk to make sure it was cleaned at some point.
+[0.003086090087890625] The only thing I didn't care for was the fitness center, which was sort of a dungeon in the basement.
+[0.001323699951171875] They just seem unsanitary to me.
+[-4.9591064453125e-05] The A/C, no matter how low it was set, didn't keep the room very cool.
+
+----- Weakening -----
+
+[-0.6060791015625] It's Asian inspired and they have some incredible little dishes of sushi and japanese type dishes.
+[-0.579864501953125] We were also provided with free Wifi, which was great!
+[-0.474029541015625] The bed was amazingly comfortable, and the decor in good taste (lots of texture, neutral tone, and rich burgandy to soothe the spirit).
+[-0.4219474792480469] Free wi-fi.
+[-0.36447906494140625] The best thing is they have an empty fridge so you can put all your goodies that you buy from pike place inside

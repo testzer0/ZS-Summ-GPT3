@@ -1,0 +1,107 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.47943811416625975
+
+**********
+
+[0.129913330078125] This hotel is not as good as the 3 star hotels down the street.
+Parent: There are 3 and 4 star hotels just down the street from this one , and half the price .
+
+----- Supporting -----
+
+[0.129913330078125] Overall a very good hotel to use as a base for exploring Toronto but not quite up to the Marriott standards I have come to expect.
+[0.0743560791015625] There are 3 and 4 star hotels just down the street from this one, and half the price.
+[0.006259918212890625] The rest of my stay was great but definately need to get a new system in place for business travellers.. Id recommend Hilton Downtown or Marriott Airport Locations for Business Trips.
+[0.002025604248046875] But there are so many hotel options for Toronto that we'll probably given another one a try next time.
+[0.0] Dean
+
+----- Weakening -----
+
+[-0.7114295959472656] This hotel was a nicer style than most and ranked up there with the downtown waterfront Seattle Marriott for style and a cool bar to chill at in the lobby.
+[-0.7030277252197266] The location canâ€™t be beat, youâ€™re right in the heart of the city, right next to the Eaton Centre and steps away from the hive of Dundas Square.
+[-0.6617469787597656] Cannot complain about hotel.
+[-0.606201171875] (1) Location of the hotel is ideal , my wife was thrilled as it was within short walling distance to the Eaton center one of the largest shopping centers in Toronto (2) Room is spacious compared to other 4 star hotels, good furniture, clean and neat (3) Good entertainment with LCD 37 inch TV with on demand movies and more (4) Staff are friendly and professional, good staffing numbers very adequate (5) Breakfast was great and included in the price of around US$ 200 per night , very fair price for this hotel, the breakfast included fresh fruits (Produce of Canada) and eggs and an egg station and many other delights
+[-0.6059303283691406] This is an excellent hotel.
+
+**********
+
+[0.3427734375] This hotel is not as good as the others down the street.
+Parent: There are 3 and 4 star hotels just down the street from this one , and half the price .
+
+----- Supporting -----
+
+[0.3427734375] There are 3 and 4 star hotels just down the street from this one, and half the price.
+[0.248077392578125] There were only 3 minor disappointments -- the concierge lounge was full of families with kids so breakfast was a bit noisy and crowded, the rooftop pool was small and also full of kids, and food at the hotel was pricey -- we got better quality food at more reasonable prices at nearby restaurants.
+[0.1335601806640625] During our recent trip we stayed in 5 hotels in Canada and this was by far the worst.
+[0.03673553466796875] We didn't make use of the hotel restaurant, as there are so many great restaurants in the neighbourhood - the staff are only too happy to recommend places and make reservations for you.
+[0.03522491455078125] For business use the hotel gets a C, it was a poor service compared to the others.
+
+----- Weakening -----
+
+[-0.9258527755737305] This is an excellent hotel.
+[-0.923893928527832] The location canâ€™t be beat, youâ€™re right in the heart of the city, right next to the Eaton Centre and steps away from the hive of Dundas Square.
+[-0.9158554077148438] This hotel was a nicer style than most and ranked up there with the downtown waterfront Seattle Marriott for style and a cool bar to chill at in the lobby.
+[-0.889803409576416] I would highly recommend this hotel.
+[-0.862457275390625] The bar and main restaurant is on par with other Marriotts I've been to.
+
+**********
+
+[0.933197021484375] The hotels down the street are cheaper.
+Parent: There are 3 and 4 star hotels just down the street from this one , and half the price .
+
+----- Supporting -----
+
+[0.933197021484375] There are 3 and 4 star hotels just down the street from this one, and half the price.
+[0.000701904296875] (1) Location of the hotel is ideal , my wife was thrilled as it was within short walling distance to the Eaton center one of the largest shopping centers in Toronto (2) Room is spacious compared to other 4 star hotels, good furniture, clean and neat (3) Good entertainment with LCD 37 inch TV with on demand movies and more (4) Staff are friendly and professional, good staffing numbers very adequate (5) Breakfast was great and included in the price of around US$ 200 per night , very fair price for this hotel, the breakfast included fresh fruits (Produce of Canada) and eggs and an egg station and many other delights
+[0.0005435943603515625] The rate was a little high, but the location is quite good.
+[9.72747802734375e-05] We'll come back (although it is not cheap...).
+[0.0] Dean
+
+----- Weakening -----
+
+[-0.3364410400390625] We were working on an important project.
+[-0.3050994873046875] Friday AM I had surgery.
+[-0.23614501953125] What made it even more special was that they sent up to the room chocolate dipped strawberries and drinks along with a anniversary card signed by each member of thier team.
+[-0.21964645385742188] This adds up for someone who needs to be connected.
+[-0.186279296875] I understand that for safety reasons the alarm was necessary, but did not understand why the annoucements continued every 5 minutes advising that they were looking into the matter and would provide further information later.
+
+**********
+
+[0.9881863594055176] The food was excellent.
+Parent: The food was excellent .
+
+----- Supporting -----
+
+[0.9881863594055176] The food was excellent.
+[0.9639906883239746] We never went hungry and the quality of the food was excellent.
+[0.9487361907958984] Food was good and service from all of the staff was extremely professional.
+[0.9468741416931152] The food quality in the restaurant was very good.
+[0.9355440139770508] The meal itself was extremely good, it is well worth your money to have a meal there, you won't be disappointed.
+
+----- Weakening -----
+
+[-0.9973726272583008] Food presentation was fancy, but the food didn't taste very good.
+[-0.9968085289001465] We are NOT demanding restaurant a patrons, but both the food and the service was poor.
+[-0.9964466094970703] The restaurant is not very good, so I would not eat in the restaurant unless you have to.
+[-0.9932217597961426] Restaurant OK but slow; nothing special.
+[-0.9895401000976562] Concierge lounge nibbles in the evening were a little disappointing, but the staff were friendly (I think this area used to be the old steak house).
+
+**********
+
+[0.00312042236328125] The Toronto Marriott hotels are more expensive than this one.
+Parent: It think it may also be the most expensive of all of the Toronto Marriott hotels .
+
+----- Supporting -----
+
+[0.00312042236328125] Overall a very good hotel to use as a base for exploring Toronto but not quite up to the Marriott standards I have come to expect.
+[0.0] Dean
+[0.0] Really?
+[0.0] !
+[0.0] !
+
+----- Weakening -----
+
+[-0.41454315185546875] There are 3 and 4 star hotels just down the street from this one, and half the price.
+[-0.40673828125] It think it may also be the most expensive of all of the Toronto Marriott hotels.
+[-0.286651611328125] toronto air express bus to airport was fast - take a $10 cab to get picked up at westin then $20 to take bus - o/w will sit on bus for 40 minutes before you even leave for the airport (still better than $60 taxi).
+[-0.26917266845703125] For those looking for shopping, the Eaton Centre is literally next door.
+[-0.22666549682617188] The Eaton Centre is just steps away.

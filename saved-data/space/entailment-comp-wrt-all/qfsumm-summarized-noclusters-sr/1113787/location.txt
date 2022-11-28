@@ -1,0 +1,170 @@
+***** Aspect: location Model Type : zs *****
+Overall score: 0.9654456973075867
+
+**********
+
+[0.9878058433532715] The hotel is 40 minutes from DFW airport.
+Parent: The hotel is about 40 minutes from DFW airport in downtown Dallas .
+
+----- Supporting -----
+
+[0.9878058433532715] The hotel is about 40 minutes from DFW airport in downtown Dallas.
+[0.0005893707275390625] Good location and very helpful staff.
+[0.0] The pool!
+[0.0] jackpot.
+[0.0] !
+
+----- Weakening -----
+
+[-0.7299270629882812] Need a ride to the State Fair?
+[-0.35645294189453125] I was so livid with how it was being handled that I was ready to completely lose it.
+[-0.3497352600097656] It needs to be removed ASAP.
+[-0.27742767333984375] I find that very unproffessional as a manager not to be stocked or offer to go get what the customer is requesting.
+[-0.26078033447265625] As an order of french toast was around $20 I decided to walk down the street (out the front, down one block to left, take a left and Seven Eleven was on the right) and get a donut and some milk.
+
+**********
+
+[0.9867563247680664] The hotel is in downtown Dallas.
+Parent: The hotel is about 40 minutes from DFW airport in downtown Dallas .
+
+----- Supporting -----
+
+[0.9867563247680664] The hotel is located in the heart of downtown Dallas near several shops and restaurants.
+[0.9588642120361328] The Joule is one of the best hotels in downtown Dallas, the interior of the hotel is gorgeous as are the rooms.
+[0.928741455078125] The hotel is about 40 minutes from DFW airport in downtown Dallas.
+[0.9052810668945312] The hotel sits in the heart of Dallas.
+[0.8782577514648438] I would highly recommend this hotel as a great place to get away and enjoy downtown Dallas.
+
+----- Weakening -----
+
+[-0.6297760009765625] We had dinner at Nobu which is in Crescent Court which was really good too.
+[-0.597259521484375] Went to Joule for anniversary get-away.
+[-0.5916595458984375] In a New York minute.
+[-0.43170166015625] Need a ride to the State Fair?
+[-0.4241943359375] Also for the ladies one of Dallas' best spas (Sedona - lady's only) is across the street but make sure and get appointment in advance as my wife couldn't get same day appointment on Saturday.
+
+**********
+
+[0.9748687744140625] The front desk area is not huge.
+Parent: The front deks area is not huge , but has a farily open seating and meeting place .
+
+----- Supporting -----
+
+[0.9748687744140625] The front deks area is not huge, but has a farily open seating and meeting place.
+[0.504302978515625] 2 - We stayed in the Demi-Joule room and it was very small.
+[0.38818359375] The rooms are tiny and open like most W's and the focus on being trendy, not on customer service nor amenities.
+[0.27044677734375] The pool was nice as was the fitness center but with tiny cramped rooms, lack of customer service (I tried calling the desk 3 times and never go through) and the loading dock at the front of the building, I wouldn't recommend it.
+[0.267425537109375] The Joule is not luxurious in comparison and not sure why Starwood has it branded as such.
+
+----- Weakening -----
+
+[-0.66729736328125] It was very crowded, you could barely move, but the drinks were very good.
+[-0.5362167358398438] Darrell went out of his way to make our visit extra special!
+[-0.4844818115234375] I cant say enough about The Joule.
+[-0.4559326171875] It is one of a kind and nothing else can compare in Dallas or wherever you may be....
+[-0.45556640625] The pool is small but they keep it very cool and refreshing.
+
+**********
+
+[0.811767578125] The front desk area is open and spacious.
+Parent: The front deks area is not huge , but has a farily open seating and meeting place .
+
+----- Supporting -----
+
+[0.811767578125] The front deks area is not huge, but has a farily open seating and meeting place.
+[0.0830078125] The Joule is an absolute Jewel.
+[0.065765380859375] The Joule is a sexy, elegant, fun, cool and incredibly unique experience.
+[0.0528717041015625] Afterwards you can write your own review on this intimate and polished hotel.
+[0.05004119873046875] The Joule really is a gem and I would return but probably would opt for a different room catogory
+
+----- Weakening -----
+
+[-0.9850521087646484] Only little tiny thing is the location ...
+[-0.9804391860961914] This hotel has a very cramped feel.
+[-0.9718217849731445] Dark and moody still.
+[-0.9596271514892578] The pool was nice as was the fitness center but with tiny cramped rooms, lack of customer service (I tried calling the desk 3 times and never go through) and the loading dock at the front of the building, I wouldn't recommend it.
+[-0.9494400024414062] The rooms were pretty tight, but were definitely comfy and unique.
+
+**********
+
+[0.9895281791687012] The room was spacious.
+Parent: The room was spacious enough , with a big glass wall on the outside , a 42 " flat screen TV , and terrific lighting arrangements that allowed you to adjust the brightness in various parts of the room .
+
+----- Supporting -----
+
+[0.9895281791687012] The room was spacious enough, with a big glass wall on the outside, a 42" flat screen TV, and terrific lighting arrangements that allowed you to adjust the brightness in various parts of the room.
+[0.9650516510009766] The Joule Suite was classy, comfortable and spacious.
+[0.9318618774414062] absolutely beautiful property, rooms are spacious and modern, roof-top pool area is excellent, and restaurant is 5-star.
+[0.8318023681640625] The beds were comfortable, the bathrooms are spacious and luxurious with all the amenities you could ask for.
+[0.717620849609375] Having said at, the bathroom was big, and really nice.
+
+----- Weakening -----
+
+[-0.9961414337158203] The pool was nice as was the fitness center but with tiny cramped rooms, lack of customer service (I tried calling the desk 3 times and never go through) and the loading dock at the front of the building, I wouldn't recommend it.
+[-0.9951753616333008] The rooms are tiny and open like most W's and the focus on being trendy, not on customer service nor amenities.
+[-0.9947872161865234] Only little tiny thing is the location ...
+[-0.994598388671875] This hotel has a very cramped feel.
+[-0.9940643310546875] The room was surprisingly small and the bed was terrible, i liked the idea of a round bed as it is unique but it was very awkward and felt cheap..not a luxury collection standard.
+
+**********
+
+[0.9930710792541504] The room had a big glass wall on the outside.
+Parent: The room was spacious enough , with a big glass wall on the outside , a 42 " flat screen TV , and terrific lighting arrangements that allowed you to adjust the brightness in various parts of the room .
+
+----- Supporting -----
+
+[0.9930710792541504] The room was spacious enough, with a big glass wall on the outside, a 42" flat screen TV, and terrific lighting arrangements that allowed you to adjust the brightness in various parts of the room.
+[0.00084686279296875] This is the Perfect Hotel!!!
+[0.000469207763671875] Having said at, the bathroom was big, and really nice.
+[0.0] The pool!
+[0.0] jackpot.
+
+----- Weakening -----
+
+[-0.9087905883789062] My kids especially liked the drapes the separated the bedroom from the bathroom area.
+[-0.8773651123046875] Two balconies offer two views.
+[-0.851806640625] We loved the auto curtains and bathroom facilities.
+[-0.84326171875] I opened my curtains to a view of the construction site.
+[-0.701171875] the balcony was so cute, had a little picnic table with a great view of the city.
+
+**********
+
+[0.9934549331665039] The room had a 42" flat screen TV.
+Parent: The room was spacious enough , with a big glass wall on the outside , a 42 " flat screen TV , and terrific lighting arrangements that allowed you to adjust the brightness in various parts of the room .
+
+----- Supporting -----
+
+[0.9934549331665039] The room was spacious enough, with a big glass wall on the outside, a 42" flat screen TV, and terrific lighting arrangements that allowed you to adjust the brightness in various parts of the room.
+[0.00096893310546875] It was so nice!!!
+[0.00034809112548828125] We stayed in a Junior Suite and it was well equipped.
+[0.0002880096435546875] Not only was the hotel incredible with an amazing room, but the service and amenities are top notch.
+[0.0002689361572265625] I know that from Jennifer that checked us in with her welcoming smile we would have a good time.
+
+----- Weakening -----
+
+[-0.9092721939086914] It was a salt water pool on the 12th floor that juts out over Main Street in Dallas.
+[-0.8442840576171875] The pool is small but they keep it very cool and refreshing.
+[-0.8176651000976562] We used the house car, a Cadillac Escalade which took us around, nice touch but the car wasnt as clean as it should have been and the driver didnt seem like he wanted to take us.
+[-0.7995758056640625] We both loved the shower.
+[-0.7237548828125] Biggest issue was when we picked up our car from the valet parking.
+
+**********
+
+[0.9863128662109375] The room had adjustable lighting that could be set to different levels of brightness.
+Parent: The room was spacious enough , with a big glass wall on the outside , a 42 " flat screen TV , and terrific lighting arrangements that allowed you to adjust the brightness in various parts of the room .
+
+----- Supporting -----
+
+[0.9863128662109375] The room was spacious enough, with a big glass wall on the outside, a 42" flat screen TV, and terrific lighting arrangements that allowed you to adjust the brightness in various parts of the room.
+[0.8982391357421875] Loved the low, medium & high settings on the lighting, this is great if you're not a morning person like myself!!
+[0.8928241729736328] When we got to our room it was very modern and high tech with all of the light switches and lamp knobs.
+[0.66558837890625] The suite does come with dimmers on all of the light switches.....
+[0.5580368041992188] No need to lean across the bed to turn off a nightstand light, just push the fixture back into the headboard!
+
+----- Weakening -----
+
+[-0.5341339111328125] The only service which was spot on was the car parking service and staff.
+[-0.4734516143798828] I do think it is a lovely hotel but I would like to mention the lighting in the rooms was terrible.
+[-0.3809814453125] Biggest issue was when we picked up our car from the valet parking.
+[-0.3710784912109375] Cons: Service is terrible!!
+[-0.268402099609375] We used the house car, a Cadillac Escalade which took us around, nice touch but the car wasnt as clean as it should have been and the driver didnt seem like he wanted to take us.

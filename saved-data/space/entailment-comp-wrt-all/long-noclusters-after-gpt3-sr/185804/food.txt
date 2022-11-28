@@ -1,0 +1,23 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.9794244766235352
+
+**********
+
+[0.9794244766235352] The food was great.
+Parent: The reviews said that the food was great.
+
+----- Supporting -----
+
+[0.9794244766235352] The restaurant food was excellent.
+[0.9724454879760742] The food was superb, and the atmosphere is wonderful - right on the water.
+[0.9622454643249512] The event I attended had a lunch and reception in the restaurant and the food was fantastic.
+[0.9611883163452148] The food and service were outstanding.
+[0.9466762542724609] Service was fast, the food was very good and the dining room had nice water views.
+
+----- Weakening -----
+
+[-0.995849609375] For old times sake, we even had lunch at the Old Spaghetti Factory, but the food wasn't very good, so we decided to give the city a miss and pootle around the Island instead .
+[-0.9934272766113281] Food isnt great but you are right by the market.
+[-0.9908413887023926] * The restaurant has a very limited and boring menu and the service is terrible.
+[-0.9833207130432129] I didn't have any meals at the hotel so can't comment on that.
+[-0.973114013671875] The location is great, the waitstaff good and the food ok.

@@ -1,0 +1,170 @@
+***** Aspect: service Model Type : zs *****
+Overall score: 0.7897200584411621
+
+**********
+
+[0.9778742790222168] The service was friendly.
+Parent: Overall, reviewers thought the service was friendly and efficient.
+
+----- Supporting -----
+
+[0.9778742790222168] The hotel staff was friendly and accomodating.
+[0.9596686363220215] The front desk staff was friendly and helpful.
+[0.9574413299560547] The staff was friendly and we appreciated the cookies after a long flight when we were waiting to check inn.
+[0.9470491409301758] The staff was friendly and helpful and we enjoyed the warm, chocolate chip cookie we were given at check-in.
+[0.9454965591430664] The airport shuttle service was great, friendly and on-time.
+
+----- Weakening -----
+
+[-0.9962377548217773] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+[-0.9911117553710938] Coffee shop service was horrible.
+[-0.9691638946533203] The shuttle was hot and smelly again and people were mad.
+[-0.9392871856689453] I took a taxi as everyone was trying to cram into the shuttle with no respect for first-come-first-served.
+[-0.8750991821289062] Waitress never brought the items we requested and the order was askew.
+
+**********
+
+[0.9623985290527344] The service was efficient.
+Parent: Overall, reviewers thought the service was friendly and efficient.
+
+----- Supporting -----
+
+[0.9623985290527344] The service in both the casual restaurant at breakfast and the dining room in the evening was efficient.
+[0.9317560195922852] The Front staff were friendly and efficient in getting us checked in and taken care of.
+[0.9280481338500977] The hotel employees were very polite and most efficient: we were on our way to our room within 30 seconds, warm cookies in hand.
+[0.6841926574707031] Shuttle service was very quick with plenty of buses on hand.
+[0.6419677734375] The shuttle is convenient and reliable.
+
+----- Weakening -----
+
+[-0.9912872314453125] Service in the more upscale of the two restaurants was almost unbearably slow and the food was cold when it finally arrived after over a hour at our table.
+[-0.9910545349121094] Waitress never brought the items we requested and the order was askew.
+[-0.9910364151000977] Coffee shop service was horrible.
+[-0.9837150573730469] The service at the hotel coffee shop was really slow and the waiter seemed really bothered by having to come to our table to see what we wanted.
+[-0.9785041809082031] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+
+**********
+
+[0.9495954513549805] The cookies at check-in were warm.
+Parent: They appreciated the warm cookies at check-in, and thought the shuttle service was quick and convenient.
+
+----- Supporting -----
+
+[0.9495954513549805] The staff was friendly and helpful and we enjoyed the warm, chocolate chip cookie we were given at check-in.
+[0.9331655502319336] Although there was a queue at check in the staff offered us warm cookies and appologised for the delay.
+[0.8709068298339844] We arrived very late, were greeted at the desk by a friendly employee who handed us a warm chocolate chip cookie to munch on while we were waiting for our room key.
+[0.8483753204345703] We were greeted by very nice front desk staff and were given the Doubletree warm welcome cookies...what a nice touch!
+[0.4315624237060547] The hotel employees were very polite and most efficient: we were on our way to our room within 30 seconds, warm cookies in hand.
+
+----- Weakening -----
+
+[-0.7287559509277344] It must be an unhappy place to work because it sure comes through to the customer.
+[-0.6028728485107422] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+[-0.4369964599609375] I was disappointed to learn there was a fee for parking ($16+tax), a fee for Internet ($5 for one hour), no simple breakfast included.
+[-0.41762542724609375] Coffee shop service was horrible.
+[-0.40601348876953125] The internet fees are a HUGE scam-- $12-$15 for 24 hours.
+
+**********
+
+[0.9084005355834961] The shuttle service was quick and convenient.
+Parent: They appreciated the warm cookies at check-in, and thought the shuttle service was quick and convenient.
+
+----- Supporting -----
+
+[0.9084005355834961] Shuttle service is very quick and so great!
+[0.7941665649414062] The shuttle service to the airport ran frequently and was very convenient.
+[0.6990432739257812] The shuttle is convenient and reliable.
+[0.6951580047607422] Shuttle service was very quick with plenty of buses on hand.
+[0.6340465545654297] The shuttle was an extremely convenient as well.
+
+----- Weakening -----
+
+[-0.9933891296386719] The service at the hotel coffee shop was really slow and the waiter seemed really bothered by having to come to our table to see what we wanted.
+[-0.9868936538696289] In fact, the free shuttle probably spends more time driving back to the hotel than it would probably take to just walk back across the street.
+[-0.982755184173584] Waitress never brought the items we requested and the order was askew.
+[-0.9804525375366211] I took a taxi as everyone was trying to cram into the shuttle with no respect for first-come-first-served.
+[-0.9803838729858398] Coffee shop service was horrible.
+
+**********
+
+[0.12786865234375] The cost of parking was too high.
+Parent: There were a few complaints about the cost of parking and internet, but overall reviewers thought the staff were courteous and helpful.
+
+----- Supporting -----
+
+[0.12786865234375] I was disappointed to learn there was a fee for parking ($16+tax), a fee for Internet ($5 for one hour), no simple breakfast included.
+[0.01369476318359375] What they didn't tell us when booking on the website is that the parking is $16 per night and the internet in the rooms is not wireless.
+[-0.005612373352050781] So we almost missed our flight.
+[-0.00677490234375] We had to go searching for our check to pay it.
+[-0.007552623748779297] If I had been wanting to stay for more than one night, be close to anything interesting (other than the artificially created world of SEATAC), or wanted to get some business done, this would not have been the best hotel.
+
+----- Weakening -----
+
+[-0.8641891479492188] The internet fees are a HUGE scam-- $12-$15 for 24 hours.
+[-0.8508872985839844] They are dedicated and helpful to your every need.
+[-0.8489112854003906] After a good nights sleep, the free shuttle to the airport saved us a lot of stress!
+[-0.8245086669921875] Love riding the Rail from SeaTac to downtown and the Monorial is $2.00 to the Space Needle.
+[-0.8188257217407227] The shuttle service to the airport ran frequently and was very convenient.
+
+**********
+
+[0.41762542724609375] The cost of internet was too high.
+Parent: There were a few complaints about the cost of parking and internet, but overall reviewers thought the staff were courteous and helpful.
+
+----- Supporting -----
+
+[0.41762542724609375] The internet fees are a HUGE scam-- $12-$15 for 24 hours.
+[0.12906646728515625] I was disappointed to learn there was a fee for parking ($16+tax), a fee for Internet ($5 for one hour), no simple breakfast included.
+[0.06293487548828125] Verify internet price-not free.
+[0.0084075927734375] But still charging for the internet!!
+[0.0054645538330078125] We had to go searching for our check to pay it.
+
+----- Weakening -----
+
+[-0.9365119934082031] Free internet usage in the lobby too!
+[-0.9133090972900391] Free internet access in the lobby only and open 24 hrs.
+[-0.7807579040527344] Internet is free if you have HH Gold and works well.
+[-0.770543098449707] The staff are exceptional and the quality without question.
+[-0.7582283020019531] The free airport shuttle runs every 15 mins or so and really helped us catch our flight the next morning.
+
+**********
+
+[0.9874734878540039] The staff was courteous.
+Parent: There were a few complaints about the cost of parking and internet, but overall reviewers thought the staff were courteous and helpful.
+
+----- Supporting -----
+
+[0.9874734878540039] Staff is very courteous and friendly.
+[0.9834413528442383] All staff were very courteous and helpful.
+[0.9816689491271973] The hotel staff was courteous and very helpful with our questions.
+[0.9701395034790039] The hotel staff was friendly and accomodating.
+[0.9657020568847656] The hotel employees were very polite and most efficient: we were on our way to our room within 30 seconds, warm cookies in hand.
+
+----- Weakening -----
+
+[-0.9966764450073242] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+[-0.9590835571289062] Waitress never brought the items we requested and the order was askew.
+[-0.9525184631347656] Robert immediately stepped in front of my husband and folded his arms and gave my husband many excuses why it was our fault we didn't have the bed yet.
+[-0.9470348358154297] I took a taxi as everyone was trying to cram into the shuttle with no respect for first-come-first-served.
+[-0.9153900146484375] The service at the hotel coffee shop was really slow and the waiter seemed really bothered by having to come to our table to see what we wanted.
+
+**********
+
+[0.9865241050720215] The staff was helpful.
+Parent: There were a few complaints about the cost of parking and internet, but overall reviewers thought the staff were courteous and helpful.
+
+----- Supporting -----
+
+[0.9865241050720215] The staff people were really helpful and nice.
+[0.9807133674621582] The front desk staff was friendly and helpful.
+[0.9772539138793945] The staff was very helpful with all my business and pesonal needs.
+[0.9740104675292969] Staff are friendly and helpful, the rooms are decent, and it's very close to the airport.
+[0.9704151153564453] All staff were very courteous and helpful.
+
+----- Weakening -----
+
+[-0.9965181350708008] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+[-0.9601364135742188] Waitress never brought the items we requested and the order was askew.
+[-0.92535400390625] He made no offer to assist.
+[-0.8679656982421875] The service at the hotel coffee shop was really slow and the waiter seemed really bothered by having to come to our table to see what we wanted.
+[-0.7708816528320312] I booked a post-cruise package and the staff did not know how that worked.

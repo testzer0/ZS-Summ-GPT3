@@ -1,0 +1,527 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.8679721641540528
+
+**********
+
+[0.9652862548828125] The building was clean.
+Parent: The building was clean and comfortable, but there were some issues with the furniture.
+
+----- Supporting -----
+
+[0.9652862548828125] Hotel was very clean, very quiet, great for a business trip.
+[0.93621826171875] Hotel is extremely clean and quiet, and the staff is very helpful.
+[0.9135265350341797] The best included the cleanliness, the attention to detail with lighting and electrical outlets, the comfortable furniture, the robes, the great shower, the refrigerator, the windows can open, the wide and well lit hallways (although too warm) and of course an excellent king bed.
+[0.9062232971191406] The room was not huge but it was immaculately clean and very stylish.
+[0.8964395523071289] Friendly welcoming staff, clean, one of the best hotels I've stayed at in a long time!
+
+----- Weakening -----
+
+[-0.9974751472473145] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[-0.9971456527709961] The air conditioning vent had so much filthy residue trapped inside that it could not possibly pass a health audit.
+[-0.9961471557617188] It was dark, dirty, and noisy from the construction right outside my window.
+[-0.9957284927368164] Stripping the sheets, I found a fairly fresh urine stain that made me want to vomit.
+[-0.995185375213623] Our toliet overflowed at 11pm resulting in a flood in our bathroom.
+
+**********
+
+[0.9273147583007812] The building was comfortable.
+Parent: The building was clean and comfortable, but there were some issues with the furniture.
+
+----- Supporting -----
+
+[0.9273147583007812] A functional hotel, comfortable, worth its price.
+[0.9196863174438477] I was here to attend a Mariners game and meet up with a friend, and the room was comfortable for pre- and post-game socializing.
+[0.9175758361816406] The room was comfortable and updated.
+[0.8724117279052734] The staff is friendly and super helpful (ie: tourist questions, room questions etc), the rooms are neat and clean and comfortable, the location is perfect and close to everything you need downtown including transit to anything outside of downtown (monorail, bus stops, lightrail).
+[0.8662033081054688] The room was on the small side but was stylish, comfortable, and clean.
+
+----- Weakening -----
+
+[-0.9818801879882812] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[-0.9775943756103516] It was dark, dirty, and noisy from the construction right outside my window.
+[-0.9486656188964844] The heater came off and on frequently and it made a jarring clicking noise each time...all night long.
+[-0.92205810546875] The room is shabby, the shower made a horrible noise whenever the water was running.
+[-0.919464111328125] The not so good: The hotel had touted a 2 person tub - and while it was a soaking tub - it wasn't comfortable for two.
+
+**********
+
+[0.7335128784179688] The furniture was in poor condition.
+Parent: The building was clean and comfortable, but there were some issues with the furniture.
+
+----- Supporting -----
+
+[0.7335128784179688] The furnishings were pretty old.
+[0.40962982177734375] My desk chair was broken and I asked for it to be replaced or fixed.
+[0.17838287353515625] Some other minor issues were the desk chair in the room (it fell short of an appropriate working height of the desk and constantly fell down when your leg accidently hit the adjustment bar in front, poor choice of chairs), the elevator door was annoyingly slow to close (I was up and down several times per day), the exterior and lobby doors should be automatic and I noticed people struggling to open them and get their luggage through, they also were misaligned and did not open well.
+[0.106109619140625] The thermostat was worn so you could not tell which setting was A/C and which was heat.
+[0.027466773986816406] The room is shabby, the shower made a horrible noise whenever the water was running.
+
+----- Weakening -----
+
+[-0.9945950508117676] The bed was amazingly comfortable, and the decor in good taste (lots of texture, neutral tone, and rich burgandy to soothe the spirit).
+[-0.9944438934326172] Everything was clean and furnishings were modern.
+[-0.9943456649780273] The room was very clean and beautifully decorated.
+[-0.9916439056396484] The best included the cleanliness, the attention to detail with lighting and electrical outlets, the comfortable furniture, the robes, the great shower, the refrigerator, the windows can open, the wide and well lit hallways (although too warm) and of course an excellent king bed.
+[-0.9908044338226318] The lobby is beautfully furnished and offers a great meeting place or somewhere to rest.
+
+**********
+
+[0.9709720611572266] The building was nicely appointed.
+Parent: The building was nicely appointed, but there was construction noise during the day.
+
+----- Supporting -----
+
+[0.9709720611572266] The hotel was well designed and tastefully decorated.
+[0.8781576156616211] The room was very clean and beautifully decorated.
+[0.8023567199707031] The lobby of the hotel is quite small, but well-appointed.
+[0.7906360626220703] Rooms are roomy, especially by many downtown standards, and come nicely appointed with newly updated furniture and linens.
+[0.7687301635742188] The rooms were very well decorated, with a flat screen tv, marble bathroom, great view, etc.
+
+----- Weakening -----
+
+[-0.9752960205078125] The rooms were pretty large with average furnishings.
+[-0.9681510925292969] The room is shabby, the shower made a horrible noise whenever the water was running.
+[-0.9524612426757812] The furnishings were pretty old.
+[-0.9475860595703125] Nothing fancy about this hotel, but the location and the price were its main attraction.
+[-0.9011268615722656] The room was plain and average-szed, but clean and comfortable.
+
+**********
+
+[0.948603630065918] The building had construction noise during the day.
+Parent: The building was nicely appointed, but there was construction noise during the day.
+
+----- Supporting -----
+
+[0.948603630065918] Lots of daytime noise due to the construction.
+[0.8366546630859375] The only thing was that there was construction going on right across the street that woke us up before 9am on a Monday morning.
+[0.5615692138671875] Tons of construction in the neighborhood which starts at 6:30 am.
+[0.20468711853027344] It was dark, dirty, and noisy from the construction right outside my window.
+[0.006824493408203125] A couple of cranes nearby with one of them directly over the hotel.
+
+----- Weakening -----
+
+[-0.859039306640625] The heater came off and on frequently and it made a jarring clicking noise each time...all night long.
+[-0.6538372039794922] It was quiet and is in a nice central location.
+[-0.6454448699951172] Hotel was very clean, very quiet, great for a business trip.
+[-0.5793743133544922] It was very quiet.
+[-0.570068359375] The room is shabby, the shower made a horrible noise whenever the water was running.
+
+**********
+
+[0.9620780944824219] The new furniture was too big.
+Parent: The new furniture was over-sized and made the rooms smaller.
+
+----- Supporting -----
+
+[0.9620780944824219] That could be nice but the new furniture is really over-sized and makes the small rooms even smaller and doesn't allow for a body to move around the room.
+[0.06006622314453125] King sized bed (very comfortable), lounge chair and ottoman, large desk (with lots of electrical outlets!
+[0.0007886886596679688] The room was huge.
+[0.0006122589111328125] Tiffany's was down the block.
+[0.000408172607421875] Newly renovated rooms with high-end fixtures.
+
+----- Weakening -----
+
+[-0.9585771560668945] The furnishings were pretty old.
+[-0.951507568359375] The air conditioning vent had so much filthy residue trapped inside that it could not possibly pass a health audit.
+[-0.9232234954833984] The rooms were pretty large with average furnishings.
+[-0.9041576385498047] Instead of a mini-bar, there's a small refrigerator with two bottles of $2.50 water--drink from the tap instead.
+[-0.8920726776123047] My pancakes were delicious, but I was a little disappointed with the "hash brows" because they were really only cubed potatoes.
+
+**********
+
+[0.9873971939086914] The new furniture made the rooms smaller.
+Parent: The new furniture was over-sized and made the rooms smaller.
+
+----- Supporting -----
+
+[0.9873971939086914] That could be nice but the new furniture is really over-sized and makes the small rooms even smaller and doesn't allow for a body to move around the room.
+[0.01220703125] They did provide us with roll-away beds but then there was no room to move around in the room.
+[0.01049041748046875] Big screen TV, refrigerator, coffee pot, all added to comfort.
+[0.0078125] The lobby of the hotel is quite small, but well-appointed.
+[0.006591796875] Instead of a mini-bar, there's a small refrigerator with two bottles of $2.50 water--drink from the tap instead.
+
+----- Weakening -----
+
+[-0.9770574569702148] Large room, with amazing king size bed, stunning bathroom, and a view.
+[-0.9742031097412109] The rooms were pretty large with average furnishings.
+[-0.9498958587646484] The room was large with a desk area, comfortable chairs and a very comfortable bed.
+[-0.9482049942016602] The furnishings were pretty old.
+[-0.8997888565063477] The room was huge.
+
+**********
+
+[0.6570816040039062] The construction noise was disruptive.
+Parent: There was also construction going on near the hotel, which made it difficult to find parking.
+
+----- Supporting -----
+
+[0.6570816040039062] The heater came off and on frequently and it made a jarring clicking noise each time...all night long.
+[0.26873779296875] The room is shabby, the shower made a horrible noise whenever the water was running.
+[0.23072052001953125] Sounded like a jackhammer.
+[0.1363983154296875] The only thing was that there was construction going on right across the street that woke us up before 9am on a Monday morning.
+[0.07579898834228516] It was dark, dirty, and noisy from the construction right outside my window.
+
+----- Weakening -----
+
+[-0.9544830322265625] It was quiet and is in a nice central location.
+[-0.9530296325683594] Hotel was very clean, very quiet, great for a business trip.
+[-0.9392685890197754] My room was right next to the elevators and I didn't hear a thing.
+[-0.9218120574951172] Laid back, nonintrusive hotel suitable for business or vacation stays, centrally located on Pine--3 blocks from Westlake, a block from the bus terminal ($2.75 airport transfers), and a block from Von's Martini and Manhattan Shrine, never to be missed.
+[-0.9204287528991699] It was very quiet.
+
+**********
+
+[0.9194450378417969] Parking was difficult to find.
+Parent: There was also construction going on near the hotel, which made it difficult to find parking.
+
+----- Supporting -----
+
+[0.9194450378417969] As always, parking in Seattle is a challenge, but worth putting up with for couple of nights to enjoy the holiday festivities.
+[0.5799369812011719] It was rush hour, so the concierge had to stand out there quite a while to catch one that was empty.
+[0.46659088134765625] Valet parking was terrible.
+[0.411712646484375] I guess that's standard practice in downtown hotels, but it really makes it cumbersome to get the car.
+[0.24927520751953125] Parking was additional but there is a free computer for use.
+
+----- Weakening -----
+
+[-0.9760589599609375] It was easy to find street parking (so we didn't need to pay the hotel parking rate).
+[-0.9363317489624023] Everything is at your doorstep.
+[-0.7914495468139648] Easy access to everything.
+[-0.7715415954589844] It is on the edge of downtown, with parking lots and demolition going on across the street on one side and the Hyatt on the other.
+[-0.7306346893310547] It's completely central to any of the major tourist attractions you could want and negates needing a rental car.
+
+**********
+
+[0.6181602478027344] The building is not special.
+Parent: The building itself is unremarkable, but the lobby is nice.
+
+----- Supporting -----
+
+[0.6181602478027344] Nothing fancy about this hotel, but the location and the price were its main attraction.
+[0.617584228515625] While it wasn't a bad room, and we would consider the hotel again if we were going to a concert, it certainly wasn't anything memorable.
+[0.4323616027832031] Designwise, it could be any hotel in any city.
+[0.39971923828125] the lobby is sort of lackluster but the rooms were tasfully updated and very clean.
+[0.393402099609375] This is not a huge corporate hotel.
+
+----- Weakening -----
+
+[-0.9936838150024414] It was fantastic and has great deals and specials.
+[-0.9921212196350098] I especially like the Dragonfish Cafe restaurant - it is one of my favorite restaurants for Asian Fusion.
+[-0.991002082824707] The Dragonfish Cafe in the hotel is simply awesome.
+[-0.990684986114502] I loved everything about this hotel.
+[-0.9906826019287109] I would definitely recommend this hotel as we had a fantastic experience with it!
+
+**********
+
+[0.8715362548828125] The lobby is a good place.
+Parent: The building itself is unremarkable, but the lobby is nice.
+
+----- Supporting -----
+
+[0.8715362548828125] The lobby is beautfully furnished and offers a great meeting place or somewhere to rest.
+[0.8231630325317383] Nice lobby.
+[0.810633659362793] The lobby is small, but nice.
+[0.7116661071777344] Finally there is a restraunt downstairs called Dragonfish that is excellent.
+[0.7049102783203125] Small lobby very intimate but best of all was location.
+
+----- Weakening -----
+
+[-0.9339408874511719] The best part was the bed.
+[-0.8887405395507812] The room is shabby, the shower made a horrible noise whenever the water was running.
+[-0.8221435546875] Best of all, the bed was incredibly comfortable!
+[-0.807830810546875] I slept better on these beds than the famous heavenly beds of the Westins where we had just stayed at when we came down from Vancouver.
+[-0.7873077392578125] The bed was comfy and had plenty of pillows.
+
+**********
+
+[0.6399269104003906] The furniture and elevator are not in good condition.
+Parent: There are some issues with the furniture and elevator, but overall it is a decent hotel.
+
+----- Supporting -----
+
+[0.6399269104003906] Some other minor issues were the desk chair in the room (it fell short of an appropriate working height of the desk and constantly fell down when your leg accidently hit the adjustment bar in front, poor choice of chairs), the elevator door was annoyingly slow to close (I was up and down several times per day), the exterior and lobby doors should be automatic and I noticed people struggling to open them and get their luggage through, they also were misaligned and did not open well.
+[0.047637939453125] The elevator was marked and scuffed.
+[0.031036376953125] The air conditioning vent had so much filthy residue trapped inside that it could not possibly pass a health audit.
+[0.024038314819335938] The room is shabby, the shower made a horrible noise whenever the water was running.
+[0.01654052734375] The thermostat was worn so you could not tell which setting was A/C and which was heat.
+
+----- Weakening -----
+
+[-0.9715981483459473] The lobby is beautfully furnished and offers a great meeting place or somewhere to rest.
+[-0.9696664810180664] The room was very clean and beautifully decorated.
+[-0.9687385559082031] The service provided by the front desk, and the concierge/bell desk/valet in particular, were top notch.
+[-0.9645414352416992] The bed was amazingly comfortable, and the decor in good taste (lots of texture, neutral tone, and rich burgandy to soothe the spirit).
+[-0.9644551277160645] Everything was clean and furnishings were modern.
+
+**********
+
+[0.9427337646484375] The hotel is decent.
+Parent: There are some issues with the furniture and elevator, but overall it is a decent hotel.
+
+----- Supporting -----
+
+[0.9427337646484375] Overall a good hotel very convenient for shopping.
+[0.9420137405395508] This is a very nice hotel.
+[0.9121437072753906] The hotel restuarant, Dragonfish, was good.
+[0.9120044708251953] The hotel itself was very nice.
+[0.9023933410644531] A functional hotel, comfortable, worth its price.
+
+----- Weakening -----
+
+[-0.970458984375] Based on my overall experience I could not recommend this hotel.
+[-0.8935394287109375] The not so good: The hotel had touted a 2 person tub - and while it was a soaking tub - it wasn't comfortable for two.
+[-0.8793106079101562] The room is shabby, the shower made a horrible noise whenever the water was running.
+[-0.843475341796875] Rocked up to The Paramount Hotel not expecting much after a not so nice hotel experience in New York but boy was I wrong.
+[-0.8367996215820312] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+
+**********
+
+[0.9635577201843262] The lobby is nice.
+Parent: The building has a nice lobby and is close to coffee shops and theaters.
+
+----- Supporting -----
+
+[0.9635577201843262] The lobby is small, but nice.
+[0.9217128753662109] Nicely appointed lobby.
+[0.9177494049072266] Nice lobby.
+[0.9022560119628906] The lobby is beautfully furnished and offers a great meeting place or somewhere to rest.
+[0.8947324752807617] The lobby is warm and cozy with couches and a fireplace.
+
+----- Weakening -----
+
+[-0.9587478637695312] The room is shabby, the shower made a horrible noise whenever the water was running.
+[-0.9238700866699219] The best part was the bed.
+[-0.89715576171875] the lobby is sort of lackluster but the rooms were tasfully updated and very clean.
+[-0.8388900756835938] The halls had a very odd smell, like a dental office.
+[-0.8353080749511719] It was dark, dirty, and noisy from the construction right outside my window.
+
+**********
+
+[0.8252143859863281] The building is close to coffee shops and theaters.
+Parent: The building has a nice lobby and is close to coffee shops and theaters.
+
+----- Supporting -----
+
+[0.8252143859863281] There is a great coffee shop across the street and the stunning Paramount Theater down the block.
+[0.2291259765625] A starbucks is across the street in the Hyatt.
+[0.2178955078125] Location wise it's brilliant, a block away from the convention centre, Pike's Market just 6 blocks away and Caffe Ladro just opposite the hotel!
+[0.09316253662109375] Across the street from the Paramount Theater, and down the street from Pacific Place and Westlake Mall, this hotel offers a great location for tourists wanting to stay in town to be close to all that's going on, as well as for residents that are looking for a weekend of culture or shopping in the city.
+[0.04297637939453125] It's perfect if you have tickets to the nearby Paramount Theater and want to spend the night in Seattle.
+
+----- Weakening -----
+
+[-0.7330284118652344] REALLY close to Pike Market....a few blocks from the $2.50 train from the airport.
+[-0.7304878234863281] Lots of shopping and restaurants within 2 - 3 blocks.
+[-0.7257900238037109] The location isn't even that good, a little to far north for me.
+[-0.6712112426757812] We were there for a conference and it is a block from the Convention Center....shopping and restaurants all over.
+[-0.6683425903320312] The Public Market is only blocks away and a great place to start the day.
+
+**********
+
+[0.9852194786071777] The rooms are clean.
+Parent: The rooms are clean and updated, but there is construction going on around the hotel that can be disruptive.
+
+----- Supporting -----
+
+[0.9852194786071777] The rooms are clean and neat, and the staff is friendly.
+[0.9817037582397461] Rooms are very clean, and modern and the service was excellent.
+[0.9815855026245117] The rooms are spacious, clean and well maintained.
+[0.9790477752685547] The rooms were clean and I forgot an item and was able to get it back from the front desk staff.
+[0.977935791015625] The rooms are modern and clean.
+
+----- Weakening -----
+
+[-0.9973297119140625] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[-0.9940071105957031] Our toliet overflowed at 11pm resulting in a flood in our bathroom.
+[-0.9930925369262695] It was dark, dirty, and noisy from the construction right outside my window.
+[-0.9924764633178711] The air conditioning vent had so much filthy residue trapped inside that it could not possibly pass a health audit.
+[-0.9915132522583008] Stripping the sheets, I found a fairly fresh urine stain that made me want to vomit.
+
+**********
+
+[0.9815468788146973] The rooms were updated.
+Parent: The rooms are clean and updated, but there is construction going on around the hotel that can be disruptive.
+
+----- Supporting -----
+
+[0.9815468788146973] The room was comfortable and updated.
+[0.9814548492431641] the lobby is sort of lackluster but the rooms were tasfully updated and very clean.
+[0.93878173828125] The price was right at $143 for the upgraded room.
+[0.9326696395874023] My room was neatly decorated and very up-to-date.
+[0.9222946166992188] The rooms were completely renovated and tastefully done.
+
+----- Weakening -----
+
+[-0.9880895614624023] The furnishings were pretty old.
+[-0.9819507598876953] The room was plain and average-szed, but clean and comfortable.
+[-0.9719619750976562] The room is shabby, the shower made a horrible noise whenever the water was running.
+[-0.9705257415771484] It was dark, dirty, and noisy from the construction right outside my window.
+[-0.96337890625] No announcement, explanation or apologies from the staff.
+
+**********
+
+[0.9678287506103516] The hotel is under construction.
+Parent: The rooms are clean and updated, but there is construction going on around the hotel that can be disruptive.
+
+----- Supporting -----
+
+[0.9678287506103516] There's a lot of construction going on around the hotel so make sure you get a room that is high up and that does not overlook the construction site (ask for a room overlooking Pine St) and you'll be fine.
+[0.9526195526123047] The hotel was under exterior renovations, but that worked out for me as I was out of my room for most of the day.
+[0.3936767578125] The hotel has gone through some renovations which make it look nice, Dragonfish changed their menu a bit but their food is still good.
+[0.3914794921875] The hotel since I last stayed had gone through a nice renovation.
+[0.28131866455078125] Rooms are currently being refurnished with new furniture.
+
+----- Weakening -----
+
+[-0.9837665557861328] The hotel was recently renovated and is really nice.
+[-0.9559288024902344] The hotel is recently remodeled and the rooms are very clean and modern as is the hotel lobby.
+[-0.9312515258789062] The hotel itself is in an older building, but renovations have obviously kept it up to modern standards.
+[-0.8913307189941406] When I got there at 7pm the game had been on for one hour as it started at 6:05!!
+[-0.8737688064575195] Complete personal care from 40-year veteran, bell captain Tom Fleege, a happy and gracious individual who has been a fixture on this corner at the former Camlin Hotel across the street.
+
+**********
+
+[0.634246826171875] Construction is disruptive.
+Parent: The rooms are clean and updated, but there is construction going on around the hotel that can be disruptive.
+
+----- Supporting -----
+
+[0.634246826171875] Lots of daytime noise due to the construction.
+[0.5665779113769531] It was dark, dirty, and noisy from the construction right outside my window.
+[0.3452949523925781] The only thing was that there was construction going on right across the street that woke us up before 9am on a Monday morning.
+[0.27959442138671875] The weight machines are so packed together that you can't really move the weights.
+[0.22177505493164062] The heater came off and on frequently and it made a jarring clicking noise each time...all night long.
+
+----- Weakening -----
+
+[-0.93963623046875] Laid back, nonintrusive hotel suitable for business or vacation stays, centrally located on Pine--3 blocks from Westlake, a block from the bus terminal ($2.75 airport transfers), and a block from Von's Martini and Manhattan Shrine, never to be missed.
+[-0.9340114593505859] The Paramount is understated- the lobby is small and cozy and the location, while close to everything downtown, is subtly placed.
+[-0.90985107421875] Great location for conventions and an easy walk into the heart of downtown.
+[-0.902409553527832] Easy access to everything.
+[-0.9024085998535156] easy 8 block walk to pike place market.
+
+**********
+
+[0.6793060302734375] The front desk staff is not friendly.
+Parent: The front desk staff is not particularly friendly.
+
+----- Supporting -----
+
+[0.6793060302734375] Front desk personnel are somewhat "aloof".
+[0.4830818176269531] The man who was working at the front desk looked very gruff and mean, when I would ask something he made me feel like I was putting him out.
+[0.143829345703125] Restaurant staff was also very poor
+[0.12328529357910156] But I thought the staff were unprofessional and I was uncomfortable with the men at the desk.
+[0.08202552795410156] Not to mention when I checked in they yelled my room number out to me, not a good idea as a female travelling alone...
+
+----- Weakening -----
+
+[-0.9916620254516602] Everyone was very friendly, and eager to pass on maps, coupons and recommendations for the local area.
+[-0.9911279678344727] Very friendly desk and bellman, even a computer free to use in the lobby.
+[-0.9910387992858887] The staff was very nice and helpful.
+[-0.9910097122192383] The staff is gracious and welcoming, responds to requests and questions in a helpful manner, and seem to genuinely care that you enjoy your stay in their hotel and your visit to the city.
+[-0.9909286499023438] The staff is friendly and very helpful.
+
+**********
+
+[0.88482666015625] The hotel is old.
+Parent: The hotel is old but well-kept, with a cozy lobby.
+
+----- Supporting -----
+
+[0.88482666015625] The hotel itself is in an older building, but renovations have obviously kept it up to modern standards.
+[0.17889404296875] The only aspect of the hotel that could be improved, in my opinion, is the fitness center -- it's in the basement and has older equipment.
+[0.13605499267578125] The Paramount was one of the few hotels in downtown Seattle that I had not stayed in over the past 15 years.
+[0.07036590576171875] Complete personal care from 40-year veteran, bell captain Tom Fleege, a happy and gracious individual who has been a fixture on this corner at the former Camlin Hotel across the street.
+[0.0545654296875] that previous rooms.
+
+----- Weakening -----
+
+[-0.9955739974975586] The hotel is very well kept and modern.
+[-0.9938497543334961] The hotel is recently remodeled and the rooms are very clean and modern as is the hotel lobby.
+[-0.993626594543457] The rooms are modern and clean.
+[-0.9930934906005859] The rooms are clean and modern and the beds are extremely comfortable.
+[-0.9929509162902832] The decor was cool and modern.
+
+**********
+
+[0.6939582824707031] The hotel is well-kept.
+Parent: The hotel is old but well-kept, with a cozy lobby.
+
+----- Supporting -----
+
+[0.6939582824707031] The hotel is very well kept and modern.
+[0.5569839477539062] Friendly welcoming staff, clean, one of the best hotels I've stayed at in a long time!
+[0.45819091796875] Hotel is extremely clean and quiet, and the staff is very helpful.
+[0.3504638671875] Hotel was very clean, very quiet, great for a business trip.
+[0.22361373901367188] Highly recommend this hotel rooms, they were nice and clean and very comfortable.
+
+----- Weakening -----
+
+[-0.9614677429199219] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[-0.9422416687011719] The room is shabby, the shower made a horrible noise whenever the water was running.
+[-0.9343729019165039] It was dark, dirty, and noisy from the construction right outside my window.
+[-0.9334068298339844] The maids had left the alarm on from the last guest (a major pet peeve of mine) and so we were awakened at 7 a.m. And, a large group of guests arrived in the room next door at 7:30 and the lack of soundproofing between connecting rooms became glaringly apparent.
+[-0.9312934875488281] Don't take a room on the inside unless you want to be awakened by the garbage trucks at 5am.
+
+**********
+
+[0.9806475639343262] The lobby is cozy.
+Parent: The hotel is old but well-kept, with a cozy lobby.
+
+----- Supporting -----
+
+[0.9806475639343262] The lobby is warm and cozy with couches and a fireplace.
+[0.9489593505859375] The Paramount is understated- the lobby is small and cozy and the location, while close to everything downtown, is subtly placed.
+[0.4020233154296875] Small lobby very intimate but best of all was location.
+[0.35992431640625] The rooms are pleasant and clean, with the baffling omission of a coffee maker or kettle--really a weird thing to forget.
+[0.3220062255859375] The lobby is beautfully furnished and offers a great meeting place or somewhere to rest.
+
+----- Weakening -----
+
+[-0.9122314453125] the lobby is sort of lackluster but the rooms were tasfully updated and very clean.
+[-0.9029541015625] It was dark, dirty, and noisy from the construction right outside my window.
+[-0.8870849609375] The bathroom is the size of a closet and the hot water took forever to warm up.
+[-0.8824005126953125] The bed was comfy and had plenty of pillows.
+[-0.8679046630859375] Best of all, the bed was incredibly comfortable!
+
+**********
+
+[0.9752607345581055] The location is good.
+Parent: It's in a good location and the staff are helpful.
+
+----- Supporting -----
+
+[0.9752607345581055] The location was great.
+[0.9741530418395996] Location is great, rooms are pretty nice for the price and the happy hour deals at Dragonfish are quite nice.
+[0.9733057022094727] The location is EXCELLENT, the staff is friendly, welcoming, knowledgeable, and helpful, the beds are heavenly.
+[0.972442626953125] The location is very good, in the thick of shopping and restaurants, halfway between Pike St. Market and Capitol Hill.
+[0.9703755378723145] The location is excellent (especially if you like to shop!)
+
+----- Weakening -----
+
+[-0.9903793334960938] The location isn't even that good, a little to far north for me.
+[-0.6707992553710938] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[-0.5157127380371094] Ok, it is bad.
+[-0.5147247314453125] Now on to the bad, the other staff.
+[-0.512481689453125] The only minor thing that I did not like was that they ice machines are on every other floor and located next to the stairwell, so it was a little startling to my girlfriend when someone walked in unbeknownst to her while the machine was running.
+
+**********
+
+[0.9836421012878418] The staff is helpful.
+Parent: It's in a good location and the staff are helpful.
+
+----- Supporting -----
+
+[0.9836421012878418] The staff is friendly and very helpful.
+[0.9797401428222656] Staff were really helpful.
+[0.9759464263916016] The personnel were very helpful and pleasant.
+[0.9750890731811523] The staff is friendly and super helpful (ie: tourist questions, room questions etc), the rooms are neat and clean and comfortable, the location is perfect and close to everything you need downtown including transit to anything outside of downtown (monorail, bus stops, lightrail).
+[0.9746108055114746] The staff was very nice and helpful.
+
+----- Weakening -----
+
+[-0.9854459762573242] Staff was rude and impatient.
+[-0.9758310317993164] The man who was working at the front desk looked very gruff and mean, when I would ask something he made me feel like I was putting him out.
+[-0.9733486175537109] But I thought the staff were unprofessional and I was uncomfortable with the men at the desk.
+[-0.9576320648193359] Restaurant staff was also very poor
+[-0.9379863739013672] He was very rude and would not let me use the phone to call other hotels for vacancies.

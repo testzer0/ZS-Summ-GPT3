@@ -1,0 +1,107 @@
+***** Aspect: service Model Type : zs *****
+Overall score: 0.8222956657409668
+
+**********
+
+[0.9036235809326172] The service was poor.
+Parent: The accounts said that the service was poor, with some guests finding the staff friendly and helpful, and others finding them snarky, unhelpful, and uninterested in guests' concerns.
+
+----- Supporting -----
+
+[0.9036235809326172] The cable tv was horrible.
+[0.7511978149414062] We got bad reception and approx 15 channels - most of which were news or informational.
+[0.5561065673828125] They did not give one person a packet, the Front Desk staff was downright snarky, as if I was asking them to do to much.
+[0.5285568237304688] Nasty staff.
+[0.5030059814453125] The TV's need to be replaced/upgraded and the channel selection was not great.
+
+----- Weakening -----
+
+[-0.9980263710021973] The staff was so nice and took very good care of us.
+[-0.9976351261138916] The staff was super friendly and very helpful.
+[-0.9976160526275635] We found the staff to be extremely nice and accomodating.
+[-0.997596263885498] The staff was very accomodating with our requests and were very friendly.
+[-0.997596263885498] The staff was very accomodating with our requests and were very friendly.
+
+**********
+
+[0.9945368766784668] The staff was friendly and helpful.
+Parent: The accounts said that the service was poor, with some guests finding the staff friendly and helpful, and others finding them snarky, unhelpful, and uninterested in guests' concerns.
+
+----- Supporting -----
+
+[0.9945368766784668] The staff was super friendly and very helpful.
+[0.9872579574584961] Employees were friendly and very helpful.
+[0.985753059387207] The staff is very accomodating and friendly.
+[0.9851045608520508] Rooms were great, staff was very friendly and helpful.
+[0.9825444221496582] All of the staff at The Stone Castle are always very friendly and helpful if you have any questions about anything.
+
+----- Weakening -----
+
+[-0.9972004890441895] Dog was barking in room across the hall all day and night, one of us stepped in dog feces in the parking lot and tracked it into the room :( A group of ill guests vomited just outside the entry door, massive amounts, when we called to ask that it be cleaned up due to health hazards front desk staff was rude!
+[-0.9968876838684082] Nasty staff.
+[-0.9963078498840332] The hotel messed up the Cocktail Hour suite for both nights, and when I called to complain they did NOTHING to make it right, it was so clear that they could actually care less that I was unhappy.
+[-0.9960594177246094] They did not give one person a packet, the Front Desk staff was downright snarky, as if I was asking them to do to much.
+[-0.9959707260131836] They were very rude!
+
+**********
+
+[0.26275634765625] The staff was snarky, unhelpful, and uninterested in guests' concerns.
+Parent: The accounts said that the service was poor, with some guests finding the staff friendly and helpful, and others finding them snarky, unhelpful, and uninterested in guests' concerns.
+
+----- Supporting -----
+
+[0.26275634765625] The hotel messed up the Cocktail Hour suite for both nights, and when I called to complain they did NOTHING to make it right, it was so clear that they could actually care less that I was unhappy.
+[0.24627685546875] Dog was barking in room across the hall all day and night, one of us stepped in dog feces in the parking lot and tracked it into the room :( A group of ill guests vomited just outside the entry door, massive amounts, when we called to ask that it be cleaned up due to health hazards front desk staff was rude!
+[0.19107818603515625] They did not give one person a packet, the Front Desk staff was downright snarky, as if I was asking them to do to much.
+[0.106292724609375] Before I could even get up to answer it a guy was opening our door and very hatefully said " You need to see the front desk about staying another night" I said 'Ok" He said you need to go RIGHT NOW.
+[0.07580184936523438] They were very rude!
+
+----- Weakening -----
+
+[-0.998729944229126] Every one was friendly and very helpful.
+[-0.9987075328826904] Breakfast was warm and fresh, the people were all very friendly.
+[-0.998701810836792] The rooms were clean, the beds were comfortable, the staff was professional and friendly and the conference rooms were perfect for our group.
+[-0.9986991882324219] Everything was great---Front desk people were friendly and was always willing to help in anyway...Rooms were clean and fresh..Breakfast was good and good music to listen too....I would rate this hotel and one of the best Branson has to offer.
+[-0.9986903667449951] The staff have always been extremely friendly.
+
+**********
+
+[0.9764442443847656] The hotel was not clean enough.
+Parent: There were also complaints about the cleanliness of the hotel and the lack of working amenities.
+
+----- Supporting -----
+
+[0.9764442443847656] The hotel just did not seem clean at all.
+[0.8305892944335938] The hotel needs updating and cleaning.
+[0.5410804748535156] Well room 506 was not clean and the hallway stunk and as we entered into the room the floor was wet from the sink leaking.
+[0.52606201171875] Rooms were nice in decor but there was dirt under the beds, TV was tiny, wireless internet was horrible, room was very small, pool and hot tub were tiny and full of rowdy kids with no one enforcing the rules of no jumping or horseplay, could not enjoy it at all.
+[0.522918701171875] They could definitely use some new bed linens, but the beds were nice and comfy and housekeeping was nice, too.
+
+----- Weakening -----
+
+[-0.9743461608886719] It's in a very quiet part of Branson, the rooms are super clean, the staff is very helpful and they have a great hot breakfast.
+[-0.9708786010742188] However, the rooms were clean enough, breakfast was fairly good and we enjoyed the location off the main strip.
+[-0.9686775207519531] The hotel in all is very clean and the standard rooms are very spacious.
+[-0.9616661071777344] The room was very clean and decorated very nicely.
+[-0.9612846374511719] The room was nice and clean and the hotel staff was wonderful.
+
+**********
+
+[0.9741172790527344] The amenities were not working properly.
+Parent: There were also complaints about the cleanliness of the hotel and the lack of working amenities.
+
+----- Supporting -----
+
+[0.9741172790527344] The air conditioning in the buildings did not work properly.
+[0.935236930847168] The AC did not work well and kept the room just tolerably cool.
+[0.8980188369750977] Rooms were nice in decor but there was dirt under the beds, TV was tiny, wireless internet was horrible, room was very small, pool and hot tub were tiny and full of rowdy kids with no one enforcing the rules of no jumping or horseplay, could not enjoy it at all.
+[0.8979396820068359] The jets on the hot tub were broken and sprayed water in your face if you tried to use them, one pool was ice cold while the other was fine.
+[0.8710451126098633] The TV's need to be replaced/upgraded and the channel selection was not great.
+
+----- Weakening -----
+
+[-0.9930200576782227] He appreciated the staff that continuously kept everything filled and fresh.
+[-0.9914999008178711] Everything was clean and worked properly.
+[-0.9910669326782227] The staff keeps everything full and clean.
+[-0.9905271530151367] The employees were outstanding and the service was great.
+[-0.9901456832885742] The beds were comfy and the a/c worked great.

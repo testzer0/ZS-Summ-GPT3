@@ -1,0 +1,128 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.5019115606943766
+
+**********
+
+[0.9907383918762207] The hotel was clean.
+Parent: The majority of reviewers found the hotel to be clean, although there were some mixed reviews with some guests finding their room to be clean and others finding stains in their bed or feeling that the housekeeping staff did not do a good job.
+
+----- Supporting -----
+
+[0.9907383918762207] Hotel was very clean, very quiet, great for a business trip.
+[0.9830589294433594] Hotel is extremely clean and quiet, and the staff is very helpful.
+[0.977386474609375] Highly recommend this hotel rooms, they were nice and clean and very comfortable.
+[0.9651198387145996] Friendly welcoming staff, clean, one of the best hotels I've stayed at in a long time!
+[0.9134616851806641] The hotel is recently remodeled and the rooms are very clean and modern as is the hotel lobby.
+
+----- Weakening -----
+
+[-0.997502326965332] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[-0.9937038421630859] The air conditioning vent had so much filthy residue trapped inside that it could not possibly pass a health audit.
+[-0.9928450584411621] Our toliet overflowed at 11pm resulting in a flood in our bathroom.
+[-0.9922299385070801] It was dark, dirty, and noisy from the construction right outside my window.
+[-0.9894485473632812] Don't take a room on the inside unless you want to be awakened by the garbage trucks at 5am.
+
+**********
+
+[0.0768280029296875] Some guests found their room clean, while others found stains in their bed.
+Parent: The majority of reviewers found the hotel to be clean, although there were some mixed reviews with some guests finding their room to be clean and others finding stains in their bed or feeling that the housekeeping staff did not do a good job.
+
+----- Supporting -----
+
+[0.0768280029296875] The room was clean and the beds were fine.
+[0.0701141357421875] Our room was very clean and the service was very friendly.
+[0.054046630859375] The room was meticulously cleaned including plenty of soft linins and offers one of the most comfortable beds I have ever slept on.
+[0.047771453857421875] My room was clean.
+[0.04216766357421875] Room was clean, bed was comfortable.
+
+----- Weakening -----
+
+[-0.748565673828125] We nearly thought our car was stolen!
+[-0.7236328125] Our GPS system had been stolen.
+[-0.5171661376953125] Restaurant staff was also very poor
+[-0.4947509765625] Their tone of voice was no better than a 13 year old with a bad attitude!
+[-0.48859405517578125] I was in a car accident while visiting the Seattle area.
+
+**********
+
+[0.3525390625] The housekeeping staff did a poor job.
+Parent: The majority of reviewers found the hotel to be clean, although there were some mixed reviews with some guests finding their room to be clean and others finding stains in their bed or feeling that the housekeeping staff did not do a good job.
+
+----- Supporting -----
+
+[0.3525390625] Restaurant staff was also very poor
+[0.21976470947265625] Unfortunately, room service wasn't as good.
+[0.1256103515625] The maids had left the alarm on from the last guest (a major pet peeve of mine) and so we were awakened at 7 a.m. And, a large group of guests arrived in the room next door at 7:30 and the lack of soundproofing between connecting rooms became glaringly apparent.
+[0.12052154541015625] Front desk could only ask me if I had the privacy card on the door (I did not) and then shrug.
+[0.10658836364746094] But I thought the staff were unprofessional and I was uncomfortable with the men at the desk.
+
+----- Weakening -----
+
+[-0.9951298236846924] Amazing motel, amazing staff.
+[-0.9946961402893066] Finally, the staff is spectacular: extremely friendly and helpful.
+[-0.9931867122650146] Staff were really helpful.
+[-0.9927208423614502] Rooms are very clean, and modern and the service was excellent.
+[-0.9925365447998047] 3 nites of good beds, clean room/bathroom, good staff, went for gift show in nearby convention ctr.
+
+**********
+
+[0.9802789688110352] The air conditioning vents were dirty and had residue in them.
+Parent: A few reviewers also noted dirt and residue in the air conditioning vents and on the desk chair, but it is unclear if this made the room unclean.
+
+----- Supporting -----
+
+[0.9802789688110352] The air conditioning vent had so much filthy residue trapped inside that it could not possibly pass a health audit.
+[0.07586669921875] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[0.0029506683349609375] I notified the front desk to make sure it was cleaned at some point.
+[0.00115966796875] It was dark, dirty, and noisy from the construction right outside my window.
+[0.0011119842529296875] Their answer was they can come now or not at all as they leave at 5pm, how that was my problem I am not sure as they had all day to clean it...
+
+----- Weakening -----
+
+[-0.961449146270752] It was that comfortable and amazing.
+[-0.9528369903564453] Beautiful, clean, wonderful bathrooms and polite staff.
+[-0.9526467323303223] The decor was cool and modern.
+[-0.9422321319580078] The room was very clean and beautifully decorated.
+[-0.9406328201293945] It was fantastic and has great deals and specials.
+
+**********
+
+[0.012696266174316406] There was dirt and residue on the desk chair.
+Parent: A few reviewers also noted dirt and residue in the air conditioning vents and on the desk chair, but it is unclear if this made the room unclean.
+
+----- Supporting -----
+
+[0.012696266174316406] I notified the front desk to make sure it was cleaned at some point.
+[0.011243343353271484] The furnishings were pretty old.
+[0.00464630126953125] The halls had a very odd smell, like a dental office.
+[0.0025129318237304688] Then coming back to the room tonight after being away from 8:30am to 8:30pm, the room had not been cleaned.
+[0.0023250579833984375] It was dark, dirty, and noisy from the construction right outside my window.
+
+----- Weakening -----
+
+[-0.9659585952758789] It was fantastic and has great deals and specials.
+[-0.9204421043395996] My room was neatly decorated and very up-to-date.
+[-0.9173736572265625] The Paramount was a nice surprise - classy and elegant without being over the top.
+[-0.9127044677734375] The Asian fusion restaurant, Dragonfish, on the first floor has an outstanding happy hour menu with inexpensive drinks and sushi.
+[-0.9110813140869141] It's Asian inspired and they have some incredible little dishes of sushi and japanese type dishes.
+
+**********
+
+[0.598388671875] It is unclear if the room was unclean.
+Parent: A few reviewers also noted dirt and residue in the air conditioning vents and on the desk chair, but it is unclear if this made the room unclean.
+
+----- Supporting -----
+
+[0.598388671875] I cannot say for sure that it was due to the room but it is highly suspect.
+[0.392547607421875] May be just a problem with that room and wasn't a big issue only being there for the one night.
+[0.3863525390625] The hallway to our room smelled of cleaning or toiletry products (we couldn't tell which).
+[0.239990234375] It was a wonderful hotel, but not intimidating or snobbish.
+[0.1871337890625] The thermostat was worn so you could not tell which setting was A/C and which was heat.
+
+----- Weakening -----
+
+[-0.758087158203125] When we returned to the hotel and the Cafe, it was obvious that it was a popular spot for locals and hotel guests alike.
+[-0.719818115234375] The food was awesome and the prices are pretty good.
+[-0.7115325927734375] Everything from the staff to the amenities everything.
+[-0.709686279296875] It was fantastic and has great deals and specials.
+[-0.65191650390625] The Dragonfish Cafe in the hotel is simply awesome.

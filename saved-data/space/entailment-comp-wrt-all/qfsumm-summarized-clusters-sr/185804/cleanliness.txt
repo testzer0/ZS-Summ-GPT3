@@ -1,0 +1,213 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.8759703397750854
+
+**********
+
+[0.9867162704467773] The check-in process was friendly and efficient.
+Parent: Check - in was friendly and efficient , and our room , although small , was fine .
+
+----- Supporting -----
+
+[0.9867162704467773] Check-in was friendly and efficient, and our room, although small, was fine.
+[0.9186639785766602] The location, for me, is ideal, the reception very friendly and efficient and the rooms great value for the price.
+[0.6314926147460938] We were promptly greeted for check in by very polite staff.
+[0.6217803955078125] The Hotel is easy to get to from the Airport, Check-in was smooth, and the staff was very helpful.
+[0.5051651000976562] The hotel was a short ride from the airport and the staff were very pleasant upon check-in and check-out.
+
+----- Weakening -----
+
+[-0.9893035888671875] It was exceptionally noisy.
+[-0.979827880859375] Initially they were less than courteous about it but i said if there is a charge of course i would play however it might be helpful for future guests to be escorted to the bike and given a brief safety instruction prior to giving someone a key.
+[-0.9582676887512207] My wife and I had a bad experience at GIH.
+[-0.9570503234863281] When we initially entered our room it became clear that animals had stayed in the room -- husband and son have bad animal allergies -- they moved us to another room.
+[-0.9494471549987793] We arrived a little late on Xmas day after a troublesome time with the car rental company (Budget did not have a car for me despite having a valid reservation).
+
+**********
+
+[0.9874734878540039] The room was small.
+Parent: Check - in was friendly and efficient , and our room , although small , was fine .
+
+----- Supporting -----
+
+[0.9874734878540039] The room was so tiny we could hardly fit in it.
+[0.9823017120361328] Room was quite small, with very limited closet space, especially for 2 adults and a child.
+[0.9802656173706055] The room was small and dark and old.
+[0.979313850402832] The rooms are quite small, which was a little tight with two kids and my wife and me.
+[0.9707746505737305] The room was the smallest we stayed in during our tour of western Canada, and it was a struggle to fit in a rollaway bed for my son.
+
+----- Weakening -----
+
+[-0.9968690872192383] Big rooms with lots of windows.
+[-0.9964742660522461] A beautiful large modern style room with lots of windows.
+[-0.9963560104370117] Our room was clean and large.
+[-0.9949140548706055] The balcony had impressive views and was private, the suite was huge and very comfortable.
+[-0.9948854446411133] It was vast, with a dining room, 2 bathrooms - and a jacuzzi in the bedroom!
+
+**********
+
+[0.9623813629150391] Our room was good.
+Parent: Check - in was friendly and efficient , and our room , although small , was fine .
+
+----- Supporting -----
+
+[0.9623813629150391] Our room was adequate.
+[0.9574184417724609] Our room was fantastic, especially for the price paid.
+[0.9484739303588867] The standard room was very good, on the ground floor overlooking the patio area, and we would have happily stayed there if the king suite had been unavailable.
+[0.914093017578125] Our room was most comfortable and with its amenities, left nothing to be desired This is simply a first class hotel.
+[0.9101877212524414] The hotel was well appointed, our room comfortable and decorated in a traditional style.
+
+----- Weakening -----
+
+[-0.9794387817382812] That being said, my room was only okay.
+[-0.9769401550292969] * Small rooms * We had a small balcony but had plastic furniture and latice on the floor (not nice) * The dresser, desk and minibar are still the old furniture (too many pieces and old and ugly) It did however have a flat screen tv which should not require a piece a furniture to hold it as it should be wall mounted.
+[-0.9676704406738281] Initially ck'd into tiny dark room - no way!
+[-0.9658870697021484] We recently had an extremely bad stay at an American Sheraton hotel, and were a bit gunshy about staying in ANY hotel again...haha.
+[-0.9549407958984375] I booked an upgraded King room with a view and ended up beside the elevator in a room that looked pretty dated and uninviting.
+
+**********
+
+[0.20182037353515625] Sentence: Some guests were unhappy with the cost of the parking.
+The cost of parking was too high.
+Parent: Visit all the amenities on Granville island and enjoy a meal at the hotel restaurant Dockside - especially on the waterside plaza in the summer !
+
+----- Supporting -----
+
+[0.20182037353515625] Couldn't have asked for a better location, and although we stayed in August, parking never seemed to be an issue except that it was $12.00 plus tax .....ouch!
+[0.042266845703125] One of the drawbacks of staying on Granville Island is the parking - almost impossible at the weekend, even after paying the hotel $7 for a pass that allows you to park beyond the normal 3 hour limit.
+[0.006404876708984375] We paid $12 a day for the extended stay parking pass and never once had trouble finding a spot next to the hotel.
+[0.004353523254394531] We were charged $12 per day for parking and in-room water.
+[0.0031595230102539062] Parking is a problem, and you will probably need to use the valet parking available at the hotel which costs $7.
+
+----- Weakening -----
+
+[-0.8181724548339844] It was a bottle of wine with a miniature tuxedo jacket around the bottle.
+[-0.7763023376464844] And the most annoying: the room lighting is poor, in particular the reading light.
+[-0.7178707122802734] The food market made me wish I was cooking and not eating out at restaurants!
+[-0.7146358489990234] The restaurant was a little bit pricey for our budget.
+[-0.6957845687866211] I looked at a few different rooms and they vary in size and view.
+
+**********
+
+[0.9401230812072754] Granville island has great amenities.
+Parent: Visit all the amenities on Granville island and enjoy a meal at the hotel restaurant Dockside - especially on the waterside plaza in the summer !
+
+----- Supporting -----
+
+[0.9401230812072754] We love Granville Island and everything it has to offer--the botique shops, public market, restaurants, theaters, and its central location in Vancouver.
+[0.9384865760803223] Granville Island itself has restuarants of its own, a wonderful public market and quaint boutiques.
+[0.9313082695007324] Visit all the amenities on Granville island and enjoy a meal at the hotel restaurant Dockside - especially on the waterside plaza in the summer!
+[0.9311580657958984] Granville Island is a wonderful oasis of calm right in the middle of Vancouver, there are shops, restaurants and sights all around.
+[0.9257793426513672] It's in a perfect location, it's been recently updated, it's very clean, it has a lovely patio to enjoy the views from, it's located on Granville Island with it's many charming spots to shop, dine and enjoy the fabulous farmers market, it really couldn't be better.
+
+----- Weakening -----
+
+[-0.9462661743164062] Granville Island itself is very disappointing.
+[-0.9335575103759766] The rooms are small and sparsely furnished.
+[-0.9267005920410156] Unfortunately they just don't have the level of service that would make them a great hotel.
+[-0.9113197326660156] No carpet on the floor, hardly any outlets and the bathroom was too small.
+[-0.9069814682006836] I have to say I was disappointed with the hotel.
+
+**********
+
+[0.9267587661743164] The hotel restaurant Dockside is enjoyable.
+Parent: Visit all the amenities on Granville island and enjoy a meal at the hotel restaurant Dockside - especially on the waterside plaza in the summer !
+
+----- Supporting -----
+
+[0.9267587661743164] The Dockside Restaurant in the hotel is superb, and we ended up eating there twice for dinner.
+[0.8974647521972656] Visit all the amenities on Granville island and enjoy a meal at the hotel restaurant Dockside - especially on the waterside plaza in the summer!
+[0.7843961715698242] The Dockside Restaurant, with the large aquarium and with the in-house Dockside Brewing Company (the beer is good), offered a really enjoyable tasty meal.
+[0.60845947265625] Attached to the hotel is a great little patio restaurant by the water's edge (when weather permits) and a bar/restaurant inside with a mico-brewery.
+[0.4862842559814453] The Dockside restaurant is also lovely.
+
+----- Weakening -----
+
+[-0.9234771728515625] I especially enjoyed the Public Market.
+[-0.8535518646240234] * The restaurant has a very limited and boring menu and the service is terrible.
+[-0.836578369140625] The room was small and dark and old.
+[-0.8328742980957031] I would not recommend this to my friends or family.
+[-0.7479209899902344] My wife and I had a bad experience at GIH.
+
+**********
+
+[0.9819748401641846] The hotel restaurant Dockside is great, especially if you can eat on the waterside plaza in the summer.
+Parent: Visit all the amenities on Granville island and enjoy a meal at the hotel restaurant Dockside - especially on the waterside plaza in the summer !
+
+----- Supporting -----
+
+[0.9819748401641846] Visit all the amenities on Granville island and enjoy a meal at the hotel restaurant Dockside - especially on the waterside plaza in the summer!
+[0.12799835205078125] Attached to the hotel is a great little patio restaurant by the water's edge (when weather permits) and a bar/restaurant inside with a mico-brewery.
+[0.014208793640136719] The Dockside Restaurant, with the large aquarium and with the in-house Dockside Brewing Company (the beer is good), offered a really enjoyable tasty meal.
+[0.008465766906738281] The Dockside Restaurant has a beautiful view of the waterfront and the ambiance was warm and contemporary.
+[0.007925033569335938] We ate them in the sunshine by the water, looking at the Vancouver skyline.
+
+----- Weakening -----
+
+[-0.9050288200378418] I would not recommend this to my friends or family.
+[-0.8212728500366211] Just somewhere to sleep.
+[-0.8081707954406738] I have to say I was disappointed with the hotel.
+[-0.8070049285888672] The restaurant on the ground floor is excellent.
+[-0.7239837646484375] The room was small and dark and old.
+
+**********
+
+[0.9227485656738281] The concierge is knowledgeable.
+Parent: What would have made this hotel a 5 - star for us would have been if the concierge had been more knowledgeable , particularly with transit options for exploring attractions .
+
+----- Supporting -----
+
+[0.9227485656738281] The desk staff was also very knowledgable about getting around.
+[0.8719825744628906] The front desk will help you arrange any travel plans and are experts on the area.
+[0.5690975189208984] They know their facility well and strive to make their guests comfortable.
+[0.2497539520263672] The Front Desk staff went out of their way to provide excellent directions along with helpful driving tips.
+[0.23644065856933594] The staff was very helpful.
+
+----- Weakening -----
+
+[-0.74139404296875] The staff just seemed disinterested, especially at the bar and the front desk.
+[-0.7173557281494141] I rented a bike but no one offered to show me how to use the lock.
+[-0.67138671875] The desk staff would not look up on Hotels.ca the discrepancies we sited when checking out but they were very cheery and smiling the whole time while denying our information which was infuriating!
+[-0.6123046875] What would have made this hotel a 5-star for us would have been if the concierge had been more knowledgeable, particularly with transit options for exploring attractions.
+[-0.3071746826171875] Otherwise, the decor and furnishings are a little tired and dated.
+
+**********
+
+[0.9269580841064453] The concierge is knowledgeable about transit options.
+Parent: What would have made this hotel a 5 - star for us would have been if the concierge had been more knowledgeable , particularly with transit options for exploring attractions .
+
+----- Supporting -----
+
+[0.9269580841064453] The desk staff was also very knowledgable about getting around.
+[0.6456699371337891] The staff were happy to advise us on whale whatching trips, transport options and tours.
+[0.34717750549316406] The hotel staff were very helpful in getting us to and from the aquarium, giving change, arranging taxis.
+[0.3381614685058594] The staff welcomed us with great warmth and throughout our stay were genuinely pleased to offer help and advice on topics such as buses (including whether it was better to walk or take the ferry).
+[0.3044700622558594] The Front Desk staff went out of their way to provide excellent directions along with helpful driving tips.
+
+----- Weakening -----
+
+[-0.790313720703125] What would have made this hotel a 5-star for us would have been if the concierge had been more knowledgeable, particularly with transit options for exploring attractions.
+[-0.7191658020019531] I rented a bike but no one offered to show me how to use the lock.
+[-0.3890380859375] While we love trees, it always amazing to us why they are not more strategically placed!
+[-0.36763763427734375] Like the wonky shower head.
+[-0.307037353515625] Do people actually still use those liquor fridges?...
+
+**********
+
+[0.9227485656738281] The concierge is knowledgeable.
+Parent: What would have made this hotel a 5 - star for us would have been if the concierge had been more knowledgeable , particularly with transit options for exploring attractions .
+
+----- Supporting -----
+
+[0.9227485656738281] The desk staff was also very knowledgable about getting around.
+[0.8719825744628906] The front desk will help you arrange any travel plans and are experts on the area.
+[0.5690975189208984] They know their facility well and strive to make their guests comfortable.
+[0.2497539520263672] The Front Desk staff went out of their way to provide excellent directions along with helpful driving tips.
+[0.23644065856933594] The staff was very helpful.
+
+----- Weakening -----
+
+[-0.74139404296875] The staff just seemed disinterested, especially at the bar and the front desk.
+[-0.7173557281494141] I rented a bike but no one offered to show me how to use the lock.
+[-0.67138671875] The desk staff would not look up on Hotels.ca the discrepancies we sited when checking out but they were very cheery and smiling the whole time while denying our information which was infuriating!
+[-0.6123046875] What would have made this hotel a 5-star for us would have been if the concierge had been more knowledgeable, particularly with transit options for exploring attractions.
+[-0.3071746826171875] Otherwise, the decor and furnishings are a little tired and dated.

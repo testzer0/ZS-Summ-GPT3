@@ -1,0 +1,191 @@
+***** Aspect: rooms Model Type : zs *****
+Overall score: 0.8741660912831625
+
+**********
+
+[0.9645576477050781] There is 24-hour room service.
+Parent: Fifth , we were told there was 24 hour room service , when we inquired about room service we were told the kitchen was closed !
+
+----- Supporting -----
+
+[0.9645576477050781] Fifth, we were told there was 24 hour room service, when we inquired about room service we were told the kitchen was closed!
+[0.00714111328125] Hotel is brand new, with valet parking, service is exeptional with extra personal touches of the staff remembering you from check in.
+[0.0] Loved it!
+[-0.00016021728515625] Hotel is new, everything was in good working order.
+[-0.00017070770263671875] The hotel was very nice.
+
+----- Weakening -----
+
+[-0.9961011409759521] After 5 PM they still did not have two rooms available and suggested we go to dinner and then they'd be ready, Well, at 7:30, after dinner, they still did not have rooms ready (housekeeping still working on them!!!).
+[-0.9914059638977051] Two nights we did have a guest, who had orginally intended to attend the conference: despite being assured on the phone that we could add a rollaway for him, when he arrived, we couldn't, and he and my colleague had to split a regular bed.
+[-0.9911861419677734] my boyfriend and i both went home sore and dead tired from trying to find a comfortable way to sleep tossing and turning all night but there was none.
+[-0.9664645195007324] Gym is very good, and to my surprise, was empty the couple of times I went about.
+[-0.9648723602294922] We were given a regular room and when we called to ask to have our room replaced with another Jacuzzi room it took 25 minutes for the front desk to call us back.
+
+**********
+
+[0.2447509765625] Room service was not available.
+Parent: Fifth , we were told there was 24 hour room service , when we inquired about room service we were told the kitchen was closed !
+
+----- Supporting -----
+
+[0.2447509765625] my boyfriend and i both went home sore and dead tired from trying to find a comfortable way to sleep tossing and turning all night but there was none.
+[0.21246337890625] Two nights we did have a guest, who had orginally intended to attend the conference: despite being assured on the phone that we could add a rollaway for him, when he arrived, we couldn't, and he and my colleague had to split a regular bed.
+[0.018798828125] Gym is very good, and to my surprise, was empty the couple of times I went about.
+[0.0054931640625] Pool and hot tub clean, though bizarrly no changing room.
+[0.0] Loved it!
+
+----- Weakening -----
+
+[-0.9980719089508057] The service was exceptional and the rooms are very clean and comfortable.
+[-0.9964947700500488] Breakfast was included with the room and it is served on the second floor as a hot buffet breakfast style.
+[-0.9956333637237549] I used the room for sleeping and to prepare for some meetings.
+[-0.9951333999633789] Loved the in room coffee machine and microwave.
+[-0.9950900077819824] The rooms are in excellent condition, housekeeping is very good, and the location is very handy to everything downtown.
+
+**********
+
+[0.765411376953125] The roll out bed was free.
+Parent: Sixth , we were told over the phone that we could get a roll out bed ( cot ) for free , when we arrived we were informed that to add a roll out bed would be a fire hazard .
+
+----- Supporting -----
+
+[0.765411376953125] Sixth, we were told over the phone that we could get a roll out bed (cot) for free, when we arrived we were informed that to add a roll out bed would be a fire hazard.
+[0.09283447265625] Gym is very good, and to my surprise, was empty the couple of times I went about.
+[0.0] Loved it!
+[-0.009463310241699219] I really enjoyed staying in this hotel.
+[-0.0102691650390625] Would definitely chose this hotel again!
+
+----- Weakening -----
+
+[-0.9756097793579102] The king bed was one of the best I ever had.
+[-0.9620437622070312] In the shower there is a very nice rainfall shower head that feels great to get into after a long day walking around Toronto, especially in the heat!
+[-0.9608230590820312] Also, tons of bars everywhere!!!
+[-0.9546089172363281] It is a sleep number bed so you can adjust the firmness.
+[-0.9538612365722656] The breakfast buffett was very well stocked and had lots of options.
+
+**********
+
+[0.9762287139892578] Adding a roll out bed would be a fire hazard.
+Parent: Sixth , we were told over the phone that we could get a roll out bed ( cot ) for free , when we arrived we were informed that to add a roll out bed would be a fire hazard .
+
+----- Supporting -----
+
+[0.9762287139892578] Sixth, we were told over the phone that we could get a roll out bed (cot) for free, when we arrived we were informed that to add a roll out bed would be a fire hazard.
+[0.0] Loved it!
+[-0.0022420883178710938] Try not to get a room on that side, even high up.
+[-0.006103515625] Pool and hot tub clean, though bizarrly no changing room.
+[-0.009659767150878906] We took them, but when went up, one of the rooms only had one bed and no couch!!
+
+----- Weakening -----
+
+[-0.866908073425293] Wonderful beds and linens.
+[-0.848820686340332] And the bed was terrific!
+[-0.8066787719726562] You could make your own waffles with delicious toppings, huge choice of cereals and pastries, cooked items are made to order so fresh and yummy!
+[-0.8044052124023438] The breakfast buffett was very well stocked and had lots of options.
+[-0.803436279296875] It was not just cereal and toast or muffins.
+
+**********
+
+[0.9882583618164062] We had a King room.
+Parent: We had one of the King rooms with a whirlpool .
+
+----- Supporting -----
+
+[0.9882583618164062] We had one of the King rooms with a whirlpool.
+[0.9807624816894531] We had a room with a king bed and a couch.
+[0.9625701904296875] I went to The Hilton Garden Inn on Peter Street for a one night stay with my BF to celebrate our Anniversary, we opted for the King Room with Jacuzzi and Fireplace.
+[0.8843994140625] The room was lovely, fireplace jacuzzi king sized bed.
+[0.74041748046875] Front desk person said we could get into two adjoining rooms right away, but each room only had a king bed and a pull-out couch.
+
+----- Weakening -----
+
+[-0.9916763305664062] and instead had a very large glassed in shower area.
+[-0.9902877807617188] Tell us how you liked the room - Had a 2 queen bed room - very spacious and beds were extremely comfortable.
+[-0.9818992614746094] the Pool, while not large, was comfortable and clean, and the workout facilities were excellent.
+[-0.9815464019775391] we enjoyed the pool and hot tub albeit not very deep.
+[-0.9808444976806641] Nice little indoor pool as well.
+
+**********
+
+[0.9835538864135742] The room had a whirlpool.
+Parent: We had one of the King rooms with a whirlpool .
+
+----- Supporting -----
+
+[0.9835538864135742] Also the room had a two person whirlpool bath from which you could watch either the TV or the fireplace.
+[0.9783182144165039] We had one of the King rooms with a whirlpool.
+[0.9061965942382812] Whirlpool tub next to the bed with a fireplace.
+[0.835693359375] You can get a whirlpool room with a fireplace if you are so inclined and the price is pretty much the same as a room without.
+[0.149658203125] We stayed on a wag jag jaunt deal and upgraded to a jacuzzi room.
+
+----- Weakening -----
+
+[-0.9786262512207031] There was also a fire in the room which I imagine would be cozy on winter nights.
+[-0.9581832885742188] There was an ipod dock in the room which was nice to have.
+[-0.9498214721679688] We had a room with a stand up shower which was fine by me.
+[-0.9449272155761719] The room has a refrigerator and microwave.
+[-0.9430313110351562] A HUGE plus is that there's a microwave and mini-fridge in every room!
+
+**********
+
+[0.9688577651977539] The location is great.
+Parent: The location is great , the hotel itself is fairly new so everything was clean and nicely presented .
+
+----- Supporting -----
+
+[0.9688577651977539] The location is great, the hotel itself is fairly new so everything was clean and nicely presented.
+[0.9353237152099609] Love this hotel, great location ... if you're a group of young people looking for nightlife and shopping (Queen West is right there with a bunch of stores, Chinatown and Kensington is walking distance), definitely give this hotel a shot!
+[0.9117965698242188] Great location, especially for going to Rogers Centre, plenty of places to eat nearby, very good breakfast buffet, and has pool for the kids.
+[0.9098529815673828] Nice staff, great location, wonderful breakfast, clean modern rooms, but if your room is on the south side of the building, the noise from the club next door will rock your world until about 2:30 AM.
+[0.8782196044921875] I have nothing bad to say about this hotel, helpful staff, clean tidy room, comfy beds, great location, it was a perfect place to stay.
+
+----- Weakening -----
+
+[-0.9796199798583984] BAD: Make sure you request a room that is not above the nightclub downstairs on Peter St. We were on the 17th floor & we could still hear all the music, even with our windows shut.
+[-0.9242877960205078] Try not to get a room on that side, even high up.
+[-0.8895092010498047] Unfortunately, we made the wrong decision on where to stay.
+[-0.7061748504638672] I truly disliked the bed.
+[-0.6294288635253906] my boyfriend and i both went home sore and dead tired from trying to find a comfortable way to sleep tossing and turning all night but there was none.
+
+**********
+
+[0.9870476722717285] The hotel is new.
+Parent: The location is great , the hotel itself is fairly new so everything was clean and nicely presented .
+
+----- Supporting -----
+
+[0.9870476722717285] The hotel is brand new, fantastic rooms and public areas.
+[0.9821567535400391] Hotel is new, everything was in good working order.
+[0.9809989929199219] Hotel is brand new, with valet parking, service is exeptional with extra personal touches of the staff remembering you from check in.
+[0.9449596405029297] The location is great, the hotel itself is fairly new so everything was clean and nicely presented.
+[0.9423294067382812] Since this hotel is fairly new, the bathrooms are very nice.
+
+----- Weakening -----
+
+[-0.8603134155273438] The room was a fairly typical Hilton Garden Inn room, which I like, with great & free high speed access, a fridge that came in very handy and a solid shower and bed.
+[-0.850799560546875] We've stayed here at least 5 times, the last being NYE.
+[-0.6927337646484375] Our original two rooms were finally clean but had already been given to someone else.
+[-0.6610031127929688] We know all the downtown hotels as we used to live in TO before we moved to the US and this hotel has become one of our favorites for visiting downtown TO.
+[-0.5531597137451172] Unfortunately, we made the wrong decision on where to stay.
+
+**********
+
+[0.9888284206390381] The hotel was clean and nicely presented.
+Parent: The location is great , the hotel itself is fairly new so everything was clean and nicely presented .
+
+----- Supporting -----
+
+[0.9888284206390381] The Hotel is very clean, has free WiFi, is well decorated and very comfortable.
+[0.982506275177002] Great to stay in a new hotel, very clean, lovely furnishings and decor.
+[0.9814496040344238] We love this hotel.It is clean and beautiful.The staff treat you like friends.It is so centrally located that you can access downtown Toronto at its best.You are in walking distance to everything.We will be staying here again for sure.
+[0.9805691242218018] Very nice hotel, clean, and helpful staff.
+[0.978569507598877] The location is great, the hotel itself is fairly new so everything was clean and nicely presented.
+
+----- Weakening -----
+
+[-0.9956207275390625] The wallpaper in the bathroom and our room was warped, bubbled, etc.
+[-0.9946608543395996] Plus the spa had too much chlorine in and that my eye's were stinging.
+[-0.9726324081420898] It was an adjustable bed that allows you to choose the softness, I found it to be lumpy and uncomfortable.
+[-0.9691495895385742] The week-end floozies everywhere and drunken partners are too much !
+[-0.9539899826049805] my boyfriend and i both went home sore and dead tired from trying to find a comfortable way to sleep tossing and turning all night but there was none.

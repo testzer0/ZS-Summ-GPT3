@@ -1,0 +1,107 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.9686040878295898
+
+**********
+
+[0.9636392593383789] The building is clean.
+Parent: The building is clean, modern, and quiet.
+
+----- Supporting -----
+
+[0.9636392593383789] The hotel is very clean, the rooms were a good price for the quality received, and, best of all, the location can't be beat.
+[0.9531059265136719] The fitness center is very nice and very clean.
+[0.9249229431152344] The hotel was very clean, the hotel staff were very friendly and information, and it was close to public transportation, which we used for our entire time in Toronto.
+[0.9203205108642578] This place is very clean, its got THE MOST comfortable beds, and the location is great.
+[0.9148273468017578] I have to admit that I am usually very worried about hotels and their cleanliness... but this hotel was extremely clean.
+
+----- Weakening -----
+
+[-0.9893417358398438] my colleagues staying at the sheraton said their rooms were old and not maintained and in some cases dirty.
+[-0.9866695404052734] My basic perception was that the rooms had a dated, unclean vibe.
+[-0.9818649291992188] They got louder as the night progressed and started to smoke.
+[-0.9710979461669922] I was on the 10th floor, it took forever for the shower to get hot and when it did the temperature fluctuated radically from luke warm to scalding.
+[-0.9599685668945312] The worst part of the stay however was finding two LARGE insects or animals, something in the room!
+
+**********
+
+[0.9664249420166016] The building is modern.
+Parent: The building is clean, modern, and quiet.
+
+----- Supporting -----
+
+[0.9664249420166016] The hotel is modern and the lobby is inviting.
+[0.9117155075073242] The hotel has a very modern look and feel to it.
+[0.8184146881103516] Modern facility, quiet.
+[0.8076515197753906] The hotel was clean and modern and the King room was spacious, with the most comfortable bed (slept better than at home).
+[0.7821846008300781] The lobby was modern with a beautiful fireplace and a good breafast/coffee/drinks bar too.
+
+----- Weakening -----
+
+[-0.9923772811889648] My basic perception was that the rooms had a dated, unclean vibe.
+[-0.9908180236816406] The rest of the hotel was nice but a little dated.
+[-0.9842643737792969] my colleagues staying at the sheraton said their rooms were old and not maintained and in some cases dirty.
+[-0.94879150390625] To start with the decor in the rooms is dreadful; mustard coloured walls, a mustard coloured 3D (dont ask) carpet, mustard cloured bed throws and an artexed ceiling only just over 7 feet over our heads.
+[-0.9353275299072266] It's a nice clean, quiet hotel in a great area.
+
+**********
+
+[0.9567060470581055] The building is quiet.
+Parent: The building is clean, modern, and quiet.
+
+----- Supporting -----
+
+[0.9567060470581055] Location is good and the hotel is quiet.
+[0.9429111480712891] It's a nice clean, quiet hotel in a great area.
+[0.9322538375854492] Modern facility, quiet.
+[0.58837890625] Overrall, my room was a comfortable place to spend some time (I liked the large flat panel tv), while the rest of the hotel was unexciting.
+[0.4566192626953125] Quiet, clean, modern room.
+
+----- Weakening -----
+
+[-0.9971060752868652] They got louder as the night progressed and started to smoke.
+[-0.9968290328979492] This was incredibly annoying and extremely loud in our room.
+[-0.9957818984985352] Six times the doors opened and closed packed to the gills.
+[-0.9954462051391602] The pool area is quite small, and elevators, lobby is packed by noon, and there seem to be a lot of kids running around everytime im there, and the giftshop and cafe were very overpriced.
+[-0.9953641891479492] We definitely could hear some...*ahem* rhythmic knocking on the walls from next door.
+
+**********
+
+[0.9841012954711914] The hotel is located near the Eaton Centre Mall.
+Parent: It is conveniently located near the Eaton Centre Mall and other attractions in Toronto.
+
+----- Supporting -----
+
+[0.9841012954711914] The hotel's downtown location is convenient for public transportation and adjacent to the Eaton Centre Mall.
+[0.9632034301757812] This hotel is connected to Eaton Center, which is the biggest and best shopping mall downtown.
+[0.961944580078125] Not sure if that's a regular occurrence, but again, it's a nice hotel attached to the Eaton Center mall pretty close to the water (within walking distance).
+[0.952606201171875] The hotel is wonderfully located to all metro hospitals and when some very important down time is needed the Eaton Center mall is attached so you do not have to worry about the weather or putting on a coat.
+[0.940333366394043] Really liked my stay, it's right next to Eaton Ctr, room was spacious and modern.
+
+----- Weakening -----
+
+[-0.9511051177978516] Yhis Marriott is located immediately next to the Trinity Church and the Waton Centre; immediately in the heart of downtown Toronto.
+[-0.9504489898681641] The hotel is located diagonally across from Nathan Phillips Square.
+[-0.936985969543457] It is across the streets from both old and new City Hall.
+[-0.9353137016296387] The beds were nice and we had a view of the church next door.
+[-0.9196586608886719] It is also right beside Nathan Phillips Square, which has a skating rink all winter.
+
+**********
+
+[0.9721488952636719] The hotel is located near other attractions in Toronto.
+Parent: It is conveniently located near the Eaton Centre Mall and other attractions in Toronto.
+
+----- Supporting -----
+
+[0.9721488952636719] Hotel is well placed fo shopping , Dundas square and all the tourist attractions Toronto has to offer.
+[0.9639673233032227] Described as a business hotel the Eaton Centre Marriott is also well suited for leisure breaks, situated close to a range of attractions the hotel provides an ideal base to explore Toronto.
+[0.8421154022216797] I had not been to Toronto for years and didn't realize how walkable most of the central city is, especially from this hotel, which is conveniently located just blocks from culture, food, shopping and transportation.
+[0.7539958953857422] It is in a great location - attached to the Eaton Centre for some last minute Christmas shopping, and close to Nathan Phillips Square and other Toronto sights.
+[0.6015472412109375] (1) Location of the hotel is ideal , my wife was thrilled as it was within short walling distance to the Eaton center one of the largest shopping centers in Toronto (2) Room is spacious compared to other 4 star hotels, good furniture, clean and neat (3) Good entertainment with LCD 37 inch TV with on demand movies and more (4) Staff are friendly and professional, good staffing numbers very adequate (5) Breakfast was great and included in the price of around US$ 200 per night , very fair price for this hotel, the breakfast included fresh fruits (Produce of Canada) and eggs and an egg station and many other delights
+
+----- Weakening -----
+
+[-0.0971832275390625] Friday AM I had surgery.
+[-0.06524658203125] I am voting NDP, horrible end for Layton.
+[-0.02902984619140625] I was so frustrated.
+[-0.02474212646484375] We were working on an important project.
+[-0.02017974853515625] I explained that I had just had surgery and needed assistance.

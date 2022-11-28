@@ -1,0 +1,107 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.7547165870666503
+
+**********
+
+[0.9907383918762207] The hotel was clean.
+Parent: The reviews said that the hotel was clean and well-maintained.
+
+----- Supporting -----
+
+[0.9907383918762207] Hotel was very clean, very quiet, great for a business trip.
+[0.9830589294433594] Hotel is extremely clean and quiet, and the staff is very helpful.
+[0.977386474609375] Highly recommend this hotel rooms, they were nice and clean and very comfortable.
+[0.9651198387145996] Friendly welcoming staff, clean, one of the best hotels I've stayed at in a long time!
+[0.9134616851806641] The hotel is recently remodeled and the rooms are very clean and modern as is the hotel lobby.
+
+----- Weakening -----
+
+[-0.997502326965332] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[-0.9937038421630859] The air conditioning vent had so much filthy residue trapped inside that it could not possibly pass a health audit.
+[-0.9928450584411621] Our toliet overflowed at 11pm resulting in a flood in our bathroom.
+[-0.9922299385070801] It was dark, dirty, and noisy from the construction right outside my window.
+[-0.9894485473632812] Don't take a room on the inside unless you want to be awakened by the garbage trucks at 5am.
+
+**********
+
+[0.9866981506347656] The hotel was well-maintained.
+Parent: The reviews said that the hotel was clean and well-maintained.
+
+----- Supporting -----
+
+[0.9866981506347656] The hotel is very well kept and modern.
+[0.8640966415405273] Friendly welcoming staff, clean, one of the best hotels I've stayed at in a long time!
+[0.8430538177490234] Hotel is extremely clean and quiet, and the staff is very helpful.
+[0.8315086364746094] Hotel was very clean, very quiet, great for a business trip.
+[0.7931938171386719] Highly recommend this hotel rooms, they were nice and clean and very comfortable.
+
+----- Weakening -----
+
+[-0.9793996810913086] The air conditioning vent had so much filthy residue trapped inside that it could not possibly pass a health audit.
+[-0.9713382720947266] Don't take a room on the inside unless you want to be awakened by the garbage trucks at 5am.
+[-0.9713020324707031] It was dark, dirty, and noisy from the construction right outside my window.
+[-0.9620809555053711] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[-0.9481544494628906] The room is shabby, the shower made a horrible noise whenever the water was running.
+
+**********
+
+[0.5191574096679688] The attention to detail was great.
+Parent: They also said that the attention to detail was excellent, with lighting and electrical outlets being particularly noted.
+
+----- Supporting -----
+
+[0.5191574096679688] The best included the cleanliness, the attention to detail with lighting and electrical outlets, the comfortable furniture, the robes, the great shower, the refrigerator, the windows can open, the wide and well lit hallways (although too warm) and of course an excellent king bed.
+[0.3950080871582031] The service provided by the front desk, and the concierge/bell desk/valet in particular, were top notch.
+[0.30963134765625] A lovely hotel with an updated room that was spotless.
+[0.27485084533691406] Don't know the concierges name, it would be the older man in the morning but he had great recommendations for restaurants, each one excellent and was so knowledgeable about the city and when was the best times to go to events.
+[0.23430633544921875] It was fantastic and has great deals and specials.
+
+----- Weakening -----
+
+[-0.9949626922607422] Cons 1- No view really.
+[-0.9920282363891602] My gripe was that housekeeping must have noticed this when they changed the sheets, but made no attempt at cleaning the mattress and simply covered it back up.
+[-0.9917068481445312] My pancakes were delicious, but I was a little disappointed with the "hash brows" because they were really only cubed potatoes.
+[-0.9896602630615234] It was very quiet.
+[-0.9896063804626465] They just seem unsanitary to me.
+
+**********
+
+[0.6976318359375] The lighting was good.
+Parent: They also said that the attention to detail was excellent, with lighting and electrical outlets being particularly noted.
+
+----- Supporting -----
+
+[0.6976318359375] The best included the cleanliness, the attention to detail with lighting and electrical outlets, the comfortable furniture, the robes, the great shower, the refrigerator, the windows can open, the wide and well lit hallways (although too warm) and of course an excellent king bed.
+[0.47209930419921875] Also, huge light is right outside window and shines very bright into the room.
+[0.242706298828125] The fire place in the reception area was a nice touch since it was raining when I arrived at the hotel.
+[0.185943603515625] Friendly service, clean, a very good option in the Emerald City.
+[0.1356029510498047] The nightly room rate was excellent.
+
+----- Weakening -----
+
+[-0.9694910049438477] It was dark, dirty, and noisy from the construction right outside my window.
+[-0.8895225524902344] My room was nice enough, but faced the Hyatt and so was a little dark with little natural light.
+[-0.7079391479492188] Cons 1- No view really.
+[-0.7060928344726562] The room was very dark at night and the beds were comfy, so we got a great night's sleep.
+[-0.6088943481445312] PLEASE don't give this awful chain your business!
+
+**********
+
+[0.5793571472167969] The electrical outlets were a problem.
+Parent: They also said that the attention to detail was excellent, with lighting and electrical outlets being particularly noted.
+
+----- Supporting -----
+
+[0.5793571472167969] The heater came off and on frequently and it made a jarring clicking noise each time...all night long.
+[0.47408294677734375] The A/C, no matter how low it was set, didn't keep the room very cool.
+[0.293212890625] The treadmills were ok but the ellyptical machines were bad.
+[0.21148681640625] Our toliet overflowed at 11pm resulting in a flood in our bathroom.
+[0.1605987548828125] They use energy saving compact flourescent bulbs so the room was not very bright for reading.
+
+----- Weakening -----
+
+[-0.9734792709350586] We were also provided with free Wifi, which was great!
+[-0.9457492828369141] Big screen TV, refrigerator, coffee pot, all added to comfort.
+[-0.9451065063476562] The best included the cleanliness, the attention to detail with lighting and electrical outlets, the comfortable furniture, the robes, the great shower, the refrigerator, the windows can open, the wide and well lit hallways (although too warm) and of course an excellent king bed.
+[-0.8304862976074219] What a wonderful surprise.
+[-0.8080234527587891] I really have nothing bad to say about the Paramount!

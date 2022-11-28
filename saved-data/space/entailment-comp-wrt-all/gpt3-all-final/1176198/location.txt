@@ -1,0 +1,86 @@
+***** Aspect: location Model Type : zs *****
+Overall score: 0.9205594062805176
+
+**********
+
+[0.9849023818969727] The location of the hotel is good.
+Parent: The location of the hotel is praised by most reviewers for being central and close to major attractions.
+
+----- Supporting -----
+
+[0.9849023818969727] The hotel has a very good location.
+[0.9805467128753662] The Hotel location is excellent, near the CN Tower and many other attractions.
+[0.9770169258117676] This hotel is a in a great location.
+[0.974522590637207] The location of the hotel is excellent for these attractions.
+[0.9731547832489014] The location is great, the hotel itself is fairly new so everything was clean and nicely presented.
+
+----- Weakening -----
+
+[-0.9654960632324219] BAD: Make sure you request a room that is not above the nightclub downstairs on Peter St. We were on the 17th floor & we could still hear all the music, even with our windows shut.
+[-0.5881423950195312] Try not to get a room on that side, even high up.
+[-0.5193614959716797] Unfortunately, we made the wrong decision on where to stay.
+[-0.3699188232421875] Cons: Saturday night was very noisy-- club on street just below the hotel had noise that was heard even on my upper floor room with windows closed.
+[-0.3211669921875] OK, I love music, but this was no music !
+
+**********
+
+[0.9849023818969727] The location of the hotel is good.
+Parent: The location of the hotel is praised by most reviewers for being central and close to major attractions.
+
+----- Supporting -----
+
+[0.9849023818969727] The hotel has a very good location.
+[0.9805467128753662] The Hotel location is excellent, near the CN Tower and many other attractions.
+[0.9770169258117676] This hotel is a in a great location.
+[0.974522590637207] The location of the hotel is excellent for these attractions.
+[0.9731547832489014] The location is great, the hotel itself is fairly new so everything was clean and nicely presented.
+
+----- Weakening -----
+
+[-0.9654960632324219] BAD: Make sure you request a room that is not above the nightclub downstairs on Peter St. We were on the 17th floor & we could still hear all the music, even with our windows shut.
+[-0.5881423950195312] Try not to get a room on that side, even high up.
+[-0.5193614959716797] Unfortunately, we made the wrong decision on where to stay.
+[-0.3699188232421875] Cons: Saturday night was very noisy-- club on street just below the hotel had noise that was heard even on my upper floor room with windows closed.
+[-0.3211669921875] OK, I love music, but this was no music !
+
+**********
+
+[0.7485771179199219] The location is too noisy for some reviewers.
+Parent: However, some reviewers find the location to be noisy due to the nearby nightclub.
+
+----- Supporting -----
+
+[0.7485771179199219] Some other folks complained about the noise from the nightclubs in the area.
+[0.7298812866210938] Some reviewers had mentioned the noise from the clubs so we asked for a quiet room and were not disappointed.
+[0.2532844543457031] I would not stay her again because of the rude front desk staff and the street noise.
+[0.23772430419921875] BAD: Make sure you request a room that is not above the nightclub downstairs on Peter St. We were on the 17th floor & we could still hear all the music, even with our windows shut.
+[0.2083740234375] Despite this (and some of the other reviews), I found that the hotel is quiet and I was never disturbed by what is going outside.
+
+----- Weakening -----
+
+[-0.6440601348876953] Super clean..i mean there wasn't any dust...dirt, smudges...The (glass or plexiglass) partition for whirpool was so clean that it positively sparkled.
+[-0.5716323852539062] She even called us by name.
+[-0.504669189453125] They told us in a very rude tone and with attitude that our credit card had been declined over the last few days and that they had tried it several time so we would have to provide a cash deposit.
+[-0.4849061965942383] We were on the 17th floor and had a nice view of some of the taller buidings as well as the CN Tower.
+[-0.4343757629394531] I was there with three other couples and they also loved the hotel.
+
+**********
+
+[0.9638557434082031] The location is close to a nightclub.
+Parent: However, some reviewers find the location to be noisy due to the nearby nightclub.
+
+----- Supporting -----
+
+[0.9638557434082031] My fiance and I stayed at this hotel the last time we went to Toronto to see a jays ball game, located a few footsteps from the cn tower/rogers centre, very convenient location, very good price, clean room, friendly staff, but as other reviews say, and we were expecting it and didn't mind considering the price and location, this hotel is right next to a night club, so the music really boom booms until early morning, unless you are a light sleeper, I would recommend this hotel to you.
+[0.9526915550231934] The hotel is right beside a nightclub.
+[0.9448156356811523] However, it's right next to a really noisy nightclub.
+[0.9239692687988281] The clientele seemed to include a lot of people whose night was just starting when we were getting back from the play (the hotel is also near a lot of nightclubs).
+[0.9120521545410156] Also note that there is a very busy club right next door to the entrance of this hotel.
+
+----- Weakening -----
+
+[-0.9804172515869141] Also it is conveniently located near a Shoppers which, with the in room microwave and fridge it makes it easy to have a quick snack in the room.
+[-0.9746789932250977] This place is very close to the Toronto Domino Bank office which is located in Royal Trust Tower 77 King Street West.
+[-0.8962192535400391] Surrounded by lots of restaurants and two less than two blocks from great shopping.
+[-0.8891563415527344] It is convenient to a nearby Shopper's Drug Mart (to pick up some in room snacks) and a large LCBO with a rather big Vintages section for some excellent wine for the room.
+[-0.852447509765625] The lobby is a little spare, and the furnishings are going down that Hilton Garden Inn direction of "your room is your office", which I appreciate when I travel for, well, business, and which appeals less for when I'm there because it's down the street from the theatre.

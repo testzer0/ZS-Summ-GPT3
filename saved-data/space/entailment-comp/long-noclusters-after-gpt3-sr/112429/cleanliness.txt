@@ -1,0 +1,107 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.20954322814941406
+
+**********
+
+[0.042072296142578125] The hotel was clean.
+Parent: The reviews said that the hotel was clean and well-maintained.
+
+----- Supporting -----
+
+[0.042072296142578125] The valet man was excellent.
+[0.03692626953125] The bed was amazingly comfortable, and the decor in good taste (lots of texture, neutral tone, and rich burgandy to soothe the spirit).
+[0.009000778198242188] Lolita was great as well.
+[0.005633831024169922] Getting my car from the valet took less than three minutes... My stay at the Paramount was a very pleasant and positive experience.
+[0.005535125732421875] The hotel even allowed us to check in early (1:00) which was nice because we had just arrived back in Seattle from our Alaskan cruise (the only negative which is why I'm giving Service 4 stars instead of 5 was the girl at the front desk who offered another couple more options about checking in early--which floor and view they wanted, which was not offered to us...whatever...).
+
+----- Weakening -----
+
+[-0.9928450584411621] Our toliet overflowed at 11pm resulting in a flood in our bathroom.
+[-0.9762191772460938] The heater came off and on frequently and it made a jarring clicking noise each time...all night long.
+[-0.9143867492675781] When I had got back to my room the first day I was there housekeeping had still not been to my room, I had left at 9am and it was then 3:30.
+[-0.8985509872436523] They just seem unsanitary to me.
+[-0.87811279296875] My gripe was that housekeeping must have noticed this when they changed the sheets, but made no attempt at cleaning the mattress and simply covered it back up.
+
+**********
+
+[0.13129425048828125] The hotel was well-maintained.
+Parent: The reviews said that the hotel was clean and well-maintained.
+
+----- Supporting -----
+
+[0.13129425048828125] The bed was amazingly comfortable, and the decor in good taste (lots of texture, neutral tone, and rich burgandy to soothe the spirit).
+[0.0529937744140625] The valet man was excellent.
+[0.0462646484375] The decor fits well with the holidays.
+[0.03618621826171875] The decor was cool and modern.
+[0.020694732666015625] Don't know the concierges name, it would be the older man in the morning but he had great recommendations for restaurants, each one excellent and was so knowledgeable about the city and when was the best times to go to events.
+
+----- Weakening -----
+
+[-0.9281282424926758] They just seem unsanitary to me.
+[-0.8577804565429688] Our toliet overflowed at 11pm resulting in a flood in our bathroom.
+[-0.8520355224609375] The maids had left the alarm on from the last guest (a major pet peeve of mine) and so we were awakened at 7 a.m. And, a large group of guests arrived in the room next door at 7:30 and the lack of soundproofing between connecting rooms became glaringly apparent.
+[-0.8499279022216797] When I had got back to my room the first day I was there housekeeping had still not been to my room, I had left at 9am and it was then 3:30.
+[-0.7737960815429688] The A/C, no matter how low it was set, didn't keep the room very cool.
+
+**********
+
+[0.27485084533691406] The attention to detail was great.
+Parent: They also said that the attention to detail was excellent, with lighting and electrical outlets being particularly noted.
+
+----- Supporting -----
+
+[0.27485084533691406] Don't know the concierges name, it would be the older man in the morning but he had great recommendations for restaurants, each one excellent and was so knowledgeable about the city and when was the best times to go to events.
+[0.2136688232421875] The bed was amazingly comfortable, and the decor in good taste (lots of texture, neutral tone, and rich burgandy to soothe the spirit).
+[0.066680908203125] The decor was cool and modern.
+[0.05536651611328125] The valet man was excellent.
+[0.03271007537841797] Never ever seen this in any hotel I have ever stayed at.
+
+----- Weakening -----
+
+[-0.9920282363891602] My gripe was that housekeeping must have noticed this when they changed the sheets, but made no attempt at cleaning the mattress and simply covered it back up.
+[-0.9896063804626465] They just seem unsanitary to me.
+[-0.9861049652099609] Pretty basic information for a concierge to screw up on!
+[-0.9754838943481445] There is no complimentary anything.
+[-0.9715194702148438] The maids had left the alarm on from the last guest (a major pet peeve of mine) and so we were awakened at 7 a.m. And, a large group of guests arrived in the room next door at 7:30 and the lack of soundproofing between connecting rooms became glaringly apparent.
+
+**********
+
+[0.0201416015625] The lighting was good.
+Parent: They also said that the attention to detail was excellent, with lighting and electrical outlets being particularly noted.
+
+----- Supporting -----
+
+[0.0201416015625] The valet man was excellent.
+[0.019985198974609375] Lolita was great as well.
+[0.016492843627929688] The decor was cool and modern.
+[0.013763427734375] Staid here during Sakura-Con with a group of teens.
+[0.01169586181640625] I ended up with a very early morning arrival flight, and hoped that the hotel would hold my bags until check in since I had a meeting at 11am... they let me check into my room at 9:30am!
+
+----- Weakening -----
+
+[-0.3053112030029297] They just seem unsanitary to me.
+[-0.30510711669921875] Our toliet overflowed at 11pm resulting in a flood in our bathroom.
+[-0.2889251708984375] The night before I needed to leave there was a big snowstorm in town, and I was worried the rail system would not be running the next morning.
+[-0.2291259765625] The heater came off and on frequently and it made a jarring clicking noise each time...all night long.
+[-0.18898773193359375] There is no complimentary anything.
+
+**********
+
+[0.5793571472167969] The electrical outlets were a problem.
+Parent: They also said that the attention to detail was excellent, with lighting and electrical outlets being particularly noted.
+
+----- Supporting -----
+
+[0.5793571472167969] The heater came off and on frequently and it made a jarring clicking noise each time...all night long.
+[0.47408294677734375] The A/C, no matter how low it was set, didn't keep the room very cool.
+[0.21148681640625] Our toliet overflowed at 11pm resulting in a flood in our bathroom.
+[0.1605987548828125] They use energy saving compact flourescent bulbs so the room was not very bright for reading.
+[0.05426025390625] Wi-fi, however, was spotty in strength, and I frequently had difficulty maintaining a connection.
+
+----- Weakening -----
+
+[-0.9734792709350586] We were also provided with free Wifi, which was great!
+[-0.7509307861328125] It's Asian inspired and they have some incredible little dishes of sushi and japanese type dishes.
+[-0.6795196533203125] Free wi-fi.
+[-0.6616172790527344] Has fitness (I did not use it), free Wi-Fi and a desk where you can print e.g.
+[-0.55224609375] ps: the chocolate truffles that was promoted through a Foursquare check-in was extremely good.

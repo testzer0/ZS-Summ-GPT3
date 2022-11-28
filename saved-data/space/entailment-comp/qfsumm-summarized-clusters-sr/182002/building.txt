@@ -1,0 +1,107 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.8531739234924316
+
+**********
+
+[0.9933037757873535] There are no fire sprinklers in the guest areas of the hotel.
+Parent: You should also be aware that there are no fire sprinklers in the guest areas of the hotel .
+
+----- Supporting -----
+
+[0.9933037757873535] You should also be aware that there are no fire sprinklers in the guest areas of the hotel.
+[-0.01081085205078125] Nice lobby.
+[-0.01436614990234375] Lobby seemed nice, there's a restaurant right off the lobby that is also very nice and the Tim Horton's attached to the hotel is a great perk for me (I need my Tim's coffee in the AM!).
+[-0.0220184326171875] Relatively safe neighborhood in the "gay" area, but there were a few crazies walking the streets and some just high on drugs.
+[-0.02911376953125] Be prepared to wait at least five minutes, and the doors sensors do not work, which was very annoying.
+
+----- Weakening -----
+
+[-0.9460821151733398] It wasn't obvious and I only noticed it because I was accessing a wall plug behind the bedside table.
+[-0.8601360321044922] And if you're lucky the alarm button in the elevator will have been fixed by then.
+[-0.7677955627441406] We waited 25 minutes for a car to move and had to find management to clear it so we could proceed!
+[-0.7426910400390625] Our car was broken into.
+[-0.7381210327148438] We were beside the elevator and at one point someone in the elevator kept hitting the alarm button and we could hear it.
+
+**********
+
+[0.979705810546875] We were lost.
+Parent: We were lost in a city we HAD never been in for 10 mintues during the night .
+
+----- Supporting -----
+
+[0.979705810546875] We were lost in a city we HAD never been in for 10 mintues during the night.
+[0.0677490234375] We waited 25 minutes for a car to move and had to find management to clear it so we could proceed!
+[-0.007080078125] #1) Business Centre: no paper in printer, no pens, no envelopes, wi-fi slow and potentially virused #2) Several of the desk staff were cold and flat in their behaviour.
+[-0.01611328125] On the way up to my room - I got stuck in an elevator.
+[-0.0323638916015625] (Coming off the street, the turns were tight and narrow.)
+
+----- Weakening -----
+
+[-0.9922018051147461] We also experienced the subway and found it was very easy to get around.
+[-0.9808578491210938] Tim Hortons right in the lobby which was very convenient.
+[-0.9765634536743164] There were lots of restaurants around, and found the area and city in general to be very family friendly.
+[-0.9618911743164062] The property was much better then I expected.
+[-0.9607009887695312] Lobby seemed nice, there's a restaurant right off the lobby that is also very nice and the Tim Horton's attached to the hotel is a great perk for me (I need my Tim's coffee in the AM!).
+
+**********
+
+[0.9670677185058594] We were lost for 10 minutes.
+Parent: We were lost in a city we HAD never been in for 10 mintues during the night .
+
+----- Supporting -----
+
+[0.9670677185058594] We were lost in a city we HAD never been in for 10 mintues during the night.
+[-0.009352684020996094] On the way up to my room - I got stuck in an elevator.
+[-0.03237295150756836] You might also get stuck in the elevator, though the manager said that it happens all the time.
+[-0.05704689025878906] (Coming off the street, the turns were tight and narrow.)
+[-0.07344436645507812] #1) Business Centre: no paper in printer, no pens, no envelopes, wi-fi slow and potentially virused #2) Several of the desk staff were cold and flat in their behaviour.
+
+----- Weakening -----
+
+[-0.965695858001709] We also experienced the subway and found it was very easy to get around.
+[-0.9442539215087891] We were beside the elevator and at one point someone in the elevator kept hitting the alarm button and we could hear it.
+[-0.9392080307006836] Tim Hortons right in the lobby which was very convenient.
+[-0.9175319671630859] Nice lobby.
+[-0.8877239227294922] We had many people coming for this conference that had scratched their cars or some that cracked their exhaust pipe.
+
+**********
+
+[0.9846973419189453] We were lost in the city at night.
+Parent: We were lost in a city we HAD never been in for 10 mintues during the night .
+
+----- Supporting -----
+
+[0.9846973419189453] We were lost in a city we HAD never been in for 10 mintues during the night.
+[-0.015157699584960938] (Coming off the street, the turns were tight and narrow.)
+[-0.0199432373046875] We waited 25 minutes for a car to move and had to find management to clear it so we could proceed!
+[-0.061667442321777344] You have to drive very slow and carefully to make sure you don't damage your car.
+[-0.11436843872070312] It was quickley rectified and someone brought me a new iron within minuets.
+
+----- Weakening -----
+
+[-0.9712324142456055] We were beside the elevator and at one point someone in the elevator kept hitting the alarm button and we could hear it.
+[-0.9659318923950195] Nice lobby.
+[-0.9598274230957031] While taking an elevator to our room, we noted the bottom of the elevator was being held together with a piece of plywood.
+[-0.9545555114746094] Which made it easy to stumble through the lobby drunk and singing at 1:00 a.m.
+[-0.9469165802001953] Tim Hortons right in the lobby which was very convenient.
+
+**********
+
+[0.341094970703125] The alarm button in the elevator is not working.
+Parent: And if you 're lucky the alarm button in the elevator will have been fixed by then .
+
+----- Supporting -----
+
+[0.341094970703125] And if you're lucky the alarm button in the elevator will have been fixed by then.
+[-0.0032205581665039062] On the way up to my room - I got stuck in an elevator.
+[-0.036968231201171875] While taking an elevator to our room, we noted the bottom of the elevator was being held together with a piece of plywood.
+[-0.039318084716796875] You should also be aware that there are no fire sprinklers in the guest areas of the hotel.
+[-0.056301116943359375] They moved very slow but at least they are undergoing renovation.
+
+----- Weakening -----
+
+[-0.8666973114013672] Our car was broken into.
+[-0.7096099853515625] (Coming off the street, the turns were tight and narrow.)
+[-0.68035888671875] You have to drive very slow and carefully to make sure you don't damage your car.
+[-0.5118408203125] There were lots of restaurants around, and found the area and city in general to be very family friendly.
+[-0.48946380615234375] Only small issue was when I went to iron my pants the iron was broken.

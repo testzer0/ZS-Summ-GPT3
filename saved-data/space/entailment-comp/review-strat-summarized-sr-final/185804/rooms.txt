@@ -1,0 +1,149 @@
+***** Aspect: rooms Model Type : zs *****
+Overall score: 0.8630080223083496
+
+**********
+
+[0.9859576225280762] The rooms were small.
+Parent: The reviewers found the rooms to be small and outdated, with no carpeting on the floors.
+
+----- Supporting -----
+
+[0.9859576225280762] The rooms are quite small, which was a little tight with two kids and my wife and me.
+[0.9853763580322266] The rooms are incredibly small.
+[0.9830050468444824] The rooms are small and sparsely furnished.
+[0.9817647933959961] The rooms are small but nice, the lobby is modern and inviting and the staff is friendly.
+[0.9647293090820312] The rooms are somewhat small and quite expensive considering the size.
+
+----- Weakening -----
+
+[-0.996769905090332] A beautiful large modern style room with lots of windows.
+[-0.996403694152832] Big rooms with lots of windows.
+[-0.9963903427124023] The rooms are large, each with a small balcony and most have a view of the water.
+[-0.9963440895080566] Our room was clean and large.
+[-0.9951176643371582] The balcony had impressive views and was private, the suite was huge and very comfortable.
+
+**********
+
+[0.8302154541015625] The rooms were outdated.
+Parent: The reviewers found the rooms to be small and outdated, with no carpeting on the floors.
+
+----- Supporting -----
+
+[0.8302154541015625] I think the bathroom was recently reno'd and it was great, but the rest of the room was pretty ho-hum, and even a little run-down/old looking.
+[0.758697509765625] I booked an upgraded King room with a view and ended up beside the elevator in a room that looked pretty dated and uninviting.
+[0.6036529541015625] The room was small and dark and old.
+[0.5225830078125] The rooms are fairly well equipped, and on the surface look good, however the fittings when you look closely at them are not top quality, and will not last.
+[0.3651123046875] Its a bit old and some of the furnishings and fabrics in the room showed their age, but its clean and quiet and the mattress was comfortable.
+
+----- Weakening -----
+
+[-0.9960660934448242] The room was very nice, clean and new, a tad on the small side, but fine.
+[-0.9935402870178223] The room itself was clean, the bathroom was very modern, and the views of the water/harbor were very pretty.
+[-0.9904026985168457] A beautiful large modern style room with lots of windows.
+[-0.9896864891052246] The hotel is very modern, with the feel of a boutique 5 star hotel.
+[-0.9881997108459473] We especially loved the modern shower with rainfall, massage, and regular options.
+
+**********
+
+[0.9863901138305664] There was no carpeting on the floors.
+Parent: The reviewers found the rooms to be small and outdated, with no carpeting on the floors.
+
+----- Supporting -----
+
+[0.9863901138305664] No carpet on the floor, hardly any outlets and the bathroom was too small.
+[0.4197998046875] The marble tile floors in the rooms make for easy management of the pet-friendly policy, so I don't mark this hotel down for that as some other reviewers have mentioned.
+[0.06317138671875] It had views of the harbour and the rooms were absolutely beautiful -- nice marble floors too.
+[0.03813362121582031] The rooms were very clean and comfortable.
+[0.029483795166015625] Our room was clean and large.
+
+----- Weakening -----
+
+[-0.9898228645324707] * The doors, wallpaper and carpets need to be redone.
+[-0.9778327941894531] The floors throughout are marble with an occasional scatter rug.
+[-0.93951416015625] Kind size bed, tv, marble floors small scatter rug on either side of the bed.
+[-0.9353427886962891] Last time we were in town in April it was full up.
+[-0.8749732971191406] You won't be disappointed.
+
+**********
+
+[0.9779720306396484] The bathrooms were too small.
+Parent: Some also found the bathrooms to be too small.
+
+----- Supporting -----
+
+[0.9779720306396484] No carpet on the floor, hardly any outlets and the bathroom was too small.
+[0.0999908447265625] Room was quite small, with very limited closet space, especially for 2 adults and a child.
+[0.032825469970703125] The rooms are incredibly small.
+[0.018224716186523438] The room was so tiny we could hardly fit in it.
+[0.010532379150390625] The rooms are quite small, which was a little tight with two kids and my wife and me.
+
+----- Weakening -----
+
+[-0.9975700378417969] Best shower ...the bathroom was huge with an amazing huge ceiling shower head.
+[-0.9965903759002686] Big clean remodelled bathroom.
+[-0.9586353302001953] Bathrooms are super-luxorious.
+[-0.955352783203125] The rooms are VERY clean (very), and the bathrooms are quite luxurious.
+[-0.9403104782104492] The room was beautiful and very spacious with amazing views of False Creek.
+
+**********
+
+[0.8749027252197266] There were not enough outlets.
+Parent: There were also not enough outlets and the desk staff were not very friendly.
+
+----- Supporting -----
+
+[0.8749027252197266] No carpet on the floor, hardly any outlets and the bathroom was too small.
+[0.207794189453125] We had wished the room had a fridge that could be used rather than one stocked with liquor.
+[0.20745849609375] Our only slightly negative comment was that the large kitchen area had plenty of wine glasses, but nothing else - no cutlery, no plates, etc.
+[0.13861083984375] We were told none were available.
+[0.0977325439453125] We only have two comments - we were planning on a "nightcap" when we got back from the theatre on a Saturday night at 10:30 - only to discover that both the dining room and the lounge were closed at this early hour.
+
+----- Weakening -----
+
+[-0.9902563095092773] There are plenty of paths to jog and walk around the water, and lots of choices for dinner and drinks.
+[-0.9853801727294922] Big rooms with lots of windows.
+[-0.9730825424194336] That aside, the rooms were very clean and provided all the amenities needed to help make our stay quite comfortable.
+[-0.9727649688720703] If you're staying over a weekend I recommend booking for dinner as it was packed on Saturday night and Sunday lunchtime.
+[-0.9579963684082031] All the rooms have been remodeled with nice big screen TVs, very comfortable beds and nice décor.
+
+**********
+
+[0.4204254150390625] The desk staff were not very friendly.
+Parent: There were also not enough outlets and the desk staff were not very friendly.
+
+----- Supporting -----
+
+[0.4204254150390625] The hotel is in a great location but needs some serious updating, sound proofing and desk staff needs an attitude check towards guests.
+[0.0050373077392578125] I have to say I was disappointed with the hotel.
+[0.0028209686279296875] That being said, my room was only okay.
+[0.0026159286499023438] We stayed in 6 hotels in all and this was by no means the cheapest, but it was the least appealing.
+[-0.0002288818359375] So if the hotel itself is real important and you intend to spend alot of time in the room itself, I don't recommend this hotel to you.
+
+----- Weakening -----
+
+[-0.9877443313598633] The hotel was a short ride from the airport and the staff were very pleasant upon check-in and check-out.
+[-0.9816007614135742] The room was beautiful, the staff were very pleasant and the food from the restiarant Downstairs was delicious.
+[-0.9782314300537109] This is a wonderful hotel with really nice staff and is a beautiful place to go for a drink or to stay.
+[-0.972447395324707] The hotel is really nice and the staff are friendly and helpful.
+[-0.9699020385742188] First, I need to mention how helpful the folks at the front desk were.
+
+**********
+
+[0.9651927947998047] The location of the hotel was good.
+Parent: However, the location of the hotel was praised.
+
+----- Supporting -----
+
+[0.9651927947998047] This is not a five star hotel but you are not paying five star prices and as stated above the location is awesome.
+[0.9651684761047363] I love the setting of this hotel.
+[0.9540290832519531] The hotel itself was average plus, but as I mentioned the location nails it.
+[0.9497804641723633] The hotel was reasonable value, and in a great location.
+[0.9460711479187012] The hotel was cute, trendy and in an amazing location.
+
+----- Weakening -----
+
+[-0.4028167724609375] I booked an upgraded King room with a view and ended up beside the elevator in a room that looked pretty dated and uninviting.
+[-0.38128662109375] If you're looking to stay at a big hi-rise in the middle of the hustle and bustle of downtown, then this place is not for you.
+[-0.2810821533203125] Initially ck'd into tiny dark room - no way!
+[-0.13440704345703125] Also, in this room there was no view, which for a prairie girl was a bit disappointing.
+[-0.13173866271972656] I have to say I was disappointed with the hotel.

@@ -1,0 +1,170 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.9682024121284485
+
+**********
+
+[0.984316349029541] Portland is a great city to visit.
+Parent: Portland is a great city to visit , and I would recommend this hotel to anyone .
+
+----- Supporting -----
+
+[0.984316349029541] Portland is a great city to visit, and I would recommend this hotel to anyone.
+[0.085205078125] Laid back, nonintrusive hotel suitable for business or vacation stays, centrally located on Pine--3 blocks from Westlake, a block from the bus terminal ($2.75 airport transfers), and a block from Von's Martini and Manhattan Shrine, never to be missed.
+[0.08295822143554688] Across the street from the Paramount Theater, and down the street from Pacific Place and Westlake Mall, this hotel offers a great location for tourists wanting to stay in town to be close to all that's going on, as well as for residents that are looking for a weekend of culture or shopping in the city.
+[0.056915283203125] The hotel continues to impress and deliver an experience that is in-line with other major downtown Seattle chain hotels that charge a room rate that can be up to double what I pay at the Paramount.
+[0.05242919921875] Its very central to both the waterfront and Pikes Place market as well as the Seattle center where the space needle is located.
+
+----- Weakening -----
+
+[-0.8433685302734375] We had a great time in Seattle.
+[-0.824580192565918] Ok, it is bad.
+[-0.8174285888671875] There is so much to see in Seattle and great free transportation.
+[-0.7289466857910156] I did not enjoy my stay here.
+[-0.7268180847167969] PLEASE don't give this awful chain your business!
+
+**********
+
+[0.9880790710449219] This hotel is recommended.
+Parent: Portland is a great city to visit , and I would recommend this hotel to anyone .
+
+----- Supporting -----
+
+[0.9880790710449219] We would recommend this hotel without hesitation.
+[0.9851665496826172] Highly recommend this hotel rooms, they were nice and clean and very comfortable.
+[0.9819798469543457] We stayed here for a couple of nights and I would definitely recommend this hotel.
+[0.9799613952636719] A nice and elegant no frills hotel with great personal service, I have and always will recommend this hotel.
+[0.9792823791503906] I would highly recommend this hotel and look forward to my next visit so I can come back to my home away from home in Seattle.
+
+----- Weakening -----
+
+[-0.9904441833496094] I would not advise you to stay here even if you think you have a great price.
+[-0.9868850708007812] PLEASE don't give this awful chain your business!
+[-0.981048583984375] Based on my overall experience I could not recommend this hotel.
+[-0.9684305191040039] The location isn't even that good, a little to far north for me.
+[-0.967010498046875] So now we are out a GPS and will NEVER stay at the Paramount again.
+
+**********
+
+[0.935236930847168] The coffee shop across the street is great.
+Parent: There is a great coffee shop across the street and the stunning Paramount Theater down the block .
+
+----- Supporting -----
+
+[0.935236930847168] There is a great coffee shop across the street and the stunning Paramount Theater down the block.
+[0.03256034851074219] A starbucks is across the street in the Hyatt.
+[0.01453399658203125] It'll cost you $3.50, they don't bring sugar or cream, and you can get the same bag of tea in the little coffee maker kit in the bathroom for free.
+[0.007419586181640625] Very friendly and helpful staff, especially the Concierges.
+[0.00609588623046875] Overpriced though.
+
+----- Weakening -----
+
+[-0.9520034790039062] My wife, one year-old son and I stayed at the Paramount for two nights over a weekend to attend a family wedding at the Hyatt across the street.
+[-0.8668022155761719] The halls had a very odd smell, like a dental office.
+[-0.8453636169433594] We found the Paramount and were so thrilled.
+[-0.8399105072021484] I was so impressed with the Paramount.
+[-0.7860031127929688] The room was plain and average-szed, but clean and comfortable.
+
+**********
+
+[0.9825296401977539] The Paramount Theater is located down the block.
+Parent: There is a great coffee shop across the street and the stunning Paramount Theater down the block .
+
+----- Supporting -----
+
+[0.9825296401977539] There is a great coffee shop across the street and the stunning Paramount Theater down the block.
+[0.0] :)
+[0.0] Not cool!
+[0.0] walk.
+[-0.0004119873046875] The location was great.
+
+----- Weakening -----
+
+[-0.9885444641113281] Tiffany's was down the block.
+[-0.96710205078125] Go "downhill" two blocks to get a great view of the space needle.
+[-0.9546804428100586] Pike Place market is about 6 blocks down on the same street.
+[-0.9392547607421875] But walking over to Pike and up a couple blocks, you're at Tango, never to be missed on any trip to Seattle.
+[-0.9350204467773438] My two girlfriends and I stayed here for New Year's 2011, and it was a wonderful surprise to find out how centrally-located the Paramount was.
+
+**********
+
+[0.9142799377441406] The hotel is not unique in its design.
+Parent: Designwise , it could be any hotel in any city .
+
+----- Supporting -----
+
+[0.9142799377441406] Designwise, it could be any hotel in any city.
+[0.664031982421875] The Paramount was neither, rather a tastefully designed, conveniently located (close to all central attractions and within the Ride Free Area for public transportation) facility.
+[0.5253143310546875] Other hotels and car rental places do this too
+[0.44744873046875] Laid back, nonintrusive hotel suitable for business or vacation stays, centrally located on Pine--3 blocks from Westlake, a block from the bus terminal ($2.75 airport transfers), and a block from Von's Martini and Manhattan Shrine, never to be missed.
+[0.43970489501953125] It was a wonderful hotel, but not intimidating or snobbish.
+
+----- Weakening -----
+
+[-0.9512977600097656] Never ever seen this in any hotel I have ever stayed at.
+[-0.8287277221679688] I certainly didn't expect that!
+[-0.8275794982910156] My husband and I stayed, for the first time, in a corner king room.
+[-0.8175201416015625] What a wonderful surprise.
+[-0.7774009704589844] The Asian fusion restaurant, Dragonfish, on the first floor has an outstanding happy hour menu with inexpensive drinks and sushi.
+
+**********
+
+[0.9901518821716309] The lobby is furnished.
+Parent: The lobby is beautfully furnished and offers a great meeting place or somewhere to rest .
+
+----- Supporting -----
+
+[0.9901518821716309] The lobby is beautfully furnished and offers a great meeting place or somewhere to rest.
+[0.9731283187866211] The lobby of the hotel is quite small, but well-appointed.
+[0.5171051025390625] The lobby is warm and cozy with couches and a fireplace.
+[0.43756103515625] There's a big TV, a sleek marble bathroom, a small closet, and a large desk in the room.
+[0.4188117980957031] Very friendly desk and bellman, even a computer free to use in the lobby.
+
+----- Weakening -----
+
+[-0.9167633056640625] It was rush hour, so the concierge had to stand out there quite a while to catch one that was empty.
+[-0.8461151123046875] The room is shabby, the shower made a horrible noise whenever the water was running.
+[-0.831451416015625] the lobby is sort of lackluster but the rooms were tasfully updated and very clean.
+[-0.686279296875] The bed was comfy and had plenty of pillows.
+[-0.665679931640625] There is a coffee maker and an empty refrigerator.
+
+**********
+
+[0.9806675910949707] The lobby is a great meeting place.
+Parent: The lobby is beautfully furnished and offers a great meeting place or somewhere to rest .
+
+----- Supporting -----
+
+[0.9806675910949707] The lobby is beautfully furnished and offers a great meeting place or somewhere to rest.
+[0.0727386474609375] The hotel is particularly convenient for those attending events at the Convention Center.
+[0.07198333740234375] Great room, helpful staff, just one block from the convention center.
+[0.07061004638671875] I was here to attend a Mariners game and meet up with a friend, and the room was comfortable for pre- and post-game socializing.
+[0.0518798828125] Don't know the concierges name, it would be the older man in the morning but he had great recommendations for restaurants, each one excellent and was so knowledgeable about the city and when was the best times to go to events.
+
+----- Weakening -----
+
+[-0.9148063659667969] The best part was the bed.
+[-0.8827934265136719] The curtains are almost black out, which is great for sleeping in.
+[-0.8458251953125] I'm normally a firm matress kind of guy, but I swear lying on that bed was like lying on a cloud.
+[-0.8337631225585938] It was really one of the most comfortable beds I've encountered in my travels.
+[-0.8324813842773438] Best of all, the bed was incredibly comfortable!
+
+**********
+
+[0.9703578948974609] The lobby is a place to rest.
+Parent: The lobby is beautfully furnished and offers a great meeting place or somewhere to rest .
+
+----- Supporting -----
+
+[0.9703578948974609] The lobby is beautfully furnished and offers a great meeting place or somewhere to rest.
+[0.8404617309570312] Finally there is a restraunt downstairs called Dragonfish that is excellent.
+[0.7647628784179688] The lobby is warm and cozy with couches and a fireplace.
+[0.6187744140625] The hotel restuarant, Dragonfish, was good.
+[0.36871337890625] The lobby has a nice little living room style waiting area but only takes 10 seconds to get through to the elevators.
+
+----- Weakening -----
+
+[-0.9645957946777344] We enjoyed the bustle and excitement of this area of downtown, and we have no complaints about the room or cleanliness or service or noise.
+[-0.9644966125488281] Every time I called down to the Front Desk with questions it felt like I was putting them out.
+[-0.9635200500488281] Meanwhile our son was tearing up the lobby.
+[-0.961151123046875] It was a south facing room and in the sun, tended to get a little hot.
+[-0.9451866149902344] We ate there very late one night and there was a good crowd and the place was very lively.

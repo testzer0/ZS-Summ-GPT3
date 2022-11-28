@@ -1,0 +1,107 @@
+***** Aspect: rooms Model Type : zs *****
+Overall score: 0.5194018363952637
+
+**********
+
+[0.886749267578125] The rooms at this hotel are satisfactory.
+Parent: The rooms at this hotel are well-done and up to Marriott's usual standards, but they are not luxurious.
+
+----- Supporting -----
+
+[0.886749267578125] The rooms are spacious and beds very comfortable, unfortunately there was no bottled water in the room which was disappointing given the hotel standard but this is my only downside of the stay.
+[0.8441848754882812] The hotel is very clean, the rooms were a good price for the quality received, and, best of all, the location can't be beat.
+[0.8191986083984375] Overrall, my room was a comfortable place to spend some time (I liked the large flat panel tv), while the rest of the hotel was unexciting.
+[0.7754592895507812] The rooms were Marriott quality with all the requisite amenities you would expect.
+[0.7688751220703125] This is a renovated Marriott with an above average lobby and room.
+
+----- Weakening -----
+
+[-0.9819011688232422] Now maybe our expectations of hotels have risen in recent years, or maybe we were just given a uniquely bad room for the first time, but our room was noisy!
+[-0.9371471405029297] During our recent trip we stayed in 5 hotels in Canada and this was by far the worst.
+[-0.9225006103515625] my colleagues staying at the sheraton said their rooms were old and not maintained and in some cases dirty.
+[-0.9154510498046875] While the beds were comfy and we had plenty of room, the guest rooms are in need of a renovation.
+[-0.9041366577148438] It is probably the most depressing hotel I have ever stayed in.
+
+**********
+
+[0.9440302848815918] The rooms at this hotel meet Marriott's standards.
+Parent: The rooms at this hotel are well-done and up to Marriott's usual standards, but they are not luxurious.
+
+----- Supporting -----
+
+[0.9440302848815918] The rooms were Marriott quality with all the requisite amenities you would expect.
+[0.6675186157226562] We stayed at Marriott Eaton for 02 nights and the hotel was up to our expection.
+[0.5248641967773438] This is a renovated Marriott with an above average lobby and room.
+[0.20557594299316406] This is a nice hotel, typical Marriott, with an excellent location.
+[0.19074630737304688] The room was typically Marriott - very nice, great view of the Church and gardens in between the Eaton Centre.
+
+----- Weakening -----
+
+[-0.9610137939453125] Overall a very good hotel to use as a base for exploring Toronto but not quite up to the Marriott standards I have come to expect.
+[-0.7532444000244141] During our recent trip we stayed in 5 hotels in Canada and this was by far the worst.
+[-0.7317581176757812] While the beds were comfy and we had plenty of room, the guest rooms are in need of a renovation.
+[-0.6743927001953125] my colleagues staying at the sheraton said their rooms were old and not maintained and in some cases dirty.
+[-0.6562271118164062] Compared to my last stay, my room was a little disappointing.
+
+**********
+
+[0.6937503814697266] The rooms at this hotel are not luxurious.
+Parent: The rooms at this hotel are well-done and up to Marriott's usual standards, but they are not luxurious.
+
+----- Supporting -----
+
+[0.6937503814697266] Room : The room was just another hotel room , nothing flash but it was comfortable.
+[0.6164798736572266] The room was a standard hotel room, nothing special or unique.
+[0.5404891967773438] However, the rooms are very average (no safe, mini-bar for example).
+[0.5201034545898438] While the beds were comfy and we had plenty of room, the guest rooms are in need of a renovation.
+[0.4733123779296875] To start with the decor in the rooms is dreadful; mustard coloured walls, a mustard coloured 3D (dont ask) carpet, mustard cloured bed throws and an artexed ceiling only just over 7 feet over our heads.
+
+----- Weakening -----
+
+[-0.9960441589355469] This hotel was extremely luxurious and the view was fantastic.
+[-0.9781332015991211] The hotel is marvelous, their renovations are complete and they did a wonderful job, we had a room with king bed, great tv in the room and it was a very spacious room.
+[-0.9646492004394531] We had connecting rooms, these were prepared to a very high standard, house keeping do a first class job in this hotel.
+[-0.9602718353271484] Being Marriott Rewards members, we got a lovely upgraded room with access to the concierge lounge and good views.
+[-0.9550151824951172] for us We had a living area and a very comfy king bed and amazingly comfy pillows.
+
+**********
+
+[0.009185791015625] The phone system was not working properly.
+Parent: There were some issues with the phone system not working in some of the rooms.
+
+----- Supporting -----
+
+[0.009185791015625] I was happy to get this hotel for $159/night - though internet was slow and added $16 dollars per day (though it included all calls - or so i thought until i got my bill and they had charged me $40 worth of long distance calls - they were promptly removed).
+[0.0001621246337890625] It really needed a bit of a â€œrefreshâ€�.
+[-0.0027790069580078125] It is probably the most depressing hotel I have ever stayed in.
+[-0.0029191970825195312] During our recent trip we stayed in 5 hotels in Canada and this was by far the worst.
+[-0.004004478454589844] Compared to my last stay, my room was a little disappointing.
+
+----- Weakening -----
+
+[-0.770111083984375] Our in-room safe wasn't working properly, but that was corrected while we went out for an afternoon exploration of Toronto.
+[-0.753326416015625] The toilet did not flush properly and the shower seemed to have only 2 temperatures: scalding hot or freezing cold.
+[-0.7245311737060547] Nice plush chairs to relax and drink, and you can sign the drinks up to your room.
+[-0.685272216796875] Also had a problem with the shower - very hot...but not an issue.
+[-0.6486434936523438] There are tons of excellent restaurants close by for pretty much every taste and budget.
+
+**********
+
+[0.06329345703125] Some of the rooms had no working phone systems.
+Parent: There were some issues with the phone system not working in some of the rooms.
+
+----- Supporting -----
+
+[0.06329345703125] A few minutes later this person came to my room and handed me a key to another room that happened to have its line fixed already for that night.
+[0.00421142578125] I was happy to get this hotel for $159/night - though internet was slow and added $16 dollars per day (though it included all calls - or so i thought until i got my bill and they had charged me $40 worth of long distance calls - they were promptly removed).
+[0.0] Compared to my last stay, my room was a little disappointing.
+[-9.1552734375e-05] During my stay, the first room I was given had a locked adjoining door.
+[-0.00014495849609375] During our recent trip we stayed in 5 hotels in Canada and this was by far the worst.
+
+----- Weakening -----
+
+[-0.443603515625] There are tons of excellent restaurants close by for pretty much every taste and budget.
+[-0.23908615112304688] I was very impressed with this, and so we stayed, and so far, no problems.
+[-0.23612213134765625] My wife enjoyed the gym which had new and excellent machines.
+[-0.23046875] The pool was quite small, but suitable for the children to use.
+[-0.1831207275390625] Plenty of options for dinner around Dundas square.

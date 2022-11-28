@@ -1,0 +1,23 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.9877262115478516
+
+**********
+
+[0.9877262115478516] The hotel was clean.
+Parent: The reviews said that the cleanliness of the hotel was fine.
+
+----- Supporting -----
+
+[0.9877262115478516] Hotel is clean and nicely decorated.
+[0.9826736450195312] The hotel is very clean, the staff professional - and the food - simply amazing.
+[0.9809002876281738] The hotel seemed renovated and it was clean and beautiful.
+[0.9806256294250488] We found the hotel faultless, really clean, excellent service and really good value for money!
+[0.9734320640563965] Nice, clean hotel with great view.
+
+----- Weakening -----
+
+[-0.9955644607543945] On the way to my room someone had dropped 3 beers on the floor and it was wet and sticky with the cans still there and a wet floor sign in the middle.
+[-0.9947257041931152] Tools and debris were lying on the balcony.
+[-0.9916238784790039] A huge group of teenagers were staying in the hotel, and kids were all over the place until late at night...flooding the lobby, elevators, and public space.
+[-0.9880828857421875] The elevator dinged all night long keeping up the entire family.
+[-0.9875011444091797] My opinion is that this motel was extremely unorganized during this time.

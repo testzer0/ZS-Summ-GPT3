@@ -1,0 +1,44 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.9480900764465332
+
+**********
+
+[0.971552848815918] The dragonfish restaurant is a restaurant.
+Parent: the dragonfish restaurant is a chinese restaurant.
+
+----- Supporting -----
+
+[0.971552848815918] The restaurant (Dragonfish) has amazing food, and a wonderful happy hour small plates menu, though it can get quite busy, the hostess just took our room number and called us when our reservation was ready.
+[0.9553298950195312] I especially like the Dragonfish Cafe restaurant - it is one of my favorite restaurants for Asian Fusion.
+[0.9467620849609375] DragonFish, the restaurant downstairs was good too.
+[0.9108467102050781] Restaurant (DragonFish) attached to the hotel serves awesome chinese food.
+[0.9104690551757812] The Asian fusion restaurant, Dragonfish, on the first floor has an outstanding happy hour menu with inexpensive drinks and sushi.
+
+----- Weakening -----
+
+[-0.9698677062988281] The rooms are superb -- spacious, well-appointed, with awesome beds.
+[-0.96728515625] The room is well-appointed with contemporary furnishings and a comfortable bed.
+[-0.9649620056152344] It was really one of the most comfortable beds I've encountered in my travels.
+[-0.9605064392089844] The room was large with a desk area, comfortable chairs and a very comfortable bed.
+[-0.9603309631347656] The halls had a very odd smell, like a dental office.
+
+**********
+
+[0.9246273040771484] The dragonfish restaurant is a Chinese restaurant.
+Parent: the dragonfish restaurant is a chinese restaurant.
+
+----- Supporting -----
+
+[0.9246273040771484] Restaurant (DragonFish) attached to the hotel serves awesome chinese food.
+[0.0037841796875] Staff was pleasant.
+[0.0024051666259765625] Food and service were very good.
+[0.0022735595703125] The sushi was good and the drink selection interesting and yummy .
+[0.001689910888671875] The food was awesome and the prices are pretty good.
+
+----- Weakening -----
+
+[-0.9565219879150391] The halls had a very odd smell, like a dental office.
+[-0.9402647018432617] I looked out at the gray monolith walls of the Grand Hyatt.
+[-0.9344654083251953] The Paramount was a nice surprise - classy and elegant without being over the top.
+[-0.9062957763671875] It was fun to watch all the concert goers before and after the concert - and not to have to worry about parking or showing up early.
+[-0.9013700485229492] I especially liked the Japanese restaurant attached to this hotel (not sure if it is part of the hotel), but it is open late and has a very well priced happy hour and late night happy hour.

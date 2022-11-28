@@ -1,0 +1,107 @@
+***** Aspect: location Model Type : zs *****
+Overall score: 0.6313825607299804
+
+**********
+
+[0.9824295043945312] The location of the hotel is good.
+Parent: The location of the hotel is praised by many reviewers for being central and convenient to many attractions, with easy access to public transportation.
+
+----- Supporting -----
+
+[0.9824295043945312] The location of this hotel is excellent â€“ very central and close to public transport, shopping, restaurants, etc.
+[0.9819624423980713] Location is good and the hotel is quiet.
+[0.9749965667724609] One of the best things about this hotel is its location.
+[0.9665985107421875] Very decent hotel, with super location and pleasant staff.
+[0.9647245407104492] The hotel is in a great location and staff were efficient and polite.
+
+----- Weakening -----
+
+[-0.7840576171875] The hotel is connected to the Eaton center = dangerous!!!
+[-0.442657470703125] My only negative comment about the room was the view - it looked straight into an adjacent office building.
+[-0.3763008117675781] It is probably the most depressing hotel I have ever stayed in.
+[-0.2978649139404297] During our recent trip we stayed in 5 hotels in Canada and this was by far the worst.
+[-0.15985870361328125] I was so frustrated.
+
+**********
+
+[0.9826040267944336] The hotel is centrally located and convenient to many attractions.
+Parent: The location of the hotel is praised by many reviewers for being central and convenient to many attractions, with easy access to public transportation.
+
+----- Supporting -----
+
+[0.9826040267944336] The location of this hotel is excellent â€“ very central and close to public transport, shopping, restaurants, etc.
+[0.9479684829711914] Stayed for three nights as a family, couldn't be more central for all the downtown attractions, everything's within walking distance and the hotel is connected by a walkway to the Eaton Centre.
+[0.9015693664550781] The Downtown Marriot is good for exploring the city since everything is within walking distance (if you do not mind to walk a bit across a city which I think is the best way to get the vibe of a city).
+[0.8765044212341309] The hotel's downtown location is convenient for public transportation and adjacent to the Eaton Centre Mall.
+[0.865692138671875] I had not been to Toronto for years and didn't realize how walkable most of the central city is, especially from this hotel, which is conveniently located just blocks from culture, food, shopping and transportation.
+
+----- Weakening -----
+
+[-0.9730892181396484] It was a nice hotel, but I would recommend staying closer to the center of activities.
+[-0.968048095703125] The location is reasonable but quite a long way from the waterfront.
+[-0.9007568359375] The hotel is connected to the Eaton center = dangerous!!!
+[-0.8852214813232422] Because the hotel backs onto a small courtyard, you could not hear any street noise.
+[-0.8550243377685547] It is probably the most depressing hotel I have ever stayed in.
+
+**********
+
+[0.9827919006347656] The location of the hotel is convenient for public transportation.
+Parent: The location of the hotel is praised by many reviewers for being central and convenient to many attractions, with easy access to public transportation.
+
+----- Supporting -----
+
+[0.9827919006347656] The hotel's downtown location is convenient for public transportation and adjacent to the Eaton Centre Mall.
+[0.9502177238464355] The location of this hotel is excellent â€“ very central and close to public transport, shopping, restaurants, etc.
+[0.9386320114135742] Addtionally, there were pleny of wonderful restaurants, places to shop, the subway transit system, buses and taxes within a 1-5 mile radius of the hotel making it very convenient for just about everything!
+[0.8836069107055664] It is connected by a walkway to the Eaton Centre and when you park at the hotel (valet is the way for only $25) you can get just about anywhere on foot, bus, or subway.
+[0.8691654205322266] The hotel was very clean, the hotel staff were very friendly and information, and it was close to public transportation, which we used for our entire time in Toronto.
+
+----- Weakening -----
+
+[-0.8123559951782227] The hotel is connected to the Eaton center = dangerous!!!
+[-0.7429141998291016] We often used to go on massive shopping trips and had to transport many large boxes to and from our rooms.
+[-0.7324485778808594] Then hard to get out as Mcguinty crew in town and elevators shut down once again.
+[-0.5855560302734375] Not very convenient to go down to lobby all the time...Staff was not at all helpful in this matter... A sidenote: the room when we arrived was not vacumed and was not clean.
+[-0.498260498046875] You may have a difficult fit.
+
+**********
+
+[0.17638778686523438] The mall is dangerous.
+Parent: However, some reviewers find the attached mall to be dangerous, while others find it to be a great perk.
+
+----- Supporting -----
+
+[0.17638778686523438] I could spend all day in a mall and just shop until I drop!
+[0.016357421875] The hotel is connected to the Eaton center = dangerous!!!
+[0.007114410400390625] We went to the front desk, showed the front clerk that I was bleeding and explained my situation.
+[0.0070476531982421875] You may have a difficult fit.
+[0.0057525634765625] We definitely could hear some...*ahem* rhythmic knocking on the walls from next door.
+
+----- Weakening -----
+
+[-0.9501028060913086] It's a nice clean, quiet hotel in a great area.
+[-0.9314975738525391] It has a lovely, light lobby filled with professionals who are friendly and helpful!
+[-0.9123353958129883] The hotel is modern and the lobby is inviting.
+[-0.9067678451538086] Perfect location close to everything.
+[-0.9011669158935547] The fitness center is very nice and very clean.
+
+**********
+
+[0.0326995849609375] The mall is a great perk.
+Parent: However, some reviewers find the attached mall to be dangerous, while others find it to be a great perk.
+
+----- Supporting -----
+
+[0.0326995849609375] On each occasion I paid about $175 Canadian/night for the room (wouldn't pay a lot more for it).If shopping is not a top priority, there are probably more convenient locations for tourists to stay, but if you want to do some serious shopping, this is the place to stay.
+[0.003917694091796875] Its a pretty cool thing to be able to walk right into torontos biggest mall in just two minutes.
+[0.0] Dean
+[0.0] Really?
+[0.0] !
+
+----- Weakening -----
+
+[-0.9478492736816406] Hotel was extremely clean.
+[-0.9335594177246094] It's a nice clean, quiet hotel in a great area.
+[-0.9315605163574219] The food quality in the restaurant was very good.
+[-0.9294853210449219] Quiet, clean, modern room.
+[-0.9266357421875] Clean hotel, well located.

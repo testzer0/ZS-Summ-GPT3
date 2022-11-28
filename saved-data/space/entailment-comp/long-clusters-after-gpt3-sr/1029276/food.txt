@@ -1,0 +1,107 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.7597068786621094
+
+**********
+
+[0.9666023254394531] The food at the hotel was excellent.
+Parent: The food at the hotel was mixed, with some reviewers finding it excellent and others finding it mediocre or worse.
+
+----- Supporting -----
+
+[0.9666023254394531] The hotel is very clean, the staff professional - and the food - simply amazing.
+[0.2381439208984375] I had a great burger and beer at the lobby bar upon arrival and felt like the staff was very friendly in all departments.
+[0.2381439208984375] I had a great burger and beer at the lobby bar upon arrival and felt like the staff was very friendly in all departments.
+[0.11065673828125] The banquet food was fabulous and themed menus were creative and well presented.
+[0.10114288330078125] Other food in the lounge was good (fruit, coffee).
+
+----- Weakening -----
+
+[-0.9967679977416992] Last, the food is mediocre at best and overpriced as all hotel food is.
+[-0.9917666912078857] There is no food or entertainment around.
+[-0.9826812744140625] There was one occasion in which we ordered from the menu, sadly it was a little disappointing because it was overcooked but we were taken care of almost immediately when we complained.
+[-0.9642391204833984] Horrible club sandwich!
+[-0.9430866241455078] Breakfast was cold, room service was OK. As I'm writing this review, we've been without water - the entire hotel - for more than 3 hours.
+
+**********
+
+[0.9664955139160156] The food was mediocre.
+Parent: The food at the hotel was mixed, with some reviewers finding it excellent and others finding it mediocre or worse.
+
+----- Supporting -----
+
+[0.9664955139160156] Last, the food is mediocre at best and overpriced as all hotel food is.
+[0.5415496826171875] Horrible club sandwich!
+[0.35791015625] It was almost uneatable, but we were hungry.
+[-0.0043239593505859375] When we arrived, only option for a meal was at the bar in the lobby.
+[-0.00818634033203125] I could have spent less in the end and stayed somewhere else.
+
+----- Weakening -----
+
+[-0.9984307289123535] The banquet food was fabulous and themed menus were creative and well presented.
+[-0.9978561401367188] The hotel is very clean, the staff professional - and the food - simply amazing.
+[-0.9977579116821289] The food at the restaurant was excellent and the service was great.
+[-0.9977536201477051] Food: seriously excellent snapper, bomb key lime pie.
+[-0.9973254203796387] Food during the meeting was very good.
+
+**********
+
+[0.9054603576660156] The food at the hotel was bad.
+Parent: The food at the hotel was mixed, with some reviewers finding it excellent and others finding it mediocre or worse.
+
+----- Supporting -----
+
+[0.9054603576660156] Last, the food is mediocre at best and overpriced as all hotel food is.
+[0.10405158996582031] Recommendation: eat elsewhere; even room service would probably have been better.
+[0.02831268310546875] There was one occasion in which we ordered from the menu, sadly it was a little disappointing because it was overcooked but we were taken care of almost immediately when we complained.
+[0.023199081420898438] The first night our food orders took forever and tonight I never got my slice of pie and our second round of drinks never arrived.
+[0.00484466552734375] It was almost uneatable, but we were hungry.
+
+----- Weakening -----
+
+[-0.9970121383666992] The hotel is very clean, the staff professional - and the food - simply amazing.
+[-0.9946565628051758] I had a great burger and beer at the lobby bar upon arrival and felt like the staff was very friendly in all departments.
+[-0.9946565628051758] I had a great burger and beer at the lobby bar upon arrival and felt like the staff was very friendly in all departments.
+[-0.9927477836608887] The banquet food was fabulous and themed menus were creative and well presented.
+[-0.9902417659759521] I also enjoyed the Lounge and food there.
+
+**********
+
+[0.11480712890625] The service was too slow.
+Parent: Complaints were made about the speed of service and the quality of the food.
+
+----- Supporting -----
+
+[0.11480712890625] The first night our food orders took forever and tonight I never got my slice of pie and our second round of drinks never arrived.
+[0.008575439453125] Once coffee machine was used it was not replenished, even after a request to staff.
+[0.007049560546875] It tool almost 30 min to make some food an no one else was there other than the homeless people that kept asking to get their cup refilled for them.
+[0.00617218017578125] Recommendation: eat elsewhere; even room service would probably have been better.
+[-0.0050048828125] Horrible club sandwich!
+
+----- Weakening -----
+
+[-0.9874691963195801] What I got was beyond what I expected - I was stuffed to the brim.
+[-0.9565329551696777] The food at the restaurant was excellent and the service was great.
+[-0.9512534141540527] I had a great burger and beer at the lobby bar upon arrival and felt like the staff was very friendly in all departments.
+[-0.9512534141540527] I had a great burger and beer at the lobby bar upon arrival and felt like the staff was very friendly in all departments.
+[-0.9329710006713867] The hotel is very clean, the staff professional - and the food - simply amazing.
+
+**********
+
+[0.8451690673828125] The quality of the food was poor.
+Parent: Complaints were made about the speed of service and the quality of the food.
+
+----- Supporting -----
+
+[0.8451690673828125] Last, the food is mediocre at best and overpriced as all hotel food is.
+[0.6605072021484375] There was one occasion in which we ordered from the menu, sadly it was a little disappointing because it was overcooked but we were taken care of almost immediately when we complained.
+[0.4394111633300781] It was almost uneatable, but we were hungry.
+[0.2944469451904297] Horrible club sandwich!
+[0.14092636108398438] The first night our food orders took forever and tonight I never got my slice of pie and our second round of drinks never arrived.
+
+----- Weakening -----
+
+[-0.994504451751709] The food at the restaurant was excellent and the service was great.
+[-0.9941263198852539] The banquet food was fabulous and themed menus were creative and well presented.
+[-0.9934902191162109] The hotel is very clean, the staff professional - and the food - simply amazing.
+[-0.991002082824707] Food during the meeting was very good.
+[-0.9858636856079102] Food: seriously excellent snapper, bomb key lime pie.

@@ -1,0 +1,128 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.8400518894195557
+
+**********
+
+[0.9958786964416504] I stayed at the Marriott in mid-June.
+Parent: I stayed at the Marriott in mid-June for one night on a business trip .
+
+----- Supporting -----
+
+[0.9958786964416504] I stayed at the Marriott in mid-June for one night on a business trip.
+[0.0904541015625] I stayed in this hotel on two occasions, first in June 2007 and then again in 2010.
+[0.02231597900390625] I recently attended an annual work conference from the 17th thru 19th and I have to say that I was very pleased with the hotel.
+[0.006342887878417969] The hotel was great.
+[0.00634002685546875] We had a great time.
+
+----- Weakening -----
+
+[-0.9954757690429688] Hi, we stayed at Marriott in March with a four year old and a teenager.
+[-0.9909343719482422] We stayed at this hotel, with our 2 young children, at the start of April 2005.
+[-0.9901752471923828] My friend and I stayed at this hotel in September 2011 during the TIFF weekend.
+[-0.9785785675048828] We stayed in this hotel for the weekend (April 15-17, 2011).
+[-0.9748620986938477] Stayed from August 3rd to 5th with two friends for Caribana Weekend; booked on Expedia at the last minute so I was a bit worried, but the price was fair, so I figured I'd take what I got.
+
+**********
+
+[0.9949145317077637] I stayed at the Marriott for one night.
+Parent: I stayed at the Marriott in mid-June for one night on a business trip .
+
+----- Supporting -----
+
+[0.9949145317077637] I stayed at the Marriott in mid-June for one night on a business trip.
+[0.9878606796264648] My spouse and I decided to spend one night at the Marriott Downtown as a pre-10 yr wedding anniversary.
+[0.179931640625] We were attending the show WE WILL ROCK YOU and decided to stay at the Marriott Eaton Centre due to the close proximity of the theatre we were attending.
+[0.10028457641601562] I loved that stay and I don't think there is a better hotel in Canada than that Marriott!
+[0.048492431640625] I stayed at the Marriott for a conference and it was pretty good.
+
+----- Weakening -----
+
+[-0.9926986694335938] We stayed at Marriott Eaton for 02 nights and the hotel was up to our expection.
+[-0.9897308349609375] I stayed in this Marriott for 3 nights when in Toronto on business.
+[-0.989349365234375] Just came back from a four night stay at the Marriott Downtown Eaton Centre, and I was completely satisfied with this hotel.
+[-0.9890403747558594] Stayed at the Marriott for three nights for a conference.
+[-0.9890403747558594] Stayed at the Marriott for three nights for a Conference.
+
+**********
+
+[0.9924588203430176] I stayed at the Marriott on a business trip.
+Parent: I stayed at the Marriott in mid-June for one night on a business trip .
+
+----- Supporting -----
+
+[0.9924588203430176] I stayed at the Marriott in mid-June for one night on a business trip.
+[0.9756841659545898] All in all, a very successful business trip by day and very comfortable nights at the Marriott.
+[0.9710931777954102] I stayed in this Marriott for 3 nights when in Toronto on business.
+[0.62030029296875] The rest of my stay was great but definately need to get a new system in place for business travellers.. Id recommend Hilton Downtown or Marriott Airport Locations for Business Trips.
+[0.2990455627441406] I was in town on business, and chose this hotel for its location.
+
+----- Weakening -----
+
+[-0.9904732704162598] We stayed at the Marriott Eaton Centre for part of our honeymoon.
+[-0.9823274612426758] I stayed in this hotel as part of a large family group who travelled from Ireland to Toronto for a wedding, the management and staff were wonderful, this was not only about the facilities of the hotel but they were very helpful in guiding us where to go in Toronto and how to get there.
+[-0.9821281433105469] stayed for conference at the sheraton centre - which was a short walk (less than 5 minutes) away.
+[-0.9780254364013672] I made the mistake of chhosing the Eatons Center location over the Bloor or Airport locations I usually stay at.
+[-0.9774494171142578] Friday AM I had surgery.
+
+**********
+
+[0.9826192855834961] The hotel is adjacent to the Eaton Centre mall.
+Parent: It is adjacent to the Eaton Centre mall , and across the street from the Toronto city hall .
+
+----- Supporting -----
+
+[0.9826192855834961] The hotel's downtown location is convenient for public transportation and adjacent to the Eaton Centre Mall.
+[0.9567832946777344] Not sure if that's a regular occurrence, but again, it's a nice hotel attached to the Eaton Center mall pretty close to the water (within walking distance).
+[0.9475250244140625] The hotel is wonderfully located to all metro hospitals and when some very important down time is needed the Eaton Center mall is attached so you do not have to worry about the weather or putting on a coat.
+[0.9419288635253906] This hotel is connected to Eaton Center, which is the biggest and best shopping mall downtown.
+[0.919529914855957] Really liked my stay, it's right next to Eaton Ctr, room was spacious and modern.
+
+----- Weakening -----
+
+[-0.9671726226806641] The hotel is located diagonally across from Nathan Phillips Square.
+[-0.9306793212890625] Yhis Marriott is located immediately next to the Trinity Church and the Waton Centre; immediately in the heart of downtown Toronto.
+[-0.9248409271240234] The beds were nice and we had a view of the church next door.
+[-0.9130611419677734] It is across the streets from both old and new City Hall.
+[-0.8603973388671875] It is also right beside Nathan Phillips Square, which has a skating rink all winter.
+
+**********
+
+[0.0947113037109375] The hotel is across the street from the Toronto city hall.
+Parent: It is adjacent to the Eaton Centre mall , and across the street from the Toronto city hall .
+
+----- Supporting -----
+
+[0.0947113037109375] It is adjacent to the Eaton Centre mall, and across the street from the Toronto city hall.
+[0.01396942138671875] It is across the streets from both old and new City Hall.
+[0.000949859619140625] We had a great time.
+[0.0008068084716796875] The location couldn't be better.
+[0.000797271728515625] Had a great stay and would come back again!
+
+----- Weakening -----
+
+[-0.9735393524169922] The best thing about this hotel is its location next to Eaton Centre.
+[-0.9678096771240234] The hotel is located diagonally across from Nathan Phillips Square.
+[-0.9657421112060547] There is a beautiful courtyard with cobblestones and a church between the outside of the Marriott and the Eaton center.
+[-0.951904296875] The location, right next to the Eaton Centre, is ideal and makes it easy to take in all of the traditional tourist sights and access the subway.
+[-0.9508743286132812] One of the best features of this hotel is its proximity to the Eaton Centre as it is connected with a walkway so you can leave your coats in your room and shop all day.
+
+**********
+
+[0.9797286987304688] The phone system in some of the rooms was not functioning properly.
+Parent: The issue I had is that the phone system in some of the rooms was not functioning when I checked in .
+
+----- Supporting -----
+
+[0.9797286987304688] The issue I had is that the phone system in some of the rooms was not functioning when I checked in.
+[0.8108692169189453] I tried to hook up my computer to the internet in the room afterwards, but I found that this was not working either because of the phone line issue.
+[0.2279052734375] Only hangup was the boarding pass console was not working for Porter.
+[0.09692192077636719] I was happy to get this hotel for $159/night - though internet was slow and added $16 dollars per day (though it included all calls - or so i thought until i got my bill and they had charged me $40 worth of long distance calls - they were promptly removed).
+[0.051723480224609375] A few minutes later this person came to my room and handed me a key to another room that happened to have its line fixed already for that night.
+
+----- Weakening -----
+
+[-0.31003570556640625] Amazing service between the front desk, bell hops, and valet workers.
+[-0.30047607421875] The restaurant always has plenty of fresh fruit and a great selection for breakfast.
+[-0.29283905029296875] Found the cheapest price directly on their website.
+[-0.28871917724609375] There are tons of excellent restaurants close by for pretty much every taste and budget.
+[-0.2754669189453125] The restaurant ,Trios, has a menu with a variety of items (crabcakes, scallops, meatloaf, salmon and short ribs were amazing).

@@ -1,0 +1,62 @@
+***** Aspect: service Model Type : simcse *****
+Overall score: 0.8044459025065104
+
+**********
+
+[0.9956073760986328] The hotel staff was friendly and accommodating.
+
+----- Supporting -----
+
+[0.9956073760986328] The hotel staff was friendly and accomodating.
+[0.8603955507278442] The hotel staff was courteous and very helpful with our questions.
+[0.8205395936965942] We were especially impressed with the staff at the hotel.
+[0.8012842535972595] The front desk staff was friendly and helpful.
+[0.7854520082473755] --Staff was friendly, both at the desk and in the restaurant.
+
+----- Weakening -----
+
+[-0.03024028055369854] But still charging for the internet!!
+[-0.009309796616435051] The internet fees are a HUGE scam-- $12-$15 for 24 hours.
+[-0.007719902321696281] ($4.00 roundtrip).
+[0.0033205319195985794] Verify internet price-not free.
+[0.021031543612480164] (and no in room wireless).
+
+**********
+
+[0.7645939588546753] The hotel was clean and comfortable.
+
+----- Supporting -----
+
+[0.7645939588546753] The rooms were very clean and the staff was very nice.
+[0.7198740243911743] The hotel staff was friendly and accomodating.
+[0.6899089217185974] We were especially impressed with the staff at the hotel.
+[0.6828036308288574] Room service was good, however.
+[0.6566948890686035] It has "small hotel" service, meaning that you don't feel lost and they treat you well.
+
+----- Weakening -----
+
+[-0.041681863367557526] I thought she may care a bit more with the pics as proof, but I guess they hear complaints all day.
+[-0.032862480729818344] But still charging for the internet!!
+[-0.032062187790870667] ($4.00 roundtrip).
+[-0.014811879023909569] They told us to go across the street.
+[-0.004837395623326302] The internet fees are a HUGE scam-- $12-$15 for 24 hours.
+
+**********
+
+[0.6531363725662231] The location was convenient, with easy access to public transportation.
+
+----- Supporting -----
+
+[0.6531363725662231] The shuttle was an extremely convenient as well.
+[0.6343274116516113] The shuttle service to the airport ran frequently and was very convenient.
+[0.6211115121841431] Shuttle service was very quick with plenty of buses on hand.
+[0.5864157676696777] The shuttle is convenient and reliable.
+[0.5425772666931152] Shuttle was convenient and would definitely stay here again.
+
+----- Weakening -----
+
+[-0.09648516774177551] Waitress never brought the items we requested and the order was askew.
+[-0.06471724808216095] The internet fees are a HUGE scam-- $12-$15 for 24 hours.
+[-0.04518367722630501] I thought she may care a bit more with the pics as proof, but I guess they hear complaints all day.
+[-0.02803253009915352] Robert immediately stepped in front of my husband and folded his arms and gave my husband many excuses why it was our fault we didn't have the bed yet.
+[-0.02449043281376362] No wireless in the rooms.

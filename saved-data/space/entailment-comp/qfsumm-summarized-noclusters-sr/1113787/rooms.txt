@@ -1,0 +1,191 @@
+***** Aspect: rooms Model Type : zs *****
+Overall score: 0.8002680672539605
+
+**********
+
+[0.9915838241577148] The hotel is located 40 minutes from DFW airport.
+Parent: The hotel is about 40 minutes from DFW airport in downtown Dallas .
+
+----- Supporting -----
+
+[0.9915838241577148] The hotel is about 40 minutes from DFW airport in downtown Dallas.
+[0.0] The pool!
+[0.0] Loved it!!!
+[0.0] shower.
+[-0.00028228759765625] This is the Perfect Hotel!!!
+
+----- Weakening -----
+
+[-0.19446182250976562] All I can say is.....AMAZING.
+[-0.07970809936523438] (Not Four Seasons, Not Zaza, Not The Crescent) Get my point?
+[-0.0792236328125] I will hopefully be back -- as the revitalized Main St. has a lot of action on the weekends and this hotel sits right in the middle!
+[-0.07739639282226562] We had dinner at Nobu which is in Crescent Court which was really good too.
+[-0.07518959045410156] Maybe I just had a bad experience but I was throughly disappointed in this hotel.
+
+**********
+
+[0.9606513977050781] The hotel is located in downtown Dallas.
+Parent: The hotel is about 40 minutes from DFW airport in downtown Dallas .
+
+----- Supporting -----
+
+[0.9606513977050781] The Joule is one of the best hotels in downtown Dallas, the interior of the hotel is gorgeous as are the rooms.
+[0.9215087890625] The hotel is about 40 minutes from DFW airport in downtown Dallas.
+[0.8886241912841797] I would highly recommend this hotel as a great place to get away and enjoy downtown Dallas.
+[0.6751556396484375] From it's convenient location to the Dallas business hub for guests, to the captivating style of the hotel, to the impeccable service, this was the perfect place for my event.
+[0.1502532958984375] I will hopefully be back -- as the revitalized Main St. has a lot of action on the weekends and this hotel sits right in the middle!
+
+----- Weakening -----
+
+[-0.6961822509765625] We had dinner at Nobu which is in Crescent Court which was really good too.
+[-0.1507568359375] A colleague and I flew into Dallas to meet with some vendors and came across this hotel through Starwood.
+[-0.10030746459960938] Our tweens loved the salt water heated infinity pool, the Charlie Palmer bar, awesome room service and gorgeous room......we live in Carrollton, but felt we had traveled to another luxurious country!
+[-0.0958404541015625] Zaza is out and the Joule is the place to be
+[-0.083343505859375] All I can say is.....AMAZING.
+
+**********
+
+[0.9895281791687012] The room was spacious.
+Parent: The room was spacious enough , with a big glass wall on the outside , a 42 " flat screen TV , and terrific lighting arrangements that allowed you to adjust the brightness in various parts of the room .
+
+----- Supporting -----
+
+[0.9895281791687012] The room was spacious enough, with a big glass wall on the outside, a 42" flat screen TV, and terrific lighting arrangements that allowed you to adjust the brightness in various parts of the room.
+[0.9650516510009766] The Joule Suite was classy, comfortable and spacious.
+[0.9318618774414062] absolutely beautiful property, rooms are spacious and modern, roof-top pool area is excellent, and restaurant is 5-star.
+[0.8318023681640625] The beds were comfortable, the bathrooms are spacious and luxurious with all the amenities you could ask for.
+[0.717620849609375] Having said at, the bathroom was big, and really nice.
+
+----- Weakening -----
+
+[-0.9961414337158203] The pool was nice as was the fitness center but with tiny cramped rooms, lack of customer service (I tried calling the desk 3 times and never go through) and the loading dock at the front of the building, I wouldn't recommend it.
+[-0.9951753616333008] The rooms are tiny and open like most W's and the focus on being trendy, not on customer service nor amenities.
+[-0.9940643310546875] The room was surprisingly small and the bed was terrible, i liked the idea of a round bed as it is unique but it was very awkward and felt cheap..not a luxury collection standard.
+[-0.9931068420410156] 2 - We stayed in the Demi-Joule room and it was very small.
+[-0.9900684356689453] The gym is okay, but somewhat small.
+
+**********
+
+[0.9930710792541504] The room had a big glass wall on the outside.
+Parent: The room was spacious enough , with a big glass wall on the outside , a 42 " flat screen TV , and terrific lighting arrangements that allowed you to adjust the brightness in various parts of the room .
+
+----- Supporting -----
+
+[0.9930710792541504] The room was spacious enough, with a big glass wall on the outside, a 42" flat screen TV, and terrific lighting arrangements that allowed you to adjust the brightness in various parts of the room.
+[0.00084686279296875] This is the Perfect Hotel!!!
+[0.000469207763671875] Having said at, the bathroom was big, and really nice.
+[0.0] The pool!
+[0.0] Loved it!!!
+
+----- Weakening -----
+
+[-0.8773651123046875] Two balconies offer two views.
+[-0.851806640625] We loved the auto curtains and bathroom facilities.
+[-0.851806640625] We loved the auto curtains and bathroom facilities.
+[-0.6183700561523438] The POOL scene is incredible on the roof!
+[-0.6097412109375] My only complaint about our room was that one side faced east and the bathroom window was not adequately covered so the morning sun lit up the whole room.
+
+**********
+
+[0.9934549331665039] The room had a 42" flat screen TV.
+Parent: The room was spacious enough , with a big glass wall on the outside , a 42 " flat screen TV , and terrific lighting arrangements that allowed you to adjust the brightness in various parts of the room .
+
+----- Supporting -----
+
+[0.9934549331665039] The room was spacious enough, with a big glass wall on the outside, a 42" flat screen TV, and terrific lighting arrangements that allowed you to adjust the brightness in various parts of the room.
+[0.00034809112548828125] We stayed in a Junior Suite and it was well equipped.
+[0.0002880096435546875] Not only was the hotel incredible with an amazing room, but the service and amenities are top notch.
+[0.000156402587890625] We were only scheduled to stay one night, but it was so incredible, we stayed another night.
+[0.00011444091796875] The room was beautifully appointed with a round bed, bvlagari amenities, rainfall shower, and oversized flat screen.
+
+----- Weakening -----
+
+[-0.9092721939086914] It was a salt water pool on the 12th floor that juts out over Main Street in Dallas.
+[-0.8442840576171875] The pool is small but they keep it very cool and refreshing.
+[-0.7995758056640625] We both loved the shower.
+[-0.6682167053222656] The rooftop pool was very relaxing.
+[-0.62841796875] AND the pool was closed for a "photo shoot" that took up the whole pool for a majority of the afternoon.
+
+**********
+
+[0.9808034896850586] The room had great lighting.
+Parent: The room was spacious enough , with a big glass wall on the outside , a 42 " flat screen TV , and terrific lighting arrangements that allowed you to adjust the brightness in various parts of the room .
+
+----- Supporting -----
+
+[0.9808034896850586] The room was spacious enough, with a big glass wall on the outside, a 42" flat screen TV, and terrific lighting arrangements that allowed you to adjust the brightness in various parts of the room.
+[0.9748806953430176] The bathroom was beautiful with a large soaking tub, a shower room and excellent lighting.
+[0.8803443908691406] The rooms are astonishing, my favorite detail in the entire room was the lights that are built into the headboard.
+[0.7274303436279297] When we got to our room it was very modern and high tech with all of the light switches and lamp knobs.
+[0.5755615234375] My only complaint about our room was that one side faced east and the bathroom window was not adequately covered so the morning sun lit up the whole room.
+
+----- Weakening -----
+
+[-0.8748397827148438] Great hotel interiors, dark moody decor in rooms.
+[-0.6503982543945312] Maybe I just had a bad experience but I was throughly disappointed in this hotel.
+[-0.4851570129394531] I would never recommend this hotel or their club PM Lounge.
+[-0.4782867431640625] The suite does come with dimmers on all of the light switches.....
+[-0.4574699401855469] All in all, this hotel was nothing special with a high price tag.
+
+**********
+
+[0.7276153564453125] The room was bright.
+Parent: The room was spacious enough , with a big glass wall on the outside , a 42 " flat screen TV , and terrific lighting arrangements that allowed you to adjust the brightness in various parts of the room .
+
+----- Supporting -----
+
+[0.7276153564453125] My only complaint about our room was that one side faced east and the bathroom window was not adequately covered so the morning sun lit up the whole room.
+[0.6351318359375] The room was spacious enough, with a big glass wall on the outside, a 42" flat screen TV, and terrific lighting arrangements that allowed you to adjust the brightness in various parts of the room.
+[0.588165283203125] The bathroom was beautiful with a large soaking tub, a shower room and excellent lighting.
+[0.5619888305664062] When we got to our room it was very modern and high tech with all of the light switches and lamp knobs.
+[0.507843017578125] The rooms are astonishing, my favorite detail in the entire room was the lights that are built into the headboard.
+
+----- Weakening -----
+
+[-0.9890308380126953] Great hotel interiors, dark moody decor in rooms.
+[-0.9447708129882812] The suite does come with dimmers on all of the light switches.....
+[-0.9342575073242188] The pool was too chilly for the kids to spend much time in it, but that isn't surprising for this time of year.
+[-0.5031967163085938] The pool was nice as was the fitness center but with tiny cramped rooms, lack of customer service (I tried calling the desk 3 times and never go through) and the loading dock at the front of the building, I wouldn't recommend it.
+[-0.4285545349121094] Maybe I just had a bad experience but I was throughly disappointed in this hotel.
+
+**********
+
+[0.504302978515625] The front desk area is not huge.
+Parent: The front deks area is not huge , but has a farily open seating and meeting place .
+
+----- Supporting -----
+
+[0.504302978515625] 2 - We stayed in the Demi-Joule room and it was very small.
+[0.38818359375] The rooms are tiny and open like most W's and the focus on being trendy, not on customer service nor amenities.
+[0.27044677734375] The pool was nice as was the fitness center but with tiny cramped rooms, lack of customer service (I tried calling the desk 3 times and never go through) and the loading dock at the front of the building, I wouldn't recommend it.
+[0.267425537109375] The Joule is not luxurious in comparison and not sure why Starwood has it branded as such.
+[0.0921173095703125] They had free bottle of wine and chocolates in our room for our anniversary which was nice but I had to ask 3 times for ice bucket (it is small hotel so there are no ice machines on the floors).
+
+----- Weakening -----
+
+[-0.4559326171875] It is one of a kind and nothing else can compare in Dallas or wherever you may be....
+[-0.45556640625] The pool is small but they keep it very cool and refreshing.
+[-0.40826416015625] Our tweens loved the salt water heated infinity pool, the Charlie Palmer bar, awesome room service and gorgeous room......we live in Carrollton, but felt we had traveled to another luxurious country!
+[-0.4036865234375] Having said at, the bathroom was big, and really nice.
+[-0.3983154296875] The pool was completely packed with drunk, tattooed twenty-somethings like spring break in Daytona.
+
+**********
+
+[0.0614013671875] The front deks area has an open seating and meeting place.
+Parent: The front deks area is not huge , but has a farily open seating and meeting place .
+
+----- Supporting -----
+
+[0.0614013671875] BTW, the pool and PM Lounge are really cool!
+[0.046417236328125] Rooms, pool, lobby, design, etc are all well deserving of the accolades they receive.
+[0.0393829345703125] This can be useful for couples staying in the room.
+[0.034912109375] We had drinks at the hotel bar and dinner at Charlie Palmers.
+[0.0340576171875] I would never recommend this hotel or their club PM Lounge.
+
+----- Weakening -----
+
+[-0.532440185546875] That night we visited the PM Lounge that's located in the basement of the hotel.
+[-0.3915672302246094] The pool was nice as was the fitness center but with tiny cramped rooms, lack of customer service (I tried calling the desk 3 times and never go through) and the loading dock at the front of the building, I wouldn't recommend it.
+[-0.37115478515625] This is an excellent hotel with an amazing rooftop pool and lounge area.
+[-0.33599853515625] Well it started off BAD within 10 mins we had went to the pool where we find about 5 young ladies workin and just stood there looking like we where not even there, so I was like excuse me can I get a drink.
+[-0.318756103515625] I wasn't crazy about the way the bathroom is a bit open to the room.

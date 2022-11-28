@@ -1,0 +1,611 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.6793497513080465
+
+**********
+
+[0.1676025390625] The building's exterior is not inviting.
+Parent: The building's exterior is uninviting, and the front desk staff is unprofessional and unhelpful.
+
+----- Supporting -----
+
+[0.1676025390625] The exterior of the buildings in these wings looks like some outdated Polynesian tiki architecture.
+[0.08415603637695312] This property is a mess.
+[0.057830810546875] The tower elevators, which run on the exterior of the building, were quite cold.
+[-0.009746551513671875] The walk from that building to the lobby is about 2-3 minutes.
+[-0.01944732666015625] One wing building was closed for renovation.
+
+----- Weakening -----
+
+[-0.7493667602539062] The design of the hotel is a little maze-like but still beautiful and the pool definitely makes you feel like you're somewhere else rather than beside the Sea-Tac Airport.
+[-0.7375888824462891] It has a main tower, which is the best place to stay as you are close to everything, as well as several wings.
+[-0.7082977294921875] There is an abundance of gardens in between the different buildings and all were very well maintained and tended.
+[-0.7070159912109375] Several fireplaces and seating areas in the lobby make it comfortable.
+[-0.6412811279296875] The building has unique architecture which can prove to be challenging for some to find their rooms.
+
+**********
+
+[0.01753711700439453] The front desk staff is not professional.
+Parent: The building's exterior is uninviting, and the front desk staff is unprofessional and unhelpful.
+
+----- Supporting -----
+
+[0.01753711700439453] This property is a mess.
+[-0.014348983764648438] This is a large property with (I believe) five buildings.
+[-0.014949798583984375] The walk from that building to the lobby is about 2-3 minutes.
+[-0.0333099365234375] The tower elevators, which run on the exterior of the building, were quite cold.
+[-0.034935951232910156] Lobby has PC with printer to check in to airline and print boarding pass.
+
+----- Weakening -----
+
+[-0.8516921997070312] I went down to the lobby about 5:30 a.m. to print out our boarding passes, and a front desk employee came over to be sure everything was going well and I had what I needed - nice touch.
+[-0.44612693786621094] They did a great job soundproofing the external walls, but the hall walls seemed a bit thin.
+[-0.41074562072753906] There is an abundance of gardens in between the different buildings and all were very well maintained and tended.
+[-0.17038726806640625] Will stay there again in the future.
+[-0.1347026824951172] Beds are comfy, showers are great - the floors are marble which made going to the bathroom a little painful on the feet (COLD FLOORS!).
+
+**********
+
+[0.00339508056640625] The front desk staff is unhelpful.
+Parent: The building's exterior is uninviting, and the front desk staff is unprofessional and unhelpful.
+
+----- Supporting -----
+
+[0.00339508056640625] This property is a mess.
+[-0.03720378875732422] This is a large property with (I believe) five buildings.
+[-0.04101276397705078] The walk from that building to the lobby is about 2-3 minutes.
+[-0.07249069213867188] Several fireplaces and seating areas in the lobby make it comfortable.
+[-0.10860633850097656] The building has unique architecture which can prove to be challenging for some to find their rooms.
+
+----- Weakening -----
+
+[-0.9935541152954102] I went down to the lobby about 5:30 a.m. to print out our boarding passes, and a front desk employee came over to be sure everything was going well and I had what I needed - nice touch.
+[-0.7115287780761719] When we arrived we were told by the front desk the roll-a-way would be sent up immediately and would probably be there before we got up to the room.
+[-0.4762420654296875] They did a great job soundproofing the external walls, but the hall walls seemed a bit thin.
+[-0.4660911560058594] There is an abundance of gardens in between the different buildings and all were very well maintained and tended.
+[-0.34435462951660156] Overall this is a good property.
+
+**********
+
+[0.4261474609375] The rooms were cold.
+Parent: The rooms are cold and the roll-a-way beds are not comfortable.
+
+----- Supporting -----
+
+[0.4261474609375] Beds are comfy, showers are great - the floors are marble which made going to the bathroom a little painful on the feet (COLD FLOORS!).
+[0.22216796875] The tower elevators, which run on the exterior of the building, were quite cold.
+[-0.028045654296875] This property is a mess.
+[-0.03824615478515625] Will stay there again in the future.
+[-0.08105087280273438] Access to the tower is by external glass elevators.
+
+----- Weakening -----
+
+[-0.9749126434326172] There is an abundance of gardens in between the different buildings and all were very well maintained and tended.
+[-0.9730377197265625] The gift shop was well stocked and very reasonably priced.
+[-0.9416465759277344] Several fireplaces and seating areas in the lobby make it comfortable.
+[-0.7872200012207031] The design of the hotel is a little maze-like but still beautiful and the pool definitely makes you feel like you're somewhere else rather than beside the Sea-Tac Airport.
+[-0.6375198364257812] It has a main tower, which is the best place to stay as you are close to everything, as well as several wings.
+
+**********
+
+[0.00273895263671875] The roll-away beds are not comfortable.
+Parent: The rooms are cold and the roll-a-way beds are not comfortable.
+
+----- Supporting -----
+
+[0.00273895263671875] This property is a mess.
+[-0.014820098876953125] When we arrived we were told by the front desk the roll-a-way would be sent up immediately and would probably be there before we got up to the room.
+[-0.026515960693359375] I was put into this property by an airline due to a maintenance issue, although I checked in late at night and had to leave early the next morning, I saw enough that I want to return!
+[-0.030183792114257812] Stayed in the high-rise portion.
+[-0.03275871276855469] The building has unique architecture which can prove to be challenging for some to find their rooms.
+
+----- Weakening -----
+
+[-0.9152259826660156] Beds are comfy, showers are great - the floors are marble which made going to the bathroom a little painful on the feet (COLD FLOORS!).
+[-0.654449462890625] There is an abundance of gardens in between the different buildings and all were very well maintained and tended.
+[-0.6526107788085938] Several fireplaces and seating areas in the lobby make it comfortable.
+[-0.6006317138671875] The gift shop was well stocked and very reasonably priced.
+[-0.42938232421875] The tower elevators, which run on the exterior of the building, were quite cold.
+
+**********
+
+[0.610443115234375] The property is dirty and unkempt.
+Parent: The overall property is a mess.
+
+----- Supporting -----
+
+[0.610443115234375] This property is a mess.
+[-0.07566452026367188] The walk from that building to the lobby is about 2-3 minutes.
+[-0.1207895278930664] This is a large property with (I believe) five buildings.
+[-0.31505393981933594] When we arrived we were told by the front desk the roll-a-way would be sent up immediately and would probably be there before we got up to the room.
+[-0.3353424072265625] I was put into this property by an airline due to a maintenance issue, although I checked in late at night and had to leave early the next morning, I saw enough that I want to return!
+
+----- Weakening -----
+
+[-0.9987282752990723] There is an abundance of gardens in between the different buildings and all were very well maintained and tended.
+[-0.9947299957275391] The gift shop was well stocked and very reasonably priced.
+[-0.9908678531646729] Several fireplaces and seating areas in the lobby make it comfortable.
+[-0.9891147613525391] The design of the hotel is a little maze-like but still beautiful and the pool definitely makes you feel like you're somewhere else rather than beside the Sea-Tac Airport.
+[-0.9820992946624756] It has a main tower, which is the best place to stay as you are close to everything, as well as several wings.
+
+**********
+
+[0.9309005737304688] The building has an external glass elevator.
+Parent: The building has an external glass elevator and one wing is currently being renovated.
+
+----- Supporting -----
+
+[0.9309005737304688] Access to the tower is by external glass elevators.
+[-0.0012798309326171875] Overall this is a good property.
+[-0.003849029541015625] The walk from that building to the lobby is about 2-3 minutes.
+[-0.00397491455078125] As a Doubletree, I expected a GOOD three star property for my stay on August 27, 2004.
+[-0.0040435791015625] Will stay there again in the future.
+
+----- Weakening -----
+
+[-0.5125732421875] The tower elevators, which run on the exterior of the building, were quite cold.
+[-0.365753173828125] When we arrived we were told by the front desk the roll-a-way would be sent up immediately and would probably be there before we got up to the room.
+[-0.326416015625] They did a great job soundproofing the external walls, but the hall walls seemed a bit thin.
+[-0.18079376220703125] There is an abundance of gardens in between the different buildings and all were very well maintained and tended.
+[-0.13544464111328125] The design of the hotel is a little maze-like but still beautiful and the pool definitely makes you feel like you're somewhere else rather than beside the Sea-Tac Airport.
+
+**********
+
+[0.9414558410644531] The building is being renovated.
+Parent: The building has an external glass elevator and one wing is currently being renovated.
+
+----- Supporting -----
+
+[0.9414558410644531] One wing building was closed for renovation.
+[0.006252288818359375] They did a great job soundproofing the external walls, but the hall walls seemed a bit thin.
+[-0.0017347335815429688] Several fireplaces and seating areas in the lobby make it comfortable.
+[-0.0018644332885742188] Overall this is a good property.
+[-0.0021381378173828125] The building has unique architecture which can prove to be challenging for some to find their rooms.
+
+----- Weakening -----
+
+[-0.09824371337890625] The exterior of the buildings in these wings looks like some outdated Polynesian tiki architecture.
+[-0.0924844741821289] There is an abundance of gardens in between the different buildings and all were very well maintained and tended.
+[-0.09096145629882812] This property is a mess.
+[-0.0662384033203125] I was put into this property by an airline due to a maintenance issue, although I checked in late at night and had to leave early the next morning, I saw enough that I want to return!
+[-0.030908584594726562] Lobby has PC with printer to check in to airline and print boarding pass.
+
+**********
+
+[-0.0022401809692382812] The lobby is open 24 hours.
+Parent: The lobby is open 24 hours and the exterior of the building looks outdated.
+
+----- Supporting -----
+
+[-0.0022401809692382812] The walk from that building to the lobby is about 2-3 minutes.
+[-0.002369403839111328] Lobby has PC with printer to check in to airline and print boarding pass.
+[-0.002437591552734375] Overall this is a good property.
+[-0.0032711029052734375] Will stay there again in the future.
+[-0.00370025634765625] This is a large property with (I believe) five buildings.
+
+----- Weakening -----
+
+[-0.8901777267456055] One wing building was closed for renovation.
+[-0.42553138732910156] This property is a mess.
+[-0.19636917114257812] I was put into this property by an airline due to a maintenance issue, although I checked in late at night and had to leave early the next morning, I saw enough that I want to return!
+[-0.14136314392089844] There is an abundance of gardens in between the different buildings and all were very well maintained and tended.
+[-0.10376167297363281] The gift shop was well stocked and very reasonably priced.
+
+**********
+
+[0.9566249847412109] The exterior looks outdated.
+Parent: The lobby is open 24 hours and the exterior of the building looks outdated.
+
+----- Supporting -----
+
+[0.9566249847412109] The exterior of the buildings in these wings looks like some outdated Polynesian tiki architecture.
+[0.012659072875976562] This property is a mess.
+[-0.002655029296875] This is a large property with (I believe) five buildings.
+[-0.0038623809814453125] The walk from that building to the lobby is about 2-3 minutes.
+[-0.009176254272460938] Stayed in the high-rise portion.
+
+----- Weakening -----
+
+[-0.7570123672485352] There is an abundance of gardens in between the different buildings and all were very well maintained and tended.
+[-0.7508621215820312] The building has unique architecture which can prove to be challenging for some to find their rooms.
+[-0.3135986328125] They did a great job soundproofing the external walls, but the hall walls seemed a bit thin.
+[-0.18071746826171875] The design of the hotel is a little maze-like but still beautiful and the pool definitely makes you feel like you're somewhere else rather than beside the Sea-Tac Airport.
+[-0.10673236846923828] The gift shop was well stocked and very reasonably priced.
+
+**********
+
+[0.3135833740234375] The hotel is large.
+Parent: The hotel is large with several buildings, and the walk from the farthest building to the lobby is only a few minutes.
+
+----- Supporting -----
+
+[0.3135833740234375] It has a main tower, which is the best place to stay as you are close to everything, as well as several wings.
+[0.08882522583007812] This is a large property with (I believe) five buildings.
+[0.056484222412109375] The design of the hotel is a little maze-like but still beautiful and the pool definitely makes you feel like you're somewhere else rather than beside the Sea-Tac Airport.
+[0.02689361572265625] The building has unique architecture which can prove to be challenging for some to find their rooms.
+[0.01775360107421875] Stayed in the high-rise portion.
+
+----- Weakening -----
+
+[-0.2374114990234375] This property is a mess.
+[-0.037017822265625] The gift shop was well stocked and very reasonably priced.
+[-0.0106658935546875] The exterior of the buildings in these wings looks like some outdated Polynesian tiki architecture.
+[0.001922607421875] One wing building was closed for renovation.
+[0.002262115478515625] Lobby has PC with printer to check in to airline and print boarding pass.
+
+**********
+
+[0.44775390625] The hotel is spread out over several buildings.
+Parent: The hotel is large with several buildings, and the walk from the farthest building to the lobby is only a few minutes.
+
+----- Supporting -----
+
+[0.44775390625] It has a main tower, which is the best place to stay as you are close to everything, as well as several wings.
+[0.4041748046875] The design of the hotel is a little maze-like but still beautiful and the pool definitely makes you feel like you're somewhere else rather than beside the Sea-Tac Airport.
+[0.1645050048828125] This is a large property with (I believe) five buildings.
+[0.0150909423828125] There is an abundance of gardens in between the different buildings and all were very well maintained and tended.
+[0.01389312744140625] One wing building was closed for renovation.
+
+----- Weakening -----
+
+[-0.1977081298828125] Access to the tower is by external glass elevators.
+[-0.0832672119140625] The tower elevators, which run on the exterior of the building, were quite cold.
+[-0.076629638671875] Several fireplaces and seating areas in the lobby make it comfortable.
+[-0.0445556640625] The gift shop was well stocked and very reasonably priced.
+[-0.03857421875] The building has unique architecture which can prove to be challenging for some to find their rooms.
+
+**********
+
+[0.262298583984375] The walk from the farthest building to the lobby is short.
+Parent: The hotel is large with several buildings, and the walk from the farthest building to the lobby is only a few minutes.
+
+----- Supporting -----
+
+[0.262298583984375] The walk from that building to the lobby is about 2-3 minutes.
+[0.002208709716796875] Lobby has PC with printer to check in to airline and print boarding pass.
+[0.001720428466796875] Will stay there again in the future.
+[0.0011463165283203125] Several fireplaces and seating areas in the lobby make it comfortable.
+[0.001018524169921875] Overall this is a good property.
+
+----- Weakening -----
+
+[-0.7400588989257812] This property is a mess.
+[-0.42621517181396484] The building has unique architecture which can prove to be challenging for some to find their rooms.
+[-0.2590789794921875] Beds are comfy, showers are great - the floors are marble which made going to the bathroom a little painful on the feet (COLD FLOORS!).
+[-0.1053314208984375] Access to the tower is by external glass elevators.
+[-0.07183837890625] The tower elevators, which run on the exterior of the building, were quite cold.
+
+**********
+
+[0.9436483383178711] The property has plenty of gardens.
+Parent: There are plenty of gardens around the property, and the design of the hotel is both beautiful and maze-like.
+
+----- Supporting -----
+
+[0.9436483383178711] There is an abundance of gardens in between the different buildings and all were very well maintained and tended.
+[0.002483367919921875] Overall this is a good property.
+[0.000568389892578125] Will stay there again in the future.
+[-0.0001678466796875] I was put into this property by an airline due to a maintenance issue, although I checked in late at night and had to leave early the next morning, I saw enough that I want to return!
+[-0.0003643035888671875] This is a large property with (I believe) five buildings.
+
+----- Weakening -----
+
+[-0.9760763645172119] This property is a mess.
+[-0.3724822998046875] The tower elevators, which run on the exterior of the building, were quite cold.
+[-0.3255157470703125] The gift shop was well stocked and very reasonably priced.
+[-0.173736572265625] Lobby has PC with printer to check in to airline and print boarding pass.
+[-0.04940605163574219] One wing building was closed for renovation.
+
+**********
+
+[0.9311504364013672] The design of the hotel is beautiful.
+Parent: There are plenty of gardens around the property, and the design of the hotel is both beautiful and maze-like.
+
+----- Supporting -----
+
+[0.9311504364013672] The design of the hotel is a little maze-like but still beautiful and the pool definitely makes you feel like you're somewhere else rather than beside the Sea-Tac Airport.
+[0.0729522705078125] Beds are comfy, showers are great - the floors are marble which made going to the bathroom a little painful on the feet (COLD FLOORS!).
+[0.0555419921875] The building has unique architecture which can prove to be challenging for some to find their rooms.
+[0.031856536865234375] It has a main tower, which is the best place to stay as you are close to everything, as well as several wings.
+[0.025598526000976562] Several fireplaces and seating areas in the lobby make it comfortable.
+
+----- Weakening -----
+
+[-0.9804866313934326] This property is a mess.
+[-0.11162567138671875] The gift shop was well stocked and very reasonably priced.
+[-0.09905242919921875] The tower elevators, which run on the exterior of the building, were quite cold.
+[-0.008266448974609375] Lobby has PC with printer to check in to airline and print boarding pass.
+[-0.005157470703125] The exterior of the buildings in these wings looks like some outdated Polynesian tiki architecture.
+
+**********
+
+[0.9694976806640625] The hotel is maze-like.
+Parent: There are plenty of gardens around the property, and the design of the hotel is both beautiful and maze-like.
+
+----- Supporting -----
+
+[0.9694976806640625] The design of the hotel is a little maze-like but still beautiful and the pool definitely makes you feel like you're somewhere else rather than beside the Sea-Tac Airport.
+[0.06951522827148438] This property is a mess.
+[0.014892578125] The building has unique architecture which can prove to be challenging for some to find their rooms.
+[-0.016876220703125] I was put into this property by an airline due to a maintenance issue, although I checked in late at night and had to leave early the next morning, I saw enough that I want to return!
+[-0.07262992858886719] Will stay there again in the future.
+
+----- Weakening -----
+
+[-0.9832019805908203] Several fireplaces and seating areas in the lobby make it comfortable.
+[-0.9672088623046875] The gift shop was well stocked and very reasonably priced.
+[-0.9384517669677734] Lobby has PC with printer to check in to airline and print boarding pass.
+[-0.9272556304931641] There is an abundance of gardens in between the different buildings and all were very well maintained and tended.
+[-0.801422119140625] Beds are comfy, showers are great - the floors are marble which made going to the bathroom a little painful on the feet (COLD FLOORS!).
+
+**********
+
+[0.9669761657714844] The beds are comfortable.
+Parent: The beds are comfortable and the showers are great, but the floors can be cold.
+
+----- Supporting -----
+
+[0.9669761657714844] Beds are comfy, showers are great - the floors are marble which made going to the bathroom a little painful on the feet (COLD FLOORS!).
+[0.013475418090820312] Will stay there again in the future.
+[0.013232231140136719] Overall this is a good property.
+[0.0027065277099609375] As a Doubletree, I expected a GOOD three star property for my stay on August 27, 2004.
+[-0.000438690185546875] Stayed in the high-rise portion.
+
+----- Weakening -----
+
+[-0.71746826171875] The gift shop was well stocked and very reasonably priced.
+[-0.5950469970703125] The tower elevators, which run on the exterior of the building, were quite cold.
+[-0.583282470703125] Several fireplaces and seating areas in the lobby make it comfortable.
+[-0.46543121337890625] This property is a mess.
+[-0.4044189453125] The walk from that building to the lobby is about 2-3 minutes.
+
+**********
+
+[0.956512451171875] The showers are great.
+Parent: The beds are comfortable and the showers are great, but the floors can be cold.
+
+----- Supporting -----
+
+[0.956512451171875] Beds are comfy, showers are great - the floors are marble which made going to the bathroom a little painful on the feet (COLD FLOORS!).
+[0.00266265869140625] Will stay there again in the future.
+[0.0015811920166015625] Overall this is a good property.
+[-0.00522613525390625] When we arrived we were told by the front desk the roll-a-way would be sent up immediately and would probably be there before we got up to the room.
+[-0.013057708740234375] As a Doubletree, I expected a GOOD three star property for my stay on August 27, 2004.
+
+----- Weakening -----
+
+[-0.8986339569091797] The tower elevators, which run on the exterior of the building, were quite cold.
+[-0.8946332931518555] This property is a mess.
+[-0.6706695556640625] The gift shop was well stocked and very reasonably priced.
+[-0.553466796875] There is an abundance of gardens in between the different buildings and all were very well maintained and tended.
+[-0.4435272216796875] Several fireplaces and seating areas in the lobby make it comfortable.
+
+**********
+
+[0.764404296875] The floors are cold.
+Parent: The beds are comfortable and the showers are great, but the floors can be cold.
+
+----- Supporting -----
+
+[0.764404296875] Beds are comfy, showers are great - the floors are marble which made going to the bathroom a little painful on the feet (COLD FLOORS!).
+[0.020751953125] The tower elevators, which run on the exterior of the building, were quite cold.
+[-0.01036834716796875] This property is a mess.
+[-0.015163421630859375] Will stay there again in the future.
+[-0.027154922485351562] I went down to the lobby about 5:30 a.m. to print out our boarding passes, and a front desk employee came over to be sure everything was going well and I had what I needed - nice touch.
+
+----- Weakening -----
+
+[-0.9559268951416016] There is an abundance of gardens in between the different buildings and all were very well maintained and tended.
+[-0.8180465698242188] The gift shop was well stocked and very reasonably priced.
+[-0.8076248168945312] Several fireplaces and seating areas in the lobby make it comfortable.
+[-0.6849861145019531] The design of the hotel is a little maze-like but still beautiful and the pool definitely makes you feel like you're somewhere else rather than beside the Sea-Tac Airport.
+[-0.5515670776367188] They did a great job soundproofing the external walls, but the hall walls seemed a bit thin.
+
+**********
+
+[0.9695196151733398] The main tower is the best place to stay.
+Parent: The main tower is the best place to stay, as it is close to everything.
+
+----- Supporting -----
+
+[0.9695196151733398] It has a main tower, which is the best place to stay as you are close to everything, as well as several wings.
+[0.00377655029296875] Stayed in the high-rise portion.
+[0.001392364501953125] Will stay there again in the future.
+[-0.00084686279296875] Access to the tower is by external glass elevators.
+[-0.004199981689453125] Overall this is a good property.
+
+----- Weakening -----
+
+[-0.8832635879516602] This property is a mess.
+[-0.5724945068359375] Several fireplaces and seating areas in the lobby make it comfortable.
+[-0.5255928039550781] Lobby has PC with printer to check in to airline and print boarding pass.
+[-0.42537689208984375] The gift shop was well stocked and very reasonably priced.
+[-0.22272109985351562] I went down to the lobby about 5:30 a.m. to print out our boarding passes, and a front desk employee came over to be sure everything was going well and I had what I needed - nice touch.
+
+**********
+
+[0.5893020629882812] The main tower is very convenient.
+Parent: The main tower is the best place to stay, as it is close to everything.
+
+----- Supporting -----
+
+[0.5893020629882812] It has a main tower, which is the best place to stay as you are close to everything, as well as several wings.
+[0.02043914794921875] Access to the tower is by external glass elevators.
+[0.016408920288085938] Will stay there again in the future.
+[0.014558792114257812] Stayed in the high-rise portion.
+[0.000225067138671875] Overall this is a good property.
+
+----- Weakening -----
+
+[-0.8493413925170898] This property is a mess.
+[-0.3710174560546875] Beds are comfy, showers are great - the floors are marble which made going to the bathroom a little painful on the feet (COLD FLOORS!).
+[-0.36528778076171875] The tower elevators, which run on the exterior of the building, were quite cold.
+[-0.2510824203491211] The building has unique architecture which can prove to be challenging for some to find their rooms.
+[-0.16607666015625] Several fireplaces and seating areas in the lobby make it comfortable.
+
+**********
+
+[0.9945173263549805] There is a PC in the lobby.
+Parent: There is a PC in the lobby with a printer to help guests check in to their flights and print boarding passes.
+
+----- Supporting -----
+
+[0.9945173263549805] Lobby has PC with printer to check in to airline and print boarding pass.
+[0.0174713134765625] I went down to the lobby about 5:30 a.m. to print out our boarding passes, and a front desk employee came over to be sure everything was going well and I had what I needed - nice touch.
+[-0.001033782958984375] Overall this is a good property.
+[-0.002750396728515625] Will stay there again in the future.
+[-0.0029296875] The walk from that building to the lobby is about 2-3 minutes.
+
+----- Weakening -----
+
+[-0.630401611328125] The gift shop was well stocked and very reasonably priced.
+[-0.37419891357421875] There is an abundance of gardens in between the different buildings and all were very well maintained and tended.
+[-0.1189584732055664] Several fireplaces and seating areas in the lobby make it comfortable.
+[-0.08724021911621094] This property is a mess.
+[-0.058197021484375] One wing building was closed for renovation.
+
+**********
+
+[0.9798774719238281] The PC has a printer.
+Parent: There is a PC in the lobby with a printer to help guests check in to their flights and print boarding passes.
+
+----- Supporting -----
+
+[0.9798774719238281] Lobby has PC with printer to check in to airline and print boarding pass.
+[-0.007122039794921875] Overall this is a good property.
+[-0.0084991455078125] Will stay there again in the future.
+[-0.02416229248046875] As a Doubletree, I expected a GOOD three star property for my stay on August 27, 2004.
+[-0.02606201171875] I went down to the lobby about 5:30 a.m. to print out our boarding passes, and a front desk employee came over to be sure everything was going well and I had what I needed - nice touch.
+
+----- Weakening -----
+
+[-0.617340087890625] There is an abundance of gardens in between the different buildings and all were very well maintained and tended.
+[-0.4643096923828125] The gift shop was well stocked and very reasonably priced.
+[-0.3528900146484375] The exterior of the buildings in these wings looks like some outdated Polynesian tiki architecture.
+[-0.3417205810546875] The design of the hotel is a little maze-like but still beautiful and the pool definitely makes you feel like you're somewhere else rather than beside the Sea-Tac Airport.
+[-0.3285675048828125] It has a main tower, which is the best place to stay as you are close to everything, as well as several wings.
+
+**********
+
+[0.8876228332519531] The printer helps guests check in to their flights.
+Parent: There is a PC in the lobby with a printer to help guests check in to their flights and print boarding passes.
+
+----- Supporting -----
+
+[0.8876228332519531] Lobby has PC with printer to check in to airline and print boarding pass.
+[0.2652740478515625] I went down to the lobby about 5:30 a.m. to print out our boarding passes, and a front desk employee came over to be sure everything was going well and I had what I needed - nice touch.
+[-0.0071010589599609375] Overall this is a good property.
+[-0.009868621826171875] The walk from that building to the lobby is about 2-3 minutes.
+[-0.010318756103515625] Will stay there again in the future.
+
+----- Weakening -----
+
+[-0.4929065704345703] The gift shop was well stocked and very reasonably priced.
+[-0.3571929931640625] There is an abundance of gardens in between the different buildings and all were very well maintained and tended.
+[-0.2378997802734375] This property is a mess.
+[-0.2082366943359375] One wing building was closed for renovation.
+[-0.08902740478515625] The tower elevators, which run on the exterior of the building, were quite cold.
+
+**********
+
+[0.9125862121582031] The printer helps guests print boarding passes.
+Parent: There is a PC in the lobby with a printer to help guests check in to their flights and print boarding passes.
+
+----- Supporting -----
+
+[0.9125862121582031] Lobby has PC with printer to check in to airline and print boarding pass.
+[0.0751953125] I went down to the lobby about 5:30 a.m. to print out our boarding passes, and a front desk employee came over to be sure everything was going well and I had what I needed - nice touch.
+[-0.0038318634033203125] Overall this is a good property.
+[-0.008258819580078125] Will stay there again in the future.
+[-0.011022567749023438] The walk from that building to the lobby is about 2-3 minutes.
+
+----- Weakening -----
+
+[-0.23049354553222656] This property is a mess.
+[-0.18873214721679688] There is an abundance of gardens in between the different buildings and all were very well maintained and tended.
+[-0.18723297119140625] One wing building was closed for renovation.
+[-0.17001724243164062] The gift shop was well stocked and very reasonably priced.
+[-0.13848876953125] When we arrived we were told by the front desk the roll-a-way would be sent up immediately and would probably be there before we got up to the room.
+
+**********
+
+[0.9025583267211914] The architecture is unique.
+Parent: The building was said to have unique architecture, which can be challenging to navigate for some people.
+
+----- Supporting -----
+
+[0.9025583267211914] The building has unique architecture which can prove to be challenging for some to find their rooms.
+[0.11050033569335938] The design of the hotel is a little maze-like but still beautiful and the pool definitely makes you feel like you're somewhere else rather than beside the Sea-Tac Airport.
+[0.03484153747558594] Beds are comfy, showers are great - the floors are marble which made going to the bathroom a little painful on the feet (COLD FLOORS!).
+[0.014711380004882812] It has a main tower, which is the best place to stay as you are close to everything, as well as several wings.
+[0.010034561157226562] There is an abundance of gardens in between the different buildings and all were very well maintained and tended.
+
+----- Weakening -----
+
+[-0.8623809814453125] The exterior of the buildings in these wings looks like some outdated Polynesian tiki architecture.
+[-0.6362247467041016] This property is a mess.
+[-0.021535873413085938] The gift shop was well stocked and very reasonably priced.
+[-0.004436492919921875] Lobby has PC with printer to check in to airline and print boarding pass.
+[-0.00215911865234375] One wing building was closed for renovation.
+
+**********
+
+[0.9103155136108398] The building is not easy to navigate.
+Parent: The building was said to have unique architecture, which can be challenging to navigate for some people.
+
+----- Supporting -----
+
+[0.9103155136108398] The building has unique architecture which can prove to be challenging for some to find their rooms.
+[0.8681144714355469] The design of the hotel is a little maze-like but still beautiful and the pool definitely makes you feel like you're somewhere else rather than beside the Sea-Tac Airport.
+[0.6831378936767578] This property is a mess.
+[0.33689117431640625] Beds are comfy, showers are great - the floors are marble which made going to the bathroom a little painful on the feet (COLD FLOORS!).
+[0.07740020751953125] The tower elevators, which run on the exterior of the building, were quite cold.
+
+----- Weakening -----
+
+[-0.298095703125] Overall this is a good property.
+[-0.2625885009765625] The walk from that building to the lobby is about 2-3 minutes.
+[-0.2441253662109375] There is an abundance of gardens in between the different buildings and all were very well maintained and tended.
+[-0.17724227905273438] Will stay there again in the future.
+[-0.1344757080078125] It has a main tower, which is the best place to stay as you are close to everything, as well as several wings.
+
+**********
+
+[0.9553165435791016] The gift shop was fully stocked.
+Parent: The gift shop was well-stocked and reasonably priced.
+
+----- Supporting -----
+
+[0.9553165435791016] The gift shop was well stocked and very reasonably priced.
+[-0.00152587890625] Stayed in the high-rise portion.
+[-0.0021381378173828125] Will stay there again in the future.
+[-0.0042285919189453125] It has a main tower, which is the best place to stay as you are close to everything, as well as several wings.
+[-0.005878448486328125] I was put into this property by an airline due to a maintenance issue, although I checked in late at night and had to leave early the next morning, I saw enough that I want to return!
+
+----- Weakening -----
+
+[-0.959965705871582] This property is a mess.
+[-0.8480072021484375] Lobby has PC with printer to check in to airline and print boarding pass.
+[-0.8065757751464844] One wing building was closed for renovation.
+[-0.5554122924804688] The tower elevators, which run on the exterior of the building, were quite cold.
+[-0.4024505615234375] Access to the tower is by external glass elevators.
+
+**********
+
+[0.9890961647033691] The gift shop was reasonably priced.
+Parent: The gift shop was well-stocked and reasonably priced.
+
+----- Supporting -----
+
+[0.9890961647033691] The gift shop was well stocked and very reasonably priced.
+[0.001346588134765625] Will stay there again in the future.
+[-0.006771087646484375] The walk from that building to the lobby is about 2-3 minutes.
+[-0.00743865966796875] Overall this is a good property.
+[-0.008548736572265625] I was put into this property by an airline due to a maintenance issue, although I checked in late at night and had to leave early the next morning, I saw enough that I want to return!
+
+----- Weakening -----
+
+[-0.5949745178222656] This property is a mess.
+[-0.2615814208984375] The building has unique architecture which can prove to be challenging for some to find their rooms.
+[-0.2302093505859375] Lobby has PC with printer to check in to airline and print boarding pass.
+[-0.2156219482421875] Stayed in the high-rise portion.
+[-0.140899658203125] Beds are comfy, showers are great - the floors are marble which made going to the bathroom a little painful on the feet (COLD FLOORS!).

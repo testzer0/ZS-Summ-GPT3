@@ -1,0 +1,128 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.7585805257161459
+
+**********
+
+[0.7882232666015625] Overall, the food was good.
+Parent: Overall, reviewers thought the food was good, although some found it cold and others thought it was overpriced.
+
+----- Supporting -----
+
+[0.7882232666015625] Food was good, but a bit overpriced.
+[0.7661418914794922] The food was good although a bit pricey.
+[0.6865921020507812] The food was decent as was the wine selection.
+[0.5810785293579102] Restaurant food was excellent and reasonably priced and breakfast was good.
+[0.5425128936767578] Choice of food was excelent.
+
+----- Weakening -----
+
+[-0.771026611328125] Food was very expensive in restaurant and just okay.
+[-0.69842529296875] We ate at both the lounge and the cafe and food was average at best, but the service VERY GOOD!
+[-0.38498687744140625] VERY average burger.
+[-0.19226455688476562] We ordered food and received ice cold food one hour later.
+[-0.0673828125] The not so good news - food at the hotel was OK.
+
+**********
+
+[0.9644546508789062] The food was cold.
+Parent: Overall, reviewers thought the food was good, although some found it cold and others thought it was overpriced.
+
+----- Supporting -----
+
+[0.9644546508789062] The soup was brought to us pretty cold, but he seemed to vanish so we couldn't complain.
+[0.9642658233642578] All of this resulted in out take-out food getting cold plus I lost my scarf somewhere along the way.
+[0.9613819122314453] We ordered food and received ice cold food one hour later.
+[-0.0058650970458984375] So we had to order a pizza.
+[-0.0299530029296875] We ate at both the lounge and the cafe and food was average at best, but the service VERY GOOD!
+
+----- Weakening -----
+
+[-0.9937686920166016] I love the big warm cookies in the evening.
+[-0.9916210174560547] On the plus side, we got warm cookies upon check-in.
+[-0.9900999069213867] Warm cookies when you arrive.
+[-0.9880199432373047] They did have warm cookies at check-in.
+[-0.9850673675537109] As others have mentioned as well, who's night is not made better when checking in and receiving a warm cookie?
+
+**********
+
+[0.9540138244628906] The food was overpriced.
+Parent: Overall, reviewers thought the food was good, although some found it cold and others thought it was overpriced.
+
+----- Supporting -----
+
+[0.9540138244628906] Food was good, but a bit overpriced.
+[0.9466400146484375] Food was very expensive in restaurant and just okay.
+[0.7691612243652344] That worked well for me since the food at the hotel is fairly pricey.
+[0.7379302978515625] The food was good although a bit pricey.
+[0.4860992431640625] The food was a little expensive-$13 for a burger and $12 for an omelette alone.
+
+----- Weakening -----
+
+[-0.9922189712524414] Restaurant food was excellent and reasonably priced and breakfast was good.
+[-0.9004268646240234] I was able to purchase a reasonably priced bottle of Oregon pinot noir for in-room consumption.
+[-0.5889034271240234] This plus we luv their complimentary cookies that they offer upon check-in.
+[-0.5575332641601562] The only good thing about it was that i booked it on Priceline and got a really good price.
+[-0.5372486114501953] Overall I was quite pleased as we paid only $50 through Priceline.
+
+**********
+
+[0.7205772399902344] The hotel has a coffee bar in the lobby.
+Parent: The hotel has a coffee bar in the lobby and gives out cookies at check-in, which were both well-received.
+
+----- Supporting -----
+
+[0.7205772399902344] We were able to grab a quick bite and coffee at the convenience Starbucks in the lobby on our way out to our flight.
+[0.6364822387695312] The coffee bar in the lobby is great and opens at 5.
+[0.5001564025878906] The coffee bar in the lobby was handy, too!
+[-0.0023193359375] I was able to purchase a reasonably priced bottle of Oregon pinot noir for in-room consumption.
+[-0.0023632049560546875] 75.00 (not including taxes) for a full day stay.
+
+----- Weakening -----
+
+[-0.6276702880859375] The cookies are, of course, one of our favorite things about the Doubletree chain.
+[-0.579345703125] VERY average burger.
+[-0.4637451171875] We were pretty late 9.54pm but managed to get a decent meal in the bar, I will happily come back to this doubletrees.
+[-0.37030029296875] The chocolate chip cookies are always a treat.
+[-0.36078643798828125] The soup was brought to us pretty cold, but he seemed to vanish so we couldn't complain.
+
+**********
+
+[0.9860153198242188] The hotel gives out cookies at check-in.
+Parent: The hotel has a coffee bar in the lobby and gives out cookies at check-in, which were both well-received.
+
+----- Supporting -----
+
+[0.9860153198242188] The hotel reception had a lovely smell of freshly baked cookies which were given out at check in and were delicious.
+[0.46814727783203125] This plus we luv their complimentary cookies that they offer upon check-in.
+[0.4015636444091797] They did have warm cookies at check-in.
+[0.20679283142089844] And yes, we like the chocolate chip cookies at check-in.
+[0.15679168701171875] As others have mentioned as well, who's night is not made better when checking in and receiving a warm cookie?
+
+----- Weakening -----
+
+[-0.8577804565429688] --Cookies at check in were good.
+[-0.8404006958007812] Then there was this set-up for the syrup which was under a sterno can and full flame, the syrup was boiling.
+[-0.6410446166992188] We ordered food and received ice cold food one hour later.
+[-0.5046119689941406] The soup was brought to us pretty cold, but he seemed to vanish so we couldn't complain.
+[-0.3189888000488281] So we had to order a pizza.
+
+**********
+
+[0.1381988525390625] The coffee bar and cookies were both good.
+Parent: The hotel has a coffee bar in the lobby and gives out cookies at check-in, which were both well-received.
+
+----- Supporting -----
+
+[0.1381988525390625] The rooms are comfortable and the cookies are great but getting smaller.
+[0.03875255584716797] This plus we luv their complimentary cookies that they offer upon check-in.
+[0.03586101531982422] The cookies are a nice touch too.
+[0.0310211181640625] As others have mentioned as well, who's night is not made better when checking in and receiving a warm cookie?
+[0.02435302734375] You absolutely cannot beat a Doubletree chocolate chip cookie as a welcome treat.
+
+----- Weakening -----
+
+[-0.934290885925293] Burger, soda and tip $21.00.
+[-0.9102506637573242] So a burger and soup were $32, and it was a very.
+[-0.7568759918212891] VERY average burger.
+[-0.7344522476196289] So we had to order a pizza.
+[-0.5247955322265625] --Cookies at check in were good.

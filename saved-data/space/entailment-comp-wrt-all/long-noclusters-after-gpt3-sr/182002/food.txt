@@ -1,0 +1,23 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.0863037109375
+
+**********
+
+[0.0863037109375] The food was not mentioned in the reviews.
+Parent: The reviews did not mention the food.
+
+----- Supporting -----
+
+[0.0863037109375] Despite our best efforts to convey how irreplaceable it was, housekeeping claimed not to have seen it.
+[0.0101318359375] I do not understand why the hotel website did not advise of the works,and the management didnt seem to have an answer either.
+[0.00678253173828125] not a big deal.
+[0.00254058837890625] I would describe it as typical Best Western standard 3 star hotel quality, nothing special and no frills.
+[0.001842498779296875] No big deal though.
+
+----- Weakening -----
+
+[-0.9955310821533203] They were also kind enough to recommend and make reservations at a lovely restaurant called Ruth Chris (pricey but well worth it if you are a steak lover).
+[-0.990140438079834] Thank you very much Best Western Primrose.
+[-0.9863357543945312] Great beef swarma pita sandwiches nearby esp.
+[-0.9817295074462891] #4) Gave me coupons for the free continental breakfast.
+[-0.9730997085571289] The food they serve is good as well.

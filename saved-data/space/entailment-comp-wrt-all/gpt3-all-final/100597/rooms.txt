@@ -1,0 +1,107 @@
+***** Aspect: rooms Model Type : zs *****
+Overall score: 0.9647063255310059
+
+**********
+
+[0.987757682800293] The rooms were clean.
+Parent: The rooms at the hotel were clean and comfortable, with some reviewers finding them spacious.
+
+----- Supporting -----
+
+[0.987757682800293] The rooms were very clean and the staff was very nice.
+[0.9852638244628906] The rooms are clean and nicely appointed.
+[0.9797172546386719] The room was very clean and comfortable.
+[0.9754848480224609] The beds were comfortable and the room was very clean.
+[0.9740681648254395] The hotel was nice; good clean rooms.
+
+----- Weakening -----
+
+[-0.996891975402832] The bathroom was dirty and stained.
+[-0.9968481063842773] When we found our room we discovered that the bathroom hadn't been cleaned and there were dirty towels lying around.
+[-0.9963274002075195] Room was highly run down.
+[-0.9960699081420898] Upon further inspection of the room, the older bathroom wood doors were dirty from years of use-these "Hilton Honors" rooms really need refurbishing.
+[-0.995699405670166] It was so liquified that it spilled all over my hand and burned me terribly.
+
+**********
+
+[0.975581169128418] The rooms were comfortable.
+Parent: The rooms at the hotel were clean and comfortable, with some reviewers finding them spacious.
+
+----- Supporting -----
+
+[0.975581169128418] The rooms were gorgeous and spacious and comfortable.
+[0.9728050231933594] The room was very clean and comfortable.
+[0.9727401733398438] The rooms are comfortable and the cookies are great but getting smaller.
+[0.9644112586975098] The room was clean and bed comfortable.
+[0.9615178108215332] Hotel is very close the the airport and room was comfortable.
+
+----- Weakening -----
+
+[-0.9712867736816406] Room was highly run down.
+[-0.96429443359375] It was so liquified that it spilled all over my hand and burned me terribly.
+[-0.9597148895263672] Anyway, I requested a non-smoking room but the floor smelled like the stench of smoke.
+[-0.941497802734375] The wing hallways had a damp smell.
+[-0.9268093109130859] When you finally reach your room the heaters all make tremendous noise, rattle, rumble.
+
+**********
+
+[0.9871582984924316] The rooms were spacious.
+Parent: The rooms at the hotel were clean and comfortable, with some reviewers finding them spacious.
+
+----- Supporting -----
+
+[0.9871582984924316] The rooms are very spacious and very nice.
+[0.9846067428588867] The rooms were gorgeous and spacious and comfortable.
+[0.9822201728820801] The rooms were very spacious, modern and clean.
+[0.9667253494262695] Spacious room and very comfortable bedding.
+[0.9617223739624023] The room was spacious with a comfortable bed and a large selection of various pillows.
+
+----- Weakening -----
+
+[-0.9785308837890625] The fitness room is small but the bedrooms are standard.
+[-0.9775142669677734] Room was highly run down.
+[-0.9744644165039062] Rooms are not particularly posh or large.
+[-0.9555740356445312] Complimentary shuttle nice although couldn't fit everyone on a Sunday mid-AM!
+[-0.949981689453125] There were also 2 cigarette butts on the small patio.
+
+**********
+
+[0.9219818115234375] There was no wifi in the rooms.
+Parent: Some guests were disappointed that there was no wifi in the rooms, and others found the parking fees to be expensive.
+
+----- Supporting -----
+
+[0.9219818115234375] No wireless in the rooms.
+[0.9157638549804688] (and no in room wireless).
+[0.8936767578125] If you're just crashing for the night, the hotel has 1 night hotel plus x days parking that's not a bad deal - no breakfast - no free wireless in the room - it's a fee - don't remember what it was since I've never used it - HUGE complex - both a plus and a minus - if you get one of the far wing rooms, you have a long way to walk after check-in Overall, I think it's a great value, especially if you get a Priceline rate.
+[0.39459228515625] No frig or microwaves in Doubletree hotels, too many pillows on the bed.
+[0.18422508239746094] Unfortunately there was no wifi and the parking was $16 per night - expensive for the area.
+
+----- Weakening -----
+
+[-0.9985318183898926] The room also had Wi-Fi access - we even had Wi-Fi on the pool deck!
+[-0.9949064254760742] My only complaint is that they charge for the use of wifi in your room.
+[-0.9944686889648438] The room did not have a refrigerator or microwave; the high speed internet connection in the room cost about $10.
+[-0.9935531616210938] Free internet usage in the lobby too!
+[-0.9865083694458008] On the incoming leg earlier, we stayed across the street at the Hampton for about the same price, wireless internet, free parking and free breakfast.
+
+**********
+
+[0.9510526657104492] The parking fees were expensive.
+Parent: Some guests were disappointed that there was no wifi in the rooms, and others found the parking fees to be expensive.
+
+----- Supporting -----
+
+[0.9510526657104492] Parking is expensive at $25 for valet and $21.50 for self-park per night.
+[0.9491195678710938] Pros: - cookies upon check-in - one of my favorite things about the Doubletrees - complimentary airport shuttle every 15 mins - nice pools, rooms are very comfortable with excellent beds and Neutrogena toiletries and Wolfgang Puck coffee - nice food selection in hotel Cons: - parking is expensive - $16/night.
+[0.9252967834472656] Parking was expensive but if you don't mind walking across the street there is a parking garage (Wally Park) that if you park on the roof it's $12.95 + tax.
+[0.9216251373291016] Parking and some extras relatively expensive.
+[0.8547763824462891] I thought it was a little expensive for a hotel not located in the center of the city to charge $15 per day to park a car.
+
+----- Weakening -----
+
+[-0.9718074798583984] On the incoming leg earlier, we stayed across the street at the Hampton for about the same price, wireless internet, free parking and free breakfast.
+[-0.9050521850585938] If you're just crashing for the night, the hotel has 1 night hotel plus x days parking that's not a bad deal - no breakfast - no free wireless in the room - it's a fee - don't remember what it was since I've never used it - HUGE complex - both a plus and a minus - if you get one of the far wing rooms, you have a long way to walk after check-in Overall, I think it's a great value, especially if you get a Priceline rate.
+[-0.8562793731689453] I can walk down to the lobby and get free wifi or use their computers for no charge.
+[-0.8455276489257812] We get the stay and jet package so we park for a week for only $30.00.
+[-0.829218864440918] The room was a bit basic and dated but it was inexpensive and we could leave our car in their car park while we were on holiday.

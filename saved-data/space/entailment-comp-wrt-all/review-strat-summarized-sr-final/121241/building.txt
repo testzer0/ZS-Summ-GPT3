@@ -1,0 +1,170 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.6333158612251282
+
+**********
+
+[0.9521942138671875] The building is old.
+Parent: The building is old and in poor condition.
+
+----- Supporting -----
+
+[0.9521942138671875] As for the hotel itself, it is old and outdated.
+[0.9420576095581055] The problems we saw were - hotel is older and needs help.
+[0.9231243133544922] This is a sprawling place but it is beginning to show its age.
+[0.9031209945678711] The hallways and rooms could be lit brighter and it is an older hotel.
+[0.9009132385253906] This is just an older hotel that they have tried to fixed up but too many tale tale signs of aging.
+
+----- Weakening -----
+
+[-0.9765052795410156] You can see the new renovation and it is very nice.
+[-0.9021453857421875] I was told the place had been remodeled, I guess they meant new paint which is all dark colors and new carpet.
+[-0.9013748168945312] and there new beds are awsome they are very comfortable.
+[-0.7520904541015625] The family and I stayed two nights at the newly renovated Stone Castle Hotel in Branson.
+[-0.732574462890625] at the stone castle hotel it is highly a must to see and stay at,from its three castles and two indoor heated pools and two spas it also is equipt with a family arcade,gift shop,laundry and a hot deliciuos breakfast each morning and if thats not enough it also has for your convience high speed internet and a computer for your use in the lobby.the rooms are newly remolded with pillow top beds,table and chairs,restroom etc needs,ironing board and iron,and a blow dryer.the tvs are meduim size and cable tv.this hotel is right smack in the heart of branson.
+
+**********
+
+[0.8229408264160156] The building is in poor condition.
+Parent: The building is old and in poor condition.
+
+----- Supporting -----
+
+[0.8229408264160156] At 11pm I contacted the Holiday Inn Express on Green Mountian Drive and Josh gave me a great rate to help compensate the poor quality of the Stone Castle.
+[0.7240142822265625] We would never go back to this property again, because of the condition of the property, and the bad oders.
+[0.5543670654296875] The hotel just did not seem clean at all.
+[0.5299072265625] This is just an older hotel that they have tried to fixed up but too many tale tale signs of aging.
+[0.5158462524414062] The hotel needs updating and cleaning.
+
+----- Weakening -----
+
+[-0.9969768524169922] The landscape is lovely and the buildings are well kept and clean.
+[-0.9966185092926025] The hotel in all is very clean and the standard rooms are very spacious.
+[-0.9964942932128906] The rooms are well maintained, clean, and spacious.
+[-0.9956908226013184] The room was very clean and decorated very nicely.
+[-0.9955921173095703] It's in a very quiet part of Branson, the rooms are super clean, the staff is very helpful and they have a great hot breakfast.
+
+**********
+
+[0.950523853302002] The hotel smells bad.
+Parent: It smells bad and is infested with bugs.
+
+----- Supporting -----
+
+[0.950523853302002] Management should really address the musty smell of the hotel.
+[0.9375085830688477] The entire hotel smells old and musty.
+[0.9254512786865234] Once inside the hotel it smelled so musty I opened the window in my room to discover it didn't even lock (we had a main floor room, so window locks are a MUST) Husband went to the front desk to complain, maintenance man was able to fix it after at least 45 minute wait.
+[0.9028997421264648] The hotel had a very musty smell as soon as you entered.
+[0.406005859375] Yes, it was an older hotel and room, and it did have a slight musty smell, but the charm overwhelmed everything.
+
+----- Weakening -----
+
+[-0.994102954864502] the beds are so fresh and smell good.so close to sleeping in my own beds.
+[-0.9940032958984375] It's in a very quiet part of Branson, the rooms are super clean, the staff is very helpful and they have a great hot breakfast.
+[-0.9914650917053223] Everything was great---Front desk people were friendly and was always willing to help in anyway...Rooms were clean and fresh..Breakfast was good and good music to listen too....I would rate this hotel and one of the best Branson has to offer.
+[-0.9907207489013672] All rooms are clean and nonsmoking.
+[-0.9886379241943359] The hotel in all is very clean and the standard rooms are very spacious.
+
+**********
+
+[0.13584136962890625] The hotel is infested with bugs.
+Parent: It smells bad and is infested with bugs.
+
+----- Supporting -----
+
+[0.13584136962890625] The staff was very helpful but could not find an unstained pilliow in the entire complex!
+[0.06789398193359375] There were dead bugs floating in the water, a hole in the wall under the window, a piece of wood holding a slide glass door open, chains on other doors that said "this entrance is in need of repairs, sorry for any inconvenience" or something to that affect.
+[0.0365753173828125] We would never go back to this property again, because of the condition of the property, and the bad oders.
+[0.018106460571289062] Next, the first room that was assigned to us smelled like moth balls, we were given another room which was much better.
+[0.004425048828125] The beds were very very nasty.
+
+----- Weakening -----
+
+[-0.9819588661193848] It's in a very quiet part of Branson, the rooms are super clean, the staff is very helpful and they have a great hot breakfast.
+[-0.9770781993865967] the rooms are so clean.
+[-0.9716019630432129] Quiet and clean!
+[-0.9715886116027832] The hotel in all is very clean and the standard rooms are very spacious.
+[-0.9711141586303711] The facility was clean.
+
+**********
+
+[0.9348506927490234] The fire alarms are not working.
+Parent: The fire alarms are disabled.
+
+----- Supporting -----
+
+[0.9348506927490234] The fire alarms were all disabled throughout the entire hotel.
+[0.0255126953125] Once inside the hotel it smelled so musty I opened the window in my room to discover it didn't even lock (we had a main floor room, so window locks are a MUST) Husband went to the front desk to complain, maintenance man was able to fix it after at least 45 minute wait.
+[0.0] !
+[0.0] love them.
+[0.0] very nice.
+
+----- Weakening -----
+
+[-0.9226951599121094] Every requests is handled quickly and efficiently.
+[-0.90008544921875] We called the front desk to report that our air conditioning was not working.
+[-0.8732795715332031] The wireless internet did not work and we were basically told - "Sorry" and they couldn't do anything about it.
+[-0.8622245788574219] The staff keeps everything full and clean.
+[-0.83782958984375] The air conditioning in the buildings did not work properly.
+
+**********
+
+[0.937896728515625] The doors do not lock.
+Parent: The doors do not lock properly.
+
+----- Supporting -----
+
+[0.937896728515625] The exterior doors had problems locking.
+[0.728973388671875] We had a balcony that had a door that wouldn't lock.
+[0.6878204345703125] Once inside the hotel it smelled so musty I opened the window in my room to discover it didn't even lock (we had a main floor room, so window locks are a MUST) Husband went to the front desk to complain, maintenance man was able to fix it after at least 45 minute wait.
+[0.59619140625] 2 people in my group had door locks that would not work properly on their rooms.
+[0.48681640625] My friends had to prop a chair under the doorknob to be secure.
+
+----- Weakening -----
+
+[-0.9923629760742188] The bathroom door locks when you turn the lock left and then it locks again if you turn it very far to the right.
+[-0.6759033203125] It was a constant job to make sure you didn't lock yourself out.
+[-0.65887451171875] we were locked in this property because of the package we bought through the tracel company.
+[-0.5323333740234375] Stay away at all costs.
+[-0.4466552734375] I have called reservebranson and am awaiting their call back.
+
+**********
+
+[0.2910804748535156] The furniture is uncomfortable.
+Parent: The furniture is uncomfortable.
+
+----- Supporting -----
+
+[0.2910804748535156] The beds were very very nasty.
+[0.2513427734375] The bedding felt nasty and we found hair.
+[0.14157867431640625] The blanket on the bed looked to be about 20 years old and pilling and I didn't feel comfortable using it.
+[0.1002044677734375] Pulled the blankets back on the bed was surprised to see there was a duvet that nobody uses because you know they don't wash them, the middle blanket was all ripped (on both beds), the sheets looked like they needed washed, anytime you move at all the bed continues to bounce for a while after.
+[0.09109878540039062] Beds could be softer.
+
+----- Weakening -----
+
+[-0.9922566413879395] A very nice room, lovely decorations, and amazingly comfortable beds.
+[-0.9818077087402344] The group just raves over the super comfy beds and overall cleanliness of everything.
+[-0.9774646759033203] The rooms are very clean and have plenty of room with the most comfortable beds for a good night's sleep.
+[-0.9729957580566406] Very warm, cozy, and comfortable rooms.
+[-0.9645633697509766] The room was nicely appointed, clean, and the bed was very comfortable.
+
+**********
+
+[0.04119873046875] The iron is broken.
+Parent: The iron is broken.
+
+----- Supporting -----
+
+[0.04119873046875] I used the iron and when I pressed the steam button rusty water sprayed all over the shirt I was ironing.
+[0.0] !
+[0.0] love them.
+[0.0] very nice.
+[0.0] and small.
+
+----- Weakening -----
+
+[-0.9621200561523438] Every requests is handled quickly and efficiently.
+[-0.9569034576416016] Check is was smooth, no problems at all.
+[-0.9521522521972656] He appreciated the staff that continuously kept everything filled and fresh.
+[-0.9375896453857422] Excellent guest service.
+[-0.9332199096679688] Check in was great.

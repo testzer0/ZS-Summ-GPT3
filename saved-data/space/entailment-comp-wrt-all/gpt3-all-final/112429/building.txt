@@ -1,0 +1,128 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.9218756357828776
+
+**********
+
+[0.9652862548828125] The building was clean.
+Parent: The building was clean and comfortable, with a convenient location near shopping and public transportation.
+
+----- Supporting -----
+
+[0.9652862548828125] Hotel was very clean, very quiet, great for a business trip.
+[0.93621826171875] Hotel is extremely clean and quiet, and the staff is very helpful.
+[0.9135265350341797] The best included the cleanliness, the attention to detail with lighting and electrical outlets, the comfortable furniture, the robes, the great shower, the refrigerator, the windows can open, the wide and well lit hallways (although too warm) and of course an excellent king bed.
+[0.9062232971191406] The room was not huge but it was immaculately clean and very stylish.
+[0.8964395523071289] Friendly welcoming staff, clean, one of the best hotels I've stayed at in a long time!
+
+----- Weakening -----
+
+[-0.9974751472473145] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[-0.9971456527709961] The air conditioning vent had so much filthy residue trapped inside that it could not possibly pass a health audit.
+[-0.9961471557617188] It was dark, dirty, and noisy from the construction right outside my window.
+[-0.9957284927368164] Stripping the sheets, I found a fairly fresh urine stain that made me want to vomit.
+[-0.995185375213623] Our toliet overflowed at 11pm resulting in a flood in our bathroom.
+
+**********
+
+[0.9273147583007812] The building was comfortable.
+Parent: The building was clean and comfortable, with a convenient location near shopping and public transportation.
+
+----- Supporting -----
+
+[0.9273147583007812] A functional hotel, comfortable, worth its price.
+[0.9196863174438477] I was here to attend a Mariners game and meet up with a friend, and the room was comfortable for pre- and post-game socializing.
+[0.9175758361816406] The room was comfortable and updated.
+[0.8724117279052734] The staff is friendly and super helpful (ie: tourist questions, room questions etc), the rooms are neat and clean and comfortable, the location is perfect and close to everything you need downtown including transit to anything outside of downtown (monorail, bus stops, lightrail).
+[0.8662033081054688] The room was on the small side but was stylish, comfortable, and clean.
+
+----- Weakening -----
+
+[-0.9818801879882812] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[-0.9775943756103516] It was dark, dirty, and noisy from the construction right outside my window.
+[-0.9486656188964844] The heater came off and on frequently and it made a jarring clicking noise each time...all night long.
+[-0.92205810546875] The room is shabby, the shower made a horrible noise whenever the water was running.
+[-0.919464111328125] The not so good: The hotel had touted a 2 person tub - and while it was a soaking tub - it wasn't comfortable for two.
+
+**********
+
+[0.9501609802246094] The location was convenient.
+Parent: The building was clean and comfortable, with a convenient location near shopping and public transportation.
+
+----- Supporting -----
+
+[0.9501609802246094] It was a convenient location, but not a luxurious accomodation.
+[0.949223518371582] The pros: - Convenient the location, walking distance to Pike Place Market (8 short blocks) and Bell Town.
+[0.9310464859008789] The hotel is conveniently located, has a helpful and friendly staff, and is within walking distance to PPM, Capitol Hill, Belltown, and the Space Needle.
+[0.9307675361633301] It is close to everything and it was convenient to walk everywhere.
+[0.8908443450927734] The hotel is a perfect location -- a block from the Seattle Convention Center/Conference Center, which was very convenient.
+
+----- Weakening -----
+
+[-0.9880161285400391] The location isn't even that good, a little to far north for me.
+[-0.9006919860839844] I guess that's standard practice in downtown hotels, but it really makes it cumbersome to get the car.
+[-0.8294334411621094] The only minor thing that I did not like was that they ice machines are on every other floor and located next to the stairwell, so it was a little startling to my girlfriend when someone walked in unbeknownst to her while the machine was running.
+[-0.8214263916015625] Valet parking was terrible.
+[-0.8175563812255859] The only thing I didn't care for was the fitness center, which was sort of a dungeon in the basement.
+
+**********
+
+[0.9213485717773438] The hotel is expensive.
+Parent: However, it is expensive for what it offers, with few amenities and no complimentary services.
+
+----- Supporting -----
+
+[0.9213485717773438] And the price was too high for the quality of hotel and service.
+[0.8780612945556641] Hotels in Seattle tend to be very expensive, especially downtown.
+[0.78173828125] A functional hotel, comfortable, worth its price.
+[0.577178955078125] The best thing about the Paramount Hotel is it's location and price compared to other downtown hotels.
+[0.5602035522460938] Now, a few drawbacks - the hotel charges $9.95/day for wifi, does any other motel/hotel anywhere do that anymore?
+
+----- Weakening -----
+
+[-0.9933052062988281] And in a hotel that is very affordable and nicely located.
+[-0.9912548065185547] I made the reservation with hesitation, because the room rate was quite affordable in comparison with other things in the area, but the level of service and the quality of the accommodations matched those of more expensive properties nearby.
+[-0.9885101318359375] My companion and I stayed at this hotel because it was one of the most affordable on the day we went.
+[-0.9879894256591797] They are low priced and have and incredible late night happy hour.
+[-0.9855690002441406] The Paramount is at a great location for downtown activities, but at a more reasonable price than the nearby big-name hotels.
+
+**********
+
+[0.8664703369140625] However, there are few amenities.
+Parent: However, it is expensive for what it offers, with few amenities and no complimentary services.
+
+----- Supporting -----
+
+[0.8664703369140625] It was a convenient location, but not a luxurious accomodation.
+[0.7272758483886719] There is no pool..the breakfast is in the restaurant and it starts at like $8, you can't put out a little fruit for your guests, the paper is 75 cents a day.
+[0.6293792724609375] The rooms are pleasant and clean, with the baffling omission of a coffee maker or kettle--really a weird thing to forget.
+[0.6174697875976562] The staff were helpful and friendly, and the services fine, although I was disappointed they have no gift shop to buy a magazine or other small items.
+[0.5562210083007812] No breakfast no restaurant except an attached Asian food restaurant.
+
+----- Weakening -----
+
+[-0.9850053787231445] Lots of shopping and restaurants within 2 - 3 blocks.
+[-0.9807729721069336] Only two blocks to the front door of the convention center (under the canopy) and right in the heart of everything you need - Pacific Place Mall is two blocks, there are three - count 'em - three Starbucks within two blocks and a Barnes and Noble bookstore.
+[-0.9738483428955078] Two blocks away from all the shopping,Nordstrom, Barnes and Noble, West lake center and the monorail 3 blocks down.
+[-0.9707813262939453] The Paramount theatre was across the street and there's shopping on every corner.
+[-0.960270881652832] diagonal across the street from the Paramount theatre (Billy Elliot the musical was a one minute walk) and central to all the shopping, transit, museum areas etc.
+
+**********
+
+[0.9006729125976562] However, there are no complimentary services.
+Parent: However, it is expensive for what it offers, with few amenities and no complimentary services.
+
+----- Supporting -----
+
+[0.9006729125976562] The staff were helpful and friendly, and the services fine, although I was disappointed they have no gift shop to buy a magazine or other small items.
+[0.6983871459960938] There is no complimentary anything.
+[0.2896728515625] There IS a mini-fridge, but no microwave if you want to use that mini-fridge to store leftovers.
+[0.2550506591796875] It was a convenient location, but not a luxurious accomodation.
+[0.23919677734375] The rooms are pleasant and clean, with the baffling omission of a coffee maker or kettle--really a weird thing to forget.
+
+----- Weakening -----
+
+[-0.9969348907470703] Our package also included two complimentary breakfasts which were satisfying.
+[-0.9967465400695801] A nice touch- there's complimentary internet computers off the lobby and the hotel's restaurant, Dragonfish has good sushi/pan-Asian food if you don't want to go outside in the rain.
+[-0.9893341064453125] Big screen TV, refrigerator, coffee pot, all added to comfort.
+[-0.9864530563354492] We were also provided with free Wifi, which was great!
+[-0.9850139617919922] we've stayed all over seattle, and this newer hotel is a great buy, request corner room for bigger one, and join the hotels' guest program, coast hotels to get free upgrades

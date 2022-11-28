@@ -1,0 +1,485 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.7118815546450408
+
+**********
+
+[0.9953527450561523] The elevator dinged all night.
+Parent: Some reviews said that the elevator dinged all night long, keeping up the entire family.
+
+----- Supporting -----
+
+[0.9953527450561523] The elevator dinged all night long keeping up the entire family.
+[0.9076385498046875] We were near the lifts and they were noisy all night.
+[0.0128173828125] A huge group of teenagers were staying in the hotel, and kids were all over the place until late at night...flooding the lobby, elevators, and public space.
+[0.002780914306640625] I was 5 rooms away from the elevator and the noise in the hall of just the elevator was annoying.
+[0.0] !
+
+----- Weakening -----
+
+[-0.9866209030151367] The breakfast buffet was quiet nice.
+[-0.9853806495666504] It was very clean.
+[-0.9770240783691406] Breakfast was typical continental, but good.
+[-0.9760837554931641] Food during the meeting was very good.
+[-0.9740433692932129] VERY clean and tidy The staff was great, courteous, and friendly.
+
+**********
+
+[0.02286529541015625] The elevator could not hold the entire family.
+Parent: Some reviews said that the elevator dinged all night long, keeping up the entire family.
+
+----- Supporting -----
+
+[0.02286529541015625] Room was small and boring.
+[0.01364898681640625] We had to go back downstairs to be assigned another room.
+[0.0102081298828125] A huge group of teenagers were staying in the hotel, and kids were all over the place until late at night...flooding the lobby, elevators, and public space.
+[0.00472259521484375] I have a difficult time sleeping at night so requested a room away from the elevator.
+[0.0034637451171875] cons: the first floor was for moter.
+
+----- Weakening -----
+
+[-0.9847679138183594] The elevator dinged all night long keeping up the entire family.
+[-0.9309291839599609] The room was very spacious and nicely put together.
+[-0.8804683685302734] The room was quite large.
+[-0.8718948364257812] It was very spacious and well kept.
+[-0.8620471954345703] Large room.
+
+**********
+
+[0.48874473571777344] The front desk was not helpful.
+Parent: Others called the front desk and they sent someone up to check.
+
+----- Supporting -----
+
+[0.48874473571777344] The breakfast was actually the highlight but the service at this hotel was disorganized and rude!
+[0.48565673828125] When we arrived for a one night stay, (we were catching a cruise ship the next morning) the one bell hop at the entrance did not greet us, or offer to help, or open a door.
+[0.32483673095703125] The hotel sorely lacks business services...no FedEx supplies and no one that even understands enough about business needs to ask about supplies.
+[0.31914520263671875] Valet service is god awful.
+[0.2839546203613281] On-site restaurant was simply okay, surrounding neighborhood was very blah, and the staff was ambivalent.
+
+----- Weakening -----
+
+[-0.9963455200195312] People was very nice to me there, specially in the front desk where I was told about all amenities.
+[-0.9960198402404785] Thanks to Anthony at the front desk who managed to get us a room with a great view for my partners birthday.
+[-0.9950647354125977] Everything there were great from the nice clean and comfortable room with the unbelievable pretty view until the good food, the great bar and pool etc and last but not least the helpful friendly and sympathetic staff especially the ladjh in the little shop and the men called fernando at the front desk, he'd done a well work, gave good advices and was very cordially,smart, professional with a nice charisma and left behind a positive impression!
+[-0.9950084686279297] As we arrived we parked on the street, there was constructiono but being that we live on Sobe we knew the area and parking area well...so we avoided the $29 valet parking per day....We were greeted by Andrew, excellent front desk person who gave us a room on the high floor....I told him it was my birthday weekend and he tried to make it very special for me and my family...we then went to lobby to wait for room, excellent service also...The service at every place we went was superb...i even thought i wasn't in Miami...lol..everyone super friendly....the pool bartender also....In the executive lounge, service was great too...nothing to complaint....our room had a great view of the port and bayside also miami beach and the bed was amazing.......
+[-0.9947772026062012] Front desk staffer was very nice, saw that I was a Hilton Honors Gold member and quickly informed me of the complimentary welcome reception and breakfast at the executive lounge.
+
+**********
+
+[0.9930171966552734] The front desk sent someone to check.
+Parent: Others called the front desk and they sent someone up to check.
+
+----- Supporting -----
+
+[0.9930171966552734] We called the front desk and they sent someone up to check.
+[0.61627197265625] When we finally got to the lobby (because it's a little bit tricky) it was full of people checking in, but everything ran just perfect thanks to the professionalism and friendly attitude of the front desk agents.
+[0.54815673828125] Thanks to Anthony at the front desk who managed to get us a room with a great view for my partners birthday.
+[0.442626953125] I called the front desk, they responded, but little control over the situation.
+[0.35205078125] We were pleased until the day of check out when we dealt with an â€œassistant front desk managerâ€� who gave us trouble with our reimbursement.
+
+----- Weakening -----
+
+[-0.9330844879150391] The hotel sorely lacks business services...no FedEx supplies and no one that even understands enough about business needs to ask about supplies.
+[-0.9210090637207031] We booked via web and got a fair price last fall.
+[-0.8493804931640625] Rooms were clean and the staff was nice except for the front desk clerk who double-charged me and my friend's credit cards.
+[-0.79913330078125] I had bid on this thorugh one of those "find out the name after you commit" websites.
+[-0.7711601257324219] It could have been there 10 minutes or 10 hours, who knows--a bellman had accepted delivery and never reported it to anyone.
+
+**********
+
+[0.7402725219726562] The building is being renovated.
+Parent: The building is undergoing renovations, and some guests have found the noise level to be disruptive.
+
+----- Supporting -----
+
+[0.7402725219726562] VALET: I must say the only friendly people at this hotel were the actually valet driversâ€¦those in the Valet booth were extremely rude and will forget to give your keys to a driver to get your car (happened to several guests) RENOVATIONS: Drilling started at 7am right outside our window.
+[0.6751365661621094] The renovations that I have been reading about appear to be just about complete.
+[0.5357856750488281] The renovations were the least of our worries.
+[0.48940277099609375] The hotel is old and needs some updating in several areas.
+[0.4516754150390625] The hotel seemed renovated and it was clean and beautiful.
+
+----- Weakening -----
+
+[-0.6102943420410156] Too many hobos and drug addicts!!!
+[-0.5871124267578125] If you don't know the system you will go around in circles and the cars are invested with local hoodlums and drunks.
+[-0.5063896179199219] Conference setup is typical but decent.
+[-0.46405029296875] I had bid on this thorugh one of those "find out the name after you commit" websites.
+[-0.44614219665527344] Unless you have a rental car, you're at the mercy of taxis to find an interesting neighborhood since this one is so bland.
+
+**********
+
+[0.7599601745605469] The noise level is disruptive.
+Parent: The building is undergoing renovations, and some guests have found the noise level to be disruptive.
+
+----- Supporting -----
+
+[0.7599601745605469] Air conditioning noise is horrendous.
+[0.6392917633056641] I finally had to take my drink from the bar to my room as a result of all of the noise and lack of supervision.
+[0.6374053955078125] I was 5 rooms away from the elevator and the noise in the hall of just the elevator was annoying.
+[0.5859603881835938] This hotel is nice , but for a business traveller is far from ideal , i arrived with no sleep and had to pop a coupe of earplugs to be able to , the beds are great and rooms are spacious and beautiful view but the walls are paper thin and you can hear crystal clear conversation tvs sex ect coming from the other room ,you can also hear the hallway noise amplified times 4.. there is no minibar which is also quite annoying when u are in business as usually you need drinks and snaks at hand ,, room service was ok and inexpensive compared to other Hiltons I have been at ..had the Chicken quesadillas which where not bad but artificial cheese , beware ... this hotel is far from everywhere touritsy and you need a car or taxi to move around , this was not an issue for me as i only needed the room to sleep and eat and had a driver.. an Ok hotel but too noisy to book it again , probably best for a group and tourist trip, avoid if in Buisness and looking for peace
+[0.46808624267578125] The ventilation system (not the ac) was loud and could not be turned off...I am not the type that needs total silence to sleep but I was counting the days to get the he'll outta here.
+
+----- Weakening -----
+
+[-0.984306812286377] The breakfast buffet was quiet nice.
+[-0.966038703918457] The room was large, clean and quiet.
+[-0.9650168418884277] It tool almost 30 min to make some food an no one else was there other than the homeless people that kept asking to get their cup refilled for them.
+[-0.9637346267700195] The outdoor pool and patio were awesome and not even that busy.
+[-0.9569644927978516] The kids wanted to go the pool, so went there and had some really good sandwiches and the pool was clean and not so many people at all.
+
+**********
+
+[0.9548759460449219] Additionally, some guests have found the staff to be rude.
+Parent: Additionally, some guests have found the staff to be rude and unaccommodating.
+
+----- Supporting -----
+
+[0.9548759460449219] VALET: I must say the only friendly people at this hotel were the actually valet driversâ€¦those in the Valet booth were extremely rude and will forget to give your keys to a driver to get your car (happened to several guests) RENOVATIONS: Drilling started at 7am right outside our window.
+[0.5671882629394531] Stayed at this hotel 2 different occasions both times the old men secuirty guards constantly harrass woman.
+[0.495819091796875] There was a male bartender that in my opinion was very rude, unprofessional and obviously doesnâ€™t like his job, but that was my only negative encounter.
+[0.4177513122558594] During our stay we were sexually harassed by the security guard on duty by the pool.
+[0.3074493408203125] The breakfast was actually the highlight but the service at this hotel was disorganized and rude!
+
+----- Weakening -----
+
+[-0.9007511138916016] Everything there were great from the nice clean and comfortable room with the unbelievable pretty view until the good food, the great bar and pool etc and last but not least the helpful friendly and sympathetic staff especially the ladjh in the little shop and the men called fernando at the front desk, he'd done a well work, gave good advices and was very cordially,smart, professional with a nice charisma and left behind a positive impression!
+[-0.8696889877319336] Staff were real helpful and friendly, no faults there.
+[-0.8055143356323242] Wish to point out the excellent service I and my guests have enjoyed in the dining room from the manager in charge Mr Avi Zarchi and his team.
+[-0.7600946426391602] The staff was always friendly and helpful.
+[-0.750727653503418] The staff was extremely helpful and attentive.
+
+**********
+
+[0.9346580505371094] Additionally, some guests have found the staff to be unaccommodating.
+Parent: Additionally, some guests have found the staff to be rude and unaccommodating.
+
+----- Supporting -----
+
+[0.9346580505371094] VALET: I must say the only friendly people at this hotel were the actually valet driversâ€¦those in the Valet booth were extremely rude and will forget to give your keys to a driver to get your car (happened to several guests) RENOVATIONS: Drilling started at 7am right outside our window.
+[0.5946044921875] When we arrived for a one night stay, (we were catching a cruise ship the next morning) the one bell hop at the entrance did not greet us, or offer to help, or open a door.
+[0.5509223937988281] I finally had to take my drink from the bar to my room as a result of all of the noise and lack of supervision.
+[0.5420646667480469] One issue with the executive lounge access - hotel literature stated the lounge should have been open from 6.00 am - this was not the case and when we arrived on one occasion to grab breakfast before leaving for the day we were told to "try later lounge not opening yet staff had not arrived".
+[0.5055770874023438] Stayed at this hotel 2 different occasions both times the old men secuirty guards constantly harrass woman.
+
+----- Weakening -----
+
+[-0.8652143478393555] Wish to point out the excellent service I and my guests have enjoyed in the dining room from the manager in charge Mr Avi Zarchi and his team.
+[-0.8198776245117188] Staff were real helpful and friendly, no faults there.
+[-0.7950057983398438] the hilton hotel downtown miami has the most amazing roof top pool and terrace.with stunning views over the port and miami.staff really helpful,and the rooms spacious clean and beds you just sink into.food and drink what you would expect to pay in city.pricey on overnight parking 28 dollars.but what a view of fireworks on new year.aesy to find and ideal if going on a cruise from miami port,only 5 mins drive.would recomend.
+[-0.7930812835693359] Excellent services clean and spacious rooms with great view of downtown Miami.Bar off lobby is a great hotel bar.We were given a bottle of champagne for our anniversary.The staff was very accommodating always smiling and engaging in conversation.
+[-0.7904624938964844] Everything there were great from the nice clean and comfortable room with the unbelievable pretty view until the good food, the great bar and pool etc and last but not least the helpful friendly and sympathetic staff especially the ladjh in the little shop and the men called fernando at the front desk, he'd done a well work, gave good advices and was very cordially,smart, professional with a nice charisma and left behind a positive impression!
+
+**********
+
+[0.49877166748046875] The design of the building is pleasing.
+Parent: However, others have found the design of the building to be pleasing.
+
+----- Supporting -----
+
+[0.49877166748046875] A design genius put this hotel together clearly.
+[0.3761739730834961] Hotel is clean and nicely decorated.
+[0.3386116027832031] The lobby, restautant, bar and pool looked great at this hotel.
+[0.22879791259765625] The hotel seemed renovated and it was clean and beautiful.
+[0.1796274185180664] Beautiful lobby!
+
+----- Weakening -----
+
+[-0.8258876800537109] Horrible club sandwich!
+[-0.6847076416015625] The rooms and hallways left a little more to be desired.
+[-0.6350727081298828] Really abusive.
+[-0.616943359375] I didnt like the looks of the free continental breakfast so I ordered room service and it was tasty and arrived quickly.
+[-0.5529708862304688] They are pigs!
+
+**********
+
+[0.9338979721069336] The building needs to be refurbished.
+Parent: The building is in need of a refurbishment and is old.
+
+----- Supporting -----
+
+[0.9338979721069336] Hotel could do with a refurbishment.
+[0.8933048248291016] The hotel is old and needs some updating in several areas.
+[0.8868770599365234] The hotel needs to seriously upgrade its rooms to be in par with other establishments.
+[0.19866180419921875] It lacks a new television sets.
+[0.16184043884277344] The renovations were the least of our worries.
+
+----- Weakening -----
+
+[-0.7702693939208984] We found the hotel faultless, really clean, excellent service and really good value for money!
+[-0.7682628631591797] It was very clean.
+[-0.6973581314086914] It was very spacious and well kept.
+[-0.6751747131347656] A design genius put this hotel together clearly.
+[-0.6573848724365234] Everything there were great from the nice clean and comfortable room with the unbelievable pretty view until the good food, the great bar and pool etc and last but not least the helpful friendly and sympathetic staff especially the ladjh in the little shop and the men called fernando at the front desk, he'd done a well work, gave good advices and was very cordially,smart, professional with a nice charisma and left behind a positive impression!
+
+**********
+
+[0.9713468551635742] The building is old.
+Parent: The building is in need of a refurbishment and is old.
+
+----- Supporting -----
+
+[0.9713468551635742] The hotel is old and needs some updating in several areas.
+[0.8823566436767578] They are doing the best they can with the old building.
+[0.8792953491210938] This is an older hotel but seems to have been renovated fairly recently.
+[0.7966690063476562] However the Hotel has an old feel to it and the surrounding areas outside the hotel was a bit rundown and had a grimy feel.
+[0.787689208984375] You may stayed at other modern hotels around the world and you will find it this hotel is a little bit dated.
+
+----- Weakening -----
+
+[-0.9878463745117188] Rooms are very spacious and modern with large Windows and expansive views.
+[-0.9875202178955078] The rooms are pretty new or renovated recently .
+[-0.9638729095458984] Absolutely nothing to complain about rooms (modern and with huge widescreen tv) and service: the express check out on the phone, in a busy day of meeting and conferences, saved me a lot of time.
+[-0.9611701965332031] Updated, clean, and very comfortable beds.
+[-0.9558124542236328] All was fresh & clean, and the view of the bay was an added perk.
+
+**********
+
+[0.4215126037597656] The construction is disruptive.
+Parent: There is construction going on which can make it difficult to get around.
+
+----- Supporting -----
+
+[0.4215126037597656] We were near the lifts and they were noisy all night.
+[0.274139404296875] The ventilation system (not the ac) was loud and could not be turned off...I am not the type that needs total silence to sleep but I was counting the days to get the he'll outta here.
+[0.25469970703125] Heating quite noisy.
+[0.253662109375] The A/C, as mentioned elsewhere here, is very loud.
+[0.222900390625] 2 sets of elevators and 2nd floor lobby layout is confusing at first.
+
+----- Weakening -----
+
+[-0.9752593040466309] The pool was fine, relaxing for downtown location.
+[-0.9716730117797852] The room was large, clean and quiet.
+[-0.9711532592773438] The breakfast buffet was quiet nice.
+[-0.9673805236816406] The staff were friendly and helpful, and the lobby and bars downstairs were very relaxing and we did spend alot of time there.
+[-0.9648027420043945] Beds were very comfortble with excellent creature comforts, towels pillows and bedding and I felt that it was a very comfortable sleeping room.
+
+**********
+
+[0.8840188980102539] It can be difficult to get around.
+Parent: There is construction going on which can make it difficult to get around.
+
+----- Supporting -----
+
+[0.8840188980102539] The only downside is that it is a bit of a hassle to get to the beach compared to staying in South Beach, but I already knew that going into the stay.
+[0.7980842590332031] Noise never a problem, just navigating the in and out of hotel slight challenge.
+[0.7929525375366211] Location is a little awkward to enter due to road construction.
+[0.7537326812744141] When we finally got to the lobby (because it's a little bit tricky) it was full of people checking in, but everything ran just perfect thanks to the professionalism and friendly attitude of the front desk agents.
+[0.7471351623535156] You almost fall off of the toilet trying to get it.
+
+----- Weakening -----
+
+[-0.9672031402587891] The hotel is very convenient to Enterprise Rental car and very easy to get to the airport and to the South Beach areas for business and fun.
+[-0.8148040771484375] It is in downtown Miami, so it makes sales calls very convenient for me.
+[-0.7127876281738281] The hotel is conveniently located: as you can assume reading the address this hotel is just a block from Bayside Marketplace (biscayne blvd runs parallel to the port) and above all it is 15 minutes drive from south beach.
+[-0.6728134155273438] All you need to do is hop on the bus or metromover which is almost outside the door!
+[-0.5841560363769531] The hotel is close to everything.
+
+**********
+
+[0.9817032814025879] The staff is nice.
+Parent: The staff are generally nice, except for the front desk clerk who double-charged guests.
+
+----- Supporting -----
+
+[0.9817032814025879] The staff is extremely nice and always finding ways to go the extra mile...
+[0.9297142028808594] The staff were pretty friendly and warm especially the bellboys and front desk officials.
+[0.9257106781005859] The staff is very friendly and they always remember me.
+[0.9157695770263672] Staff were real helpful and friendly, no faults there.
+[0.9112586975097656] The valet employees are very quick and nice.
+
+----- Weakening -----
+
+[-0.9956221580505371] FRONT DESK: Members of the front desk staff were extremely rude and condescending!!
+[-0.993290901184082] Fridge didnt work Staff was rude and all spanish speaking.
+[-0.9929580688476562] The staff were unhelpful.
+[-0.9929065704345703] I feel the housekeeping staff is totaly at fault, and needs better supervision.
+[-0.9783716201782227] There was a male bartender that in my opinion was very rude, unprofessional and obviously doesnâ€™t like his job, but that was my only negative encounter.
+
+**********
+
+[0.907562255859375] The staff at the front desk overcharged guests.
+Parent: The staff are generally nice, except for the front desk clerk who double-charged guests.
+
+----- Supporting -----
+
+[0.907562255859375] Rooms were clean and the staff was nice except for the front desk clerk who double-charged me and my friend's credit cards.
+[0.074249267578125] Main objection was an absolutely ludicrous bill we received for use of phone in the room - $20 USD flat rate for making a call even when it didn't connect, and about $17USD per minute for international calls.
+[0.05854034423828125] Second, my husband and I are both businesspeople, and to get wireless internet in our room, we were EACH charged $9.99 a day, even though their materials all say "wireless internet in your room for only $9.99 a day."
+[0.053375244140625] Rates were too expensive and service was terrible.
+[0.05196380615234375] Plus, they tack on an 18% service fee with the meal - 2 drinks and 2 sandwiches came to $64!!
+
+----- Weakening -----
+
+[-0.9641857147216797] Cannot even charge to room account.
+[-0.9622340202331543] Also there are safes available at this hotel at the reception which are free of charge!
+[-0.9293079376220703] One of the rooms air conditioning did not work and the front desk gave a rebate for that room which was nice.
+[-0.9197912216186523] Taking the train toward downtown is free and a five minute ride to the famous Bayside Marketplace --- which is a must do!
+[-0.9189934730529785] We arrived there after a very long flight from Ireland and we were delighted to have such a fast check in and such friendly service.
+
+**********
+
+[0.9833755493164062] The hotel is conveniently located.
+Parent: The hotel has a convenient location and a beautiful lobby, but the signage to direct guests to the lobby is lacking.
+
+----- Supporting -----
+
+[0.9833755493164062] The hotel is conveniently located: as you can assume reading the address this hotel is just a block from Bayside Marketplace (biscayne blvd runs parallel to the port) and above all it is 15 minutes drive from south beach.
+[0.9572172164916992] This hotel deals with lots of "cruisers" and the location is so convenient next to the port --I could see my ship from my hotel window.
+[0.9508800506591797] The hotel is very convenient to Enterprise Rental car and very easy to get to the airport and to the South Beach areas for business and fun.
+[0.9190311431884766] Hotel was convenient to and from Miami airport via SuperShuttle ($16 to and from here) and to cruise ship at nearby port.
+[0.9130611419677734] Hotel was ideally located for the purpose of my business trip.
+
+----- Weakening -----
+
+[-0.9858245849609375] The hotel is not convenient to anything or anyplace.
+[-0.97589111328125] One of the downsides to this motel is the location.
+[-0.959503173828125] The location is less than optimal - the northern edge of Downtown.
+[-0.9556303024291992] We tried to take the stairs, but there is no direct route to the lobby and ended up on a wild goose chase around the building.
+[-0.9295692443847656] Btw, when you arrive at the hotel, it is quite confusing where the check in is located (2nd floor).
+
+**********
+
+[0.9194536209106445] The lobby is beautiful.
+Parent: The hotel has a convenient location and a beautiful lobby, but the signage to direct guests to the lobby is lacking.
+
+----- Supporting -----
+
+[0.9194536209106445] Beautiful lobby!
+[0.5594215393066406] Beautiful common areas, lounge, lobby, pool.
+[0.5151081085205078] The lobby, restautant, bar and pool looked great at this hotel.
+[0.2618751525878906] Checking was fine and the room view was outstanding...that's the good.
+[0.25191497802734375] Everything there were great from the nice clean and comfortable room with the unbelievable pretty view until the good food, the great bar and pool etc and last but not least the helpful friendly and sympathetic staff especially the ladjh in the little shop and the men called fernando at the front desk, he'd done a well work, gave good advices and was very cordially,smart, professional with a nice charisma and left behind a positive impression!
+
+----- Weakening -----
+
+[-0.9708633422851562] Room was small and boring.
+[-0.9632930755615234] this is the worst joint ever.
+[-0.9629802703857422] Room was very sub-standard for cleanliness...floor looked like it never gets vacuumed.
+[-0.9305410385131836] Really abusive.
+[-0.8716850280761719] Pool was dirty.
+
+**********
+
+[0.974785327911377] The signage to direct guests to the lobby is not adequate.
+Parent: The hotel has a convenient location and a beautiful lobby, but the signage to direct guests to the lobby is lacking.
+
+----- Supporting -----
+
+[0.974785327911377] But the lobby is on the 7th floor, and the signage to direct guests was lacking.
+[0.2698211669921875] When we arrived for a one night stay, (we were catching a cruise ship the next morning) the one bell hop at the entrance did not greet us, or offer to help, or open a door.
+[0.1446990966796875] One issue with the executive lounge access - hotel literature stated the lounge should have been open from 6.00 am - this was not the case and when we arrived on one occasion to grab breakfast before leaving for the day we were told to "try later lounge not opening yet staff had not arrived".
+[0.121673583984375] The good: Excellent Conciere and Valet service and their helpful tips The food was very good both in the restaurant and room service Nice view of the harbor and I was only on the 3rd floor Close to free tram Close to Downtown and Bayside Market area Pool area looked nice but did not use The bad: Room was in a block reserved by the Conference yet when checking in, there was no mention as to where the conference check-in was located and had to search the hotel over to find it.
+[0.08907699584960938] In this case, I would suggest more signage for those arriving at the hotel.
+
+----- Weakening -----
+
+[-0.6983299255371094] I love love love it!!!
+[-0.6879615783691406] A design genius put this hotel together clearly.
+[-0.5975246429443359] Nice touch.
+[-0.5366134643554688] Everytime we ran into someone they always saluted us.
+[-0.49797821044921875] He consistently had suggestions that were perfect.
+
+**********
+
+[0.34941864013671875] The hotel is always busy.
+Parent: The hotel is busy due to the many marathon guests.
+
+----- Supporting -----
+
+[0.34941864013671875] Cons: hotel loud, construction going on outside, Internet is not free.
+[0.252532958984375] This is the 3rd time I stay in this hotel, due to very busy schedule I made all my meetins in the hotel.
+[0.21474647521972656] I will stay at this very busy hotel again.
+[0.16452407836914062] This is a very large hotel and very busy with many international guest (we overheard many languages spoken) and eventhough the staff was VERY busy they all had a great attitude and friendly demeanor.
+[0.16314697265625] This hotel is nice , but for a business traveller is far from ideal , i arrived with no sleep and had to pop a coupe of earplugs to be able to , the beds are great and rooms are spacious and beautiful view but the walls are paper thin and you can hear crystal clear conversation tvs sex ect coming from the other room ,you can also hear the hallway noise amplified times 4.. there is no minibar which is also quite annoying when u are in business as usually you need drinks and snaks at hand ,, room service was ok and inexpensive compared to other Hiltons I have been at ..had the Chicken quesadillas which where not bad but artificial cheese , beware ... this hotel is far from everywhere touritsy and you need a car or taxi to move around , this was not an issue for me as i only needed the room to sleep and eat and had a driver.. an Ok hotel but too noisy to book it again , probably best for a group and tourist trip, avoid if in Buisness and looking for peace
+
+----- Weakening -----
+
+[-0.9903993606567383] My opinion is that this motel was extremely unorganized during this time.
+[-0.9842982292175293] Third, the entire hotel is a little run down.
+[-0.9692211151123047] Noise never a problem, just navigating the in and out of hotel slight challenge.
+[-0.9545660018920898] We did valid parking (max 28 dollar a day), no problem checking in and out, they are fast.
+[-0.936133861541748] The kids wanted to go the pool, so went there and had some really good sandwiches and the pool was clean and not so many people at all.
+
+**********
+
+[0.4417591094970703] The hotel is popular with marathon guests.
+Parent: The hotel is busy due to the many marathon guests.
+
+----- Supporting -----
+
+[0.4417591094970703] We finally got to the lobby and due to the many marathon guests, it was busy.
+[0.312408447265625] Really have never been through a slower check in - problem was that I was behind about 25 foreign tourists, which is what appears to make up the majority of this hotel's clientel.
+[0.2003173828125] This is a very large hotel and very busy with many international guest (we overheard many languages spoken) and eventhough the staff was VERY busy they all had a great attitude and friendly demeanor.
+[0.09267425537109375] I will stay at this very busy hotel again.
+[0.0814208984375] Looks like the projects are just a few blocks away from the hotel and these folks come at you over and over.
+
+----- Weakening -----
+
+[-0.9589905738830566] There is no food or entertainment around.
+[-0.8772983551025391] It tool almost 30 min to make some food an no one else was there other than the homeless people that kept asking to get their cup refilled for them.
+[-0.8771076202392578] The kids wanted to go the pool, so went there and had some really good sandwiches and the pool was clean and not so many people at all.
+[-0.7887496948242188] Conference setup is typical but decent.
+[-0.7102460861206055] The outdoor pool and patio were awesome and not even that busy.
+
+**********
+
+[0.27472686767578125] The construction on the exterior of the hotel was disruptive.
+Parent: The reviews said that there was construction happening on the exterior of the hotel and on the streets, which could make it difficult to get around.
+
+----- Supporting -----
+
+[0.27472686767578125] We were near the lifts and they were noisy all night.
+[0.1496124267578125] Cons: hotel loud, construction going on outside, Internet is not free.
+[0.10296630859375] The elevator dinged all night long keeping up the entire family.
+[0.020804405212402344] Our room had a balcony that we couldn't use because of all the construction going on.
+[0.0200958251953125] VALET: I must say the only friendly people at this hotel were the actually valet driversâ€¦those in the Valet booth were extremely rude and will forget to give your keys to a driver to get your car (happened to several guests) RENOVATIONS: Drilling started at 7am right outside our window.
+
+----- Weakening -----
+
+[-0.8953619003295898] Friendly stuff.
+[-0.8629474639892578] It tool almost 30 min to make some food an no one else was there other than the homeless people that kept asking to get their cup refilled for them.
+[-0.7945160865783691] It was very clean.
+[-0.7818546295166016] The breakfast buffet was quiet nice.
+[-0.7688198089599609] Very polite and very professional approach.
+
+**********
+
+[0.158416748046875] The construction on the streets was disruptive.
+Parent: The reviews said that there was construction happening on the exterior of the hotel and on the streets, which could make it difficult to get around.
+
+----- Supporting -----
+
+[0.158416748046875] We were near the lifts and they were noisy all night.
+[0.06235504150390625] Location is a little awkward to enter due to road construction.
+[0.043781280517578125] Also lots of construction on the streets make sure you plan to leave a bit early especially on the weekend.
+[0.020294189453125] Coming from Europe, it takes some time to get used to the "rip me off at every corner" culture in the States, but this was just going too far.
+[0.020229339599609375] Only negative, which is not fault of Hilton was road construction on Biscayne blvd.
+
+----- Weakening -----
+
+[-0.9505329132080078] The banquet food was fabulous and themed menus were creative and well presented.
+[-0.9442925453186035] All was fresh & clean, and the view of the bay was an added perk.
+[-0.9410037994384766] The room was very spacious and nicely put together.
+[-0.940281867980957] It tool almost 30 min to make some food an no one else was there other than the homeless people that kept asking to get their cup refilled for them.
+[-0.9330310821533203] It was very clean.
+
+**********
+
+[0.7827796936035156] The construction makes it difficult to get around.
+Parent: The reviews said that there was construction happening on the exterior of the hotel and on the streets, which could make it difficult to get around.
+
+----- Supporting -----
+
+[0.7827796936035156] Location is a little awkward to enter due to road construction.
+[0.25455474853515625] You almost fall off of the toilet trying to get it.
+[0.14288330078125] 2 sets of elevators and 2nd floor lobby layout is confusing at first.
+[0.10437870025634766] We tried to take the stairs, but there is no direct route to the lobby and ended up on a wild goose chase around the building.
+[0.1006011962890625] Also lots of construction on the streets make sure you plan to leave a bit early especially on the weekend.
+
+----- Weakening -----
+
+[-0.969275712966919] It is in downtown Miami, so it makes sales calls very convenient for me.
+[-0.969149112701416] The hotel is very convenient to Enterprise Rental car and very easy to get to the airport and to the South Beach areas for business and fun.
+[-0.9450016021728516] All you need to do is hop on the bus or metromover which is almost outside the door!
+[-0.941643238067627] The room was very spacious and nicely put together.
+[-0.9298305511474609] The hotel is conveniently located: as you can assume reading the address this hotel is just a block from Bayside Marketplace (biscayne blvd runs parallel to the port) and above all it is 15 minutes drive from south beach.

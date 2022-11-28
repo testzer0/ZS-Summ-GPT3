@@ -1,0 +1,42 @@
+***** Aspect: cleanliness Model Type : simcse *****
+Overall score: 0.6060223877429962
+
+**********
+
+[0.5696101784706116] Some reviewers said that the hotel was clean, while others said that it was not.
+
+----- Supporting -----
+
+[0.5696101784706116] The hotel just did not seem clean at all.
+[0.5554658770561218] Management should really address the musty smell of the hotel.
+[0.4841107130050659] I asked her if the hotel was clean and she assured me it was.
+[0.48123085498809814] The hotel had a very musty smell as soon as you entered.
+[0.45129477977752686] Heard several people at front desk complaining of hair in their bathtub upon arrival and general complaints about their room, our bathtub was never cleaned while we were there.
+
+----- Weakening -----
+
+[0.07830240577459335] They are part of a show in the Branson area.
+[0.08315111696720123] Nice TV; free WiFi.
+[0.09048742800951004] I would reccomend it to anyone looking for a little budget relief.
+[0.10082264244556427] The kids loved this and so do we as we can use these after shows or before we start our day.
+[0.11006960272789001] ironing board,iron and so forth.
+
+**********
+
+[0.6424345970153809] Specifically, some reviewers mentioned that the carpet was old and the building had a musty smell, that the bathtub was not cleaned while they were there, and that they found hair in the bedding.
+
+----- Supporting -----
+
+[0.6424345970153809] The carpet was old and the building had a musty smell to it.
+[0.5943204164505005] Heard several people at front desk complaining of hair in their bathtub upon arrival and general complaints about their room, our bathtub was never cleaned while we were there.
+[0.5807456970214844] The bedding felt nasty and we found hair.
+[0.555215060710907] The hotel just did not seem clean at all.
+[0.5448614358901978] However, we were told that one of the rooms had an older air conditioning unit and that it just wouldn't get as cool as the other.
+
+----- Weakening -----
+
+[-0.0306087676435709] They are part of a show in the Branson area.
+[0.014591753482818604] Nice TV; free WiFi.
+[0.028082165867090225] Can't thank Rachael enough for all her help in making our family reunion one of best we have had.
+[0.07257482409477234] I would reccomend it to anyone looking for a little budget relief.
+[0.0757942944765091] The most important thing to me is the honesty of the staff.

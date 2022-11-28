@@ -1,0 +1,443 @@
+***** Aspect: location Model Type : zs *****
+Overall score: 0.7843166987101237
+
+**********
+
+[0.9343547821044922] The location is reasonable.
+Parent: The location is reasonable, but it is a long way from the waterfront.
+
+----- Supporting -----
+
+[0.9343547821044922] The location is reasonable but quite a long way from the waterfront.
+[0.9202194213867188] Location is good and the hotel is quiet.
+[0.7921257019042969] Clean hotel, well located.
+[0.7732219696044922] The hotel's downtown location is convenient for public transportation and adjacent to the Eaton Centre Mall.
+[0.738800048828125] The location, right next to the Eaton Centre, is ideal and makes it easy to take in all of the traditional tourist sights and access the subway.
+
+----- Weakening -----
+
+[-0.9777326583862305] The hotel is connected to the Eaton center = dangerous!!!
+[-0.843353271484375] The location couldn't be better.
+[-0.832305908203125] Amazing location and accessible to Eaton Centre.
+[-0.8095703125] The location couldn't have been better.
+[-0.73291015625] The hotel is very clean, the rooms were a good price for the quality received, and, best of all, the location can't be beat.
+
+**********
+
+[0.00339508056640625] The location is too far from the waterfront.
+Parent: The location is reasonable, but it is a long way from the waterfront.
+
+----- Supporting -----
+
+[0.00339508056640625] If you have children under 8 they will love the fairground at centreville on the islands but avoid Wonderland unless you have teenage children who can go by themselves, the queues were over an hour long for many rides and it feels bleak and bland.
+[1.430511474609375e-05] I will not stay there again.
+[0.0] Dean
+[0.0] Really?
+[0.0] !
+
+----- Weakening -----
+
+[-0.9982738494873047] Not sure if that's a regular occurrence, but again, it's a nice hotel attached to the Eaton Center mall pretty close to the water (within walking distance).
+[-0.9963500499725342] Perfect location close to everything.
+[-0.995215892791748] Itâ€™s probably a 20-minute walk (rough guess and depends how fast you walk) to the Harbour Front with loads of restaurants (I ate at the Watermark Irish Pub).
+[-0.9943959712982178] The location is perfect, near everything one might need on a business trip and for doing some shopping.
+[-0.9943645000457764] Right downtown, close to everything!
+
+**********
+
+[0.00203704833984375] The hotel is not close to the 360 restaurant in the CN tower.
+Parent: It is also far from the 360 restaurant in the CN tower and the fairground at Centreville on the islands.
+
+----- Supporting -----
+
+[0.00203704833984375] The location is reasonable but quite a long way from the waterfront.
+[0.0] Dean
+[0.0] Really?
+[0.0] !
+[0.0] !
+
+----- Weakening -----
+
+[-0.947967529296875] Perfect location close to everything.
+[-0.9383230209350586] Right downtown, close to everything!
+[-0.882781982421875] The location is perfect, near everything one might need on a business trip and for doing some shopping.
+[-0.8601341247558594] Everything needed is within walking distance, but public transportation is just as accessible.
+[-0.8577537536621094] The location of this hotel is excellent â€“ very central and close to public transport, shopping, restaurants, etc.
+
+**********
+
+[0.0] The hotel is too far from the fairground at Centreville on the islands.
+Parent: It is also far from the 360 restaurant in the CN tower and the fairground at Centreville on the islands.
+
+----- Supporting -----
+
+[0.0] Dean
+[0.0] Really?
+[0.0] !
+[0.0] !
+[-0.0019197463989257812] I will not stay there again.
+
+----- Weakening -----
+
+[-0.9938879013061523] Perfect location close to everything.
+[-0.993416428565979] The location is perfect, near everything one might need on a business trip and for doing some shopping.
+[-0.9889671802520752] The location of this hotel is excellent â€“ very central and close to public transport, shopping, restaurants, etc.
+[-0.9855027198791504] Right downtown, close to everything!
+[-0.9846107959747314] The central location was perfect for us as tourists.
+
+**********
+
+[0.977135181427002] The location is perfect.
+Parent: The location is perfect and close to everything.
+
+----- Supporting -----
+
+[0.977135181427002] I must admit, the location is perfect!
+[0.9769906997680664] No disappointments, location is absolutely perfect.
+[0.9726967811584473] The location is perfect, near everything one might need on a business trip and for doing some shopping.
+[0.971217155456543] The location couldn't be better.
+[0.9705686569213867] The location couldn't have been better.
+
+----- Weakening -----
+
+[-0.9698700904846191] During our recent trip we stayed in 5 hotels in Canada and this was by far the worst.
+[-0.9693508148193359] It was a nice hotel, but I would recommend staying closer to the center of activities.
+[-0.9501934051513672] My only negative comment about the room was the view - it looked straight into an adjacent office building.
+[-0.9362192153930664] It is probably the most depressing hotel I have ever stayed in.
+[-0.9354496002197266] I was so frustrated.
+
+**********
+
+[0.8940467834472656] The location is convenient.
+Parent: The location is perfect and close to everything.
+
+----- Supporting -----
+
+[0.8940467834472656] The location is perfect, near everything one might need on a business trip and for doing some shopping.
+[0.8487367630004883] It is convenient to my office, but I am always impressed the friendly and professional staff, nice rooms and good food.
+[0.8454189300537109] Perfect location close to everything.
+[0.8274383544921875] The location is reasonable but quite a long way from the waterfront.
+[0.816248893737793] The hotel's downtown location is convenient for public transportation and adjacent to the Eaton Centre Mall.
+
+----- Weakening -----
+
+[-0.9555349349975586] The hotel is connected to the Eaton center = dangerous!!!
+[-0.9244384765625] Not very convenient to go down to lobby all the time...Staff was not at all helpful in this matter... A sidenote: the room when we arrived was not vacumed and was not clean.
+[-0.673893928527832] We often used to go on massive shopping trips and had to transport many large boxes to and from our rooms.
+[-0.5571365356445312] Then hard to get out as Mcguinty crew in town and elevators shut down once again.
+[-0.5381393432617188] I felt spoiled while I was there
+
+**********
+
+[0.987276554107666] The location of the hotel is excellent.
+Parent: The location of the hotel is excellent, central, and close to many attractions.
+
+----- Supporting -----
+
+[0.987276554107666] The location of this hotel is excellent â€“ very central and close to public transport, shopping, restaurants, etc.
+[0.9716143608093262] This is a nice hotel, typical Marriott, with an excellent location.
+[0.969998836517334] We chose this hotel for its location, which is excellent, as you can walk everywhere from there.
+[0.9675021171569824] Location is good and the hotel is quiet.
+[0.9670791625976562] One of the best things about this hotel is its location.
+
+----- Weakening -----
+
+[-0.9255180358886719] The hotel is connected to the Eaton center = dangerous!!!
+[-0.8419122695922852] It is probably the most depressing hotel I have ever stayed in.
+[-0.8415298461914062] My only negative comment about the room was the view - it looked straight into an adjacent office building.
+[-0.8184652328491211] During our recent trip we stayed in 5 hotels in Canada and this was by far the worst.
+[-0.803253173828125] The hotel has a funny site and faces sideways--it's not too impressive when you walk up, but everything changes when you enter.
+
+**********
+
+[0.9824295043945312] The location of the hotel is good.
+Parent: The location of the hotel is excellent, central, and close to many attractions.
+
+----- Supporting -----
+
+[0.9824295043945312] The location of this hotel is excellent â€“ very central and close to public transport, shopping, restaurants, etc.
+[0.9819624423980713] Location is good and the hotel is quiet.
+[0.9749965667724609] One of the best things about this hotel is its location.
+[0.9665985107421875] Very decent hotel, with super location and pleasant staff.
+[0.9647245407104492] The hotel is in a great location and staff were efficient and polite.
+
+----- Weakening -----
+
+[-0.7840576171875] The hotel is connected to the Eaton center = dangerous!!!
+[-0.442657470703125] My only negative comment about the room was the view - it looked straight into an adjacent office building.
+[-0.3763008117675781] It is probably the most depressing hotel I have ever stayed in.
+[-0.2978649139404297] During our recent trip we stayed in 5 hotels in Canada and this was by far the worst.
+[-0.15985870361328125] I was so frustrated.
+
+**********
+
+[0.9824295043945312] The location of the hotel is good.
+Parent: The location of the hotel is excellent, central, and close to many attractions.
+
+----- Supporting -----
+
+[0.9824295043945312] The location of this hotel is excellent â€“ very central and close to public transport, shopping, restaurants, etc.
+[0.9819624423980713] Location is good and the hotel is quiet.
+[0.9749965667724609] One of the best things about this hotel is its location.
+[0.9665985107421875] Very decent hotel, with super location and pleasant staff.
+[0.9647245407104492] The hotel is in a great location and staff were efficient and polite.
+
+----- Weakening -----
+
+[-0.7840576171875] The hotel is connected to the Eaton center = dangerous!!!
+[-0.442657470703125] My only negative comment about the room was the view - it looked straight into an adjacent office building.
+[-0.3763008117675781] It is probably the most depressing hotel I have ever stayed in.
+[-0.2978649139404297] During our recent trip we stayed in 5 hotels in Canada and this was by far the worst.
+[-0.15985870361328125] I was so frustrated.
+
+**********
+
+[0.6113815307617188] The view from the rooms was not good.
+Parent: There were some complaints about the view from the rooms, but overall the location was praised.
+
+----- Supporting -----
+
+[0.6113815307617188] My only negative comment about the room was the view - it looked straight into an adjacent office building.
+[0.11376190185546875] To start with the decor in the rooms is dreadful; mustard coloured walls, a mustard coloured 3D (dont ask) carpet, mustard cloured bed throws and an artexed ceiling only just over 7 feet over our heads.
+[0.081329345703125] If you have children under 8 they will love the fairground at centreville on the islands but avoid Wonderland unless you have teenage children who can go by themselves, the queues were over an hour long for many rides and it feels bleak and bland.
+[0.061309814453125] To compound this the air conditioning didnt work properly and we couldn't open the window.
+[0.036540985107421875] Poor QC here.
+
+----- Weakening -----
+
+[-0.9952831268310547] The room was typically Marriott - very nice, great view of the Church and gardens in between the Eaton Centre.
+[-0.9938240051269531] Not only that, but the rooms were spotlessly clean, the amenities were nice and our view was spectacular.
+[-0.9935522079467773] Wonderful views and the gym was very well equpped with the latest machines and free weights.
+[-0.9933433532714844] The room was very nice, a good view and the bed was very, very comfortable.
+[-0.9929561614990234] The room was also excellent, as I was on the end and had a view of the CN Tower.
+
+**********
+
+[0.9728755950927734] The location was good.
+Parent: There were some complaints about the view from the rooms, but overall the location was praised.
+
+----- Supporting -----
+
+[0.9728755950927734] The location couldn't have been better.
+[0.9662876129150391] The location couldn't be better.
+[0.963714599609375] Location is good and the hotel is quiet.
+[0.9611368179321289] The location was perfect!
+[0.9593715667724609] The location was an excellent one for us because our event was just across the street, but we also walked to dinner on Queen Street, had many shopping choices (itâ€™s connected to the Eaton Centre, or you can meander along funky Queen West) and itâ€™s close to the subway.
+
+----- Weakening -----
+
+[-0.553436279296875] My only negative comment about the room was the view - it looked straight into an adjacent office building.
+[-0.49875640869140625] The hotel is connected to the Eaton center = dangerous!!!
+[-0.3350868225097656] It is probably the most depressing hotel I have ever stayed in.
+[-0.3191947937011719] During our recent trip we stayed in 5 hotels in Canada and this was by far the worst.
+[-0.293609619140625] Poor QC here.
+
+**********
+
+[0.9886555671691895] The hotel is centrally located.
+Parent: The location of the hotel is central and convenient for shopping, sightseeing, and public transportation.
+
+----- Supporting -----
+
+[0.9886555671691895] The hotel is centrally located - just a block from Junge St. and a short walk to University.
+[0.9872446060180664] The location of this hotel is excellent â€“ very central and close to public transport, shopping, restaurants, etc.
+[0.967775821685791] The hotel if ideally located right in the middle of the city.
+[0.96099853515625] The hotel's downtown location is convenient for public transportation and adjacent to the Eaton Centre Mall.
+[0.952601432800293] Stayed for three nights as a family, couldn't be more central for all the downtown attractions, everything's within walking distance and the hotel is connected by a walkway to the Eaton Centre.
+
+----- Weakening -----
+
+[-0.9874858856201172] The hotel is located diagonally across from Nathan Phillips Square.
+[-0.9339866638183594] The location is reasonable but quite a long way from the waterfront.
+[-0.9284515380859375] Because the hotel backs onto a small courtyard, you could not hear any street noise.
+[-0.9092254638671875] It was a nice hotel, but I would recommend staying closer to the center of activities.
+[-0.8683319091796875] Some of the rooms can be far from the elevators.
+
+**********
+
+[0.9700136184692383] The location of the hotel is convenient for shopping.
+Parent: The location of the hotel is central and convenient for shopping, sightseeing, and public transportation.
+
+----- Supporting -----
+
+[0.9700136184692383] Hotel is well placed fo shopping , Dundas square and all the tourist attractions Toronto has to offer.
+[0.9363613128662109] The location of this hotel is excellent â€“ very central and close to public transport, shopping, restaurants, etc.
+[0.9070987701416016] I had not been to Toronto for years and didn't realize how walkable most of the central city is, especially from this hotel, which is conveniently located just blocks from culture, food, shopping and transportation.
+[0.9014482498168945] One of the best features of this hotel is its proximity to the Eaton Centre as it is connected with a walkway so you can leave your coats in your room and shop all day.
+[0.8944492340087891] Addtionally, there were pleny of wonderful restaurants, places to shop, the subway transit system, buses and taxes within a 1-5 mile radius of the hotel making it very convenient for just about everything!
+
+----- Weakening -----
+
+[-0.9209737777709961] The hotel is connected to the Eaton center = dangerous!!!
+[-0.5889434814453125] We were working on an important project.
+[-0.479034423828125] Friday AM I had surgery.
+[-0.3228340148925781] Again i treid to explain that i didn't really want to walk- especially in my situation and if the shoppers was not open for certain.
+[-0.3225555419921875] We often used to go on massive shopping trips and had to transport many large boxes to and from our rooms.
+
+**********
+
+[0.8806228637695312] The location of the hotel is good for sightseeing.
+Parent: The location of the hotel is central and convenient for shopping, sightseeing, and public transportation.
+
+----- Supporting -----
+
+[0.8806228637695312] Described as a business hotel the Eaton Centre Marriott is also well suited for leisure breaks, situated close to a range of attractions the hotel provides an ideal base to explore Toronto.
+[0.8653526306152344] The Downtown Marriot is good for exploring the city since everything is within walking distance (if you do not mind to walk a bit across a city which I think is the best way to get the vibe of a city).
+[0.8625297546386719] Hotel is well placed fo shopping , Dundas square and all the tourist attractions Toronto has to offer.
+[0.5070247650146484] Stayed for three nights as a family, couldn't be more central for all the downtown attractions, everything's within walking distance and the hotel is connected by a walkway to the Eaton Centre.
+[0.4626026153564453] This is a must stay hotel for anyone wanting to truly explore the Toronto downtown core with ease.
+
+----- Weakening -----
+
+[-0.614227294921875] Brilliant location if you like shopping!
+[-0.5540847778320312] The hotel is connected to the Eaton center = dangerous!!!
+[-0.340576171875] Friday AM I had surgery.
+[-0.28925323486328125] It is probably the most depressing hotel I have ever stayed in.
+[-0.20831298828125] We were working on an important project.
+
+**********
+
+[0.9827919006347656] The location of the hotel is convenient for public transportation.
+Parent: The location of the hotel is central and convenient for shopping, sightseeing, and public transportation.
+
+----- Supporting -----
+
+[0.9827919006347656] The hotel's downtown location is convenient for public transportation and adjacent to the Eaton Centre Mall.
+[0.9502177238464355] The location of this hotel is excellent â€“ very central and close to public transport, shopping, restaurants, etc.
+[0.9386320114135742] Addtionally, there were pleny of wonderful restaurants, places to shop, the subway transit system, buses and taxes within a 1-5 mile radius of the hotel making it very convenient for just about everything!
+[0.8836069107055664] It is connected by a walkway to the Eaton Centre and when you park at the hotel (valet is the way for only $25) you can get just about anywhere on foot, bus, or subway.
+[0.8691654205322266] The hotel was very clean, the hotel staff were very friendly and information, and it was close to public transportation, which we used for our entire time in Toronto.
+
+----- Weakening -----
+
+[-0.8123559951782227] The hotel is connected to the Eaton center = dangerous!!!
+[-0.7429141998291016] We often used to go on massive shopping trips and had to transport many large boxes to and from our rooms.
+[-0.7324485778808594] Then hard to get out as Mcguinty crew in town and elevators shut down once again.
+[-0.5855560302734375] Not very convenient to go down to lobby all the time...Staff was not at all helpful in this matter... A sidenote: the room when we arrived was not vacumed and was not clean.
+[-0.498260498046875] You may have a difficult fit.
+
+**********
+
+[0.9911561012268066] There are homeless people and transients around.
+Parent: There are some homeless people and transients around, but overall the location is good.
+
+----- Supporting -----
+
+[0.9911561012268066] The location is in downtown, so it's in the heart of things, but you have a fair number of homeless people and transients around.
+[0.24570846557617188] Wanted to have a nice weekend before school, very expensive, again do not know how people manage in Toronto, perhaps they do not given the numerous homeless my daughter (age 6) began to identify.
+[0.1640167236328125] One was dead and under the chair in the room, and the other my husband saw scurrying across the floor.
+[0.079376220703125] I did spot a few dust bunnies.
+[0.0357513427734375] The front desk girl didn't seem to understand the situation and said "oh there is a shoppers 2 blocks from here."
+
+----- Weakening -----
+
+[-0.847355842590332] It's a nice clean, quiet hotel in a great area.
+[-0.8225688934326172] Quiet, clean, modern room.
+[-0.7671136856079102] Very clean, comfortable all over.
+[-0.6019134521484375] Great service is offered without the expectation of a gratuity.
+[-0.5986003875732422] It was neat and clean.
+
+**********
+
+[0.9684963226318359] The location is good.
+Parent: There are some homeless people and transients around, but overall the location is good.
+
+----- Supporting -----
+
+[0.9684963226318359] The location couldn't be better.
+[0.9664468765258789] I must admit, the location is perfect!
+[0.9648342132568359] Location is good and the hotel is quiet.
+[0.9647989273071289] No disappointments, location is absolutely perfect.
+[0.9591836929321289] The location is perfect, near everything one might need on a business trip and for doing some shopping.
+
+----- Weakening -----
+
+[-0.5439910888671875] The hotel is connected to the Eaton center = dangerous!!!
+[-0.51678466796875] My only negative comment about the room was the view - it looked straight into an adjacent office building.
+[-0.3718223571777344] During our recent trip we stayed in 5 hotels in Canada and this was by far the worst.
+[-0.36067962646484375] It is probably the most depressing hotel I have ever stayed in.
+[-0.2733306884765625] Poor QC here.
+
+**********
+
+[0.403839111328125] The parking is too expensive.
+Parent: The parking is expensive.
+
+----- Supporting -----
+
+[0.403839111328125] The parking was very expensive, the cost was $25 a day.
+[0.3234672546386719] Expensive to park, $25 per day and daily rates are high.
+[0.2935314178466797] Expensive parking.
+[0.15093994140625] Parking expensive but what isn't in Toronto?
+[0.13605499267578125] Parking is also expensive at $18 per day and the garage was small.
+
+----- Weakening -----
+
+[-0.9688034057617188] The valets recommended cheap indoor parking in the office building next door.
+[-0.953068733215332] It is connected by a walkway to the Eaton Centre and when you park at the hotel (valet is the way for only $25) you can get just about anywhere on foot, bus, or subway.
+[-0.9367308616638184] They arranged rental car service for us as well as airport transport.. All very reasonably priced and on time.
+[-0.9036078453063965] We were to get a "cars eat free" weekend, as well as free parking.
+[-0.889946460723877] After checking with the manager, they gave us one night of free parking, so we chose valet.
+
+**********
+
+[0.977135181427002] The location is perfect.
+Parent: The reviews say that the location is perfect, central, and close to everything.
+
+----- Supporting -----
+
+[0.977135181427002] I must admit, the location is perfect!
+[0.9769906997680664] No disappointments, location is absolutely perfect.
+[0.9726967811584473] The location is perfect, near everything one might need on a business trip and for doing some shopping.
+[0.971217155456543] The location couldn't be better.
+[0.9705686569213867] The location couldn't have been better.
+
+----- Weakening -----
+
+[-0.9698700904846191] During our recent trip we stayed in 5 hotels in Canada and this was by far the worst.
+[-0.9693508148193359] It was a nice hotel, but I would recommend staying closer to the center of activities.
+[-0.9501934051513672] My only negative comment about the room was the view - it looked straight into an adjacent office building.
+[-0.9362192153930664] It is probably the most depressing hotel I have ever stayed in.
+[-0.9354496002197266] I was so frustrated.
+
+**********
+
+[0.9758195877075195] The location is central.
+Parent: The reviews say that the location is perfect, central, and close to everything.
+
+----- Supporting -----
+
+[0.9758195877075195] Great location, very central.
+[0.9733433723449707] The location of this hotel is excellent â€“ very central and close to public transport, shopping, restaurants, etc.
+[0.9545888900756836] location very central for downtown.
+[0.9345283508300781] Stayed for three nights as a family, couldn't be more central for all the downtown attractions, everything's within walking distance and the hotel is connected by a walkway to the Eaton Centre.
+[0.9325523376464844] The location is in downtown, so it's in the heart of things, but you have a fair number of homeless people and transients around.
+
+----- Weakening -----
+
+[-0.9818840026855469] The location is reasonable but quite a long way from the waterfront.
+[-0.70697021484375] It was a nice hotel, but I would recommend staying closer to the center of activities.
+[-0.5725173950195312] My only negative comment about the room was the view - it looked straight into an adjacent office building.
+[-0.5705642700195312] The room I had was at the end of the hall, so it was exceptionally quiet, and the bed was great.
+[-0.5701904296875] Some of the rooms can be far from the elevators.
+
+**********
+
+[0.9847588539123535] The location is close to everything.
+Parent: The reviews say that the location is perfect, central, and close to everything.
+
+----- Supporting -----
+
+[0.9847588539123535] Perfect location close to everything.
+[0.9749321937561035] The location is perfect, near everything one might need on a business trip and for doing some shopping.
+[0.9274682998657227] Right downtown, close to everything!
+[0.8835582733154297] Everything needed is within walking distance, but public transportation is just as accessible.
+[0.8802337646484375] The Downtown Marriot is good for exploring the city since everything is within walking distance (if you do not mind to walk a bit across a city which I think is the best way to get the vibe of a city).
+
+----- Weakening -----
+
+[-0.9965047836303711] The location is reasonable but quite a long way from the waterfront.
+[-0.9904499053955078] Some of the rooms can be far from the elevators.
+[-0.9777297973632812] This makes it an ideal location for vacationers, but a bit far if you have meetings in the main business district in the downtown core (although it's not too bad for that).
+[-0.967864990234375] The beds at the Marriot were SO comfortable I would have been ok with just lounging in bed all weekend and never seeing the rest of city!
+[-0.9670019149780273] Again i treid to explain that i didn't really want to walk- especially in my situation and if the shoppers was not open for certain.

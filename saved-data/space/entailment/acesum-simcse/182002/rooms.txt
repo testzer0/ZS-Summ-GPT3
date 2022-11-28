@@ -1,0 +1,42 @@
+***** Aspect: rooms Model Type : simcse *****
+Overall score: 0.8493900895118713
+
+**********
+
+[0.9101994037628174] the room was spacious and comfortable.
+
+----- Supporting -----
+
+[0.9101994037628174] The room was nice and very comfortable.
+[0.8764480948448181] The room itself was very spacious and clean.
+[0.8606273531913757] Large comfortable room & bed.
+[0.8606273531913757] Large comfortable room & bed.
+[0.8563419580459595] The room was clean and comfortable.
+
+----- Weakening -----
+
+[-0.09674220532178879] No Breakfast sandwiches for meat lovers like myself.
+[-0.06291209161281586] Swimming pool only open when lifeguard is there from 10a to 9p.
+[-0.054047804325819016] We are heartbroken and will never recommend this hotel to anyone.
+[-0.03817621245980263] the pool area is scarily dirty, full with pigeons, so you might want to skip this offering to stay well.
+[-0.015196320600807667] Stayed here for weekend away to Toronto with wife and 13 yr old daughter.
+
+**********
+
+[0.7885807752609253] the bathroom was a bit big, but the bathroom had a king size bed and a sofa.
+
+----- Supporting -----
+
+[0.7885807752609253] Had a room with 1 king bed which was comfortable.
+[0.7695837616920471] The room was large and had 2 queen beds in it.
+[0.7691943645477295] The room was very large but made for a small bathroom.
+[0.7622604966163635] The room was great and large with 2 queen beds.
+[0.7407079935073853] The room itself was spacious with a king size bed, a sofa, desk, coffee maker (which I did not use), and a chair.
+
+----- Weakening -----
+
+[-0.0462624654173851] Swimming pool only open when lifeguard is there from 10a to 9p.
+[-0.028850823640823364] We are heartbroken and will never recommend this hotel to anyone.
+[-0.015418889932334423] No Breakfast sandwiches for meat lovers like myself.
+[-0.0020576859824359417] Free soda with meal at "Made in China" and dinner specials from $5.99!
+[0.030450012534856796] The best western has a seasonal outdoor pool only, which is no good in December.

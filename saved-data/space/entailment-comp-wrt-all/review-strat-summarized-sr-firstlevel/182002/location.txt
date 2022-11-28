@@ -1,0 +1,569 @@
+***** Aspect: location Model Type : zs *****
+Overall score: 0.8551369949623391
+
+**********
+
+[0.9902584552764893] The hotel is located in a good area.
+Parent: According to the reviews, the hotel is located in a decent area, but the parking situation is not ideal.
+
+----- Supporting -----
+
+[0.9902584552764893] The hotel itself is in a good location.
+[0.9877891540527344] The hotel is situated in a good area and walking distance to Eaton Centre and many other attractions.
+[0.9797883033752441] Also the hotel was in a very good location for all attractions.
+[0.9745626449584961] The staff was very polite, rooms were clean, and the hotel has a great location.
+[0.971989631652832] The hotel was in a good location and it was easy to get a cab just outside the hotel to the clubs.
+
+----- Weakening -----
+
+[-0.9923591613769531] The hotel is not in a nice area of the city and you will notice a great deal of sketchy personalities roaming the streets around the area.
+[-0.9658451080322266] It is very worn and in a terrible area of town.
+[-0.9575462341308594] I could not believe what they charged for a room at this hell-hole, and it is funny just around the corner from the building is a "back-packer's hostel which I thought would have been much better than this dump.
+[-0.9360809326171875] We didnâ€™t realize that the Primrose Best Western hotel was in the middle of a large prostitution area, until we left and noticed the building was surrounded by dozens of prostitutes.
+[-0.8945274353027344] We arrived at 3:00 in the morning, and drove through the night to arrive to the filthiest hotel we have ever seen!
+
+**********
+
+[0.9519195556640625] The parking situation is bad.
+Parent: According to the reviews, the hotel is located in a decent area, but the parking situation is not ideal.
+
+----- Supporting -----
+
+[0.9519195556640625] The underground parking is horribly laid out.
+[0.902806282043457] I`m glad I didn`t have a car, as the parking charges were horrendous.
+[0.7349853515625] While I'd agree that the parking garage was hard to manoevre and the elevators were slow, that's as far as the negative experiences I had at this hotel went.
+[0.63543701171875] The parking garage was a little tight to drive around in, but other than that, I would definately go back for another weekend with the guys.
+[0.6219558715820312] The underground parking in the hotel was $15 a day, but you do get in/out privileges, just use caution when parking, it's a bit tight down there.
+
+----- Weakening -----
+
+[-0.9588680267333984] The price was amazing ($90 CAD) and parking was typical at $23/day/in & out privileges.
+[-0.9435176849365234] The parking attendant was pleasant, the check in went smoothly,the room and the view was terrific.
+[-0.8483200073242188] The laundry left something to be desired.
+[-0.8430919647216797] We were pleased with the choice, and the location was perfect.
+[-0.7886962890625] The laundry facilitys are in poor quality.
+
+**********
+
+[0.868499755859375] Cars are being broken into.
+Parent: There have been reports of cars being broken into when parked in the recommended spot.
+
+----- Supporting -----
+
+[0.868499755859375] I couldn't believe they were trying to stick me for a charge when I hadn't been able to park in the garage, the spot was supposed to be free, the spot was recommended by the hotel staff, AND my car was broken into while parked there.
+[0.7853050231933594] Our car was broken into.
+[0.2183837890625] We had many people coming for this conference that had scratched their cars or some that cracked their exhaust pipe.
+[0.0450439453125] Don't know how some of the vans got down there!
+[0.0296783447265625] The next day when we moved into the garage the attendant said we should never have parked in the previous location because everyone should know that your car would be a target there.
+
+----- Weakening -----
+
+[-0.91815185546875] The rooms were very updated and the beds were very comfortable!
+[-0.9164886474609375] We ended up with 12 rooms in total and no one in our group had any problems or complaints.
+[-0.9035110473632812] The room itself was nice.
+[-0.903411865234375] The room was clean and well decorated.
+[-0.8901786804199219] This is especially important now that they are installing kitchenettes in some of the rooms.
+
+**********
+
+[0.3929443359375] Cars should be parked in the recommended spot.
+Parent: There have been reports of cars being broken into when parked in the recommended spot.
+
+----- Supporting -----
+
+[0.3929443359375] We were advised to park our car about 2 blocks away where there were no "in and out" priviledges.
+[0.278594970703125] The first night there was no parking garage spot available, so we parked were the hotel recommended.
+[0.1573486328125] The next day when we moved into the garage the attendant said we should never have parked in the previous location because everyone should know that your car would be a target there.
+[0.1141357421875] If you are staying here be warned about the parking though.
+[0.0640869140625] Since I metioned driving, I must mention parking in the hotel.
+
+----- Weakening -----
+
+[-0.926055908203125] If your looking to come to Toronto leave the Car at home.
+[-0.9217300415039062] walk to the Eaton Center.
+[-0.9112319946289062] The elevators took forever!
+[-0.905059814453125] There was popcorn on the room floor when we arrived?
+[-0.8974533081054688] Then came the room.
+
+**********
+
+[0.9420289993286133] The hotel is conveniently located.
+Parent: The hotel is in a convenient location, close to Yonge & Dundas Square, restaurants, and the Air Canada Centre.
+
+----- Supporting -----
+
+[0.9420289993286133] the hotel is centrally located and is very comfortable with a nice bed and rooms cleaned daily.
+[0.9107980728149414] This is a decent hotel, but factor in the low prices, great location and little perks like free wi-fi, and I'd say that it's one of the best I've stayed in.
+[0.9101238250732422] We have never been to Canada before or to a huge city like Toronto, we found it very easy to get around, Primrose hotel is an excellent location as the subway is only 5min walk way .There is a lot of restaurants , bars, stores ,drugmarts and shops within walking distance also Dundas sq , Eaton centre &hockey Hall of Fame are close by.
+[0.9061946868896484] The hotel is in a nice location, within walking distance of everything touristy.
+[0.9042596817016602] The hotel itself is in a good location.
+
+----- Weakening -----
+
+[-0.9093456268310547] I could not believe what they charged for a room at this hell-hole, and it is funny just around the corner from the building is a "back-packer's hostel which I thought would have been much better than this dump.
+[-0.9045219421386719] It is very worn and in a terrible area of town.
+[-0.898895263671875] We were lost in a city we HAD never been in for 10 mintues during the night.
+[-0.8855476379394531] But from the time they told us we had to go get public parking down the street, to mixed up room arrangement, through just rude service, and a tile falling from the bathroom wall, the price was not worth it.
+[-0.8755226135253906] The hotel books a lot of bus tours, and some mornings it can take a very long time to get an elevator, because they are being monopolized by the bus tourists, who are all trying to leave at once.
+
+**********
+
+[0.751800537109375] The hotel is close to Yonge & Dundas Square.
+Parent: The hotel is in a convenient location, close to Yonge & Dundas Square, restaurants, and the Air Canada Centre.
+
+----- Supporting -----
+
+[0.751800537109375] We have never been to Canada before or to a huge city like Toronto, we found it very easy to get around, Primrose hotel is an excellent location as the subway is only 5min walk way .There is a lot of restaurants , bars, stores ,drugmarts and shops within walking distance also Dundas sq , Eaton centre &hockey Hall of Fame are close by.
+[0.05020904541015625] it is right on Younge down near Dundas.
+[0.01835918426513672] Just a couple of blocks away from Yonge & Dundas Square.
+[0.00728607177734375] It was only a few blocks east of Yonge St.
+[0.0060577392578125] The Hotel is located fairly close to the centre of Toronto.
+
+----- Weakening -----
+
+[-0.715301513671875] We choose the hotel for its proximity to the Gay Village in Toronto (Church and Wellesley area).
+[-0.6181793212890625] Several churches of different denominations are dotted around Allan Park that is across the street.
+[-0.6080551147460938] Several blocks walking to Eaton Center, the shopping mall nearby.
+[-0.538299560546875] There are all manner of things to do, within easy walking distance of Yonge St and the Eaton Centre, the subway is right there, and all kinds of bars and hotspots within easy reach.
+[-0.4492950439453125] And when you are at the park don't forget to visit the Greenhouse.
+
+**********
+
+[0.9847927093505859] The hotel is close to restaurants.
+Parent: The hotel is in a convenient location, close to Yonge & Dundas Square, restaurants, and the Air Canada Centre.
+
+----- Supporting -----
+
+[0.9847927093505859] The hotel was in a good location and was close to restaurants and a wonderful greenhouse which I toured for an entire afternoon.
+[0.9831771850585938] This hotel is near everything; subway, restaurants, shopping.
+[0.9516801834106445] Went to the Primrose with my g/f for a romantic getaway and stayed at the Primrose Hotel since it was close to the restaurant and theatre.
+[0.9216232299804688] Overall, a great place to stay because the rooms were clean, staff was friendly and helpful, many attractions and great restaurants are walking distance from the hotel.
+[0.8980503082275391] I thought the hotel was in a good location and I found it was easy to walk to restaurants at night.
+
+----- Weakening -----
+
+[-0.7819137573242188] Several churches of different denominations are dotted around Allan Park that is across the street.
+[-0.57940673828125] The only thing this place has going for it is the location close to the bars and clubs (which might be a minus if you don't want to risk running into prostitutes on your walk back from dinner).
+[-0.5108566284179688] #8) Prostitution active within two block radius Positives: The guys on consierge are kind and most helpful and were the saving grace of this hotel.
+[-0.4627876281738281] We didnâ€™t realize that the Primrose Best Western hotel was in the middle of a large prostitution area, until we left and noticed the building was surrounded by dozens of prostitutes.
+[-0.4611701965332031] The view overlooked the downtown area and was close to hospitals if you were up for a brisk walk.
+
+**********
+
+[0.092529296875] The hotel is close to the Air Canada Centre.
+Parent: The hotel is in a convenient location, close to Yonge & Dundas Square, restaurants, and the Air Canada Centre.
+
+----- Supporting -----
+
+[0.092529296875] surrounded by great restauants and a healthy walking distance to shops, Air Canada Centre, CN Tower.
+[0.01275634765625] Came for 1 night to see a concert and stayed at the Primrose Hotel since it was close to the club.
+[0.00595855712890625] It was close to the theatre we were going to and the price was affordable.
+[0.0046215057373046875] Location is very central.
+[0.0028600692749023438] Would stay there again as price was great and location perfect.
+
+----- Weakening -----
+
+[-0.9169178009033203] We choose the hotel for its proximity to the Gay Village in Toronto (Church and Wellesley area).
+[-0.8857650756835938] The only attraction we had to drive to was the Science Centre, but it was only about 20 minutes from downtown, and the front desk lady was nice enough to give us a map and write out the driving instructions for us so we made it without getting lost.
+[-0.8754043579101562] Across the street from the old Maple Leaf Gardens, and it looks like a new grocery store is about to open up there soon.
+[-0.8753204345703125] The location of the hotel is not too far away from the College Subway station.
+[-0.8574333190917969] Several blocks walking to Eaton Center, the shopping mall nearby.
+
+**********
+
+[0.8233375549316406] However, the surrounding area is not safe.
+Parent: However, the surrounding area is not particularly safe, and the hotel itself is in need of renovation.
+
+----- Supporting -----
+
+[0.8233375549316406] The downside is outside the area it is a bit rough with people standing about smoking and hanging out.
+[0.687164306640625] The rest of the area I would not trust to walk alone at night and there is not a great deal to do other than take a taxi west where the true city begins.
+[0.683563232421875] the pool area is scarily dirty, full with pigeons, so you might want to skip this offering to stay well.
+[0.47332000732421875] In the meantime people get stuck very often in seems.
+[0.45416259765625] Heed this warning stay away from this crappy place, you'll be glad you did.
+
+----- Weakening -----
+
+[-0.2787322998046875] Was very safe and you could only access the parking lot with a hotel key.
+[-0.21121501922607422] Our time there was good and we didnâ€™t run into any problems which was a first for us!.
+[-0.18304443359375] When at the restaurant, they gave me catchup that was so rancid it bubbled.
+[-0.157257080078125] When I checked in I didn't see anything that put me off that much?
+[-0.15704345703125] i did not feel threatened at all because of the 'shady area' which was mentioned in some reviews.
+
+**********
+
+[0.9370355606079102] The hotel needs to be renovated.
+Parent: However, the surrounding area is not particularly safe, and the hotel itself is in need of renovation.
+
+----- Supporting -----
+
+[0.9370355606079102] The price is very good and the rooms are large, the only issue with the hotel is its very dated and could do with a revamp.
+[0.8748054504394531] We arrived to find the Hotel underging a refurbishment,which we were not advised of at the time of booking or through the Hotel website.
+[0.6557455062866211] Although most of the staff were nice, the rooms were dated and could use some renovation.
+[0.5058784484863281] I think they should use the money that they have ripped off people and take some time to fix up their hotel.
+[0.2464752197265625] The hotel was very nice, and looks like they are doing renovations.
+
+----- Weakening -----
+
+[-0.925074577331543] Everything was spotlessly clean and comfortable and the staff were very helpful and polite.
+[-0.8742589950561523] It was really clean, and the housekeeping lady was very friendly and always asking if I needed any additional toiletries or coffee.
+[-0.8520870208740234] Found my room and the hotel in general very clean and well kept.
+[-0.8386650085449219] The rooms were very updated and the beds were very comfortable!
+[-0.8322410583496094] Everything on our bill was as it should be and the checkout went smoothly.
+
+**********
+
+[0.9917163848876953] The hotel is in a good location.
+Parent: The hotel is located in a good location, close to many attractions and restaurants.
+
+----- Supporting -----
+
+[0.9917163848876953] The hotel itself is in a good location.
+[0.9784822463989258] The staff was very polite, rooms were clean, and the hotel has a great location.
+[0.9778962135314941] The hotel is situated in a good area and walking distance to Eaton Centre and many other attractions.
+[0.9777626991271973] Also the hotel was in a very good location for all attractions.
+[0.9770097732543945] The hotel is in a nice location, within walking distance of everything touristy.
+
+----- Weakening -----
+
+[-0.9913215637207031] The hotel is not in a nice area of the city and you will notice a great deal of sketchy personalities roaming the streets around the area.
+[-0.9570236206054688] I could not believe what they charged for a room at this hell-hole, and it is funny just around the corner from the building is a "back-packer's hostel which I thought would have been much better than this dump.
+[-0.9391155242919922] It is very worn and in a terrible area of town.
+[-0.9167728424072266] I cannot begin to explain how awful this hotel is.
+[-0.8904838562011719] Heed this warning stay away from this crappy place, you'll be glad you did.
+
+**********
+
+[0.9790298938751221] The hotel is conveniently located close to many attractions.
+Parent: The hotel is located in a good location, close to many attractions and restaurants.
+
+----- Supporting -----
+
+[0.9790298938751221] The hotel is within an easy walk to many attractions and shops, with a subway station close by for venturing further afield.
+[0.9594554901123047] The hotel is in a nice location, within walking distance of everything touristy.
+[0.9453792572021484] We have never been to Canada before or to a huge city like Toronto, we found it very easy to get around, Primrose hotel is an excellent location as the subway is only 5min walk way .There is a lot of restaurants , bars, stores ,drugmarts and shops within walking distance also Dundas sq , Eaton centre &hockey Hall of Fame are close by.
+[0.9213352203369141] The hotel is situated in a good area and walking distance to Eaton Centre and many other attractions.
+[0.9059429168701172] The Hotel is in walking distance to most major attractions and the public transportation is easily accessible.
+
+----- Weakening -----
+
+[-0.9707026481628418] It is very worn and in a terrible area of town.
+[-0.9125595092773438] I could not believe what they charged for a room at this hell-hole, and it is funny just around the corner from the building is a "back-packer's hostel which I thought would have been much better than this dump.
+[-0.8532781600952148] We are heartbroken and will never recommend this hotel to anyone.
+[-0.8441734313964844] The hotel is not in a nice area of the city and you will notice a great deal of sketchy personalities roaming the streets around the area.
+[-0.822052001953125] I would not recommend this hotel to anyone!
+
+**********
+
+[0.9130363464355469] The hotel is conveniently located near many restaurants.
+Parent: The hotel is located in a good location, close to many attractions and restaurants.
+
+----- Supporting -----
+
+[0.9130363464355469] Overall, a great place to stay because the rooms were clean, staff was friendly and helpful, many attractions and great restaurants are walking distance from the hotel.
+[0.8969097137451172] We have never been to Canada before or to a huge city like Toronto, we found it very easy to get around, Primrose hotel is an excellent location as the subway is only 5min walk way .There is a lot of restaurants , bars, stores ,drugmarts and shops within walking distance also Dundas sq , Eaton centre &hockey Hall of Fame are close by.
+[0.8298559188842773] This hotel is near everything; subway, restaurants, shopping.
+[0.7753705978393555] The hotel was in a good location and was close to restaurants and a wonderful greenhouse which I toured for an entire afternoon.
+[0.4151020050048828] I thought the hotel was in a good location and I found it was easy to walk to restaurants at night.
+
+----- Weakening -----
+
+[-0.8556685447692871] It was the middle of winter with temperatures around minus-10 to minus-20 degrees and we had to trudge the streets to find places to eat.
+[-0.7993354797363281] It is very worn and in a terrible area of town.
+[-0.7190999984741211] I could not believe what they charged for a room at this hell-hole, and it is funny just around the corner from the building is a "back-packer's hostel which I thought would have been much better than this dump.
+[-0.6759786605834961] I would not recommend this hotel to anyone!
+[-0.6711177825927734] I do not recommend staying here.
+
+**********
+
+[0.741973876953125] The area around the hotel is seedy.
+Parent: However, the area around the hotel can be a bit seedy.
+
+----- Supporting -----
+
+[0.741973876953125] The hotel is not in a nice area of the city and you will notice a great deal of sketchy personalities roaming the streets around the area.
+[0.347320556640625] We didnâ€™t realize that the Primrose Best Western hotel was in the middle of a large prostitution area, until we left and noticed the building was surrounded by dozens of prostitutes.
+[0.2918281555175781] We arrived at 3:00 in the morning, and drove through the night to arrive to the filthiest hotel we have ever seen!
+[0.27780914306640625] The hotel was dirty.
+[0.1807708740234375] Finally, we came back to the hotel at around midnight after seeing the tennis match and having dinner and come to find out that there were hookers on almost every corner surrounding the hotel.
+
+----- Weakening -----
+
+[-0.9793577194213867] The hotel is in a nice location, within walking distance of everything touristy.
+[-0.9741787910461426] Nice lobby.
+[-0.9738001823425293] The hotel was in a great location and we walked to a charming area called Yorkville.
+[-0.9716930389404297] Simply put Its a clean, well run hotel, with excellent service at the front desk and very large rooms that look great.
+[-0.9708123207092285] surrounded by great restauants and a healthy walking distance to shops, Air Canada Centre, CN Tower.
+
+**********
+
+[0.8801660537719727] Underground parking is difficult to navigate.
+Parent: The underground parking is also not very easy to navigate.
+
+----- Supporting -----
+
+[0.8801660537719727] The underground parking in the hotel was $15 a day, but you do get in/out privileges, just use caution when parking, it's a bit tight down there.
+[0.5227279663085938] The underground parking is horribly laid out.
+[0.456756591796875] Its really tight down there, but there is also a public lot outside which you can use.
+[0.450347900390625] While I'd agree that the parking garage was hard to manoevre and the elevators were slow, that's as far as the negative experiences I had at this hotel went.
+[0.36103057861328125] To get to the parking lot from the guest floors you will need to use an access card in the elevators; if you are not quick enough, or your card doesn't work properly, you will find that you are called to another floor.
+
+----- Weakening -----
+
+[-0.8205585479736328] Connection was fast and I had no issues.
+[-0.7296028137207031] Great wi-fi service too.
+[-0.7047958374023438] Which made it easy to stumble through the lobby drunk and singing at 1:00 a.m.
+[-0.674530029296875] Location is very central.
+[-0.6613388061523438] The hotel was in a good location and it was easy to get a cab just outside the hotel to the clubs.
+
+**********
+
+[0.9738297462463379] The location was good.
+Parent: The location was praised by most reviewers for being close to various attractions, having good views, and being easy to get around.
+
+----- Supporting -----
+
+[0.9738297462463379] The location is great.
+[0.9737763404846191] The location was good, right where I needed to be, and the price was great for downtown and I only paid $89 with a corporate discount.
+[0.9650945663452148] The location is good and it was close to a great Thai food restaurant which I would recommend if you like Thai.
+[0.949254035949707] We were pleased with the choice, and the location was perfect.
+[0.9411802291870117] The location is good being a short walk into town and is close to the new Loblaws food emporium at Maple Leaf Gardens.
+
+----- Weakening -----
+
+[-0.9481391906738281] It is very worn and in a terrible area of town.
+[-0.7888870239257812] The hotel is not in a nice area of the city and you will notice a great deal of sketchy personalities roaming the streets around the area.
+[-0.775360107421875] I could not believe what they charged for a room at this hell-hole, and it is funny just around the corner from the building is a "back-packer's hostel which I thought would have been much better than this dump.
+[-0.7373008728027344] I've stayed in many places around the world but this was the worst.
+[-0.707305908203125] The underground parking is horribly laid out.
+
+**********
+
+[0.8841705322265625] The location is convenient.
+Parent: The location was praised by most reviewers for being close to various attractions, having good views, and being easy to get around.
+
+----- Supporting -----
+
+[0.8841705322265625] The location was good, right where I needed to be, and the price was great for downtown and I only paid $89 with a corporate discount.
+[0.823760986328125] The location is good being a short walk into town and is close to the new Loblaws food emporium at Maple Leaf Gardens.
+[0.7360496520996094] Tim Hortons right in the lobby which was very convenient.
+[0.7307376861572266] The location was perfect as I walked to the Eaton Centre which was about 10 minutes away, and then the cab ride back only cost $8 including a tip.
+[0.7240123748779297] Would stay there again as price was great and location perfect.
+
+----- Weakening -----
+
+[-0.9334907531738281] It is very worn and in a terrible area of town.
+[-0.90081787109375] Parking was 23 dollars per night, and it was a bit of a fiasco to even get back into the secure lot to get the car back.
+[-0.8484344482421875] The parking garage was a tight squeeze if you were driving anything bigger than a four door car.
+[-0.8384284973144531] Heed this warning stay away from this crappy place, you'll be glad you did.
+[-0.8365287780761719] On the way up to my room - I got stuck in an elevator.
+
+**********
+
+[0.956883430480957] The location has good views.
+Parent: The location was praised by most reviewers for being close to various attractions, having good views, and being easy to get around.
+
+----- Supporting -----
+
+[0.956883430480957] The room was good and had a nice view.
+[0.9230084419250488] The room was clean, and had a great view.
+[0.894322395324707] Staff was extra friendly, room was large and clean, had a great view of the city and we were walking distance to just about everything.
+[0.8873844146728516] The rooms were spacious with queen sized beds, nice bathrooms, the view was decent out of our 5th floor rooms, and we had no real issues at all as far as the hotel went.
+[0.8865652084350586] We got a room on the 16th floor with great views of the city , Our room had a big comfortable double bed.
+
+----- Weakening -----
+
+[-0.8779678344726562] The problem is you do not see where your box is being placed and how it is secured.
+[-0.6996498107910156] Heed this warning stay away from this crappy place, you'll be glad you did.
+[-0.6259613037109375] The hotel is not in a nice area of the city and you will notice a great deal of sketchy personalities roaming the streets around the area.
+[-0.59722900390625] Gloomy room.
+[-0.5575542449951172] It is very worn and in a terrible area of town.
+
+**********
+
+[0.9263992309570312] The location is easy to get around.
+Parent: The location was praised by most reviewers for being close to various attractions, having good views, and being easy to get around.
+
+----- Supporting -----
+
+[0.9263992309570312] We have never been to Canada before or to a huge city like Toronto, we found it very easy to get around, Primrose hotel is an excellent location as the subway is only 5min walk way .There is a lot of restaurants , bars, stores ,drugmarts and shops within walking distance also Dundas sq , Eaton centre &hockey Hall of Fame are close by.
+[0.8917322158813477] The location is good being a short walk into town and is close to the new Loblaws food emporium at Maple Leaf Gardens.
+[0.8456611633300781] We also experienced the subway and found it was very easy to get around.
+[0.8313884735107422] I thought the hotel was in a good location and I found it was easy to walk to restaurants at night.
+[0.8064556121826172] The hotel was in a good location and it was easy to get a cab just outside the hotel to the clubs.
+
+----- Weakening -----
+
+[-0.9958271980285645] It is worth noting that the parking garage has very little clearance, and some of the tightest turns I have ever had to negotiate.
+[-0.9955663681030273] The parking garage was a tight squeeze if you were driving anything bigger than a four door car.
+[-0.9936943054199219] The parking garage was a little tight to drive around in, but other than that, I would definately go back for another weekend with the guys.
+[-0.9936013221740723] In the meantime people get stuck very often in seems.
+[-0.9934659004211426] We were lost in a city we HAD never been in for 10 mintues during the night.
+
+**********
+
+[0.9818487167358398] The hotel has a parking garage.
+Parent: The only complaints were about the parking garage being hard to manoevre and the hotel being located near a subway station.
+
+----- Supporting -----
+
+[0.9818487167358398] While I'd agree that the parking garage was hard to manoevre and the elevators were slow, that's as far as the negative experiences I had at this hotel went.
+[0.9563789367675781] The hotel parking was a little expensive (CAN $15) and the garage is compact so I would be careful if you drive a big car or SUV.
+[0.9500808715820312] The hotel was clean, modern and the only concern that I had was the limited parking in the hotel garage.
+[0.9383430480957031] For me, I believe that if a hotel has a parking garage that it should have adequate space reserved for hotel patrons regardless if they are going to use it or not.
+[0.88677978515625] We needed a special hotel key for the parking lot elevator, the one we were given for the elevator did not work, so we had to ask the front desk.
+
+----- Weakening -----
+
+[-0.9234542846679688] But from the time they told us we had to go get public parking down the street, to mixed up room arrangement, through just rude service, and a tile falling from the bathroom wall, the price was not worth it.
+[-0.8361587524414062] The laundry facilitys are in poor quality.
+[-0.8239517211914062] Before checking in, they rudely told us that the parking space we had requested had been given to someone else and that we were to go down the street to public parking lot.
+[-0.8120040893554688] And when you are at the park don't forget to visit the Greenhouse.
+[-0.7720718383789062] On the way up to my room - I got stuck in an elevator.
+
+**********
+
+[0.9775915145874023] The hotel is conveniently located near a subway station.
+Parent: The only complaints were about the parking garage being hard to manoevre and the hotel being located near a subway station.
+
+----- Supporting -----
+
+[0.9775915145874023] The hotel is within an easy walk to many attractions and shops, with a subway station close by for venturing further afield.
+[0.9691438674926758] We have never been to Canada before or to a huge city like Toronto, we found it very easy to get around, Primrose hotel is an excellent location as the subway is only 5min walk way .There is a lot of restaurants , bars, stores ,drugmarts and shops within walking distance also Dundas sq , Eaton centre &hockey Hall of Fame are close by.
+[0.915191650390625] I would suggest this hotel if coming to visit the Church Street Village for nightlife and if you wish to visit the rest of the city a subway station is within easy walking distance.
+[0.8787689208984375] This hotel is near everything; subway, restaurants, shopping.
+[0.8718051910400391] The location of the hotel is not too far away from the College Subway station.
+
+----- Weakening -----
+
+[-0.9549636840820312] Several churches of different denominations are dotted around Allan Park that is across the street.
+[-0.92559814453125] Got a room without a reservation at the Primrose Hotel which was right beside an underground train stop.
+[-0.9253292083740234] Across the street from the old Maple Leaf Gardens, and it looks like a new grocery store is about to open up there soon.
+[-0.9252967834472656] And when you are at the park don't forget to visit the Greenhouse.
+[-0.8916397094726562] The only thing this place has going for it is the location close to the bars and clubs (which might be a minus if you don't want to risk running into prostitutes on your walk back from dinner).
+
+**********
+
+[0.6674728393554688] The parking garage was not up to par.
+Parent: The only complaints were about the parking garage being hard to manoevre and the hotel being located near a subway station.
+
+----- Supporting -----
+
+[0.6674728393554688] Only problem was the carpark was too small.
+[0.5425376892089844] The underground parking is horribly laid out.
+[0.4532661437988281] I did not trust the underground parking facilities so made sure to bring all my bags and valuables up to my room.
+[0.36823272705078125] But from the time they told us we had to go get public parking down the street, to mixed up room arrangement, through just rude service, and a tile falling from the bathroom wall, the price was not worth it.
+[0.31964111328125] Afterwards the Manager acknowledged that the lifts are in need of urgent replacement but due to the cost this has yet to be authorised.
+
+----- Weakening -----
+
+[-0.9691886901855469] The parking attendant was pleasant, the check in went smoothly,the room and the view was terrific.
+[-0.96417236328125] We were on the 22nd floor and the view was to die for.
+[-0.9637966156005859] Everything was spotlessly clean and comfortable and the staff were very helpful and polite.
+[-0.9601383209228516] It was very clean and comfortable and had very nice artwork on the walls.
+[-0.9574146270751953] The room was great and large with 2 queen beds.
+
+**********
+
+[0.8078575134277344] The location of the hotel was not ideal.
+Parent: The only complaints were about the parking garage being hard to manoevre and the hotel being located near a subway station.
+
+----- Supporting -----
+
+[0.8078575134277344] The hotel is not in a nice area of the city and you will notice a great deal of sketchy personalities roaming the streets around the area.
+[0.32137298583984375] I could not believe what they charged for a room at this hell-hole, and it is funny just around the corner from the building is a "back-packer's hostel which I thought would have been much better than this dump.
+[0.2371978759765625] But from the time they told us we had to go get public parking down the street, to mixed up room arrangement, through just rude service, and a tile falling from the bathroom wall, the price was not worth it.
+[0.12007904052734375] The only thing I might mention is the fact that the hotel seems to be located right in the midst of a very prominent gay section of Toronto, and for 7 straight males, some of whom are not particularly tolerant, this could potentially have been problematic.
+[0.1195516586303711] It's not in the best part of Toronto but for the price and amenities it was a great value.
+
+----- Weakening -----
+
+[-0.9905452728271484] The hotel was in a great location and we walked to a charming area called Yorkville.
+[-0.9901638031005859] The hotel is in a great location and we were close to the CN Tower, the museum and the Hockey Hall of Fame.
+[-0.988861083984375] Also the hotel was in a very good location for all attractions.
+[-0.9885931015014648] The hotel is in a nice location, within walking distance of everything touristy.
+[-0.9877738952636719] The staff was very polite, rooms were clean, and the hotel has a great location.
+
+**********
+
+[0.9738297462463379] The location was good.
+Parent: The location was praised in most of the reviews, with many guests noting that it was close to restaurants, shopping, and attractions.
+
+----- Supporting -----
+
+[0.9738297462463379] The location is great.
+[0.9737763404846191] The location was good, right where I needed to be, and the price was great for downtown and I only paid $89 with a corporate discount.
+[0.9650945663452148] The location is good and it was close to a great Thai food restaurant which I would recommend if you like Thai.
+[0.949254035949707] We were pleased with the choice, and the location was perfect.
+[0.9411802291870117] The location is good being a short walk into town and is close to the new Loblaws food emporium at Maple Leaf Gardens.
+
+----- Weakening -----
+
+[-0.9481391906738281] It is very worn and in a terrible area of town.
+[-0.7888870239257812] The hotel is not in a nice area of the city and you will notice a great deal of sketchy personalities roaming the streets around the area.
+[-0.775360107421875] I could not believe what they charged for a room at this hell-hole, and it is funny just around the corner from the building is a "back-packer's hostel which I thought would have been much better than this dump.
+[-0.7373008728027344] I've stayed in many places around the world but this was the worst.
+[-0.707305908203125] The underground parking is horribly laid out.
+
+**********
+
+[0.8841705322265625] The location is convenient.
+Parent: The location was praised in most of the reviews, with many guests noting that it was close to restaurants, shopping, and attractions.
+
+----- Supporting -----
+
+[0.8841705322265625] The location was good, right where I needed to be, and the price was great for downtown and I only paid $89 with a corporate discount.
+[0.823760986328125] The location is good being a short walk into town and is close to the new Loblaws food emporium at Maple Leaf Gardens.
+[0.7360496520996094] Tim Hortons right in the lobby which was very convenient.
+[0.7307376861572266] The location was perfect as I walked to the Eaton Centre which was about 10 minutes away, and then the cab ride back only cost $8 including a tip.
+[0.7240123748779297] Would stay there again as price was great and location perfect.
+
+----- Weakening -----
+
+[-0.9334907531738281] It is very worn and in a terrible area of town.
+[-0.90081787109375] Parking was 23 dollars per night, and it was a bit of a fiasco to even get back into the secure lot to get the car back.
+[-0.8484344482421875] The parking garage was a tight squeeze if you were driving anything bigger than a four door car.
+[-0.8384284973144531] Heed this warning stay away from this crappy place, you'll be glad you did.
+[-0.8365287780761719] On the way up to my room - I got stuck in an elevator.
+
+**********
+
+[0.935333251953125] The parking situation was not ideal.
+Parent: The parking situation was noted as being tight, but there was also a public parking lot nearby.
+
+----- Supporting -----
+
+[0.935333251953125] The underground parking is horribly laid out.
+[0.9222755432128906] I`m glad I didn`t have a car, as the parking charges were horrendous.
+[0.8868465423583984] Only problem was the carpark was too small.
+[0.8168792724609375] While I'd agree that the parking garage was hard to manoevre and the elevators were slow, that's as far as the negative experiences I had at this hotel went.
+[0.7822036743164062] The parking garage was a tight squeeze if you were driving anything bigger than a four door car.
+
+----- Weakening -----
+
+[-0.952754020690918] The location was good, right where I needed to be, and the price was great for downtown and I only paid $89 with a corporate discount.
+[-0.8997135162353516] We were pleased with the choice, and the location was perfect.
+[-0.7813148498535156] the beds were fantastic.
+[-0.74822998046875] Very big comfortable bed.
+[-0.733184814453125] The laundry left something to be desired.
+
+**********
+
+[0.8782424926757812] There was a public parking lot nearby.
+Parent: The parking situation was noted as being tight, but there was also a public parking lot nearby.
+
+----- Supporting -----
+
+[0.8782424926757812] But from the time they told us we had to go get public parking down the street, to mixed up room arrangement, through just rude service, and a tile falling from the bathroom wall, the price was not worth it.
+[0.8682022094726562] Before checking in, they rudely told us that the parking space we had requested had been given to someone else and that we were to go down the street to public parking lot.
+[0.8060379028320312] Its really tight down there, but there is also a public lot outside which you can use.
+[0.3675537109375] Parking was 23 dollars per night, and it was a bit of a fiasco to even get back into the secure lot to get the car back.
+[0.3192138671875] 1) Rude staff at the front desk (only one of the employees we dealt with were nice); 2) Restaurant only open part of the time; 3) They DID give us a bigger and cheaper parking space out behind the building because our SUV wouldn't fit in the underground parking, but there were junkies hanging around at that parking lot; 3) FOUND A BEDBUG IN THE BATHROOM SINK (ALIVE) -- 'NUFF SAID!
+
+----- Weakening -----
+
+[-0.7555465698242188] The first night there was no parking garage spot available, so we parked were the hotel recommended.
+[-0.7288246154785156] The underground parking is horribly laid out.
+[-0.6813392639160156] Our car was broken into.
+[-0.6593780517578125] The hotel books a lot of bus tours, and some mornings it can take a very long time to get an elevator, because they are being monopolized by the bus tourists, who are all trying to leave at once.
+[-0.6318588256835938] It wasn't obvious and I only noticed it because I was accessing a wall plug behind the bedside table.

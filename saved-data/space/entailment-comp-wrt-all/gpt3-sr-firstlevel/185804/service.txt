@@ -1,0 +1,422 @@
+***** Aspect: service Model Type : zs *****
+Overall score: 0.8547337293624878
+
+**********
+
+[0.9789576530456543] The service provided by the hotel staff was good.
+Parent: The guests who wrote the reviews seem to have enjoyed the service provided by the hotel staff.
+
+----- Supporting -----
+
+[0.9789576530456543] The hotel staff were very good and accomodating, the hotel itself is good.
+[0.961371898651123] The Hotel is easy to get to from the Airport, Check-in was smooth, and the staff was very helpful.
+[0.9445781707763672] However the hotel is very nice, and the staff very helpful.
+[0.9435009956359863] The hotel itself is pretty up-to-date (complete with Internet access) and the staff is very nice and extremely helpful.
+[0.9426136016845703] Very pleasant hotel and particularly helpful and accommodating staff.
+
+----- Weakening -----
+
+[-0.9221973419189453] * The restaurant has a very limited and boring menu and the service is terrible.
+[-0.9162559509277344] The staff just seemed disinterested, especially at the bar and the front desk.
+[-0.9053421020507812] Unfortunately they just don't have the level of service that would make them a great hotel.
+[-0.772674560546875] The hotel is in a great location but needs some serious updating, sound proofing and desk staff needs an attitude check towards guests.
+[-0.7011032104492188] Initially they were less than courteous about it but i said if there is a charge of course i would play however it might be helpful for future guests to be escorted to the bike and given a brief safety instruction prior to giving someone a key.
+
+**********
+
+[0.99114990234375] The staff was friendly.
+Parent: They were described as being friendly, helpful, and attentive, and the housekeeping was praised as being spotless.
+
+----- Supporting -----
+
+[0.99114990234375] The staff were very friendly as well.
+[0.9905910491943359] The Staff was very friendly and helpful.
+[0.9886002540588379] The staff were all very friendly and helpful.
+[0.9853515625] The staff was consistently warm and friendly and above all very servicing.
+[0.9836325645446777] The hotel staff was friendly and helpful.
+
+----- Weakening -----
+
+[-0.9761295318603516] The staff just seemed disinterested, especially at the bar and the front desk.
+[-0.91143798828125] Initially they were less than courteous about it but i said if there is a charge of course i would play however it might be helpful for future guests to be escorted to the bike and given a brief safety instruction prior to giving someone a key.
+[-0.8555374145507812] The hotel is in a great location but needs some serious updating, sound proofing and desk staff needs an attitude check towards guests.
+[-0.8351325988769531] My wife and I had a bad experience at GIH.
+[-0.7143735885620117] * The restaurant has a very limited and boring menu and the service is terrible.
+
+**********
+
+[0.9846138954162598] The employees were helpful.
+Parent: They were described as being friendly, helpful, and attentive, and the housekeeping was praised as being spotless.
+
+----- Supporting -----
+
+[0.9846138954162598] The staff was very helpful and attentive, the evening was seamless from appies to dinner to dessert....just ended too soon.
+[0.983673095703125] The staff was very helpful.
+[0.9831905364990234] The Staff was very friendly and helpful.
+[0.9821600914001465] The staff were all very friendly and helpful.
+[0.9778218269348145] The Hotel is easy to get to from the Airport, Check-in was smooth, and the staff was very helpful.
+
+----- Weakening -----
+
+[-0.9878053665161133] I rented a bike but no one offered to show me how to use the lock.
+[-0.9823837280273438] The staff just seemed disinterested, especially at the bar and the front desk.
+[-0.94586181640625] However, if problems arise, as they did on our night, do not expect the manage to be of any help.
+[-0.7907867431640625] The desk staff would not look up on Hotels.ca the discrepancies we sited when checking out but they were very cheery and smiling the whole time while denying our information which was infuriating!
+[-0.7724971771240234] * The restaurant has a very limited and boring menu and the service is terrible.
+
+**********
+
+[0.9771518707275391] The service was attentive.
+Parent: They were described as being friendly, helpful, and attentive, and the housekeeping was praised as being spotless.
+
+----- Supporting -----
+
+[0.9771518707275391] The staff was very helpful and attentive, the evening was seamless from appies to dinner to dessert....just ended too soon.
+[0.9704098701477051] At the hotel’s restaurant where I ate often, the service was attentive and friendly; they even went out of their way tonight to make a strawberry compote for the cheesecake because I didn’t want the cherry compote!
+[0.9464006423950195] First, wonderful staff who were so attentive to my needs, treating and speaking with me with respect that is often hard to find in modern hotels.
+[0.9420709609985352] From the initial planning to the evening event, the staff went our of their way to make us feel special, and paid attention to every detail of our requests.
+[0.9382696151733398] The staff were responsive to requests for supplies and adjustments for our meetings.
+
+----- Weakening -----
+
+[-0.9862823486328125] The staff just seemed disinterested, especially at the bar and the front desk.
+[-0.9860820770263672] * The restaurant has a very limited and boring menu and the service is terrible.
+[-0.9754905700683594] Unfortunately they just don't have the level of service that would make them a great hotel.
+[-0.9702014923095703] I rented a bike but no one offered to show me how to use the lock.
+[-0.9478883743286133] We arrived a little late on Xmas day after a troublesome time with the car rental company (Budget did not have a car for me despite having a valid reservation).
+
+**********
+
+[0.9473752975463867] The housekeeping was clean.
+Parent: They were described as being friendly, helpful, and attentive, and the housekeeping was praised as being spotless.
+
+----- Supporting -----
+
+[0.9473752975463867] The housekeeping service is excellent; the room was spotless every day.
+[0.9466485977172852] The rooms were very clean and comfortable.
+[0.9135007858276367] The rooms are very clean, equipped with large flat screen TV and complimentary internet.
+[0.9020195007324219] Good points: Very welcoming atmosphere Room was very clean & well appointed Room service was promt & food was great same as restaurant Best Mini bar selection of my whole trip lots of local treats Very close to the great Granville Island Markets (1-2 min walk) Very good service from all staff Close to Aquabus which takes you into downtown Vancouver (a bit of a hike uphill to get into town) Free internet access for guests there is one computer in lobby so you somtimes have to wait for another guest to finish but it is rare to find free access The Beer brewed on site was pretty good Disappointing points: Was not on the pick up list for day trips but it is very quick & cheap trip into Vancouver to meet up with a trip.
+[0.8996086120605469] The room itself was clean, the bathroom was very modern, and the views of the water/harbor were very pretty.
+
+----- Weakening -----
+
+[-0.9803466796875] The room also had a weird smell.
+[-0.9780006408691406] * The doors, wallpaper and carpets need to be redone.
+[-0.9625663757324219] Oh, and the sauna was broken.
+[-0.9479179382324219] When we initially entered our room it became clear that animals had stayed in the room -- husband and son have bad animal allergies -- they moved us to another room.
+[-0.9417743682861328] * Lamp had burnt out light bulb...not a big deal but these things should be checked upon cleaning.
+
+**********
+
+[0.7953872680664062] The staff were friendly according to the reviews.
+Parent: The reviews said that the staff were friendly and helpful, and that they went out of their way to accommodate guests.
+
+----- Supporting -----
+
+[0.7953872680664062] Good points: Very welcoming atmosphere Room was very clean & well appointed Room service was promt & food was great same as restaurant Best Mini bar selection of my whole trip lots of local treats Very close to the great Granville Island Markets (1-2 min walk) Very good service from all staff Close to Aquabus which takes you into downtown Vancouver (a bit of a hike uphill to get into town) Free internet access for guests there is one computer in lobby so you somtimes have to wait for another guest to finish but it is rare to find free access The Beer brewed on site was pretty good Disappointing points: Was not on the pick up list for day trips but it is very quick & cheap trip into Vancouver to meet up with a trip.
+[0.7560062408447266] Apart from the special treatment that we recieved we found all the people who worked there to be really nice and interested in having a conversation.
+[0.4641304016113281] We find the hotel rooms well appointed and comfortable; the staff friendly and accomodating.
+[0.3986396789550781] We also noticed that the restaurant staff and bar staff went out of their way to be helpful and offer just a bit extra.
+[0.389617919921875] The desk staff would not look up on Hotels.ca the discrepancies we sited when checking out but they were very cheery and smiling the whole time while denying our information which was infuriating!
+
+----- Weakening -----
+
+[-0.6701011657714844] The staff just seemed disinterested, especially at the bar and the front desk.
+[-0.5945587158203125] The hotel is in a great location but needs some serious updating, sound proofing and desk staff needs an attitude check towards guests.
+[-0.5623035430908203] * The restaurant has a very limited and boring menu and the service is terrible.
+[-0.5598907470703125] We recently had an extremely bad stay at an American Sheraton hotel, and were a bit gunshy about staying in ANY hotel again...haha.
+[-0.4399890899658203] My wife and I had a bad experience at GIH.
+
+**********
+
+[0.9916362762451172] The staff were helpful.
+Parent: The reviews said that the staff were friendly and helpful, and that they went out of their way to accommodate guests.
+
+----- Supporting -----
+
+[0.9916362762451172] The staff was very helpful.
+[0.9886660575866699] The Staff was very friendly and helpful.
+[0.9884939193725586] The staff was very helpful and attentive, the evening was seamless from appies to dinner to dessert....just ended too soon.
+[0.9865565299987793] Staff were very pleasant and helpful.
+[0.9836015701293945] The staff were all very friendly and helpful.
+
+----- Weakening -----
+
+[-0.9855384826660156] The staff just seemed disinterested, especially at the bar and the front desk.
+[-0.9743747711181641] I rented a bike but no one offered to show me how to use the lock.
+[-0.9658374786376953] However, if problems arise, as they did on our night, do not expect the manage to be of any help.
+[-0.8818635940551758] * The restaurant has a very limited and boring menu and the service is terrible.
+[-0.853179931640625] The desk staff would not look up on Hotels.ca the discrepancies we sited when checking out but they were very cheery and smiling the whole time while denying our information which was infuriating!
+
+**********
+
+[0.9814958572387695] The staff was accommodating.
+Parent: The reviews said that the staff were friendly and helpful, and that they went out of their way to accommodate guests.
+
+----- Supporting -----
+
+[0.9814958572387695] Staff was very obliging and cheerfully looked after our needs.
+[0.9812602996826172] All staff we dealt with - front desk, housekeeping, dining room - were very accommodating and cheerful.
+[0.9809064865112305] Staff were very pleasant and helpful.
+[0.979945182800293] The staff were all very friendly and helpful.
+[0.9788818359375] The hotel staff were very good and accomodating, the hotel itself is good.
+
+----- Weakening -----
+
+[-0.9704990386962891] * The restaurant has a very limited and boring menu and the service is terrible.
+[-0.9693260192871094] The staff just seemed disinterested, especially at the bar and the front desk.
+[-0.9279022216796875] Initially they were less than courteous about it but i said if there is a charge of course i would play however it might be helpful for future guests to be escorted to the bike and given a brief safety instruction prior to giving someone a key.
+[-0.9265766143798828] I rented a bike but no one offered to show me how to use the lock.
+[-0.9088897705078125] Unfortunately they just don't have the level of service that would make them a great hotel.
+
+**********
+
+[0.979835033416748] The food was outstanding.
+Parent: They also said that the food was outstanding.
+
+----- Supporting -----
+
+[0.979835033416748] The restaurant food was excellent.
+[0.9764251708984375] The food and service were outstanding.
+[0.9698247909545898] The food was superb, and the atmosphere is wonderful - right on the water.
+[0.9256839752197266] The food is excellent and the view is amazing.
+[0.9161491394042969] The staff, rooms and food are outstanding and the there's the location.
+
+----- Weakening -----
+
+[-0.9971628189086914] Food isnt great but you are right by the market.
+[-0.9970746040344238] * The restaurant has a very limited and boring menu and the service is terrible.
+[-0.9966030120849609] For old times sake, we even had lunch at the Old Spaghetti Factory, but the food wasn't very good, so we decided to give the city a miss and pootle around the Island instead .
+[-0.9937231540679932] I didn't have any meals at the hotel so can't comment on that.
+[-0.9922513961791992] The location is great, the waitstaff good and the food ok.
+
+**********
+
+[0.9911518096923828] The staff were friendly.
+Parent: Overall, reviewers thought that the staff were friendly, helpful and accommodating.
+
+----- Supporting -----
+
+[0.9911518096923828] The staff were very friendly as well.
+[0.9911165237426758] The Staff was very friendly and helpful.
+[0.9891023635864258] The staff were all very friendly and helpful.
+[0.9848604202270508] The staff was consistently warm and friendly and above all very servicing.
+[0.9831118583679199] The hotel staff was friendly and helpful.
+
+----- Weakening -----
+
+[-0.9765491485595703] The staff just seemed disinterested, especially at the bar and the front desk.
+[-0.9031524658203125] Initially they were less than courteous about it but i said if there is a charge of course i would play however it might be helpful for future guests to be escorted to the bike and given a brief safety instruction prior to giving someone a key.
+[-0.8609848022460938] The hotel is in a great location but needs some serious updating, sound proofing and desk staff needs an attitude check towards guests.
+[-0.8542556762695312] My wife and I had a bad experience at GIH.
+[-0.661677360534668] * The restaurant has a very limited and boring menu and the service is terrible.
+
+**********
+
+[0.9916362762451172] The staff were helpful.
+Parent: Overall, reviewers thought that the staff were friendly, helpful and accommodating.
+
+----- Supporting -----
+
+[0.9916362762451172] The staff was very helpful.
+[0.9886660575866699] The Staff was very friendly and helpful.
+[0.9884939193725586] The staff was very helpful and attentive, the evening was seamless from appies to dinner to dessert....just ended too soon.
+[0.9865565299987793] Staff were very pleasant and helpful.
+[0.9836015701293945] The staff were all very friendly and helpful.
+
+----- Weakening -----
+
+[-0.9855384826660156] The staff just seemed disinterested, especially at the bar and the front desk.
+[-0.9743747711181641] I rented a bike but no one offered to show me how to use the lock.
+[-0.9658374786376953] However, if problems arise, as they did on our night, do not expect the manage to be of any help.
+[-0.8818635940551758] * The restaurant has a very limited and boring menu and the service is terrible.
+[-0.853179931640625] The desk staff would not look up on Hotels.ca the discrepancies we sited when checking out but they were very cheery and smiling the whole time while denying our information which was infuriating!
+
+**********
+
+[0.9827227592468262] The staff were accommodating.
+Parent: Overall, reviewers thought that the staff were friendly, helpful and accommodating.
+
+----- Supporting -----
+
+[0.9827227592468262] All staff we dealt with - front desk, housekeeping, dining room - were very accommodating and cheerful.
+[0.9825277328491211] Staff was very obliging and cheerfully looked after our needs.
+[0.9796562194824219] Very pleasant hotel and particularly helpful and accommodating staff.
+[0.9794502258300781] The staff was very helpful and attentive, the evening was seamless from appies to dinner to dessert....just ended too soon.
+[0.9789600372314453] The staff were all very friendly and helpful.
+
+----- Weakening -----
+
+[-0.9679374694824219] The staff just seemed disinterested, especially at the bar and the front desk.
+[-0.9669551849365234] * The restaurant has a very limited and boring menu and the service is terrible.
+[-0.920166015625] We were told none were available.
+[-0.9164886474609375] Initially they were less than courteous about it but i said if there is a charge of course i would play however it might be helpful for future guests to be escorted to the bike and given a brief safety instruction prior to giving someone a key.
+[-0.8992233276367188] However, if problems arise, as they did on our night, do not expect the manage to be of any help.
+
+**********
+
+[0.9290094375610352] The service was not up to par.
+Parent: There were some complaints about the service, however, with some reviewers finding the staff disinterested and unhelpful.
+
+----- Supporting -----
+
+[0.9290094375610352] Unfortunately they just don't have the level of service that would make them a great hotel.
+[0.9080486297607422] * The restaurant has a very limited and boring menu and the service is terrible.
+[0.7735824584960938] The service in the restaurant was a bit snobbish and I didn't get the condiments I requested the second morning, however this is minor in my opinion.
+[0.48451995849609375] It was very tight on space for 2 adults and 2 adolescents and a little past its prime.
+[0.33621978759765625] The hotel is in a great location but needs some serious updating, sound proofing and desk staff needs an attitude check towards guests.
+
+----- Weakening -----
+
+[-0.99444580078125] Great food and great service.
+[-0.9935483932495117] ALL of the staff we came into contact with were welcoming, friendly, and went above and beyond to be helpful.
+[-0.9934525489807129] The entire staff could not have been more pleasant and accommodating and the food, beverages and waterfront setting were wonderful as well.
+[-0.9930782318115234] The housekeeping service is excellent; the room was spotless every day.
+[-0.9929790496826172] They go above and beyond and seem to really enjoy making sure the guests are happy.
+
+**********
+
+[0.08846664428710938] The staff was disinterested and unhelpful.
+Parent: There were some complaints about the service, however, with some reviewers finding the staff disinterested and unhelpful.
+
+----- Supporting -----
+
+[0.08846664428710938] The staff just seemed disinterested, especially at the bar and the front desk.
+[0.05912017822265625] I rented a bike but no one offered to show me how to use the lock.
+[0.057952880859375] However, if problems arise, as they did on our night, do not expect the manage to be of any help.
+[0.024105072021484375] * The restaurant has a very limited and boring menu and the service is terrible.
+[0.017913818359375] The hotel is in a great location but needs some serious updating, sound proofing and desk staff needs an attitude check towards guests.
+
+----- Weakening -----
+
+[-0.998650312423706] The Front Desk staff went out of their way to provide excellent directions along with helpful driving tips.
+[-0.9986293315887451] First, I need to mention how helpful the folks at the front desk were.
+[-0.9985671043395996] From the initial planning to the evening event, the staff went our of their way to make us feel special, and paid attention to every detail of our requests.
+[-0.9985671043395996] The hotel staff were very helpful in getting us to and from the aquarium, giving change, arranging taxis.
+[-0.99855637550354] The entire staff could not have been more pleasant and accommodating and the food, beverages and waterfront setting were wonderful as well.
+
+**********
+
+[0.9941368103027344] The staff at the hotel were friendly and accommodating.
+Parent: The staff at the hotel were very friendly and accomodating, and the desk staff was also very knowledgable about getting around.
+
+----- Supporting -----
+
+[0.9941368103027344] The staff at the hotel were very friendly and accomodating, and we used the free internet and printer in the lobby to research the bus lines.
+[0.993675708770752] The staff at the hotel were very friendly, helpful and cheerful.
+[0.9933280944824219] The hotel is really nice and the staff are friendly and helpful.
+[0.990354061126709] The hotel staff was friendly and helpful.
+[0.9886684417724609] All staff at the hotel were very helpful and friendly.
+
+----- Weakening -----
+
+[-0.9829320907592773] The staff just seemed disinterested, especially at the bar and the front desk.
+[-0.9772548675537109] The hotel is in a great location but needs some serious updating, sound proofing and desk staff needs an attitude check towards guests.
+[-0.9622879028320312] * The restaurant has a very limited and boring menu and the service is terrible.
+[-0.9554080963134766] Unfortunately they just don't have the level of service that would make them a great hotel.
+[-0.9492855072021484] My wife and I had a bad experience at GIH.
+
+**********
+
+[0.9920287132263184] The desk staff were knowledgable about getting around.
+Parent: The staff at the hotel were very friendly and accomodating, and the desk staff was also very knowledgable about getting around.
+
+----- Supporting -----
+
+[0.9920287132263184] The desk staff was also very knowledgable about getting around.
+[0.8256053924560547] The front desk will help you arrange any travel plans and are experts on the area.
+[0.7088088989257812] The Front Desk staff went out of their way to provide excellent directions along with helpful driving tips.
+[0.6632394790649414] The Hotel is easy to get to from the Airport, Check-in was smooth, and the staff was very helpful.
+[0.6163616180419922] The hotel staff were very helpful in getting us to and from the aquarium, giving change, arranging taxis.
+
+----- Weakening -----
+
+[-0.8743324279785156] The staff just seemed disinterested, especially at the bar and the front desk.
+[-0.8562164306640625] I'd have given it 5 stars if only the desk chair hadn't had arms and been a royal pain to move around.
+[-0.8277587890625] What would have made this hotel a 5-star for us would have been if the concierge had been more knowledgeable, particularly with transit options for exploring attractions.
+[-0.7403430938720703] I rented a bike but no one offered to show me how to use the lock.
+[-0.7042121887207031] However, if problems arise, as they did on our night, do not expect the manage to be of any help.
+
+**********
+
+[0.9870815277099609] The staff were welcoming.
+Parent: The staff welcomed guests with great warmth and throughout their stay were genuinely pleased to offer help and advice on topics such as buses (including whether it was better to walk or take the ferry).
+
+----- Supporting -----
+
+[0.9870815277099609] The staff welcomed us with great warmth and throughout our stay were genuinely pleased to offer help and advice on topics such as buses (including whether it was better to walk or take the ferry).
+[0.9838809967041016] ALL of the staff we came into contact with were welcoming, friendly, and went above and beyond to be helpful.
+[0.9658193588256836] All staff we dealt with - front desk, housekeeping, dining room - were very accommodating and cheerful.
+[0.9538049697875977] We arrived on a rainy Thursday day to be greeted by a very friendly staff.
+[0.9515008926391602] Staff were most obliging and friendly.
+
+----- Weakening -----
+
+[-0.9931068420410156] The staff just seemed disinterested, especially at the bar and the front desk.
+[-0.9696617126464844] Initially they were less than courteous about it but i said if there is a charge of course i would play however it might be helpful for future guests to be escorted to the bike and given a brief safety instruction prior to giving someone a key.
+[-0.9480915069580078] We were told none were available.
+[-0.9403982162475586] My wife and I had a bad experience at GIH.
+[-0.9276771545410156] The hotel is in a great location but needs some serious updating, sound proofing and desk staff needs an attitude check towards guests.
+
+**********
+
+[0.4783973693847656] The staff were helpful and answered any questions guests had.
+Parent: The staff welcomed guests with great warmth and throughout their stay were genuinely pleased to offer help and advice on topics such as buses (including whether it was better to walk or take the ferry).
+
+----- Supporting -----
+
+[0.4783973693847656] The staff were responsive to requests for supplies and adjustments for our meetings.
+[0.3645915985107422] The staff welcomed us with great warmth and throughout our stay were genuinely pleased to offer help and advice on topics such as buses (including whether it was better to walk or take the ferry).
+[0.2771282196044922] Very pleasant hotel and particularly helpful and accommodating staff.
+[0.2722034454345703] What can we say, with the great location, ambiance and first class staff , who met our every need.
+[0.25594139099121094] From the initial planning to the evening event, the staff went our of their way to make us feel special, and paid attention to every detail of our requests.
+
+----- Weakening -----
+
+[-0.996335506439209] The desk staff would not look up on Hotels.ca the discrepancies we sited when checking out but they were very cheery and smiling the whole time while denying our information which was infuriating!
+[-0.9961795806884766] The staff just seemed disinterested, especially at the bar and the front desk.
+[-0.9959635734558105] However, if problems arise, as they did on our night, do not expect the manage to be of any help.
+[-0.9956467151641846] I rented a bike but no one offered to show me how to use the lock.
+[-0.9853956699371338] Unfortunately they just don't have the level of service that would make them a great hotel.
+
+**********
+
+[0.041290283203125] It is better to walk than to take the ferry.
+Parent: The staff welcomed guests with great warmth and throughout their stay were genuinely pleased to offer help and advice on topics such as buses (including whether it was better to walk or take the ferry).
+
+----- Supporting -----
+
+[0.041290283203125] Although the hotel has parking for a daily fee, it is best not to bring your car as the island is definitely best seen on foot and driving on the island is difficult as pedestrians are everywhere.
+[0.01836395263671875] Its a much better way to see the island.
+[0.012905120849609375] If you want to walk/cycle - it doesn't get better the the walking/cycling trails leading away from Granville Island.
+[0.01071929931640625] It's even better in the early morning, before all of the people arrive for the day, when you feel you have the place to yourself.
+[0.0097808837890625] If you are a jogger simply head to the seawall and head in either direction... personally I prefer heading west towards the beach.
+
+----- Weakening -----
+
+[-0.9507904052734375] If you want to visit downtown just take the water taxi or "aqua bus" these little boats are fun, not very expensive and the quickest way to gt there.
+[-0.9100522994995117] Hop on a nearby ferry to explore downtown, the West End, Yaletown or Chinatown.
+[-0.9039125442504883] A short, inexpensive ferry ride to Downtown Vancouver makes it an ideal place to stay if you want to explore the main shops or get to some of the other major attractions.
+[-0.903076171875] We had a car, so we were able to drive to many places in Vancouver like Stanley Park, Canada Place, Chinatown, Robson Street, Yaletown, etc.
+[-0.8739967346191406] Being on the water, there is never a lack of things to do or see.
+
+**********
+
+[0.99114990234375] The staff was friendly.
+Parent: Most of the staff was friendly.
+
+----- Supporting -----
+
+[0.99114990234375] The staff were very friendly as well.
+[0.9905910491943359] The Staff was very friendly and helpful.
+[0.9886002540588379] The staff were all very friendly and helpful.
+[0.9853515625] The staff was consistently warm and friendly and above all very servicing.
+[0.9836325645446777] The hotel staff was friendly and helpful.
+
+----- Weakening -----
+
+[-0.9761295318603516] The staff just seemed disinterested, especially at the bar and the front desk.
+[-0.91143798828125] Initially they were less than courteous about it but i said if there is a charge of course i would play however it might be helpful for future guests to be escorted to the bike and given a brief safety instruction prior to giving someone a key.
+[-0.8555374145507812] The hotel is in a great location but needs some serious updating, sound proofing and desk staff needs an attitude check towards guests.
+[-0.8351325988769531] My wife and I had a bad experience at GIH.
+[-0.7143735885620117] * The restaurant has a very limited and boring menu and the service is terrible.

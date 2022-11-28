@@ -1,0 +1,254 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.7506471872329712
+
+**********
+
+[0.08184814453125] The reviewers said that the building was old.
+Parent: The reviewers said that the building was old and not well-maintained.
+
+----- Supporting -----
+
+[0.08184814453125] I think the bathroom was recently reno'd and it was great, but the rest of the room was pretty ho-hum, and even a little run-down/old looking.
+[0.0599822998046875] Its a bit old and some of the furnishings and fabrics in the room showed their age, but its clean and quiet and the mattress was comfortable.
+[0.0528564453125] For old times sake, we even had lunch at the Old Spaghetti Factory, but the food wasn't very good, so we decided to give the city a miss and pootle around the Island instead .
+[0.03926849365234375] It was very tight on space for 2 adults and 2 adolescents and a little past its prime.
+[0.034114837646484375] The room was small and dark and old.
+
+----- Weakening -----
+
+[-0.9960188865661621] We especially loved the modern shower with rainfall, massage, and regular options.
+[-0.989957332611084] The room itself was clean, the bathroom was very modern, and the views of the water/harbor were very pretty.
+[-0.9896140098571777] The hotel is very modern, with the feel of a boutique 5 star hotel.
+[-0.988861083984375] The room was very nice, clean and new, a tad on the small side, but fine.
+[-0.9878191947937012] It's in a perfect location, it's been recently updated, it's very clean, it has a lovely patio to enjoy the views from, it's located on Granville Island with it's many charming spots to shop, dine and enjoy the fabulous farmers market, it really couldn't be better.
+
+**********
+
+[0.6707038879394531] The building was not well-maintained.
+Parent: The reviewers said that the building was old and not well-maintained.
+
+----- Supporting -----
+
+[0.6707038879394531] The rooms are fairly well equipped, and on the surface look good, however the fittings when you look closely at them are not top quality, and will not last.
+[0.5534629821777344] It was very tight on space for 2 adults and 2 adolescents and a little past its prime.
+[0.41925048828125] The hotel is showing some signs of age, but the truly wonderful restaurant, cheery staff, and easy access to the city make this a hotel that every Vancouver visitor should try at least once.
+[0.4171714782714844] Oh, and the sauna was broken.
+[0.41701507568359375] The hotel is in a great location but needs some serious updating, sound proofing and desk staff needs an attitude check towards guests.
+
+----- Weakening -----
+
+[-0.9589920043945312] The housekeeping service is excellent; the room was spotless every day.
+[-0.951141357421875] The service from employees is always professional and courteous, the room is extremely clean, the restaurant food is good and the view is impeccable.
+[-0.9447145462036133] This is a very well set up hotel.
+[-0.939788818359375] It's in a perfect location, it's been recently updated, it's very clean, it has a lovely patio to enjoy the views from, it's located on Granville Island with it's many charming spots to shop, dine and enjoy the fabulous farmers market, it really couldn't be better.
+[-0.9361772537231445] From the initial planning to the evening event, the staff went our of their way to make us feel special, and paid attention to every detail of our requests.
+
+**********
+
+[0.1269378662109375] The hotel was too small for a family of four.
+Parent: They also said that it was too small for a family of four and that the elevator was scary.
+
+----- Supporting -----
+
+[0.1269378662109375] It was very tight on space for 2 adults and 2 adolescents and a little past its prime.
+[0.10005950927734375] The rooms are quite small, which was a little tight with two kids and my wife and me.
+[0.0524139404296875] Room was quite small, with very limited closet space, especially for 2 adults and a child.
+[0.01519012451171875] The room was the smallest we stayed in during our tour of western Canada, and it was a struggle to fit in a rollaway bed for my son.
+[0.0030355453491210938] The room was so tiny we could hardly fit in it.
+
+----- Weakening -----
+
+[-0.9806182384490967] My kids thought they were in heaven with such a large suite.
+[-0.9748020172119141] The room was very spacious with a lovely king size bed and nice toiletries, replenished daily.
+[-0.972322940826416] Our room was clean and large.
+[-0.9532420635223389] It was huge, comfortable ,clean, nicely decorated and with great views over the boats of False Creek.
+[-0.9428238868713379] The rooms themselves are spacious, we had a king-size bed, with a little balcony that looked out towards downtown.
+
+**********
+
+[0.9448146820068359] The elevator was scary.
+Parent: They also said that it was too small for a family of four and that the elevator was scary.
+
+----- Supporting -----
+
+[0.9448146820068359] The elevator groaned when in use which was kind of scary.The pay per view movie was not working the first night, worked the second.
+[0.002918243408203125] Think twice if you are going to plan an event there, or at least go in warned!
+[0.0] Perfect
+[0.0] Enjoy!
+[0.0] !
+
+----- Weakening -----
+
+[-0.9523177146911621] It was pure bliss.
+[-0.9501104354858398] Simply a lovely time for us and the sun shone!
+[-0.9455232620239258] Very pretty outlook over the harbour.
+[-0.9452323913574219] WiFi was also pretty quick
+[-0.9436559677124023] Friendly and informal.
+
+**********
+
+[0.9166259765625] The building was half-renovated.
+Parent: The reviewers said that the building was half-renovated, with nice common areas but small, old rooms.
+
+----- Supporting -----
+
+[0.9166259765625] Bad Points * half renovated the common areas are nice, the bathrooms have no bath tubs but new bathrooms.
+[0.247802734375] The hotel brought in free pastries and coffee every morning, while the restaurant was being refurbished.
+[0.224853515625] It is a mash up of 80s smoked glass and more recent upgrades and pseudo renovations.
+[0.2152862548828125] I couldn't stay at the seminar site as the hotel was booked solid from ongoing renovations.
+[0.180816650390625] The hotel's lobby was undergoing renovations at the time but it never created any issues with our stay.
+
+----- Weakening -----
+
+[-0.7928924560546875] It was a bottle of wine with a miniature tuxedo jacket around the bottle.
+[-0.473175048828125] They asked me if I wouldn’t mind waiting as they offered to make it from scratch… highly worth the wait.
+[-0.4150543212890625] However the soap was a good and generous size.
+[-0.341766357421875] Now the traffic on the way to Kelowna was another thing altogether...we stayed too long and hit rush hour!
+[-0.320709228515625] A cab from the airport cost around $18 US, and then the rest of the days we used the excellent public transportation system.
+
+**********
+
+[0.9476394653320312] The common areas were nice.
+Parent: The reviewers said that the building was half-renovated, with nice common areas but small, old rooms.
+
+----- Supporting -----
+
+[0.9476394653320312] Bad Points * half renovated the common areas are nice, the bathrooms have no bath tubs but new bathrooms.
+[0.905670166015625] The public spaces are nicely decorated, but our room had a couple of sad "department store" prints on the walls - and considering Granville Island is a hub of artistic activity, I would have loved to see better art (why not link with the Emily Carr school of art across the street, and promote local artists?).
+[0.8039264678955078] I especially enjoyed the Public Market.
+[0.797393798828125] The hotel's bar and restaurant were both very nice, offered good food and beverages.
+[0.7106952667236328] My wife and I truly enjoyed our stay and we love the atmosphere of the public market.
+
+----- Weakening -----
+
+[-0.5202484130859375] Initially ck'd into tiny dark room - no way!
+[-0.45092010498046875] Just somewhere to sleep.
+[-0.32709503173828125] We held our wedding reception at the Hotel's lounge and found that we were overall very disappointed.
+[-0.3028106689453125] * Small rooms * We had a small balcony but had plastic furniture and latice on the floor (not nice) * The dresser, desk and minibar are still the old furniture (too many pieces and old and ugly) It did however have a flat screen tv which should not require a piece a furniture to hold it as it should be wall mounted.
+[-0.2901763916015625] Unbelievable.
+
+**********
+
+[0.9771828651428223] The rooms were small and old.
+Parent: The reviewers said that the building was half-renovated, with nice common areas but small, old rooms.
+
+----- Supporting -----
+
+[0.9771828651428223] The room was small and dark and old.
+[0.90411376953125] * Small rooms * We had a small balcony but had plastic furniture and latice on the floor (not nice) * The dresser, desk and minibar are still the old furniture (too many pieces and old and ugly) It did however have a flat screen tv which should not require a piece a furniture to hold it as it should be wall mounted.
+[0.5609130859375] It was very tight on space for 2 adults and 2 adolescents and a little past its prime.
+[0.49609375] I think the bathroom was recently reno'd and it was great, but the rest of the room was pretty ho-hum, and even a little run-down/old looking.
+[0.3319549560546875] No carpet on the floor, hardly any outlets and the bathroom was too small.
+
+----- Weakening -----
+
+[-0.997626781463623] A beautiful large modern style room with lots of windows.
+[-0.9955959320068359] Big rooms with lots of windows.
+[-0.9955377578735352] Big clean remodelled bathroom.
+[-0.9954981803894043] The hotel provides some wonderful views of the harbour and the rooms are modern and clean.
+[-0.9952232837677002] The balcony had impressive views and was private, the suite was huge and very comfortable.
+
+**********
+
+[0.9670810699462891] The furniture in the rooms was old.
+Parent: They also said that the furniture in the rooms was old and ugly, and that there was no easy chair.
+
+----- Supporting -----
+
+[0.9670810699462891] Its a bit old and some of the furnishings and fabrics in the room showed their age, but its clean and quiet and the mattress was comfortable.
+[0.9358100891113281] * Small rooms * We had a small balcony but had plastic furniture and latice on the floor (not nice) * The dresser, desk and minibar are still the old furniture (too many pieces and old and ugly) It did however have a flat screen tv which should not require a piece a furniture to hold it as it should be wall mounted.
+[0.555572509765625] Otherwise, the decor and furnishings are a little tired and dated.
+[0.2520751953125] The rooms are fairly well equipped, and on the surface look good, however the fittings when you look closely at them are not top quality, and will not last.
+[0.07708930969238281] I think the bathroom was recently reno'd and it was great, but the rest of the room was pretty ho-hum, and even a little run-down/old looking.
+
+----- Weakening -----
+
+[-0.9793834686279297] High end bathroom fixtures, comfortable bed with premium linens, free wifi.
+[-0.972651481628418] All the rooms have been remodeled with nice big screen TVs, very comfortable beds and nice décor.
+[-0.969660758972168] They’re currently renovating all the bathrooms and the new look is beautiful; even nicer than the Hyatt Regency where I stayed a few days prior to this hotel.
+[-0.9681968688964844] Chips and salsa *The restaurant deck is very nice and modern and quite a gem....too bad about the service and the food.
+[-0.9680185317993164] The bathrooms in the newer section had more counter space to place personal toiletries.
+
+**********
+
+[0.8378829956054688] The furniture was ugly.
+Parent: They also said that the furniture in the rooms was old and ugly, and that there was no easy chair.
+
+----- Supporting -----
+
+[0.8378829956054688] * Small rooms * We had a small balcony but had plastic furniture and latice on the floor (not nice) * The dresser, desk and minibar are still the old furniture (too many pieces and old and ugly) It did however have a flat screen tv which should not require a piece a furniture to hold it as it should be wall mounted.
+[0.01171875] No carpet on the floor, hardly any outlets and the bathroom was too small.
+[0.0032253265380859375] We stayed in 6 hotels in all and this was by no means the cheapest, but it was the least appealing.
+[0.0021295547485351562] We recently had an extremely bad stay at an American Sheraton hotel, and were a bit gunshy about staying in ANY hotel again...haha.
+[0.0016908645629882812] My wife and I had a bad experience at GIH.
+
+----- Weakening -----
+
+[-0.996253490447998] The bed and bedding was amazingly comfortable and appeared to be very high quality.
+[-0.9952232837677002] Secondly, the room was well equipped, the decor tasteful and the bed was extremely comfortable.
+[-0.9943246841430664] All the rooms have been remodeled with nice big screen TVs, very comfortable beds and nice décor.
+[-0.9937937259674072] The pillows and bed were amazing; we slept better than ever!
+[-0.9932317733764648] Great kind bed with very nice soft linens and fluffy towels.
+
+**********
+
+[0.9890127182006836] There was no easy chair.
+Parent: They also said that the furniture in the rooms was old and ugly, and that there was no easy chair.
+
+----- Supporting -----
+
+[0.9890127182006836] There is no easy chair.
+[0.648193359375] I'd have given it 5 stars if only the desk chair hadn't had arms and been a royal pain to move around.
+[0.28448486328125] Every day we would get up and walk the short walk to the "Public Market" and have our breakfast or lunch.
+[0.2235107421875] We actually walked home one night from the GM Center, a half-hour walk.
+[0.2030029296875] Now the traffic on the way to Kelowna was another thing altogether...we stayed too long and hit rush hour!
+
+----- Weakening -----
+
+[-0.9874296188354492] There are wrap-around balconies off every room with chairs and a table.
+[-0.9814186096191406] Also an easy walk to 4th Ave. which is great up towards Arbutus, Kits beach, and you can step right out the hotel door onto the SeaWall for a run around False Creek.
+[-0.9782218933105469] Easy access to downtown, Science Centre, English Bay, etc.
+[-0.9775257110595703] We had a balcony with chairs to sit outside in the sun and watch the city.
+[-0.9705123901367188] Downtown is an easy drive.
+
+**********
+
+[0.57562255859375] The fire alarm was going off.
+Parent: Finally, they noted that there was a fire alarm at 11pm.
+
+----- Supporting -----
+
+[0.57562255859375] There was a fire alarm at 11pm (had kids in bed!)
+[0.057342529296875] Right on the water.
+[0.006500244140625] Last time we were in town in April it was full up.
+[0.000858306884765625] Initially ck'd into tiny dark room - no way!
+[0.0003452301025390625] and it was unclear as to whether we should evacuate.
+
+----- Weakening -----
+
+[-0.9519176483154297] Check in was easy.
+[-0.9496192932128906] Simply a lovely time for us and the sun shone!
+[-0.940582275390625] The restaurant food was excellent.
+[-0.9405288696289062] Food is fab too!
+[-0.9402732849121094] It's such a wonderful experience!
+
+**********
+
+[0.9724140167236328] The fire alarm went off at 11pm.
+Parent: Finally, they noted that there was a fire alarm at 11pm.
+
+----- Supporting -----
+
+[0.9724140167236328] There was a fire alarm at 11pm (had kids in bed!)
+[0.0] Perfect
+[0.0] Enjoy!
+[0.0] !
+[0.0] .
+
+----- Weakening -----
+
+[-0.9247245788574219] For breakfast check out the market just close to the hotel on the island.
+[-0.9142189025878906] They drew us a map to the airport at 5am and even went so far as to help me arrange secret surprises for my husband's birthday and sneakily orchestrate them!
+[-0.9119806289672852] If you’re looking for a walk-able and relaxing spot then this couldn’t be better!
+[-0.9088907241821289] Check in was easy.
+[-0.9027118682861328] We had our wedding reception at GI Hotel last week and couldn't have been more thrilled with the location, venue, food and overall service excellence that we received.

@@ -1,0 +1,191 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.9225020408630371
+
+**********
+
+[0.9774436950683594] The hotel was nice.
+Parent: The reviewers thought the hotel was nice, with comfortable beds and clean rooms.
+
+----- Supporting -----
+
+[0.9774436950683594] The hotel was very pleasant.
+[0.9462299346923828] this was a very nice motel has swimming pools hot tubs and arcade.
+[0.912541389465332] our lodging experience at the settle inn was just great, i would recommend this hotel to everyone.
+[0.8993492126464844] We had an awesome stay at this hotel.
+[0.8902273178100586] The rooms were average hotel size but very nice.
+
+----- Weakening -----
+
+[-0.9894542694091797] NAsty hotel!!!!
+[-0.982579231262207] The room was filthy and disgusting!
+[-0.9774370193481445] It was a very dissapointing place to stay ~ NEVER again
+[-0.9613990783691406] Opening the door, our room was musty and it smelled horrible.
+[-0.9568862915039062] The room was like being in a cave with a bad smell.
+
+**********
+
+[0.9931802749633789] The beds were comfortable.
+Parent: The reviewers thought the hotel was nice, with comfortable beds and clean rooms.
+
+----- Supporting -----
+
+[0.9931802749633789] The beds were very comfortable.
+[0.9931802749633789] The beds were very comfortable.
+[0.9877734184265137] The beds were comfortable and a good size.
+[0.9864301681518555] The beds were comfy and the sheets were soft, which is hard to find in some hotels.
+[0.9843881130218506] The beds were comfy and the a/c worked great.
+
+----- Weakening -----
+
+[-0.9929447174072266] The beds were very very nasty.
+[-0.9681968688964844] The bedding felt nasty and we found hair.
+[-0.9525070190429688] The blanket on the bed looked to be about 20 years old and pilling and I didn't feel comfortable using it.
+[-0.9206771850585938] The room was filthy and disgusting!
+[-0.900115966796875] Beds could be softer.
+
+**********
+
+[0.989229679107666] The rooms were clean.
+Parent: The reviewers thought the hotel was nice, with comfortable beds and clean rooms.
+
+----- Supporting -----
+
+[0.989229679107666] the rooms are so clean.
+[0.9882783889770508] The rooms were very clean and the beds were very comfortable.
+[0.9849328994750977] The rooms were clean and had nice furnishings.
+[0.984886646270752] The rooms were clean, bathroom is extremely small and crowded, barely enough room to turn around.
+[0.984734058380127] The rooms are very clean and have plenty of room with the most comfortable beds for a good night's sleep.
+
+----- Weakening -----
+
+[-0.998258113861084] The room was filthy and disgusting!
+[-0.9964914321899414] Bedspreads were messed up when we arrived.
+[-0.9962959289550781] Opening the door, our room was musty and it smelled horrible.
+[-0.9960989952087402] The sheet on one of the beds had copper colored stains near the top and the pillows were stained really bad.
+[-0.9957609176635742] The room was like being in a cave with a bad smell.
+
+**********
+
+[0.8583402633666992] The amenities were good.
+Parent: They appreciated the amenities, like the pool and hot tub, and the helpful staff.
+
+----- Supporting -----
+
+[0.8583402633666992] Everything was great---Front desk people were friendly and was always willing to help in anyway...Rooms were clean and fresh..Breakfast was good and good music to listen too....I would rate this hotel and one of the best Branson has to offer.
+[0.7852439880371094] Pluses: Good service, inexpensive, friendly, everything works, nice bath fixtures Negatives: the continental breakfast is kind of sad, but the hot breakfast isn't any better.
+[0.7605724334716797] Good breakfast and a/c good.
+[0.7493438720703125] The rooms were clean, the beds were comfortable, the staff was professional and friendly and the conference rooms were perfect for our group.
+[0.745330810546875] They were clean and the furnishing were very nice.
+
+----- Weakening -----
+
+[-0.9714279174804688] There was nothing in our rooms at all to help plan the trip.
+[-0.9508247375488281] Downfall no mini fridge or microwave.
+[-0.9312400817871094] There was no restaurant, bar and the ATM did not work.
+[-0.9302597045898438] That was inconvenient.
+[-0.9220304489135742] Stay for convention...place was filthy....nothing was clean.
+
+**********
+
+[0.825897216796875] The pool was a good amenity.
+Parent: They appreciated the amenities, like the pool and hot tub, and the helpful staff.
+
+----- Supporting -----
+
+[0.825897216796875] The pools were very clean and the breakfast was great.
+[0.8015727996826172] Swimming area was clean and fun and everything you want to see is near this hotel.
+[0.7654628753662109] The pool area was clean and comfortable with a nice hot tub as well.
+[0.5248794555664062] By our 2nd trip only a few weeks later they have added a full breakfast and the pools and hot tubs were clean!
+[0.4916706085205078] The staff was very friendly and the pool area was always clean.
+
+----- Weakening -----
+
+[-0.9938554763793945] The pool area was in terrible shape.
+[-0.9430704116821289] The room was filthy and disgusting!
+[-0.9134922027587891] The room was like being in a cave with a bad smell.
+[-0.9101276397705078] There were dead bugs floating in the water, a hole in the wall under the window, a piece of wood holding a slide glass door open, chains on other doors that said "this entrance is in need of repairs, sorry for any inconvenience" or something to that affect.
+[-0.9055252075195312] One good thing about the place was the bed.
+
+**********
+
+[0.9378643035888672] The guests liked the hot tub.
+Parent: They appreciated the amenities, like the pool and hot tub, and the helpful staff.
+
+----- Supporting -----
+
+[0.9378643035888672] My teenage boy and girl were with us and really enjoyed the pools and the hot tubs.
+[0.36356163024902344] Between shows, we enjoyed an indoor pool and the hot tub.
+[0.2894439697265625] We loved the decor and the large jacuzzi tub and private balcony.
+[0.2677001953125] While the mom shops till she drops, the little girls and I always enjoy the huge indoor pool and hot tub no matter what the seasons brings outside.
+[0.152557373046875] We've been here before in a jacuzzi room, which was very nice, and we enjoyed our stay this time just as much as the last.
+
+----- Weakening -----
+
+[-0.991419792175293] We loved the Stone Castle.
+[-0.983332633972168] Their favorite part was the breakfast show, the entertainer included them at intermission and they went home and told everyone they were IN the show!
+[-0.9707279205322266] My husband especially liked the breakfast that was included.
+[-0.9696083068847656] The kids love the big breakfast with eggs, waffles, b&g, donuts, etc.
+[-0.9687728881835938] Cold breakfast!
+
+**********
+
+[0.9735784530639648] The staff was appreciated.
+Parent: They appreciated the amenities, like the pool and hot tub, and the helpful staff.
+
+----- Supporting -----
+
+[0.9735784530639648] He appreciated the staff that continuously kept everything filled and fresh.
+[0.8807411193847656] The staff was great, the breakfast music show was fun and we would love to stay there next time we go to Branson!
+[0.8382759094238281] We found the staff to be extremely nice and accomodating.
+[0.8303413391113281] The employees were outstanding and the service was great.
+[0.7683753967285156] The room was nice and clean and the hotel staff was wonderful.
+
+----- Weakening -----
+
+[-0.9903488159179688] Nasty staff.
+[-0.9735736846923828] It should be condemned.
+[-0.944671630859375] On the negative side: We were greeted by hotel staff that weren't familiar with which credit cards they accepted.
+[-0.9418144226074219] The staff didn't seem interested in providing service.
+[-0.9282569885253906] The hotel messed up the Cocktail Hour suite for both nights, and when I called to complain they did NOTHING to make it right, it was so clear that they could actually care less that I was unhappy.
+
+**********
+
+[0.8061504364013672] The breakfast buffet was good for kids.
+Parent: The breakfast buffet was a hit with the kids, and the extended pool hours were great.
+
+----- Supporting -----
+
+[0.8061504364013672] The kids love the big breakfast with eggs, waffles, b&g, donuts, etc.
+[0.591705322265625] The Settle Inn was very kid friendly.
+[0.112762451171875] The kids loved this and so do we as we can use these after shows or before we start our day.
+[0.0225372314453125] at the stone castle hotel it is highly a must to see and stay at,from its three castles and two indoor heated pools and two spas it also is equipt with a family arcade,gift shop,laundry and a hot deliciuos breakfast each morning and if thats not enough it also has for your convience high speed internet and a computer for your use in the lobby.the rooms are newly remolded with pillow top beds,table and chairs,restroom etc needs,ironing board and iron,and a blow dryer.the tvs are meduim size and cable tv.this hotel is right smack in the heart of branson.
+[0.00540924072265625] Mr. Yeary approached me and we talked about my youngest son who was sitting with me at breakfast.
+
+----- Weakening -----
+
+[-0.9488010406494141] Two swimming pools for the kids.
+[-0.9019327163696289] We have 2 young boys and they loved the swimming pools (both of them).
+[-0.875795841217041] There was no restaurant, bar and the ATM did not work.
+[-0.8494853973388672] The beds were very very nasty.
+[-0.836090087890625] The beds not your average "hotel" beds.
+
+**********
+
+[0.9408340454101562] The pool hours were great.
+Parent: The breakfast buffet was a hit with the kids, and the extended pool hours were great.
+
+----- Supporting -----
+
+[0.9408340454101562] The extended pool hours are great, you can swim before you start your day and after you return from sightseeing.
+[0.5666961669921875] The pool and hot tub are open until 1 am which worked great for us when we got in late.
+[0.2446441650390625] Since it was so hot during our stay, in the 100's, the indoor pool was very inviting.
+[0.178070068359375] Later on that night we went back to the 1st pool room the pool was warm and the hot tub was warm we pushed the bubble button it was still blowing out cold water.
+[0.09896469116210938] Great indoor pools-not crowded at all.
+
+----- Weakening -----
+
+[-0.9915752410888672] The water was shut off for about four hours and that messed up the pools chorine and they were shut down for one night.
+[-0.9801769256591797] We went to the first pool room the hot tub was not hot at all it was very cold and it was blowing out cold water, the pool was alittle bit cold.
+[-0.9548454284667969] We stayed at this place for 5 awful nights for a conference.
+[-0.950042724609375] The cable tv was horrible.
+[-0.9496049880981445] It was a complete nightmare after a long drive.

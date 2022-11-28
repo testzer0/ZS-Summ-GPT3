@@ -1,0 +1,296 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.6094351836613247
+
+**********
+
+[0.537628173828125] The hotel was not clean.
+Parent: The cleanliness of the hotel was criticized in the reviews, with mention of the carpets specifically.
+
+----- Supporting -----
+
+[0.537628173828125] other issues- bathroom really not that nice, concierge horrible at recommending things to do or good resutarants or giving directions.
+[0.5205574035644531] I was concerned about a recent report of bedbugs at this hotel on another website, and so I was prepared to cancel our reservation.
+[0.4490966796875] Obviously this hotel very rarely shampoos the carpets.
+[0.12060546875] This hotel has a slow parking garage elevator and forces you to call housekeeping if you want your bedding changed.
+[0.1205291748046875] Housekeeping had a habit of knocking the door to see if all was well - morning, afternoon and early evening!
+
+----- Weakening -----
+
+[-0.9925670623779297] Hotel was extremely clean.
+[-0.9890098571777344] I have to admit that I am usually very worried about hotels and their cleanliness... but this hotel was extremely clean.
+[-0.9752845764160156] It was neat and clean.
+[-0.9509544372558594] The fitness center is very nice and very clean.
+[-0.9057807922363281] I have to mention the housekeeping staff who were very efficient, and cleaned up our room almost as soon as we left it.
+
+**********
+
+[0.0007152557373046875] The carpets were mentioned in the reviews.
+Parent: The cleanliness of the hotel was criticized in the reviews, with mention of the carpets specifically.
+
+----- Supporting -----
+
+[0.0007152557373046875] Hotel was extremely clean.
+[0.0006084442138671875] The fitness center is very nice and very clean.
+[0.00049591064453125] It was neat and clean.
+[-0.0016765594482421875] Obviously this hotel very rarely shampoos the carpets.
+[-0.0022258758544921875] Book-in online was quick and easy, check-in was a breeze and they even gave us a free upgrade to a bedroom suite to celebrate the occassion.
+
+----- Weakening -----
+
+[-0.58868408203125] I was concerned about a recent report of bedbugs at this hotel on another website, and so I was prepared to cancel our reservation.
+[-0.56890869140625] Rochelle on the Concierge desk provided sound advice on transport, tickets and even where to find Ontario's best apple fritters at the St Jacobs farmers market!
+[-0.479827880859375] My biggest negative would be the super thin, over starched towels.
+[-0.369659423828125] Big baskets of apples to welcome you at the front desk when checking in!
+[-0.32470703125] The kids loved the pool and I loved the fitness center with its complimentary headphones, oxygenated water and fresh fruit!
+
+**********
+
+[0.91070556640625] The rooms were not soundproof.
+Parent: It was noted that there was a lack of soundproofing between rooms, which led to guests being able to hear conversations from the next room over.
+
+----- Supporting -----
+
+[0.91070556640625] Because of the adjoining door and no soundproofing between these rooms, I could hear their group conversations as if they were sitting next to me.
+[0.375946044921875] There is no wifi in the rooms, only the lobby.
+[0.180694580078125] I was concerned about a recent report of bedbugs at this hotel on another website, and so I was prepared to cancel our reservation.
+[0.14154052734375] other issues- bathroom really not that nice, concierge horrible at recommending things to do or good resutarants or giving directions.
+[0.13397216796875] The rooms were clean, but when you looked closely, you would feel it needed a deep clean.. Ie around baseboards, walls and ceiling in bath, etc.
+
+----- Weakening -----
+
+[-0.9339981079101562] Rochelle on the Concierge desk provided sound advice on transport, tickets and even where to find Ontario's best apple fritters at the St Jacobs farmers market!
+[-0.91876220703125] The kids loved the pool and I loved the fitness center with its complimentary headphones, oxygenated water and fresh fruit!
+[-0.6396026611328125] Check-in : Everything went accordingly to plan.
+[-0.5860595703125] Excellent steakhouse two blocks away...easy to walk to...called Barberians...very expensive!
+[-0.56427001953125] Check-in smooth.
+
+**********
+
+[0.415771484375] The guests could hear the conversations from the next room over.
+Parent: It was noted that there was a lack of soundproofing between rooms, which led to guests being able to hear conversations from the next room over.
+
+----- Supporting -----
+
+[0.415771484375] Because of the adjoining door and no soundproofing between these rooms, I could hear their group conversations as if they were sitting next to me.
+[-0.006317138671875] The kids loved the pool and I loved the fitness center with its complimentary headphones, oxygenated water and fresh fruit!
+[-0.01061248779296875] The check went smoothly and we got a room on the 5th floor.
+[-0.02046966552734375] Few hours went by, and still no cots, and the four year old was getting tired.
+[-0.021602630615234375] Adequate toiletries were supplied.
+
+----- Weakening -----
+
+[-0.6959991455078125] Big baskets of apples to welcome you at the front desk when checking in!
+[-0.5080642700195312] After checking with the manager, they gave us one night of free parking, so we chose valet.
+[-0.44326019287109375] Check-in : Everything went accordingly to plan.
+[-0.4155731201171875] Check-in was a breeze.
+[-0.4116058349609375] We had forgotten toothpaste, and went down to the front desk to ask if any was available.
+
+**********
+
+[0.3321075439453125] The cleanliness was poor.
+Parent: The reviews said that the cleanliness was poor and that there were problems with the wifi.
+
+----- Supporting -----
+
+[0.3321075439453125] other issues- bathroom really not that nice, concierge horrible at recommending things to do or good resutarants or giving directions.
+[0.2265777587890625] Poor QC here.
+[0.0360260009765625] My biggest negative would be the super thin, over starched towels.
+[0.024890899658203125] I was concerned about a recent report of bedbugs at this hotel on another website, and so I was prepared to cancel our reservation.
+[0.02346038818359375] Obviously this hotel very rarely shampoos the carpets.
+
+----- Weakening -----
+
+[-0.9950666427612305] The fitness center is very nice and very clean.
+[-0.9942078590393066] It was neat and clean.
+[-0.9928188323974609] Hotel was extremely clean.
+[-0.9907560348510742] I have to admit that I am usually very worried about hotels and their cleanliness... but this hotel was extremely clean.
+[-0.9825325012207031] Did not utilize the fitness center or pool, but looked nice and clean.
+
+**********
+
+[0.01629638671875] The wifi was not working properly.
+Parent: The reviews said that the cleanliness was poor and that there were problems with the wifi.
+
+----- Supporting -----
+
+[0.01629638671875] Poor QC here.
+[-0.0013294219970703125] They did resolve this quickly though sending housekeeping....
+[-0.007999420166015625] Housekeeping had a habit of knocking the door to see if all was well - morning, afternoon and early evening!
+[-0.00988006591796875] At one point, we were looking for some info from the concierge, only to find that he had left for the night.
+[-0.01517486572265625] I chose not to pay for a concierge level room since the concierge lounge was closed most of the weekend.
+
+----- Weakening -----
+
+[-0.9387092590332031] Book-in online was quick and easy, check-in was a breeze and they even gave us a free upgrade to a bedroom suite to celebrate the occassion.
+[-0.8804197311401367] As an elite member, I had access to the ground floor concierge lounge and the complementary buffet breakfast each morning.
+[-0.8382072448730469] Check-in smooth.
+[-0.7443504333496094] The kids loved the pool and I loved the fitness center with its complimentary headphones, oxygenated water and fresh fruit!
+[-0.683929443359375] We had the concierge lounge promotion and we enjoyed the free drinks and appetizers.
+
+**********
+
+[0.9482192993164062] The rooms were clean.
+Parent: The rooms were clean, but could have been cleaner.
+
+----- Supporting -----
+
+[0.9482192993164062] The rooms were clean, but when you looked closely, you would feel it needed a deep clean.. Ie around baseboards, walls and ceiling in bath, etc.
+[0.691070556640625] The fitness center is very nice and very clean.
+[0.6593284606933594] I have to mention the housekeeping staff who were very efficient, and cleaned up our room almost as soon as we left it.
+[0.6012420654296875] I have to admit that I am usually very worried about hotels and their cleanliness... but this hotel was extremely clean.
+[0.5583181381225586] Hotel was extremely clean.
+
+----- Weakening -----
+
+[-0.8749465942382812] other issues- bathroom really not that nice, concierge horrible at recommending things to do or good resutarants or giving directions.
+[-0.8501930236816406] I was concerned about a recent report of bedbugs at this hotel on another website, and so I was prepared to cancel our reservation.
+[-0.76348876953125] My biggest negative would be the super thin, over starched towels.
+[-0.677947998046875] I did spot a few dust bunnies.
+[-0.4816436767578125] Poor QC here.
+
+**********
+
+[0.49156951904296875] The rooms were not clean.
+Parent: The rooms were clean, but could have been cleaner.
+
+----- Supporting -----
+
+[0.49156951904296875] other issues- bathroom really not that nice, concierge horrible at recommending things to do or good resutarants or giving directions.
+[0.345733642578125] I was concerned about a recent report of bedbugs at this hotel on another website, and so I was prepared to cancel our reservation.
+[0.247344970703125] Obviously this hotel very rarely shampoos the carpets.
+[0.181640625] This hotel has a slow parking garage elevator and forces you to call housekeeping if you want your bedding changed.
+[0.17522430419921875] Few hours went by, and still no cots, and the four year old was getting tired.
+
+----- Weakening -----
+
+[-0.9826793670654297] The fitness center is very nice and very clean.
+[-0.9790363311767578] Hotel was extremely clean.
+[-0.9712095260620117] It was neat and clean.
+[-0.9670276641845703] I have to admit that I am usually very worried about hotels and their cleanliness... but this hotel was extremely clean.
+[-0.96282958984375] I have to mention the housekeeping staff who were very efficient, and cleaned up our room almost as soon as we left it.
+
+**********
+
+[0.9586677551269531] The towels were thin.
+Parent: The towels were thin and over starched.
+
+----- Supporting -----
+
+[0.9586677551269531] My biggest negative would be the super thin, over starched towels.
+[0.0038928985595703125] other issues- bathroom really not that nice, concierge horrible at recommending things to do or good resutarants or giving directions.
+[-0.00609588623046875] I was concerned about a recent report of bedbugs at this hotel on another website, and so I was prepared to cancel our reservation.
+[-0.0114593505859375] The check went smoothly and we got a room on the 5th floor.
+[-0.0224151611328125] Housekeeping had a habit of knocking the door to see if all was well - morning, afternoon and early evening!
+
+----- Weakening -----
+
+[-0.8847198486328125] Big baskets of apples to welcome you at the front desk when checking in!
+[-0.7032470703125] We had the concierge lounge promotion and we enjoyed the free drinks and appetizers.
+[-0.64971923828125] I actually like the aromatherapy orange ginger body lotion and managed to take a bottle home with me.
+[-0.5952224731445312] The fitness center is very nice and very clean.
+[-0.508575439453125] As an elite member, I had access to the ground floor concierge lounge and the complementary buffet breakfast each morning.
+
+**********
+
+[0.9611701965332031] The towels were too starched.
+Parent: The towels were thin and over starched.
+
+----- Supporting -----
+
+[0.9611701965332031] My biggest negative would be the super thin, over starched towels.
+[-0.0031147003173828125] other issues- bathroom really not that nice, concierge horrible at recommending things to do or good resutarants or giving directions.
+[-0.010351181030273438] I was concerned about a recent report of bedbugs at this hotel on another website, and so I was prepared to cancel our reservation.
+[-0.023586273193359375] This hotel has a slow parking garage elevator and forces you to call housekeeping if you want your bedding changed.
+[-0.024814605712890625] Few hours went by, and still no cots, and the four year old was getting tired.
+
+----- Weakening -----
+
+[-0.9804301261901855] Hotel was extremely clean.
+[-0.9784741401672363] I have to admit that I am usually very worried about hotels and their cleanliness... but this hotel was extremely clean.
+[-0.9773926734924316] The fitness center is very nice and very clean.
+[-0.9744548797607422] It was neat and clean.
+[-0.9641056060791016] We had the concierge lounge promotion and we enjoyed the free drinks and appetizers.
+
+**********
+
+[0.9790992736816406] The hotel is clean.
+Parent: The reviews mentioned that the hotel was generally clean, with a few exceptions such as dust bunnies or a messy breakfast buffet.
+
+----- Supporting -----
+
+[0.9790992736816406] Hotel was extremely clean.
+[0.9678225517272949] I have to admit that I am usually very worried about hotels and their cleanliness... but this hotel was extremely clean.
+[0.2054443359375] The rooms were clean, but when you looked closely, you would feel it needed a deep clean.. Ie around baseboards, walls and ceiling in bath, etc.
+[0.1649646759033203] Did not utilize the fitness center or pool, but looked nice and clean.
+[0.12818145751953125] I have to mention the housekeeping staff who were very efficient, and cleaned up our room almost as soon as we left it.
+
+----- Weakening -----
+
+[-0.9331855773925781] other issues- bathroom really not that nice, concierge horrible at recommending things to do or good resutarants or giving directions.
+[-0.9264507293701172] I was concerned about a recent report of bedbugs at this hotel on another website, and so I was prepared to cancel our reservation.
+[-0.8133163452148438] My biggest negative would be the super thin, over starched towels.
+[-0.4749755859375] The fitness center is very nice and very clean.
+[-0.44878387451171875] I did spot a few dust bunnies.
+
+**********
+
+[0.021270751953125] The hotel is not perfect, there are a few exceptions such as dust bunnies or a messy breakfast buffet.
+Parent: The reviews mentioned that the hotel was generally clean, with a few exceptions such as dust bunnies or a messy breakfast buffet.
+
+----- Supporting -----
+
+[0.021270751953125] We had forgotten toothpaste, and went down to the front desk to ask if any was available.
+[0.02046966552734375] They did resolve this quickly though sending housekeeping....
+[0.018524169921875] I did spot a few dust bunnies.
+[0.012889862060546875] Few hours went by, and still no cots, and the four year old was getting tired.
+[0.010219573974609375] Housekeeping had a habit of knocking the door to see if all was well - morning, afternoon and early evening!
+
+----- Weakening -----
+
+[-0.4529705047607422] It was neat and clean.
+[-0.2841377258300781] Hotel was extremely clean.
+[-0.1733837127685547] I have to admit that I am usually very worried about hotels and their cleanliness... but this hotel was extremely clean.
+[-0.13116455078125] Spoltessly clean.
+[-0.11256599426269531] Check-in : Everything went accordingly to plan.
+
+**********
+
+[0.9916439056396484] The hotel was clean.
+Parent: The hotel was clean and the staff was efficient in keeping the room clean.
+
+----- Supporting -----
+
+[0.9916439056396484] Hotel was extremely clean.
+[0.9866857528686523] I have to admit that I am usually very worried about hotels and their cleanliness... but this hotel was extremely clean.
+[0.409576416015625] The rooms were clean, but when you looked closely, you would feel it needed a deep clean.. Ie around baseboards, walls and ceiling in bath, etc.
+[0.2536754608154297] Did not utilize the fitness center or pool, but looked nice and clean.
+[0.17597198486328125] I have to mention the housekeeping staff who were very efficient, and cleaned up our room almost as soon as we left it.
+
+----- Weakening -----
+
+[-0.9473037719726562] other issues- bathroom really not that nice, concierge horrible at recommending things to do or good resutarants or giving directions.
+[-0.9395542144775391] I was concerned about a recent report of bedbugs at this hotel on another website, and so I was prepared to cancel our reservation.
+[-0.8270950317382812] My biggest negative would be the super thin, over starched towels.
+[-0.5960617065429688] Poor QC here.
+[-0.5074806213378906] I did spot a few dust bunnies.
+
+**********
+
+[0.9672274589538574] The staff was efficient at keeping the room clean.
+Parent: The hotel was clean and the staff was efficient in keeping the room clean.
+
+----- Supporting -----
+
+[0.9672274589538574] I have to mention the housekeeping staff who were very efficient, and cleaned up our room almost as soon as we left it.
+[0.12520217895507812] The hotel was nearly 100% full, but check-in went quickly and we felt like the staff was taking good care of us.
+[0.060997962951660156] I have to admit that I am usually very worried about hotels and their cleanliness... but this hotel was extremely clean.
+[0.032024383544921875] Adequate toiletries were supplied.
+[0.025984764099121094] Hotel was extremely clean.
+
+----- Weakening -----
+
+[-0.9638786315917969] other issues- bathroom really not that nice, concierge horrible at recommending things to do or good resutarants or giving directions.
+[-0.7776126861572266] Poor QC here.
+[-0.5337791442871094] At check-out we mentioned it again, but nothing was done.
+[-0.3924407958984375] Obviously this hotel very rarely shampoos the carpets.
+[-0.2830619812011719] Few hours went by, and still no cots, and the four year old was getting tired.

@@ -1,0 +1,170 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.45412135124206543
+
+**********
+
+[0.6568593978881836] The hotel was clean.
+Parent: Some guests said that the hotel was clean, while others said that it could have been cleaner.
+
+----- Supporting -----
+
+[0.6568593978881836] It was really clean, and the housekeeping lady was very friendly and always asking if I needed any additional toiletries or coffee.
+[0.4621086120605469] The lobby was clean, as was the elevator.
+[0.21822166442871094] Very clean and the beds were VERY comfortable.
+[0.142333984375] We didnâ€™t run into any problems at the hotel, but unfortunately our trip ended on a sour note as my wifeâ€™s wallet was pickpocketed while we were outside the CN Tower.
+[0.12556743621826172] It was clean, and the housekeeper who came the next morning was friendly.
+
+----- Weakening -----
+
+[-0.9907331466674805] The dust built up in the bathroom and on the carpet was substantial, seriously dust bunnies.
+[-0.977142333984375] Each time weâ€™ve stayed I have always had the impression that the place needs a good cleaning.
+[-0.9753284454345703] Sure enough, when we returned to Ottawa, a Google search revealed that they indeed they had bedbug problems years ago!!!
+[-0.9734706878662109] ), and the the bath towels had yellow stains and smelled "funky"!
+[-0.9719047546386719] I did speak to housekeeping and the reception but the somehow they managed not to get the room clean thoroughly.
+
+**********
+
+[0.8476486206054688] The hotel was not clean enough.
+Parent: Some guests said that the hotel was clean, while others said that it could have been cleaner.
+
+----- Supporting -----
+
+[0.8476486206054688] I did speak to housekeeping and the reception but the somehow they managed not to get the room clean thoroughly.
+[0.41522216796875] Each time weâ€™ve stayed I have always had the impression that the place needs a good cleaning.
+[0.14495849609375] The laundry facilitys are in poor quality.
+[0.1408252716064453] Â The carpet wasn't as well vacuumed as one would expect with the corners and edges not done for a while.
+[0.07553863525390625] The carpet could use replacing for staining, but it wasn't dirty, just old.
+
+----- Weakening -----
+
+[-0.9685287475585938] It was really clean, and the housekeeping lady was very friendly and always asking if I needed any additional toiletries or coffee.
+[-0.9422645568847656] Very clean and the beds were VERY comfortable.
+[-0.8849658966064453] It was clean and comfortable.
+[-0.8758563995361328] It was clean, and the housekeeper who came the next morning was friendly.
+[-0.7725505828857422] Also to our delight there was a fitness centre, swimming pool and a sauna.
+
+**********
+
+[0.2978324890136719] There were stains on towels and bedding.
+Parent: There were also some complaints about stains on towels and bedding, as well as a musty smell in the room.
+
+----- Supporting -----
+
+[0.2978324890136719] ), and the the bath towels had yellow stains and smelled "funky"!
+[0.03350067138671875] The maid came in everyday to clean and leave fresh towels.
+[0.007944583892822266] I did speak to housekeeping and the reception but the somehow they managed not to get the room clean thoroughly.
+[0.0073089599609375] Please see bedbugs: [--]
+[0.0072021484375] The dust built up in the bathroom and on the carpet was substantial, seriously dust bunnies.
+
+----- Weakening -----
+
+[-0.8165702819824219] Very clean and the beds were VERY comfortable.
+[-0.7821826934814453] Everything on our bill was as it should be and the checkout went smoothly.
+[-0.7640933990478516] It was really clean, and the housekeeping lady was very friendly and always asking if I needed any additional toiletries or coffee.
+[-0.7247028350830078] It was clean and comfortable.
+[-0.7132186889648438] It was clean, and the housekeeper who came the next morning was friendly.
+
+**********
+
+[-0.0045166015625] The room smelled musty.
+Parent: There were also some complaints about stains on towels and bedding, as well as a musty smell in the room.
+
+----- Supporting -----
+
+[-0.0045166015625] It could have been febreezed, at least.
+[-0.00858306884765625] The laundry facilitys are in poor quality.
+[-0.017486572265625] Sure enough, when we returned to Ottawa, a Google search revealed that they indeed they had bedbug problems years ago!!!
+[-0.02082347869873047] If I looked closely I could see where the wallpaper had been patched in a spot near the bed's headboard.
+[-0.023834228515625] Â The carpet wasn't as well vacuumed as one would expect with the corners and edges not done for a while.
+
+----- Weakening -----
+
+[-0.9936456680297852] The lobby was clean, as was the elevator.
+[-0.9932796955108643] It was clean and comfortable.
+[-0.9916543960571289] It was really clean, and the housekeeping lady was very friendly and always asking if I needed any additional toiletries or coffee.
+[-0.9906573295593262] It was clean, and the housekeeper who came the next morning was friendly.
+[-0.9893012046813965] Very clean and the beds were VERY comfortable.
+
+**********
+
+[0.6568593978881836] The hotel was clean.
+Parent: Some reviewers thought the hotel was clean while others found issues with the cleanliness such as dust and stains.
+
+----- Supporting -----
+
+[0.6568593978881836] It was really clean, and the housekeeping lady was very friendly and always asking if I needed any additional toiletries or coffee.
+[0.4621086120605469] The lobby was clean, as was the elevator.
+[0.21822166442871094] Very clean and the beds were VERY comfortable.
+[0.142333984375] We didnâ€™t run into any problems at the hotel, but unfortunately our trip ended on a sour note as my wifeâ€™s wallet was pickpocketed while we were outside the CN Tower.
+[0.12556743621826172] It was clean, and the housekeeper who came the next morning was friendly.
+
+----- Weakening -----
+
+[-0.9907331466674805] The dust built up in the bathroom and on the carpet was substantial, seriously dust bunnies.
+[-0.977142333984375] Each time weâ€™ve stayed I have always had the impression that the place needs a good cleaning.
+[-0.9753284454345703] Sure enough, when we returned to Ottawa, a Google search revealed that they indeed they had bedbug problems years ago!!!
+[-0.9734706878662109] ), and the the bath towels had yellow stains and smelled "funky"!
+[-0.9719047546386719] I did speak to housekeeping and the reception but the somehow they managed not to get the room clean thoroughly.
+
+**********
+
+[0.7395095825195312] The reviewers found that the hotel was not clean.
+Parent: Some reviewers thought the hotel was clean while others found issues with the cleanliness such as dust and stains.
+
+----- Supporting -----
+
+[0.7395095825195312] I did speak to housekeeping and the reception but the somehow they managed not to get the room clean thoroughly.
+[0.6612625122070312] Each time weâ€™ve stayed I have always had the impression that the place needs a good cleaning.
+[0.10494613647460938] Â The carpet wasn't as well vacuumed as one would expect with the corners and edges not done for a while.
+[0.0676727294921875] Sure enough, when we returned to Ottawa, a Google search revealed that they indeed they had bedbug problems years ago!!!
+[0.0434417724609375] A/C not cooling enough.
+
+----- Weakening -----
+
+[-0.9844369888305664] It was really clean, and the housekeeping lady was very friendly and always asking if I needed any additional toiletries or coffee.
+[-0.9791498184204102] Very clean and the beds were VERY comfortable.
+[-0.9658360481262207] It was clean and comfortable.
+[-0.9504833221435547] It was clean, and the housekeeper who came the next morning was friendly.
+[-0.8825893402099609] The lobby was clean, as was the elevator.
+
+**********
+
+[0.08636093139648438] The hotel was dusty.
+Parent: Some reviewers thought the hotel was clean while others found issues with the cleanliness such as dust and stains.
+
+----- Supporting -----
+
+[0.08636093139648438] The dust built up in the bathroom and on the carpet was substantial, seriously dust bunnies.
+[0.0448150634765625] I did speak to housekeeping and the reception but the somehow they managed not to get the room clean thoroughly.
+[0.021881103515625] Â The carpet wasn't as well vacuumed as one would expect with the corners and edges not done for a while.
+[0.0102691650390625] Each time weâ€™ve stayed I have always had the impression that the place needs a good cleaning.
+[0.00501251220703125] Sure enough, when we returned to Ottawa, a Google search revealed that they indeed they had bedbug problems years ago!!!
+
+----- Weakening -----
+
+[-0.9943952560424805] It was really clean, and the housekeeping lady was very friendly and always asking if I needed any additional toiletries or coffee.
+[-0.9930453300476074] Very clean and the beds were VERY comfortable.
+[-0.9899883270263672] The lobby was clean, as was the elevator.
+[-0.9891791343688965] It was clean and comfortable.
+[-0.9874110221862793] It was clean, and the housekeeper who came the next morning was friendly.
+
+**********
+
+[0.3524169921875] The hotel was dirty.
+Parent: Some reviewers thought the hotel was clean while others found issues with the cleanliness such as dust and stains.
+
+----- Supporting -----
+
+[0.3524169921875] I did speak to housekeeping and the reception but the somehow they managed not to get the room clean thoroughly.
+[0.1013641357421875] Each time weâ€™ve stayed I have always had the impression that the place needs a good cleaning.
+[0.09324455261230469] The dust built up in the bathroom and on the carpet was substantial, seriously dust bunnies.
+[0.07178497314453125] ), and the the bath towels had yellow stains and smelled "funky"!
+[0.06011962890625] Â The carpet wasn't as well vacuumed as one would expect with the corners and edges not done for a while.
+
+----- Weakening -----
+
+[-0.9950523376464844] It was really clean, and the housekeeping lady was very friendly and always asking if I needed any additional toiletries or coffee.
+[-0.994969367980957] Very clean and the beds were VERY comfortable.
+[-0.9932870864868164] It was clean, and the housekeeper who came the next morning was friendly.
+[-0.9930648803710938] It was clean and comfortable.
+[-0.9928417205810547] The lobby was clean, as was the elevator.

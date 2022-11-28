@@ -1,0 +1,149 @@
+***** Aspect: rooms Model Type : zs *****
+Overall score: 0.907395499093192
+
+**********
+
+[0.9859576225280762] The rooms were small.
+Parent: The reviewers found the rooms to be small and outdated, with no carpeting on the floors.
+
+----- Supporting -----
+
+[0.9859576225280762] The rooms are quite small, which was a little tight with two kids and my wife and me.
+[0.9853763580322266] The rooms are incredibly small.
+[0.9830050468444824] The rooms are small and sparsely furnished.
+[0.9817647933959961] The rooms are small but nice, the lobby is modern and inviting and the staff is friendly.
+[0.9791936874389648] * Small rooms * We had a small balcony but had plastic furniture and latice on the floor (not nice) * The dresser, desk and minibar are still the old furniture (too many pieces and old and ugly) It did however have a flat screen tv which should not require a piece a furniture to hold it as it should be wall mounted.
+
+----- Weakening -----
+
+[-0.996769905090332] A beautiful large modern style room with lots of windows.
+[-0.996403694152832] Big rooms with lots of windows.
+[-0.9963903427124023] The rooms are large, each with a small balcony and most have a view of the water.
+[-0.9963440895080566] Our room was clean and large.
+[-0.9951176643371582] The balcony had impressive views and was private, the suite was huge and very comfortable.
+
+**********
+
+[0.8302154541015625] The rooms were outdated.
+Parent: The reviewers found the rooms to be small and outdated, with no carpeting on the floors.
+
+----- Supporting -----
+
+[0.8302154541015625] I think the bathroom was recently reno'd and it was great, but the rest of the room was pretty ho-hum, and even a little run-down/old looking.
+[0.758697509765625] I booked an upgraded King room with a view and ended up beside the elevator in a room that looked pretty dated and uninviting.
+[0.6036529541015625] The room was small and dark and old.
+[0.5225830078125] The rooms are fairly well equipped, and on the surface look good, however the fittings when you look closely at them are not top quality, and will not last.
+[0.37461090087890625] Otherwise, the decor and furnishings are a little tired and dated.
+
+----- Weakening -----
+
+[-0.9960660934448242] The room was very nice, clean and new, a tad on the small side, but fine.
+[-0.9954981803894043] The hotel provides some wonderful views of the harbour and the rooms are modern and clean.
+[-0.9935402870178223] The room itself was clean, the bathroom was very modern, and the views of the water/harbor were very pretty.
+[-0.9904026985168457] A beautiful large modern style room with lots of windows.
+[-0.9896864891052246] The hotel is very modern, with the feel of a boutique 5 star hotel.
+
+**********
+
+[0.9863901138305664] There was no carpeting on the floors.
+Parent: The reviewers found the rooms to be small and outdated, with no carpeting on the floors.
+
+----- Supporting -----
+
+[0.9863901138305664] No carpet on the floor, hardly any outlets and the bathroom was too small.
+[0.4197998046875] The marble tile floors in the rooms make for easy management of the pet-friendly policy, so I don't mark this hotel down for that as some other reviewers have mentioned.
+[0.23187255859375] I checked their website and discovered they allow pets, which explains the tile room in that room.
+[0.1492156982421875] We could hear chairs and people moving around in the adjoining room as if it was in our room mostly because of the echoing from the marble floors.
+[0.1419677734375] * Small rooms * We had a small balcony but had plastic furniture and latice on the floor (not nice) * The dresser, desk and minibar are still the old furniture (too many pieces and old and ugly) It did however have a flat screen tv which should not require a piece a furniture to hold it as it should be wall mounted.
+
+----- Weakening -----
+
+[-0.9898228645324707] * The doors, wallpaper and carpets need to be redone.
+[-0.9778327941894531] The floors throughout are marble with an occasional scatter rug.
+[-0.93951416015625] Kind size bed, tv, marble floors small scatter rug on either side of the bed.
+[-0.9353427886962891] Last time we were in town in April it was full up.
+[-0.8849563598632812] There are a variety of options at a reasonable price.
+
+**********
+
+[0.9779720306396484] The bathrooms were too small.
+Parent: Some also found the bathrooms to be too small.
+
+----- Supporting -----
+
+[0.9779720306396484] No carpet on the floor, hardly any outlets and the bathroom was too small.
+[0.11480712890625] * Small rooms * We had a small balcony but had plastic furniture and latice on the floor (not nice) * The dresser, desk and minibar are still the old furniture (too many pieces and old and ugly) It did however have a flat screen tv which should not require a piece a furniture to hold it as it should be wall mounted.
+[0.0999908447265625] Room was quite small, with very limited closet space, especially for 2 adults and a child.
+[0.032825469970703125] The rooms are incredibly small.
+[0.018224716186523438] The room was so tiny we could hardly fit in it.
+
+----- Weakening -----
+
+[-0.9975700378417969] Best shower ...the bathroom was huge with an amazing huge ceiling shower head.
+[-0.9965903759002686] Big clean remodelled bathroom.
+[-0.9586353302001953] Bathrooms are super-luxorious.
+[-0.955352783203125] The rooms are VERY clean (very), and the bathrooms are quite luxurious.
+[-0.9538631439208984] Our girls loved the decent-sized hot tube with the windowed ceiling that allowed us to watch the starts at night.
+
+**********
+
+[0.8749027252197266] There were not enough outlets.
+Parent: There were also not enough outlets and the desk staff were not very friendly.
+
+----- Supporting -----
+
+[0.8749027252197266] No carpet on the floor, hardly any outlets and the bathroom was too small.
+[0.5155448913574219] Unfortunately they just don't have the level of service that would make them a great hotel.
+[0.40175628662109375] * The restaurant has a very limited and boring menu and the service is terrible.
+[0.3773956298828125] There actually isn't any; the bedside lamp is too dim to read by.
+[0.27089691162109375] The hotel restaurant merits only 3*, with slightly above average food (also expensive) .
+
+----- Weakening -----
+
+[-0.9948058128356934] The mini bar was stocked sufficiently with a wide variety of refreshments and snacks.
+[-0.9902563095092773] There are plenty of paths to jog and walk around the water, and lots of choices for dinner and drinks.
+[-0.9893507957458496] There are several shops and plenty of excellent places to eat FRESH seafood, including the Dockside Restaurant and pub (microbrew).
+[-0.9869027137756348] you could easily spend most of your time there since there are lots of restaurants and a fantastic public market featuring lots of food.
+[-0.9853801727294922] Big rooms with lots of windows.
+
+**********
+
+[0.7208538055419922] The desk staff were not very friendly.
+Parent: There were also not enough outlets and the desk staff were not very friendly.
+
+----- Supporting -----
+
+[0.7208538055419922] The staff just seemed disinterested, especially at the bar and the front desk.
+[0.4204254150390625] The hotel is in a great location but needs some serious updating, sound proofing and desk staff needs an attitude check towards guests.
+[0.04598808288574219] Initially they were less than courteous about it but i said if there is a charge of course i would play however it might be helpful for future guests to be escorted to the bike and given a brief safety instruction prior to giving someone a key.
+[0.037670135498046875] The service in the restaurant was a bit snobbish and I didn't get the condiments I requested the second morning, however this is minor in my opinion.
+[0.035083770751953125] I rented a bike but no one offered to show me how to use the lock.
+
+----- Weakening -----
+
+[-0.9918866157531738] The Staff was very friendly and helpful.
+[-0.9913620948791504] All staff we dealt with - front desk, housekeeping, dining room - were very accommodating and cheerful.
+[-0.9898467063903809] The staff was consistently warm and friendly and above all very servicing.
+[-0.9895086288452148] The staff were all very friendly and helpful.
+[-0.9893941879272461] Staff were very pleasant and helpful.
+
+**********
+
+[0.9754767417907715] The location of the hotel was good.
+Parent: However, the location of the hotel was praised.
+
+----- Supporting -----
+
+[0.9754767417907715] The hotel is well situated.
+[0.9690337181091309] I love the location of this hotel!
+[0.9651927947998047] This is not a five star hotel but you are not paying five star prices and as stated above the location is awesome.
+[0.9651684761047363] I love the setting of this hotel.
+[0.9540290832519531] The hotel itself was average plus, but as I mentioned the location nails it.
+
+----- Weakening -----
+
+[-0.4028167724609375] I booked an upgraded King room with a view and ended up beside the elevator in a room that looked pretty dated and uninviting.
+[-0.399169921875] My only complaint is that our small room was over top of where shipments came in, and so it was often loud with trucks backing up, and people making noise.
+[-0.38128662109375] If you're looking to stay at a big hi-rise in the middle of the hustle and bustle of downtown, then this place is not for you.
+[-0.36785125732421875] I personally do not think the location is particularly good, you do get a nice view across False Creek, but the downside is that access to the city is difficult.
+[-0.2819175720214844] Granville Island itself is very disappointing.

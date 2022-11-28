@@ -1,0 +1,170 @@
+***** Aspect: service Model Type : zs *****
+Overall score: 0.8495963215827942
+
+**********
+
+[0.7476806640625] The rooms were not cleaned.
+Parent: First , there was absolutely no housecleaning / maid service !
+
+----- Supporting -----
+
+[0.7476806640625] We requested to have a maid clean our bathroom and take the trash out, no one ever came!
+[0.7425384521484375] First, there was absolutely no housecleaning/maid service!
+[0.545166015625] This night was a bit of a mess; we would walk out to the hallway and smell weed, hear loud music blasting, etc.
+[0.363983154296875] After 5 PM they still did not have two rooms available and suggested we go to dinner and then they'd be ready, Well, at 7:30, after dinner, they still did not have rooms ready (housekeeping still working on them!!!).
+[0.3568115234375] Pool and hot tub clean, though bizarrly no changing room.
+
+----- Weakening -----
+
+[-0.9943017959594727] Room was very clean and the bed very comfotable.
+[-0.9934787750244141] The rooms were very clean and nice.
+[-0.9933500289916992] The condition of the shared areas and room were very clean and neat.
+[-0.9931430816650391] The service was exceptional and the rooms are very clean and comfortable.
+[-0.9931125640869141] The lobby, pool area, rooms and hallway were all very clean.
+
+**********
+
+[0.9479522705078125] There was no maid service.
+Parent: First , there was absolutely no housecleaning / maid service !
+
+----- Supporting -----
+
+[0.9479522705078125] First, there was absolutely no housecleaning/maid service!
+[0.639617919921875] Pool and hot tub clean, though bizarrly no changing room.
+[0.5892333984375] We requested to have a maid clean our bathroom and take the trash out, no one ever came!
+[0.0914764404296875] Gym is very good, and to my surprise, was empty the couple of times I went about.
+[0.08538818359375] my boyfriend and i both went home sore and dead tired from trying to find a comfortable way to sleep tossing and turning all night but there was none.
+
+----- Weakening -----
+
+[-0.9964690208435059] Housekeeping even stopped by to make sure we had everything we needed shortly after we arrived.
+[-0.995821475982666] Housekeeping changed towels when not needed, and so on and so forth!
+[-0.9943881034851074] If we call for extra towels/sheets/cups, it's all sent up very quickly by housekeeping staff.
+[-0.9942288398742676] We were there for 4 days/3 nights and every day we had to track down a maid to request clean towels.
+[-0.9934291839599609] housekeeping was super here.
+
+**********
+
+[0.9838790893554688] We stayed for 4 days.
+Parent: We were there for 4 days / 3 nights and every day we had to track down a maid to request clean towels .
+
+----- Supporting -----
+
+[0.9838790893554688] We were there for 4 days/3 nights and every day we had to track down a maid to request clean towels.
+[0.73980712890625] Stayed there for 6 nights.
+[0.555877685546875] Stayed here for a week, the hotel is nice, rooms are nicely appointed.
+[0.51239013671875] Had been here for 6 night.
+[0.415283203125] My boyfriend and I stayed here this past weekend january 21-23 and the people were nice not that we were in the hotel to much other than to sleep but the bed was absolutely awful it was like sleeping on a board.
+
+----- Weakening -----
+
+[-0.9985165596008301] We took one of those hop on and off tour bus and there was a stop not that far from the hotel.. We only stayed there for 1 night but we made the most out of it.
+[-0.9980363845825195] I only stayed there for one night but the room was very comfortable and clean.
+[-0.9962143898010254] Stayed here for one night while in Toronto for the Manchester United vs. Celtic match.
+[-0.9951343536376953] Overall we had a fantastic 1 night stay especially since check out time was noon so we could sleep in.
+[-0.9924249649047852] My wife and I stayed at this hotel for one night last July.
+
+**********
+
+[0.9867119789123535] We stayed for three nights.
+Parent: We were there for 4 days / 3 nights and every day we had to track down a maid to request clean towels .
+
+----- Supporting -----
+
+[0.9867119789123535] Stayed here for 3 nights in spring and had a good time despite the bad weather.
+[0.9747471809387207] Stayed 3 nights in early June with spouse.
+[0.966890811920166] Stayed here 3 nights last weekend and I couldn't have asked for anything better.
+[0.9579353332519531] Stayed at the Hilton Garden Inn for 3 nights in June.
+[0.9265213012695312] Stayed here for our last night at end of two weeks in Canada, having stayed at the Marriot Residence Inn in the Entertainment district for the first 3 nights of our holiday, Whilst we got a good value deal there for a one bedroom suite, I have to say I preferred the Hilton.
+
+----- Weakening -----
+
+[-0.9979081153869629] I only stayed there for one night but the room was very comfortable and clean.
+[-0.9977059364318848] We took one of those hop on and off tour bus and there was a stop not that far from the hotel.. We only stayed there for 1 night but we made the most out of it.
+[-0.9961061477661133] Stayed here for one night while in Toronto for the Manchester United vs. Celtic match.
+[-0.9954929351806641] Overall we had a fantastic 1 night stay especially since check out time was noon so we could sleep in.
+[-0.9940366744995117] I went to The Hilton Garden Inn on Peter Street for a one night stay with my BF to celebrate our Anniversary, we opted for the King Room with Jacuzzi and Fireplace.
+
+**********
+
+[0.3644256591796875] The maid service was not very good.
+Parent: We were there for 4 days / 3 nights and every day we had to track down a maid to request clean towels .
+
+----- Supporting -----
+
+[0.3644256591796875] We spoke with the lady at the desk and all she had to say was "we have never had a Sunday like this... We have another valet employee coming in in an hour" Not helpful!
+[0.2089385986328125] Sometimes desk people can have an attitude, but not this woman.
+[0.208099365234375] OK, I love music, but this was no music !
+[0.146270751953125] First, there was absolutely no housecleaning/maid service!
+[0.1212158203125] On checkout, the Sunday-morning clerks could not produce an itemized bill, in my name, showing a zero balance -- which my controller demands for reimbursement.
+
+----- Weakening -----
+
+[-0.9894261360168457] The service is great and you must try a croissant - the best.
+[-0.9890594482421875] housekeeping was super here.
+[-0.9854564666748047] Exceptional service!
+[-0.9836187362670898] The service was quite good.
+[-0.9823846817016602] The rooms are in excellent condition, housekeeping is very good, and the location is very handy to everything downtown.
+
+**********
+
+[0.838531494140625] The maid did not clean our bathroom.
+Parent: We requested to have a maid clean our bathroom and take the trash out , no one ever came !
+
+----- Supporting -----
+
+[0.838531494140625] We requested to have a maid clean our bathroom and take the trash out, no one ever came!
+[0.045074462890625] First, there was absolutely no housecleaning/maid service!
+[0.0] Horrible !
+[0.0] WOW !
+[0.0] Downfall ?
+
+----- Weakening -----
+
+[-0.9368648529052734] Exceptional service!
+[-0.9368629455566406] Well done Hilton!
+[-0.91619873046875] We would highly recommend it to everyone!
+[-0.9106321334838867] housekeeping was super here.
+[-0.8856544494628906] Staff at the complimentary breakfast were also superb,.
+
+**********
+
+[0.9883575439453125] We asked for someone to take the trash out.
+Parent: We requested to have a maid clean our bathroom and take the trash out , no one ever came !
+
+----- Supporting -----
+
+[0.9883575439453125] We requested to have a maid clean our bathroom and take the trash out, no one ever came!
+[0.0933837890625] They let you take some take out back to the room.
+[0.08343505859375] Could you clean a room at 10 so we could have a meeting in it.
+[0.0] Horrible !
+[0.0] WOW !
+
+----- Weakening -----
+
+[-0.9718847274780273] At check in we got to help ourselves to the complimentary cookies which were very delicious.
+[-0.9667701721191406] Another issue I had is that we always ask for a room on an upper floor, this is the only Hilton on our entire trip that did not honor our request.
+[-0.9649629592895508] If we call for extra towels/sheets/cups, it's all sent up very quickly by housekeeping staff.
+[-0.9643764495849609] The bed was so comfortable that we fell right to sleep and never noticed any noise from the club.
+[-0.9629478454589844] We were given a regular room and when we called to ask to have our room replaced with another Jacuzzi room it took 25 minutes for the front desk to call us back.
+
+**********
+
+[0.9392318725585938] No one came.
+Parent: We requested to have a maid clean our bathroom and take the trash out , no one ever came !
+
+----- Supporting -----
+
+[0.9392318725585938] We requested to have a maid clean our bathroom and take the trash out, no one ever came!
+[0.3819580078125] The service manager refused!
+[0.3302001953125] Never heard back.
+[0.29339599609375] Gym is very good, and to my surprise, was empty the couple of times I went about.
+[0.258636474609375] Third, when it was time to check out there was no bell boy to help with our bags.
+
+----- Weakening -----
+
+[-0.9991450309753418] Our room also had 2 queens which was nice since I went with a bunch of dudes.
+[-0.9991347789764404] It was a very noisy Saturday night as there was lots of partying going on in the streets till 3 or 4 in the morning and we could hear it loud and clear.
+[-0.9991121292114258] The front desk made sure I was ok and comfortable and even went out of their way to offer soup, neo citran etc.
+[-0.9987599849700928] and her friend and myself and a friend).
+[-0.998744010925293] Many parties going on in hotel with loud music and screaming.

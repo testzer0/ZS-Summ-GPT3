@@ -1,0 +1,170 @@
+***** Aspect: rooms Model Type : zs *****
+Overall score: 0.7616872191429138
+
+**********
+
+[0.9876890182495117] The rooms were clean.
+Parent: The rooms were clean and comfortable, with stylish furnishings and helpful features like robes and a refrigerator.
+
+----- Supporting -----
+
+[0.9876890182495117] Rooms were very clean and comfortable.
+[0.9846668243408203] The rooms were clean and I forgot an item and was able to get it back from the front desk staff.
+[0.9836878776550293] The rooms are clean and neat, and the staff is friendly.
+[0.980687141418457] Rooms are very clean, and modern and the service was excellent.
+[0.9803586006164551] Highly recommend this hotel rooms, they were nice and clean and very comfortable.
+
+----- Weakening -----
+
+[-0.9974188804626465] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[-0.9962277412414551] Our toliet overflowed at 11pm resulting in a flood in our bathroom.
+[-0.9953584671020508] It was dark, dirty, and noisy from the construction right outside my window.
+[-0.9951581954956055] Stripping the sheets, I found a fairly fresh urine stain that made me want to vomit.
+[-0.9950704574584961] The air conditioning vent had so much filthy residue trapped inside that it could not possibly pass a health audit.
+
+**********
+
+[0.9887199401855469] The rooms were comfortable.
+Parent: The rooms were clean and comfortable, with stylish furnishings and helpful features like robes and a refrigerator.
+
+----- Supporting -----
+
+[0.9887199401855469] The rooms are comfortable.
+[0.9877433776855469] Rooms were very clean and comfortable.
+[0.9790387153625488] Rooms were comfortable as far as size and also very quiet.
+[0.9773898124694824] Highly recommend this hotel rooms, they were nice and clean and very comfortable.
+[0.9621400833129883] The customer service is top notch, the location is perfect, and the rooms are very comfortable.
+
+----- Weakening -----
+
+[-0.9859809875488281] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[-0.9520034790039062] The room is shabby, the shower made a horrible noise whenever the water was running.
+[-0.937957763671875] It was dark, dirty, and noisy from the construction right outside my window.
+[-0.9098472595214844] Stripping the sheets, I found a fairly fresh urine stain that made me want to vomit.
+[-0.8806076049804688] The heater came off and on frequently and it made a jarring clicking noise each time...all night long.
+
+**********
+
+[0.9280519485473633] The rooms were stylishly furnished.
+Parent: The rooms were clean and comfortable, with stylish furnishings and helpful features like robes and a refrigerator.
+
+----- Supporting -----
+
+[0.9280519485473633] The rooms were very well decorated, with a flat screen tv, marble bathroom, great view, etc.
+[0.8889551162719727] The rooms are superb -- spacious, well-appointed, with awesome beds.
+[0.884613037109375] The rooms are stylish and the bathrooms give you privacy if you are staying with someone else ( no peekaboo showers or open tops like some of the boutique hotels are pushing.)
+[0.8357086181640625] The room was pleasantly decorated in warm tones (gold, brown, cream and red), separate shower and bathing tub, & all of the amenities worked (iron, blow dryer, etc).
+[0.8104343414306641] Rooms are roomy, especially by many downtown standards, and come nicely appointed with newly updated furniture and linens.
+
+----- Weakening -----
+
+[-0.9965419769287109] The rooms were pretty large with average furnishings.
+[-0.9963240623474121] The room was plain and average-szed, but clean and comfortable.
+[-0.9953451156616211] The room is shabby, the shower made a horrible noise whenever the water was running.
+[-0.9833340644836426] It was dark, dirty, and noisy from the construction right outside my window.
+[-0.9714641571044922] It was a convenient location, but not a luxurious accomodation.
+
+**********
+
+[0.9742913246154785] The rooms were equipped with helpful features like robes and a refrigerator.
+Parent: The rooms were clean and comfortable, with stylish furnishings and helpful features like robes and a refrigerator.
+
+----- Supporting -----
+
+[0.9742913246154785] The best included the cleanliness, the attention to detail with lighting and electrical outlets, the comfortable furniture, the robes, the great shower, the refrigerator, the windows can open, the wide and well lit hallways (although too warm) and of course an excellent king bed.
+[0.8436431884765625] Nice little bar fridge, very comfy beds with white duvets (I hate hotel bedspreads!).
+[0.3069915771484375] Nice bed and mattress and it had a refridgerator.
+[0.29522705078125] Big screen TV, refrigerator, coffee pot, all added to comfort.
+[0.07916259765625] ), flat screen TV, and mini fridge.
+
+----- Weakening -----
+
+[-0.9760818481445312] The first two days the person cleaning the room was excellent, the weekend shift was okay it was cleaned well but forgot to replace a robe, soap and the extra towels.
+[-0.8590164184570312] Has fitness (I did not use it), free Wi-Fi and a desk where you can print e.g.
+[-0.8399391174316406] The weight machines are so packed together that you can't really move the weights.
+[-0.7640762329101562] One had wobbly paddles and the other one squeaked when you paddle.
+[-0.6966457366943359] We had some issues with hot water and the in-room hairdryer was small and weak (not a big deal, but most hotels now provide the full-size kind).
+
+**********
+
+[0.529388427734375] The rooms were too small.
+Parent: However, some guests found the rooms to be small, and the bathroom particularly cramped.
+
+----- Supporting -----
+
+[0.529388427734375] That could be nice but the new furniture is really over-sized and makes the small rooms even smaller and doesn't allow for a body to move around the room.
+[0.1392974853515625] They did provide us with roll-away beds but then there was no room to move around in the room.
+[0.111083984375] The bathroom is the size of a closet and the hot water took forever to warm up.
+[0.0074558258056640625] This is a small place and they react quickly.
+[0.0040073394775390625] The rooms for the price were not very good.
+
+----- Weakening -----
+
+[-0.9981117248535156] Large room, with amazing king size bed, stunning bathroom, and a view.
+[-0.9975874423980713] Room was pretty big and spacious and the bed was comfortable.
+[-0.9971635341644287] The room was large with a desk area, comfortable chairs and a very comfortable bed.
+[-0.9971427917480469] The rooms are superb -- spacious, well-appointed, with awesome beds.
+[-0.9970531463623047] The rooms are spacious, clean and well maintained.
+
+**********
+
+[0.5296630859375] The bathroom was cramped.
+Parent: However, some guests found the rooms to be small, and the bathroom particularly cramped.
+
+----- Supporting -----
+
+[0.5296630859375] The not so good: The hotel had touted a 2 person tub - and while it was a soaking tub - it wasn't comfortable for two.
+[0.3682861328125] The bathroom is the size of a closet and the hot water took forever to warm up.
+[0.30523681640625] The room is shabby, the shower made a horrible noise whenever the water was running.
+[0.20526123046875] Sink area is a bit tight, but so it goes.
+[0.0019702911376953125] It was a convenient location, but not a luxurious accomodation.
+
+----- Weakening -----
+
+[-0.9964971542358398] The bathroom was roomy and supplied with great amenities.
+[-0.9935259819030762] Beautiful, clean, wonderful bathrooms and polite staff.
+[-0.9875941276550293] The room was huge.
+[-0.986142635345459] Large room, with amazing king size bed, stunning bathroom, and a view.
+[-0.9858827590942383] The room was pleasantly decorated in warm tones (gold, brown, cream and red), separate shower and bathing tub, & all of the amenities worked (iron, blow dryer, etc).
+
+**********
+
+[0.30927276611328125] The hot water was not up to par.
+Parent: There were also some complaints about the hot water taking a long time to heat up.
+
+----- Supporting -----
+
+[0.30927276611328125] We had some issues with hot water and the in-room hairdryer was small and weak (not a big deal, but most hotels now provide the full-size kind).
+[0.28940582275390625] The not so good: The hotel had touted a 2 person tub - and while it was a soaking tub - it wasn't comfortable for two.
+[0.1043701171875] The hotel restaurant was no great shakes but it is walking distance to some great eateries.
+[0.0932769775390625] It had obviously been sitting somewhere since it was barely warm.
+[0.0751495361328125] The room is shabby, the shower made a horrible noise whenever the water was running.
+
+----- Weakening -----
+
+[-0.9695930480957031] It was that comfortable and amazing.
+[-0.9359130859375] What a wonderful surprise.
+[-0.9273767471313477] It was fantastic and has great deals and specials.
+[-0.9196033477783203] I was so impressed with the Paramount.
+[-0.91864013671875] The bathroom was amazing.
+
+**********
+
+[0.8464212417602539] The hot water took too long to heat up.
+Parent: There were also some complaints about the hot water taking a long time to heat up.
+
+----- Supporting -----
+
+[0.8464212417602539] The bathroom is the size of a closet and the hot water took forever to warm up.
+[0.0023040771484375] It would be nice to have an in-room microwave.
+[0.0015459060668945312] We had some issues with hot water and the in-room hairdryer was small and weak (not a big deal, but most hotels now provide the full-size kind).
+[0.000263214111328125] Never got milk and felt it would be a waste of time to try getting anything corrected.
+[0.0] :)
+
+----- Weakening -----
+
+[-0.9163475036621094] We were also provided with free Wifi, which was great!
+[-0.8830289840698242] We asked for more towels and they arrived within minutes.
+[-0.8776979446411133] The front desk was quick and helpful.
+[-0.8623256683349609] The bed was extremely comfortable and the air-conditioning worked great.
+[-0.8525295257568359] Free wi-fi.

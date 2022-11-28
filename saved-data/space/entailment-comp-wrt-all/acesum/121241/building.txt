@@ -1,0 +1,23 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.9920454025268555
+
+**********
+
+[0.9920454025268555] The pool area was clean.
+Parent: The pool area was clean.
+
+----- Supporting -----
+
+[0.9920454025268555] The pool area was clean and comfortable with a nice hot tub as well.
+[0.9905095100402832] Swimming area was clean and fun and everything you want to see is near this hotel.
+[0.9898068904876709] The pools were very clean and the breakfast was great.
+[0.9861292839050293] The staff was very friendly and the pool area was always clean.
+[0.9746980667114258] Pools were clean but old looking.
+
+----- Weakening -----
+
+[-0.9945812225341797] There were dead bugs floating in the water, a hole in the wall under the window, a piece of wood holding a slide glass door open, chains on other doors that said "this entrance is in need of repairs, sorry for any inconvenience" or something to that affect.
+[-0.9907779693603516] The pool area was in terrible shape.
+[-0.9890785217285156] The first time the hot tub was a little dirty and the breakfast not so great.
+[-0.9853811264038086] I used the iron and when I pressed the steam button rusty water sprayed all over the shirt I was ironing.
+[-0.9850292205810547] The water was shut off for about four hours and that messed up the pools chorine and they were shut down for one night.

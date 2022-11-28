@@ -1,0 +1,464 @@
+***** Aspect: service Model Type : zs *****
+Overall score: 0.7850929932160811
+
+**********
+
+[0.9287958145141602] The service at this hotel is poor.
+Parent: The service at this hotel is consistently poor, with long wait times, inexperienced staff, and little attention to detail.
+
+----- Supporting -----
+
+[0.9287958145141602] Maybe I'm just spoiled, but I travel frequently and I have never recieved such poor service from an "upscale" hotel.
+[0.8885269165039062] Absolutely ridiculous service for any hotel let alone one u pay $300+ a night for.
+[0.8792934417724609] ok Saturday we ate at Charlie Palmers resturant in hotel food was good but service was so bad I could get better service at MC Donalds than this supper bad.
+[0.6685752868652344] The pool was nice as was the fitness center but with tiny cramped rooms, lack of customer service (I tried calling the desk 3 times and never go through) and the loading dock at the front of the building, I wouldn't recommend it.
+[0.6605949401855469] to get ONE sandwhich I had to call and ck on it and there are slow and the service is so bad and the managers know which makes it WORSE...
+
+----- Weakening -----
+
+[-0.9981296062469482] The staff is excellent and did everything possible to ensure we had a wonderful stay.
+[-0.9979424476623535] The room service was wonderful - the food was great, and the service was, again, exceptional.
+[-0.9979128837585449] The customer service was excellent and Ms. Chasity Gray was outstanding, as she went the extra mile to make sure our stay was a memorable one!!!
+[-0.9978189468383789] The decor, overall atmosphere, and excellent service in this hotel exceeds expectation.
+[-0.9978103637695312] From the minute I pulled into the hotel, it was nothing but first class service and a professional knowledgable staff.
+
+**********
+
+[0.589508056640625] The service at this hotel has long wait times.
+Parent: The service at this hotel is consistently poor, with long wait times, inexperienced staff, and little attention to detail.
+
+----- Supporting -----
+
+[0.589508056640625] After such a long and sweltering wait, the b-day girl's guests began to just leave out of frustration.
+[0.224517822265625] My patience was def tested at this hotel at the incompetence incurred.
+[0.196319580078125] That evening we went down to the club PM which is in hotel very unfriendly and it took us for ever to get in and if your staying at hotel it is suppose to not be a problem to get in YEAH RIGHT!!!!
+[0.19338226318359375] The birthday girl waited for another 45 mins to speak to the hotel manager about the situation, but he was preoccupied trying to iron out a situation for some honeymooners who had made reservations that the hotel couldn't locate.
+[0.164031982421875] They had free bottle of wine and chocolates in our room for our anniversary which was nice but I had to ask 3 times for ice bucket (it is small hotel so there are no ice machines on the floors).
+
+----- Weakening -----
+
+[-0.9872865676879883] Even with it being first come, first serve, the service only had about a 10 minute wait on a Saturday night.
+[-0.9706869125366211] We received prompt and courteous service at check-in, and arrived to find an extremely nice well appointed room.
+[-0.9676356315612793] The Incredible Customer Service starts when you arrive at the door.
+[-0.9539589881896973] We walked to the front desk and were promptly greeted by name, wished a happy anniversary complete with a champagne toast and our room keys.
+[-0.9497575759887695] These folks go out of their way to make your stay enjoyable and hassle free.
+
+**********
+
+[0.06562137603759766] The service at this hotel is poor because the staff is inexperienced.
+Parent: The service at this hotel is consistently poor, with long wait times, inexperienced staff, and little attention to detail.
+
+----- Supporting -----
+
+[0.06562137603759766] The staff are all young and good looking with little knowledge of service expectations.
+[0.03708648681640625] Well it started off BAD within 10 mins we had went to the pool where we find about 5 young ladies workin and just stood there looking like we where not even there, so I was like excuse me can I get a drink.
+[0.009883880615234375] It was insulting that the doorman/management were so disrespectful and unwilling to take care of their guest.
+[0.0026988983154296875] to get ONE sandwhich I had to call and ck on it and there are slow and the service is so bad and the managers know which makes it WORSE...
+[0.00200653076171875] Also the maids probably need to consider dusting in the bathroom lights becuase they were covered in dust!
+
+----- Weakening -----
+
+[-0.9982994794845581] The staff is fantastic - Neil and Myron at the Front Desk always make me feel Welcome and Gus at the Valet provides a level of service rarely seen at any hotel.
+[-0.9982788562774658] From the minute I pulled into the hotel, it was nothing but first class service and a professional knowledgable staff.
+[-0.9973540306091309] The staff is excellent and did everything possible to ensure we had a wonderful stay.
+[-0.9973396062850952] The staff is great and the hotel has a great Charlie Trotter restaurant.
+[-0.9968698024749756] The staff is truly extraordinary and made me feel at home.
+
+**********
+
+[0.7791519165039062] The service at this hotel is not attentive.
+Parent: The service at this hotel is consistently poor, with long wait times, inexperienced staff, and little attention to detail.
+
+----- Supporting -----
+
+[0.7791519165039062] The pool was nice as was the fitness center but with tiny cramped rooms, lack of customer service (I tried calling the desk 3 times and never go through) and the loading dock at the front of the building, I wouldn't recommend it.
+[0.7355537414550781] Maybe I'm just spoiled, but I travel frequently and I have never recieved such poor service from an "upscale" hotel.
+[0.65625] Absolutely ridiculous service for any hotel let alone one u pay $300+ a night for.
+[0.5708465576171875] ok Saturday we ate at Charlie Palmers resturant in hotel food was good but service was so bad I could get better service at MC Donalds than this supper bad.
+[0.5682601928710938] to get ONE sandwhich I had to call and ck on it and there are slow and the service is so bad and the managers know which makes it WORSE...
+
+----- Weakening -----
+
+[-0.9961209297180176] From the moment we arrived at the hotel, valet and front desk staff greeted us attentively.
+[-0.9960775375366211] The attention we received the entire time we were at the hotel was excpetional and I would recommend this hotel to anyone that wants personal attention.
+[-0.9946079254150391] The accomodations were wonderful, the canti-levered pool was gorgeous and the lobby ultra chiq...but the best attribute by far was the care and attention to detail given by Henry and the valet staff!
+[-0.994382381439209] From the moment we pulled up and until we left we felt very welcomed and enjoyed all the hotel has to offer.
+[-0.9940729141235352] The hotel was beautiful; the staff was very accommodating; and it was very easy working with a large group.
+
+**********
+
+[0.5326652526855469] The hotel is not responsive to guests' complaints.
+Parent: Additionally, the hotel has been unresponsive to guests' complaints.
+
+----- Supporting -----
+
+[0.5326652526855469] It was insulting that the doorman/management were so disrespectful and unwilling to take care of their guest.
+[0.41811370849609375] The pool was nice as was the fitness center but with tiny cramped rooms, lack of customer service (I tried calling the desk 3 times and never go through) and the loading dock at the front of the building, I wouldn't recommend it.
+[0.3303680419921875] My friend finally asked why we were waiting while everyone else was allowed in and the man very rudely announced that those folks were hotel guests.
+[0.2142486572265625] That evening we went down to the club PM which is in hotel very unfriendly and it took us for ever to get in and if your staying at hotel it is suppose to not be a problem to get in YEAH RIGHT!!!!
+[0.14987945556640625] Furthermore, room service was closed at 10 pm, front desk was unhelpful (in ordering a pizza nonetheless) and Charlie Palmer was a waste of time and energy (great staff, HORRIBLE management.)
+
+----- Weakening -----
+
+[-0.9962067604064941] Not only did the hotel help me find a local doctor, but the manager on duty checked on me and sent chicken soup to the room to help me feel better.
+[-0.9961693286895752] Our contact, Jessica Craycraft, is very professional and is always eager to assist with our requests.
+[-0.9942357540130615] The manager, Levi and Myron at the front desk went out of their way to help us with needs during our stay.
+[-0.993161678314209] I truly appreciated how thorough they were in handling my requests and following up with me to ensure that I knew everything was taken care of.
+[-0.9926877021789551] We stayed in one of the lofts and initially had some temperature issues but they were addressed quickly.
+
+**********
+
+[0.9564151763916016] The service was terrible.
+Parent: The reviews said that the service was terrible and that the staff was unhelpful and rude.
+
+----- Supporting -----
+
+[0.9564151763916016] Cons: Service is terrible!!
+[0.9252052307128906] ok Saturday we ate at Charlie Palmers resturant in hotel food was good but service was so bad I could get better service at MC Donalds than this supper bad.
+[0.9249763488769531] to get ONE sandwhich I had to call and ck on it and there are slow and the service is so bad and the managers know which makes it WORSE...
+[0.8466262817382812] After my first drink we had to flag down a girl to ask for another as the pool area was not busy maybe 6 other people so ni reason for service to be that bad.
+[0.7644004821777344] Maybe I'm just spoiled, but I travel frequently and I have never recieved such poor service from an "upscale" hotel.
+
+----- Weakening -----
+
+[-0.9986248016357422] We experienced true Southern hospitality from Todd and the rest of the incredible staff our entire trip.
+[-0.9986152648925781] We were very impressed with the service and attention to detail.
+[-0.9985599517822266] I'm so grateful for they're amazing service!!!
+[-0.9985599517822266] The staff was excellent and even helped us get on the VIP list at a club.
+[-0.9985136985778809] The turn down service was another amazing experience.
+
+**********
+
+[0.9398231506347656] The staff was unhelpful and rude.
+Parent: The reviews said that the service was terrible and that the staff was unhelpful and rude.
+
+----- Supporting -----
+
+[0.9398231506347656] It was insulting that the doorman/management were so disrespectful and unwilling to take care of their guest.
+[0.18304443359375] We were barked at by the manager twice for bringing in outside food eve though we were buying their pricey drinks and paying for rooms there.
+[0.1502685546875] The bartenders were atttentive.
+[0.1413421630859375] My friend finally asked why we were waiting while everyone else was allowed in and the man very rudely announced that those folks were hotel guests.
+[0.1126251220703125] Her tone was condescending which I was off set by, not something I was expecting or enjoyed all that much.
+
+----- Weakening -----
+
+[-0.9987213611602783] The staff is fantastic - Neil and Myron at the Front Desk always make me feel Welcome and Gus at the Valet provides a level of service rarely seen at any hotel.
+[-0.998713493347168] The staff was excellent and even helped us get on the VIP list at a club.
+[-0.998711109161377] The customer service was excellent and Ms. Chasity Gray was outstanding, as she went the extra mile to make sure our stay was a memorable one!!!
+[-0.9986922740936279] The concierge was very helpful with organizing assistance and cars etc, by email before we arrived.
+[-0.9986858367919922] We arrived there and were greeted out front by a wonderful staff that helped to unload and park the car.
+
+**********
+
+[0.9866223335266113] The restaurant service was great.
+Parent: They also said that the restaurant service was wonderful.
+
+----- Supporting -----
+
+[0.9866223335266113] The service I recieved at the restaurant was also wonderful.
+[0.9429378509521484] We ate at the restaurant before we were going to go out and the food was amazing and the service was second to none.
+[0.9324493408203125] The room service was wonderful - the food was great, and the service was, again, exceptional.
+[0.8915805816650391] I had dinner at the restaurant that night and it was amazing from the service, ambiance and quality of the food.
+[0.887176513671875] Service was wonderful and the grilled cheese is to die for in room service.
+
+----- Weakening -----
+
+[-0.9971952438354492] ok Saturday we ate at Charlie Palmers resturant in hotel food was good but service was so bad I could get better service at MC Donalds than this supper bad.
+[-0.996523380279541] Cons: Service is terrible!!
+[-0.993018627166748] to get ONE sandwhich I had to call and ck on it and there are slow and the service is so bad and the managers know which makes it WORSE...
+[-0.9637746810913086] This extends to the restaurants as well Bad: â€¢ No parking within the hotel itself so if you do not wish to pay for valet parking you have to drive around to a nearby parking building â€¢ No upgrades for SPG Platinum members â€“ although since I was travelling for business, I didnâ€™t particularly care.
+[-0.9605140686035156] Furthermore, room service was closed at 10 pm, front desk was unhelpful (in ordering a pizza nonetheless) and Charlie Palmer was a waste of time and energy (great staff, HORRIBLE management.)
+
+**********
+
+[0.9487247467041016] The service at the hotel is not good.
+Parent: The service at the hotel is either hit or miss, with some staff being friendly and helpful while others are snooty and unprofessional.
+
+----- Supporting -----
+
+[0.9487247467041016] ok Saturday we ate at Charlie Palmers resturant in hotel food was good but service was so bad I could get better service at MC Donalds than this supper bad.
+[0.9424362182617188] Absolutely ridiculous service for any hotel let alone one u pay $300+ a night for.
+[0.9366579055786133] Maybe I'm just spoiled, but I travel frequently and I have never recieved such poor service from an "upscale" hotel.
+[0.7266311645507812] The pool was nice as was the fitness center but with tiny cramped rooms, lack of customer service (I tried calling the desk 3 times and never go through) and the loading dock at the front of the building, I wouldn't recommend it.
+[0.6675376892089844] to get ONE sandwhich I had to call and ck on it and there are slow and the service is so bad and the managers know which makes it WORSE...
+
+----- Weakening -----
+
+[-0.9951744079589844] The staff is fantastic - Neil and Myron at the Front Desk always make me feel Welcome and Gus at the Valet provides a level of service rarely seen at any hotel.
+[-0.9948577880859375] hotel service was wonderful.
+[-0.9946451187133789] From the minute I pulled into the hotel, it was nothing but first class service and a professional knowledgable staff.
+[-0.9944372177124023] The service at the Joule is great--everyone is also willing to help out and is very welcoming.
+[-0.9944219589233398] The room service was wonderful - the food was great, and the service was, again, exceptional.
+
+**********
+
+[0.9470129013061523] The service at the hotel is poor.
+Parent: The service at the hotel is either hit or miss, with some staff being friendly and helpful while others are snooty and unprofessional.
+
+----- Supporting -----
+
+[0.9470129013061523] Maybe I'm just spoiled, but I travel frequently and I have never recieved such poor service from an "upscale" hotel.
+[0.9426822662353516] ok Saturday we ate at Charlie Palmers resturant in hotel food was good but service was so bad I could get better service at MC Donalds than this supper bad.
+[0.9065628051757812] Absolutely ridiculous service for any hotel let alone one u pay $300+ a night for.
+[0.6161403656005859] The pool was nice as was the fitness center but with tiny cramped rooms, lack of customer service (I tried calling the desk 3 times and never go through) and the loading dock at the front of the building, I wouldn't recommend it.
+[0.6052169799804688] to get ONE sandwhich I had to call and ck on it and there are slow and the service is so bad and the managers know which makes it WORSE...
+
+----- Weakening -----
+
+[-0.9979157447814941] The room service was wonderful - the food was great, and the service was, again, exceptional.
+[-0.9977965354919434] The decor, overall atmosphere, and excellent service in this hotel exceeds expectation.
+[-0.9977269172668457] The staff is fantastic - Neil and Myron at the Front Desk always make me feel Welcome and Gus at the Valet provides a level of service rarely seen at any hotel.
+[-0.9976253509521484] The staff is excellent and did everything possible to ensure we had a wonderful stay.
+[-0.9975626468658447] Bryson also has great customer service and I enjoyed visiting with Bryson on the front sidewalk several times.
+
+**********
+
+[0.974543571472168] The staff at the hotel are friendly.
+Parent: The service at the hotel is either hit or miss, with some staff being friendly and helpful while others are snooty and unprofessional.
+
+----- Supporting -----
+
+[0.974543571472168] The staff was friendly from the time I made arrangements over the phone w/ the concierge (prior to our arrival) through the time we left the hotel.
+[0.9708037376403809] The hotel room was pristine and beautiful, and the staff was extremely friendly and polite (not at all condescending which can sometimes occur in a high-end hotel like this).
+[0.9249186515808105] The service at the Joule is great--everyone is also willing to help out and is very welcoming.
+[0.9122867584228516] The hotel was beautiful; the staff was very accommodating; and it was very easy working with a large group.
+[0.8098526000976562] The staff is fantastic - Neil and Myron at the Front Desk always make me feel Welcome and Gus at the Valet provides a level of service rarely seen at any hotel.
+
+----- Weakening -----
+
+[-0.9908294677734375] It was insulting that the doorman/management were so disrespectful and unwilling to take care of their guest.
+[-0.9507293701171875] That evening we went down to the club PM which is in hotel very unfriendly and it took us for ever to get in and if your staying at hotel it is suppose to not be a problem to get in YEAH RIGHT!!!!
+[-0.9389114379882812] My friend finally asked why we were waiting while everyone else was allowed in and the man very rudely announced that those folks were hotel guests.
+[-0.9365196228027344] We were barked at by the manager twice for bringing in outside food eve though we were buying their pricey drinks and paying for rooms there.
+[-0.9051704406738281] My patience was def tested at this hotel at the incompetence incurred.
+
+**********
+
+[0.9744186401367188] The staff at the hotel are helpful.
+Parent: The service at the hotel is either hit or miss, with some staff being friendly and helpful while others are snooty and unprofessional.
+
+----- Supporting -----
+
+[0.9744186401367188] The hotel was beautiful; the staff was very accommodating; and it was very easy working with a large group.
+[0.9553484916687012] The service at the Joule is great--everyone is also willing to help out and is very welcoming.
+[0.9285888671875] The staff is fantastic - Neil and Myron at the Front Desk always make me feel Welcome and Gus at the Valet provides a level of service rarely seen at any hotel.
+[0.8817386627197266] The staff at the hotel and the parking company (ACE parking) are working hard to rectify the situation, but at $27/night for parking one would hope that her car was more secure than it apparently was.
+[0.7787809371948242] The beds were comfortable, the staff was friendly and helpful, the rooms were pleasant and quiet even though it was crowded for the UT/OU game.
+
+----- Weakening -----
+
+[-0.9903726577758789] It was insulting that the doorman/management were so disrespectful and unwilling to take care of their guest.
+[-0.9780611991882324] Once I was at the desk, I still was not offered any help with getting all my luggage to my room.
+[-0.9691505432128906] The pool was nice as was the fitness center but with tiny cramped rooms, lack of customer service (I tried calling the desk 3 times and never go through) and the loading dock at the front of the building, I wouldn't recommend it.
+[-0.9474563598632812] Maybe I'm just spoiled, but I travel frequently and I have never recieved such poor service from an "upscale" hotel.
+[-0.9397239685058594] My patience was def tested at this hotel at the incompetence incurred.
+
+**********
+
+[0.3216133117675781] Some staff members at the hotel are snooty.
+Parent: The service at the hotel is either hit or miss, with some staff being friendly and helpful while others are snooty and unprofessional.
+
+----- Supporting -----
+
+[0.3216133117675781] It was insulting that the doorman/management were so disrespectful and unwilling to take care of their guest.
+[0.2850494384765625] The bartenders were atttentive.
+[0.20362091064453125] We were barked at by the manager twice for bringing in outside food eve though we were buying their pricey drinks and paying for rooms there.
+[0.16415023803710938] My friend finally asked why we were waiting while everyone else was allowed in and the man very rudely announced that those folks were hotel guests.
+[0.160552978515625] Some of the younger front desk staff tend to be a little snooty.
+
+----- Weakening -----
+
+[-0.3630180358886719] The staff was very courteous and helpful.
+[-0.3083972930908203] The staff was very friendly and helpful.
+[-0.287139892578125] We had an amazing time celebrating our daughter's 13TH birthday at the Joule in Dallas....from the time we were greeted until the time we checked out, we were made to feel special and welcomed.
+[-0.2798728942871094] The staff for the cars, porters and in the pool bar were all friendly and helpful.
+[-0.2766590118408203] The staff is extremely friendly and helpful.
+
+**********
+
+[0.5430221557617188] Some staff at the hotel are not professional.
+Parent: The service at the hotel is either hit or miss, with some staff being friendly and helpful while others are snooty and unprofessional.
+
+----- Supporting -----
+
+[0.5430221557617188] It was insulting that the doorman/management were so disrespectful and unwilling to take care of their guest.
+[0.40985107421875] Furthermore, room service was closed at 10 pm, front desk was unhelpful (in ordering a pizza nonetheless) and Charlie Palmer was a waste of time and energy (great staff, HORRIBLE management.)
+[0.33538818359375] My patience was def tested at this hotel at the incompetence incurred.
+[0.31990814208984375] to get ONE sandwhich I had to call and ck on it and there are slow and the service is so bad and the managers know which makes it WORSE...
+[0.31295204162597656] The bartenders were atttentive.
+
+----- Weakening -----
+
+[-0.7093505859375] Staff is incredible.
+[-0.5269241333007812] We were very impressed with the service and attention to detail.
+[-0.5202407836914062] The staff is truly extraordinary and made me feel at home.
+[-0.51422119140625] I stayed with you all in May of this year and I must say you have some of the best staff ever...
+[-0.4901123046875] The staff is excellent and did everything possible to ensure we had a wonderful stay.
+
+**********
+
+[0.9540042877197266] There were billing errors.
+Parent: There have been reports of billing errors and poor management decisions.
+
+----- Supporting -----
+
+[0.9540042877197266] It was really disappointing to have not just one error but two errors on my bill.
+[0.7374191284179688] Then upon check out our bill was suppose to be for $320 but they charged $388, they claimed it was a hold authorization...I've never had a hotel do that upon checkout.
+[0.7323036193847656] When I checked out they double billed for the room (once in my name and once in my wife's) and the guy at desk said they had had problems with that happening.
+[0.42230224609375] Firstly our room smelt of smoke so they had to come spray the room, then there wasnt a hairdryer so they came and provided that, then the tv didn't work so they they had to come fix that, then we paid for valet at $27 for our car to be returned with bird droppings all over it.
+[0.39914703369140625] They finally corrected that charge, but now 2 days later they have charged a separate additional charge of $121!
+
+----- Weakening -----
+
+[-0.6292018890380859] Every detail was managed perfectly.
+[-0.5980224609375] There was a nice collection of magazines in a rack next to the toilet bowl!
+[-0.5960235595703125] We stayed in one of the lofts and initially had some temperature issues but they were addressed quickly.
+[-0.52301025390625] Everything from room service from the top Charlie Palmer restaurant in the hotel 24/7, plus the stunning gorgeous pool, amazing rooms, etc, etc.
+[-0.4949188232421875] My only complaint about our room was that one side faced east and the bathroom window was not adequately covered so the morning sun lit up the whole room.
+
+**********
+
+[0.7052421569824219] The management decisions were poor.
+Parent: There have been reports of billing errors and poor management decisions.
+
+----- Supporting -----
+
+[0.7052421569824219] Furthermore, room service was closed at 10 pm, front desk was unhelpful (in ordering a pizza nonetheless) and Charlie Palmer was a waste of time and energy (great staff, HORRIBLE management.)
+[0.14447784423828125] I find that very unproffessional as a manager not to be stocked or offer to go get what the customer is requesting.
+[0.10986042022705078] I was so livid with how it was being handled that I was ready to completely lose it.
+[0.10968399047851562] It was insulting that the doorman/management were so disrespectful and unwilling to take care of their guest.
+[0.0613250732421875] to get ONE sandwhich I had to call and ck on it and there are slow and the service is so bad and the managers know which makes it WORSE...
+
+----- Weakening -----
+
+[-0.9965243339538574] Every detail was managed perfectly.
+[-0.9942710399627686] We were very impressed with the service and attention to detail.
+[-0.9941470623016357] The staff in charge of the party was also great.
+[-0.9936952590942383] I truly appreciated how thorough they were in handling my requests and following up with me to ensure that I knew everything was taken care of.
+[-0.9931879043579102] Each members flawless execution in hospitality was truly extraordinary and we look forward to coming back soon.
+
+**********
+
+[0.7165737152099609] Overall, the location is good.
+Parent: Overall, the location and some of the staff are praised by reviewers.
+
+----- Supporting -----
+
+[0.7165737152099609] From it's convenient location to the Dallas business hub for guests, to the captivating style of the hotel, to the impeccable service, this was the perfect place for my event.
+[0.6425151824951172] Location is good, there are lots of restaurant options nearby.
+[0.5458526611328125] The decor is artsy and modern, great location, in a historic building.
+[0.4701271057128906] There are a lot of pluses - the feel, the location, the pool, Charlie Palmer, the service, the workout facilities.
+[0.4436664581298828] Good location and very helpful staff.
+
+----- Weakening -----
+
+[-0.3634300231933594] I would never recommend this hotel or their club PM Lounge.
+[-0.3283042907714844] Maybe I just had a bad experience but I was throughly disappointed in this hotel.
+[-0.2906646728515625] Location wasn't the best and looked a little scary out on the street at times, but no issues while out walking before dark.
+[-0.2629890441894531] It needs to be removed ASAP.
+[-0.2350616455078125] All in all, this hotel was nothing special with a high price tag.
+
+**********
+
+[0.869476318359375] Some of the staff are praised by reviewers.
+Parent: Overall, the location and some of the staff are praised by reviewers.
+
+----- Supporting -----
+
+[0.869476318359375] The staff is fantastic - Neil and Myron at the Front Desk always make me feel Welcome and Gus at the Valet provides a level of service rarely seen at any hotel.
+[0.7582969665527344] After reading all of the brilliant reviews on The Joule, I selected it for my wedding night.
+[0.7228164672851562] The customer service was excellent and Ms. Chasity Gray was outstanding, as she went the extra mile to make sure our stay was a memorable one!!!
+[0.6832904815673828] Nicole, Nikki,maverick, Todd, and Andrew made our stay memorable!
+[0.6718673706054688] The accomodations were wonderful, the canti-levered pool was gorgeous and the lobby ultra chiq...but the best attribute by far was the care and attention to detail given by Henry and the valet staff!
+
+----- Weakening -----
+
+[-0.5675430297851562] I have read some of the reviews that spoke of bad service.
+[-0.204681396484375] It was insulting that the doorman/management were so disrespectful and unwilling to take care of their guest.
+[-0.20360565185546875] It needs to be removed ASAP.
+[-0.118896484375] I was so livid with how it was being handled that I was ready to completely lose it.
+[-0.115234375] No refund on items we complained about.
+
+**********
+
+[0.984412431716919] The service at the hotel is wonderful.
+Parent: The service at the hotel is wonderful, with the staff being friendly and helpful.
+
+----- Supporting -----
+
+[0.984412431716919] hotel service was wonderful.
+[0.9751253128051758] The service at the Joule is great--everyone is also willing to help out and is very welcoming.
+[0.9607124328613281] The decor, overall atmosphere, and excellent service in this hotel exceeds expectation.
+[0.9475555419921875] Not only was the hotel incredible with an amazing room, but the service and amenities are top notch.
+[0.9340219497680664] The staff is fantastic - Neil and Myron at the Front Desk always make me feel Welcome and Gus at the Valet provides a level of service rarely seen at any hotel.
+
+----- Weakening -----
+
+[-0.9979586601257324] The pool was nice as was the fitness center but with tiny cramped rooms, lack of customer service (I tried calling the desk 3 times and never go through) and the loading dock at the front of the building, I wouldn't recommend it.
+[-0.9978108406066895] ok Saturday we ate at Charlie Palmers resturant in hotel food was good but service was so bad I could get better service at MC Donalds than this supper bad.
+[-0.9970722198486328] Maybe I'm just spoiled, but I travel frequently and I have never recieved such poor service from an "upscale" hotel.
+[-0.9955263137817383] It was insulting that the doorman/management were so disrespectful and unwilling to take care of their guest.
+[-0.9922733306884766] Absolutely ridiculous service for any hotel let alone one u pay $300+ a night for.
+
+**********
+
+[0.9905343055725098] The staff is friendly.
+Parent: The service at the hotel is wonderful, with the staff being friendly and helpful.
+
+----- Supporting -----
+
+[0.9905343055725098] The staff is extremely friendly and helpful.
+[0.9820313453674316] The staff was very friendly and helpful.
+[0.9802713394165039] The staff was friendly and informative.
+[0.9694399833679199] The staff was friendly from the time I made arrangements over the phone w/ the concierge (prior to our arrival) through the time we left the hotel.
+[0.9659152030944824] The salmon here is especially good â€¢ Service â€“ Very good and the staff are very friendly.
+
+----- Weakening -----
+
+[-0.9934415817260742] It was insulting that the doorman/management were so disrespectful and unwilling to take care of their guest.
+[-0.9674472808837891] That evening we went down to the club PM which is in hotel very unfriendly and it took us for ever to get in and if your staying at hotel it is suppose to not be a problem to get in YEAH RIGHT!!!!
+[-0.9610023498535156] My friend finally asked why we were waiting while everyone else was allowed in and the man very rudely announced that those folks were hotel guests.
+[-0.9542751312255859] We were barked at by the manager twice for bringing in outside food eve though we were buying their pricey drinks and paying for rooms there.
+[-0.947178840637207] I was so livid with how it was being handled that I was ready to completely lose it.
+
+**********
+
+[0.974886417388916] The staff at the hotel is helpful.
+Parent: The service at the hotel is wonderful, with the staff being friendly and helpful.
+
+----- Supporting -----
+
+[0.974886417388916] The hotel was beautiful; the staff was very accommodating; and it was very easy working with a large group.
+[0.9587092399597168] The service at the Joule is great--everyone is also willing to help out and is very welcoming.
+[0.9334611892700195] The staff is fantastic - Neil and Myron at the Front Desk always make me feel Welcome and Gus at the Valet provides a level of service rarely seen at any hotel.
+[0.8778343200683594] The staff at the hotel and the parking company (ACE parking) are working hard to rectify the situation, but at $27/night for parking one would hope that her car was more secure than it apparently was.
+[0.7828407287597656] The staff was very informative on things going on downtown and in the general vicinity of the hotel.
+
+----- Weakening -----
+
+[-0.9898300170898438] It was insulting that the doorman/management were so disrespectful and unwilling to take care of their guest.
+[-0.9730329513549805] Once I was at the desk, I still was not offered any help with getting all my luggage to my room.
+[-0.9644203186035156] The pool was nice as was the fitness center but with tiny cramped rooms, lack of customer service (I tried calling the desk 3 times and never go through) and the loading dock at the front of the building, I wouldn't recommend it.
+[-0.9492969512939453] My patience was def tested at this hotel at the incompetence incurred.
+[-0.9455318450927734] Maybe I'm just spoiled, but I travel frequently and I have never recieved such poor service from an "upscale" hotel.
+
+**********
+
+[0.5889778137207031] The hotel staff go above and beyond to make sure their guests have a memorable stay.
+Parent: They go above and beyond to make sure their guests have a memorable stay.
+
+----- Supporting -----
+
+[0.5889778137207031] The Bellman/Valet Team are incredible and make you feel right at home each time!
+[0.5717248916625977] The staff is excellent and did everything possible to ensure we had a wonderful stay.
+[0.5660018920898438] Their understanding of customer service, above and beyond attention to detail and courtesy have made this a repeat destination on the list.
+[0.4678230285644531] These folks go out of their way to make your stay enjoyable and hassle free.
+[0.4028892517089844] The customer service was excellent and Ms. Chasity Gray was outstanding, as she went the extra mile to make sure our stay was a memorable one!!!
+
+----- Weakening -----
+
+[-0.9947292804718018] Cons: Service is terrible!!
+[-0.9932022094726562] The pool was nice as was the fitness center but with tiny cramped rooms, lack of customer service (I tried calling the desk 3 times and never go through) and the loading dock at the front of the building, I wouldn't recommend it.
+[-0.993161678314209] Maybe I'm just spoiled, but I travel frequently and I have never recieved such poor service from an "upscale" hotel.
+[-0.9929909706115723] It was insulting that the doorman/management were so disrespectful and unwilling to take care of their guest.
+[-0.9880232810974121] to get ONE sandwhich I had to call and ck on it and there are slow and the service is so bad and the managers know which makes it WORSE...

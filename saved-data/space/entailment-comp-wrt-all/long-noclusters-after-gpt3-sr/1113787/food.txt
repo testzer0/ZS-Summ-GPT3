@@ -1,0 +1,44 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.6188392639160156
+
+**********
+
+[0.394287109375] The food at the hotel was not good.
+Parent: The food at the hotel was not good, and one of the reviewers had to walk across the street to order food from a different restaurant.
+
+----- Supporting -----
+
+[0.394287109375] The food was amzing, the room service food is from the restaurant downstairs!!
+[0.338104248046875] However, Shawn at the bar, Scott the restaurant's executive chef, and Todd at the hotel bar have MORE than made up for the rough start.
+[0.295867919921875] This extends to the restaurants as well Bad: â€¢ No parking within the hotel itself so if you do not wish to pay for valet parking you have to drive around to a nearby parking building â€¢ No upgrades for SPG Platinum members â€“ although since I was travelling for business, I didnâ€™t particularly care.
+[0.24715423583984375] Since the squid and quail eggs on their menu did not sound good, one of our group walked across the street to order some Food and bring it over.
+[0.200103759765625] Charlie Palmer cooks the room service menu but it is different menu than restaurant and didn't look as good (no foie gras).
+
+----- Weakening -----
+
+[-0.994359016418457] We had dinner and breakfast at the hotel restaurant Charlie Palmers and it was excellent.
+[-0.9934730529785156] The pool is amazing and the restaurant cuisine is outstanding.
+[-0.9933815002441406] the hotel has an excellent in house restaurant with plenty on the menu and delectable choices.
+[-0.993253231048584] Dinner at Charlie Palmer's was simply superb!
+[-0.9928808212280273] The room service was wonderful - the food was great, and the service was, again, exceptional.
+
+**********
+
+[0.8433914184570312] The reviewer had to walk across the street to order food from a different restaurant.
+Parent: The food at the hotel was not good, and one of the reviewers had to walk across the street to order food from a different restaurant.
+
+----- Supporting -----
+
+[0.8433914184570312] As an order of french toast was around $20 I decided to walk down the street (out the front, down one block to left, take a left and Seven Eleven was on the right) and get a donut and some milk.
+[0.7716827392578125] Since the squid and quail eggs on their menu did not sound good, one of our group walked across the street to order some Food and bring it over.
+[0.199462890625] We began the evening in the hotel room, then walked a short distance to a nearby resturant for dinner.
+[0.0286865234375] You can walk next door to iron cactus for bfast and lunch, then eat dinner at the ultra swanky Charlie Palmer.
+[0.0] The pool!
+
+----- Weakening -----
+
+[-0.9845027923583984] The convenient location of The Joule allowed us to choose from a variety of restaurants.
+[-0.9627952575683594] to get ONE sandwhich I had to call and ck on it and there are slow and the service is so bad and the managers know which makes it WORSE...
+[-0.9617958068847656] We used the free car service several times and the drivers all had great recommendations for places to go and to eat.
+[-0.9587287902832031] We especially found the room service to be timely and tasty (yes, we even had breakfast by the pool one day!).
+[-0.9582290649414062] We ate breakfest downstairs at Charlie Palmer which was one of the best hotel breakfest experiences I have ever had.

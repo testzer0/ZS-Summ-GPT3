@@ -1,0 +1,443 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.8439702647072929
+
+**********
+
+[0.9745025634765625] There is no breakfast.
+Parent: There is no breakfast and no restaurant except an attached Asian food restaurant.
+
+----- Supporting -----
+
+[0.9745025634765625] No breakfast no restaurant except an attached Asian food restaurant.
+[0.764373779296875] I like breakfast buffets, there isnâ€™t one in this hotel.
+[0.10382080078125] He quickly retuned with coffee but not my requested milk.
+[0.075439453125] The rooms are pleasant and clean, with the baffling omission of a coffee maker or kettle--really a weird thing to forget.
+[0.07049560546875] There is a coffee maker and an empty refrigerator.
+
+----- Weakening -----
+
+[-0.9982290267944336] Our package also included two complimentary breakfasts which were satisfying.
+[-0.9979152679443359] He returned quickly with our breakfast.
+[-0.9977579116821289] Off-lobby sushi restaurant also serves conventional breakfast, lively at night.
+[-0.997683048248291] Rooms very nice and restaurant downstairs had great breakfast.
+[-0.9976210594177246] The breakfast (paid separately) in the restaurant Dragonfish CafÃ© at the hotel is limit priceworthy.
+
+**********
+
+[0.386474609375] The hotel does not have a restaurant.
+Parent: There is no breakfast and no restaurant except an attached Asian food restaurant.
+
+----- Supporting -----
+
+[0.386474609375] I like breakfast buffets, there isnâ€™t one in this hotel.
+[0.286468505859375] Instead of a mini-bar, there's a small refrigerator with two bottles of $2.50 water--drink from the tap instead.
+[0.0753326416015625] There is a coffee maker and an empty refrigerator.
+[0.0673828125] There is an empty fridge for your use in the room, that was great.
+[0.0439453125] The only aspect of the hotel that could be improved, in my opinion, is the fitness center -- it's in the basement and has older equipment.
+
+----- Weakening -----
+
+[-0.9992289543151855] We enjoyed dining at the Dragonfish restaurant for great food and reasonable pricing.
+[-0.99920654296875] I especially like the Dragonfish Cafe restaurant - it is one of my favorite restaurants for Asian Fusion.
+[-0.9986908435821533] DragonFish, the restaurant downstairs was good too.
+[-0.998682975769043] The Dragonfish has great food, and they have a LATE happy hour for the food and select drinks that can't be beat!
+[-0.9986770153045654] Dragonfish restaurant is attached and has great seafood and sushi.
+
+**********
+
+[0.9784479141235352] The hotel has an attached Asian food restaurant.
+Parent: There is no breakfast and no restaurant except an attached Asian food restaurant.
+
+----- Supporting -----
+
+[0.9784479141235352] Restaurant (DragonFish) attached to the hotel serves awesome chinese food.
+[0.9691410064697266] I especially liked the Japanese restaurant attached to this hotel (not sure if it is part of the hotel), but it is open late and has a very well priced happy hour and late night happy hour.
+[0.9513435363769531] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[0.7925033569335938] I loved the pan-Asian restaurant in the hotel and ate their twice.
+[0.741668701171875] The only food available is from a Chinese restaurant that is in the hotel.
+
+----- Weakening -----
+
+[-0.498779296875] Bartell's drugstore with trial size toiletries next to Nordstroms.
+[-0.467041015625] I far rather prefer the individual bottles.
+[-0.4163970947265625] PLEASE don't give this awful chain your business!
+[-0.3924751281738281] Ok, it is bad.
+[-0.3497467041015625] Debit cards are just a plastic check and not a credit card.
+
+**********
+
+[0.9650678634643555] The food was good.
+Parent: Most reviewers thought the food was good, although some thought it was overpriced.
+
+----- Supporting -----
+
+[0.9650678634643555] Food and service were very good.
+[0.9529514312744141] The food was awesome and the prices are pretty good.
+[0.8735065460205078] The staff was friendly, helpful, and prompt, and the hotel's restaurant is good.
+[0.8651342391967773] The Happy Hour at the Dragonfish was exceptional - great prices, great food, great service.
+[0.821772575378418] We enjoyed dining at the Dragonfish restaurant for great food and reasonable pricing.
+
+----- Weakening -----
+
+[-0.9745140075683594] The room-service was way overpriced for mediocre food though.
+[-0.89569091796875] hotel restaurant isn't very good, try others like palace kitchen, wild ginger, le pitchet.
+[-0.8684539794921875] The in-house restaurant is mediocre but not too pricey.
+[-0.758514404296875] I didn't try it, but it doesn't look appetizing.
+[-0.6816520690917969] PLEASE don't give this awful chain your business!
+
+**********
+
+[0.9540596008300781] The food was overpriced.
+Parent: Most reviewers thought the food was good, although some thought it was overpriced.
+
+----- Supporting -----
+
+[0.9540596008300781] The room-service was way overpriced for mediocre food though.
+[0.8536376953125] Your only option for room service (aside from breakfast) is overpriced -- tasty, but overpriced -- Asian cuisine from Dragonfish.
+[0.25103759765625] Dragonfish restaurant attached is not run by the hotel but lets you sign charges to your room, and is a very good place, if a bit pricey.
+[0.1086578369140625] It'll cost you $3.50, they don't bring sugar or cream, and you can get the same bag of tea in the little coffee maker kit in the bathroom for free.
+[0.08521270751953125] There is no pool..the breakfast is in the restaurant and it starts at like $8, you can't put out a little fruit for your guests, the paper is 75 cents a day.
+
+----- Weakening -----
+
+[-0.9934177398681641] The in-house restaurant is mediocre but not too pricey.
+[-0.9934158325195312] We enjoyed dining at the Dragonfish restaurant for great food and reasonable pricing.
+[-0.9920110702514648] They are low priced and have and incredible late night happy hour.
+[-0.9875526428222656] Try eating during the evening happy hour (10pm-1am) and get several appetizers at a low price.
+[-0.9769725799560547] The Asian fusion restaurant, Dragonfish, on the first floor has an outstanding happy hour menu with inexpensive drinks and sushi.
+
+**********
+
+[0.9873695373535156] The hotel has a Chinese restaurant.
+Parent: There is a Chinese restaurant in the hotel, but reviewers did not think it looked appetizing.
+
+----- Supporting -----
+
+[0.9873695373535156] The only food available is from a Chinese restaurant that is in the hotel.
+[0.9806575775146484] Restaurant (DragonFish) attached to the hotel serves awesome chinese food.
+[0.9605274200439453] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[0.9058837890625] I loved the pan-Asian restaurant in the hotel and ate their twice.
+[0.341796875] A nice touch- there's complimentary internet computers off the lobby and the hotel's restaurant, Dragonfish has good sushi/pan-Asian food if you don't want to go outside in the rain.
+
+----- Weakening -----
+
+[-0.882080078125] Dragonfish restaurant is attached and has great seafood and sushi.
+[-0.8218193054199219] Bartell's drugstore with trial size toiletries next to Nordstroms.
+[-0.8139305114746094] I especially liked the Japanese restaurant attached to this hotel (not sure if it is part of the hotel), but it is open late and has a very well priced happy hour and late night happy hour.
+[-0.74102783203125] Our room was beautiful-we still talk about the beds-and we couldn't get enough of the sushi restaurant downstairs!
+[-0.7211990356445312] I far rather prefer the individual bottles.
+
+**********
+
+[0.0015869140625] The Chinese restaurant in the hotel is unappetizing.
+Parent: There is a Chinese restaurant in the hotel, but reviewers did not think it looked appetizing.
+
+----- Supporting -----
+
+[0.0015869140625] Restaurant staff was also very poor
+[0.000560760498046875] Ok, it is bad.
+[0.00044918060302734375] I did not enjoy my stay here.
+[0.0003032684326171875] Needless to say we left the hotel very frustrated and upset.
+[0.0] :)
+
+----- Weakening -----
+
+[-0.9892675876617432] The Dragonfish Cafe in the hotel is simply awesome.
+[-0.9817523956298828] The Happy Hour at the Dragonfish was exceptional - great prices, great food, great service.
+[-0.9811325073242188] I loved the pan-Asian restaurant in the hotel and ate their twice.
+[-0.9810574054718018] The decor was cool and modern.
+[-0.978386402130127] It was fantastic and has great deals and specials.
+
+**********
+
+[0.9650678634643555] The food was good.
+Parent: The reviews said that the food and service were both good.
+
+----- Supporting -----
+
+[0.9650678634643555] Food and service were very good.
+[0.9529514312744141] The food was awesome and the prices are pretty good.
+[0.8735065460205078] The staff was friendly, helpful, and prompt, and the hotel's restaurant is good.
+[0.8651342391967773] The Happy Hour at the Dragonfish was exceptional - great prices, great food, great service.
+[0.821772575378418] We enjoyed dining at the Dragonfish restaurant for great food and reasonable pricing.
+
+----- Weakening -----
+
+[-0.9745140075683594] The room-service was way overpriced for mediocre food though.
+[-0.89569091796875] hotel restaurant isn't very good, try others like palace kitchen, wild ginger, le pitchet.
+[-0.8684539794921875] The in-house restaurant is mediocre but not too pricey.
+[-0.758514404296875] I didn't try it, but it doesn't look appetizing.
+[-0.6816520690917969] PLEASE don't give this awful chain your business!
+
+**********
+
+[0.8662338256835938] The reviews said that the service was good.
+Parent: The reviews said that the food and service were both good.
+
+----- Supporting -----
+
+[0.8662338256835938] The staff were helpful and friendly, and the services fine, although I was disappointed they have no gift shop to buy a magazine or other small items.
+[0.8278770446777344] The Happy Hour at the Dragonfish was exceptional - great prices, great food, great service.
+[0.7986526489257812] 3 nites of good beds, clean room/bathroom, good staff, went for gift show in nearby convention ctr.
+[0.7044048309326172] Great room, helpful staff, just one block from the convention center.
+[0.7040290832519531] Clean rooms, pleasant staff with good restaurant recommendations, and fast, free internet.
+
+----- Weakening -----
+
+[-0.9549293518066406] Valet parking was terrible.
+[-0.9419784545898438] The treadmills were ok but the ellyptical machines were bad.
+[-0.9352684020996094] Staff was rude and impatient.
+[-0.9331130981445312] But I thought the staff were unprofessional and I was uncomfortable with the men at the desk.
+[-0.9269266128540039] PLEASE don't give this awful chain your business!
+
+**********
+
+[0.9650678634643555] The food was good.
+Parent: The food at the hotel was good, with a decent selection.
+
+----- Supporting -----
+
+[0.9650678634643555] Food and service were very good.
+[0.9529514312744141] The food was awesome and the prices are pretty good.
+[0.8735065460205078] The staff was friendly, helpful, and prompt, and the hotel's restaurant is good.
+[0.8651342391967773] The Happy Hour at the Dragonfish was exceptional - great prices, great food, great service.
+[0.821772575378418] We enjoyed dining at the Dragonfish restaurant for great food and reasonable pricing.
+
+----- Weakening -----
+
+[-0.9745140075683594] The room-service was way overpriced for mediocre food though.
+[-0.89569091796875] hotel restaurant isn't very good, try others like palace kitchen, wild ginger, le pitchet.
+[-0.8684539794921875] The in-house restaurant is mediocre but not too pricey.
+[-0.758514404296875] I didn't try it, but it doesn't look appetizing.
+[-0.6816520690917969] PLEASE don't give this awful chain your business!
+
+**********
+
+[0.9658305644989014] The hotel's food selection was decent.
+Parent: The food at the hotel was good, with a decent selection.
+
+----- Supporting -----
+
+[0.9658305644989014] The staff was friendly, helpful, and prompt, and the hotel's restaurant is good.
+[0.8945035934448242] The hotel has gone through some renovations which make it look nice, Dragonfish changed their menu a bit but their food is still good.
+[0.7839984893798828] Clean rooms, pleasant staff with good restaurant recommendations, and fast, free internet.
+[0.6351356506347656] Don't know the concierges name, it would be the older man in the morning but he had great recommendations for restaurants, each one excellent and was so knowledgeable about the city and when was the best times to go to events.
+[0.6346645355224609] We didn't eat at the restaurant on the main floor, but it seemed to be busy at all the peak times, so I can only assume that means the food is decent.
+
+----- Weakening -----
+
+[-0.9088897705078125] The room-service was way overpriced for mediocre food though.
+[-0.848907470703125] hotel restaurant isn't very good, try others like palace kitchen, wild ginger, le pitchet.
+[-0.79364013671875] The in-house restaurant is mediocre but not too pricey.
+[-0.5952186584472656] PLEASE don't give this awful chain your business!
+[-0.541015625] Only negative was the attached restaurant for breakfast.
+
+**********
+
+[0.9645671844482422] The sushi was good.
+Parent: The sushi was good, and the drink selection was interesting and tasty.
+
+----- Supporting -----
+
+[0.9645671844482422] The sushi was good and the drink selection interesting and yummy .
+[0.6991901397705078] Our room was beautiful-we still talk about the beds-and we couldn't get enough of the sushi restaurant downstairs!
+[0.22344589233398438] Dragonfish restaurant is attached and has great seafood and sushi.
+[0.1686253547668457] Bar / Restaurant downstairs (Dragonfish) had a great Happy hour and sushi.
+[0.15749549865722656] It's Asian inspired and they have some incredible little dishes of sushi and japanese type dishes.
+
+----- Weakening -----
+
+[-0.8438053131103516] I had Sake for $1.
+[-0.8399810791015625] Coffee in the morning.
+[-0.8067188262939453] PLEASE don't give this awful chain your business!
+[-0.73077392578125] ps: the chocolate truffles that was promoted through a Foursquare check-in was extremely good.
+[-0.7263717651367188] There is a great coffee shop across the street and the stunning Paramount Theater down the block.
+
+**********
+
+[0.9654569625854492] The drink selection was interesting.
+Parent: The sushi was good, and the drink selection was interesting and tasty.
+
+----- Supporting -----
+
+[0.9654569625854492] The sushi was good and the drink selection interesting and yummy .
+[0.19617843627929688] The restaurant downstairs has amazing happy hours with great food and drink specials.
+[0.17893218994140625] The Dragonfish has great food, and they have a LATE happy hour for the food and select drinks that can't be beat!
+[0.143768310546875] The only minor thing that I did not like was that they ice machines are on every other floor and located next to the stairwell, so it was a little startling to my girlfriend when someone walked in unbeknownst to her while the machine was running.
+[0.11930084228515625] ps: the chocolate truffles that was promoted through a Foursquare check-in was extremely good.
+
+----- Weakening -----
+
+[-0.7235727310180664] PLEASE don't give this awful chain your business!
+[-0.61810302734375] Stripping the sheets, I found a fairly fresh urine stain that made me want to vomit.
+[-0.6075906753540039] Ok, it is bad.
+[-0.5946731567382812] Now on to the bad, the other staff.
+[-0.4319496154785156] My pancakes were delicious, but I was a little disappointed with the "hash brows" because they were really only cubed potatoes.
+
+**********
+
+[0.9378700256347656] The drink selection was tasty.
+Parent: The sushi was good, and the drink selection was interesting and tasty.
+
+----- Supporting -----
+
+[0.9378700256347656] The sushi was good and the drink selection interesting and yummy .
+[0.5970001220703125] The Dragonfish has great food, and they have a LATE happy hour for the food and select drinks that can't be beat!
+[0.16839599609375] ps: the chocolate truffles that was promoted through a Foursquare check-in was extremely good.
+[0.15459537506103516] They had a happy hour every day with good drink and food prices.
+[0.14518165588378906] The restaurant downstairs has amazing happy hours with great food and drink specials.
+
+----- Weakening -----
+
+[-0.7801895141601562] PLEASE don't give this awful chain your business!
+[-0.7722320556640625] Stripping the sheets, I found a fairly fresh urine stain that made me want to vomit.
+[-0.7036724090576172] Ok, it is bad.
+[-0.6558494567871094] I didn't try it, but it doesn't look appetizing.
+[-0.5120124816894531] They just seem unsanitary to me.
+
+**********
+
+[0.9716906547546387] The Public Market is a great place to start the day.
+Parent: The Public Market was a great place to start the day.
+
+----- Supporting -----
+
+[0.9716906547546387] The Public Market is only blocks away and a great place to start the day.
+[0.012439727783203125] The area felt safe and it was walking distance to the light rail to the airport; I took some longer walks to Capital Hill, to an Episcopal church on Sunday morning and to the Pike Place market area several times--all were fun walks to take.
+[0.00832366943359375] The location is excellent (especially if you like to shop!)
+[0.0069370269775390625] This is a well-run place.
+[0.0066375732421875] Great location, we walked to Pike Market and further.
+
+----- Weakening -----
+
+[-0.9236183166503906] Ok, it is bad.
+[-0.8456783294677734] The best part was the bed.
+[-0.8143157958984375] They just seem unsanitary to me.
+[-0.7679786682128906] Very annoying.
+[-0.7616996765136719] PLEASE don't give this awful chain your business!
+
+**********
+
+[0.6725311279296875] Dragonfish's food is tasty.
+Parent: The food at Dragonfish was praised by reviewers for being tasty and reasonably priced.
+
+----- Supporting -----
+
+[0.6725311279296875] The hotel has gone through some renovations which make it look nice, Dragonfish changed their menu a bit but their food is still good.
+[0.6135063171386719] Your only option for room service (aside from breakfast) is overpriced -- tasty, but overpriced -- Asian cuisine from Dragonfish.
+[0.6121406555175781] The restaurant (Dragonfish) has amazing food, and a wonderful happy hour small plates menu, though it can get quite busy, the hostess just took our room number and called us when our reservation was ready.
+[0.5979785919189453] The Dragonfish has great food, and they have a LATE happy hour for the food and select drinks that can't be beat!
+[0.5581092834472656] The Happy Hour at the Dragonfish was exceptional - great prices, great food, great service.
+
+----- Weakening -----
+
+[-0.9196863174438477] I didn't try it, but it doesn't look appetizing.
+[-0.9177474975585938] The in-house restaurant is mediocre but not too pricey.
+[-0.8592758178710938] Stripping the sheets, I found a fairly fresh urine stain that made me want to vomit.
+[-0.8569679260253906] The room-service was way overpriced for mediocre food though.
+[-0.8527374267578125] PLEASE don't give this awful chain your business!
+
+**********
+
+[0.9683856964111328] Dragonfish's food is reasonably priced.
+Parent: The food at Dragonfish was praised by reviewers for being tasty and reasonably priced.
+
+----- Supporting -----
+
+[0.9683856964111328] We enjoyed dining at the Dragonfish restaurant for great food and reasonable pricing.
+[0.8772811889648438] The breakfast (paid separately) in the restaurant Dragonfish CafÃ© at the hotel is limit priceworthy.
+[0.71954345703125] The Asian fusion restaurant, Dragonfish, on the first floor has an outstanding happy hour menu with inexpensive drinks and sushi.
+[0.461669921875] The Happy Hour at the Dragonfish was exceptional - great prices, great food, great service.
+[0.4323272705078125] The in-house restaurant is mediocre but not too pricey.
+
+----- Weakening -----
+
+[-0.9853553771972656] Your only option for room service (aside from breakfast) is overpriced -- tasty, but overpriced -- Asian cuisine from Dragonfish.
+[-0.9072799682617188] The room-service was way overpriced for mediocre food though.
+[-0.8949432373046875] Dragonfish restaurant attached is not run by the hotel but lets you sign charges to your room, and is a very good place, if a bit pricey.
+[-0.8404541015625] Overpriced though.
+[-0.8089637756347656] Sounded like a jackhammer.
+
+**********
+
+[0.9163522720336914] The menu has changed recently.
+Parent: Some reviewers noted that the menu had changed recently, but that the food was still good.
+
+----- Supporting -----
+
+[0.9163522720336914] The hotel has gone through some renovations which make it look nice, Dragonfish changed their menu a bit but their food is still good.
+[0.085906982421875] When was the the last time that someone arrived at your hotel door with water and chocolates to welcome you?
+[0.030242919921875] The room was comfortable and updated.
+[0.02603912353515625] A lovely hotel with an updated room that was spotless.
+[0.0166168212890625] Messed up my checking account but later found out there is a huge difference, and defintely not the same.
+
+----- Weakening -----
+
+[-0.49767303466796875] They never did it.
+[-0.46282958984375] Our GPS system had been stolen.
+[-0.3096923828125] My room was neatly decorated and very up-to-date.
+[-0.29498291015625] We nearly thought our car was stolen!
+[-0.2836761474609375] First....location!
+
+**********
+
+[0.8662052154541016] The food was still good.
+Parent: Some reviewers noted that the menu had changed recently, but that the food was still good.
+
+----- Supporting -----
+
+[0.8662052154541016] The hotel has gone through some renovations which make it look nice, Dragonfish changed their menu a bit but their food is still good.
+[0.6151123046875] Food and service were very good.
+[0.60418701171875] The food was awesome and the prices are pretty good.
+[0.4476318359375] The Happy Hour at the Dragonfish was exceptional - great prices, great food, great service.
+[0.44378662109375] We dined at the Dragonfish there in the hotel and had a great meal.
+
+----- Weakening -----
+
+[-0.37833404541015625] The room-service was way overpriced for mediocre food though.
+[-0.252197265625] The flat screen television is perfect for a late night movie or watching the morning news.
+[-0.2140655517578125] Internet access was high-speed and easy to use.
+[-0.1923065185546875] The nightly room rate was excellent.
+[-0.178863525390625] In room internet at $9.95/day.
+
+**********
+
+[0.67132568359375] The hash browns were not good.
+Parent: One reviewer was disappointed with the "hash brows" because they were just cubed potatoes.
+
+----- Supporting -----
+
+[0.67132568359375] My pancakes were delicious, but I was a little disappointed with the "hash brows" because they were really only cubed potatoes.
+[0.11345672607421875] Stripping the sheets, I found a fairly fresh urine stain that made me want to vomit.
+[0.027008056640625] PLEASE don't give this awful chain your business!
+[0.0103759765625] The biggest issue is that upon going to bed the first night, I noticed an overpowering smell of urine in my bed.
+[0.005096435546875] Very annoying.
+
+----- Weakening -----
+
+[-0.9708662033081055] It was fantastic and has great deals and specials.
+[-0.9660720825195312] It was that comfortable and amazing.
+[-0.9660224914550781] What a wonderful surprise.
+[-0.9649248123168945] Lolita was great as well.
+[-0.9641056060791016] The valet man was excellent.
+
+**********
+
+[0.7792816162109375] The "hash browns" were not real hash browns.
+Parent: One reviewer was disappointed with the "hash brows" because they were just cubed potatoes.
+
+----- Supporting -----
+
+[0.7792816162109375] My pancakes were delicious, but I was a little disappointed with the "hash brows" because they were really only cubed potatoes.
+[0.0912628173828125] They never did it.
+[0.005615234375] The rooms from the website looked less luxurious than the Hyatt but I have to say photos were deceiving.
+[0.00318145751953125] Messed up my checking account but later found out there is a huge difference, and defintely not the same.
+[0.0] :)
+
+----- Weakening -----
+
+[-0.47235107421875] I really have nothing bad to say about the Paramount!
+[-0.45465087890625] The valet man was excellent.
+[-0.44557952880859375] I would highly recommend it to anyone.
+[-0.4271240234375] It was fantastic and has great deals and specials.
+[-0.4227447509765625] and the value is outstanding.

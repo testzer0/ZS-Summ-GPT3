@@ -1,0 +1,149 @@
+***** Aspect: location Model Type : zs *****
+Overall score: 0.12625503540039062
+
+**********
+
+[0.108795166015625] The Settle Inn was kid friendly.
+Parent: The Settle Inn was very kid friendly .
+
+----- Supporting -----
+
+[0.108795166015625] This place is perfect for the family as the rates are favorable (especially if you have a Entertainment Card).
+[0.07735443115234375] They even have an arcade onsite!
+[0.025177001953125] Branson is a nice town, nice folks, temp not bad for summer time, and family friendly.
+[0.0049915313720703125] My family thoroughly enjoyed their stay.
+[0.004940032958984375] Family had an enjoyable time.
+
+----- Weakening -----
+
+[-0.4976921081542969] The entire place looked dark, dingy and medieval so they're keeping with the whole castle theme, very dungeon-like.
+[-0.4025993347167969] This was by far the worst place I have ever attempted to stay!
+[-0.34531402587890625] It was a very dissapointing place to stay ~ NEVER again
+[-0.3061065673828125] Her supervisor was sitting in the next room, saw and hear everything, and never came to the counter to see what was going on.
+[-0.2957611083984375] On the last day, three of the five daughters of the Warnock family came in and sang a song and gave out discount coupons for their show located at the Branson Mall.
+
+**********
+
+[0.5737323760986328] This motel was very nice.
+Parent: this was a very nice motel has swimming pools hot tubs and arcade .
+
+----- Supporting -----
+
+[0.5737323760986328] But overall its a nice town and I had a nice stay at the hotel
+[0.5628929138183594] The rooms are nice and the location is close enough to access everything we want to do in Branson, but off the strip so we can get to it quickly.
+[0.34365081787109375] Some of the places are a whole lot better than others and the Settle Inn is the best of all.
+[0.09407424926757812] There was plenty of well-lit parking even with a conference going on in the hotel.
+[0.0887594223022461] The view was nice and once again we were extremely pleased wth our stay there!!
+
+----- Weakening -----
+
+[-0.9959611892700195] It was a very dissapointing place to stay ~ NEVER again
+[-0.9945220947265625] This was by far the worst place I have ever attempted to stay!
+[-0.9898381233215332] This place isn't fancy.
+[-0.9800033569335938] We did not enjoy this vacation at all, and it was a total waste of time and money to stay here.
+[-0.8555908203125] The entire place looked dark, dingy and medieval so they're keeping with the whole castle theme, very dungeon-like.
+
+**********
+
+[0.0012073516845703125] The motel has swimming pools.
+Parent: this was a very nice motel has swimming pools hot tubs and arcade .
+
+----- Supporting -----
+
+[0.0012073516845703125] But overall its a nice town and I had a nice stay at the hotel
+[0.0010528564453125] All in all, it was a nice trip.
+[0.00051116943359375] My family thoroughly enjoyed their stay.
+[0.000339508056640625] We stayed here recently and really liked the location.
+[0.000339508056640625] We stayed here recently and really liked the location.
+
+----- Weakening -----
+
+[-0.8126983642578125] I highly recommend the Cascade.
+[-0.7228889465332031] We loved the Stone Castle.
+[-0.5256919860839844] It was a very dissapointing place to stay ~ NEVER again
+[-0.4674873352050781] This was by far the worst place I have ever attempted to stay!
+[-0.4461555480957031] Parking was a little crouded but they were very busy.
+
+**********
+
+[0.0] The motel has hot tubs.
+Parent: this was a very nice motel has swimming pools hot tubs and arcade .
+
+----- Supporting -----
+
+[0.0] and small.
+[-4.57763671875e-05] But overall its a nice town and I had a nice stay at the hotel
+[-0.0004634857177734375] My family thoroughly enjoyed their stay.
+[-0.00113677978515625] We stayed here recently and really liked the location.
+[-0.00113677978515625] We stayed here recently and really liked the location.
+
+----- Weakening -----
+
+[-0.8672637939453125] I highly recommend the Cascade.
+[-0.8312187194824219] We loved the Stone Castle.
+[-0.609405517578125] The ice machines broke down and the third floor did not have and ice machine.
+[-0.3954429626464844] It was a very dissapointing place to stay ~ NEVER again
+[-0.392486572265625] They even have an arcade onsite!
+
+**********
+
+[0.20005035400390625] The motel has an arcade.
+Parent: this was a very nice motel has swimming pools hot tubs and arcade .
+
+----- Supporting -----
+
+[0.20005035400390625] They even have an arcade onsite!
+[0.0038204193115234375] Family had an enjoyable time.
+[0.0007038116455078125] My family thoroughly enjoyed their stay.
+[0.00012683868408203125] But overall its a nice town and I had a nice stay at the hotel
+[0.0] and small.
+
+----- Weakening -----
+
+[-0.8133144378662109] We loved the Stone Castle.
+[-0.67486572265625] On the last day, three of the five daughters of the Warnock family came in and sang a song and gave out discount coupons for their show located at the Branson Mall.
+[-0.5451698303222656] It was a very dissapointing place to stay ~ NEVER again
+[-0.5022392272949219] Oh and the Dockers Restaurant is next door and it's excellent, too!
+[-0.4924659729003906] There was plenty of well-lit parking even with a conference going on in the hotel.
+
+**********
+
+[0.0] The microwave was useful for the kids' snacks.
+Parent: The microwave and fridge came in very handy for the kids special snacks .
+
+----- Supporting -----
+
+[0.0] and small.
+[-0.0007781982421875] My family thoroughly enjoyed their stay.
+[-0.002536773681640625] Family had an enjoyable time.
+[-0.00254058837890625] Branson is a nice town, nice folks, temp not bad for summer time, and family friendly.
+[-0.00347137451171875] This place is perfect for the family as the rates are favorable (especially if you have a Entertainment Card).
+
+----- Weakening -----
+
+[-0.7976312637329102] We loved the Stone Castle.
+[-0.5663375854492188] The man that took the reservation was very helpful.
+[-0.5572052001953125] It was a very dissapointing place to stay ~ NEVER again
+[-0.468536376953125] Booked on the phone and received very courteous assistance.
+[-0.4354133605957031] I highly recommend the Cascade.
+
+**********
+
+[0.0] The fridge was useful for storing the kids' special snacks.
+Parent: The microwave and fridge came in very handy for the kids special snacks .
+
+----- Supporting -----
+
+[0.0] and small.
+[-0.0001220703125] My family thoroughly enjoyed their stay.
+[-0.000484466552734375] Family had an enjoyable time.
+[-0.0013942718505859375] Branson is a nice town, nice folks, temp not bad for summer time, and family friendly.
+[-0.0021209716796875] This place is perfect for the family as the rates are favorable (especially if you have a Entertainment Card).
+
+----- Weakening -----
+
+[-0.6998786926269531] We loved the Stone Castle.
+[-0.6287021636962891] It was a very dissapointing place to stay ~ NEVER again
+[-0.40105438232421875] I highly recommend the Cascade.
+[-0.34426307678222656] This was by far the worst place I have ever attempted to stay!
+[-0.34410858154296875] We did not enjoy this vacation at all, and it was a total waste of time and money to stay here.

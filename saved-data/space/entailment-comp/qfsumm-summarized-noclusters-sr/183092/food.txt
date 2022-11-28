@@ -1,0 +1,170 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.1909770369529724
+
+**********
+
+[0.07348251342773438] The Marriott is a good hotel.
+Parent: I stayed at the Marriott in mid-June for one night on a business trip .
+
+----- Supporting -----
+
+[0.07348251342773438] It think it may also be the most expensive of all of the Toronto Marriott hotels.
+[0.06499671936035156] Unlike many other hotel breakfasts, this one actually has good food!
+[0.04218292236328125] I felt that the hotel wisely focused on things we needed, like a coffee/tea maker, black out curtains, and a daily newspaper, while eliminating the nonessentials like mini-bar and robes.
+[0.03874969482421875] We had breakfast and lunch at the Parkside restaurant in the hotel, the food was of a very high standard, and children less than three eat free ( it costs $7.95 for children over three for the breakfast buffet).
+[0.03735637664794922] The rooms are large and the food in the dining room is decent enough.
+
+----- Weakening -----
+
+[-0.6895103454589844] We are NOT demanding restaurant a patrons, but both the food and the service was poor.
+[-0.58648681640625] asking if she had some band aids or knew of a shoppers super close by.
+[-0.4118499755859375] Don't eat at the hotel.
+[-0.25031280517578125] At over $250 a night, that's not too good.
+[-0.185089111328125] You may have a difficult fit.
+
+**********
+
+[0.8279571533203125] I stayed at the Marriott.
+Parent: I stayed at the Marriott in mid-June for one night on a business trip .
+
+----- Supporting -----
+
+[0.8279571533203125] I got a discounted rate because I am a Marriott rewards member which made it worth it.
+[0.075286865234375] It think it may also be the most expensive of all of the Toronto Marriott hotels.
+[0.00217437744140625] The rooms are large and the food in the dining room is decent enough.
+[-0.0001678466796875] The food was excellent.
+[-0.00018310546875] Unlike many other hotel breakfasts, this one actually has good food!
+
+----- Weakening -----
+
+[-0.8873100280761719] asking if she had some band aids or knew of a shoppers super close by.
+[-0.8705291748046875] We are NOT demanding restaurant a patrons, but both the food and the service was poor.
+[-0.7663497924804688] I bought croissants, a pastry and some fruit.
+[-0.709259033203125] During the conference, the food/service department did a fantastic job with meals.
+[-0.6675033569335938] We didn't eat at the steak bar though.
+
+**********
+
+[0.00055694580078125] I stayed at the Marriott for one night.
+Parent: I stayed at the Marriott in mid-June for one night on a business trip .
+
+----- Supporting -----
+
+[0.00055694580078125] The rooms are large and the food in the dining room is decent enough.
+[0.00048828125] The food was excellent.
+[-0.001312255859375] Unlike many other hotel breakfasts, this one actually has good food!
+[-0.00145721435546875] Had a Bloody Ceasar at the Hotel Bar...ouch..10$ for a small glass.
+[-0.001476287841796875] It think it may also be the most expensive of all of the Toronto Marriott hotels.
+
+----- Weakening -----
+
+[-0.7646293640136719] During the conference, the food/service department did a fantastic job with meals.
+[-0.6355361938476562] asking if she had some band aids or knew of a shoppers super close by.
+[-0.3610687255859375] I bought croissants, a pastry and some fruit.
+[-0.35169219970703125] We are NOT demanding restaurant a patrons, but both the food and the service was poor.
+[-0.19715499877929688] Again i treid to explain that i didn't really want to walk- especially in my situation and if the shoppers was not open for certain.
+
+**********
+
+[0.018707275390625] The Marriott is a good hotel for business trips.
+Parent: I stayed at the Marriott in mid-June for one night on a business trip .
+
+----- Supporting -----
+
+[0.018707275390625] Concierge lounge nibbles in the evening were a little disappointing, but the staff were friendly (I think this area used to be the old steak house).
+[0.010015487670898438] It think it may also be the most expensive of all of the Toronto Marriott hotels.
+[0.0064563751220703125] The rooms are large and the food in the dining room is decent enough.
+[0.0062732696533203125] I got a discounted rate because I am a Marriott rewards member which made it worth it.
+[0.0037937164306640625] Had a Bloody Ceasar at the Hotel Bar...ouch..10$ for a small glass.
+
+----- Weakening -----
+
+[-0.6080780029296875] asking if she had some band aids or knew of a shoppers super close by.
+[-0.5439682006835938] The meal itself was extremely good, it is well worth your money to have a meal there, you won't be disappointed.
+[-0.18618011474609375] Again i treid to explain that i didn't really want to walk- especially in my situation and if the shoppers was not open for certain.
+[-0.15149497985839844] We are NOT demanding restaurant a patrons, but both the food and the service was poor.
+[-0.11240386962890625] You may have a difficult fit.
+
+**********
+
+[0.00041961669921875] The hotel is near the Eaton Centre mall.
+Parent: It is adjacent to the Eaton Centre mall , and across the street from the Toronto city hall .
+
+----- Supporting -----
+
+[0.00041961669921875] The rooms are large and the food in the dining room is decent enough.
+[-0.00019073486328125] I got a discounted rate because I am a Marriott rewards member which made it worth it.
+[-0.0003223419189453125] If the price was right, I would go back.
+[-0.0004405975341796875] The prices are way to high for what you get... a room.
+[-0.0005474090576171875] ...for more than $300 a night.
+
+----- Weakening -----
+
+[-0.1690216064453125] Again i treid to explain that i didn't really want to walk- especially in my situation and if the shoppers was not open for certain.
+[-0.14257049560546875] During the conference, the food/service department did a fantastic job with meals.
+[-0.12310791015625] You may have a difficult fit.
+[-0.09817695617675781] We had breakfast and lunch at the Parkside restaurant in the hotel, the food was of a very high standard, and children less than three eat free ( it costs $7.95 for children over three for the breakfast buffet).
+[-0.06073188781738281] We are NOT demanding restaurant a patrons, but both the food and the service was poor.
+
+**********
+
+[-0.0016021728515625] The hotel is across the street from the Toronto city hall.
+Parent: It is adjacent to the Eaton Centre mall , and across the street from the Toronto city hall .
+
+----- Supporting -----
+
+[-0.0016021728515625] The rooms are large and the food in the dining room is decent enough.
+[-0.001712799072265625] I got a discounted rate because I am a Marriott rewards member which made it worth it.
+[-0.00194549560546875] It think it may also be the most expensive of all of the Toronto Marriott hotels.
+[-0.0019664764404296875] If the price was right, I would go back.
+[-0.002422332763671875] ...for more than $300 a night.
+
+----- Weakening -----
+
+[-0.5756149291992188] By the time we got back to the mainland and back to the mall adjacent to the hotel- the shoppers was closed.
+[-0.23834228515625] asking if she had some band aids or knew of a shoppers super close by.
+[-0.22499847412109375] You may have a difficult fit.
+[-0.2132110595703125] We are NOT demanding restaurant a patrons, but both the food and the service was poor.
+[-0.20911407470703125] Again i treid to explain that i didn't really want to walk- especially in my situation and if the shoppers was not open for certain.
+
+**********
+
+[0.6167793273925781] I had an issue with the hotel.
+Parent: The issue I had is that the phone system in some of the rooms was not functioning when I checked in .
+
+----- Supporting -----
+
+[0.6167793273925781] Don't eat at the hotel.
+[0.5354995727539062] And for this we paid fancy hotel restaurant prices - ugh!
+[0.37310791015625] Concierge lounge nibbles in the evening were a little disappointing, but the staff were friendly (I think this area used to be the old steak house).
+[0.3416748046875] I can't comment on the food or drinks offered at the hotel as we did not order anything at the restaurant or room service - it was pretty expensive.
+[0.185333251953125] The prices are way to high for what you get... a room.
+
+----- Weakening -----
+
+[-0.9424819946289062] Unlike many other hotel breakfasts, this one actually has good food!
+[-0.8391780853271484] Food was good and service from all of the staff was extremely professional.
+[-0.8002395629882812] The rooms are large and the food in the dining room is decent enough.
+[-0.778717041015625] We had breakfast and lunch at the Parkside restaurant in the hotel, the food was of a very high standard, and children less than three eat free ( it costs $7.95 for children over three for the breakfast buffet).
+[-0.7344818115234375] During the conference, the food/service department did a fantastic job with meals.
+
+**********
+
+[-0.008484363555908203] The phone system in the rooms did not function when I checked in.
+Parent: The issue I had is that the phone system in some of the rooms was not functioning when I checked in .
+
+----- Supporting -----
+
+[-0.008484363555908203] At over $250 a night, that's not too good.
+[-0.010053634643554688] It think it may also be the most expensive of all of the Toronto Marriott hotels.
+[-0.015332221984863281] ...for more than $300 a night.
+[-0.01826763153076172] The prices are way to high for what you get... a room.
+[-0.0183563232421875] There are 3 and 4 star hotels just down the street from this one, and half the price.
+
+----- Weakening -----
+
+[-0.7705020904541016] asking if she had some band aids or knew of a shoppers super close by.
+[-0.425048828125] I bought croissants, a pastry and some fruit.
+[-0.3549156188964844] They even have a juicer with prepared vegetables that you can juice, cold deli meats and cheeses, omelet station, typical hot foods section, compotes,oatmeals, breads, etc.
+[-0.3437690734863281] We never went hungry and the quality of the food was excellent.
+[-0.2538299560546875] Found the cheapest price directly on their website.

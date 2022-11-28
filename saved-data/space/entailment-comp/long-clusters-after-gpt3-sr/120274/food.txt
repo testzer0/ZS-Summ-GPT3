@@ -1,0 +1,128 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.7928803761800131
+
+**********
+
+[0.7085723876953125] The food was good.
+Parent: Overall, reviewers thought the food was good, especially for the price.
+
+----- Supporting -----
+
+[0.7085723876953125] Area around isn't bad we had a different restaurant every night of our 14night stay, try the corral more than you can eat for $6.99 and I mean more than you can eat food was really nice, red lobster was good so was the minning company.
+[0.09567451477050781] We were not being overly fussy, the chinese eat as much as you can next door is highly recommended.
+[0.09274673461914062] There are countless places to eat around the hotel & there's an all you can eat chinese buffet next door that's good.
+[0.06307411193847656] A good place to fuel up for the long days at the parks.
+[0.04916191101074219] There are a zillion places to eat along the 192, Ponderosa is great for it's huge buffet breakfast and filling up before a day at the parks.
+
+----- Weakening -----
+
+[-0.9398422241210938] Sick of fatty junk food after the second day, and despite our quest to eat in a half respectable fashion, no luck was had.
+[-0.6184158325195312] Coffee was bad.
+[-0.5335845947265625] The orange juiced was bad & watered down, but I only drank coffee which was good.
+[-0.35595703125] (especially because the Shoneys and Denny's nearby are NIGHTMARES!)
+[-0.264495849609375] there's a product called [--].
+
+**********
+
+[0.48682403564453125] The food was good for the price.
+Parent: Overall, reviewers thought the food was good, especially for the price.
+
+----- Supporting -----
+
+[0.48682403564453125] Area around isn't bad we had a different restaurant every night of our 14night stay, try the corral more than you can eat for $6.99 and I mean more than you can eat food was really nice, red lobster was good so was the minning company.
+[0.17547893524169922] We were on a budget so this place was perfect for the price.
+[0.02984619140625] For the price we paid, what more could you ask for?
+[0.02045726776123047] We were not being overly fussy, the chinese eat as much as you can next door is highly recommended.
+[0.01962566375732422] There are countless places to eat around the hotel & there's an all you can eat chinese buffet next door that's good.
+
+----- Weakening -----
+
+[-0.6406307220458984] Sick of fatty junk food after the second day, and despite our quest to eat in a half respectable fashion, no luck was had.
+[-0.2236785888671875] there's a product called [--].
+[-0.20843124389648438] Coffee was bad.
+[-0.1861724853515625] I didn't try it myself.
+[-0.11855697631835938] The orange juiced was bad & watered down, but I only drank coffee which was good.
+
+**********
+
+[0.8480129241943359] There were a lot of restaurants to choose from.
+Parent: There were a variety of restaurants to choose from, and the all-you-can-eat Chinese buffet next door was particularly mentioned as a good option.
+
+----- Supporting -----
+
+[0.8480129241943359] Area around isn't bad we had a different restaurant every night of our 14night stay, try the corral more than you can eat for $6.99 and I mean more than you can eat food was really nice, red lobster was good so was the minning company.
+[0.8036155700683594] There are loads of places to eat locally, although you will have trouble if you want 5% healthy food 5% of the time.
+[0.77545166015625] There are a zillion places to eat along the 192, Ponderosa is great for it's huge buffet breakfast and filling up before a day at the parks.
+[0.740203857421875] There are countless places to eat around the hotel & there's an all you can eat chinese buffet next door that's good.
+[0.075836181640625] As a canadian , i am not used to eating in food chains and steakhouses all the time , and felt a great need to go buy fruit and salad at the market , to get my daily greens in.
+
+----- Weakening -----
+
+[-0.9887936115264893] There was only coffee, juice, toast and cerial.
+[-0.9390826225280762] Sick of fatty junk food after the second day, and despite our quest to eat in a half respectable fashion, no luck was had.
+[-0.6917190551757812] there's a product called [--].
+[-0.30866241455078125] We found old, moldy juice bottles under our beds.
+[-0.287261962890625] supermarket across the street , to fill up your hotel fridge with fruit and drinks.
+
+**********
+
+[0.9261894226074219] The all-you-can-eat Chinese buffet next door was a good option.
+Parent: There were a variety of restaurants to choose from, and the all-you-can-eat Chinese buffet next door was particularly mentioned as a good option.
+
+----- Supporting -----
+
+[0.9261894226074219] We were not being overly fussy, the chinese eat as much as you can next door is highly recommended.
+[0.8831548690795898] There are countless places to eat around the hotel & there's an all you can eat chinese buffet next door that's good.
+[0.000545501708984375] The price is right, and the location is super!
+[-0.0031452178955078125] A good place to fuel up for the long days at the parks.
+[-0.004122257232666016] I booked this hotel as it was cheapest available.
+
+----- Weakening -----
+
+[-0.7736606597900391] There was only coffee, juice, toast and cerial.
+[-0.7197380065917969] If we wanted more we would go to the Ponderosa just down the road.
+[-0.5008964538574219] supermarket across the street , to fill up your hotel fridge with fruit and drinks.
+[-0.47640228271484375] there's a product called [--].
+[-0.4630584716796875] Water tastes like sulfur or burnt hair.
+
+**********
+
+[0.9798488616943359] There was no in-room coffee maker.
+Parent: Some reviewers noted that there was no in-room coffee maker, but that the coffee in general was good.
+
+----- Supporting -----
+
+[0.9798488616943359] No in-room coffee makers, either.
+[0.031005859375] We found old, moldy juice bottles under our beds.
+[-0.036022186279296875] Coffee was bad.
+[-0.04305267333984375] I booked this hotel as it was cheapest available.
+[-0.0871734619140625] I paid $25.00/night after a good deal I found on Hotels.com!!!
+
+----- Weakening -----
+
+[-0.9248161315917969] there's a product called [--].
+[-0.8770675659179688] it cost £530 for both of us.
+[-0.8324527740478516] There was coffee and the condiments that go with.
+[-0.7669448852539062] Area around isn't bad we had a different restaurant every night of our 14night stay, try the corral more than you can eat for $6.99 and I mean more than you can eat food was really nice, red lobster was good so was the minning company.
+[-0.7259902954101562] A good place to fuel up for the long days at the parks.
+
+**********
+
+[0.8078346252441406] The coffee was good.
+Parent: Some reviewers noted that there was no in-room coffee maker, but that the coffee in general was good.
+
+----- Supporting -----
+
+[0.8078346252441406] The orange juiced was bad & watered down, but I only drank coffee which was good.
+[0.01346588134765625] There was coffee and the condiments that go with.
+[0.0125732421875] If we wanted more we would go to the Ponderosa just down the road.
+[0.011722564697265625] A good place to fuel up for the long days at the parks.
+[0.0018491744995117188] There was only coffee, juice, toast and cerial.
+
+----- Weakening -----
+
+[-0.9932918548583984] Coffee was bad.
+[-0.8497276306152344] to reheat a slice of pizza...
+[-0.4575920104980469] Water tastes like sulfur or burnt hair.
+[-0.43627166748046875] every park, disney or not, will do this for free and water tastes MUCH better.
+[-0.41501617431640625] Ask for cups of water from concession stands or to fill a water bottle.

@@ -1,0 +1,800 @@
+***** Aspect: location Model Type : zs *****
+Overall score: 0.7859225147648862
+
+**********
+
+[0.9487104415893555] The location is convenient for shopping.
+Parent: The location is convenient for shopping and restaurants, and is close to the convention center.
+
+----- Supporting -----
+
+[0.9487104415893555] The location is excellent being just a short walk to Pike Place and various neighborhoods for shopping and dining.
+[0.9357037544250488] It's central location is ideal for shopping and eating in downtown Seattle.
+[0.9134044647216797] Location is excellent; the hotel is within walking distance of a bunch of restaurants and the downtown shopping.
+[0.9123983383178711] The location is within a reasonable walking distance of shopping, restaurants, and the Pike Place Market (if you pack the proper shoes!).
+[0.8948831558227539] The location of the hotel is great...close to the convention center, bus and light rail tunnel, Westlake Center as well as restaurants and shopping.
+
+----- Weakening -----
+
+[-0.738184928894043] The location isn't even that good, a little to far north for me.
+[-0.56756591796875] PLEASE don't give this awful chain your business!
+[-0.49715423583984375] Sounded like a jackhammer.
+[-0.473419189453125] Ok, it is bad.
+[-0.40704345703125] The hotel is particularly convenient for those attending events at the Convention Center.
+
+**********
+
+[0.8884115219116211] The location is convenient for restaurants.
+Parent: The location is convenient for shopping and restaurants, and is close to the convention center.
+
+----- Supporting -----
+
+[0.8884115219116211] The location is excellent being just a short walk to Pike Place and various neighborhoods for shopping and dining.
+[0.886631965637207] Location is excellent; the hotel is within walking distance of a bunch of restaurants and the downtown shopping.
+[0.8673477172851562] This hotel is probably one of the best in terms of location for shopping and restaurant etc.
+[0.8647804260253906] The restaurant was always convenient for a quick happy hour and even allowed me to take a drink or a dessert upstairs; the concierge went out to the store to deliver me a Sunday NY Times newspaper.
+[0.8633003234863281] It's central location is ideal for shopping and eating in downtown Seattle.
+
+----- Weakening -----
+
+[-0.7567930221557617] The location isn't even that good, a little to far north for me.
+[-0.563720703125] Only negative was the attached restaurant for breakfast.
+[-0.4689178466796875] Stripping the sheets, I found a fairly fresh urine stain that made me want to vomit.
+[-0.4462089538574219] Ok, it is bad.
+[-0.44223785400390625] Sounded like a jackhammer.
+
+**********
+
+[0.9285717010498047] The location is convenient for the convention center.
+Parent: The location is convenient for shopping and restaurants, and is close to the convention center.
+
+----- Supporting -----
+
+[0.9285717010498047] The hotel is particularly convenient for those attending events at the Convention Center.
+[0.9233131408691406] Great location for conventions and an easy walk into the heart of downtown.
+[0.8860511779785156] The location is great, right close to the convention center but other than for the bell man I wouldn't recommend this place.
+[0.8225555419921875] The location of the hotel is great...close to the convention center, bus and light rail tunnel, Westlake Center as well as restaurants and shopping.
+[0.8105831146240234] The hotel is wonderfully situated for that--two blocks from the convention center entrance and across the street from another hotel where some of the conv.
+
+----- Weakening -----
+
+[-0.8400154113769531] The location isn't even that good, a little to far north for me.
+[-0.7716293334960938] The best place to stay if you are going to the Paramount Theatre!
+[-0.6093826293945312] Ok, it is bad.
+[-0.4570341110229492] Based on my overall experience I could not recommend this hotel.
+[-0.442626953125] The Public Market is only blocks away and a great place to start the day.
+
+**********
+
+[0.025012969970703125] The street noise is too loud.
+Parent: There is some street noise but it is otherwise centrally located.
+
+----- Supporting -----
+
+[0.025012969970703125] Sounded like a jackhammer.
+[0.024658203125] Don't take a room on the inside unless you want to be awakened by the garbage trucks at 5am.
+[0.01522064208984375] It was dark, dirty, and noisy from the construction right outside my window.
+[0.00396728515625] The only thing was that there was construction going on right across the street that woke us up before 9am on a Monday morning.
+[0.0025310516357421875] Very annoying.
+
+----- Weakening -----
+
+[-0.9972052574157715] Not a lot of street noise (sirens, drunks, honking etc) which was important as I was to find out.
+[-0.9949033260345459] It was quiet and is in a nice central location.
+[-0.9845571517944336] It was very quiet.
+[-0.9697568416595459] It was that comfortable and amazing.
+[-0.9662189483642578] Laid back, nonintrusive hotel suitable for business or vacation stays, centrally located on Pine--3 blocks from Westlake, a block from the bus terminal ($2.75 airport transfers), and a block from Von's Martini and Manhattan Shrine, never to be missed.
+
+**********
+
+[0.9763035774230957] The hotel is in a good location.
+Parent: There is some street noise but it is otherwise centrally located.
+
+----- Supporting -----
+
+[0.9763035774230957] The hotel was in a great location within walking distance to all the major shopping and Pike's Place Market.
+[0.9745078086853027] The Paramount hotel is in a great location.
+[0.9719066619873047] And in a hotel that is very affordable and nicely located.
+[0.971071720123291] The location of the hotel is great...close to the convention center, bus and light rail tunnel, Westlake Center as well as restaurants and shopping.
+[0.965263843536377] Location is excellent; the hotel is within walking distance of a bunch of restaurants and the downtown shopping.
+
+----- Weakening -----
+
+[-0.9098777770996094] The location isn't even that good, a little to far north for me.
+[-0.6199378967285156] Ok, it is bad.
+[-0.551483154296875] Things I don't love about the Paramount: The view isn't much --- the rooms look toward other high-rise buildings.
+[-0.4468536376953125] Based on my overall experience I could not recommend this hotel.
+[-0.419189453125] PLEASE don't give this awful chain your business!
+
+**********
+
+[0.2392864227294922] Parking is too expensive.
+Parent: Parking is expensive.
+
+----- Supporting -----
+
+[0.2392864227294922] Our only complaint was the cost of parking our car.
+[0.18965911865234375] We opted not to pay the $27 parking fee (outrageous, I know) but instead found closeby metered spots.
+[0.056365966796875] The location is great (ten minute walk from Pike Place Market) but construction in and around the area means you're forced to use valet parking ($25/night).
+[0.04711151123046875] Parking is all valet and $27/day.
+[0.0399322509765625] If you have a car, parking is $25 night.
+
+----- Weakening -----
+
+[-0.9311389923095703] We were also provided with free Wifi, which was great!
+[-0.9091434478759766] It was fantastic and has great deals and specials.
+[-0.8742432594299316] It is close to everything and it was convenient to walk everywhere.
+[-0.8708148002624512] The hotel is a perfect location -- a block from the Seattle Convention Center/Conference Center, which was very convenient.
+[-0.8669400215148926] The hotel is conveniently located, has a helpful and friendly staff, and is within walking distance to PPM, Capitol Hill, Belltown, and the Space Needle.
+
+**********
+
+[0.3466796875] The location is great for single people who want to be near the action.
+Parent: The location is great for single people who want to be near the action, but it can be noisy because of the construction.
+
+----- Supporting -----
+
+[0.3466796875] Across the street from the Paramount Theater, and down the street from Pacific Place and Westlake Mall, this hotel offers a great location for tourists wanting to stay in town to be close to all that's going on, as well as for residents that are looking for a weekend of culture or shopping in the city.
+[0.03692626953125] Very convenient when one does not want to hassle with a rental car.
+[0.018096923828125] Overall, I would suggest this to anyone going to Seattle needing to be near all the action!
+[0.014682769775390625] The Paramount is at a great location for downtown activities, but at a more reasonable price than the nearby big-name hotels.
+[0.011951446533203125] Near the action, but not on top of it.
+
+----- Weakening -----
+
+[-0.9110550880432129] The location isn't even that good, a little to far north for me.
+[-0.8836669921875] It is perfect for a couples get-away or a business trip.
+[-0.7862777709960938] We got connecting ones which provided us parents privacy and our kids some freedom.
+[-0.7198524475097656] Traveled with two families with small children, so it made it difficult for us.
+[-0.6706466674804688] Assistance is all around w/ staff waiting to help on all levels.
+
+**********
+
+[0.8937826156616211] The location is noisy because of the construction.
+Parent: The location is great for single people who want to be near the action, but it can be noisy because of the construction.
+
+----- Supporting -----
+
+[0.8937826156616211] Lots of daytime noise due to the construction.
+[0.8802146911621094] It was dark, dirty, and noisy from the construction right outside my window.
+[0.44174957275390625] The only thing was that there was construction going on right across the street that woke us up before 9am on a Monday morning.
+[0.309722900390625] My only minor complaint is some noise from the plumbing, also from the street and from an adjacent building's hvac system.
+[0.1934661865234375] Beds comfortable but the windows seemed to have drafty gaps and the air conditioning unit on it let in outside air and sound as if it was an open window.
+
+----- Weakening -----
+
+[-0.9859299659729004] It was quiet and is in a nice central location.
+[-0.9479537010192871] It was very quiet.
+[-0.9240498542785645] Hotel was very clean, very quiet, great for a business trip.
+[-0.9131579399108887] Loved the pillowtop beds, beautiful rooms, very quiet.
+[-0.8967857360839844] Laid back, nonintrusive hotel suitable for business or vacation stays, centrally located on Pine--3 blocks from Westlake, a block from the bus terminal ($2.75 airport transfers), and a block from Von's Martini and Manhattan Shrine, never to be missed.
+
+**********
+
+[0.9648284912109375] There is no parking at the hotel.
+Parent: There is no parking at the hotel, but there is a public parking garage across the street.
+
+----- Supporting -----
+
+[0.9648284912109375] No parking at the hotel but there is a public parking garage across the street at the Hyatt.
+[0.0] :)
+[0.0] Not cool!
+[0.0] walk.
+[-0.003742218017578125] Hotel was very clean, very quiet, great for a business trip.
+
+----- Weakening -----
+
+[-0.9969882965087891] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[-0.9942779541015625] It is on the edge of downtown, with parking lots and demolition going on across the street on one side and the Hyatt on the other.
+[-0.9926676750183105] The concierge was more than polite as he parked our car which was included in our package.
+[-0.9907932281494141] I got a good deal by booking on the hotel's website where parking was only one dollar extra.
+[-0.9897627830505371] When we talked to the front desk, they told us they contract out their parking (United Parking) and referred us to the supervisor of the company.
+
+**********
+
+[0.006262779235839844] The public parking garage across the street is a better option.
+Parent: There is no parking at the hotel, but there is a public parking garage across the street.
+
+----- Supporting -----
+
+[0.006262779235839844] No parking at the hotel but there is a public parking garage across the street at the Hyatt.
+[0.00099945068359375] It is on the edge of downtown, with parking lots and demolition going on across the street on one side and the Hyatt on the other.
+[0.0001983642578125] Did not want to leave our car there.
+[0.0] :)
+[0.0] Not cool!
+
+----- Weakening -----
+
+[-0.9557671546936035] I stayed at the Warwick on my previous trip, and I've found the Paramount so much more to my liking.
+[-0.9258809089660645] The hotel is wonderfully situated for that--two blocks from the convention center entrance and across the street from another hotel where some of the conv.
+[-0.9200153350830078] It's Asian inspired and they have some incredible little dishes of sushi and japanese type dishes.
+[-0.9096393585205078] The restaurant downstairs has amazing happy hours with great food and drink specials.
+[-0.9079771041870117] It's central location is ideal for shopping and eating in downtown Seattle.
+
+**********
+
+[0.9787054061889648] The hotel restaurant is not good.
+Parent: The hotel restaurant is not very good, but there are many other great restaurants nearby.
+
+----- Supporting -----
+
+[0.9787054061889648] hotel restaurant isn't very good, try others like palace kitchen, wild ginger, le pitchet.
+[0.8207664489746094] The in-house restaurant is mediocre but not too pricey.
+[0.74249267578125] The hotel restaurant was no great shakes but it is walking distance to some great eateries.
+[0.458984375] The room-service was way overpriced for mediocre food though.
+[0.334564208984375] I like breakfast buffets, there isnâ€™t one in this hotel.
+
+----- Weakening -----
+
+[-0.9955320358276367] The Happy Hour at the Dragonfish was exceptional - great prices, great food, great service.
+[-0.9952855110168457] We enjoyed dining at the Dragonfish restaurant for great food and reasonable pricing.
+[-0.9951457977294922] I loved the pan-Asian restaurant in the hotel and ate their twice.
+[-0.9949245452880859] Restaurant (DragonFish) attached to the hotel serves awesome chinese food.
+[-0.994563102722168] The restaurant (Dragonfish) has amazing food, and a wonderful happy hour small plates menu, though it can get quite busy, the hostess just took our room number and called us when our reservation was ready.
+
+**********
+
+[0.5882778167724609] The other restaurants nearby are great.
+Parent: The hotel restaurant is not very good, but there are many other great restaurants nearby.
+
+----- Supporting -----
+
+[0.5882778167724609] The hotel restaurant was no great shakes but it is walking distance to some great eateries.
+[0.2726764678955078] It is within easy walking distance of shopping, great restaurants and Pike's Place.
+[0.1955394744873047] Don't know the concierges name, it would be the older man in the morning but he had great recommendations for restaurants, each one excellent and was so knowledgeable about the city and when was the best times to go to events.
+[0.143157958984375] hotel restaurant isn't very good, try others like palace kitchen, wild ginger, le pitchet.
+[0.1198577880859375] There was transport close by, and some great shops/restaurants.
+
+----- Weakening -----
+
+[-0.32646942138671875] Now on to the bad, the other staff.
+[-0.2363433837890625] The Paramount theatre was across the street and there's shopping on every corner.
+[-0.206451416015625] Debit cards are just a plastic check and not a credit card.
+[-0.1610870361328125] Our GPS system had been stolen.
+[-0.13680648803710938] We nearly thought our car was stolen!
+
+**********
+
+[0.9854145050048828] The location of the hotel is excellent.
+Parent: The location of the hotel is excellent and central to everything you need downtown including transit to anything outside of downtown.
+
+----- Supporting -----
+
+[0.9854145050048828] Location is excellent; the hotel is within walking distance of a bunch of restaurants and the downtown shopping.
+[0.9827661514282227] The location of the hotel is great...close to the convention center, bus and light rail tunnel, Westlake Center as well as restaurants and shopping.
+[0.9607572555541992] The hotel is a perfect location -- a block from the Seattle Convention Center/Conference Center, which was very convenient.
+[0.9534835815429688] Location wise it's brilliant, a block away from the convention centre, Pike's Market just 6 blocks away and Caffe Ladro just opposite the hotel!
+[0.9454126358032227] The hotel is wonderfully situated for that--two blocks from the convention center entrance and across the street from another hotel where some of the conv.
+
+----- Weakening -----
+
+[-0.9870433807373047] The location isn't even that good, a little to far north for me.
+[-0.9478359222412109] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[-0.9200935363769531] Things I don't love about the Paramount: The view isn't much --- the rooms look toward other high-rise buildings.
+[-0.8488273620605469] PLEASE don't give this awful chain your business!
+[-0.8362751007080078] Ok, it is bad.
+
+**********
+
+[0.8893375396728516] The location of the hotel is central to everything you need downtown.
+Parent: The location of the hotel is excellent and central to everything you need downtown including transit to anything outside of downtown.
+
+----- Supporting -----
+
+[0.8893375396728516] The staff is friendly and super helpful (ie: tourist questions, room questions etc), the rooms are neat and clean and comfortable, the location is perfect and close to everything you need downtown including transit to anything outside of downtown (monorail, bus stops, lightrail).
+[0.6844863891601562] The hotel was very well positioned to do that being central to all the major downtown stores and Pike Pklace Market.
+[0.6009397506713867] Only two blocks to the front door of the convention center (under the canopy) and right in the heart of everything you need - Pacific Place Mall is two blocks, there are three - count 'em - three Starbucks within two blocks and a Barnes and Noble bookstore.
+[0.5431365966796875] Laid back, nonintrusive hotel suitable for business or vacation stays, centrally located on Pine--3 blocks from Westlake, a block from the bus terminal ($2.75 airport transfers), and a block from Von's Martini and Manhattan Shrine, never to be missed.
+[0.4727935791015625] Location is excellent; the hotel is within walking distance of a bunch of restaurants and the downtown shopping.
+
+----- Weakening -----
+
+[-0.995853066444397] The location isn't even that good, a little to far north for me.
+[-0.9582290649414062] This is a small place and they react quickly.
+[-0.9081087112426758] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[-0.8827648162841797] Cons 1- No view really.
+[-0.8824515342712402] Based on my overall experience I could not recommend this hotel.
+
+**********
+
+[0.9555444717407227] The hotel is well located for transit to anywhere outside of downtown.
+Parent: The location of the hotel is excellent and central to everything you need downtown including transit to anything outside of downtown.
+
+----- Supporting -----
+
+[0.9555444717407227] The staff is friendly and super helpful (ie: tourist questions, room questions etc), the rooms are neat and clean and comfortable, the location is perfect and close to everything you need downtown including transit to anything outside of downtown (monorail, bus stops, lightrail).
+[0.6283111572265625] The convention center public transportation center is right around the corner from the hotel...from there you can easily take a bus or light rail to anywhere in the city including Pioneer Square.
+[0.4874839782714844] But really the hotel is a $7 cab ride to anything that you want to see that isn't near by.
+[0.3436622619628906] Hotel is a few blocks from the center of downtown and convenient to underground bus (1 block) and light rail station/monorail (2 blocks); easy walk (7 blocks) to Pike Place Market.
+[0.29843902587890625] Laid back, nonintrusive hotel suitable for business or vacation stays, centrally located on Pine--3 blocks from Westlake, a block from the bus terminal ($2.75 airport transfers), and a block from Von's Martini and Manhattan Shrine, never to be missed.
+
+----- Weakening -----
+
+[-0.954157829284668] I guess that's standard practice in downtown hotels, but it really makes it cumbersome to get the car.
+[-0.928563117980957] The location isn't even that good, a little to far north for me.
+[-0.6276664733886719] Ok, it is bad.
+[-0.6248703002929688] Cons 1- No view really.
+[-0.618865966796875] Our GPS system had been stolen.
+
+**********
+
+[0.9102783203125] The location was praised.
+Parent: The location was praised in most of the reviews for being central and close to many attractions.
+
+----- Supporting -----
+
+[0.9102783203125] The location is EXCELLENT, the staff is friendly, welcoming, knowledgeable, and helpful, the beds are heavenly.
+[0.8995580673217773] The location was great.
+[0.8947792053222656] The location was excellent (near downtown shopping as other reviewers have mentioned).
+[0.8902702331542969] Location is great, rooms are pretty nice for the price and the happy hour deals at Dragonfish are quite nice.
+[0.8631820678710938] I really appreciated the fact that it was only a couple of blocks from the train station that I was able to use for my transporation to and from the SeaTac Airport.
+
+----- Weakening -----
+
+[-0.9934616088867188] The location isn't even that good, a little to far north for me.
+[-0.9681053161621094] The only minor thing that I did not like was that they ice machines are on every other floor and located next to the stairwell, so it was a little startling to my girlfriend when someone walked in unbeknownst to her while the machine was running.
+[-0.9343376159667969] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[-0.9275360107421875] Only negative was the attached restaurant for breakfast.
+[-0.9174232482910156] PLEASE don't give this awful chain your business!
+
+**********
+
+[0.9613332748413086] The location is central.
+Parent: The location was praised in most of the reviews for being central and close to many attractions.
+
+----- Supporting -----
+
+[0.9613332748413086] It was quiet and is in a nice central location.
+[0.9067468643188477] It's central location is ideal for shopping and eating in downtown Seattle.
+[0.8641223907470703] It's completely central to any of the major tourist attractions you could want and negates needing a rental car.
+[0.8453636169433594] Laid back, nonintrusive hotel suitable for business or vacation stays, centrally located on Pine--3 blocks from Westlake, a block from the bus terminal ($2.75 airport transfers), and a block from Von's Martini and Manhattan Shrine, never to be missed.
+[0.8067226409912109] The location is very good, in the thick of shopping and restaurants, halfway between Pike St. Market and Capitol Hill.
+
+----- Weakening -----
+
+[-0.9948816299438477] The location isn't even that good, a little to far north for me.
+[-0.9236717224121094] On this last stay, I was assigned a corner room which had great views but, because of having two windows and being on the corner of a busy street, was also a bit noisier (sirens, etc.)
+[-0.9230575561523438] I had a corner room and the view was exceptional.
+[-0.8616847991943359] This is a small place and they react quickly.
+[-0.8476715087890625] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+
+**********
+
+[0.9752607345581055] The location is good.
+Parent: The location was praised in most of the reviews for being central and close to many attractions.
+
+----- Supporting -----
+
+[0.9752607345581055] The location was great.
+[0.9741530418395996] Location is great, rooms are pretty nice for the price and the happy hour deals at Dragonfish are quite nice.
+[0.9733057022094727] The location is EXCELLENT, the staff is friendly, welcoming, knowledgeable, and helpful, the beds are heavenly.
+[0.972442626953125] The location is very good, in the thick of shopping and restaurants, halfway between Pike St. Market and Capitol Hill.
+[0.9703755378723145] The location is excellent (especially if you like to shop!)
+
+----- Weakening -----
+
+[-0.9903793334960938] The location isn't even that good, a little to far north for me.
+[-0.6707992553710938] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[-0.5157127380371094] Ok, it is bad.
+[-0.5147247314453125] Now on to the bad, the other staff.
+[-0.512481689453125] The only minor thing that I did not like was that they ice machines are on every other floor and located next to the stairwell, so it was a little startling to my girlfriend when someone walked in unbeknownst to her while the machine was running.
+
+**********
+
+[0.3102874755859375] The parking was too expensive.
+Parent: The only complaint was the cost of parking.
+
+----- Supporting -----
+
+[0.3102874755859375] We opted not to pay the $27 parking fee (outrageous, I know) but instead found closeby metered spots.
+[0.21991729736328125] Our only complaint was the cost of parking our car.
+[0.045166015625] Parking is all valet and $27/day.
+[0.03139495849609375] If you have a car, parking is $25 night.
+[0.022308349609375] My two night stay with parking and taxes was $389.
+
+----- Weakening -----
+
+[-0.9792442321777344] I got a good deal by booking on the hotel's website where parking was only one dollar extra.
+[-0.9184436798095703] It's also really close to Westlake Station (2 blocks), so if you fly in/out and don't want to rent a car, this is a great option--only $2.75 per person each way.
+[-0.9106969833374023] And in a hotel that is very affordable and nicely located.
+[-0.8985729217529297] Good price point for such a prime location.
+[-0.898564338684082] Very convenient when one does not want to hassle with a rental car.
+
+**********
+
+[0.9829998016357422] The hotel is located in the center of the city.
+Parent: The hotel is centrally located and is within walking distance to many tourist attractions and businesses.
+
+----- Supporting -----
+
+[0.9829998016357422] The hotel is in downtown Seattle right in the middle of it all.
+[0.9683599472045898] The hotel is in the downtown area and we were able to take the light rail from the airport, which was very helpful.
+[0.9606351852416992] This hotel is 4 stars all the way, and in a fantastic location downtown.
+[0.9589824676513672] This hotel is conveniently located in downtown Seattle.
+[0.9292011260986328] The hotel it in plain downtown - 10min.
+
+----- Weakening -----
+
+[-0.9843101501464844] The location isn't even that good, a little to far north for me.
+[-0.9832744598388672] The hotel is wonderfully situated for that--two blocks from the convention center entrance and across the street from another hotel where some of the conv.
+[-0.9754867553710938] It is on the edge of downtown, with parking lots and demolition going on across the street on one side and the Hyatt on the other.
+[-0.9719314575195312] It's a Coast Hotel and the service standards are higher than most hotels.
+[-0.9714584350585938] Hotel is a few blocks from the center of downtown and convenient to underground bus (1 block) and light rail station/monorail (2 blocks); easy walk (7 blocks) to Pike Place Market.
+
+**********
+
+[0.9499692916870117] The hotel is close to many tourist attractions.
+Parent: The hotel is centrally located and is within walking distance to many tourist attractions and businesses.
+
+----- Supporting -----
+
+[0.9499692916870117] Location-wise, this hotel is just a short walk to all of the attractions, and the monorail, which will get you over to the Space Needle and Experience Music Project area.
+[0.9190797805786133] Across the street from the Paramount Theater, and down the street from Pacific Place and Westlake Mall, this hotel offers a great location for tourists wanting to stay in town to be close to all that's going on, as well as for residents that are looking for a weekend of culture or shopping in the city.
+[0.9046101570129395] My family had a girl's weekend in Seattle and chose The Paramount Hotel due to it's proximity to all the attractions.
+[0.8801908493041992] The location of the hotel is great...close to the convention center, bus and light rail tunnel, Westlake Center as well as restaurants and shopping.
+[0.8402929306030273] The hotel is conveniently located, has a helpful and friendly staff, and is within walking distance to PPM, Capitol Hill, Belltown, and the Space Needle.
+
+----- Weakening -----
+
+[-0.6411738395690918] The location isn't even that good, a little to far north for me.
+[-0.35800743103027344] Cons 1- No view really.
+[-0.20517349243164062] Ok, it is bad.
+[-0.1667938232421875] PLEASE don't give this awful chain your business!
+[-0.146148681640625] Bartell's drugstore with trial size toiletries next to Nordstroms.
+
+**********
+
+[0.9124860763549805] The hotel is conveniently located near many businesses.
+Parent: The hotel is centrally located and is within walking distance to many tourist attractions and businesses.
+
+----- Supporting -----
+
+[0.9124860763549805] The location of the hotel is great...close to the convention center, bus and light rail tunnel, Westlake Center as well as restaurants and shopping.
+[0.8867454528808594] Location is excellent; the hotel is within walking distance of a bunch of restaurants and the downtown shopping.
+[0.879237174987793] The hotel was very well positioned to do that being central to all the major downtown stores and Pike Pklace Market.
+[0.8555774688720703] Location wise it's brilliant, a block away from the convention centre, Pike's Market just 6 blocks away and Caffe Ladro just opposite the hotel!
+[0.8517246246337891] Laid back, nonintrusive hotel suitable for business or vacation stays, centrally located on Pine--3 blocks from Westlake, a block from the bus terminal ($2.75 airport transfers), and a block from Von's Martini and Manhattan Shrine, never to be missed.
+
+----- Weakening -----
+
+[-0.9574155807495117] The location isn't even that good, a little to far north for me.
+[-0.42967987060546875] PLEASE don't give this awful chain your business!
+[-0.3575096130371094] Ok, it is bad.
+[-0.34268951416015625] Based on my overall experience I could not recommend this hotel.
+[-0.30829620361328125] I guess that's standard practice in downtown hotels, but it really makes it cumbersome to get the car.
+
+**********
+
+[0.9903750419616699] Parking is a challenge.
+Parent: Parking can be a challenge, but it is worth it for the convenience of the location.
+
+----- Supporting -----
+
+[0.9903750419616699] As always, parking in Seattle is a challenge, but worth putting up with for couple of nights to enjoy the holiday festivities.
+[0.531707763671875] Valet parking was terrible.
+[0.35202789306640625] I guess that's standard practice in downtown hotels, but it really makes it cumbersome to get the car.
+[0.301605224609375] The location is great (ten minute walk from Pike Place Market) but construction in and around the area means you're forced to use valet parking ($25/night).
+[0.22729873657226562] It was rush hour, so the concierge had to stand out there quite a while to catch one that was empty.
+
+----- Weakening -----
+
+[-0.9238128662109375] It was easy to find street parking (so we didn't need to pay the hotel parking rate).
+[-0.9014358520507812] I'm normally a firm matress kind of guy, but I swear lying on that bed was like lying on a cloud.
+[-0.8435440063476562] It's completely central to any of the major tourist attractions you could want and negates needing a rental car.
+[-0.8138008117675781] Very convenient when one does not want to hassle with a rental car.
+[-0.7878894805908203] Great location for conventions and an easy walk into the heart of downtown.
+
+**********
+
+[0.14862060546875] Parking is convenient because of the hotel's location.
+Parent: Parking can be a challenge, but it is worth it for the convenience of the location.
+
+----- Supporting -----
+
+[0.14862060546875] It's also really close to Westlake Station (2 blocks), so if you fly in/out and don't want to rent a car, this is a great option--only $2.75 per person each way.
+[0.08790016174316406] It is on the edge of downtown, with parking lots and demolition going on across the street on one side and the Hyatt on the other.
+[0.0569610595703125] The hotel is a perfect location -- a block from the Seattle Convention Center/Conference Center, which was very convenient.
+[0.05095672607421875] It's completely central to any of the major tourist attractions you could want and negates needing a rental car.
+[0.035515785217285156] It was easy to find street parking (so we didn't need to pay the hotel parking rate).
+
+----- Weakening -----
+
+[-0.9747505187988281] I guess that's standard practice in downtown hotels, but it really makes it cumbersome to get the car.
+[-0.7717781066894531] As always, parking in Seattle is a challenge, but worth putting up with for couple of nights to enjoy the holiday festivities.
+[-0.7034492492675781] The weight machines are so packed together that you can't really move the weights.
+[-0.6871356964111328] Valet parking was terrible.
+[-0.683258056640625] The location isn't even that good, a little to far north for me.
+
+**********
+
+[0.989680290222168] The hotel restaurant, Dragonfish, is good.
+Parent: The hotel restaurant, Dragonfish, is good.
+
+----- Supporting -----
+
+[0.989680290222168] The hotel restuarant, Dragonfish, was good.
+[0.934572696685791] The hotel has gone through some renovations which make it look nice, Dragonfish changed their menu a bit but their food is still good.
+[0.9037494659423828] Restaurant (DragonFish) attached to the hotel serves awesome chinese food.
+[0.8807344436645508] We dined at the Dragonfish there in the hotel and had a great meal.
+[0.8709793090820312] The breakfast (paid separately) in the restaurant Dragonfish CafÃ© at the hotel is limit priceworthy.
+
+----- Weakening -----
+
+[-0.956028938293457] hotel restaurant isn't very good, try others like palace kitchen, wild ginger, le pitchet.
+[-0.8431606292724609] The in-house restaurant is mediocre but not too pricey.
+[-0.8117866516113281] PLEASE don't give this awful chain your business!
+[-0.7687759399414062] The room-service was way overpriced for mediocre food though.
+[-0.7030105590820312] Ok, it is bad.
+
+**********
+
+[0.9678573608398438] The Paramount Hotel is located in downtown Seattle.
+Parent: The Paramount Hotel is centrally located in downtown Seattle, close to shopping, restaurants, and attractions.
+
+----- Supporting -----
+
+[0.9678573608398438] The Paramount was one of the few hotels in downtown Seattle that I had not stayed in over the past 15 years.
+[0.9620094299316406] I have stayed in many of the downtown hotels in Seattle and I have to say that the Paramount is one of the nicest hotels downtown.
+[0.891632080078125] Generally, when we stay at a downtown Seattle hotel, we are happy to be getting back to our own homes and beds, but with Paramount, we were sorry we didn't have a few more days.
+[0.871185302734375] I had difficulty securing a reservation at the major chain hotels in downtown Seattle, so I made a reservation at the Paramount (which is part of a small chain, called Coast hotels, of mostly West coast properties).
+[0.8327178955078125] The hotel continues to impress and deliver an experience that is in-line with other major downtown Seattle chain hotels that charge a room rate that can be up to double what I pay at the Paramount.
+
+----- Weakening -----
+
+[-0.9865713119506836] We've always enjoyed our stay at the Paramount Hotel in Portland, OR.
+[-0.9208450317382812] The Paramount theatre was across the street and there's shopping on every corner.
+[-0.8944854736328125] There is a great coffee shop across the street and the stunning Paramount Theater down the block.
+[-0.8427810668945312] Portland is a great city to visit, and I would recommend this hotel to anyone.
+[-0.8279876708984375] Barnes and Noble right on the corner.
+
+**********
+
+[0.7081050872802734] The Paramount Hotel is conveniently located near shopping, restaurants, and attractions.
+Parent: The Paramount Hotel is centrally located in downtown Seattle, close to shopping, restaurants, and attractions.
+
+----- Supporting -----
+
+[0.7081050872802734] Across the street from the Paramount Theater, and down the street from Pacific Place and Westlake Mall, this hotel offers a great location for tourists wanting to stay in town to be close to all that's going on, as well as for residents that are looking for a weekend of culture or shopping in the city.
+[0.5354518890380859] It is within walking distance of the convention centre, the Paramount theater, Pike's place market and all sorts of shops and restaurants.
+[0.5227432250976562] The location of the hotel is great...close to the convention center, bus and light rail tunnel, Westlake Center as well as restaurants and shopping.
+[0.402679443359375] If you need to be downtown (convention center, business, tourist spots), I would definitely recommend the Paramount if youâ€™re a cost-conscious traveler.
+[0.29360198974609375] diagonal across the street from the Paramount theatre (Billy Elliot the musical was a one minute walk) and central to all the shopping, transit, museum areas etc.
+
+----- Weakening -----
+
+[-0.9823470115661621] The location isn't even that good, a little to far north for me.
+[-0.8335018157958984] Based on my overall experience I could not recommend this hotel.
+[-0.6828136444091797] It was dark, dirty, and noisy from the construction right outside my window.
+[-0.664703369140625] A starbucks is across the street in the Hyatt.
+[-0.6357269287109375] The halls had a very odd smell, like a dental office.
+
+**********
+
+[0.2867164611816406] The hotel's location was praised by reviewers.
+Parent: reviewers praised the hotel's location, noting that it is easy to walk to Pike Place Market and other downtown sights.
+
+----- Supporting -----
+
+[0.2867164611816406] We also like the location of the hotel.
+[0.28093433380126953] The location was excellent (near downtown shopping as other reviewers have mentioned).
+[0.28055572509765625] The location is EXCELLENT, the staff is friendly, welcoming, knowledgeable, and helpful, the beds are heavenly.
+[0.21858596801757812] Location was amazing with 2 movie theatres (our bellman went down and printed off the movie listings from their computer and brought them back to our room) and markets easily walkable.
+[0.17676162719726562] Location is great, rooms are pretty nice for the price and the happy hour deals at Dragonfish are quite nice.
+
+----- Weakening -----
+
+[-0.7763071060180664] The location isn't even that good, a little to far north for me.
+[-0.7650661468505859] PLEASE don't give this awful chain your business!
+[-0.754791259765625] Ok, it is bad.
+[-0.7393245697021484] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[-0.5861587524414062] Sounded like a jackhammer.
+
+**********
+
+[0.8834810256958008] The hotel is close to Pike Place Market and other downtown sights.
+Parent: reviewers praised the hotel's location, noting that it is easy to walk to Pike Place Market and other downtown sights.
+
+----- Supporting -----
+
+[0.8834810256958008] The hotel was very well positioned to do that being central to all the major downtown stores and Pike Pklace Market.
+[0.6092910766601562] Location wise it's brilliant, a block away from the convention centre, Pike's Market just 6 blocks away and Caffe Ladro just opposite the hotel!
+[0.49295806884765625] It is within walking distance of the convention centre, the Paramount theater, Pike's place market and all sorts of shops and restaurants.
+[0.45807647705078125] It's in the heart of the downtown from which you can walk to Seattle Center or Pike Place Market and the water, or go a couple of blocks to public transport (monorail to Seattle Center, light rail to/from airport, bus to Museum of Flight).
+[0.4502267837524414] The hotel was in a great location within walking distance to all the major shopping and Pike's Place Market.
+
+----- Weakening -----
+
+[-0.6302909851074219] The location isn't even that good, a little to far north for me.
+[-0.2432270050048828] Cons 1- No view really.
+[-0.23436355590820312] Ok, it is bad.
+[-0.1808013916015625] Debit cards are just a plastic check and not a credit card.
+[-0.148773193359375] Based on my overall experience I could not recommend this hotel.
+
+**********
+
+[0.7376060485839844] Construction in the area can be a bit of a nuisance.
+Parent: Some reviewers mentioned that construction in the area can be a bit of a nuisance, but overall the location is still very good.
+
+----- Supporting -----
+
+[0.7376060485839844] The location is great (ten minute walk from Pike Place Market) but construction in and around the area means you're forced to use valet parking ($25/night).
+[0.522552490234375] Lots of daytime noise due to the construction.
+[0.4764547348022461] Some other minor issues were the desk chair in the room (it fell short of an appropriate working height of the desk and constantly fell down when your leg accidently hit the adjustment bar in front, poor choice of chairs), the elevator door was annoyingly slow to close (I was up and down several times per day), the exterior and lobby doors should be automatic and I noticed people struggling to open them and get their luggage through, they also were misaligned and did not open well.
+[0.4120292663574219] The only thing was that there was construction going on right across the street that woke us up before 9am on a Monday morning.
+[0.36571311950683594] There's a lot of construction going on around the hotel so make sure you get a room that is high up and that does not overlook the construction site (ask for a room overlooking Pine St) and you'll be fine.
+
+----- Weakening -----
+
+[-0.19036865234375] It was quiet and is in a nice central location.
+[-0.10939788818359375] Nicely appointed lobby.
+[-0.1040496826171875] Hotel was very clean, very quiet, great for a business trip.
+[-0.1037139892578125] What a wonderful surprise.
+[-0.09922409057617188] Everything is at your doorstep.
+
+**********
+
+[0.8272705078125] The location is still very good.
+Parent: Some reviewers mentioned that construction in the area can be a bit of a nuisance, but overall the location is still very good.
+
+----- Supporting -----
+
+[0.8272705078125] The location is very good, in the thick of shopping and restaurants, halfway between Pike St. Market and Capitol Hill.
+[0.82574462890625] The location is excellent being just a short walk to Pike Place and various neighborhoods for shopping and dining.
+[0.8206787109375] The location is excellent (especially if you like to shop!)
+[0.786773681640625] Location is excellent; the hotel is within walking distance of a bunch of restaurants and the downtown shopping.
+[0.7670440673828125] The location of the hotel is great...close to the convention center, bus and light rail tunnel, Westlake Center as well as restaurants and shopping.
+
+----- Weakening -----
+
+[-0.9852762222290039] The location isn't even that good, a little to far north for me.
+[-0.21567535400390625] Now on to the bad, the other staff.
+[-0.18969345092773438] PLEASE don't give this awful chain your business!
+[-0.1424102783203125] Check their website.
+[-0.11753082275390625] Debit cards are just a plastic check and not a credit card.
+
+**********
+
+[0.9795851707458496] The location is excellent.
+Parent: The location is excellent, it is close to everything and it is convenient to walk everywhere.
+
+----- Supporting -----
+
+[0.9795851707458496] The location is excellent (especially if you like to shop!)
+[0.9781894683837891] The location was great.
+[0.9776840209960938] The location is EXCELLENT, the staff is friendly, welcoming, knowledgeable, and helpful, the beds are heavenly.
+[0.9769964218139648] Location is great, rooms are pretty nice for the price and the happy hour deals at Dragonfish are quite nice.
+[0.9728617668151855] Location is excellent; the hotel is within walking distance of a bunch of restaurants and the downtown shopping.
+
+----- Weakening -----
+
+[-0.9974002838134766] The location isn't even that good, a little to far north for me.
+[-0.9567470550537109] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[-0.939295768737793] Ok, it is bad.
+[-0.9318876266479492] PLEASE don't give this awful chain your business!
+[-0.9171543121337891] Cons 1- No view really.
+
+**********
+
+[0.9541492462158203] The location is convenient.
+Parent: The location is excellent, it is close to everything and it is convenient to walk everywhere.
+
+----- Supporting -----
+
+[0.9541492462158203] The pros: - Convenient the location, walking distance to Pike Place Market (8 short blocks) and Bell Town.
+[0.9462413787841797] The hotel is conveniently located, has a helpful and friendly staff, and is within walking distance to PPM, Capitol Hill, Belltown, and the Space Needle.
+[0.9035511016845703] It is close to everything and it was convenient to walk everywhere.
+[0.8845462799072266] The staff is friendly and super helpful (ie: tourist questions, room questions etc), the rooms are neat and clean and comfortable, the location is perfect and close to everything you need downtown including transit to anything outside of downtown (monorail, bus stops, lightrail).
+[0.8612098693847656] The hotel is a perfect location -- a block from the Seattle Convention Center/Conference Center, which was very convenient.
+
+----- Weakening -----
+
+[-0.9901161193847656] The location isn't even that good, a little to far north for me.
+[-0.9295940399169922] I guess that's standard practice in downtown hotels, but it really makes it cumbersome to get the car.
+[-0.8051681518554688] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[-0.7850265502929688] The only minor thing that I did not like was that they ice machines are on every other floor and located next to the stairwell, so it was a little startling to my girlfriend when someone walked in unbeknownst to her while the machine was running.
+[-0.7673797607421875] Valet parking was terrible.
+
+**********
+
+[0.9785351753234863] The location is convenient for walking.
+Parent: The location is excellent, it is close to everything and it is convenient to walk everywhere.
+
+----- Supporting -----
+
+[0.9785351753234863] It is close to everything and it was convenient to walk everywhere.
+[0.964911937713623] The pros: - Convenient the location, walking distance to Pike Place Market (8 short blocks) and Bell Town.
+[0.9476513862609863] Location is good- between 2 bus/light rail stations and easy walking to Pike Place Market.
+[0.9402647018432617] The location is within a reasonable walking distance of shopping, restaurants, and the Pike Place Market (if you pack the proper shoes!).
+[0.9307112693786621] The location is excellent being just a short walk to Pike Place and various neighborhoods for shopping and dining.
+
+----- Weakening -----
+
+[-0.6427774429321289] The location isn't even that good, a little to far north for me.
+[-0.586395263671875] We nearly thought our car was stolen!
+[-0.5379104614257812] Sounded like a jackhammer.
+[-0.40255165100097656] Ok, it is bad.
+[-0.40081787109375] I guess that's standard practice in downtown hotels, but it really makes it cumbersome to get the car.
+
+**********
+
+[0.9752607345581055] The location is good.
+Parent: The location is good, with easy access to public transportation and attractions.
+
+----- Supporting -----
+
+[0.9752607345581055] The location was great.
+[0.9741530418395996] Location is great, rooms are pretty nice for the price and the happy hour deals at Dragonfish are quite nice.
+[0.9733057022094727] The location is EXCELLENT, the staff is friendly, welcoming, knowledgeable, and helpful, the beds are heavenly.
+[0.972442626953125] The location is very good, in the thick of shopping and restaurants, halfway between Pike St. Market and Capitol Hill.
+[0.9703755378723145] The location is excellent (especially if you like to shop!)
+
+----- Weakening -----
+
+[-0.9903793334960938] The location isn't even that good, a little to far north for me.
+[-0.6707992553710938] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[-0.5157127380371094] Ok, it is bad.
+[-0.5147247314453125] Now on to the bad, the other staff.
+[-0.512481689453125] The only minor thing that I did not like was that they ice machines are on every other floor and located next to the stairwell, so it was a little startling to my girlfriend when someone walked in unbeknownst to her while the machine was running.
+
+**********
+
+[0.9573073387145996] The location has easy access to public transportation.
+Parent: The location is good, with easy access to public transportation and attractions.
+
+----- Supporting -----
+
+[0.9573073387145996] The convention center public transportation center is right around the corner from the hotel...from there you can easily take a bus or light rail to anywhere in the city including Pioneer Square.
+[0.9521474838256836] Hotel is a few blocks from the center of downtown and convenient to underground bus (1 block) and light rail station/monorail (2 blocks); easy walk (7 blocks) to Pike Place Market.
+[0.9460487365722656] The staff is friendly and super helpful (ie: tourist questions, room questions etc), the rooms are neat and clean and comfortable, the location is perfect and close to everything you need downtown including transit to anything outside of downtown (monorail, bus stops, lightrail).
+[0.9195785522460938] Location is good- between 2 bus/light rail stations and easy walking to Pike Place Market.
+[0.9091935157775879] Easy walk to light rail, Monorail, Pike Place Market.
+
+----- Weakening -----
+
+[-0.9930105209350586] I guess that's standard practice in downtown hotels, but it really makes it cumbersome to get the car.
+[-0.8268280029296875] Be warned - you can walk to Pike Place Market from here, but the trip back to the hotel has a vicious hill - wear good shoes or be prepared to take a cab.
+[-0.7570724487304688] It was rush hour, so the concierge had to stand out there quite a while to catch one that was empty.
+[-0.6543121337890625] We nearly thought our car was stolen!
+[-0.600830078125] Sounded like a jackhammer.
+
+**********
+
+[0.9588909149169922] The location is close to attractions.
+Parent: The location is good, with easy access to public transportation and attractions.
+
+----- Supporting -----
+
+[0.9588909149169922] Location-wise, this hotel is just a short walk to all of the attractions, and the monorail, which will get you over to the Space Needle and Experience Music Project area.
+[0.9583544731140137] The location of the hotel is great...close to the convention center, bus and light rail tunnel, Westlake Center as well as restaurants and shopping.
+[0.9565792083740234] My family had a girl's weekend in Seattle and chose The Paramount Hotel due to it's proximity to all the attractions.
+[0.9421176910400391] The Paramount was neither, rather a tastefully designed, conveniently located (close to all central attractions and within the Ride Free Area for public transportation) facility.
+[0.9363088607788086] It was a great location and within walking distance to a lot of the tourist attractions and businesses.
+
+----- Weakening -----
+
+[-0.7301101684570312] The location isn't even that good, a little to far north for me.
+[-0.3740997314453125] Cons 1- No view really.
+[-0.20683670043945312] Based on my overall experience I could not recommend this hotel.
+[-0.1810302734375] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[-0.15033721923828125] Ok, it is bad.
+
+**********
+
+[0.90386962890625] Parking is not free.
+Parent: The only downside is the charge for parking.
+
+----- Supporting -----
+
+[0.90386962890625] The parking is $27 a night, info they seem to forget to tell you about.
+[0.8931198120117188] If you have a car, parking is $25 night.
+[0.8856353759765625] Only downside is the charge for parking, $27 a night, but that is now standard, if not low, for parking in Seattle.
+[0.8599090576171875] Price was pretty good for downtown Seattle (I paid $145/nt for two doubles) parking was extra $27/nt, and all the usual heap of taxes.
+[0.8567352294921875] Parking is all valet and $27/day.
+
+----- Weakening -----
+
+[-0.8900527954101562] Everything is at your doorstep.
+[-0.7799072265625] I got a good deal by booking on the hotel's website where parking was only one dollar extra.
+[-0.724822998046875] We were also provided with free Wifi, which was great!
+[-0.68267822265625] Internet access was high-speed and easy to use.
+[-0.672607421875] We found out afterwards that the manager took off the second night room charge and parking from the bill, but the damage has been done.

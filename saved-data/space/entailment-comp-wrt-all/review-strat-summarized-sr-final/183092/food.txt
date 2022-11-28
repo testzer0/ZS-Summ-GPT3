@@ -1,0 +1,86 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.9242532253265381
+
+**********
+
+[0.9833207130432129] The food was good.
+Parent: The reviewers said that the food was good, although some people thought it was too expensive.
+
+----- Supporting -----
+
+[0.9833207130432129] The food was excellent.
+[0.9718503952026367] Food was good and service from all of the staff was extremely professional.
+[0.9661850929260254] The food quality in the restaurant was very good.
+[0.9551897048950195] The meal itself was extremely good, it is well worth your money to have a meal there, you won't be disappointed.
+[0.9322152137756348] We never went hungry and the quality of the food was excellent.
+
+----- Weakening -----
+
+[-0.9843788146972656] We are NOT demanding restaurant a patrons, but both the food and the service was poor.
+[-0.9813728332519531] Food presentation was fancy, but the food didn't taste very good.
+[-0.9768619537353516] The restaurant is not very good, so I would not eat in the restaurant unless you have to.
+[-0.9202079772949219] Concierge lounge nibbles in the evening were a little disappointing, but the staff were friendly (I think this area used to be the old steak house).
+[-0.8643379211425781] I can't comment on the food or drinks offered at the hotel as we did not order anything at the restaurant or room service - it was pretty expensive.
+
+**********
+
+[0.8254852294921875] The food was too expensive.
+Parent: The reviewers said that the food was good, although some people thought it was too expensive.
+
+----- Supporting -----
+
+[0.8254852294921875] The pool area is quite small, and elevators, lobby is packed by noon, and there seem to be a lot of kids running around everytime im there, and the giftshop and cafe were very overpriced.
+[0.5623779296875] There were only 3 minor disappointments -- the concierge lounge was full of families with kids so breakfast was a bit noisy and crowded, the rooftop pool was small and also full of kids, and food at the hotel was pricey -- we got better quality food at more reasonable prices at nearby restaurants.
+[0.5070343017578125] I can't comment on the food or drinks offered at the hotel as we did not order anything at the restaurant or room service - it was pretty expensive.
+[0.23833465576171875] Had a Bloody Ceasar at the Hotel Bar...ouch..10$ for a small glass.
+[0.17510986328125] And for this we paid fancy hotel restaurant prices - ugh!
+
+----- Weakening -----
+
+[-0.9949421882629395] The restaurant was very good and reasonably priced for a hotel restaurant.
+[-0.9879436492919922] Room service was not over-priced and it took about half an hour for our dinner to arrive on the Saturday evening, when we were too lazy to venture out for a meal.
+[-0.9812259674072266] (1) Location of the hotel is ideal , my wife was thrilled as it was within short walling distance to the Eaton center one of the largest shopping centers in Toronto (2) Room is spacious compared to other 4 star hotels, good furniture, clean and neat (3) Good entertainment with LCD 37 inch TV with on demand movies and more (4) Staff are friendly and professional, good staffing numbers very adequate (5) Breakfast was great and included in the price of around US$ 200 per night , very fair price for this hotel, the breakfast included fresh fruits (Produce of Canada) and eggs and an egg station and many other delights
+[-0.9812054634094238] There are tons of excellent restaurants close by for pretty much every taste and budget.
+[-0.9682331085205078] Stayed from August 3rd to 5th with two friends for Caribana Weekend; booked on Expedia at the last minute so I was a bit worried, but the price was fair, so I figured I'd take what I got.
+
+**********
+
+[0.9048862457275391] Some of the dishes were not good.
+Parent: There were a few complaints about specific dishes, but overall people seemed to enjoy the food.
+
+----- Supporting -----
+
+[0.9048862457275391] I had some fried rice that was much too gingery; my side dish of broccoli was overcooked; the key lime pie tasted as if it came from a mix - you get the idea.
+[0.7805461883544922] Food presentation was fancy, but the food didn't taste very good.
+[0.5501384735107422] Concierge lounge nibbles in the evening were a little disappointing, but the staff were friendly (I think this area used to be the old steak house).
+[0.4732017517089844] We are NOT demanding restaurant a patrons, but both the food and the service was poor.
+[0.3256721496582031] When my husband's Cesar salad was served with chicken instead of salmon, he had to hunt down the waiter to point out the problem, and the waiter barely seemed to care.
+
+----- Weakening -----
+
+[-0.2571258544921875] The hotel staff may act like they don't know where it is... but it's on Queen St. For some reason, when we asked about it, they acted like they never heard of it - but it was packed, and they have awesome food!
+[-0.24077987670898438] The food was excellent.
+[-0.23846054077148438] We never went hungry and the quality of the food was excellent.
+[-0.19189453125] Our dinner was memorable with a nice atmosphere, delicious food and the service friendly and helpful.
+[-0.18819808959960938] We can't wait to come back!
+
+**********
+
+[0.9833207130432129] The food was good.
+Parent: There were a few complaints about specific dishes, but overall people seemed to enjoy the food.
+
+----- Supporting -----
+
+[0.9833207130432129] The food was excellent.
+[0.9718503952026367] Food was good and service from all of the staff was extremely professional.
+[0.9661850929260254] The food quality in the restaurant was very good.
+[0.9551897048950195] The meal itself was extremely good, it is well worth your money to have a meal there, you won't be disappointed.
+[0.9322152137756348] We never went hungry and the quality of the food was excellent.
+
+----- Weakening -----
+
+[-0.9843788146972656] We are NOT demanding restaurant a patrons, but both the food and the service was poor.
+[-0.9813728332519531] Food presentation was fancy, but the food didn't taste very good.
+[-0.9768619537353516] The restaurant is not very good, so I would not eat in the restaurant unless you have to.
+[-0.9202079772949219] Concierge lounge nibbles in the evening were a little disappointing, but the staff were friendly (I think this area used to be the old steak house).
+[-0.8643379211425781] I can't comment on the food or drinks offered at the hotel as we did not order anything at the restaurant or room service - it was pretty expensive.

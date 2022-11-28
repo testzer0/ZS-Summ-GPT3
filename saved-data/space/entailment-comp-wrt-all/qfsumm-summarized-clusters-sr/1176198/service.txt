@@ -1,0 +1,149 @@
+***** Aspect: service Model Type : zs *****
+Overall score: 0.8383479118347168
+
+**********
+
+[0.496002197265625] Invalid input.
+Parent: First , there was absolutely no housecleaning / maid service !
+
+----- Supporting -----
+
+[0.496002197265625] We spoke with the lady at the desk and all she had to say was "we have never had a Sunday like this... We have another valet employee coming in in an hour" Not helpful!
+[0.3753662109375] We trusted them to be honest and they were not.
+[0.356170654296875] OK, I love music, but this was no music !
+[0.3006591796875] My only complaint about the room was the Wi-Fi...terrible signal from it and half the time (at least) I couldn't even get on the internet.
+[0.2867431640625] I was there the morning of the false fire alarm and although it was annoying I would rather it be false than for real!
+
+----- Weakening -----
+
+[-0.9923019409179688] Exceptional service!
+[-0.9902153015136719] Good enough, as it was accurate information.
+[-0.9876327514648438] The service was exceptional and went beyond the standard service.
+[-0.987518310546875] Friendly and helpful staff.
+[-0.9840526580810547] A sincere smile and a really good attitude.
+
+**********
+
+[0.9612464904785156] There was no housecleaning.
+Parent: First , there was absolutely no housecleaning / maid service !
+
+----- Supporting -----
+
+[0.9612464904785156] First, there was absolutely no housecleaning/maid service!
+[0.4521484375] We requested to have a maid clean our bathroom and take the trash out, no one ever came!
+[0.134124755859375] my boyfriend and i both went home sore and dead tired from trying to find a comfortable way to sleep tossing and turning all night but there was none.
+[0.124359130859375] Fifth, we were told there was 24 hour room service, when we inquired about room service we were told the kitchen was closed!
+[0.0740966796875] Gym is very good, and to my surprise, was empty the couple of times I went about.
+
+----- Weakening -----
+
+[-0.997520923614502] There was also a very much needed laundry!
+[-0.9967823028564453] The rooms are in excellent condition, housekeeping is very good, and the location is very handy to everything downtown.
+[-0.9967575073242188] Housekeeping changed towels when not needed, and so on and so forth!
+[-0.9966034889221191] Housekeeping even stopped by to make sure we had everything we needed shortly after we arrived.
+[-0.9959993362426758] housekeeping was super here.
+
+**********
+
+[0.9479522705078125] There was no maid service.
+Parent: First , there was absolutely no housecleaning / maid service !
+
+----- Supporting -----
+
+[0.9479522705078125] First, there was absolutely no housecleaning/maid service!
+[0.639617919921875] Pool and hot tub clean, though bizarrly no changing room.
+[0.5892333984375] We requested to have a maid clean our bathroom and take the trash out, no one ever came!
+[0.0914764404296875] Gym is very good, and to my surprise, was empty the couple of times I went about.
+[0.08538818359375] my boyfriend and i both went home sore and dead tired from trying to find a comfortable way to sleep tossing and turning all night but there was none.
+
+----- Weakening -----
+
+[-0.9964690208435059] Housekeeping even stopped by to make sure we had everything we needed shortly after we arrived.
+[-0.995821475982666] Housekeeping changed towels when not needed, and so on and so forth!
+[-0.9943881034851074] If we call for extra towels/sheets/cups, it's all sent up very quickly by housekeeping staff.
+[-0.9942288398742676] We were there for 4 days/3 nights and every day we had to track down a maid to request clean towels.
+[-0.9934291839599609] housekeeping was super here.
+
+**********
+
+[0.496002197265625] Invalid input.
+Parent: Second , after 11 pm you have to use your room card to get into the building .
+
+----- Supporting -----
+
+[0.496002197265625] We spoke with the lady at the desk and all she had to say was "we have never had a Sunday like this... We have another valet employee coming in in an hour" Not helpful!
+[0.3753662109375] We trusted them to be honest and they were not.
+[0.356170654296875] OK, I love music, but this was no music !
+[0.3006591796875] My only complaint about the room was the Wi-Fi...terrible signal from it and half the time (at least) I couldn't even get on the internet.
+[0.2867431640625] I was there the morning of the false fire alarm and although it was annoying I would rather it be false than for real!
+
+----- Weakening -----
+
+[-0.9923019409179688] Exceptional service!
+[-0.9902153015136719] Good enough, as it was accurate information.
+[-0.9876327514648438] The service was exceptional and went beyond the standard service.
+[-0.987518310546875] Friendly and helpful staff.
+[-0.9840526580810547] A sincere smile and a really good attitude.
+
+**********
+
+[0.9885244369506836] You need a room card to get into the building after 11 pm.
+Parent: Second , after 11 pm you have to use your room card to get into the building .
+
+----- Supporting -----
+
+[0.9885244369506836] Second, after 11pm you have to use your room card to get into the building.
+[0.01296234130859375] Happily to get in the hotel at night you need to use your keycard and they ask you to confirm your room number and name at the front desk prior to accessing the elevator.
+[0.0] Horrible !
+[0.0] WOW !
+[0.0] Downfall ?
+
+----- Weakening -----
+
+[-0.6980581283569336] Free internet was nice too, and useful.
+[-0.6860332489013672] Even though we didn't buy them you could buy snacks 24 hours a day which was nice.
+[-0.672393798828125] Then we asked the hotel (after we parked our car in the public parking) and they said that we'd pay $35 until 3 pm!!
+[-0.656158447265625] It is not that hard to match up numbers on tickets to find a vehicle.
+[-0.5536165237426758] And the free internet is speedy.
+
+**********
+
+[0.9889011383056641] After you swipe your card, someone will question you.
+Parent: After swiping your card then you are questioned by someone about which room you are going to .
+
+----- Supporting -----
+
+[0.9889011383056641] After swiping your card then you are questioned by someone about which room you are going to.
+[0.3070220947265625] Happily to get in the hotel at night you need to use your keycard and they ask you to confirm your room number and name at the front desk prior to accessing the elevator.
+[0.06072998046875] staff was lovely except the lady who checked me in , wasnt a happy person , she didnt check me in until she make sure that i m a hilton employee , which i m not very happy about .
+[0.02130126953125] What else can you ask for?.....
+[0.0079345703125] From the check in we were given a hard time because I wanted to pay for all the rooms under 1 card.
+
+----- Weakening -----
+
+[-0.8491592407226562] The great space for the pool and whirlpool is , without question, very impressive.
+[-0.79345703125] Housekeeping changed towels when not needed, and so on and so forth!
+[-0.7774505615234375] Custom made omelets, with several side dishes and great selection of juice, milk, cereals and fruits.
+[-0.7712249755859375] The indoor pool and hot tub are nice and we had the whole area to ourselves when we went.
+[-0.7588653564453125] There was a microwave and a mini fridge which was very convenient.
+
+**********
+
+[0.9898066520690918] You are asked which room you are going to.
+Parent: After swiping your card then you are questioned by someone about which room you are going to .
+
+----- Supporting -----
+
+[0.9898066520690918] After swiping your card then you are questioned by someone about which room you are going to.
+[0.8287353515625] Happily to get in the hotel at night you need to use your keycard and they ask you to confirm your room number and name at the front desk prior to accessing the elevator.
+[0.7808380126953125] At 10:30 requested we get different room.
+[0.6348876953125] I suggest you ask for a room on a high floor as there is a noisy club South of the hotel on the ground floor.
+[0.5960693359375] BAD: Make sure you request a room that is not above the nightclub downstairs on Peter St. We were on the 17th floor & we could still hear all the music, even with our windows shut.
+
+----- Weakening -----
+
+[-0.9570779800415039] I think the valet parking at the hotel is around the same amount and you can take your car in and out as needed.
+[-0.9529323577880859] Breakfast was wonderful- the staff encouraged us to take whatever we wanted to go - with paper bags made available.
+[-0.9511795043945312] Tell us how you liked the room - Had a 2 queen bed room - very spacious and beds were extremely comfortable.
+[-0.9472332000732422] Never heard back.
+[-0.943084716796875] The valet parking service guys are really nice and rest assured your car will be safe.

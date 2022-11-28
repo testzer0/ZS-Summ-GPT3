@@ -1,0 +1,107 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.8336153030395508
+
+**********
+
+[0.9465408325195312] The food was not great.
+Parent: The food was not great, but it was convenient and allowed for quick happy hours and taking food upstairs.
+
+----- Supporting -----
+
+[0.9465408325195312] The room-service was way overpriced for mediocre food though.
+[0.9170494079589844] The in-house restaurant is mediocre but not too pricey.
+[0.8597221374511719] The hotel restaurant was no great shakes but it is walking distance to some great eateries.
+[0.6903419494628906] hotel restaurant isn't very good, try others like palace kitchen, wild ginger, le pitchet.
+[0.5029296875] My pancakes were delicious, but I was a little disappointed with the "hash brows" because they were really only cubed potatoes.
+
+----- Weakening -----
+
+[-0.9915294647216797] It's Asian inspired and they have some incredible little dishes of sushi and japanese type dishes.
+[-0.9907112121582031] The food was awesome and the prices are pretty good.
+[-0.9903774261474609] We enjoyed dining at the Dragonfish restaurant for great food and reasonable pricing.
+[-0.9901580810546875] We dined at the Dragonfish there in the hotel and had a great meal.
+[-0.9891452789306641] The restaurant (Dragonfish) has amazing food, and a wonderful happy hour small plates menu, though it can get quite busy, the hostess just took our room number and called us when our reservation was ready.
+
+**********
+
+[0.9254236221313477] The food was convenient.
+Parent: The food was not great, but it was convenient and allowed for quick happy hours and taking food upstairs.
+
+----- Supporting -----
+
+[0.9254236221313477] The restaurant was always convenient for a quick happy hour and even allowed me to take a drink or a dessert upstairs; the concierge went out to the store to deliver me a Sunday NY Times newspaper.
+[0.292449951171875] A nice touch- there's complimentary internet computers off the lobby and the hotel's restaurant, Dragonfish has good sushi/pan-Asian food if you don't want to go outside in the rain.
+[0.2787599563598633] The staff was friendly, helpful, and prompt, and the hotel's restaurant is good.
+[0.253509521484375] The restaurant (Dragonfish) has amazing food, and a wonderful happy hour small plates menu, though it can get quite busy, the hostess just took our room number and called us when our reservation was ready.
+[0.233917236328125] The room service order-taker and delivery person were both very nice and professional, but it would be wonderful to have a wider range of menu options to select from.
+
+----- Weakening -----
+
+[-0.7538890838623047] PLEASE don't give this awful chain your business!
+[-0.6964340209960938] It was rush hour, so the concierge had to stand out there quite a while to catch one that was empty.
+[-0.6955146789550781] The weight machines are so packed together that you can't really move the weights.
+[-0.6655731201171875] Our GPS system had been stolen.
+[-0.6561126708984375] Sounded like a jackhammer.
+
+**********
+
+[0.48627471923828125] The food was good for quick happy hours.
+Parent: The food was not great, but it was convenient and allowed for quick happy hours and taking food upstairs.
+
+----- Supporting -----
+
+[0.48627471923828125] The restaurant (Dragonfish) has amazing food, and a wonderful happy hour small plates menu, though it can get quite busy, the hostess just took our room number and called us when our reservation was ready.
+[0.3371696472167969] The restaurant was always convenient for a quick happy hour and even allowed me to take a drink or a dessert upstairs; the concierge went out to the store to deliver me a Sunday NY Times newspaper.
+[0.3370361328125] The Dragonfish has great food, and they have a LATE happy hour for the food and select drinks that can't be beat!
+[0.293670654296875] The Asian fusion restaurant, Dragonfish, on the first floor has an outstanding happy hour menu with inexpensive drinks and sushi.
+[0.190338134765625] The restaurant downstairs has amazing happy hours with great food and drink specials.
+
+----- Weakening -----
+
+[-0.6575260162353516] Sounded like a jackhammer.
+[-0.654780387878418] PLEASE don't give this awful chain your business!
+[-0.6380462646484375] Only negative was the attached restaurant for breakfast.
+[-0.6003684997558594] Stripping the sheets, I found a fairly fresh urine stain that made me want to vomit.
+[-0.5472259521484375] The problems were rectified immediately.
+
+**********
+
+[0.9502754211425781] You could take the food upstairs.
+Parent: The food was not great, but it was convenient and allowed for quick happy hours and taking food upstairs.
+
+----- Supporting -----
+
+[0.9502754211425781] The restaurant was always convenient for a quick happy hour and even allowed me to take a drink or a dessert upstairs; the concierge went out to the store to deliver me a Sunday NY Times newspaper.
+[0.45147705078125] By the time someone came back up with it, the food was cold.
+[0.35107421875] I didn't try the Dragonfish, but did order room service which was well priced (for room service anyhow) and was up in 10 minutes.
+[0.349639892578125] A nice touch- there's complimentary internet computers off the lobby and the hotel's restaurant, Dragonfish has good sushi/pan-Asian food if you don't want to go outside in the rain.
+[0.20623779296875] The only minor thing that I did not like was that they ice machines are on every other floor and located next to the stairwell, so it was a little startling to my girlfriend when someone walked in unbeknownst to her while the machine was running.
+
+----- Weakening -----
+
+[-0.9383087158203125] We nearly thought our car was stolen!
+[-0.9126052856445312] Debit cards are just a plastic check and not a credit card.
+[-0.8919219970703125] Our only complaint was the cost of parking our car.
+[-0.88702392578125] I was in a car accident while visiting the Seattle area.
+[-0.8863983154296875] It was put away in the glove box and we noticed immediately that it was gone when the Valet brought our car to us.
+
+**********
+
+[0.8595619201660156] The restaurant was located in a good area.
+Parent: The best thing about the restaurant was its location.
+
+----- Supporting -----
+
+[0.8595619201660156] The location is great, right close to the convention center but other than for the bell man I wouldn't recommend this place.
+[0.7632503509521484] The location is very good, in the thick of shopping and restaurants, halfway between Pike St. Market and Capitol Hill.
+[0.7384586334228516] It's central location is ideal for shopping and eating in downtown Seattle.
+[0.6529541015625] DragonFish, the restaurant downstairs was good too.
+[0.5976505279541016] The location is excellent being just a short walk to Pike Place and various neighborhoods for shopping and dining.
+
+----- Weakening -----
+
+[-0.8062572479248047] The location isn't even that good, a little to far north for me.
+[-0.6488876342773438] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[-0.639404296875] Only negative was the attached restaurant for breakfast.
+[-0.58953857421875] Ok, it is bad.
+[-0.58587646484375] The halls had a very odd smell, like a dental office.

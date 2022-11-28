@@ -1,0 +1,212 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.8960654258728027
+
+**********
+
+[0.9650678634643555] The food was good.
+Parent: The reviewers said that the food was good, with a decent selection.
+
+----- Supporting -----
+
+[0.9650678634643555] Food and service were very good.
+[0.9529514312744141] The food was awesome and the prices are pretty good.
+[0.8735065460205078] The staff was friendly, helpful, and prompt, and the hotel's restaurant is good.
+[0.8651342391967773] The Happy Hour at the Dragonfish was exceptional - great prices, great food, great service.
+[0.821772575378418] We enjoyed dining at the Dragonfish restaurant for great food and reasonable pricing.
+
+----- Weakening -----
+
+[-0.9745140075683594] The room-service was way overpriced for mediocre food though.
+[-0.89569091796875] hotel restaurant isn't very good, try others like palace kitchen, wild ginger, le pitchet.
+[-0.8684539794921875] The in-house restaurant is mediocre but not too pricey.
+[-0.758514404296875] I didn't try it, but it doesn't look appetizing.
+[-0.6816520690917969] PLEASE don't give this awful chain your business!
+
+**********
+
+[0.7035064697265625] The selection was decent.
+Parent: The reviewers said that the food was good, with a decent selection.
+
+----- Supporting -----
+
+[0.7035064697265625] The sushi was good and the drink selection interesting and yummy .
+[0.549774169921875] The hotel restuarant, Dragonfish, was good.
+[0.5056915283203125] Friendly service, clean, a very good option in the Emerald City.
+[0.5025978088378906] We didn't eat at the restaurant on the main floor, but it seemed to be busy at all the peak times, so I can only assume that means the food is decent.
+[0.4715309143066406] The room was pleasantly decorated in warm tones (gold, brown, cream and red), separate shower and bathing tub, & all of the amenities worked (iron, blow dryer, etc).
+
+----- Weakening -----
+
+[-0.97509765625] The choice of channels for the tv is terrible....for the amount you pay this place you should get more than 20 channels....the only thing great about this place is the water pressure.
+[-0.8421783447265625] PLEASE don't give this awful chain your business!
+[-0.7996273040771484] Ok, it is bad.
+[-0.7752265930175781] Now on to the bad, the other staff.
+[-0.7403450012207031] Some other minor issues were the desk chair in the room (it fell short of an appropriate working height of the desk and constantly fell down when your leg accidently hit the adjustment bar in front, poor choice of chairs), the elevator door was annoyingly slow to close (I was up and down several times per day), the exterior and lobby doors should be automatic and I noticed people struggling to open them and get their luggage through, they also were misaligned and did not open well.
+
+**********
+
+[0.9645671844482422] The sushi was good.
+Parent: The sushi was good, and the drink selection was interesting and tasty.
+
+----- Supporting -----
+
+[0.9645671844482422] The sushi was good and the drink selection interesting and yummy .
+[0.6991901397705078] Our room was beautiful-we still talk about the beds-and we couldn't get enough of the sushi restaurant downstairs!
+[0.22344589233398438] Dragonfish restaurant is attached and has great seafood and sushi.
+[0.1686253547668457] Bar / Restaurant downstairs (Dragonfish) had a great Happy hour and sushi.
+[0.15749549865722656] It's Asian inspired and they have some incredible little dishes of sushi and japanese type dishes.
+
+----- Weakening -----
+
+[-0.8438053131103516] I had Sake for $1.
+[-0.8399810791015625] Coffee in the morning.
+[-0.8067188262939453] PLEASE don't give this awful chain your business!
+[-0.73077392578125] ps: the chocolate truffles that was promoted through a Foursquare check-in was extremely good.
+[-0.7263717651367188] There is a great coffee shop across the street and the stunning Paramount Theater down the block.
+
+**********
+
+[0.9654569625854492] The drink selection was interesting.
+Parent: The sushi was good, and the drink selection was interesting and tasty.
+
+----- Supporting -----
+
+[0.9654569625854492] The sushi was good and the drink selection interesting and yummy .
+[0.19617843627929688] The restaurant downstairs has amazing happy hours with great food and drink specials.
+[0.17893218994140625] The Dragonfish has great food, and they have a LATE happy hour for the food and select drinks that can't be beat!
+[0.143768310546875] The only minor thing that I did not like was that they ice machines are on every other floor and located next to the stairwell, so it was a little startling to my girlfriend when someone walked in unbeknownst to her while the machine was running.
+[0.11930084228515625] ps: the chocolate truffles that was promoted through a Foursquare check-in was extremely good.
+
+----- Weakening -----
+
+[-0.7235727310180664] PLEASE don't give this awful chain your business!
+[-0.61810302734375] Stripping the sheets, I found a fairly fresh urine stain that made me want to vomit.
+[-0.6075906753540039] Ok, it is bad.
+[-0.5946731567382812] Now on to the bad, the other staff.
+[-0.4319496154785156] My pancakes were delicious, but I was a little disappointed with the "hash brows" because they were really only cubed potatoes.
+
+**********
+
+[0.9378700256347656] The drink selection was tasty.
+Parent: The sushi was good, and the drink selection was interesting and tasty.
+
+----- Supporting -----
+
+[0.9378700256347656] The sushi was good and the drink selection interesting and yummy .
+[0.5970001220703125] The Dragonfish has great food, and they have a LATE happy hour for the food and select drinks that can't be beat!
+[0.16839599609375] ps: the chocolate truffles that was promoted through a Foursquare check-in was extremely good.
+[0.15459537506103516] They had a happy hour every day with good drink and food prices.
+[0.14518165588378906] The restaurant downstairs has amazing happy hours with great food and drink specials.
+
+----- Weakening -----
+
+[-0.7801895141601562] PLEASE don't give this awful chain your business!
+[-0.7722320556640625] Stripping the sheets, I found a fairly fresh urine stain that made me want to vomit.
+[-0.7036724090576172] Ok, it is bad.
+[-0.6558494567871094] I didn't try it, but it doesn't look appetizing.
+[-0.5120124816894531] They just seem unsanitary to me.
+
+**********
+
+[0.9716906547546387] The Public Market is a great place to start the day.
+Parent: The Public Market was a great place to start the day.
+
+----- Supporting -----
+
+[0.9716906547546387] The Public Market is only blocks away and a great place to start the day.
+[0.012439727783203125] The area felt safe and it was walking distance to the light rail to the airport; I took some longer walks to Capital Hill, to an Episcopal church on Sunday morning and to the Pike Place market area several times--all were fun walks to take.
+[0.00832366943359375] The location is excellent (especially if you like to shop!)
+[0.0069370269775390625] This is a well-run place.
+[0.0066375732421875] Great location, we walked to Pike Market and further.
+
+----- Weakening -----
+
+[-0.9236183166503906] Ok, it is bad.
+[-0.8456783294677734] The best part was the bed.
+[-0.8143157958984375] They just seem unsanitary to me.
+[-0.7679786682128906] Very annoying.
+[-0.7616996765136719] PLEASE don't give this awful chain your business!
+
+**********
+
+[0.6878948211669922] The food at Dragonfish was tasty.
+Parent: The food at Dragonfish was praised by reviewers for being tasty and reasonably priced.
+
+----- Supporting -----
+
+[0.6878948211669922] The restaurant (Dragonfish) has amazing food, and a wonderful happy hour small plates menu, though it can get quite busy, the hostess just took our room number and called us when our reservation was ready.
+[0.6672134399414062] The Happy Hour at the Dragonfish was exceptional - great prices, great food, great service.
+[0.6452512741088867] We enjoyed dining at the Dragonfish restaurant for great food and reasonable pricing.
+[0.643681526184082] The hotel has gone through some renovations which make it look nice, Dragonfish changed their menu a bit but their food is still good.
+[0.5862903594970703] The Dragonfish has great food, and they have a LATE happy hour for the food and select drinks that can't be beat!
+
+----- Weakening -----
+
+[-0.878108024597168] PLEASE don't give this awful chain your business!
+[-0.8760147094726562] The room-service was way overpriced for mediocre food though.
+[-0.8641738891601562] The in-house restaurant is mediocre but not too pricey.
+[-0.6269683837890625] Ok, it is bad.
+[-0.588531494140625] hotel restaurant isn't very good, try others like palace kitchen, wild ginger, le pitchet.
+
+**********
+
+[0.9820427894592285] The food at Dragonfish was reasonably priced.
+Parent: The food at Dragonfish was praised by reviewers for being tasty and reasonably priced.
+
+----- Supporting -----
+
+[0.9820427894592285] We enjoyed dining at the Dragonfish restaurant for great food and reasonable pricing.
+[0.9163436889648438] The breakfast (paid separately) in the restaurant Dragonfish CafÃ© at the hotel is limit priceworthy.
+[0.642791748046875] The Asian fusion restaurant, Dragonfish, on the first floor has an outstanding happy hour menu with inexpensive drinks and sushi.
+[0.2341766357421875] Try eating during the evening happy hour (10pm-1am) and get several appetizers at a low price.
+[0.229705810546875] It'll cost you $3.50, they don't bring sugar or cream, and you can get the same bag of tea in the little coffee maker kit in the bathroom for free.
+
+----- Weakening -----
+
+[-0.9822731018066406] Your only option for room service (aside from breakfast) is overpriced -- tasty, but overpriced -- Asian cuisine from Dragonfish.
+[-0.8879547119140625] The room-service was way overpriced for mediocre food though.
+[-0.8755035400390625] Dragonfish restaurant attached is not run by the hotel but lets you sign charges to your room, and is a very good place, if a bit pricey.
+[-0.685272216796875] Overpriced though.
+[-0.6675891876220703] PLEASE don't give this awful chain your business!
+
+**********
+
+[0.9163522720336914] The menu has changed recently.
+Parent: Some reviewers noted that the menu had changed recently, but that the food was still good.
+
+----- Supporting -----
+
+[0.9163522720336914] The hotel has gone through some renovations which make it look nice, Dragonfish changed their menu a bit but their food is still good.
+[0.085906982421875] When was the the last time that someone arrived at your hotel door with water and chocolates to welcome you?
+[0.030242919921875] The room was comfortable and updated.
+[0.02603912353515625] A lovely hotel with an updated room that was spotless.
+[0.0166168212890625] Messed up my checking account but later found out there is a huge difference, and defintely not the same.
+
+----- Weakening -----
+
+[-0.49767303466796875] They never did it.
+[-0.46282958984375] Our GPS system had been stolen.
+[-0.3096923828125] My room was neatly decorated and very up-to-date.
+[-0.29498291015625] We nearly thought our car was stolen!
+[-0.2836761474609375] First....location!
+
+**********
+
+[0.8662052154541016] The food was still good.
+Parent: Some reviewers noted that the menu had changed recently, but that the food was still good.
+
+----- Supporting -----
+
+[0.8662052154541016] The hotel has gone through some renovations which make it look nice, Dragonfish changed their menu a bit but their food is still good.
+[0.6151123046875] Food and service were very good.
+[0.60418701171875] The food was awesome and the prices are pretty good.
+[0.4476318359375] The Happy Hour at the Dragonfish was exceptional - great prices, great food, great service.
+[0.44378662109375] We dined at the Dragonfish there in the hotel and had a great meal.
+
+----- Weakening -----
+
+[-0.37833404541015625] The room-service was way overpriced for mediocre food though.
+[-0.252197265625] The flat screen television is perfect for a late night movie or watching the morning news.
+[-0.2140655517578125] Internet access was high-speed and easy to use.
+[-0.1923065185546875] The nightly room rate was excellent.
+[-0.178863525390625] In room internet at $9.95/day.

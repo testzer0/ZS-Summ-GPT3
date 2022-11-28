@@ -1,0 +1,23 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.9917163848876953
+
+**********
+
+[0.9917163848876953] The hotel is in a good location.
+Parent: The hotel is in a good area.
+
+----- Supporting -----
+
+[0.9917163848876953] The hotel itself is in a good location.
+[0.9784822463989258] The staff was very polite, rooms were clean, and the hotel has a great location.
+[0.9778962135314941] The hotel is situated in a good area and walking distance to Eaton Centre and many other attractions.
+[0.9777626991271973] Also the hotel was in a very good location for all attractions.
+[0.9770097732543945] The hotel is in a nice location, within walking distance of everything touristy.
+
+----- Weakening -----
+
+[-0.9913215637207031] The hotel is not in a nice area of the city and you will notice a great deal of sketchy personalities roaming the streets around the area.
+[-0.9570236206054688] I could not believe what they charged for a room at this hell-hole, and it is funny just around the corner from the building is a "back-packer's hostel which I thought would have been much better than this dump.
+[-0.9391155242919922] It is very worn and in a terrible area of town.
+[-0.9167728424072266] I cannot begin to explain how awful this hotel is.
+[-0.8904838562011719] Heed this warning stay away from this crappy place, you'll be glad you did.

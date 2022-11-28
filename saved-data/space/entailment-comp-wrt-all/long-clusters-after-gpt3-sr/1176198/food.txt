@@ -1,0 +1,170 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.7247669100761414
+
+**********
+
+[0.9880743026733398] The food was of good quality.
+Parent: Overall, reviewers thought the food was good quality and reasonably priced.
+
+----- Supporting -----
+
+[0.9880743026733398] The food was of high quality and good variety.
+[0.9743995666503906] The price is very reasonabe and the quality of the food was great.
+[0.9180431365966797] The whole experience was great, from the service to the choice and quality of the food.
+[0.8644886016845703] The food at dinner was very good and the breakfast that was included with the room package was excellent.
+[0.844874382019043] yet the restaurant had the same high quality as the big box Hilton.
+
+----- Weakening -----
+
+[-0.5688877105712891] Didn't try the restaurant.
+[-0.56072998046875] I would NOT recommend giving this hotel your business.
+[-0.5345573425292969] OK, I love music, but this was no music !
+[-0.4854469299316406] Never in my life have I spent so much in one place and been treated so poorly.
+[-0.4243202209472656] Ridiculous!
+
+**********
+
+[0.857666015625] The food was reasonably priced.
+Parent: Overall, reviewers thought the food was good quality and reasonably priced.
+
+----- Supporting -----
+
+[0.857666015625] The price is very reasonabe and the quality of the food was great.
+[0.6795654296875] The buffet breakfast is really quite good and worth the price if you are hungry.
+[0.5664291381835938] The prices were comparative to the restaurants in the neighborhood with the difference that service was much better and of course there was the convenience.
+[0.49245452880859375] For a price of $10 we had a choice of hot and cold items, both ready made, and made to order.
+[0.3912467956542969] There were other choices, but I am glad this was our choice given how friendly, confortable and relatively inexpensive it was.
+
+----- Weakening -----
+
+[-0.9863929748535156] Breakfast too expensive for what you got, even if the cooked food is made upon request.
+[-0.7887458801269531] It cost you at least double of the standard taxi ride.
+[-0.7581329345703125] The Only drawback of this hotel is that usage of Business Center is a bit expensive and so is the Restauant in the hotel for the qulaity of food.
+[-0.6255683898925781] Ridiculous!
+[-0.5781478881835938] OK, I love music, but this was no music !
+
+**********
+
+[0.9105558395385742] The dining options were plentiful.
+Parent: There were plenty of dining options available, and the breakfast included in the room package was excellent.
+
+----- Supporting -----
+
+[0.9105558395385742] The breakfast buffett was very well stocked and had lots of options.
+[0.7955741882324219] Great location, especially for going to Rogers Centre, plenty of places to eat nearby, very good breakfast buffet, and has pool for the kids.
+[0.7574653625488281] Food for breakfast was very good with lots to choose from.
+[0.6780605316162109] We could walk to the CN Tower and Skydome as well as many restaurants, and the customers we were calling on were close by, so the location in Toronto was great for us.
+[0.6699180603027344] Lot's of bars and restaurants nearby and plenty of local mini-markets for day to day necessities.
+
+----- Weakening -----
+
+[-0.9406585693359375] The Only drawback of this hotel is that usage of Business Center is a bit expensive and so is the Restauant in the hotel for the qulaity of food.
+[-0.9239730834960938] Two nights we did have a guest, who had orginally intended to attend the conference: despite being assured on the phone that we could add a rollaway for him, when he arrived, we couldn't, and he and my colleague had to split a regular bed.
+[-0.8917083740234375] The dining option was reasonable and the food (dinner & breakfast) was ok. Actually, dinner was of better quality than I was expecting since this wasn't a full service Hilton.
+[-0.8418083190917969] Hotel rooms and restaurant = great "Valet" = brutal and ruined the whole stay.
+[-0.7903938293457031] I would avoid the restaurant in the hotel as the service is slow and inconsistent.
+
+**********
+
+[0.9642534255981445] The breakfast was excellent.
+Parent: There were plenty of dining options available, and the breakfast included in the room package was excellent.
+
+----- Supporting -----
+
+[0.9642534255981445] Breakfast was splendid as usual at Hilton Garden Inn.
+[0.9604940414428711] Breakfast was good and the staff very friendly.
+[0.955988883972168] Food for breakfast was very good with lots to choose from.
+[0.9552078247070312] Breakfast was wonderful- the staff encouraged us to take whatever we wanted to go - with paper bags made available.
+[0.9406900405883789] The second floor restaurant area was lovely and the service at breakfast could not have been better.
+
+----- Weakening -----
+
+[-0.9948272705078125] Comfortable bed, breakfast was ok. Nice view from upper floors.
+[-0.9942646026611328] Breakfast is adequate, nothing impressive.
+[-0.9711990356445312] They did offer us free breakfast which was okay, a little cold but the omelets were really good.
+[-0.9404411315917969] There's good coffee nearby (I'm fairly sure that they didn't offer breakfast).
+[-0.9132075309753418] I would NOT recommend giving this hotel your business.
+
+**********
+
+[0.9423923492431641] The dinner was of better quality.
+Parent: Some reviewers thought the dinner was better quality than expected.
+
+----- Supporting -----
+
+[0.9423923492431641] The dining option was reasonable and the food (dinner & breakfast) was ok. Actually, dinner was of better quality than I was expecting since this wasn't a full service Hilton.
+[0.38491058349609375] The food was of high quality and good variety.
+[0.36297607421875] The price is very reasonabe and the quality of the food was great.
+[0.16211700439453125] Fresh fruit and fruit juices, breads and pastries, and coffee brought to the table rather than stewed out of a communal urn.
+[0.14520263671875] The food at dinner was very good and the breakfast that was included with the room package was excellent.
+
+----- Weakening -----
+
+[-0.89739990234375] The breakfast was much better than I expected.
+[-0.7188529968261719] Didn't try the restaurant.
+[-0.52874755859375] I would avoid the restaurant in the hotel as the service is slow and inconsistent.
+[-0.395172119140625] OK, I love music, but this was no music !
+[-0.3817138671875] Breakfast was super.
+
+**********
+
+[0.16558837890625] The dinner was of poor quality.
+Parent: Some reviewers thought the dinner was better quality than expected.
+
+----- Supporting -----
+
+[0.16558837890625] Hotel rooms and restaurant = great "Valet" = brutal and ruined the whole stay.
+[0.0678253173828125] The Only drawback of this hotel is that usage of Business Center is a bit expensive and so is the Restauant in the hotel for the qulaity of food.
+[0.060089111328125] I would avoid the restaurant in the hotel as the service is slow and inconsistent.
+[0.00942230224609375] Never in my life have I spent so much in one place and been treated so poorly.
+[0.00847625732421875] Also, the staff for some reason couldn't seem to do the sums right!
+
+----- Weakening -----
+
+[-0.9971151351928711] The food was of high quality and good variety.
+[-0.9964466094970703] The food at dinner was very good and the breakfast that was included with the room package was excellent.
+[-0.996436595916748] The restaurant food was excellent-we had chicken stir fry and shrimp pasta.
+[-0.9956297874450684] Restaurant was really good too with great service!
+[-0.9954423904418945] The price is very reasonabe and the quality of the food was great.
+
+**********
+
+[0.020374298095703125] There was not enough cream for coffee.
+Parent: There were a few complaints about the lack of cream for coffee, but otherwise reviewers were happy with the food options available.
+
+----- Supporting -----
+
+[0.020374298095703125] It would be great to see more cream in the room in future.
+[0.01776123046875] everything was super clean.
+[0.0095672607421875] Two nights we did have a guest, who had orginally intended to attend the conference: despite being assured on the phone that we could add a rollaway for him, when he arrived, we couldn't, and he and my colleague had to split a regular bed.
+[0.0016937255859375] Didn't end up using it.
+[0.0] Horrible !
+
+----- Weakening -----
+
+[-0.8662567138671875] Exceptional service!
+[-0.80419921875] There was even a decent wine selction and a waiter that offered reliable advice.
+[-0.7991485595703125] Also, tons of bars everywhere!!!
+[-0.79571533203125] The whirpool temperature was awesome!
+[-0.7954902648925781] The service was exceptional and went beyond the standard service.
+
+**********
+
+[0.9492306709289551] The food options were good.
+Parent: There were a few complaints about the lack of cream for coffee, but otherwise reviewers were happy with the food options available.
+
+----- Supporting -----
+
+[0.9492306709289551] The food was of high quality and good variety.
+[0.9454846382141113] Has a large variety of food and was very good.
+[0.9248113632202148] The hotel's restaurants was actually good too!
+[0.9198970794677734] The whole experience was great, from the service to the choice and quality of the food.
+[0.9176092147827148] Food for breakfast was very good with lots to choose from.
+
+----- Weakening -----
+
+[-0.6337242126464844] Didn't try the restaurant.
+[-0.5635452270507812] It was an adjustable bed that allows you to choose the softness, I found it to be lumpy and uncomfortable.
+[-0.5204238891601562] Wonderful beds and linens.
+[-0.48150634765625] It is a sleep number bed so you can adjust the firmness.
+[-0.48065185546875] If you have a car, consider the cost of parking.

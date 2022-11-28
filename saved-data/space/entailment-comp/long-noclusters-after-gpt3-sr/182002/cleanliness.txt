@@ -1,0 +1,65 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.2313105265299479
+
+**********
+
+[0.6568593978881836] The hotel was clean.
+Parent: The reviewers said that the hotel was clean, modern, and that the only concern they had was the limited parking in the hotel garage.
+
+----- Supporting -----
+
+[0.6568593978881836] It was really clean, and the housekeeping lady was very friendly and always asking if I needed any additional toiletries or coffee.
+[0.4621086120605469] The lobby was clean, as was the elevator.
+[0.21822166442871094] Very clean and the beds were VERY comfortable.
+[0.142333984375] We didnâ€™t run into any problems at the hotel, but unfortunately our trip ended on a sour note as my wifeâ€™s wallet was pickpocketed while we were outside the CN Tower.
+[0.12556743621826172] It was clean, and the housekeeper who came the next morning was friendly.
+
+----- Weakening -----
+
+[-0.9907331466674805] The dust built up in the bathroom and on the carpet was substantial, seriously dust bunnies.
+[-0.977142333984375] Each time weâ€™ve stayed I have always had the impression that the place needs a good cleaning.
+[-0.9753284454345703] Sure enough, when we returned to Ottawa, a Google search revealed that they indeed they had bedbug problems years ago!!!
+[-0.9734706878662109] ), and the the bath towels had yellow stains and smelled "funky"!
+[-0.9719047546386719] I did speak to housekeeping and the reception but the somehow they managed not to get the room clean thoroughly.
+
+**********
+
+[0.0208740234375] The hotel is modern.
+Parent: The reviewers said that the hotel was clean, modern, and that the only concern they had was the limited parking in the hotel garage.
+
+----- Supporting -----
+
+[0.0208740234375] Even housekeeping spoke to us in a morning and passed the time of day.
+[0.01363372802734375] Also to our delight there was a fitness centre, swimming pool and a sauna.
+[0.012830734252929688] It did have nice white towels and a good selection of toiletries.
+[0.01025390625] Came into Toronto to meet up with some friends for a concert, booked a room on Hotwire looking for a good deal.
+[0.008981704711914062] This hotel was not bad at all, check-in was very quick.
+
+----- Weakening -----
+
+[-0.9662895202636719] The carpet could use replacing for staining, but it wasn't dirty, just old.
+[-0.88177490234375] The laundry facilitys are in poor quality.
+[-0.7015380859375] The dust built up in the bathroom and on the carpet was substantial, seriously dust bunnies.
+[-0.5749435424804688] Each time weâ€™ve stayed I have always had the impression that the place needs a good cleaning.
+[-0.5322952270507812] What did bother me though was the cleanliness.
+
+**********
+
+[0.016198158264160156] The reviewers' only concern with the hotel was the limited parking in the hotel garage.
+Parent: The reviewers said that the hotel was clean, modern, and that the only concern they had was the limited parking in the hotel garage.
+
+----- Supporting -----
+
+[0.016198158264160156] Only problem was the carpark was too small.
+[-0.004493236541748047] This hotel was not bad at all, check-in was very quick.
+[-0.01355886459350586] It was clean and comfortable.
+[-0.017003536224365234] For my next visit to Toronto I would hope to be able to stay at the Primrose again.
+[-0.021466732025146484] Came into Toronto to meet up with some friends for a concert, booked a room on Hotwire looking for a good deal.
+
+----- Weakening -----
+
+[-0.9929463863372803] Also which was bothersome was the wifi.
+[-0.991919994354248] What did bother me though was the cleanliness.
+[-0.9719133377075195] Each time weâ€™ve stayed I have always had the impression that the place needs a good cleaning.
+[-0.9277877807617188] I am a nurse from Ottawa, and basic cleanliness is my only must for a hotel.
+[-0.9130005836486816] The Wi-Fi service in the room was undependable, the 40+ kgb reception would suddenly drop to 1Kgb and unuseable, then it would flip up to perhaps 18 kbs and back to 1 kgb.

@@ -1,0 +1,422 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.8557486295700073
+
+**********
+
+[0.7313117980957031] The food was not good.
+Parent: The reviews suggest that the food was either not good or not available.
+
+----- Supporting -----
+
+[0.7313117980957031] The breakfast was very bland and the music show wasn't that great either.
+[0.5175056457519531] The first time the hot tub was a little dirty and the breakfast not so great.
+[0.515869140625] The staff was great but the breakfast was not so great but is was good enough.
+[0.47821044921875] Pluses: Good service, inexpensive, friendly, everything works, nice bath fixtures Negatives: the continental breakfast is kind of sad, but the hot breakfast isn't any better.
+[0.23271942138671875] Not a typical contenintal breakfast.
+
+----- Weakening -----
+
+[-0.9948663711547852] The free breakfast buffet in the morning was delicious and had a good variety.
+[-0.9936113357543945] The places we had dinner "Montana Mikes" and " Florentina's" were both really good food and great service.
+[-0.9932155609130859] The breakfast was wonderful.
+[-0.9931659698486328] The breakfast was excellent.
+[-0.9931564331054688] We ate breakfast the first day and it was very good.
+
+**********
+
+[0.6365013122558594] The food was not available.
+Parent: The reviews suggest that the food was either not good or not available.
+
+----- Supporting -----
+
+[0.6365013122558594] There was no restaurant, bar and the ATM did not work.
+[0.478546142578125] That is when we noticed the sign-no beverages or food allowed in pool room.
+[0.41600799560546875] They do not have room service, restaurant or bar.
+[0.338287353515625] Flat screen TV with lots of channels, but no fridge or microwave.
+[0.29193115234375] Downfall no mini fridge or microwave.
+
+----- Weakening -----
+
+[-0.9985332489013672] They have scrambled eggs, biscuits and gravy, waffles, hot and cold cereal, and even donuts!
+[-0.9983940124511719] Breakfast consisted of waffles, donuts, scrambled eggs, biscuits and gravy, and juice.
+[-0.9983787536621094] The breakfast offered cereal, doughnuts, toast, eggs, biscuits and gravy, fresh waffles, fruit, juices, milk and coffee.
+[-0.9983773231506348] Eggs, sausage, ham, biscuits and gravy plus hot and cold cereals were served.
+[-0.9979610443115234] The kids love the big breakfast with eggs, waffles, b&g, donuts, etc.
+
+**********
+
+[0.8775482177734375] The food was good at Montana Mikes.
+Parent: The food was good at both Montana Mikes and Florentinas, and the service was good as well.
+
+----- Supporting -----
+
+[0.8775482177734375] The places we had dinner "Montana Mikes" and " Florentina's" were both really good food and great service.
+[0.3025703430175781] The price was unbeatable, the staff was helpful, and the breakfast (Which was included) was fantastic!
+[0.157867431640625] Their hot breakfast was included and was excellent with eggs, sauage, biscuits and gravey, and french toast as well as cereal and youart.
+[0.14057159423828125] The breakfast was very good and there was lots of room for every\one to sit and eat.
+[0.1296234130859375] They have a wonderful breakfast buffet with entertainment in the mornings (at no extra cost).
+
+----- Weakening -----
+
+[-0.8957958221435547] They do not have room service, restaurant or bar.
+[-0.8785209655761719] There was no restaurant, bar and the ATM did not work.
+[-0.8662109375] The breakfast was very bland and the music show wasn't that great either.
+[-0.8605203628540039] The room was filthy and disgusting!
+[-0.7535743713378906] That is when we noticed the sign-no beverages or food allowed in pool room.
+
+**********
+
+[0.9530134201049805] The food at Florentinas was good.
+Parent: The food was good at both Montana Mikes and Florentinas, and the service was good as well.
+
+----- Supporting -----
+
+[0.9530134201049805] The places we had dinner "Montana Mikes" and " Florentina's" were both really good food and great service.
+[0.4449424743652344] Their hot breakfast was included and was excellent with eggs, sauage, biscuits and gravey, and french toast as well as cereal and youart.
+[0.30821990966796875] The price was unbeatable, the staff was helpful, and the breakfast (Which was included) was fantastic!
+[0.18951416015625] An excellent breakfast buffet (coffee, orange juice, donuts, 2 large containers of scrambled eggs, same with biscuits and same with 2 sausage gravy containers…as one went close to empty, it was removed and refilled.
+[0.18355560302734375] The breakfast was very good and there was lots of room for every\one to sit and eat.
+
+----- Weakening -----
+
+[-0.8057098388671875] There was no restaurant, bar and the ATM did not work.
+[-0.8009033203125] The room was filthy and disgusting!
+[-0.7759933471679688] The breakfast was very bland and the music show wasn't that great either.
+[-0.6878013610839844] They do not have room service, restaurant or bar.
+[-0.6823921203613281] That is when we noticed the sign-no beverages or food allowed in pool room.
+
+**********
+
+[0.9762783050537109] The service was good.
+Parent: The food was good at both Montana Mikes and Florentinas, and the service was good as well.
+
+----- Supporting -----
+
+[0.9762783050537109] The service was great.
+[0.9679088592529297] The service was great!
+[0.9481353759765625] The employees were outstanding and the service was great.
+[0.9446401596069336] The service was excelent, and the staff was very friendly.
+[0.9267511367797852] Excellent guest service.
+
+----- Weakening -----
+
+[-0.9922409057617188] We got bad reception and approx 15 channels - most of which were news or informational.
+[-0.9905509948730469] The cable tv was horrible.
+[-0.9775428771972656] The hotel messed up the Cocktail Hour suite for both nights, and when I called to complain they did NOTHING to make it right, it was so clear that they could actually care less that I was unhappy.
+[-0.9732856750488281] Nasty staff.
+[-0.9671497344970703] They were very rude!
+
+**********
+
+[0.9762783050537109] The service was good.
+Parent: The food was good at both Montana Mikes and Florentinas, and the service was good as well.
+
+----- Supporting -----
+
+[0.9762783050537109] The service was great.
+[0.9679088592529297] The service was great!
+[0.9481353759765625] The employees were outstanding and the service was great.
+[0.9446401596069336] The service was excelent, and the staff was very friendly.
+[0.9267511367797852] Excellent guest service.
+
+----- Weakening -----
+
+[-0.9922409057617188] We got bad reception and approx 15 channels - most of which were news or informational.
+[-0.9905509948730469] The cable tv was horrible.
+[-0.9775428771972656] The hotel messed up the Cocktail Hour suite for both nights, and when I called to complain they did NOTHING to make it right, it was so clear that they could actually care less that I was unhappy.
+[-0.9732856750488281] Nasty staff.
+[-0.9671497344970703] They were very rude!
+
+**********
+
+[0.9804248809814453] The water was shut off.
+Parent: There was a problem with the water being shut off for a while, which caused the pools to be closed for one night.
+
+----- Supporting -----
+
+[0.9804248809814453] The water was shut off for about four hours and that messed up the pools chorine and they were shut down for one night.
+[0.16064453125] Each pool has a hot tub, but one was closed for maintenance.
+[0.060089111328125] Also, neither of the pools were working while we were there.
+[0.0045166015625] Quiet and clean!
+[0.0] !
+
+----- Weakening -----
+
+[-0.9966192245483398] There are two swimming pools and both were busy when we were there.
+[-0.9959301948547363] You can hear water running and people next door talking.
+[-0.9950799942016602] The extended pool hours are great, you can swim before you start your day and after you return from sightseeing.
+[-0.993492603302002] this was a very nice motel has swimming pools hot tubs and arcade.
+[-0.992560863494873] Two swimming pools for the kids.
+
+**********
+
+[0.9786772727966309] The pools were closed for one night.
+Parent: There was a problem with the water being shut off for a while, which caused the pools to be closed for one night.
+
+----- Supporting -----
+
+[0.9786772727966309] The water was shut off for about four hours and that messed up the pools chorine and they were shut down for one night.
+[0.00384521484375] Also, neither of the pools were working while we were there.
+[0.0035400390625] I left a note to be sent to Branson Vacationland that we needed to turn in before we left showing we had taken advantage of the presentation we were assigned (tried to leave it with them directly but they were closed as we left early a.m) so the checkout person said,reluectantly, that they could send it when they sent their next billing to BV.
+[0.0] !
+[0.0] love them.
+
+----- Weakening -----
+
+[-0.9889659881591797] There are two swimming pools and both were busy when we were there.
+[-0.9822425842285156] My oldest son and I spent a great amount of time in the pool.
+[-0.9755973815917969] Later on that night we went back to the 1st pool room the pool was warm and the hot tub was warm we pushed the bubble button it was still blowing out cold water.
+[-0.9747114181518555] We went to the first pool room the hot tub was not hot at all it was very cold and it was blowing out cold water, the pool was alittle bit cold.
+[-0.974149227142334] We then went to the 2nd pool room the hot tub was hot and the pool was still kinda cold.
+
+**********
+
+[0.7313117980957031] The food was not good.
+Parent: The food was not great, but it was priced well.
+
+----- Supporting -----
+
+[0.7313117980957031] The breakfast was very bland and the music show wasn't that great either.
+[0.5175056457519531] The first time the hot tub was a little dirty and the breakfast not so great.
+[0.515869140625] The staff was great but the breakfast was not so great but is was good enough.
+[0.47821044921875] Pluses: Good service, inexpensive, friendly, everything works, nice bath fixtures Negatives: the continental breakfast is kind of sad, but the hot breakfast isn't any better.
+[0.23271942138671875] Not a typical contenintal breakfast.
+
+----- Weakening -----
+
+[-0.9948663711547852] The free breakfast buffet in the morning was delicious and had a good variety.
+[-0.9936113357543945] The places we had dinner "Montana Mikes" and " Florentina's" were both really good food and great service.
+[-0.9932155609130859] The breakfast was wonderful.
+[-0.9931659698486328] The breakfast was excellent.
+[-0.9931564331054688] We ate breakfast the first day and it was very good.
+
+**********
+
+[0.9456024169921875] The food was priced reasonably.
+Parent: The food was not great, but it was priced well.
+
+----- Supporting -----
+
+[0.9456024169921875] For the location and breakfast, it was priced well.
+[0.83477783203125] Pluses: Good service, inexpensive, friendly, everything works, nice bath fixtures Negatives: the continental breakfast is kind of sad, but the hot breakfast isn't any better.
+[0.6946926116943359] We stayed with a group recently and all had a good time....the group had experienced problems unrelated to the hotel but when we got there the treatment and service we received was wonderful.....we were made to feel right at home......I believe Joe was the gentleman who greeted us and was very kind and professional.....Maryann (I think that was her name) in the breakfast room was an absolute angel.....she went out of her way to make everyone feel special........this is an excellent choice for groups-affordable......receptive to needs.......Also the in charge cleaning lady was very professional and friendly.
+[0.49181365966796875] great complimentary breakfast.
+[0.37401580810546875] Its very much a budget based place without many frills.
+
+----- Weakening -----
+
+[-0.5635223388671875] And, the rate was awesome.
+[-0.5572280883789062] There was no restaurant, bar and the ATM did not work.
+[-0.5521392822265625] The price was great.
+[-0.5317821502685547] The room was filthy and disgusting!
+[-0.5106277465820312] Stay away at all costs.
+
+**********
+
+[0.8295059204101562] The cleanliness was not up to par.
+Parent: There were some issues with cleanliness, but the staff was helpful.
+
+----- Supporting -----
+
+[0.8295059204101562] It was a comfortable room but was not very clean.
+[0.6927452087402344] The hotel just did not seem clean at all.
+[0.6457138061523438] Rooms were nice in decor but there was dirt under the beds, TV was tiny, wireless internet was horrible, room was very small, pool and hot tub were tiny and full of rowdy kids with no one enforcing the rules of no jumping or horseplay, could not enjoy it at all.
+[0.6357841491699219] Well room 506 was not clean and the hallway stunk and as we entered into the room the floor was wet from the sink leaking.
+[0.5713539123535156] Stay for convention...place was filthy....nothing was clean.
+
+----- Weakening -----
+
+[-0.9843006134033203] Everything was clean and worked properly.
+[-0.9824934005737305] It's in a very quiet part of Branson, the rooms are super clean, the staff is very helpful and they have a great hot breakfast.
+[-0.9795799255371094] He appreciated the staff that continuously kept everything filled and fresh.
+[-0.9775323867797852] The staff was so nice and took very good care of us.
+[-0.9765043258666992] The landscape is lovely and the buildings are well kept and clean.
+
+**********
+
+[0.9897198677062988] The staff was helpful.
+Parent: There were some issues with cleanliness, but the staff was helpful.
+
+----- Supporting -----
+
+[0.9897198677062988] Staff were very helpful.
+[0.9890999794006348] The staff was helpful and polite.
+[0.9851341247558594] The staff was super friendly and very helpful.
+[0.9799098968505859] No complaints on the staff, they were helpfull and nice.
+[0.9776473045349121] Employees were friendly and very helpful.
+
+----- Weakening -----
+
+[-0.9951977729797363] The front desk person said they knew nothing about it and couldn't help us.
+[-0.9923477172851562] The hotel messed up the Cocktail Hour suite for both nights, and when I called to complain they did NOTHING to make it right, it was so clear that they could actually care less that I was unhappy.
+[-0.990447998046875] The hotel staff was not helpful but the cleaning staff was very good.
+[-0.9890403747558594] They did not give one person a packet, the Front Desk staff was downright snarky, as if I was asking them to do to much.
+[-0.9881935119628906] Dog was barking in room across the hall all day and night, one of us stepped in dog feces in the parking lot and tracked it into the room :( A group of ill guests vomited just outside the entry door, massive amounts, when we called to ask that it be cleaned up due to health hazards front desk staff was rude!
+
+**********
+
+[0.8711729049682617] The food was good.
+Parent: The food was good overall, with some healthy options available.
+
+----- Supporting -----
+
+[0.8711729049682617] The places we had dinner "Montana Mikes" and " Florentina's" were both really good food and great service.
+[0.8309059143066406] The breakfast was very good.
+[0.7717704772949219] Breakfast was very good; I am a relatively picky eater and I don't understand why other reviews complain about the breakfast, especially given the cost of this hotel.
+[0.7696170806884766] The breakfast was excellent.
+[0.7413444519042969] The breakfast was good and the breakfast entertainment was a nice touch.
+
+----- Weakening -----
+
+[-0.9577827453613281] There was no restaurant, bar and the ATM did not work.
+[-0.763519287109375] The first time the hot tub was a little dirty and the breakfast not so great.
+[-0.7560577392578125] They do not have room service, restaurant or bar.
+[-0.7401046752929688] That is when we noticed the sign-no beverages or food allowed in pool room.
+[-0.7394647598266602] The room was filthy and disgusting!
+
+**********
+
+[0.18560504913330078] The food was healthy.
+Parent: The food was good overall, with some healthy options available.
+
+----- Supporting -----
+
+[0.18560504913330078] Breakfast was good and the breakfast room was very clean.
+[0.14902496337890625] Breakfast was warm and fresh, the people were all very friendly.
+[0.0913238525390625] However, the rooms were clean enough, breakfast was fairly good and we enjoyed the location off the main strip.
+[0.07843780517578125] I recommend it, just don't expect luxury - expect average and clean.
+[0.06807708740234375] They were clean and the furnishing were very nice.
+
+----- Weakening -----
+
+[-0.9323558807373047] There was no restaurant, bar and the ATM did not work.
+[-0.9263696670532227] The room was filthy and disgusting!
+[-0.8929519653320312] The breakfast was very bland and the music show wasn't that great either.
+[-0.8571243286132812] However, it too had a dirty feel to it.
+[-0.8542060852050781] The beds were very very nasty.
+
+**********
+
+[0.9705305099487305] The waffles were good.
+Parent: The waffles and donuts were particularly praised.
+
+----- Supporting -----
+
+[0.9705305099487305] The waffles were great, as were the donuts.
+[0.4698486328125] the staff and mangement are great.
+[0.272613525390625] And, the rate was awesome.
+[0.24627685546875] I highly recommend the Cascade.
+[0.1785888671875] We were wanting a relaxing romantic getaway and they were awesome!
+
+----- Weakening -----
+
+[-0.9429531097412109] The beds were very very nasty.
+[-0.911346435546875] The cable tv was horrible.
+[-0.90338134765625] Nasty staff.
+[-0.891876220703125] NAsty hotel!!!!
+[-0.8882904052734375] However, it's neat and tidy.
+
+**********
+
+[0.91888427734375] The donuts were good.
+Parent: The waffles and donuts were particularly praised.
+
+----- Supporting -----
+
+[0.91888427734375] The waffles were great, as were the donuts.
+[0.21329498291015625] An excellent breakfast buffet (coffee, orange juice, donuts, 2 large containers of scrambled eggs, same with biscuits and same with 2 sausage gravy containers…as one went close to empty, it was removed and refilled.
+[0.050018310546875] We made our own waffles which I like.
+[0.032444000244140625] The kids love the big breakfast with eggs, waffles, b&g, donuts, etc.
+[0.02274322509765625] The breakfast in the mornings was very good.
+
+----- Weakening -----
+
+[-0.7633552551269531] There was no restaurant, bar and the ATM did not work.
+[-0.7539882659912109] Stay away at all costs.
+[-0.7493057250976562] The beds were very very nasty.
+[-0.7381057739257812] There was nothing in our rooms at all to help plan the trip.
+[-0.7135009765625] It should be condemned.
+
+**********
+
+[0.9399070739746094] The coffee was not strong enough.
+Parent: The coffee could be stronger, but other than that the food is good.
+
+----- Supporting -----
+
+[0.9399070739746094] The coffee does need to be a little bit stronger but that's all.
+[0.0384521484375] It was kinda moldy around the bathtub.
+[0.036163330078125] The staff was very helpful but could not find an unstained pilliow in the entire complex!
+[0.029205322265625] Its very much a budget based place without many frills.
+[0.018911361694335938] The breakfast was very bland and the music show wasn't that great either.
+
+----- Weakening -----
+
+[-0.8341064453125] And, the rate was awesome.
+[-0.8284721374511719] We had the Jewel of the Nile it was very nice we loved it.
+[-0.8111572265625] I highly recommend the Cascade.
+[-0.7539072036743164] It was wonderful!
+[-0.69940185546875] They are funny and have wonderful voices.
+
+**********
+
+[0.7391319274902344] The food is good.
+Parent: The coffee could be stronger, but other than that the food is good.
+
+----- Supporting -----
+
+[0.7391319274902344] The places we had dinner "Montana Mikes" and " Florentina's" were both really good food and great service.
+[0.6425819396972656] The breakfast is great and the pool and hot-tub an added plus.
+[0.5818386077880859] The breakfast is great!
+[0.5555782318115234] The breakfast was very good.
+[0.5492210388183594] Good breakfast and a/c good.
+
+----- Weakening -----
+
+[-0.8789939880371094] There was no restaurant, bar and the ATM did not work.
+[-0.7523136138916016] The room was filthy and disgusting!
+[-0.7271595001220703] They do not have room service, restaurant or bar.
+[-0.7110519409179688] The beds were very very nasty.
+[-0.6678695678710938] The first time the hot tub was a little dirty and the breakfast not so great.
+
+**********
+
+[0.9754767417907715] There is a variety of breakfast food available.
+Parent: There is a variety of breakfast food available, and it is all reasonably priced.
+
+----- Supporting -----
+
+[0.9754767417907715] An excellent breakfast buffet (coffee, orange juice, donuts, 2 large containers of scrambled eggs, same with biscuits and same with 2 sausage gravy containers…as one went close to empty, it was removed and refilled.
+[0.9736137390136719] The free breakfast buffet in the morning was delicious and had a good variety.
+[0.9718341827392578] They have scrambled eggs, biscuits and gravy, waffles, hot and cold cereal, and even donuts!
+[0.9604864120483398] The breakfast offered cereal, doughnuts, toast, eggs, biscuits and gravy, fresh waffles, fruit, juices, milk and coffee.
+[0.9573822021484375] The breakfast buffet they provide has hot food (eggs, sausage, french toast sticks, biscuits and gravy) along with your typical hotel breakfast food.
+
+----- Weakening -----
+
+[-0.9085693359375] The breakfast was very bland and the music show wasn't that great either.
+[-0.8456039428710938] There was no restaurant, bar and the ATM did not work.
+[-0.8401584625244141] They could not find anything???????
+[-0.7112932205200195] They do not have room service, restaurant or bar.
+[-0.6972122192382812] Still nothing.
+
+**********
+
+[0.9080905914306641] The breakfast food is reasonably priced.
+Parent: There is a variety of breakfast food available, and it is all reasonably priced.
+
+----- Supporting -----
+
+[0.9080905914306641] For the location and breakfast, it was priced well.
+[0.7284927368164062] great complimentary breakfast.
+[0.6517333984375] Pluses: Good service, inexpensive, friendly, everything works, nice bath fixtures Negatives: the continental breakfast is kind of sad, but the hot breakfast isn't any better.
+[0.6116294860839844] We stayed with a group recently and all had a good time....the group had experienced problems unrelated to the hotel but when we got there the treatment and service we received was wonderful.....we were made to feel right at home......I believe Joe was the gentleman who greeted us and was very kind and professional.....Maryann (I think that was her name) in the breakfast room was an absolute angel.....she went out of her way to make everyone feel special........this is an excellent choice for groups-affordable......receptive to needs.......Also the in charge cleaning lady was very professional and friendly.
+[0.1419677734375] Breakfast was very good; I am a relatively picky eater and I don't understand why other reviews complain about the breakfast, especially given the cost of this hotel.
+
+----- Weakening -----
+
+[-0.79632568359375] The price was great.
+[-0.6574592590332031] Stay away at all costs.
+[-0.6521625518798828] The room was filthy and disgusting!
+[-0.6227645874023438] It was a complete nightmare after a long drive.
+[-0.610107421875] The price was unbeatable, the staff was helpful, and the breakfast (Which was included) was fantastic!

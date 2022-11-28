@@ -1,0 +1,212 @@
+***** Aspect: location Model Type : zs *****
+Overall score: 0.9696278095245361
+
+**********
+
+[0.9914870262145996] The hotel is located near the airport.
+Parent: The hotel is located across the street from the airport, within walking distance to a Denny's, Jack in the Box, and a steak place.
+
+----- Supporting -----
+
+[0.9914870262145996] The good news - the hotel is very close to the airport with a 24hr shuttle to the airport.
+[0.9906625747680664] Hotel is very close the the airport and room was comfortable.
+[0.9895644187927246] Very nice hotel, very close to the airport, walkable in fact to the terminals in less than 10 minutes or one can take a free shuttle bus.
+[0.9891867637634277] The hotel is very close to the airport and sometimes we walk.
+[0.9880475997924805] The hotel is pretty big but the location next to the airport is great.
+
+----- Weakening -----
+
+[-0.9957015514373779] This hotel is by a small lake and at dusk there are misquitos and misc.
+[-0.9409713745117188] Out the back of mine (#5) the deck looked out into a forest.
+[-0.9250602722167969] Downtown Seattle was about a 30 minute ride by light rail service (cost of $16 for the 4 of us) or $40 cab ride to the pier.
+[-0.9111728668212891] The room had a large balcony overlooking a lake and on the 4th floor we were up in the trees.
+[-0.9102449417114258] We were told we had a great view of the "lake" from our room.
+
+**********
+
+[0.9518251419067383] The hotel is close to a Denny's.
+Parent: The hotel is located across the street from the airport, within walking distance to a Denny's, Jack in the Box, and a steak place.
+
+----- Supporting -----
+
+[0.9518251419067383] The hotel was clean, beds were fine, hotel is located across the street from the air port, was within walking distance to a Denny's, Jack in the Box, and a steak place.
+[0.64813232421875] If you don't want to eat breakfast at the hotel, there is a Denny's across the street and an IHOP 2mile down the street.
+[0.054046630859375] The diner next door was good -- I think it's 'Dave's Diner'.
+[0.0420989990234375] There is a Jack in the Box and Denny's across the street as well as a Subway, Thai restaurant and a BBQ restaurant nearby.
+[0.0009918212890625] Great place and would definately stay again.
+
+----- Weakening -----
+
+[-0.9761450290679932] It is on a busy street and I didn't see a restaurant within walking distance so I ate in the lobby.
+[-0.9660863876342773] The room was very clean, cozy and very quiet even though it was so close to the airport.
+[-0.9648838043212891] Despite its proximity to the airport, the room was surprisingly quiet.
+[-0.9510030746459961] Hotel is very close the the airport and room was comfortable.
+[-0.9472775459289551] Close to the airport.
+
+**********
+
+[0.9394302368164062] The hotel is near a Jack in the Box.
+Parent: The hotel is located across the street from the airport, within walking distance to a Denny's, Jack in the Box, and a steak place.
+
+----- Supporting -----
+
+[0.9394302368164062] The hotel was clean, beds were fine, hotel is located across the street from the air port, was within walking distance to a Denny's, Jack in the Box, and a steak place.
+[0.003082275390625] There is a Jack in the Box and Denny's across the street as well as a Subway, Thai restaurant and a BBQ restaurant nearby.
+[0.0] All good!
+[0.0] Ripoff.
+[0.0] !
+
+----- Weakening -----
+
+[-0.9903368949890137] This hotel is by a small lake and at dusk there are misquitos and misc.
+[-0.9803218841552734] The hotel is pretty big but the location next to the airport is great.
+[-0.9760761260986328] The hotel was fine- a big hotel by the airport.
+[-0.9664249420166016] Even though the hotel was close to the airport, you couldn't haer the planes taking off, it was quiet and very relaxing.
+[-0.9661521911621094] Despite its proximity to the airport, the room was surprisingly quiet.
+
+**********
+
+[0.9586238861083984] The hotel is close to a steak place.
+Parent: The hotel is located across the street from the airport, within walking distance to a Denny's, Jack in the Box, and a steak place.
+
+----- Supporting -----
+
+[0.9586238861083984] The hotel was clean, beds were fine, hotel is located across the street from the air port, was within walking distance to a Denny's, Jack in the Box, and a steak place.
+[0.005329132080078125] Food was good, but a bit overpriced.
+[0.00370025634765625] The food was good although a bit pricey.
+[0.0018310546875] Other restaurants were withing walking distance of the hotel.
+[0.0011072158813476562] Will stay there again in the future.
+
+----- Weakening -----
+
+[-0.9766499996185303] It is on a busy street and I didn't see a restaurant within walking distance so I ate in the lobby.
+[-0.9293498992919922] The room was very clean, cozy and very quiet even though it was so close to the airport.
+[-0.8932371139526367] Despite its proximity to the airport, the room was surprisingly quiet.
+[-0.8926906585693359] Close to the airport.
+[-0.8648643493652344] Hotel is very close the the airport and room was comfortable.
+
+**********
+
+[0.9739894866943359] It takes 30 minutes to ride the light rail to downtown Seattle.
+Parent: Downtown Seattle was about a 30 minute ride by light rail service (cost of $16 for the 4 of us) or $40 cab ride to the pier.
+
+----- Supporting -----
+
+[0.9739894866943359] Downtown Seattle was about a 30 minute ride by light rail service (cost of $16 for the 4 of us) or $40 cab ride to the pier.
+[0.0] All good!
+[0.0] Ripoff.
+[0.0] !
+[0.0] .
+
+----- Weakening -----
+
+[-0.7647171020507812] Room was typical for a double tree.
+[-0.7375564575195312] For an airport hotel, it was surprisingly quiet, rooms were extremely comfortable and well prepared, and the staff were all extremely helpful and courteous.
+[-0.7119636535644531] Especially when more than one person in the room has a computer.
+[-0.6670074462890625] It was a huge room with great bedding,sheet count & pillows.
+[-0.6605300903320312] Flat screen TV with many stations available.
+
+**********
+
+[0.989537239074707] The light rail service costs $16 for the 4 of us.
+Parent: Downtown Seattle was about a 30 minute ride by light rail service (cost of $16 for the 4 of us) or $40 cab ride to the pier.
+
+----- Supporting -----
+
+[0.989537239074707] Downtown Seattle was about a 30 minute ride by light rail service (cost of $16 for the 4 of us) or $40 cab ride to the pier.
+[0.0] All good!
+[0.0] Ripoff.
+[0.0] !
+[0.0] .
+
+----- Weakening -----
+
+[-0.8885469436645508] The free airport shuttle runs every 15 mins or so and really helped us catch our flight the next morning.
+[-0.8728723526000977] Free shuttle to the airport got us to the terminal in about 3 minutes!
+[-0.8642749786376953] Buses are available for $2.00 and the Rail is $5.00 round trip to WestLake, Seattle, and back to the SeaTac.
+[-0.8137350082397461] After a good nights sleep, the free shuttle to the airport saved us a lot of stress!
+[-0.7727870941162109] What they didn't tell us when booking on the website is that the parking is $16 per night and the internet in the rooms is not wireless.
+
+**********
+
+[0.9870986938476562] A cab ride to the pier costs $40.
+Parent: Downtown Seattle was about a 30 minute ride by light rail service (cost of $16 for the 4 of us) or $40 cab ride to the pier.
+
+----- Supporting -----
+
+[0.9870986938476562] Downtown Seattle was about a 30 minute ride by light rail service (cost of $16 for the 4 of us) or $40 cab ride to the pier.
+[0.0] All good!
+[0.0] Ripoff.
+[0.0] !
+[0.0] .
+
+----- Weakening -----
+
+[-0.8887748718261719] t was a very long walk to get to the room.
+[-0.8405418395996094] Pros - Very close to airport, very quiet rooms (you cant hear the airplanes taking off even though it is right across from the airport), friendly staff, VERY comfortable beds with lots of pillows, large rooms, ice and vending machines close to all rooms, nicely appointed bathrooms, free shuttle (runs every 20 min, no reservation needed), convenience store on site, ATM, warm cookies on check in.
+[-0.8107147216796875] Very conveinient for early morning flights.
+[-0.7946357727050781] other bugs every where.
+[-0.7623748779296875] Diamond members get a small gift...it was three pieces of fruit on a stick and two pieces of cheese...can you say cheesy!!
+
+**********
+
+[0.9601297378540039] The light rail was easily accessible.
+Parent: It had easy access to the light rail located at the airport (we took the DT shuttle over).
+
+----- Supporting -----
+
+[0.9601297378540039] It had easy access to the light rail located at the airport (we took the DT shuttle over), and was next to an Enterprise car rental.
+[0.7040596008300781] I didn't have a car so Airport, Light Rail and many restaurants are in walking distance.
+[0.301483154296875] You could safely cross the street at the light and crosswalk and find your self at a diner or several other restaurants.
+[0.1991119384765625] No need for a car, I got around just fine on the busses and the Rail.
+[0.1012735366821289] It seemed to ALWAYS be running, and was very convenient.
+
+----- Weakening -----
+
+[-0.9681358337402344] Waited forever to be seated and there were only 3 others in the place.
+[-0.9679598808288574] We got lost as did lots of people we met along the way!
+[-0.9597530364990234] It was so liquified that it spilled all over my hand and burned me terribly.
+[-0.9590225219726562] Getting to the room was a fun adventure in itself.
+[-0.9585323333740234] But the nightmare wasn't over, then it took three more tries to get a room with a non-rattling heater and sliding doors that sealed and did not let the traffic noise in.
+
+**********
+
+[0.9763946533203125] The light rail is at the airport.
+Parent: It had easy access to the light rail located at the airport (we took the DT shuttle over).
+
+----- Supporting -----
+
+[0.9763946533203125] It had easy access to the light rail located at the airport (we took the DT shuttle over), and was next to an Enterprise car rental.
+[0.4117431640625] Hotel shuttle picked us up at the airport and took us to the light rail station to go into Seattle the next day.
+[0.380615234375] I didn't have a car so Airport, Light Rail and many restaurants are in walking distance.
+[0.0] All good!
+[0.0] Ripoff.
+
+----- Weakening -----
+
+[-0.9926691055297852] This is an older hotel that has gone through a recent renovation.
+[-0.9905624389648438] This is a very large and confusingly laid out hotel.
+[-0.9888324737548828] The pool was huge and gorgeous.
+[-0.987579345703125] This is a huge hotel.
+[-0.987213134765625] This is a large hotel and I expected it to be large and impersonal.
+
+**********
+
+[0.9677619934082031] We took the shuttle over.
+Parent: It had easy access to the light rail located at the airport (we took the DT shuttle over).
+
+----- Supporting -----
+
+[0.9677619934082031] It had easy access to the light rail located at the airport (we took the DT shuttle over), and was next to an Enterprise car rental.
+[0.9627456665039062] We took the shuttle from the airport, and then back again to pick up our rental car (save the parking fee).
+[0.822479248046875] Free shuttle to the airport got us to the terminal in about 3 minutes!
+[0.7906494140625] We utilized the free airport shuttle, which is handy, but did not use any other hotel service.
+[0.740966796875] After a good nights sleep, the free shuttle to the airport saved us a lot of stress!
+
+----- Weakening -----
+
+[-0.9790143966674805] t was a very long walk to get to the room.
+[-0.9692535400390625] Also, wished to have their shuttle drop us off @ transit terminal but we were told to wait - we decided to walk and it was rather cold.
+[-0.9675502777099609] It was a long ackward walk to our room.
+[-0.9633045196533203] Our room was in the main tower, and was reached by an external elevator with glass walls.
+[-0.9620857238769531] The bed was so comfy I slept like a baby.

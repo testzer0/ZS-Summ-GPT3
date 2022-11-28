@@ -1,0 +1,42 @@
+***** Aspect: food Model Type : simcse *****
+Overall score: 0.7998917698860168
+
+**********
+
+[0.844704270362854] the breakfast was excellent and the food was excellent.
+
+----- Supporting -----
+
+[0.844704270362854] Restaurant food was excellent and reasonably priced and breakfast was good.
+[0.714863121509552] Choice of food was excelent.
+[0.6090819835662842] We ate at both the lounge and the cafe and food was average at best, but the service VERY GOOD!
+[0.6054086685180664] We tried the hotel restaurants and the food was quite good.
+[0.5648155808448792] We ate supper in their restaurant and I had an excellent salad (large enough to divide) and an exceptionally good Reuben sandwich.
+
+----- Weakening -----
+
+[-0.001872311346232891] We cannot comment on the value, as our price was included in our group travel, so Iwe're sure it was a group or discounted rate.
+[0.028073636814951897] It is hard to find fault at that price, and I won't.
+[0.029064059257507324] What a rip-off!
+[0.15239089727401733] Overall I was quite pleased as we paid only $50 through Priceline.
+[0.15802237391471863] So we had to order a pizza.
+
+**********
+
+[0.7550792694091797] the restaurant was very clean and the staff were very helpful.
+
+----- Supporting -----
+
+[0.7550792694091797] It was good and the staff was attentive.
+[0.5717695951461792] We ate at both the lounge and the cafe and food was average at best, but the service VERY GOOD!
+[0.549113929271698] We tried the hotel restaurants and the food was quite good.
+[0.5413815379142761] Restaurant food was excellent and reasonably priced and breakfast was good.
+[0.47566524147987366] The hotel reception had a lovely smell of freshly baked cookies which were given out at check in and were delicious.
+
+----- Weakening -----
+
+[-0.008198652416467667] What a rip-off!
+[0.05992766097187996] We cannot comment on the value, as our price was included in our group travel, so Iwe're sure it was a group or discounted rate.
+[0.06238017976284027] It is hard to find fault at that price, and I won't.
+[0.09085427969694138] I love the big warm cookies in the evening.
+[0.09236229956150055] Then there was this set-up for the syrup which was under a sterno can and full flame, the syrup was boiling.

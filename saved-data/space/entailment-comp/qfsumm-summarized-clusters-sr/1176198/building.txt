@@ -1,0 +1,107 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.8267078399658203
+
+**********
+
+[0.9622325897216797] The lobby is lovely.
+Parent: The lobby is quite lovely , the parking is expensive .
+
+----- Supporting -----
+
+[0.9622325897216797] The lobby is quite lovely, the parking is expensive.
+[0.8359546661376953] Nice lobby with fresh cookies in the evening.
+[0.207183837890625] Lobby is great for meeting friends and you can sit and chat there even if you don't want a drink.
+[0.102294921875] The lobby is a little spare, and the furnishings are going down that Hilton Garden Inn direction of "your room is your office", which I appreciate when I travel for, well, business, and which appeals less for when I'm there because it's down the street from the theatre.
+[0.039947509765625] The lobby has delicious cookies every afternoon.
+
+----- Weakening -----
+
+[-0.6600370407104492] Never again will I waste money at this property.
+[-0.5849876403808594] There were weird grease marks on the wall as well.
+[-0.5337638854980469] I was there the morning of the false fire alarm and although it was annoying I would rather it be false than for real!
+[-0.3514404296875] How easy could it have been for someone else to leave with our truck if they could bring us the wrong car?
+[-0.2835693359375] The great space for the pool and whirlpool is , without question, very impressive.
+
+**********
+
+[0.4656562805175781] The parking is too expensive.
+Parent: The lobby is quite lovely , the parking is expensive .
+
+----- Supporting -----
+
+[0.4656562805175781] The lobby is quite lovely, the parking is expensive.
+[-0.0045928955078125] Never again will I waste money at this property.
+[-0.008490562438964844] I did hear them but maybe I just expect that city hum, having grown up in NY.
+[-0.008965492248535156] The descriptions of the neighborhood other reviewers made in the past are correct: there are some questionable-looking people, but that is just one of the elements of any big city.
+[-0.010758399963378906] The lobby was packed with people waiting for their cars.
+
+----- Weakening -----
+
+[-0.49909305572509766] We also walked to Kensington Market in 15 minutes or so.
+[-0.4636116027832031] The lobby is a little spare, and the furnishings are going down that Hilton Garden Inn direction of "your room is your office", which I appreciate when I travel for, well, business, and which appeals less for when I'm there because it's down the street from the theatre.
+[-0.3905935287475586] Lobby was a little small and at times quite crowded, but once you pass through that it was a non-issue.
+[-0.2815704345703125] (once we figured out how to work all the shower heads) The walls were very thin though-we could really hear our neighbours mini party at 2AM in the morning.
+[-0.2661561965942383] Lobby is great for meeting friends and you can sit and chat there even if you don't want a drink.
+
+**********
+
+[0.9845256805419922] The facilities are better than in any other hotel.
+Parent: The facilities are also better than I have encountered in any hotel .
+
+----- Supporting -----
+
+[0.9845256805419922] The facilities are also better than I have encountered in any hotel.
+[0.002288818359375] The place is brand new so everything works just fine.
+[0.0006656646728515625] Definately recommend the property.
+[0.000453948974609375] The great space for the pool and whirlpool is , without question, very impressive.
+[0.00017547607421875] The lobby is quite lovely, the parking is expensive.
+
+----- Weakening -----
+
+[-0.6727256774902344] Never again will I waste money at this property.
+[-0.5480022430419922] There were weird grease marks on the wall as well.
+[-0.468292236328125] The only bad things that i can mention are that during my stay another guest decided to set the fire alarm of at 04:30, not a wake up call I want to repeat.
+[-0.4264106750488281] I was there the morning of the false fire alarm and although it was annoying I would rather it be false than for real!
+[-0.41983985900878906] The fire alarm went off in the ENTIRE hotel very early in the morning because someone burned toast.
+
+**********
+
+[0.9705867767333984] The hotel has a fire alarm.
+Parent: The only bad things that i can mention are that during my stay another guest decided to set the fire alarm of at 04:30 , not a wake up call I want to repeat .
+
+----- Supporting -----
+
+[0.9705867767333984] The fire alarm went off in the ENTIRE hotel very early in the morning because someone burned toast.
+[0.5939788818359375] The only bad things that i can mention are that during my stay another guest decided to set the fire alarm of at 04:30, not a wake up call I want to repeat.
+[-0.0052337646484375] The lobby is also small.
+[-0.006195068359375] I was there the morning of the false fire alarm and although it was annoying I would rather it be false than for real!
+[-0.0062808990478515625] Definately recommend the property.
+
+----- Weakening -----
+
+[-0.38494873046875] How easy could it have been for someone else to leave with our truck if they could bring us the wrong car?
+[-0.28578948974609375] We had to rent a car and travel back to US to have key made.
+[-0.13828659057617188] The great space for the pool and whirlpool is , without question, very impressive.
+[-0.13243865966796875] And to CN tower.
+[-0.12604141235351562] We also walked to Kensington Market in 15 minutes or so.
+
+**********
+
+[0.7505378723144531] The hotel had a guest set off the fire alarm at 04:30.
+Parent: The only bad things that i can mention are that during my stay another guest decided to set the fire alarm of at 04:30 , not a wake up call I want to repeat .
+
+----- Supporting -----
+
+[0.7505378723144531] The only bad things that i can mention are that during my stay another guest decided to set the fire alarm of at 04:30, not a wake up call I want to repeat.
+[0.0051116943359375] The fire alarm went off in the ENTIRE hotel very early in the morning because someone burned toast.
+[-0.0076122283935546875] We had to call the front desk to figure out what exactly was going on.
+[-0.014760971069335938] I was there the morning of the false fire alarm and although it was annoying I would rather it be false than for real!
+[-0.020654678344726562] My husband had to drive back following week to Toronto from US after having been on the road for work for four days, to get our car back, that had been sitting underground under the hotel.
+
+----- Weakening -----
+
+[-0.697601318359375] The place is brand new so everything works just fine.
+[-0.6802825927734375] The lobby has delicious cookies every afternoon.
+[-0.6287765502929688] How easy could it have been for someone else to leave with our truck if they could bring us the wrong car?
+[-0.4268531799316406] Lobby is great for meeting friends and you can sit and chat there even if you don't want a drink.
+[-0.3964862823486328] As we arrived, I was wondering why the front desk girl was all rushed while we were the only ones checking in.

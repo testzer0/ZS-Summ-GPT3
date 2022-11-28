@@ -1,0 +1,128 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.9672874212265015
+
+**********
+
+[0.9886002540588379] The hotel was clean.
+Parent: The reviewers found the hotel to be clean overall, with the exception of a few hairs in the tub and some stains on the carpet.
+
+----- Supporting -----
+
+[0.9886002540588379] This hotel was clean, convenient and reasonably priced.
+[0.988318681716919] The hotel was very clean, room was quite large and shower had good water pressure.
+[0.9872126579284668] The Hotel is very clean, has free WiFi, is well decorated and very comfortable.
+[0.9846506118774414] The hotel was clean and the rooms modern and good sized.
+[0.9841084480285645] This hotel was modern, clean and well maintained.
+
+----- Weakening -----
+
+[-0.9949121475219727] This night was a bit of a mess; we would walk out to the hallway and smell weed, hear loud music blasting, etc.
+[-0.9943633079528809] Plus the spa had too much chlorine in and that my eye's were stinging.
+[-0.9914588928222656] The fire alarm went off in the ENTIRE hotel very early in the morning because someone burned toast.
+[-0.9905872344970703] The wallpaper in the bathroom and our room was warped, bubbled, etc.
+[-0.9848165512084961] There were weird grease marks on the wall as well.
+
+**********
+
+[0.981074333190918] There were a few hairs in the tub.
+Parent: The reviewers found the hotel to be clean overall, with the exception of a few hairs in the tub and some stains on the carpet.
+
+----- Supporting -----
+
+[0.981074333190918] All very clean, there was a couple of hairs in the tub but everything else was spotless.
+[0.0988616943359375] They told us in a very rude tone and with attitude that our credit card had been declined over the last few days and that they had tried it several time so we would have to provide a cash deposit.
+[0.037750244140625] Also, the staff for some reason couldn't seem to do the sums right!
+[0.00630950927734375] Pool is very small, and every time we stopped by there it was quite busy.
+[0.002681732177734375] Pool/Hot Tub isn't much to write home about.
+
+----- Weakening -----
+
+[-0.528900146484375] Also, tons of bars everywhere!!!
+[-0.442840576171875] Incidentally, the valet brought up the wrong car, notwithstanding that there were probably few cars with Virginia license plates in the garage.
+[-0.405853271484375] The lobby was packed with people waiting for their cars.
+[-0.3050079345703125] The fire alarm went off in the ENTIRE hotel very early in the morning because someone burned toast.
+[-0.292724609375] Free wi-fi!
+
+**********
+
+[0.9755535125732422] There are stains on the carpet.
+Parent: The reviewers found the hotel to be clean overall, with the exception of a few hairs in the tub and some stains on the carpet.
+
+----- Supporting -----
+
+[0.9755535125732422] However the carpet in the room had 2 stains.
+[0.33953857421875] Since we never walk bare feet on the carpet and the rest was clean, I assumed it had been cleaned but it didn't come off.
+[0.009181976318359375] We were on the 15th floor and it still carried up and made it hard to sleep.
+[0.002593994140625] From the valet staff to the front desk, to the cleaning staff, everyone was curteous and very friendly.
+[0.0002765655517578125] Could you clean a room at 10 so we could have a meeting in it.
+
+----- Weakening -----
+
+[-0.8930206298828125] You could make your own waffles with delicious toppings, huge choice of cereals and pastries, cooked items are made to order so fresh and yummy!
+[-0.8319931030273438] Fresh fruit and fruit juices, breads and pastries, and coffee brought to the table rather than stewed out of a communal urn.
+[-0.806976318359375] The food was of high quality and good variety.
+[-0.7828521728515625] Made to order eggs, french toast, waffles, omlettes, fresh fruit, cereals, selection of pastries, yogurts..you name it.
+[-0.7808151245117188] I have nothing bad to say about this hotel, helpful staff, clean tidy room, comfy beds, great location, it was a perfect place to stay.
+
+**********
+
+[0.9922170639038086] The bathroom was clean.
+Parent: The bathroom was particularly clean.
+
+----- Supporting -----
+
+[0.9922170639038086] The bathroom was lovely and clean as well.
+[0.981867790222168] Bathroom very clean.
+[0.9131011962890625] All very clean, there was a couple of hairs in the tub but everything else was spotless.
+[0.7861366271972656] The hotel was very clean, room was quite large and shower had good water pressure.
+[0.7662677764892578] Super clean..i mean there wasn't any dust...dirt, smudges...The (glass or plexiglass) partition for whirpool was so clean that it positively sparkled.
+
+----- Weakening -----
+
+[-0.9945964813232422] Plus the spa had too much chlorine in and that my eye's were stinging.
+[-0.9933719635009766] The wallpaper in the bathroom and our room was warped, bubbled, etc.
+[-0.9759807586669922] There were weird grease marks on the wall as well.
+[-0.9160995483398438] However the carpet in the room had 2 stains.
+[-0.902984619140625] We requested to have a maid clean our bathroom and take the trash out, no one ever came!
+
+**********
+
+[0.8735733032226562] The nightclub next door was too loud.
+Parent: There were some complaints about noise from the nightclub next door, but reviewers generally found the rooms clean and comfortable.
+
+----- Supporting -----
+
+[0.8735733032226562] Nice staff, great location, wonderful breakfast, clean modern rooms, but if your room is on the south side of the building, the noise from the club next door will rock your world until about 2:30 AM.
+[0.7614326477050781] However, it's right next to a really noisy nightclub.
+[0.5243148803710938] The obnoxious discobar downstairs next door !
+[0.403167724609375] My fiance and I stayed at this hotel the last time we went to Toronto to see a jays ball game, located a few footsteps from the cn tower/rogers centre, very convenient location, very good price, clean room, friendly staff, but as other reviews say, and we were expecting it and didn't mind considering the price and location, this hotel is right next to a night club, so the music really boom booms until early morning, unless you are a light sleeper, I would recommend this hotel to you.
+[0.281158447265625] The Saturday night rave at the local night spot was fairly noisy and interrupted our sleep.
+
+----- Weakening -----
+
+[-0.9560379981994629] There was an event on at the nightclub one night and I never heard anything.
+[-0.9434497356414795] Did not hear a thing the whole time we were there.
+[-0.9392337799072266] Also it is conveniently located near a Shoppers which, with the in room microwave and fridge it makes it easy to have a quick snack in the room.
+[-0.9117937088012695] It is convenient to a nearby Shopper's Drug Mart (to pick up some in room snacks) and a large LCBO with a rather big Vintages section for some excellent wine for the room.
+[-0.9114851951599121] everything was super clean.
+
+**********
+
+[0.9927060604095459] The rooms were clean and comfortable.
+Parent: There were some complaints about noise from the nightclub next door, but reviewers generally found the rooms clean and comfortable.
+
+----- Supporting -----
+
+[0.9927060604095459] The rooms were very clean and comfortable and the location was very convenient to a lot of major attractions downtown.
+[0.9917118549346924] :-) Rooms VERY clean and were comfortable and roomy...sitting chairs and ottomans to put your feet up.
+[0.9898126125335693] The room was clean and and the beds are really comfortable.
+[0.989722728729248] The service was exceptional and the rooms are very clean and comfortable.
+[0.988762378692627] The room was clean and comfortable...So nice to have that special attention from our room staff...thank you!
+
+----- Weakening -----
+
+[-0.9973559379577637] This night was a bit of a mess; we would walk out to the hallway and smell weed, hear loud music blasting, etc.
+[-0.9948201179504395] The wallpaper in the bathroom and our room was warped, bubbled, etc.
+[-0.993046760559082] my boyfriend and i both went home sore and dead tired from trying to find a comfortable way to sleep tossing and turning all night but there was none.
+[-0.9901666641235352] Plus the spa had too much chlorine in and that my eye's were stinging.
+[-0.9894237518310547] There were weird grease marks on the wall as well.

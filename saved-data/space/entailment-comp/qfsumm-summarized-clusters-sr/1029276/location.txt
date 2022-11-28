@@ -1,0 +1,107 @@
+***** Aspect: location Model Type : zs *****
+Overall score: 0.9568990707397461
+
+**********
+
+[0.9204177856445312] The location of the hotel is good.
+Parent: That said we enjoyed our time Downtown and the location of the hotel is good especially for one / two night cruise passengers .
+
+----- Supporting -----
+
+[0.9204177856445312] Hotel was ideally located for the purpose of my business trip.
+[0.9183778762817383] That said we enjoyed our time Downtown and the location of the hotel is good especially for one/two night cruise passengers.
+[0.914614200592041] Not right in South Beach, but this hotel still has a very good location near the Biscayne Bay with beautiful views!
+[0.8644132614135742] The hotel is conveniently located: as you can assume reading the address this hotel is just a block from Bayside Marketplace (biscayne blvd runs parallel to the port) and above all it is 15 minutes drive from south beach.
+[0.7787666320800781] My wife and our 2 kids stayed at the hotel after our cruise trip and one of the good, amoung others, is how close is the hotel from the miami port....it's just like 10 minutes!
+
+----- Weakening -----
+
+[-0.9830093383789062] One of the downsides to this motel is the location.
+[-0.9752883911132812] The Hotel is good - the location is not.
+[-0.9725837707519531] I did not like the area the hotel was in i would of prefered south beach area.
+[-0.90325927734375] The hotel is not convenient to anything or anyplace.
+[-0.8930320739746094] The location is less than optimal - the northern edge of Downtown.
+
+**********
+
+[0.9751091003417969] The hotel is good for one- or two-night cruise passengers.
+Parent: That said we enjoyed our time Downtown and the location of the hotel is good especially for one / two night cruise passengers .
+
+----- Supporting -----
+
+[0.9751091003417969] That said we enjoyed our time Downtown and the location of the hotel is good especially for one/two night cruise passengers.
+[0.020660400390625] Relaxing versus the 24 hour party going on at South Beach (though that was great as well).
+[0.012115478515625] I was here for one night with my family before we board a cruise ship across the bay.
+[0.0042438507080078125] Hotel was convenient to and from Miami airport via SuperShuttle ($16 to and from here) and to cruise ship at nearby port.
+[0.0039825439453125] After paying the first night, i parked on 17th Terrace north of hotel the second night for free.
+
+----- Weakening -----
+
+[-0.6720809936523438] Booked over the net (hotels.com)from Australia for a 4 night stay prior to a cruise from Ft Lauderdale.
+[-0.4671897888183594] Watch out at drive inn restaurant across street - kinda scary for families.
+[-0.4124488830566406] The hotel is not convenient to anything or anyplace.
+[-0.3103179931640625] Indoor Park a block and a half away just off 2nd Ave and 14th St. on your left.
+[-0.25534820556640625] Hotel was ideally located for the purpose of my business trip.
+
+**********
+
+[0.9784326553344727] The motel has a downside.
+Parent: One of the downsides to this motel is the location .
+
+----- Supporting -----
+
+[0.9784326553344727] One of the downsides to this motel is the location.
+[0.9660186767578125] The only downfall is that the hotel could have been in a better area.
+[0.9097824096679688] Being downtown the hotel is a bit lacking in local amenities.
+[0.8917903900146484] The hotel is not convenient to anything or anyplace.
+[0.81402587890625] Of course, as in all other downtown hotels, parking is over-priced and I believe self-parking is almost as expensive as valet so I went with valet parking with unlimited ins and outs.
+
+----- Weakening -----
+
+[-0.5255126953125] My wife and our 2 kids stayed at the hotel after our cruise trip and one of the good, amoung others, is how close is the hotel from the miami port....it's just like 10 minutes!
+[-0.4981536865234375] Car rental agency at location a plus.
+[-0.32562255859375] Very nice feature.
+[-0.298095703125] Great view was the only good thing at this hotel.
+[-0.212799072265625] The hotel is very convenient to Enterprise Rental car and very easy to get to the airport and to the South Beach areas for business and fun.
+
+**********
+
+[0.9357891082763672] The motel's location is not ideal.
+Parent: One of the downsides to this motel is the location .
+
+----- Supporting -----
+
+[0.9357891082763672] The Hotel is good - the location is not.
+[0.8996696472167969] The only downfall is that the hotel could have been in a better area.
+[0.8887252807617188] One of the downsides to this motel is the location.
+[0.8836421966552734] The hotel is not convenient to anything or anyplace.
+[0.7252044677734375] I did not like the area the hotel was in i would of prefered south beach area.
+
+----- Weakening -----
+
+[-0.9904346466064453] Hotel was ideally located for the purpose of my business trip.
+[-0.988067626953125] The hotel is very convenient to Enterprise Rental car and very easy to get to the airport and to the South Beach areas for business and fun.
+[-0.9853305816650391] Location was great 200 yds from Omni station for free Metro Mover + local bus station ($2 one way anywhere on route).
+[-0.9824371337890625] The hotel is conveniently located: as you can assume reading the address this hotel is just a block from Bayside Marketplace (biscayne blvd runs parallel to the port) and above all it is 15 minutes drive from south beach.
+[-0.9791507720947266] The location was good, very close to the Bayside area and just a $15 ride to Lincoln Rd/South Beach.
+
+**********
+
+[0.9747467041015625] The consierge can only book excursions that are paid for in cash.
+Parent: Excursions booked via hotel consierge could only be paid for with cash .
+
+----- Supporting -----
+
+[0.9747467041015625] Excursions booked via hotel consierge could only be paid for with cash.
+[-0.0303192138671875] The hotel is not convenient to anything or anyplace.
+[-0.03582000732421875] Would never stay here again and maybe not at another Hilton either.
+[-0.042224884033203125] The location is less than optimal - the northern edge of Downtown.
+[-0.04464912414550781] The location is not that good for the regular tourist with no car but a Metromover station is nearby.
+
+----- Weakening -----
+
+[-0.9844655990600586] The hotel is near the ski train that will take you right downtown for free.
+[-0.9539947509765625] Location was great 200 yds from Omni station for free Metro Mover + local bus station ($2 one way anywhere on route).
+[-0.8971118927001953] Some tips: The parking is very expensive - $35 for valet and $25 for self-park.
+[-0.8662538528442383] as a side not they had $2 beers in the bar which was quite nice
+[-0.8504409790039062] See if you can get upgraded to a higher floor room, the view is really spectacular!

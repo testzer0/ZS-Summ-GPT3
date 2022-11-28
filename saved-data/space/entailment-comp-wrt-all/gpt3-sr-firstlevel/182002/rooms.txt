@@ -1,0 +1,1997 @@
+***** Aspect: rooms Model Type : zs *****
+Overall score: 0.8670820361689517
+
+**********
+
+[0.9872250556945801] The rooms were clean.
+Parent: The reviews said that the rooms were clean, modern, and spacious.
+
+----- Supporting -----
+
+[0.9872250556945801] The room are clean.
+[0.9783720970153809] The entire hotel was very bright and the rooms were very clean.
+[0.9772825241088867] The staff was very polite, rooms were clean, and the hotel has a great location.
+[0.9758729934692383] The room was clean there were no stains anywhere, nice bed and dÃ©cor was good.
+[0.9752302169799805] The room was clean and comfortable.
+
+----- Weakening -----
+
+[-0.9977078437805176] The room was so filthy, we decided to leave, and find another hotel.
+[-0.997138500213623] The shower was disgusting and there were marks all over the walls and carpet.
+[-0.9966821670532227] Exhausted, we walked into our room, and experienced the most overwhelming foul smells, I canâ€™t even describe!
+[-0.9958515167236328] The dust built up in the bathroom and on the carpet was substantial, seriously dust bunnies.
+[-0.9956741333007812] There was brown stuff on the walls of the bathroom, and the room was very shabby.
+
+**********
+
+[0.9746146202087402] The rooms were modern.
+Parent: The reviews said that the rooms were clean, modern, and spacious.
+
+----- Supporting -----
+
+[0.9746146202087402] The rooms were very updated and the beds were very comfortable!
+[0.649078369140625] I thought the rooms were very well kept and the bedding looked new.
+[0.5335044860839844] The hotel was clean, modern and the only concern that I had was the limited parking in the hotel garage.
+[0.5268096923828125] I saw some work being done in the lobby and wonder if they also did the rooms as our furniture looked to be new and had no damage or wear you normally see.
+[0.3666839599609375] Over all our hotel was clean and we had a newly renovated room.
+
+----- Weakening -----
+
+[-0.9960765838623047] The rooms are old, the bathroom smelled, we had a view of air conditioners and the gym was a joke.
+[-0.9958009719848633] The room was dated and the bathroom was the same.
+[-0.9932975769042969] The rooms are tired with many defects (both my rooms had faults including bulbs out, loose headboard and loose bathroom fittings.
+[-0.9930610656738281] There was brown stuff on the walls of the bathroom, and the room was very shabby.
+[-0.9925403594970703] The bathrooms are dated.
+
+**********
+
+[0.9874539375305176] The rooms were spacious.
+Parent: The reviews said that the rooms were clean, modern, and spacious.
+
+----- Supporting -----
+
+[0.9874539375305176] The rooms were spacious with queen sized beds, nice bathrooms, the view was decent out of our 5th floor rooms, and we had no real issues at all as far as the hotel went.
+[0.9646034240722656] The rooms were large and clean which was all we really needed.
+[0.9626350402832031] The room itself was very spacious and clean.
+[0.9616403579711914] The room was spacious and clean with an extremely comfortable bed.
+[0.960601806640625] The room itself was spacious with a king size bed, a sofa, desk, coffee maker (which I did not use), and a chair.
+
+----- Weakening -----
+
+[-0.9946870803833008] The ramps are very steep, the spots are narrow and the driving room is almost non-existent.
+[-0.9901199340820312] It was small and not very clean.
+[-0.9867591857910156] The elevators are very small, so getting a cart and two bodies into the tight space was a difficult.
+[-0.9858531951904297] The elevators are very small, it is cramped with 4 people with luggage.
+[-0.9799766540527344] A few very minor complaints - the bathroom was very small and a bit cold, since the only heat was from a small baseboard heater.
+
+**********
+
+[0.9893975257873535] The bathroom needs a little work.
+Parent: However, some reviewers noted that the bathroom needed a little work and that the continental breakfast was a joke.
+
+----- Supporting -----
+
+[0.9893975257873535] The bathroom needed a little work but it was good enough for my needs.
+[0.264404296875] The hotel however seems to be ageing with the air con unit making a loud grinding noise and shower water sometimes talking hours to drain from the bath tub due to a blockage.
+[0.23227882385253906] The bathroom has mold on the ceiling and the toilet paper is like tissue paper.
+[0.190948486328125] The beds were comfortable and the sheets good quality but the furniture is pretty dated and the bathroom very tired looking.
+[0.14647674560546875] The rooms are tired with many defects (both my rooms had faults including bulbs out, loose headboard and loose bathroom fittings.
+
+----- Weakening -----
+
+[-0.7147293090820312] Our car was broken into.
+[-0.41668701171875] Afterwards the Manager acknowledged that the lifts are in need of urgent replacement but due to the cost this has yet to be authorised.
+[-0.4121856689453125] In my entire life, I have never been treated in such a rude, disrespecting manner.
+[-0.371337890625] I did notice the elevators seemed dated and in need of an update, but given that I was on high alert, this wasn't a big deal.
+[-0.33209228515625] #5) A dead give away that there would be issues is the sign on the building towering over the city is half burnt out.
+
+**********
+
+[0.8919143676757812] The continental breakfast was not good.
+Parent: However, some reviewers noted that the bathroom needed a little work and that the continental breakfast was a joke.
+
+----- Supporting -----
+
+[0.8919143676757812] The non-free continental breakfast is a joke.
+[0.192352294921875] Beware of what looks like a continental breakfast as it is not nor are there any signs indicating charge.
+[0.029266357421875] No Breakfast sandwiches for meat lovers like myself.
+[0.02508544921875] When at the restaurant, they gave me catchup that was so rancid it bubbled.
+[0.0247802734375] This is not to complain about Tim Hortons in any way, but were were dissapointed of the "limited" menu they have had there.
+
+----- Weakening -----
+
+[-0.9832382202148438] The restaurant buffet for breakfast was good, the wait staff was very pleasant.
+[-0.9766378402709961] The food was good and arrived on time and hot.
+[-0.9709491729736328] The food they serve is good as well.
+[-0.9682884216308594] Excellent breakfast in the AM as well.
+[-0.9516944885253906] Oh I must also add that there is a Tim Horton's donut shop, second only to Dunkin Donuts in quality (although Canadians might argue that point), located right inside the front entrance, so that was a great option for breakfast!
+
+**********
+
+[0.9411401748657227] Parking was limited.
+Parent: Additionally, parking was limited in the hotel garage.
+
+----- Supporting -----
+
+[0.9411401748657227] The hotel was clean, modern and the only concern that I had was the limited parking in the hotel garage.
+[0.9401702880859375] The parking garage was a little tight to drive around in, but other than that, I would definately go back for another weekend with the guys.
+[0.9202651977539062] Only problem was the carpark was too small.
+[0.9056968688964844] The parking garage was a tight squeeze if you were driving anything bigger than a four door car.
+[0.89825439453125] The underground parking in the hotel was $15 a day, but you do get in/out privileges, just use caution when parking, it's a bit tight down there.
+
+----- Weakening -----
+
+[-0.6982498168945312] The room was wickedly huge and we had tons of space.
+[-0.6895980834960938] A bathtub so filthy I wouldnâ€™t dare stand to take a shower.
+[-0.648040771484375] My first room had a window that would not close, so I did not have much time to look around, I went to the front desk and asked to have my room switched.
+[-0.6368865966796875] This is not to complain about Tim Hortons in any way, but were were dissapointed of the "limited" menu they have had there.
+[-0.5884323120117188] Which made it easy to stumble through the lobby drunk and singing at 1:00 a.m.
+
+**********
+
+[0.9872250556945801] The rooms were clean.
+Parent: The rooms were generally clean and spacious, although some reviewers found issue with the fan in the bathroom.
+
+----- Supporting -----
+
+[0.9872250556945801] The room are clean.
+[0.9783720970153809] The entire hotel was very bright and the rooms were very clean.
+[0.9772825241088867] The staff was very polite, rooms were clean, and the hotel has a great location.
+[0.9758729934692383] The room was clean there were no stains anywhere, nice bed and dÃ©cor was good.
+[0.9752302169799805] The room was clean and comfortable.
+
+----- Weakening -----
+
+[-0.9977078437805176] The room was so filthy, we decided to leave, and find another hotel.
+[-0.997138500213623] The shower was disgusting and there were marks all over the walls and carpet.
+[-0.9966821670532227] Exhausted, we walked into our room, and experienced the most overwhelming foul smells, I canâ€™t even describe!
+[-0.9958515167236328] The dust built up in the bathroom and on the carpet was substantial, seriously dust bunnies.
+[-0.9956741333007812] There was brown stuff on the walls of the bathroom, and the room was very shabby.
+
+**********
+
+[0.9874539375305176] The rooms were spacious.
+Parent: The rooms were generally clean and spacious, although some reviewers found issue with the fan in the bathroom.
+
+----- Supporting -----
+
+[0.9874539375305176] The rooms were spacious with queen sized beds, nice bathrooms, the view was decent out of our 5th floor rooms, and we had no real issues at all as far as the hotel went.
+[0.9646034240722656] The rooms were large and clean which was all we really needed.
+[0.9626350402832031] The room itself was very spacious and clean.
+[0.9616403579711914] The room was spacious and clean with an extremely comfortable bed.
+[0.960601806640625] The room itself was spacious with a king size bed, a sofa, desk, coffee maker (which I did not use), and a chair.
+
+----- Weakening -----
+
+[-0.9946870803833008] The ramps are very steep, the spots are narrow and the driving room is almost non-existent.
+[-0.9901199340820312] It was small and not very clean.
+[-0.9867591857910156] The elevators are very small, so getting a cart and two bodies into the tight space was a difficult.
+[-0.9858531951904297] The elevators are very small, it is cramped with 4 people with luggage.
+[-0.9799766540527344] A few very minor complaints - the bathroom was very small and a bit cold, since the only heat was from a small baseboard heater.
+
+**********
+
+[0.9800128936767578] There was an issue with the fan in the bathroom.
+Parent: The rooms were generally clean and spacious, although some reviewers found issue with the fan in the bathroom.
+
+----- Supporting -----
+
+[0.9800128936767578] The only issue I did not like was that the fan in the bathroom automatically turns on when you turn on the light, and usually my wife likes to sleep with the bathroom light on, but we didnâ€™t as the fan would be running.
+[0.569976806640625] The hotel however seems to be ageing with the air con unit making a loud grinding noise and shower water sometimes talking hours to drain from the bath tub due to a blockage.
+[0.0] All
+[0.0] Be warned.
+[0.0] Stan.
+
+----- Weakening -----
+
+[-0.9127388000488281] The staff were very friendly & efficient, & sorted the booking problem immediately.
+[-0.9109687805175781] Also which was bothersome was the wifi.
+[-0.907318115234375] Our car was broken into.
+[-0.8646030426025391] But that was due to the amount of rum we consumed and an amazing concert.
+[-0.8615837097167969] The front desk staff were very unfriendly and always seemed to make matters overly complicated.
+
+**********
+
+[0.7494049072265625] The tub did not drain properly.
+Parent: There were also complaints about the tub not draining properly.
+
+----- Supporting -----
+
+[0.7494049072265625] The hotel however seems to be ageing with the air con unit making a loud grinding noise and shower water sometimes talking hours to drain from the bath tub due to a blockage.
+[0.11486434936523438] Bath tub water kept leaking out when trying to have a bath.
+[0.052745819091796875] We had to switch rooms the first night due to plumbing issues (shower didn't work, toilet leaked).
+[0.012462615966796875] A bathtub so filthy I wouldnâ€™t dare stand to take a shower.
+[0.010988235473632812] The laundry left something to be desired.
+
+----- Weakening -----
+
+[-0.8642196655273438] The food was good and arrived on time and hot.
+[-0.8398818969726562] The TV had something wrong with it and made a loud buzzing noise the whole time it was on, but since I wasn't there to watch TV that wasn't a big deal.
+[-0.8183155059814453] The service was excellent and the session went without a hitch.
+[-0.7905158996582031] Everything went very smoothly.
+[-0.7791824340820312] This restaurant has a loyal group of customers.
+
+**********
+
+[0.9714245796203613] The hotel's location was good.
+Parent: Some reviewers appreciated the location of the hotel.
+
+----- Supporting -----
+
+[0.9714245796203613] The hotel itself is in a good location.
+[0.9700756072998047] Also the hotel was in a very good location for all attractions.
+[0.9543838500976562] I thought the hotel was in a good location and I found it was easy to walk to restaurants at night.
+[0.9515066146850586] The hotel was in a good location and was close to restaurants and a wonderful greenhouse which I toured for an entire afternoon.
+[0.9509148597717285] The hotel was in a great location and we walked to a charming area called Yorkville.
+
+----- Weakening -----
+
+[-0.92462158203125] The hotel is not in a nice area of the city and you will notice a great deal of sketchy personalities roaming the streets around the area.
+[-0.890045166015625] It is very worn and in a terrible area of town.
+[-0.8491439819335938] I could not believe what they charged for a room at this hell-hole, and it is funny just around the corner from the building is a "back-packer's hostel which I thought would have been much better than this dump.
+[-0.7498741149902344] The underground parking is horribly laid out.
+[-0.5342445373535156] We arrived at 3:00 in the morning, and drove through the night to arrive to the filthiest hotel we have ever seen!
+
+**********
+
+[0.9871664047241211] The rooms were updated.
+Parent: The rooms were updated, comfortable, and clean.
+
+----- Supporting -----
+
+[0.9871664047241211] The rooms were very updated and the beds were very comfortable!
+[0.9339561462402344] We mentioned on check in that it was our anniversary and were immediately upgraded from our room with 1 double to a king room on the highest floor with a wonderful view of the city.
+[0.9098854064941406] Went to Toronto for a buyers show and stayed at this Primrose Hotel because there was a dinner function there for us.Â  Booked on bestwestern.com as I found the rate was pretty much the same on all the websites I checked.Â  Lobby was ok, nothing too fancy.Â  I was checked in by the manager who seemed very nice and told me he upgraded my room - thanks!Â  Room was HUGE!Â  Great view of the city, very comfortable bed, I slept well.Â  Bathroom was ok, kinda like the lobby.Â  All the staff were very friendly and the breakfast buffet was good but overpriced compared to the Golden Greek restaurant next door that I found on my next morning.Â  For the price I paid I would stay again.
+[0.8038864135742188] They have done some renovations to the lobby area which is now a nice granite counter and some darker woods which look very warm and inviting.
+[0.7198371887207031] Over all our hotel was clean and we had a newly renovated room.
+
+----- Weakening -----
+
+[-0.991969108581543] The rooms are old, the bathroom smelled, we had a view of air conditioners and the gym was a joke.
+[-0.9892902374267578] The beds were comfortable and the sheets good quality but the furniture is pretty dated and the bathroom very tired looking.
+[-0.9848747253417969] The rooms are tired with many defects (both my rooms had faults including bulbs out, loose headboard and loose bathroom fittings.
+[-0.984278678894043] The general feeling of this hotel was tired and run down.
+[-0.9834079742431641] There was brown stuff on the walls of the bathroom, and the room was very shabby.
+
+**********
+
+[0.9727168083190918] The rooms were comfortable.
+Parent: The rooms were updated, comfortable, and clean.
+
+----- Supporting -----
+
+[0.9727168083190918] The room was clean and comfortable.
+[0.9703259468078613] The room was nice and very comfortable.
+[0.9636263847351074] The rooms were great, we were on the 6th floor, beds were comfortable and room was quite clean.
+[0.9533596038818359] The rooms were very updated and the beds were very comfortable!
+[0.9477262496948242] Room was clean and quite and the bed was really confortable.
+
+----- Weakening -----
+
+[-0.9902849197387695] The room was so filthy, we decided to leave, and find another hotel.
+[-0.9643020629882812] The rooms are tired with many defects (both my rooms had faults including bulbs out, loose headboard and loose bathroom fittings.
+[-0.9577522277832031] Exhausted, we walked into our room, and experienced the most overwhelming foul smells, I canâ€™t even describe!
+[-0.9540596008300781] The dust built up in the bathroom and on the carpet was substantial, seriously dust bunnies.
+[-0.9500350952148438] A bathtub so filthy I wouldnâ€™t dare stand to take a shower.
+
+**********
+
+[0.9872250556945801] The rooms were clean.
+Parent: The rooms were updated, comfortable, and clean.
+
+----- Supporting -----
+
+[0.9872250556945801] The room are clean.
+[0.9783720970153809] The entire hotel was very bright and the rooms were very clean.
+[0.9772825241088867] The staff was very polite, rooms were clean, and the hotel has a great location.
+[0.9758729934692383] The room was clean there were no stains anywhere, nice bed and dÃ©cor was good.
+[0.9752302169799805] The room was clean and comfortable.
+
+----- Weakening -----
+
+[-0.9977078437805176] The room was so filthy, we decided to leave, and find another hotel.
+[-0.997138500213623] The shower was disgusting and there were marks all over the walls and carpet.
+[-0.9966821670532227] Exhausted, we walked into our room, and experienced the most overwhelming foul smells, I canâ€™t even describe!
+[-0.9958515167236328] The dust built up in the bathroom and on the carpet was substantial, seriously dust bunnies.
+[-0.9956741333007812] There was brown stuff on the walls of the bathroom, and the room was very shabby.
+
+**********
+
+[0.9833230972290039] The concierge did not have much knowledge of the restaurants in the area.
+Parent: However, some guests noted that the concierge did not have much knowledge of the restaurants in the area.
+
+----- Supporting -----
+
+[0.9833230972290039] the concierge had little knowlege of the restaurants which should be a big part of his job but we made out ok. there are so many wonderful restaurants in toronto including a Korean Grill we went to where you bbq your own meat/fish.
+[0.0316619873046875] Staff was friendly, but not all that sure of area attractions.
+[0.0143280029296875] 1) Rude staff at the front desk (only one of the employees we dealt with were nice); 2) Restaurant only open part of the time; 3) They DID give us a bigger and cheaper parking space out behind the building because our SUV wouldn't fit in the underground parking, but there were junkies hanging around at that parking lot; 3) FOUND A BEDBUG IN THE BATHROOM SINK (ALIVE) -- 'NUFF SAID!
+[0.011638641357421875] Some hospitality training for the staff wouldn't be too much to ask either.
+[0.008056640625] Not knowing much about hotels in Toronto, and trusting the name â€œBest Westernâ€�, we decided to save a few dollars and book online.
+
+----- Weakening -----
+
+[-0.9379963874816895] The people who work there are great and seem to know all the cool places to hang out at.
+[-0.8980388641357422] My partner has worked in hotels for over 30 years and a lot of it in management and he would know a bad one as soon as he walked in.
+[-0.8628473281860352] 2) Our favorite bottle of wine is waiting for us in the room 3) Reservations are made at our favorite restauraunt 4) Staff know us by our first names 5) My wife gets a birthday email on her birthday 6) The staff truly feels like family TRY THIS hOTEL you wont be disapointed!
+[-0.8611688613891602] Great beef swarma pita sandwiches nearby esp.
+[-0.8457469940185547] Bankok Garden on Elm st. is wonderful for Thai.
+
+**********
+
+[0.9800024032592773] The hotel is conveniently located near many attractions.
+Parent: Additionally, the hotel was close to many attractions and restaurants.
+
+----- Supporting -----
+
+[0.9800024032592773] The hotel is within an easy walk to many attractions and shops, with a subway station close by for venturing further afield.
+[0.9476637840270996] The hotel is in a nice location, within walking distance of everything touristy.
+[0.9287562370300293] The hotel is situated in a good area and walking distance to Eaton Centre and many other attractions.
+[0.9172697067260742] We have never been to Canada before or to a huge city like Toronto, we found it very easy to get around, Primrose hotel is an excellent location as the subway is only 5min walk way .There is a lot of restaurants , bars, stores ,drugmarts and shops within walking distance also Dundas sq , Eaton centre &hockey Hall of Fame are close by.
+[0.9114651679992676] This hotel is near everything; subway, restaurants, shopping.
+
+----- Weakening -----
+
+[-0.9579830169677734] It is very worn and in a terrible area of town.
+[-0.8625707626342773] I could not believe what they charged for a room at this hell-hole, and it is funny just around the corner from the building is a "back-packer's hostel which I thought would have been much better than this dump.
+[-0.7912712097167969] The hotel is not in a nice area of the city and you will notice a great deal of sketchy personalities roaming the streets around the area.
+[-0.7687296867370605] We are heartbroken and will never recommend this hotel to anyone.
+[-0.7580385208129883] I would not recommend this hotel to anyone!
+
+**********
+
+[0.9130363464355469] The hotel is conveniently located near many restaurants.
+Parent: Additionally, the hotel was close to many attractions and restaurants.
+
+----- Supporting -----
+
+[0.9130363464355469] Overall, a great place to stay because the rooms were clean, staff was friendly and helpful, many attractions and great restaurants are walking distance from the hotel.
+[0.8969097137451172] We have never been to Canada before or to a huge city like Toronto, we found it very easy to get around, Primrose hotel is an excellent location as the subway is only 5min walk way .There is a lot of restaurants , bars, stores ,drugmarts and shops within walking distance also Dundas sq , Eaton centre &hockey Hall of Fame are close by.
+[0.8298559188842773] This hotel is near everything; subway, restaurants, shopping.
+[0.7753705978393555] The hotel was in a good location and was close to restaurants and a wonderful greenhouse which I toured for an entire afternoon.
+[0.4151020050048828] I thought the hotel was in a good location and I found it was easy to walk to restaurants at night.
+
+----- Weakening -----
+
+[-0.8556685447692871] It was the middle of winter with temperatures around minus-10 to minus-20 degrees and we had to trudge the streets to find places to eat.
+[-0.7993354797363281] It is very worn and in a terrible area of town.
+[-0.7190999984741211] I could not believe what they charged for a room at this hell-hole, and it is funny just around the corner from the building is a "back-packer's hostel which I thought would have been much better than this dump.
+[-0.6759786605834961] I would not recommend this hotel to anyone!
+[-0.6711177825927734] I do not recommend staying here.
+
+**********
+
+[0.9802441596984863] The rooms are old.
+Parent: The reviewers said that the rooms were old, shabby, and in need of an update.
+
+----- Supporting -----
+
+[0.9802441596984863] The rooms are old, the bathroom smelled, we had a view of air conditioners and the gym was a joke.
+[0.9670095443725586] Although most of the staff were nice, the rooms were dated and could use some renovation.
+[0.9235095977783203] The rooms are tired with many defects (both my rooms had faults including bulbs out, loose headboard and loose bathroom fittings.
+[0.8714714050292969] The room was dated and the bathroom was the same.
+[0.84588623046875] The bathrooms are dated.
+
+----- Weakening -----
+
+[-0.9950628280639648] The rooms were very updated and the beds were very comfortable!
+[-0.9883480072021484] Over all our hotel was clean and we had a newly renovated room.
+[-0.986689567565918] Room was large and clean, bathroom was nice, looks like it was newly renovated.
+[-0.9845266342163086] I thought the rooms were very well kept and the bedding looked new.
+[-0.9831066131591797] The hotel was clean, modern and the only concern that I had was the limited parking in the hotel garage.
+
+**********
+
+[0.9380407333374023] The rooms were shabby.
+Parent: The reviewers said that the rooms were old, shabby, and in need of an update.
+
+----- Supporting -----
+
+[0.9380407333374023] There was brown stuff on the walls of the bathroom, and the room was very shabby.
+[0.8800773620605469] The room was so filthy, we decided to leave, and find another hotel.
+[0.74932861328125] The laundry facilitys are in poor quality.
+[0.4994659423828125] Gloomy room.
+[0.49072265625] Although most of the staff were nice, the rooms were dated and could use some renovation.
+
+----- Weakening -----
+
+[-0.997948169708252] The room was very clean and well appointed.
+[-0.997891902923584] The room was clean and well decorated.
+[-0.9975636005401611] The room was great, and I was given room 1705 which had a king bed and a fantastic view.
+[-0.9974594116210938] It was very clean and comfortable and had very nice artwork on the walls.
+[-0.9971952438354492] The room itself was very spacious and clean.
+
+**********
+
+[0.9775676727294922] The rooms were outdated.
+Parent: The reviewers said that the rooms were old, shabby, and in need of an update.
+
+----- Supporting -----
+
+[0.9775676727294922] Although most of the staff were nice, the rooms were dated and could use some renovation.
+[0.91229248046875] The price is very good and the rooms are large, the only issue with the hotel is its very dated and could do with a revamp.
+[0.8827762603759766] The rooms are old, the bathroom smelled, we had a view of air conditioners and the gym was a joke.
+[0.8370513916015625] The rooms are tired with many defects (both my rooms had faults including bulbs out, loose headboard and loose bathroom fittings.
+[0.77313232421875] The bathrooms are dated.
+
+----- Weakening -----
+
+[-0.9967494010925293] The rooms were very updated and the beds were very comfortable!
+[-0.9951956272125244] I thought the rooms were very well kept and the bedding looked new.
+[-0.9946420192718506] Room was large and clean, bathroom was nice, looks like it was newly renovated.
+[-0.9924192428588867] Over all our hotel was clean and we had a newly renovated room.
+[-0.9898483753204346] The room was clean there were no stains anywhere, nice bed and dÃ©cor was good.
+
+**********
+
+[0.9136581420898438] The bathroom had a bad smell.
+Parent: The bathroom smelled, the elevators were scary, and there was brown stuff on the walls.
+
+----- Supporting -----
+
+[0.9136581420898438] My second room also had a window that would not close, there were beer caps scattered throughout the room, there was hair in the tub and on the toilet seat, and the room smelt like an ashtray.
+[0.6602878570556641] The shower was disgusting and there were marks all over the walls and carpet.
+[0.538726806640625] ), and the the bath towels had yellow stains and smelled "funky"!
+[0.4821891784667969] The rooms are old, the bathroom smelled, we had a view of air conditioners and the gym was a joke.
+[0.37109375] A bathtub so filthy I wouldnâ€™t dare stand to take a shower.
+
+----- Weakening -----
+
+[-0.988558292388916] It was really clean, and the housekeeping lady was very friendly and always asking if I needed any additional toiletries or coffee.
+[-0.9689493179321289] Room was large and clean, bathroom was nice, looks like it was newly renovated.
+[-0.960686206817627] It was clean and comfortable.
+[-0.9604196548461914] Clean accomodations, location was less than 10 minute walk to subway station.
+[-0.9532699584960938] As I mentioned before, the room was clean.
+
+**********
+
+[0.991126537322998] The elevators were scary.
+Parent: The bathroom smelled, the elevators were scary, and there was brown stuff on the walls.
+
+----- Supporting -----
+
+[0.991126537322998] The elevators were very scary and one was constantly being repaired.
+[0.0790863037109375] Don't stay at this hotel unless you like slow (and possibly unsafe) elevators, flaky wireless Internet, and poor customer service.
+[0.07704925537109375] You might also get stuck in the elevator, though the manager said that it happens all the time.
+[0.054225921630859375] And if you're lucky the alarm button in the elevator will have been fixed by then.
+[0.018978118896484375] We were beside the elevator and at one point someone in the elevator kept hitting the alarm button and we could hear it.
+
+----- Weakening -----
+
+[-0.9409866333007812] And when you are at the park don't forget to visit the Greenhouse.
+[-0.9296150207519531] the beds were fantastic.
+[-0.9289464950561523] They are comfortable with nice bedding.
+[-0.9212303161621094] The bed was extremely comfortable.
+[-0.897150993347168] Check-in was fast and friendly.
+
+**********
+
+[0.7736968994140625] The walls were dirty.
+Parent: The bathroom smelled, the elevators were scary, and there was brown stuff on the walls.
+
+----- Supporting -----
+
+[0.7736968994140625] The shower was disgusting and there were marks all over the walls and carpet.
+[0.6455001831054688] There was brown stuff on the walls of the bathroom, and the room was very shabby.
+[0.47927093505859375] Hallways dingy, but staff is nice and helpful.
+[0.22967529296875] The window looking at a fantastic view north was so grimy it was hard to see through (finger and nose prints all over it) We just kept the net curtains closed so we couldn't see them and enjoyed the night lights instead.
+[0.1810774803161621] The room was so filthy, we decided to leave, and find another hotel.
+
+----- Weakening -----
+
+[-0.9974489212036133] It was very clean and comfortable and had very nice artwork on the walls.
+[-0.9951324462890625] The room was clean there were no stains anywhere, nice bed and dÃ©cor was good.
+[-0.9941091537475586] The room was very clean and well appointed.
+[-0.9924936294555664] Everything was spotlessly clean and comfortable and the staff were very helpful and polite.
+[-0.9910979270935059] The room was clean and well decorated.
+
+**********
+
+[0.9620475769042969] However, the room was huge.
+Parent: However, the room was huge and had a great view.
+
+----- Supporting -----
+
+[0.9620475769042969] The staff at checkin was quick to notice our children were a little fussy and provided crayons and coloring books that calmed them right down, The room was huge complete with microwave and small fridge so we could warm up left over which is always important travelling with kids.
+[0.9587516784667969] The hotel is older but the room was huge and had a view all the way to the lake.
+[0.9520378112792969] The room was very large but made for a small bathroom.
+[0.9519567489624023] The room was wickedly huge and we had tons of space.
+[0.9407873153686523] Room was BIG, bed was comfy, had an a good size fridge in it too and it's the first hotel I've been to in a while where the internet was free and fast.
+
+----- Weakening -----
+
+[-0.9890613555908203] It was small and not very clean.
+[-0.9555282592773438] It was a decent sized room and had a desk and a couch in it.
+[-0.9285030364990234] A few very minor complaints - the bathroom was very small and a bit cold, since the only heat was from a small baseboard heater.
+[-0.9005622863769531] The elevators are very small, it is cramped with 4 people with luggage.
+[-0.8961944580078125] The ramps are very steep, the spots are narrow and the driving room is almost non-existent.
+
+**********
+
+[0.9888060092926025] The room had a great view.
+Parent: However, the room was huge and had a great view.
+
+----- Supporting -----
+
+[0.9888060092926025] The room was clean, and had a great view.
+[0.9878201484680176] The room was good and had a nice view.
+[0.9716215133666992] The room was great, and I was given room 1705 which had a king bed and a fantastic view.
+[0.9714255332946777] The parking attendant was pleasant, the check in went smoothly,the room and the view was terrific.
+[0.9626893997192383] The best thing about the room was its view.
+
+----- Weakening -----
+
+[-0.9554710388183594] The problem is you do not see where your box is being placed and how it is secured.
+[-0.9416046142578125] Gloomy room.
+[-0.9003543853759766] Heed this warning stay away from this crappy place, you'll be glad you did.
+[-0.8972854614257812] Weâ€™ve travelled to some very poor countries in our lives, but weâ€™ve never seen such dirty conditions!
+[-0.8653278350830078] The bathroom was average.
+
+**********
+
+[0.9861164093017578] This hotel is recommended.
+Parent: The reviewer would recommend this hotel.
+
+----- Supporting -----
+
+[0.9861164093017578] I would certainly recommend this hotel to all.
+[0.9813308715820312] All in all I would definately recommend this hotel.
+[0.9766159057617188] for what this place costs I definitely recommend this hotel.
+[0.9733486175537109] I would have no problems recommending this hotel to my friends.
+[0.9640922546386719] We stayed with a tour on 9/10 September and would have no hesitation at staying or recommending this hotel again.
+
+----- Weakening -----
+
+[-0.9923868179321289] But if you're thinking of staying at this one, pass it up.
+[-0.9921226501464844] Heed this warning stay away from this crappy place, you'll be glad you did.
+[-0.9920883178710938] Don't stay at this hotel unless you like slow (and possibly unsafe) elevators, flaky wireless Internet, and poor customer service.
+[-0.9919757843017578] We are heartbroken and will never recommend this hotel to anyone.
+[-0.9914665222167969] I would never step into that hotel.
+
+**********
+
+[0.9874539375305176] The rooms were spacious.
+Parent: Overall, reviewers thought the rooms were spacious, clean, comfortable, and a good value for the price.
+
+----- Supporting -----
+
+[0.9874539375305176] The rooms were spacious with queen sized beds, nice bathrooms, the view was decent out of our 5th floor rooms, and we had no real issues at all as far as the hotel went.
+[0.9646034240722656] The rooms were large and clean which was all we really needed.
+[0.9626350402832031] The room itself was very spacious and clean.
+[0.9616403579711914] The room was spacious and clean with an extremely comfortable bed.
+[0.960601806640625] The room itself was spacious with a king size bed, a sofa, desk, coffee maker (which I did not use), and a chair.
+
+----- Weakening -----
+
+[-0.9946870803833008] The ramps are very steep, the spots are narrow and the driving room is almost non-existent.
+[-0.9901199340820312] It was small and not very clean.
+[-0.9867591857910156] The elevators are very small, so getting a cart and two bodies into the tight space was a difficult.
+[-0.9858531951904297] The elevators are very small, it is cramped with 4 people with luggage.
+[-0.9799766540527344] A few very minor complaints - the bathroom was very small and a bit cold, since the only heat was from a small baseboard heater.
+
+**********
+
+[0.9872250556945801] The rooms were clean.
+Parent: Overall, reviewers thought the rooms were spacious, clean, comfortable, and a good value for the price.
+
+----- Supporting -----
+
+[0.9872250556945801] The room are clean.
+[0.9783720970153809] The entire hotel was very bright and the rooms were very clean.
+[0.9772825241088867] The staff was very polite, rooms were clean, and the hotel has a great location.
+[0.9758729934692383] The room was clean there were no stains anywhere, nice bed and dÃ©cor was good.
+[0.9752302169799805] The room was clean and comfortable.
+
+----- Weakening -----
+
+[-0.9977078437805176] The room was so filthy, we decided to leave, and find another hotel.
+[-0.997138500213623] The shower was disgusting and there were marks all over the walls and carpet.
+[-0.9966821670532227] Exhausted, we walked into our room, and experienced the most overwhelming foul smells, I canâ€™t even describe!
+[-0.9958515167236328] The dust built up in the bathroom and on the carpet was substantial, seriously dust bunnies.
+[-0.9956741333007812] There was brown stuff on the walls of the bathroom, and the room was very shabby.
+
+**********
+
+[0.9727168083190918] The rooms were comfortable.
+Parent: Overall, reviewers thought the rooms were spacious, clean, comfortable, and a good value for the price.
+
+----- Supporting -----
+
+[0.9727168083190918] The room was clean and comfortable.
+[0.9703259468078613] The room was nice and very comfortable.
+[0.9636263847351074] The rooms were great, we were on the 6th floor, beds were comfortable and room was quite clean.
+[0.9533596038818359] The rooms were very updated and the beds were very comfortable!
+[0.9477262496948242] Room was clean and quite and the bed was really confortable.
+
+----- Weakening -----
+
+[-0.9902849197387695] The room was so filthy, we decided to leave, and find another hotel.
+[-0.9643020629882812] The rooms are tired with many defects (both my rooms had faults including bulbs out, loose headboard and loose bathroom fittings.
+[-0.9577522277832031] Exhausted, we walked into our room, and experienced the most overwhelming foul smells, I canâ€™t even describe!
+[-0.9540596008300781] The dust built up in the bathroom and on the carpet was substantial, seriously dust bunnies.
+[-0.9500350952148438] A bathtub so filthy I wouldnâ€™t dare stand to take a shower.
+
+**********
+
+[0.9284324645996094] The rooms were a good value for the price.
+Parent: Overall, reviewers thought the rooms were spacious, clean, comfortable, and a good value for the price.
+
+----- Supporting -----
+
+[0.9284324645996094] The lady in reception was very helpful and kind, she got us a very good room at a reasonable price.
+[0.8513851165771484] It was a very large room for a great price.
+[0.7382669448852539] It's not a highend hotel, but it's great value for the price.
+[0.6889104843139648] Not a luxury hotel by any means, but great value for the price.
+[0.6707305908203125] The price is very good and the rooms are large, the only issue with the hotel is its very dated and could do with a revamp.
+
+----- Weakening -----
+
+[-0.9780540466308594] But from the time they told us we had to go get public parking down the street, to mixed up room arrangement, through just rude service, and a tile falling from the bathroom wall, the price was not worth it.
+[-0.9612960815429688] This was one of the worst experiences I have ever with a hotel room that cost $160 a night.
+[-0.9442558288574219] I could not believe what they charged for a room at this hell-hole, and it is funny just around the corner from the building is a "back-packer's hostel which I thought would have been much better than this dump.
+[-0.8755397796630859] The laundry facilitys are in poor quality.
+[-0.8284053802490234] The room was so filthy, we decided to leave, and find another hotel.
+
+**********
+
+[0.9775161743164062] The hotel is old.
+Parent: Some reviewers noted that the hotel seemed to be aging, with noise from the air conditioning unit and slow drainage in the shower, but these were not major concerns.
+
+----- Supporting -----
+
+[0.9775161743164062] The hotel is older but the room was huge and had a view all the way to the lake.
+[0.9748506546020508] The price is very good and the rooms are large, the only issue with the hotel is its very dated and could do with a revamp.
+[0.9625062942504883] The Primrose is a dated property offering only basic levels of service.
+[0.9515647888183594] The hotel however seems to be ageing with the air con unit making a loud grinding noise and shower water sometimes talking hours to drain from the bath tub due to a blockage.
+[0.8963508605957031] The room rates are high considering the age/look of the hotel.
+
+----- Weakening -----
+
+[-0.9927854537963867] The rooms were very updated and the beds were very comfortable!
+[-0.9895763397216797] The hotel was clean, modern and the only concern that I had was the limited parking in the hotel garage.
+[-0.9844512939453125] I thought the rooms were very well kept and the bedding looked new.
+[-0.9726362228393555] Room was large and clean, bathroom was nice, looks like it was newly renovated.
+[-0.9518756866455078] Over all our hotel was clean and we had a newly renovated room.
+
+**********
+
+[0.9914088249206543] The hotel had noise from the air conditioning unit.
+Parent: Some reviewers noted that the hotel seemed to be aging, with noise from the air conditioning unit and slow drainage in the shower, but these were not major concerns.
+
+----- Supporting -----
+
+[0.9914088249206543] The hotel however seems to be ageing with the air con unit making a loud grinding noise and shower water sometimes talking hours to drain from the bath tub due to a blockage.
+[0.21061229705810547] Could not sleep the very first night, A/C making too much of rattling noise.
+[0.11639404296875] The only issue I did not like was that the fan in the bathroom automatically turns on when you turn on the light, and usually my wife likes to sleep with the bathroom light on, but we didnâ€™t as the fan would be running.
+[0.0427703857421875] Loved the Tim Hortons in the Lobby the next morning.
+[0.02587890625] The rooms are old, the bathroom smelled, we had a view of air conditioners and the gym was a joke.
+
+----- Weakening -----
+
+[-0.9167938232421875] The TV had something wrong with it and made a loud buzzing noise the whole time it was on, but since I wasn't there to watch TV that wasn't a big deal.
+[-0.7852554321289062] My only complaint would have been that they have a lovely grand piano in the lobby and while I was trying to enjoy my breakfast there was a child playing around on it.
+[-0.77569580078125] Also which was bothersome was the wifi.
+[-0.75506591796875] Had daily continental or hot breakfast for an unreasonable cost for the 'menu' - try the local restaurants or delivery) Overall, reasonable cost for duration; comfortable, quiet, clean rooms; and you receive Best Western Club points or Airmiles for your stay.
+[-0.7486419677734375] Our car was broken into.
+
+**********
+
+[0.433074951171875] The hotel's drainage was slow.
+Parent: Some reviewers noted that the hotel seemed to be aging, with noise from the air conditioning unit and slow drainage in the shower, but these were not major concerns.
+
+----- Supporting -----
+
+[0.433074951171875] There are a lot of students there so it made the elevators very slow at meal times.
+[0.32208251953125] The general feeling of this hotel was tired and run down.
+[0.2901611328125] Don't stay at this hotel unless you like slow (and possibly unsafe) elevators, flaky wireless Internet, and poor customer service.
+[0.26336669921875] The elevators are super slow.
+[0.22454833984375] The elevators are VERY SLOW and we routinely spent several minutes waiting for them.
+
+----- Weakening -----
+
+[-0.8716049194335938] The porterage was efficient and the bell boys were polite.
+[-0.8572864532470703] Checking in and out was very quick.
+[-0.851776123046875] When at the restaurant, they gave me catchup that was so rancid it bubbled.
+[-0.7988967895507812] Check-in was fast and friendly.
+[-0.797332763671875] If you get on an elevator that is packed, forget about getting to the card reader.
+
+**********
+
+[0.9212827682495117] These concerns were not major.
+Parent: Some reviewers noted that the hotel seemed to be aging, with noise from the air conditioning unit and slow drainage in the shower, but these were not major concerns.
+
+----- Supporting -----
+
+[0.9212827682495117] There were 'ladies of the night' out front of the hotel, but they were harmless and didn't hassle us at all.
+[0.8863239288330078] We had a small issue on check out as a long distance call which we did not place (we didnâ€™t know anyone in Seattle) got accidently added to our bill, but they reversed the charge so it wasnâ€™t a major issue.
+[0.8822612762451172] A few very minor complaints - the bathroom was very small and a bit cold, since the only heat was from a small baseboard heater.
+[0.8712825775146484] But really that was not a big problem, they minded their own business.
+[0.726776123046875] An annoyance rather than trouble really.
+
+----- Weakening -----
+
+[-0.8194503784179688] The two main things I did apprieciate was, the free wireless internet, and the fact there was a Tim hortons right in the lobby.
+[-0.8151988983154297] This is especially important now that they are installing kitchenettes in some of the rooms.
+[-0.680694580078125] But we didnt realise they were as bad as they were, on the 3rd time of using them we got stuck!!
+[-0.6562652587890625] The biggest disappointments were: -Elevators (being "updated", bumpy ride, not reliable-ended up on a floor we didn't know we could access!)
+[-0.63604736328125] When at the restaurant, they gave me catchup that was so rancid it bubbled.
+
+**********
+
+[0.17850494384765625] The rooms at the Primrose Hotel were clean.
+Parent: The rooms at the Primrose Hotel were generally found to be clean and spacious, although some reviewers found the bathroom to be small and not very clean.
+
+----- Supporting -----
+
+[0.17850494384765625] The rooms were spacious with queen sized beds, nice bathrooms, the view was decent out of our 5th floor rooms, and we had no real issues at all as far as the hotel went.
+[0.12453842163085938] the hotel is centrally located and is very comfortable with a nice bed and rooms cleaned daily.
+[0.1016693115234375] Our room was good, the bed very good - but it was disappointing to find that the "new and exciting Primrose Restaurant and Bar where no expense had been spared" (according to their brochure) was CLOSED except for breakfast time.
+[0.08113861083984375] I booked this hotel, because I expected a certain cleanliness that comes with Best Western franchise's.
+[0.0802469253540039] All in all, I had a good stay and would recommend this hotel to others looking for good service, clean rooms and reasonable room rates.
+
+----- Weakening -----
+
+[-0.9842901229858398] The room was so filthy, we decided to leave, and find another hotel.
+[-0.9817852973937988] We arrived at 3:00 in the morning, and drove through the night to arrive to the filthiest hotel we have ever seen!
+[-0.9786581993103027] Exhausted, we walked into our room, and experienced the most overwhelming foul smells, I canâ€™t even describe!
+[-0.9786009788513184] The shower was disgusting and there were marks all over the walls and carpet.
+[-0.9780197143554688] The hotel was dirty.
+
+**********
+
+[0.9093399047851562] The rooms at the Primrose Hotel were spacious.
+Parent: The rooms at the Primrose Hotel were generally found to be clean and spacious, although some reviewers found the bathroom to be small and not very clean.
+
+----- Supporting -----
+
+[0.9093399047851562] Went to Toronto for a buyers show and stayed at this Primrose Hotel because there was a dinner function there for us.Â  Booked on bestwestern.com as I found the rate was pretty much the same on all the websites I checked.Â  Lobby was ok, nothing too fancy.Â  I was checked in by the manager who seemed very nice and told me he upgraded my room - thanks!Â  Room was HUGE!Â  Great view of the city, very comfortable bed, I slept well.Â  Bathroom was ok, kinda like the lobby.Â  All the staff were very friendly and the breakfast buffet was good but overpriced compared to the Golden Greek restaurant next door that I found on my next morning.Â  For the price I paid I would stay again.
+[0.22164154052734375] The price is very good and the rooms are large, the only issue with the hotel is its very dated and could do with a revamp.
+[0.1098785400390625] The hotel is older but the room was huge and had a view all the way to the lake.
+[0.07718276977539062] Had a stop over in Toronto on my way to Montreal and wound up at the Best Western Primrose Hotel (on Carltone St) Much larger Best Western than I've ever stayed at.
+[0.07217597961425781] The hotel has everything we needed and the room was clean and large for the family.
+
+----- Weakening -----
+
+[-0.9243736267089844] It was small and not very clean.
+[-0.9188880920410156] The ramps are very steep, the spots are narrow and the driving room is almost non-existent.
+[-0.8845920562744141] The room was so filthy, we decided to leave, and find another hotel.
+[-0.8653564453125] A few very minor complaints - the bathroom was very small and a bit cold, since the only heat was from a small baseboard heater.
+[-0.8301172256469727] I would never step into that hotel.
+
+**********
+
+[0.0128173828125] The bathroom at the Primrose Hotel was too small.
+Parent: The rooms at the Primrose Hotel were generally found to be clean and spacious, although some reviewers found the bathroom to be small and not very clean.
+
+----- Supporting -----
+
+[0.0128173828125] I had called down to front desk to ask for some extra towels and they were giving me a hard time.
+[0.011765480041503906] A few very minor complaints - the bathroom was very small and a bit cold, since the only heat was from a small baseboard heater.
+[0.0098419189453125] The staff made no effort to give guests priority on them, either.
+[0.0035247802734375] Bath tub water kept leaking out when trying to have a bath.
+[0.0028142929077148438] It was small and not very clean.
+
+----- Weakening -----
+
+[-0.9510312080383301] The room itself was very spacious and clean.
+[-0.9493012428283691] The room was wickedly huge and we had tons of space.
+[-0.9272875785827637] It was a very large room for a great price.
+[-0.9208517074584961] Room was spacious, spotlessly clean and I had a great view of the Toronto skyline from the 19th floor.
+[-0.9202766418457031] The rooms were spacious with queen sized beds, nice bathrooms, the view was decent out of our 5th floor rooms, and we had no real issues at all as far as the hotel went.
+
+**********
+
+[0.9647283554077148] The bathroom was not clean.
+Parent: The rooms at the Primrose Hotel were generally found to be clean and spacious, although some reviewers found the bathroom to be small and not very clean.
+
+----- Supporting -----
+
+[0.9647283554077148] There was brown stuff on the walls of the bathroom, and the room was very shabby.
+[0.9463205337524414] The shower was disgusting and there were marks all over the walls and carpet.
+[0.9335803985595703] A bathtub so filthy I wouldnâ€™t dare stand to take a shower.
+[0.9258995056152344] The dust built up in the bathroom and on the carpet was substantial, seriously dust bunnies.
+[0.9069290161132812] The rooms are old, the bathroom smelled, we had a view of air conditioners and the gym was a joke.
+
+----- Weakening -----
+
+[-0.9875888824462891] It was really clean, and the housekeeping lady was very friendly and always asking if I needed any additional toiletries or coffee.
+[-0.9733867645263672] I thought the rooms were very well kept and the bedding looked new.
+[-0.9631919860839844] Room was clean and the lady who cleaned the room was nice enough to give us triple the towels in the room.
+[-0.9381942749023438] Room was large and clean, bathroom was nice, looks like it was newly renovated.
+[-0.916473388671875] The sheets and the bathroom were impeccable and the stay was great.
+
+**********
+
+[0.9258804321289062] There were not enough amenities at the hotel.
+Parent: There was also some complaints about the lack of amenities at the hotel.
+
+----- Supporting -----
+
+[0.9258804321289062] None of the 'perks' of the hotel were available-pool, steam room, gym, and the TV was old and hardly worked.
+[0.714569091796875] The Primrose is a dated property offering only basic levels of service.
+[0.6245517730712891] There aren't many facilities and the internet in my room cut out once in a while.
+[0.4203643798828125] No fridge or electric jug but I think that is normal for a standard room in any hotel in North America.
+[0.30297088623046875] The only thing I did not like about this property is the lack of a indoor swimming pool or even a hot tub.
+
+----- Weakening -----
+
+[-0.9899253845214844] I was pleased with the hotel in general and it had all the amenities I needed.
+[-0.9892864227294922] The hotel has everything we needed and the room was clean and large for the family.
+[-0.9855408668518066] This hotel is near everything; subway, restaurants, shopping.
+[-0.9742622375488281] Luckily it wasn't like any Best Western I had ever been to - this is a large full service hotel.
+[-0.9671316146850586] The staff at checkin was quick to notice our children were a little fussy and provided crayons and coloring books that calmed them right down, The room was huge complete with microwave and small fridge so we could warm up left over which is always important travelling with kids.
+
+**********
+
+[0.9872250556945801] The rooms were clean.
+Parent: The rooms were clean and comfortable, with large beds.
+
+----- Supporting -----
+
+[0.9872250556945801] The room are clean.
+[0.9783720970153809] The entire hotel was very bright and the rooms were very clean.
+[0.9772825241088867] The staff was very polite, rooms were clean, and the hotel has a great location.
+[0.9758729934692383] The room was clean there were no stains anywhere, nice bed and dÃ©cor was good.
+[0.9752302169799805] The room was clean and comfortable.
+
+----- Weakening -----
+
+[-0.9977078437805176] The room was so filthy, we decided to leave, and find another hotel.
+[-0.997138500213623] The shower was disgusting and there were marks all over the walls and carpet.
+[-0.9966821670532227] Exhausted, we walked into our room, and experienced the most overwhelming foul smells, I canâ€™t even describe!
+[-0.9958515167236328] The dust built up in the bathroom and on the carpet was substantial, seriously dust bunnies.
+[-0.9956741333007812] There was brown stuff on the walls of the bathroom, and the room was very shabby.
+
+**********
+
+[0.9727168083190918] The rooms were comfortable.
+Parent: The rooms were clean and comfortable, with large beds.
+
+----- Supporting -----
+
+[0.9727168083190918] The room was clean and comfortable.
+[0.9703259468078613] The room was nice and very comfortable.
+[0.9636263847351074] The rooms were great, we were on the 6th floor, beds were comfortable and room was quite clean.
+[0.9533596038818359] The rooms were very updated and the beds were very comfortable!
+[0.9477262496948242] Room was clean and quite and the bed was really confortable.
+
+----- Weakening -----
+
+[-0.9902849197387695] The room was so filthy, we decided to leave, and find another hotel.
+[-0.9643020629882812] The rooms are tired with many defects (both my rooms had faults including bulbs out, loose headboard and loose bathroom fittings.
+[-0.9577522277832031] Exhausted, we walked into our room, and experienced the most overwhelming foul smells, I canâ€™t even describe!
+[-0.9540596008300781] The dust built up in the bathroom and on the carpet was substantial, seriously dust bunnies.
+[-0.9500350952148438] A bathtub so filthy I wouldnâ€™t dare stand to take a shower.
+
+**********
+
+[0.9630069732666016] The rooms had large beds.
+Parent: The rooms were clean and comfortable, with large beds.
+
+----- Supporting -----
+
+[0.9630069732666016] The rooms were spacious with queen sized beds, nice bathrooms, the view was decent out of our 5th floor rooms, and we had no real issues at all as far as the hotel went.
+[0.9556493759155273] The room we had was on the 20th floor and had 2 huge bedsâ€¦..definitely not a standard double bed I am used to in hotel rooms.
+[0.9210910797119141] The room was large and had 2 queen beds in it.
+[0.9171485900878906] Large room, with really nice and comfy duvets, and overall much nicer than I've seen from most hotels in Toronto in this price range.
+[0.9167022705078125] The room itself was spacious with a king size bed, a sofa, desk, coffee maker (which I did not use), and a chair.
+
+----- Weakening -----
+
+[-0.880645751953125] If you have a van or larger vehicle forget parking here.
+[-0.8792724609375] Only problem was the carpark was too small.
+[-0.86083984375] When at the restaurant, they gave me catchup that was so rancid it bubbled.
+[-0.85968017578125] The parking garage was a tight squeeze if you were driving anything bigger than a four door car.
+[-0.8561248779296875] This restaurant has a loyal group of customers.
+
+**********
+
+[0.9889369010925293] The room had a kitchenette.
+Parent: There was a small kitchenette in the room with a coffee maker and microwave oven.
+
+----- Supporting -----
+
+[0.9889369010925293] Very comfortable bed, a small kitchenette in the room (coffee maker, microwave oven, and a refrigerator).
+[0.9845666885375977] When we got to our room, we got 2 separate beds and a kitchentte.
+[0.9717521667480469] We had one of their kitchenette rooms that had a microwave, small fridge, coffee maker and counter/sink area; complete with utensils, although I brought my own disposable ones.
+[0.8893203735351562] Despite it being a kitchenette, it was a joke to have a little stove, no cutleries provided unless asked.
+[0.6478271484375] This is especially important now that they are installing kitchenettes in some of the rooms.
+
+----- Weakening -----
+
+[-0.976470947265625] We specficially asked for a king size bed with no kitchenette.
+[-0.9680404663085938] No fridge or electric jug but I think that is normal for a standard room in any hotel in North America.
+[-0.9480056762695312] The bathroom was average.
+[-0.9309234619140625] The bathroom has mold on the ceiling and the toilet paper is like tissue paper.
+[-0.9280853271484375] The bathrooms are dated.
+
+**********
+
+[0.517425537109375] The coffee maker in the room worked.
+Parent: There was a small kitchenette in the room with a coffee maker and microwave oven.
+
+----- Supporting -----
+
+[0.517425537109375] The Tim Hortons in the lobby was also convenient for a late night coffee.
+[0.4207916259765625] A four cup coffee maker and supplies and complementary wi-fi were useful.
+[0.2884674072265625] The `Tim Horton`s` coffee shop in the reception was a bonus.
+[0.2051544189453125] Tv,mircowave, fridge,cooker,coffee maker, climate control,couch desk ,hairdryer and toiletries and wi fi access.
+[0.0751953125] The room itself was spacious with a king size bed, a sofa, desk, coffee maker (which I did not use), and a chair.
+
+----- Weakening -----
+
+[-0.9361305236816406] Our car was broken into.
+[-0.9138374328613281] Only problem was the carpark was too small.
+[-0.8655281066894531] hair bath front desk staff unhappy and helpless.
+[-0.8635330200195312] We waited 25 minutes for a car to move and had to find management to clear it so we could proceed!
+[-0.854705810546875] But that was due to the amount of rum we consumed and an amazing concert.
+
+**********
+
+[0.9844512939453125] There was a microwave oven in the room.
+Parent: There was a small kitchenette in the room with a coffee maker and microwave oven.
+
+----- Supporting -----
+
+[0.9844512939453125] Very comfortable bed, a small kitchenette in the room (coffee maker, microwave oven, and a refrigerator).
+[0.38946533203125] The staff at checkin was quick to notice our children were a little fussy and provided crayons and coloring books that calmed them right down, The room was huge complete with microwave and small fridge so we could warm up left over which is always important travelling with kids.
+[0.2996826171875] We stayed in their studio which consisted of 2 beds refrigeraror microwave eating area.
+[0.2570648193359375] We had one of their kitchenette rooms that had a microwave, small fridge, coffee maker and counter/sink area; complete with utensils, although I brought my own disposable ones.
+[0.0] All
+
+----- Weakening -----
+
+[-0.9113349914550781] A few very minor complaints - the bathroom was very small and a bit cold, since the only heat was from a small baseboard heater.
+[-0.9027748107910156] And when you are at the park don't forget to visit the Greenhouse.
+[-0.8658676147460938] Our car was broken into.
+[-0.8524246215820312] Only problem was the carpark was too small.
+[-0.8432960510253906] We accidently left a piece of jewelry in the room.
+
+**********
+
+[0.513031005859375] The room was too small.
+Parent: Some guests found the room to be too small for the bathroom.
+
+----- Supporting -----
+
+[0.513031005859375] The elevators are very small, it is cramped with 4 people with luggage.
+[0.3635406494140625] The elevators are very small, so getting a cart and two bodies into the tight space was a difficult.
+[0.308929443359375] A few very minor complaints - the bathroom was very small and a bit cold, since the only heat was from a small baseboard heater.
+[0.121826171875] The parking garage was a tight squeeze if you were driving anything bigger than a four door car.
+[0.11279296875] The ramps are very steep, the spots are narrow and the driving room is almost non-existent.
+
+----- Weakening -----
+
+[-0.9981367588043213] We got a large room with two double beds and a coffee maker.
+[-0.9980800151824951] Staff was extra friendly, room was large and clean, had a great view of the city and we were walking distance to just about everything.
+[-0.9975793361663818] The room was great and large with 2 queen beds.
+[-0.9975395202636719] The room itself was very spacious and clean.
+[-0.9975147247314453] The room was big, clean and quite nice, the bed was very comfortable, there was plenty of hot water... the basics were covered.
+
+**********
+
+[0.6243209838867188] The bathroom was too small.
+Parent: Some guests found the room to be too small for the bathroom.
+
+----- Supporting -----
+
+[0.6243209838867188] A few very minor complaints - the bathroom was very small and a bit cold, since the only heat was from a small baseboard heater.
+[0.24700927734375] The room was very large but made for a small bathroom.
+[0.02863311767578125] I had called down to front desk to ask for some extra towels and they were giving me a hard time.
+[0.0179443359375] A bathtub so filthy I wouldnâ€™t dare stand to take a shower.
+[0.017765045166015625] It was small and not very clean.
+
+----- Weakening -----
+
+[-0.981879711151123] The room itself was very spacious and clean.
+[-0.9745874404907227] The rooms were spacious with queen sized beds, nice bathrooms, the view was decent out of our 5th floor rooms, and we had no real issues at all as far as the hotel went.
+[-0.9648056030273438] Only problem was the carpark was too small.
+[-0.9616141319274902] Room was large and clean, bathroom was nice, looks like it was newly renovated.
+[-0.9586195945739746] It was a very large room for a great price.
+
+**********
+
+[0.9442033767700195] Some rooms have views of downtown.
+Parent: There were views of downtown, the CN tower and Lake Ontario from some of the rooms.
+
+----- Supporting -----
+
+[0.9442033767700195] We were given a room on the 12th floor with a south view so we had a view of downtown, CN Tower, and Lake Ontario.
+[0.8868350982666016] We mentioned on check in that it was our anniversary and were immediately upgraded from our room with 1 double to a king room on the highest floor with a wonderful view of the city.
+[0.8783273696899414] We got a room on the 16th floor with great views of the city , Our room had a big comfortable double bed.
+[0.8590908050537109] Our room had a south view of the city with a fantistic view of downtown and the lake.
+[0.7885856628417969] Staff was extra friendly, room was large and clean, had a great view of the city and we were walking distance to just about everything.
+
+----- Weakening -----
+
+[-0.5396728515625] Our car was broken into.
+[-0.359649658203125] The parking garage was a tight squeeze if you were driving anything bigger than a four door car.
+[-0.34796142578125] You have to drive very slow and carefully to make sure you don't damage your car.
+[-0.23541259765625] Only problem was the carpark was too small.
+[-0.22460174560546875] Heed this warning stay away from this crappy place, you'll be glad you did.
+
+**********
+
+[0.9478492736816406] Some rooms have views of the CN tower.
+Parent: There were views of downtown, the CN tower and Lake Ontario from some of the rooms.
+
+----- Supporting -----
+
+[0.9478492736816406] We were given a room on the 12th floor with a south view so we had a view of downtown, CN Tower, and Lake Ontario.
+[0.4478607177734375] We had a breathtaking view of downtown Toronto second only to the CN Tower view.
+[0.038970947265625] We didnâ€™t run into any problems at the hotel, but unfortunately our trip ended on a sour note as my wifeâ€™s wallet was pickpocketed while we were outside the CN Tower.
+[0.024438858032226562] Close to CN tower too!
+[0.02398681640625] We occupied the Starlight room on the 23rd floor and found the room to be ideal for our training sessions.
+
+----- Weakening -----
+
+[-0.56671142578125] Our car was broken into.
+[-0.44329833984375] Only problem was the carpark was too small.
+[-0.41705322265625] The parking garage was a tight squeeze if you were driving anything bigger than a four door car.
+[-0.36224365234375] And when you are at the park don't forget to visit the Greenhouse.
+[-0.350830078125] Weâ€™ve travelled to some very poor countries in our lives, but weâ€™ve never seen such dirty conditions!
+
+**********
+
+[0.0027484893798828125] The rooms with views of Lake Ontario are the best.
+Parent: There were views of downtown, the CN tower and Lake Ontario from some of the rooms.
+
+----- Supporting -----
+
+[0.0027484893798828125] The room was perfect for us, and had 2 queen beds and a great view of the lake (we were on the 20th floor).
+[0.0022478103637695312] Would stay there again as price was great and location perfect.
+[0.0019073486328125] The hotel is older but the room was huge and had a view all the way to the lake.
+[0.0015850067138671875] Our room had a south view of the city with a fantistic view of downtown and the lake.
+[0.0009851455688476562] It was a nice hotel and I will stay here again.
+
+----- Weakening -----
+
+[-0.9727606773376465] We are heartbroken and will never recommend this hotel to anyone.
+[-0.9458022117614746] I've stayed in many places around the world but this was the worst.
+[-0.9402728080749512] I do not recommend staying here.
+[-0.9388456344604492] I would never step into that hotel.
+[-0.9261937141418457] My husband and I stayed at this hotel for several nights in June, and were very disappointed.
+
+**********
+
+[0.9839510917663574] The rooms were large.
+Parent: The rooms were large, clean, and comfortable.
+
+----- Supporting -----
+
+[0.9839510917663574] The rooms were large and clean which was all we really needed.
+[0.9732112884521484] The price is very good and the rooms are large, the only issue with the hotel is its very dated and could do with a revamp.
+[0.971165657043457] The price was great, and the rooms large.
+[0.9596624374389648] Large room, with really nice and comfy duvets, and overall much nicer than I've seen from most hotels in Toronto in this price range.
+[0.9492740631103516] The rooms were spacious with queen sized beds, nice bathrooms, the view was decent out of our 5th floor rooms, and we had no real issues at all as far as the hotel went.
+
+----- Weakening -----
+
+[-0.9841327667236328] It was small and not very clean.
+[-0.9596328735351562] The elevators are very small, it is cramped with 4 people with luggage.
+[-0.9518852233886719] The room I was given had 1 bed and a small sitting area.
+[-0.9452743530273438] The ramps are very steep, the spots are narrow and the driving room is almost non-existent.
+[-0.9412765502929688] Only problem was the carpark was too small.
+
+**********
+
+[0.9872250556945801] The rooms were clean.
+Parent: The rooms were large, clean, and comfortable.
+
+----- Supporting -----
+
+[0.9872250556945801] The room are clean.
+[0.9783720970153809] The entire hotel was very bright and the rooms were very clean.
+[0.9772825241088867] The staff was very polite, rooms were clean, and the hotel has a great location.
+[0.9758729934692383] The room was clean there were no stains anywhere, nice bed and dÃ©cor was good.
+[0.9752302169799805] The room was clean and comfortable.
+
+----- Weakening -----
+
+[-0.9977078437805176] The room was so filthy, we decided to leave, and find another hotel.
+[-0.997138500213623] The shower was disgusting and there were marks all over the walls and carpet.
+[-0.9966821670532227] Exhausted, we walked into our room, and experienced the most overwhelming foul smells, I canâ€™t even describe!
+[-0.9958515167236328] The dust built up in the bathroom and on the carpet was substantial, seriously dust bunnies.
+[-0.9956741333007812] There was brown stuff on the walls of the bathroom, and the room was very shabby.
+
+**********
+
+[0.9727168083190918] The rooms were comfortable.
+Parent: The rooms were large, clean, and comfortable.
+
+----- Supporting -----
+
+[0.9727168083190918] The room was clean and comfortable.
+[0.9703259468078613] The room was nice and very comfortable.
+[0.9636263847351074] The rooms were great, we were on the 6th floor, beds were comfortable and room was quite clean.
+[0.9533596038818359] The rooms were very updated and the beds were very comfortable!
+[0.9477262496948242] Room was clean and quite and the bed was really confortable.
+
+----- Weakening -----
+
+[-0.9902849197387695] The room was so filthy, we decided to leave, and find another hotel.
+[-0.9643020629882812] The rooms are tired with many defects (both my rooms had faults including bulbs out, loose headboard and loose bathroom fittings.
+[-0.9577522277832031] Exhausted, we walked into our room, and experienced the most overwhelming foul smells, I canâ€™t even describe!
+[-0.9540596008300781] The dust built up in the bathroom and on the carpet was substantial, seriously dust bunnies.
+[-0.9500350952148438] A bathtub so filthy I wouldnâ€™t dare stand to take a shower.
+
+**********
+
+[0.9929509162902832] The elevators were slow.
+Parent: The elevators were slow, but the staff was friendly and helpful.
+
+----- Supporting -----
+
+[0.9929509162902832] The elevators are super slow.
+[0.9889788627624512] The elevators are extremely slow, sometimes taking 5 minutes just to get an elevator if you are on an upper floor.
+[0.9866104125976562] The elevators are VERY SLOW and we routinely spent several minutes waiting for them.
+[0.9834451675415039] My only real complaint is that the elevators were very slow and the computers in the business centre were slow as well.
+[0.9801273345947266] The elevators are a little slow as some other reviews indicated.
+
+----- Weakening -----
+
+[-0.8657293319702148] Everything went very smoothly.
+[-0.8528652191162109] Connection was fast and I had no issues.
+[-0.8208427429199219] This hotel was not bad at all, check-in was very quick.
+[-0.7621726989746094] Check-in was fast and friendly.
+[-0.75238037109375] (Coming off the street, the turns were tight and narrow.)
+
+**********
+
+[0.9915609359741211] The staff was friendly.
+Parent: The elevators were slow, but the staff was friendly and helpful.
+
+----- Supporting -----
+
+[0.9915609359741211] The staff were friendly and helpful.
+[0.9901242256164551] The staff was friendly.
+[0.9894251823425293] The staff were friendly and efficient.
+[0.9866700172424316] The staff were very friendly and cheery and the kids also liked the Tim Hortons in the lobby for the donuts.
+[0.9865131378173828] Staff were very helpful and friendly.
+
+----- Weakening -----
+
+[-0.9966096878051758] The staff were rude and quite useless, they just seemed annoyed and unwilling to help no matter how polite we were.
+[-0.9956388473510742] The front desk person was very abrupt and had a serious attitude problem.
+[-0.9953594207763672] The front desk staff were very unfriendly and always seemed to make matters overly complicated.
+[-0.995025634765625] Looks very disgruntled employees they have got.
+[-0.9929742813110352] Before checking in, they rudely told us that the parking space we had requested had been given to someone else and that we were to go down the street to public parking lot.
+
+**********
+
+[0.9894828796386719] The staff was helpful.
+Parent: The elevators were slow, but the staff was friendly and helpful.
+
+----- Supporting -----
+
+[0.9894828796386719] The staff were nice and helpful.
+[0.9875149726867676] The staff were friendly and helpful.
+[0.9871416091918945] Staff were very helpful and friendly.
+[0.9795694351196289] The staff were friendly, helpful and the view of the Toronto skyline I had from my room was great.
+[0.9771285057067871] I found the staff to be helpful and courteous as well.
+
+----- Weakening -----
+
+[-0.9975714683532715] The staff were rude and quite useless, they just seemed annoyed and unwilling to help no matter how polite we were.
+[-0.9966087341308594] The front desk staff were very unfriendly and always seemed to make matters overly complicated.
+[-0.9879817962646484] One front desk was outright rude and unhelpful for several requests which had to be handled by a morning person who was confused why the evening staff wouldn't help me until I told her the staff name and she rolled her eyes and suggested I speak with management.
+[-0.9878082275390625] hair bath front desk staff unhappy and helpless.
+[-0.9799156188964844] The front desk person was very abrupt and had a serious attitude problem.
+
+**********
+
+[0.9815883636474609] The pool area was dirty.
+Parent: The pool area was dirty, but the gym was good.
+
+----- Supporting -----
+
+[0.9815883636474609] the pool area is scarily dirty, full with pigeons, so you might want to skip this offering to stay well.
+[0.16998291015625] My second room also had a window that would not close, there were beer caps scattered throughout the room, there was hair in the tub and on the toilet seat, and the room smelt like an ashtray.
+[0.144866943359375] Bath tub water kept leaking out when trying to have a bath.
+[0.05230712890625] ), and the the bath towels had yellow stains and smelled "funky"!
+[0.02587890625] The hotel was dirty.
+
+----- Weakening -----
+
+[-0.9562616348266602] The room was very clean and well appointed.
+[-0.9537191390991211] The room was clean and well decorated.
+[-0.9507331848144531] The room was clean and comfortable.
+[-0.9457874298095703] It was very clean and comfortable and had very nice artwork on the walls.
+[-0.9438495635986328] Very clean and the beds were VERY comfortable.
+
+**********
+
+[0.291839599609375] The gym was good.
+Parent: The pool area was dirty, but the gym was good.
+
+----- Supporting -----
+
+[0.291839599609375] The room was great and large with 2 queen beds.
+[0.274932861328125] the gym is located in two adjacent rooms, and for the price category of this hotel is nothing to complain about.
+[0.2714881896972656] Also to our delight there was a fitness centre, swimming pool and a sauna.
+[0.2313385009765625] I stayed at the Primrose last weekend with a buddy for the Grey Cup and had a blast.
+[0.203857421875] We occupied the Starlight room on the 23rd floor and found the room to be ideal for our training sessions.
+
+----- Weakening -----
+
+[-0.9855079650878906] The rooms are old, the bathroom smelled, we had a view of air conditioners and the gym was a joke.
+[-0.9502925872802734] The laundry facilitys are in poor quality.
+[-0.9354476928710938] The laundry left something to be desired.
+[-0.9154119491577148] The room was so filthy, we decided to leave, and find another hotel.
+[-0.9131546020507812] The restaurant buffet for breakfast was good, the wait staff was very pleasant.
+
+**********
+
+[0.9771761894226074] The hotel was a good value.
+Parent: Overall, the hotel was a good value for the price.
+
+----- Supporting -----
+
+[0.9771761894226074] Not a luxury hotel by any means, but great value for the price.
+[0.974708080291748] It's not a highend hotel, but it's great value for the price.
+[0.9611153602600098] Great hotel and great price.
+[0.9416594505310059] My friends and I decided to stay at this hotel for two nights because the price was so good.
+[0.9406499862670898] The price is very good and the rooms are large, the only issue with the hotel is its very dated and could do with a revamp.
+
+----- Weakening -----
+
+[-0.9902629852294922] I could not believe what they charged for a room at this hell-hole, and it is funny just around the corner from the building is a "back-packer's hostel which I thought would have been much better than this dump.
+[-0.9723472595214844] But from the time they told us we had to go get public parking down the street, to mixed up room arrangement, through just rude service, and a tile falling from the bathroom wall, the price was not worth it.
+[-0.96612548828125] Although it would have been more convenient for me to stay at the hotel the meeting was in, their prices were far too expensive for my budget.
+[-0.9592227935791016] I cannot begin to explain how awful this hotel is.
+[-0.9534835815429688] This was one of the worst experiences I have ever with a hotel room that cost $160 a night.
+
+**********
+
+[0.9025278091430664] Overall, the hotel was a good value.
+Parent: Overall, the hotel was a good value for the price.
+
+----- Supporting -----
+
+[0.9025278091430664] Not a luxury hotel by any means, but great value for the price.
+[0.9014749526977539] All in all, I had a good stay and would recommend this hotel to others looking for good service, clean rooms and reasonable room rates.
+[0.8557968139648438] It's not a highend hotel, but it's great value for the price.
+[0.8544597625732422] Large room, with really nice and comfy duvets, and overall much nicer than I've seen from most hotels in Toronto in this price range.
+[0.8292350769042969] The price is very good and the rooms are large, the only issue with the hotel is its very dated and could do with a revamp.
+
+----- Weakening -----
+
+[-0.9626312255859375] But from the time they told us we had to go get public parking down the street, to mixed up room arrangement, through just rude service, and a tile falling from the bathroom wall, the price was not worth it.
+[-0.9164333343505859] I could not believe what they charged for a room at this hell-hole, and it is funny just around the corner from the building is a "back-packer's hostel which I thought would have been much better than this dump.
+[-0.8892831802368164] We are heartbroken and will never recommend this hotel to anyone.
+[-0.8797760009765625] Although it would have been more convenient for me to stay at the hotel the meeting was in, their prices were far too expensive for my budget.
+[-0.879542350769043] Heed this warning stay away from this crappy place, you'll be glad you did.
+
+**********
+
+[0.9752359390258789] The rooms are spacious.
+Parent: The rooms are spacious, but they are tired and have many defects.
+
+----- Supporting -----
+
+[0.9752359390258789] The rooms were spacious with queen sized beds, nice bathrooms, the view was decent out of our 5th floor rooms, and we had no real issues at all as far as the hotel went.
+[0.9513092041015625] The rooms were large and clean which was all we really needed.
+[0.945033073425293] However on arriving found the hotel room to be very spacious, clean and very comfortable.
+[0.9404964447021484] The price is very good and the rooms are large, the only issue with the hotel is its very dated and could do with a revamp.
+[0.8937664031982422] The room was spacious and clean with an extremely comfortable bed.
+
+----- Weakening -----
+
+[-0.9940910339355469] The ramps are very steep, the spots are narrow and the driving room is almost non-existent.
+[-0.9868583679199219] It was small and not very clean.
+[-0.9798450469970703] The elevators are very small, it is cramped with 4 people with luggage.
+[-0.9769039154052734] A few very minor complaints - the bathroom was very small and a bit cold, since the only heat was from a small baseboard heater.
+[-0.9748611450195312] The elevators are very small, so getting a cart and two bodies into the tight space was a difficult.
+
+**********
+
+[0.9847331047058105] The rooms are old and needs to be updated.
+Parent: The rooms are spacious, but they are tired and have many defects.
+
+----- Supporting -----
+
+[0.9847331047058105] Although most of the staff were nice, the rooms were dated and could use some renovation.
+[0.9706249237060547] The price is very good and the rooms are large, the only issue with the hotel is its very dated and could do with a revamp.
+[0.8787689208984375] I did notice the elevators seemed dated and in need of an update, but given that I was on high alert, this wasn't a big deal.
+[0.36359405517578125] The carpet could use replacing for staining, but it wasn't dirty, just old.
+[0.2473907470703125] The rooms are tired with many defects (both my rooms had faults including bulbs out, loose headboard and loose bathroom fittings.
+
+----- Weakening -----
+
+[-0.9975793361663818] The rooms were very updated and the beds were very comfortable!
+[-0.9770665168762207] The hotel was clean, modern and the only concern that I had was the limited parking in the hotel garage.
+[-0.9664268493652344] Room was large and clean, bathroom was nice, looks like it was newly renovated.
+[-0.9647412300109863] The staff was very polite, rooms were clean, and the hotel has a great location.
+[-0.9592938423156738] I thought the rooms were very well kept and the bedding looked new.
+
+**********
+
+[0.9770002365112305] The rooms had a lot of defects.
+Parent: The rooms are spacious, but they are tired and have many defects.
+
+----- Supporting -----
+
+[0.9770002365112305] The rooms are tired with many defects (both my rooms had faults including bulbs out, loose headboard and loose bathroom fittings.
+[0.9066953659057617] My second room also had a window that would not close, there were beer caps scattered throughout the room, there was hair in the tub and on the toilet seat, and the room smelt like an ashtray.
+[0.8508968353271484] The rooms are old, the bathroom smelled, we had a view of air conditioners and the gym was a joke.
+[0.8429431915283203] But from the time they told us we had to go get public parking down the street, to mixed up room arrangement, through just rude service, and a tile falling from the bathroom wall, the price was not worth it.
+[0.7989006042480469] #1) Business Centre: no paper in printer, no pens, no envelopes, wi-fi slow and potentially virused #2) Several of the desk staff were cold and flat in their behaviour.
+
+----- Weakening -----
+
+[-0.9930911064147949] The room was clean there were no stains anywhere, nice bed and dÃ©cor was good.
+[-0.9915761947631836] Found my room and the hotel in general very clean and well kept.
+[-0.9914827346801758] The entire hotel was very bright and the rooms were very clean.
+[-0.990943431854248] The staff was very polite, rooms were clean, and the hotel has a great location.
+[-0.9886040687561035] The room was very clean and well appointed.
+
+**********
+
+[0.953094482421875] The breakfast is average.
+Parent: The breakfast is average.
+
+----- Supporting -----
+
+[0.953094482421875] Breakfast was fairly average too.
+[0.030857086181640625] I would describe it as typical Best Western standard 3 star hotel quality, nothing special and no frills.
+[0.0302734375] Room serviced daily.
+[0.02433013916015625] The Primrose is a dated property offering only basic levels of service.
+[0.00847625732421875] not a big deal.
+
+----- Weakening -----
+
+[-0.9894084930419922] Excellent breakfast in the AM as well.
+[-0.9795989990234375] The restaurant buffet for breakfast was good, the wait staff was very pleasant.
+[-0.9688568115234375] The non-free continental breakfast is a joke.
+[-0.9677886962890625] Went to Toronto for a buyers show and stayed at this Primrose Hotel because there was a dinner function there for us.Â  Booked on bestwestern.com as I found the rate was pretty much the same on all the websites I checked.Â  Lobby was ok, nothing too fancy.Â  I was checked in by the manager who seemed very nice and told me he upgraded my room - thanks!Â  Room was HUGE!Â  Great view of the city, very comfortable bed, I slept well.Â  Bathroom was ok, kinda like the lobby.Â  All the staff were very friendly and the breakfast buffet was good but overpriced compared to the Golden Greek restaurant next door that I found on my next morning.Â  For the price I paid I would stay again.
+[-0.9587249755859375] great coffee & doughnuts in the mornings!
+
+**********
+
+[0.9872250556945801] The rooms were clean.
+Parent: The rooms were generally clean and comfortable, although some guests noted that the bathrooms were small and cold.
+
+----- Supporting -----
+
+[0.9872250556945801] The room are clean.
+[0.9783720970153809] The entire hotel was very bright and the rooms were very clean.
+[0.9772825241088867] The staff was very polite, rooms were clean, and the hotel has a great location.
+[0.9758729934692383] The room was clean there were no stains anywhere, nice bed and dÃ©cor was good.
+[0.9752302169799805] The room was clean and comfortable.
+
+----- Weakening -----
+
+[-0.9977078437805176] The room was so filthy, we decided to leave, and find another hotel.
+[-0.997138500213623] The shower was disgusting and there were marks all over the walls and carpet.
+[-0.9966821670532227] Exhausted, we walked into our room, and experienced the most overwhelming foul smells, I canâ€™t even describe!
+[-0.9958515167236328] The dust built up in the bathroom and on the carpet was substantial, seriously dust bunnies.
+[-0.9956741333007812] There was brown stuff on the walls of the bathroom, and the room was very shabby.
+
+**********
+
+[0.9727168083190918] The rooms were comfortable.
+Parent: The rooms were generally clean and comfortable, although some guests noted that the bathrooms were small and cold.
+
+----- Supporting -----
+
+[0.9727168083190918] The room was clean and comfortable.
+[0.9703259468078613] The room was nice and very comfortable.
+[0.9636263847351074] The rooms were great, we were on the 6th floor, beds were comfortable and room was quite clean.
+[0.9533596038818359] The rooms were very updated and the beds were very comfortable!
+[0.9477262496948242] Room was clean and quite and the bed was really confortable.
+
+----- Weakening -----
+
+[-0.9902849197387695] The room was so filthy, we decided to leave, and find another hotel.
+[-0.9643020629882812] The rooms are tired with many defects (both my rooms had faults including bulbs out, loose headboard and loose bathroom fittings.
+[-0.9577522277832031] Exhausted, we walked into our room, and experienced the most overwhelming foul smells, I canâ€™t even describe!
+[-0.9540596008300781] The dust built up in the bathroom and on the carpet was substantial, seriously dust bunnies.
+[-0.9500350952148438] A bathtub so filthy I wouldnâ€™t dare stand to take a shower.
+
+**********
+
+[0.48211669921875] The bathrooms were too small.
+Parent: The rooms were generally clean and comfortable, although some guests noted that the bathrooms were small and cold.
+
+----- Supporting -----
+
+[0.48211669921875] A few very minor complaints - the bathroom was very small and a bit cold, since the only heat was from a small baseboard heater.
+[0.0348052978515625] I had called down to front desk to ask for some extra towels and they were giving me a hard time.
+[0.017183303833007812] It was small and not very clean.
+[0.01104736328125] A bathtub so filthy I wouldnâ€™t dare stand to take a shower.
+[0.008270263671875] The staff made no effort to give guests priority on them, either.
+
+----- Weakening -----
+
+[-0.9586606025695801] The room itself was very spacious and clean.
+[-0.9517440795898438] Room was large and clean, bathroom was nice, looks like it was newly renovated.
+[-0.9423828125] Staff was extra friendly, room was large and clean, had a great view of the city and we were walking distance to just about everything.
+[-0.9413986206054688] Only problem was the carpark was too small.
+[-0.9351067543029785] The rooms were large and clean which was all we really needed.
+
+**********
+
+[0.8673553466796875] The bathrooms were cold.
+Parent: The rooms were generally clean and comfortable, although some guests noted that the bathrooms were small and cold.
+
+----- Supporting -----
+
+[0.8673553466796875] A few very minor complaints - the bathroom was very small and a bit cold, since the only heat was from a small baseboard heater.
+[0.010700225830078125] My husband laughed when he saw the conditions of the bathroom.
+[0.00396728515625] Weâ€™ve travelled to some very poor countries in our lives, but weâ€™ve never seen such dirty conditions!
+[0.0005950927734375] It was small and not very clean.
+[0.0004215240478515625] This was certainly not the greatest hotel I have ever stayed in.
+
+----- Weakening -----
+
+[-0.9975874423980713] There was also always plenty of hot water for Baths/showers.
+[-0.9809074401855469] Room was large and clean, bathroom was nice, looks like it was newly renovated.
+[-0.9785881042480469] They are comfortable with nice bedding.
+[-0.9650363922119141] The room was big, clean and quite nice, the bed was very comfortable, there was plenty of hot water... the basics were covered.
+[-0.9638662338256836] The room was clean and comfortable.
+
+**********
+
+[0.017425537109375] The noise from neighbouring rooms was too loud.
+Parent: There were also some complaints about noise from neighbouring rooms and slow elevators.
+
+----- Supporting -----
+
+[0.017425537109375] Also I think there is a private school also staying in the hotel because there are little kids in uniforms screaming about.
+[0.00978851318359375] Tim Hortons onsite.
+[0.00775146484375] Could not sleep the very first night, A/C making too much of rattling noise.
+[0.00125885009765625] I was actually scared to the point I told my boss I didn't want to stay there.
+[0.001216888427734375] I've stayed in many places around the world but this was the worst.
+
+----- Weakening -----
+
+[-0.9630191326141357] Everything went very smoothly.
+[-0.9596338272094727] Considering that a lot of rooms are let out to students, it was pretty quiet.
+[-0.9472112655639648] The food they serve is good as well.
+[-0.9405102729797363] Great wi-fi service too.
+[-0.9348659515380859] It appears this hotel also serves as a university residence, but there was no noise issue with that.
+
+**********
+
+[0.9929509162902832] The elevators were slow.
+Parent: There were also some complaints about noise from neighbouring rooms and slow elevators.
+
+----- Supporting -----
+
+[0.9929509162902832] The elevators are super slow.
+[0.9889788627624512] The elevators are extremely slow, sometimes taking 5 minutes just to get an elevator if you are on an upper floor.
+[0.9866104125976562] The elevators are VERY SLOW and we routinely spent several minutes waiting for them.
+[0.9834451675415039] My only real complaint is that the elevators were very slow and the computers in the business centre were slow as well.
+[0.9801273345947266] The elevators are a little slow as some other reviews indicated.
+
+----- Weakening -----
+
+[-0.8657293319702148] Everything went very smoothly.
+[-0.8528652191162109] Connection was fast and I had no issues.
+[-0.8208427429199219] This hotel was not bad at all, check-in was very quick.
+[-0.7621726989746094] Check-in was fast and friendly.
+[-0.75238037109375] (Coming off the street, the turns were tight and narrow.)
+
+**********
+
+[0.9127712249755859] The rooms were satisfactory.
+Parent: The reviewers were generally happy with the rooms, finding them clean and comfortable.
+
+----- Supporting -----
+
+[0.9127712249755859] The room was nice and very comfortable.
+[0.9015264511108398] The rooms were great, we were on the 6th floor, beds were comfortable and room was quite clean.
+[0.8929786682128906] Overall, a great place to stay because the rooms were clean, staff was friendly and helpful, many attractions and great restaurants are walking distance from the hotel.
+[0.8886299133300781] Our room was good, the bed very good - but it was disappointing to find that the "new and exciting Primrose Restaurant and Bar where no expense had been spared" (according to their brochure) was CLOSED except for breakfast time.
+[0.8851661682128906] Staff was friendly and room was good.
+
+----- Weakening -----
+
+[-0.9964089393615723] The room was so filthy, we decided to leave, and find another hotel.
+[-0.9898757934570312] The rooms are tired with many defects (both my rooms had faults including bulbs out, loose headboard and loose bathroom fittings.
+[-0.9895124435424805] This was one of the worst experiences I have ever with a hotel room that cost $160 a night.
+[-0.9816703796386719] There was brown stuff on the walls of the bathroom, and the room was very shabby.
+[-0.9727687835693359] Exhausted, we walked into our room, and experienced the most overwhelming foul smells, I canâ€™t even describe!
+
+**********
+
+[0.9848742485046387] The rooms were clean and comfortable.
+Parent: The reviewers were generally happy with the rooms, finding them clean and comfortable.
+
+----- Supporting -----
+
+[0.9848742485046387] The rooms were great, we were on the 6th floor, beds were comfortable and room was quite clean.
+[0.983635425567627] The rooms are reasonably clean, the beds fairly comfortable, and the staff mostly helpful.
+[0.9834527969360352] Room was clean and quite and the bed was really confortable.
+[0.9817667007446289] The room was clean and comfortable.
+[0.981236457824707] The room was spacious and clean with an extremely comfortable bed.
+
+----- Weakening -----
+
+[-0.9986207485198975] The room was so filthy, we decided to leave, and find another hotel.
+[-0.9979805946350098] Exhausted, we walked into our room, and experienced the most overwhelming foul smells, I canâ€™t even describe!
+[-0.9978728294372559] The dust built up in the bathroom and on the carpet was substantial, seriously dust bunnies.
+[-0.9977774620056152] The shower was disgusting and there were marks all over the walls and carpet.
+[-0.9976663589477539] There was brown stuff on the walls of the bathroom, and the room was very shabby.
+
+**********
+
+[0.9223499298095703] The rooms were dated and basic.
+Parent: However, some found them dated and basic, and noted that the hotel is showing signs of wear.
+
+----- Supporting -----
+
+[0.9223499298095703] Although most of the staff were nice, the rooms were dated and could use some renovation.
+[0.8413810729980469] The beds were comfortable and the sheets good quality but the furniture is pretty dated and the bathroom very tired looking.
+[0.7644500732421875] The rooms are tired with many defects (both my rooms had faults including bulbs out, loose headboard and loose bathroom fittings.
+[0.7608909606933594] The rooms are old, the bathroom smelled, we had a view of air conditioners and the gym was a joke.
+[0.743621826171875] The price is very good and the rooms are large, the only issue with the hotel is its very dated and could do with a revamp.
+
+----- Weakening -----
+
+[-0.9958629608154297] The room was very clean and well appointed.
+[-0.9947795867919922] The rooms were very updated and the beds were very comfortable!
+[-0.9941830635070801] The room was clean and well decorated.
+[-0.9938693046569824] It was very clean and comfortable and had very nice artwork on the walls.
+[-0.9932374954223633] I thought the rooms were very well kept and the bedding looked new.
+
+**********
+
+[0.9858458042144775] The hotel is old and needs to be updated.
+Parent: However, some found them dated and basic, and noted that the hotel is showing signs of wear.
+
+----- Supporting -----
+
+[0.9858458042144775] The price is very good and the rooms are large, the only issue with the hotel is its very dated and could do with a revamp.
+[0.8352165222167969] Although most of the staff were nice, the rooms were dated and could use some renovation.
+[0.35222625732421875] I did notice the elevators seemed dated and in need of an update, but given that I was on high alert, this wasn't a big deal.
+[0.28668785095214844] The Primrose is a dated property offering only basic levels of service.
+[0.149444580078125] The general feeling of this hotel was tired and run down.
+
+----- Weakening -----
+
+[-0.9937560558319092] The rooms were very updated and the beds were very comfortable!
+[-0.9863812923431396] The hotel was clean, modern and the only concern that I had was the limited parking in the hotel garage.
+[-0.8789126873016357] The hotel was totally cool.
+[-0.79339599609375] I thought the rooms were very well kept and the bedding looked new.
+[-0.7921395301818848] Everything was spotlessly clean and comfortable and the staff were very helpful and polite.
+
+**********
+
+[0.6754341125488281] The elevators were too small.
+Parent: There were also complaints about the small elevators and noise from the street.
+
+----- Supporting -----
+
+[0.6754341125488281] The elevators are very small, it is cramped with 4 people with luggage.
+[0.3011741638183594] The elevators are very small, so getting a cart and two bodies into the tight space was a difficult.
+[0.06938934326171875] Afterwards the Manager acknowledged that the lifts are in need of urgent replacement but due to the cost this has yet to be authorised.
+[0.02862548828125] When I complained about the elevators and wireless he just stood there with no apology or good explanation other than it would be too expensive to fix the elevators and it was all the guests' fault anyway for the elevator getting stuck since there were 8 people in the elevator (it's rated for 12 people).
+[0.02086639404296875] We were tipped off that the lifts in this hotel are terrible before our arrival as we were on a tour.
+
+----- Weakening -----
+
+[-0.9082221984863281] Very big comfortable bed.
+[-0.8839340209960938] A bathtub so filthy I wouldnâ€™t dare stand to take a shower.
+[-0.8536548614501953] The bed was extremely comfortable.
+[-0.8429012298583984] Very clean and the beds were VERY comfortable.
+[-0.8073043823242188] And when you are at the park don't forget to visit the Greenhouse.
+
+**********
+
+[0.23626708984375] The noise from the street was too loud.
+Parent: There were also complaints about the small elevators and noise from the street.
+
+----- Supporting -----
+
+[0.23626708984375] Could not sleep the very first night, A/C making too much of rattling noise.
+[0.01233673095703125] Tim Hortons onsite.
+[0.0013141632080078125] I was actually scared to the point I told my boss I didn't want to stay there.
+[0.001056671142578125] Heed this warning stay away from this crappy place, you'll be glad you did.
+[0.0006732940673828125] I do not recommend staying here.
+
+----- Weakening -----
+
+[-0.9791882038116455] Everything went very smoothly.
+[-0.9779815673828125] There were 'ladies of the night' out front of the hotel, but they were harmless and didn't hassle us at all.
+[-0.9517998695373535] Great wi-fi service too.
+[-0.9462738037109375] The food they serve is good as well.
+[-0.9441142082214355] In a nutshell it was affordable clean comfortable, the staff where friendly .. we felt safe here and the stay was very pleasant!
+
+**********
+
+[0.9872250556945801] The rooms were clean.
+Parent: The reviewers said that the rooms were clean and comfortable, although some said that they were dated and in need of a remodel.
+
+----- Supporting -----
+
+[0.9872250556945801] The room are clean.
+[0.9783720970153809] The entire hotel was very bright and the rooms were very clean.
+[0.9772825241088867] The staff was very polite, rooms were clean, and the hotel has a great location.
+[0.9758729934692383] The room was clean there were no stains anywhere, nice bed and dÃ©cor was good.
+[0.9752302169799805] The room was clean and comfortable.
+
+----- Weakening -----
+
+[-0.9977078437805176] The room was so filthy, we decided to leave, and find another hotel.
+[-0.997138500213623] The shower was disgusting and there were marks all over the walls and carpet.
+[-0.9966821670532227] Exhausted, we walked into our room, and experienced the most overwhelming foul smells, I canâ€™t even describe!
+[-0.9958515167236328] The dust built up in the bathroom and on the carpet was substantial, seriously dust bunnies.
+[-0.9956741333007812] There was brown stuff on the walls of the bathroom, and the room was very shabby.
+
+**********
+
+[0.9727168083190918] The rooms were comfortable.
+Parent: The reviewers said that the rooms were clean and comfortable, although some said that they were dated and in need of a remodel.
+
+----- Supporting -----
+
+[0.9727168083190918] The room was clean and comfortable.
+[0.9703259468078613] The room was nice and very comfortable.
+[0.9636263847351074] The rooms were great, we were on the 6th floor, beds were comfortable and room was quite clean.
+[0.9533596038818359] The rooms were very updated and the beds were very comfortable!
+[0.9477262496948242] Room was clean and quite and the bed was really confortable.
+
+----- Weakening -----
+
+[-0.9902849197387695] The room was so filthy, we decided to leave, and find another hotel.
+[-0.9643020629882812] The rooms are tired with many defects (both my rooms had faults including bulbs out, loose headboard and loose bathroom fittings.
+[-0.9577522277832031] Exhausted, we walked into our room, and experienced the most overwhelming foul smells, I canâ€™t even describe!
+[-0.9540596008300781] The dust built up in the bathroom and on the carpet was substantial, seriously dust bunnies.
+[-0.9500350952148438] A bathtub so filthy I wouldnâ€™t dare stand to take a shower.
+
+**********
+
+[0.9817852973937988] The rooms were dated.
+Parent: The reviewers said that the rooms were clean and comfortable, although some said that they were dated and in need of a remodel.
+
+----- Supporting -----
+
+[0.9817852973937988] Although most of the staff were nice, the rooms were dated and could use some renovation.
+[0.9700188636779785] The rooms are old, the bathroom smelled, we had a view of air conditioners and the gym was a joke.
+[0.9541854858398438] The room was dated and the bathroom was the same.
+[0.9176349639892578] The rooms are tired with many defects (both my rooms had faults including bulbs out, loose headboard and loose bathroom fittings.
+[0.9010200500488281] The price is very good and the rooms are large, the only issue with the hotel is its very dated and could do with a revamp.
+
+----- Weakening -----
+
+[-0.9897327423095703] The room was clean there were no stains anywhere, nice bed and dÃ©cor was good.
+[-0.9884204864501953] I thought the rooms were very well kept and the bedding looked new.
+[-0.9828224182128906] The rooms were very updated and the beds were very comfortable!
+[-0.9793148040771484] Room was large and clean, bathroom was nice, looks like it was newly renovated.
+[-0.9783592224121094] The entire hotel was very bright and the rooms were very clean.
+
+**********
+
+[0.9926233291625977] The rooms were in need of a remodel.
+Parent: The reviewers said that the rooms were clean and comfortable, although some said that they were dated and in need of a remodel.
+
+----- Supporting -----
+
+[0.9926233291625977] The rooms are in need of a remodel.
+[0.9767065048217773] Although most of the staff were nice, the rooms were dated and could use some renovation.
+[0.8473777770996094] The price is very good and the rooms are large, the only issue with the hotel is its very dated and could do with a revamp.
+[0.696136474609375] I did notice the elevators seemed dated and in need of an update, but given that I was on high alert, this wasn't a big deal.
+[0.5857925415039062] The bathroom needed a little work but it was good enough for my needs.
+
+----- Weakening -----
+
+[-0.9206466674804688] The entire hotel was very bright and the rooms were very clean.
+[-0.9058408737182617] Room was spacious, spotlessly clean and I had a great view of the Toronto skyline from the 19th floor.
+[-0.9005417823791504] The room was very clean and well appointed.
+[-0.8840494155883789] Room and furnishings were in good shape and overall I was very impressed given I was expecting a horror show.
+[-0.8699760437011719] The rooms were very updated and the beds were very comfortable!
+
+**********
+
+[0.9912705421447754] The beds were comfortable.
+Parent: They also said that the beds were comfortable and that the views from the rooms were good.
+
+----- Supporting -----
+
+[0.9912705421447754] Very clean and the beds were VERY comfortable.
+[0.9739565849304199] Room was clean and quite and the bed was really confortable.
+[0.9738821983337402] The rooms were very updated and the beds were very comfortable!
+[0.9694218635559082] Room was BIG, bed was comfy, had an a good size fridge in it too and it's the first hotel I've been to in a while where the internet was free and fast.
+[0.9662275314331055] The room was big, clean and quite nice, the bed was very comfortable, there was plenty of hot water... the basics were covered.
+
+----- Weakening -----
+
+[-0.9432258605957031] But we didnt realise they were as bad as they were, on the 3rd time of using them we got stuck!!
+[-0.9382171630859375] Please see bedbugs: [--]
+[-0.9320869445800781] A bathtub so filthy I wouldnâ€™t dare stand to take a shower.
+[-0.9246749877929688] When at the restaurant, they gave me catchup that was so rancid it bubbled.
+[-0.9036941528320312] The parking garage was a tight squeeze if you were driving anything bigger than a four door car.
+
+**********
+
+[0.942988395690918] The views from the rooms were good.
+Parent: They also said that the beds were comfortable and that the views from the rooms were good.
+
+----- Supporting -----
+
+[0.942988395690918] The rooms were spacious with queen sized beds, nice bathrooms, the view was decent out of our 5th floor rooms, and we had no real issues at all as far as the hotel went.
+[0.9340457916259766] The room was good and had a nice view.
+[0.9288496971130371] The room was clean, and had a great view.
+[0.9179763793945312] The parking attendant was pleasant, the check in went smoothly,the room and the view was terrific.
+[0.9027290344238281] The staff were friendly, helpful and the view of the Toronto skyline I had from my room was great.
+
+----- Weakening -----
+
+[-0.598297119140625] The problem is you do not see where your box is being placed and how it is secured.
+[-0.5910491943359375] Gloomy room.
+[-0.58197021484375] Our car was broken into.
+[-0.364898681640625] cable tv is a nuisance, there's no international news channel to be had (unless you think CNN America is).
+[-0.35443115234375] In my entire life, I have never been treated in such a rude, disrespecting manner.
+
+**********
+
+[0.9929509162902832] The elevators were slow.
+Parent: Some reviewers noted that the elevators were slow.
+
+----- Supporting -----
+
+[0.9929509162902832] The elevators are super slow.
+[0.9889788627624512] The elevators are extremely slow, sometimes taking 5 minutes just to get an elevator if you are on an upper floor.
+[0.9866104125976562] The elevators are VERY SLOW and we routinely spent several minutes waiting for them.
+[0.9834451675415039] My only real complaint is that the elevators were very slow and the computers in the business centre were slow as well.
+[0.9801273345947266] The elevators are a little slow as some other reviews indicated.
+
+----- Weakening -----
+
+[-0.8657293319702148] Everything went very smoothly.
+[-0.8528652191162109] Connection was fast and I had no issues.
+[-0.8208427429199219] This hotel was not bad at all, check-in was very quick.
+[-0.7621726989746094] Check-in was fast and friendly.
+[-0.75238037109375] (Coming off the street, the turns were tight and narrow.)
+
+**********
+
+[0.9752359390258789] The rooms are spacious.
+Parent: The rooms are spacious, clean, and have comfortable beds.
+
+----- Supporting -----
+
+[0.9752359390258789] The rooms were spacious with queen sized beds, nice bathrooms, the view was decent out of our 5th floor rooms, and we had no real issues at all as far as the hotel went.
+[0.9513092041015625] The rooms were large and clean which was all we really needed.
+[0.945033073425293] However on arriving found the hotel room to be very spacious, clean and very comfortable.
+[0.9404964447021484] The price is very good and the rooms are large, the only issue with the hotel is its very dated and could do with a revamp.
+[0.8937664031982422] The room was spacious and clean with an extremely comfortable bed.
+
+----- Weakening -----
+
+[-0.9940910339355469] The ramps are very steep, the spots are narrow and the driving room is almost non-existent.
+[-0.9868583679199219] It was small and not very clean.
+[-0.9798450469970703] The elevators are very small, it is cramped with 4 people with luggage.
+[-0.9769039154052734] A few very minor complaints - the bathroom was very small and a bit cold, since the only heat was from a small baseboard heater.
+[-0.9748611450195312] The elevators are very small, so getting a cart and two bodies into the tight space was a difficult.
+
+**********
+
+[0.9858236312866211] The rooms are clean.
+Parent: The rooms are spacious, clean, and have comfortable beds.
+
+----- Supporting -----
+
+[0.9858236312866211] The room are clean.
+[0.9704990386962891] The rooms are reasonably clean, the beds fairly comfortable, and the staff mostly helpful.
+[0.9682717323303223] The staff was very polite, rooms were clean, and the hotel has a great location.
+[0.9670085906982422] Overall, a great place to stay because the rooms were clean, staff was friendly and helpful, many attractions and great restaurants are walking distance from the hotel.
+[0.9634499549865723] The entire hotel was very bright and the rooms were very clean.
+
+----- Weakening -----
+
+[-0.9977684020996094] The room was so filthy, we decided to leave, and find another hotel.
+[-0.9960775375366211] The shower was disgusting and there were marks all over the walls and carpet.
+[-0.9960470199584961] There was brown stuff on the walls of the bathroom, and the room was very shabby.
+[-0.9956874847412109] Exhausted, we walked into our room, and experienced the most overwhelming foul smells, I canâ€™t even describe!
+[-0.9942636489868164] A bathtub so filthy I wouldnâ€™t dare stand to take a shower.
+
+**********
+
+[0.9878208637237549] The beds in the rooms were comfortable.
+Parent: The rooms are spacious, clean, and have comfortable beds.
+
+----- Supporting -----
+
+[0.9878208637237549] The rooms were very updated and the beds were very comfortable!
+[0.982957124710083] The rooms were great, we were on the 6th floor, beds were comfortable and room was quite clean.
+[0.9776229858398438] The rooms are reasonably clean, the beds fairly comfortable, and the staff mostly helpful.
+[0.9724102020263672] Room was clean and quite and the bed was really confortable.
+[0.9717659950256348] Room was BIG, bed was comfy, had an a good size fridge in it too and it's the first hotel I've been to in a while where the internet was free and fast.
+
+----- Weakening -----
+
+[-0.9031982421875] This restaurant has a loyal group of customers.
+[-0.8823623657226562] Please see bedbugs: [--]
+[-0.8792953491210938] Nothing in the room felt clean and I agree with one reviewer that the bed "crunched".
+[-0.8715763092041016] The room was so filthy, we decided to leave, and find another hotel.
+[-0.8056907653808594] When at the restaurant, they gave me catchup that was so rancid it bubbled.
+
+**********
+
+[0.9167194366455078] The views from the rooms are good.
+Parent: The views from the rooms are good, and the kitchenettes are a good feature.
+
+----- Supporting -----
+
+[0.9167194366455078] The room was good and had a nice view.
+[0.9065780639648438] The rooms were spacious with queen sized beds, nice bathrooms, the view was decent out of our 5th floor rooms, and we had no real issues at all as far as the hotel went.
+[0.8839111328125] The parking attendant was pleasant, the check in went smoothly,the room and the view was terrific.
+[0.8712024688720703] The room was clean, and had a great view.
+[0.8336181640625] The staff were friendly, helpful and the view of the Toronto skyline I had from my room was great.
+
+----- Weakening -----
+
+[-0.5383987426757812] The problem is you do not see where your box is being placed and how it is secured.
+[-0.4986114501953125] Our car was broken into.
+[-0.4165496826171875] The parking garage was a tight squeeze if you were driving anything bigger than a four door car.
+[-0.360382080078125] Gloomy room.
+[-0.347625732421875] I would not recommend this hotel to anyone!
+
+**********
+
+[0.12232208251953125] The kitchenettes are a good feature.
+Parent: The views from the rooms are good, and the kitchenettes are a good feature.
+
+----- Supporting -----
+
+[0.12232208251953125] The staff at checkin was quick to notice our children were a little fussy and provided crayons and coloring books that calmed them right down, The room was huge complete with microwave and small fridge so we could warm up left over which is always important travelling with kids.
+[0.1093597412109375] Tv,mircowave, fridge,cooker,coffee maker, climate control,couch desk ,hairdryer and toiletries and wi fi access.
+[0.09771728515625] The food they serve is good as well.
+[0.09135055541992188] We had one of their kitchenette rooms that had a microwave, small fridge, coffee maker and counter/sink area; complete with utensils, although I brought my own disposable ones.
+[0.07037353515625] Room was BIG, bed was comfy, had an a good size fridge in it too and it's the first hotel I've been to in a while where the internet was free and fast.
+
+----- Weakening -----
+
+[-0.9327926635742188] The beds/pillows are by far the best feature.
+[-0.8591957092285156] But we didnt realise they were as bad as they were, on the 3rd time of using them we got stuck!!
+[-0.8285064697265625] The elevators were very scary and one was constantly being repaired.
+[-0.7636871337890625] The laundry facilitys are in poor quality.
+[-0.7486381530761719] The shower was disgusting and there were marks all over the walls and carpet.
+
+**********
+
+[0.5827827453613281] The hotel's elevators are being updated.
+Parent: However, the elevators are being updated and are not reliable.
+
+----- Supporting -----
+
+[0.5827827453613281] The biggest disappointments were: -Elevators (being "updated", bumpy ride, not reliable-ended up on a floor we didn't know we could access!)
+[0.29248046875] The elevators were very scary and one was constantly being repaired.
+[0.1541595458984375] One of the lifts was renovated and looked great, although it was still as slow as the others.
+[0.0789337158203125] There was a bit of a wait for the elevators but a group had just checked in, so had to wait a few extra minutes while the 50 plus ppl all went up.
+[0.05645751953125] I did notice the elevators seemed dated and in need of an update, but given that I was on high alert, this wasn't a big deal.
+
+----- Weakening -----
+
+[-0.8255119323730469] Our car was broken into.
+[-0.7255592346191406] The bathrooms are dated.
+[-0.6341056823730469] THEY GAVE US WRONG DIRECTIONS.
+[-0.6048393249511719] What is wrong with people?
+[-0.59820556640625] This is especially important now that they are installing kitchenettes in some of the rooms.
+
+**********
+
+[0.9057025909423828] The hotel's elevators are not reliable.
+Parent: However, the elevators are being updated and are not reliable.
+
+----- Supporting -----
+
+[0.9057025909423828] Don't stay at this hotel unless you like slow (and possibly unsafe) elevators, flaky wireless Internet, and poor customer service.
+[0.7824497222900391] We were tipped off that the lifts in this hotel are terrible before our arrival as we were on a tour.
+[0.71649169921875] While I'd agree that the parking garage was hard to manoevre and the elevators were slow, that's as far as the negative experiences I had at this hotel went.
+[0.3484230041503906] The biggest disappointments were: -Elevators (being "updated", bumpy ride, not reliable-ended up on a floor we didn't know we could access!)
+[0.32790279388427734] The elevators are VERY SLOW and we routinely spent several minutes waiting for them.
+
+----- Weakening -----
+
+[-0.5848846435546875] Everything went very smoothly.
+[-0.5524139404296875] The TV had something wrong with it and made a loud buzzing noise the whole time it was on, but since I wasn't there to watch TV that wasn't a big deal.
+[-0.4864044189453125] When I checked in I didn't see anything that put me off that much?
+[-0.46392822265625] #1) Business Centre: no paper in printer, no pens, no envelopes, wi-fi slow and potentially virused #2) Several of the desk staff were cold and flat in their behaviour.
+[-0.4638404846191406] No problems with check out and overall found it to be a nice place.
+
+**********
+
+[0.9872250556945801] The rooms were clean.
+Parent: The rooms were clean and comfortable, with some guests noting that the rooms were newly renovated.
+
+----- Supporting -----
+
+[0.9872250556945801] The room are clean.
+[0.9783720970153809] The entire hotel was very bright and the rooms were very clean.
+[0.9772825241088867] The staff was very polite, rooms were clean, and the hotel has a great location.
+[0.9758729934692383] The room was clean there were no stains anywhere, nice bed and dÃ©cor was good.
+[0.9752302169799805] The room was clean and comfortable.
+
+----- Weakening -----
+
+[-0.9977078437805176] The room was so filthy, we decided to leave, and find another hotel.
+[-0.997138500213623] The shower was disgusting and there were marks all over the walls and carpet.
+[-0.9966821670532227] Exhausted, we walked into our room, and experienced the most overwhelming foul smells, I canâ€™t even describe!
+[-0.9958515167236328] The dust built up in the bathroom and on the carpet was substantial, seriously dust bunnies.
+[-0.9956741333007812] There was brown stuff on the walls of the bathroom, and the room was very shabby.
+
+**********
+
+[0.9727168083190918] The rooms were comfortable.
+Parent: The rooms were clean and comfortable, with some guests noting that the rooms were newly renovated.
+
+----- Supporting -----
+
+[0.9727168083190918] The room was clean and comfortable.
+[0.9703259468078613] The room was nice and very comfortable.
+[0.9636263847351074] The rooms were great, we were on the 6th floor, beds were comfortable and room was quite clean.
+[0.9533596038818359] The rooms were very updated and the beds were very comfortable!
+[0.9477262496948242] Room was clean and quite and the bed was really confortable.
+
+----- Weakening -----
+
+[-0.9902849197387695] The room was so filthy, we decided to leave, and find another hotel.
+[-0.9643020629882812] The rooms are tired with many defects (both my rooms had faults including bulbs out, loose headboard and loose bathroom fittings.
+[-0.9577522277832031] Exhausted, we walked into our room, and experienced the most overwhelming foul smells, I canâ€™t even describe!
+[-0.9540596008300781] The dust built up in the bathroom and on the carpet was substantial, seriously dust bunnies.
+[-0.9500350952148438] A bathtub so filthy I wouldnâ€™t dare stand to take a shower.
+
+**********
+
+[0.7976341247558594] The rooms were newly renovated.
+Parent: The rooms were clean and comfortable, with some guests noting that the rooms were newly renovated.
+
+----- Supporting -----
+
+[0.7976341247558594] Over all our hotel was clean and we had a newly renovated room.
+[0.604156494140625] They have done some renovations to the lobby area which is now a nice granite counter and some darker woods which look very warm and inviting.
+[0.218994140625] The rooms were very updated and the beds were very comfortable!
+[0.101806640625] We complained and was moved to a room a few floors below,that had already been refurbed.
+[0.08232498168945312] It was quickley rectified and someone brought me a new iron within minuets.
+
+----- Weakening -----
+
+[-0.9969296455383301] Although most of the staff were nice, the rooms were dated and could use some renovation.
+[-0.9954991340637207] The rooms are in need of a remodel.
+[-0.9854485988616943] The general feeling of this hotel was tired and run down.
+[-0.9822931289672852] Afterwards the Manager acknowledged that the lifts are in need of urgent replacement but due to the cost this has yet to be authorised.
+[-0.9818840026855469] The room was dated and the bathroom was the same.
+
+**********
+
+[0.9279327392578125] The rooms were dark.
+Parent: Some guests found the rooms to be dark, but overall guests were pleased with their stay.
+
+----- Supporting -----
+
+[0.9279327392578125] I found however that the room was a little dark at night though as there were several lamps but only an overhead light by the door.
+[0.8033447265625] The hallways were also very dim and can be scary at night.
+[0.7768440246582031] Gloomy room.
+[0.09320068359375] The furnishings, lighting, and carpets were nothing fancy.
+[0.0457611083984375] Not enough lighting.
+
+----- Weakening -----
+
+[-0.9945545196533203] The entire hotel was very bright and the rooms were very clean.
+[-0.9912090301513672] We occupied the Starlight room on the 23rd floor and found the room to be ideal for our training sessions.
+[-0.9878249168395996] Room was spacious, spotlessly clean and I had a great view of the Toronto skyline from the 19th floor.
+[-0.9808063507080078] Because of the windows we were able to have natural light which helped keep people alert and didnâ€™t feel like we were stuck in a closed off room all day.
+[-0.9783496856689453] My room connects with another room and you can hear the neighbour's television blasting and their conversations.
+
+**********
+
+[0.9325618743896484] Overall guests were pleased with their stay.
+Parent: Some guests found the rooms to be dark, but overall guests were pleased with their stay.
+
+----- Supporting -----
+
+[0.9325618743896484] I guess in general we were pleased with the stay.
+[0.9285669326782227] The group in general was pleased with the rooms.
+[0.8891315460205078] All in all, it was a pleasant stay and offered amazing winter prices.
+[0.8380241394042969] All in all, I had a good stay and would recommend this hotel to others looking for good service, clean rooms and reasonable room rates.
+[0.8226814270019531] Overall we were very pleased with the quality of the hotel and the service.
+
+----- Weakening -----
+
+[-0.8783378601074219] We are heartbroken and will never recommend this hotel to anyone.
+[-0.8555679321289062] My husband and I stayed at this hotel for several nights in June, and were very disappointed.
+[-0.7929744720458984] No smiles in any of the faces.
+[-0.7089157104492188] I would not stay there again.
+[-0.7089157104492188] I would not stay there again.

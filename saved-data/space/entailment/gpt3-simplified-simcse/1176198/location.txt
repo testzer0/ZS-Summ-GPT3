@@ -1,0 +1,522 @@
+***** Aspect: location Model Type : simcse *****
+Overall score: 0.7619283887056204
+
+**********
+
+[0.8322725296020508] The hotel is conveniently located near many restaurants .
+
+----- Supporting -----
+
+[0.8322725296020508] The hotel has a very good location.
+[0.8283274173736572] This hotel is a in a great location.
+[0.8160998821258545] The location of the hotel is excellent for these attractions.
+[0.8023900985717773] The hotel location is ideal for a visitor to the city, within easy walking distance of the entertainment district, the business district, and great shopping and dining.
+[0.7850282192230225] The hotel was conveniently located close to most sights in the city.
+
+----- Weakening -----
+
+[-0.05052552744746208] I was sick the last day and my husband and son ditched me to tour around.
+[-0.03868778422474861] When we asked where the nearest self park ramp was, no one had a clue!
+[-0.02698727324604988] There was an event on at the nightclub one night and I never heard anything.
+[-0.015181789174675941] The rental agency was farther than they said, and my back got worse.
+[0.03917167708277702] I was able to jerk the system a bit by parking elsewhere and walking a couple blocks.
+
+**********
+
+[0.7984143495559692] The hotel is conveniently located near shops .
+
+----- Supporting -----
+
+[0.7984143495559692] The location of the hotel is excellent for these attractions.
+[0.7967100143432617] The hotel location is ideal for a visitor to the city, within easy walking distance of the entertainment district, the business district, and great shopping and dining.
+[0.7927011847496033] The hotel has a very good location.
+[0.788248598575592] This hotel is a in a great location.
+[0.7724793553352356] This hotel is within walking distance to most major attractions.
+
+----- Weakening -----
+
+[-0.09192096441984177] I was sick the last day and my husband and son ditched me to tour around.
+[-0.05558423697948456] There was an event on at the nightclub one night and I never heard anything.
+[-0.0487319715321064] When we asked where the nearest self park ramp was, no one had a clue!
+[-0.029225733131170273] The rental agency was farther than they said, and my back got worse.
+[-0.0029054516926407814] The first night was during the huge Caribe fest and it was crazy outside!
+
+**********
+
+[0.9145922660827637] The hotel is conveniently located near attractions .
+
+----- Supporting -----
+
+[0.9145922660827637] The location of the hotel is excellent for these attractions.
+[0.8572284579277039] This hotel is within walking distance to most major attractions.
+[0.8485472798347473] This hotel is a in a great location.
+[0.8462278842926025] The hotel has a very good location.
+[0.8188619613647461] The Hotel location is excellent, near the CN Tower and many other attractions.
+
+----- Weakening -----
+
+[-0.0560910701751709] I was sick the last day and my husband and son ditched me to tour around.
+[-0.04282422363758087] There was an event on at the nightclub one night and I never heard anything.
+[-0.017428793013095856] The rental agency was farther than they said, and my back got worse.
+[-0.01155717484652996] When we asked where the nearest self park ramp was, no one had a clue!
+[0.035342149436473846] Didn't try the restaurant.
+
+**********
+
+[0.6256961822509766] The location was praised by most reviewers for its convenience .
+
+----- Supporting -----
+
+[0.6256961822509766] Great rates, Great location, friendly staff.
+[0.5958728790283203] Excellent location!
+[0.5941065549850464] Location was fantastic.
+[0.5896928906440735] The hotel was conveniently located close to most sights in the city.
+[0.5872383713722229] Great Location , great price.
+
+----- Weakening -----
+
+[-0.0632459968328476] There was an event on at the nightclub one night and I never heard anything.
+[-0.04255961626768112] They don't keep change in the restaurant!!!
+[-0.02745124325156212] I was sick the last day and my husband and son ditched me to tour around.
+[0.01680901274085045] If you use the restaurant (we did for breakfast) don't pay with cash!!!
+[0.07879002392292023] my wife and i were on vacay.
+
+**********
+
+[0.6111634969711304] That the area around the hotel is not the nicest .
+
+----- Supporting -----
+
+[0.6111634969711304] The Only drawback of this hotel is that usage of Business Center is a bit expensive and so is the Restauant in the hotel for the qulaity of food.
+[0.5969713926315308] This hotel is a in a great location.
+[0.5807636380195618] The hotel has a very good location.
+[0.5775124430656433] The hotel is close enough to the big attractions to be convenient but still is not in an overly busy/loud part of town which was nice.
+[0.570515513420105] Fantastic location (OK they are renewing the old fashion district in the downtown core) but this hotel is quite wonderful !
+
+----- Weakening -----
+
+[0.031022433191537857] my wife and i were on vacay.
+[0.032247304916381836] We parked our car and never looked back because everything was within walking distance.
+[0.049050308763980865] on a mini-vacation for some cycling, shopping, and the New York Yankees visiting the Blue Jays.
+[0.05221698060631752] The 15-minute walk to Union Station is very easy and convenient.
+[0.05315905809402466] I was sick the last day and my husband and son ditched me to tour around.
+
+**********
+
+[0.7745750546455383] That parking can be expensive .
+
+----- Supporting -----
+
+[0.7745750546455383] Searching around for alternate parking in the area is a crapshoot, as much parking in the area [only a few blocks from the Rogers Centre/Skydome and inside the Entertainment District] is outdoors and prices are jacked up for events and weekends.
+[0.7668193578720093] Also, if you are planning on parking your car there is only valet parking available which at $35 per day is quite pricey.
+[0.7633799910545349] If you have a car, consider the cost of parking.
+[0.7591923475265503] Valet parking was expensive, but this is expected in a city like Toronto with limited downtown space.
+[0.7525278329849243] Very easy to get to - but parking is an issue and the rate of $35.00 / day is very steep.
+
+----- Weakening -----
+
+[-0.037011388689279556] Breakfast was served in the associated restaurant (but inside the hotel) and was very good (although the yellow cheese slices we had on the first day have disappeared for the next 3 days).
+[-0.032531365752220154] The accessible room was just that - very accessible.
+[-0.032104961574077606] Didn't try the restaurant.
+[-0.031166912987828255] There was an event on at the nightclub one night and I never heard anything.
+[-0.023283306509256363] The second floor restaurant area was lovely and the service at breakfast could not have been better.
+
+**********
+
+[0.8263053297996521] The Hilton hotel is centrally located and within walking distance of many attractions .
+
+----- Supporting -----
+
+[0.8263053297996521] This hotel is within walking distance to most major attractions.
+[0.7764109373092651] The hotel location is ideal for a visitor to the city, within easy walking distance of the entertainment district, the business district, and great shopping and dining.
+[0.7690253853797913] The Hotel location is excellent, near the CN Tower and many other attractions.
+[0.7633402347564697] If you are looking for a hotel that is within walking distance of many things to do....this is the place.
+[0.7529096603393555] The location of the hotel is excellent for these attractions.
+
+----- Weakening -----
+
+[-0.04752699285745621] There was an event on at the nightclub one night and I never heard anything.
+[-0.044816628098487854] They don't keep change in the restaurant!!!
+[-0.009152071550488472] When we asked where the nearest self park ramp was, no one had a clue!
+[0.010554314590990543] I was sick the last day and my husband and son ditched me to tour around.
+[0.011492934077978134] Didn't try the restaurant.
+
+**********
+
+[0.9346941709518433] It is next to a noisy nightclub .
+
+----- Supporting -----
+
+[0.9346941709518433] However, it's right next to a really noisy nightclub.
+[0.8079155683517456] With regards to the nightclub next door.
+[0.7293240427970886] The hotel is right beside a nightclub.
+[0.7276177406311035] as most reviewers said, the nightclub is loud.
+[0.6752926111221313] BUT ..... there is a new night club beside the hotel called "Tryst" .... needless to say it is techno music and it is all you can hear until about 3:00 in the morning ... especially in the summer when they have their patio open and are projecting video's on the side of the building.
+
+----- Weakening -----
+
+[-0.15017367899417877] I was sick the last day and my husband and son ditched me to tour around.
+[-0.057855330407619476] my wife and i were on vacay.
+[-0.025924405083060265] Took about 5 minutes to walk.
+[-0.023916251957416534] There was a slight mix up with our booking but no fuss was made although I did find the reception staff a little disinterested but nothing to spoil my stay.
+[-0.009793094359338284] Well done Hilton!
+
+**********
+
+[0.7980337142944336] Valet parking is available for $ 35 per day .
+
+----- Supporting -----
+
+[0.7980337142944336] Some caveats: The valet parking [only option] is $35 CAD.
+[0.7538081407546997] Very easy to get to - but parking is an issue and the rate of $35.00 / day is very steep.
+[0.7506455183029175] Also, if you are planning on parking your car there is only valet parking available which at $35 per day is quite pricey.
+[0.6855676174163818] Paid $35.00 to park overnight across the street.
+[0.6305097341537476] The man there told us that at the hotel we can park the car for $35 and had to take it out before 1 pm whereas we can park it for $40 in his parking until 3 pm.
+
+----- Weakening -----
+
+[-0.03117731213569641] The restaurant food was excellent-we had chicken stir fry and shrimp pasta.
+[-0.02209480293095112] Didn't try the restaurant.
+[0.005069265607744455] There was an event on at the nightclub one night and I never heard anything.
+[0.012791883200407028] I was sick the last day and my husband and son ditched me to tour around.
+[0.03118649497628212] Also, think I may have been lucky with a view from the room of the CN Tower!
+
+**********
+
+[0.8255714178085327] The location is convenient and central to major attractions .
+
+----- Supporting -----
+
+[0.8255714178085327] Talk about the location & amenities - Location is very central with all major attractions close by - walked everywhere.
+[0.7426803112030029] This place is quite reasonably priced and close to some of this great city's main attractions.
+[0.7281913161277771] The hotel location is ideal for a visitor to the city, within easy walking distance of the entertainment district, the business district, and great shopping and dining.
+[0.7145209908485413] Good location, walking distance to all major attractions in Toronto.
+[0.7133037447929382] This hotel is within walking distance to most major attractions.
+
+----- Weakening -----
+
+[-0.16457319259643555] They don't keep change in the restaurant!!!
+[-0.11277028918266296] There was an event on at the nightclub one night and I never heard anything.
+[-0.0997592881321907] I was sick the last day and my husband and son ditched me to tour around.
+[-0.09752900153398514] If you use the restaurant (we did for breakfast) don't pay with cash!!!
+[-0.09147797524929047] Didn't try the restaurant.
+
+**********
+
+[0.716344952583313] There is some street noise from nearby night clubs .
+
+----- Supporting -----
+
+[0.716344952583313] However, it's right next to a really noisy nightclub.
+[0.6653757095336914] Being in the heart of the entertainment district may be a plus for some but for me it means that you can't leave your window open at night for fresh air because of all the noise from the late night revellers.
+[0.6571619510650635] as most reviewers said, the nightclub is loud.
+[0.6098107695579529] BUT ..... there is a new night club beside the hotel called "Tryst" .... needless to say it is techno music and it is all you can hear until about 3:00 in the morning ... especially in the summer when they have their patio open and are projecting video's on the side of the building.
+[0.5823945999145508] With regards to the nightclub next door.
+
+----- Weakening -----
+
+[-0.09670966863632202] Will stay at the real Hilton the next time!
+[-0.07984072715044022] Well done Hilton!
+[-0.07855553925037384] I was sick the last day and my husband and son ditched me to tour around.
+[-0.07368548214435577] my wife and i were on vacay.
+[-0.05442645773291588] I'll stay in a Hilton Garden Inn again soon!
+
+**********
+
+[0.5800820589065552] Overall the hotel is quiet .
+
+----- Supporting -----
+
+[0.5800820589065552] The hotel is close enough to the big attractions to be convenient but still is not in an overly busy/loud part of town which was nice.
+[0.5681227445602417] The hotel has Valet parking only which is fine since you can walk to everything.
+[0.5498125553131104] The hotel has a very good location.
+[0.542878270149231] Great place to stay if you are going out to party you can walk back to the hotel.
+[0.534236490726471] This hotel is a in a great location.
+
+----- Weakening -----
+
+[-0.11139120161533356] When we asked where the nearest self park ramp was, no one had a clue!
+[-0.09388632327318192] Was close to watch the Jays, only a couple of blocks away.
+[-0.07519234716892242] The rental agency was farther than they said, and my back got worse.
+[-0.07128448784351349] 4 blocks to the Rogers Centre, 3 blocks from Queen St West.
+[-0.06674420833587646] Paid $35.00 to park overnight across the street.
+
+**********
+
+[0.8016136884689331] Parking rates are high .
+
+----- Supporting -----
+
+[0.8016136884689331] Parking rates are high as you will find in all major cities around the world.
+[0.7641563415527344] Searching around for alternate parking in the area is a crapshoot, as much parking in the area [only a few blocks from the Rogers Centre/Skydome and inside the Entertainment District] is outdoors and prices are jacked up for events and weekends.
+[0.747458815574646] Valet parking was expensive, but this is expected in a city like Toronto with limited downtown space.
+[0.7228622436523438] Very easy to get to - but parking is an issue and the rate of $35.00 / day is very steep.
+[0.7049108743667603] Also, if you are planning on parking your car there is only valet parking available which at $35 per day is quite pricey.
+
+----- Weakening -----
+
+[-0.0754527896642685] I was sick the last day and my husband and son ditched me to tour around.
+[-0.07266877591609955] The accessible room was just that - very accessible.
+[-0.05229727178812027] my wife and i were on vacay.
+[-0.02104700356721878] There was an event on at the nightclub one night and I never heard anything.
+[-0.01737002283334732] It was a quick walk to the shops and restaurants on Queen Street....try Fressen if you are vegetarian/vegan....its delish!
+
+**********
+
+[0.7533376812934875] This is expected in a city center .
+
+----- Supporting -----
+
+[0.7533376812934875] Located close to Downtown this place is on the city center.
+[0.5801249742507935] It's right in the middle of the entertainment district which means you are near everything.
+[0.5774861574172974] Talk about the location & amenities - Location is very central with all major attractions close by - walked everywhere.
+[0.562455415725708] You can pretty much walk everywhere in downtown.
+[0.5450470447540283] Perfect location for getting about town and a short walk to the CN tower and Rogers Centre.
+
+----- Weakening -----
+
+[-0.12356628477573395] They don't keep change in the restaurant!!!
+[-0.11575108766555786] I was sick the last day and my husband and son ditched me to tour around.
+[-0.10786315053701401] There was an event on at the nightclub one night and I never heard anything.
+[-0.09670375287532806] my wife and i were on vacay.
+[-0.06533357501029968] My business associates and I are Diamond, Silver and Gold Hilton honors members and stay at Hiltons all around the world.
+
+**********
+
+[0.747575044631958] The location is close to many attractions .
+
+----- Supporting -----
+
+[0.747575044631958] Walking distance to main attractions.
+[0.7357760667800903] Talk about the location & amenities - Location is very central with all major attractions close by - walked everywhere.
+[0.72065669298172] This place is quite reasonably priced and close to some of this great city's main attractions.
+[0.709170937538147] Walking distance to so many things to do and see.
+[0.7063826322555542] This hotel is within walking distance to most major attractions.
+
+----- Weakening -----
+
+[-0.14744950830936432] They don't keep change in the restaurant!!!
+[-0.10411473363637924] There was an event on at the nightclub one night and I never heard anything.
+[-0.09832688421010971] If you use the restaurant (we did for breakfast) don't pay with cash!!!
+[-0.08394335210323334] I was sick the last day and my husband and son ditched me to tour around.
+[-0.07360441237688065] Didn't try the restaurant.
+
+**********
+
+[0.8339428901672363] The location is close to restaurants .
+
+----- Supporting -----
+
+[0.8339428901672363] Surrounded by lots of restaurants and two less than two blocks from great shopping.
+[0.7659825086593628] Location is good, close to nightlife, shopping, restaurants and Chinatown.
+[0.7051455974578857] This place is quite reasonably priced and close to some of this great city's main attractions.
+[0.6917804479598999] Lot's of bars and restaurants nearby and plenty of local mini-markets for day to day necessities.
+[0.6792125701904297] Other Comments: the location is not too far from some great downtown clubs.
+
+----- Weakening -----
+
+[-0.11163613200187683] I was sick the last day and my husband and son ditched me to tour around.
+[-0.008742976933717728] There was an event on at the nightclub one night and I never heard anything.
+[0.0010857582092285156] There was a slight mix up with our booking but no fuss was made although I did find the reception staff a little disinterested but nothing to spoil my stay.
+[0.03833404928445816] Three of us stayed for two nights on a hectic trip, arriving on an overnight flight from the States.
+[0.046900078654289246] When we asked where the nearest self park ramp was, no one had a clue!
+
+**********
+
+[0.7356234788894653] The location is close to bars .
+
+----- Supporting -----
+
+[0.7356234788894653] Other Comments: the location is not too far from some great downtown clubs.
+[0.6639794111251831] Lot's of bars and restaurants nearby and plenty of local mini-markets for day to day necessities.
+[0.6626289486885071] However, it's right next to a really noisy nightclub.
+[0.6433621644973755] Location is good, close to nightlife, shopping, restaurants and Chinatown.
+[0.6165326833724976] Surrounded by lots of restaurants and two less than two blocks from great shopping.
+
+----- Weakening -----
+
+[-0.18419235944747925] I was sick the last day and my husband and son ditched me to tour around.
+[-0.06774917244911194] my wife and i were on vacay.
+[-0.03635493293404579] There was a slight mix up with our booking but no fuss was made although I did find the reception staff a little disinterested but nothing to spoil my stay.
+[-0.02917155623435974] Well done Hilton!
+[-0.006502396427094936] If you use the restaurant (we did for breakfast) don't pay with cash!!!
+
+**********
+
+[0.7369334697723389] It is also convenient for visitors to the city .
+
+----- Supporting -----
+
+[0.7369334697723389] This place is quite reasonably priced and close to some of this great city's main attractions.
+[0.7087171077728271] The hotel location is ideal for a visitor to the city, within easy walking distance of the entertainment district, the business district, and great shopping and dining.
+[0.6949898600578308] Great location and a short walk to much of Toronto's sights.
+[0.6707274913787842] Close to lots of restaurants, a Whole Foods and two streetcar lines making it easy to get around.
+[0.6701235175132751] Talk about the location & amenities - Location is very central with all major attractions close by - walked everywhere.
+
+----- Weakening -----
+
+[-0.12020339071750641] They don't keep change in the restaurant!!!
+[-0.1029943972826004] There was an event on at the nightclub one night and I never heard anything.
+[-0.0941382497549057] Didn't try the restaurant.
+[-0.06641820073127747] If you use the restaurant (we did for breakfast) don't pay with cash!!!
+[-0.024299411103129387] I was sick the last day and my husband and son ditched me to tour around.
+
+**********
+
+[0.7429059743881226] The noise from the nearby nightclub can be a problem for some guests .
+
+----- Supporting -----
+
+[0.7429059743881226] However, it's right next to a really noisy nightclub.
+[0.7293791770935059] as most reviewers said, the nightclub is loud.
+[0.7208964824676514] Being in the heart of the entertainment district may be a plus for some but for me it means that you can't leave your window open at night for fresh air because of all the noise from the late night revellers.
+[0.6520189046859741] The only 2 things I didn't appreciate were out of the control of the hotel: first there is a club right next to the hotel and we could hear the loud music coming from the club late at night (being on the 3rd and 15th floor).
+[0.651416540145874] With regards to the nightclub next door.
+
+----- Weakening -----
+
+[-0.04795578122138977] We parked our car and never looked back because everything was within walking distance.
+[-0.0309829693287611] The 15-minute walk to Union Station is very easy and convenient.
+[-0.03021172247827053] Well done Hilton!
+[-0.029032133519649506] Took about 5 minutes to walk.
+[-0.013858572579920292] Not near a subway, but no need, we walked everywhere.
+
+**********
+
+[0.6244975328445435] The location was praised by most reviewers .
+
+----- Supporting -----
+
+[0.6244975328445435] Location was fantastic.
+[0.5518726110458374] GOOD: Location is awesome!!!
+[0.5337629318237305] Restaurant was really good too with great service!
+[0.533575713634491] Loved the area around this hotel, we had stayed around the Dundas area the previous week and this was much better.
+[0.51994788646698] We liked so many thinga about this Hilton, but probably the best is LOCATION.
+
+----- Weakening -----
+
+[-0.02690679393708706] They don't keep change in the restaurant!!!
+[-0.009348856285214424] I was sick the last day and my husband and son ditched me to tour around.
+[-0.003842085599899292] There was an event on at the nightclub one night and I never heard anything.
+[0.0012063265312463045] Parking is valet only (would prefer the option to self park).
+[0.01931016333401203] 1/2 block to Wayne Gretzky's!
+
+**********
+
+[0.794101357460022] The location was being centrally located and close to many attractions .
+
+----- Supporting -----
+
+[0.794101357460022] Talk about the location & amenities - Location is very central with all major attractions close by - walked everywhere.
+[0.7217416763305664] The hotel was conveniently located close to most sights in the city.
+[0.6928532123565674] This place is quite reasonably priced and close to some of this great city's main attractions.
+[0.664012610912323] The hotel location is ideal for a visitor to the city, within easy walking distance of the entertainment district, the business district, and great shopping and dining.
+[0.6440467834472656] This hotel is within walking distance to most major attractions.
+
+----- Weakening -----
+
+[-0.17433148622512817] They don't keep change in the restaurant!!!
+[-0.07798375189304352] If you use the restaurant (we did for breakfast) don't pay with cash!!!
+[-0.07544735074043274] There was an event on at the nightclub one night and I never heard anything.
+[-0.027405425906181335] Didn't try the restaurant.
+[-0.02659163624048233] I was sick the last day and my husband and son ditched me to tour around.
+
+**********
+
+[0.7281736135482788] The location was being centrally located and close to restaurants .
+
+----- Supporting -----
+
+[0.7281736135482788] Location is good, close to nightlife, shopping, restaurants and Chinatown.
+[0.7229869365692139] Located close to Downtown this place is on the city center.
+[0.7166872024536133] Surrounded by lots of restaurants and two less than two blocks from great shopping.
+[0.7108391523361206] This place is quite reasonably priced and close to some of this great city's main attractions.
+[0.7080948948860168] The hotel was conveniently located close to most sights in the city.
+
+----- Weakening -----
+
+[-0.042552728205919266] I was sick the last day and my husband and son ditched me to tour around.
+[-0.029752762988209724] There was an event on at the nightclub one night and I never heard anything.
+[0.007814975455403328] They don't keep change in the restaurant!!!
+[0.04128085449337959] my wife and i were on vacay.
+[0.04896913096308708] Parking is valet only (would prefer the option to self park).
+
+**********
+
+[0.7349241971969604] The location was being centrally located and close to bars .
+
+----- Supporting -----
+
+[0.7349241971969604] Other Comments: the location is not too far from some great downtown clubs.
+[0.6657848954200745] Located close to Downtown this place is on the city center.
+[0.6627719402313232] Location is good, close to nightlife, shopping, restaurants and Chinatown.
+[0.6520348787307739] The location was excellent, right across the street really from Theatres and Second City Comedy club.
+[0.6455997228622437] Lot's of bars and restaurants nearby and plenty of local mini-markets for day to day necessities.
+
+----- Weakening -----
+
+[-0.0990469679236412] I was sick the last day and my husband and son ditched me to tour around.
+[-0.061770595610141754] my wife and i were on vacay.
+[-0.045123521238565445] They don't keep change in the restaurant!!!
+[-0.03547990694642067] If you use the restaurant (we did for breakfast) don't pay with cash!!!
+[0.02101587876677513] Will stay at the real Hilton the next time!
+
+**********
+
+[0.7193780541419983] Some reviewers found the location noisy due to the proximity to the entertainment district .
+
+----- Supporting -----
+
+[0.7193780541419983] Being in the heart of the entertainment district may be a plus for some but for me it means that you can't leave your window open at night for fresh air because of all the noise from the late night revellers.
+[0.683853268623352] as most reviewers said, the nightclub is loud.
+[0.5894010066986084] Other Comments: the location is not too far from some great downtown clubs.
+[0.5819560289382935] However, it's right next to a really noisy nightclub.
+[0.5664212703704834] The only 2 things I didn't appreciate were out of the control of the hotel: first there is a club right next to the hotel and we could hear the loud music coming from the club late at night (being on the 3rd and 15th floor).
+
+----- Weakening -----
+
+[-0.006059236824512482] my wife and i were on vacay.
+[0.016450006514787674] My business associates and I are Diamond, Silver and Gold Hilton honors members and stay at Hiltons all around the world.
+[0.02622203156352043] With these Hilton hotels, I am always pretty certain of what to expect.
+[0.03489946201443672] I was sick the last day and my husband and son ditched me to tour around.
+[0.037291593849658966] The accessible room was just that - very accessible.
+
+**********
+
+[0.7283868193626404] Parking was noted as being convenient , although valet-only .
+
+----- Supporting -----
+
+[0.7283868193626404] Parking is valet only (would prefer the option to self park).
+[0.6436870098114014] I think the valet parking at the hotel is around the same amount and you can take your car in and out as needed.
+[0.6240148544311523] There are lots of parking lots near by that look cheaper than the hotel valet system (one right across the road).
+[0.6086182594299316] The hotel has Valet parking only which is fine since you can walk to everything.
+[0.5978381037712097] Also, if you are planning on parking your car there is only valet parking available which at $35 per day is quite pricey.
+
+----- Weakening -----
+
+[-0.0026159193366765976] I was sick the last day and my husband and son ditched me to tour around.
+[0.006143607199192047] my wife and i were on vacay.
+[0.015394987538456917] The restaurant food was excellent-we had chicken stir fry and shrimp pasta.
+[0.036020439118146896] Didn't try the restaurant.
+[0.039588604122400284] Had breakfast in the hotel restaurant this morning.
+
+**********
+
+[0.8909987807273865] That the location was great , and that it was a short walk to many of Toronto 's sights .
+
+----- Supporting -----
+
+[0.8909987807273865] Great location and a short walk to much of Toronto's sights.
+[0.8334053754806519] Good location, walking distance to all major attractions in Toronto.
+[0.7962740659713745] It is in a great location and in walking distance to all the entertainment in downtown Toronto!
+[0.7448965311050415] We could walk to the CN Tower and Skydome as well as many restaurants, and the customers we were calling on were close by, so the location in Toronto was great for us.
+[0.6883191466331482] Great location for CN Tower/Blue Jays with plenty of local bars and restaurants, and easy access to tramcars.
+
+----- Weakening -----
+
+[-0.19779515266418457] They don't keep change in the restaurant!!!
+[-0.1459076851606369] If you use the restaurant (we did for breakfast) don't pay with cash!!!
+[-0.011508490890264511] There was an event on at the nightclub one night and I never heard anything.
+[-0.004651843104511499] I would avoid the restaurant in the hotel as the service is slow and inconsistent.
+[0.01346850860863924] Didn't try the restaurant.

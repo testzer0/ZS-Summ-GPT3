@@ -1,0 +1,107 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.8531739234924316
+
+**********
+
+[0.9933037757873535] There are no fire sprinklers in the guest areas of the hotel.
+Parent: You should also be aware that there are no fire sprinklers in the guest areas of the hotel .
+
+----- Supporting -----
+
+[0.9933037757873535] You should also be aware that there are no fire sprinklers in the guest areas of the hotel.
+[0.07512664794921875] Clean accomodations, location was less than 10 minute walk to subway station.
+[0.029388427734375] The entire hotel was very bright and the rooms were very clean.
+[0.0289306640625] The hotel was very clean and centrally located.
+[0.027698516845703125] Over all our hotel was clean and we had a newly renovated room.
+
+----- Weakening -----
+
+[-0.9460821151733398] It wasn't obvious and I only noticed it because I was accessing a wall plug behind the bedside table.
+[-0.9389305114746094] But we didnt realise they were as bad as they were, on the 3rd time of using them we got stuck!!
+[-0.9154415130615234] Every other hotel in the area in this class level has one.
+[-0.8601360321044922] And if you're lucky the alarm button in the elevator will have been fixed by then.
+[-0.8412799835205078] There were several `ladies of indeterminate occupation` on duty outside the front door most of the day & night.
+
+**********
+
+[0.979705810546875] We were lost.
+Parent: We were lost in a city we HAD never been in for 10 mintues during the night .
+
+----- Supporting -----
+
+[0.979705810546875] We were lost in a city we HAD never been in for 10 mintues during the night.
+[0.773345947265625] My husband had a meeting in the city and we were planning on continuing on to Ottawa the next day for more meetings but as it ran late, we decided to stay in Toronto as we lost the last plane to Ottawa.
+[0.291748046875] But we didnt realise they were as bad as they were, on the 3rd time of using them we got stuck!!
+[0.22906494140625] We are heartbroken and will never recommend this hotel to anyone.
+[0.1326904296875] I think everyone of us was taken aback by how open things were in Canada, compared to the States.
+
+----- Weakening -----
+
+[-0.9963383674621582] We were very pleased with our choice.
+[-0.9945278167724609] Our time there was good and we didnâ€™t run into any problems which was a first for us!.
+[-0.9937839508056641] The only attraction we had to drive to was the Science Centre, but it was only about 20 minutes from downtown, and the front desk lady was nice enough to give us a map and write out the driving instructions for us so we made it without getting lost.
+[-0.9925003051757812] Connection was fast and I had no issues.
+[-0.9924101829528809] Also to our delight there was a fitness centre, swimming pool and a sauna.
+
+**********
+
+[0.9670677185058594] We were lost for 10 minutes.
+Parent: We were lost in a city we HAD never been in for 10 mintues during the night .
+
+----- Supporting -----
+
+[0.9670677185058594] We were lost in a city we HAD never been in for 10 mintues during the night.
+[0.6032257080078125] It took 10 minutes before another hotel representative came on to give us proper directions.
+[0.5845794677734375] You'll get on for a couple minutes and then it will flake out and you'll spend the next 10 minutes trying to reconnect.
+[0.3095703125] and waited about 10 min until our room was ready.
+[0.0252532958984375] We were there for a Chicago concert at Massey Hall and it was about a ten minute walk.
+
+----- Weakening -----
+
+[-0.9786262512207031] While we werenâ€™t right on the main street (Yonge Street), it was literally only 2 blocks away, and took less then 3 minutes to get there.
+[-0.9783401489257812] We spent the whole weekend shopping, clubbing and eating.
+[-0.9749794006347656] Our time there was good and we didnâ€™t run into any problems which was a first for us!.
+[-0.9746894836425781] Great wi-fi service too.
+[-0.9730815887451172] I Stayed here for 11 nights in July 2011 with my boyfriend.
+
+**********
+
+[0.9846973419189453] We were lost in the city at night.
+Parent: We were lost in a city we HAD never been in for 10 mintues during the night .
+
+----- Supporting -----
+
+[0.9846973419189453] We were lost in a city we HAD never been in for 10 mintues during the night.
+[3.0517578125e-05] The rest of the area I would not trust to walk alone at night and there is not a great deal to do other than take a taxi west where the true city begins.
+[0.0] All
+[0.0] Be warned.
+[0.0] Stan.
+
+----- Weakening -----
+
+[-0.9942142963409424] I thought the hotel was in a good location and I found it was easy to walk to restaurants at night.
+[-0.9873714447021484] Breakfast was fairly average too.
+[-0.9863481521606445] The service was great and we had a breakfast arranged in a private dining room which everyone enjoyed.
+[-0.9849953651428223] The room was wickedly huge and we had tons of space.
+[-0.9823980331420898] Check-in was fast and friendly.
+
+**********
+
+[0.341094970703125] The alarm button in the elevator is not working.
+Parent: And if you 're lucky the alarm button in the elevator will have been fixed by then .
+
+----- Supporting -----
+
+[0.341094970703125] And if you're lucky the alarm button in the elevator will have been fixed by then.
+[0.0] All
+[0.0] Be warned.
+[0.0] Stan.
+[0.0] Good luck!
+
+----- Weakening -----
+
+[-0.8666973114013672] Our car was broken into.
+[-0.8234539031982422] Heed this warning stay away from this crappy place, you'll be glad you did.
+[-0.8229255676269531] Also which was bothersome was the wifi.
+[-0.7421646118164062] They at least lent us an external wifi card but it still didn't work.
+[-0.7238502502441406] It comes very useful if you don't want to drive in downtown.

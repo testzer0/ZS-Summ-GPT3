@@ -1,0 +1,233 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.7613734765486284
+
+**********
+
+[0.9823751449584961] The A / C was turned up to 60.
+Parent: We put the A / C on 60 and the room immediately heated the room up 89 degrees .
+
+----- Supporting -----
+
+[0.9823751449584961] We put the A/C on 60 and the room immediately heated the room up 89 degrees.
+[0.00026702880859375] Very nice hotel, very close to the airport, walkable in fact to the terminals in less than 10 minutes or one can take a free shuttle bus.
+[0.0001087188720703125] This was a great hotel.
+[0.0] All good!
+[0.0] Ripoff.
+
+----- Weakening -----
+
+[-0.7424354553222656] other bugs every where.
+[-0.5269813537597656] When we returned about 10 hours later nothing had been done.
+[-0.462249755859375] We got lost as did lots of people we met along the way!
+[-0.43662261962890625] Don't expect a whole lot here.
+[-0.33057403564453125] Wonderfully quiet, considering the airport is literally across the street.
+
+**********
+
+[0.9892034530639648] The room heated up immediately to 89 degrees.
+Parent: We put the A / C on 60 and the room immediately heated the room up 89 degrees .
+
+----- Supporting -----
+
+[0.9892034530639648] We put the A/C on 60 and the room immediately heated the room up 89 degrees.
+[0.0] All good!
+[0.0] Ripoff.
+[0.0] !
+[0.0] .
+
+----- Weakening -----
+
+[-0.9836306571960449] Also, wished to have their shuttle drop us off @ transit terminal but we were told to wait - we decided to walk and it was rather cold.
+[-0.9782295227050781] All of this resulted in out take-out food getting cold plus I lost my scarf somewhere along the way.
+[-0.972132682800293] Beds are comfy, showers are great - the floors are marble which made going to the bathroom a little painful on the feet (COLD FLOORS!).
+[-0.9715924263000488] The A/C put out hot air.
+[-0.965083122253418] The wing hallways had a damp smell.
+
+**********
+
+[0.9935040473937988] The A / C put out hot air.
+Parent: The A / C put out hot air .
+
+----- Supporting -----
+
+[0.9935040473937988] The A/C put out hot air.
+[0.00616455078125] The room room's AC was working fine and it was pretty quite.
+[0.0] All good!
+[0.0] Ripoff.
+[0.0] !
+
+----- Weakening -----
+
+[-0.92535400390625] On check in, the warm chocolate chip cookies were a lovely touch.
+[-0.9213409423828125] Warm cookies when you arrive.
+[-0.9164886474609375] I love the big warm cookies in the evening.
+[-0.8953094482421875] Then there was this set-up for the syrup which was under a sterno can and full flame, the syrup was boiling.
+[-0.8905563354492188] On the plus side, we got warm cookies upon check-in.
+
+**********
+
+[0.0185546875] The hotel is too far from the ship.
+Parent: Hassle to get from ship to hotel , hassle to get correct rate , hassle with hotel safe ( should have one in room anyway ) , and a hassle to get to the airport the next morning .
+
+----- Supporting -----
+
+[0.0185546875] Room was an "upgrade" but so far from the elevator.
+[0.0013322830200195312] Would avoid this hotel in the future.
+[0.0009641647338867188] I would not recommend this hotel.
+[0.000499725341796875] I would not stay at a Doubletree Hotel again.
+[0.000469207763671875] I could not recommend this hotel.
+
+----- Weakening -----
+
+[-0.9957032203674316] Very nice hotel, very close to the airport, walkable in fact to the terminals in less than 10 minutes or one can take a free shuttle bus.
+[-0.995152473449707] The hotel was clean, beds were fine, hotel is located across the street from the air port, was within walking distance to a Denny's, Jack in the Box, and a steak place.
+[-0.9951515197753906] This hotel was within a stone's throw of Sea-Tac airport and right next to the off-site Thrifty car rental lot, so for location, it was great.
+[-0.9947512149810791] Don't have to worry about drinking and driving, just a elevator ride to your room!
+[-0.9936161041259766] Hotel is very close the the airport and room was comfortable.
+
+**********
+
+[0.9758148193359375] It is a hassle to get the correct rate.
+Parent: Hassle to get from ship to hotel , hassle to get correct rate , hassle with hotel safe ( should have one in room anyway ) , and a hassle to get to the airport the next morning .
+
+----- Supporting -----
+
+[0.9758148193359375] Hassle to get from ship to hotel, hassle to get correct rate, hassle with hotel safe (should have one in room anyway), and a hassle to get to the airport the next morning.
+[0.520660400390625] It takes a few trips to figure it out.
+[0.4210052490234375] But the nightmare wasn't over, then it took three more tries to get a room with a non-rattling heater and sliding doors that sealed and did not let the traffic noise in.
+[0.379730224609375] OUR overall stay was great, would have been nice to have no feathered pillows , not having a MICROWAVE,REFRIDG not cool, they charge each day for a roll away bed they said they would accomumdate for up to five in one room stayed three days so used blankets on the floor for the two boys I requested four blanket but had to go down to argue after only getting one they charge for wi-fi in room, LOBBY FREE- charge for daily parking no continuial breakfast without charging all these should change I called on phone for the entertainment book checking in nope they dont take it close to many places to eat,bank and even small cascino the airport close yes somewhat noisy but hey what one is not only during day time night time very quiet staff quiet friendly HOUSEKEEPING WONDERFUL yes i would recommend this hotel to others it'sa nice place is great for summer as with pool only on outsde .
+[0.347625732421875] The service at the hotel coffee shop was really slow and the waiter seemed really bothered by having to come to our table to see what we wanted.
+
+----- Weakening -----
+
+[-0.9815597534179688] Easy to reach, very clean and well-appointed rooms.
+[-0.9771642684936523] The airport shuttle runs round the clock (every twenty minutes) and is very efficient.
+[-0.9701023101806641] --Location is very convenient to the airport, and pretty quick access to I-5.
+[-0.9667854309082031] The check-in process was courteous and smooth, and we were given a nice corner room with a balcony on the 9th floor (accompanied by the delicious chocolate chip cookies).
+[-0.9634456634521484] Lots of conveniences close by.
+
+**********
+
+[0.71893310546875] The hotel safe is inconvenient to use.
+Parent: Hassle to get from ship to hotel , hassle to get correct rate , hassle with hotel safe ( should have one in room anyway ) , and a hassle to get to the airport the next morning .
+
+----- Supporting -----
+
+[0.71893310546875] Hassle to get from ship to hotel, hassle to get correct rate, hassle with hotel safe (should have one in room anyway), and a hassle to get to the airport the next morning.
+[0.44097900390625] The Hilton is a great hotel, but the Doubletree is purely a nightmare.
+[0.1627197265625] --The doubletree is not just a hotel, its like a little village of condo buildings too, which makes it very crowded and hard to get around the property.
+[0.08038330078125] The good: large room, food at the restaurants (especially the clam chowder), bed, view from the elevators, service, shuttle every 20 minutes to and from the airport (5 minutes away) The bad: the insulation for the windows is awful, so the hotel is extremely noisy at night (at least if you are facing the airport): airplanes, busy airport boulevard, rooftop with furnaces/chillers etc.
+[0.070556640625] The tower rooms do have balconies but the space is shared with the room next door and divided by a set of austere looking bars--plus there is no furniture to sit on so the balconies are not really functional.
+
+----- Weakening -----
+
+[-0.9787759780883789] It seemed to ALWAYS be running, and was very convenient.
+[-0.9760074615478516] It has a convenient location and a shuttle service that runs every 15 minutes for 24 hours.
+[-0.9726982116699219] The hotel is conveniently located, just across the street from the airport entrance with a free shuttle that runs every 20 minutes.
+[-0.9675874710083008] The hotel has a convenient airport shuttle that picks up guests on level 3 of the airport parking garage at stops #1 and 3.
+[-0.9618692398071289] They were extremely convenient to the airport.
+
+**********
+
+[0.0] The airport is too far away.
+Parent: Hassle to get from ship to hotel , hassle to get correct rate , hassle with hotel safe ( should have one in room anyway ) , and a hassle to get to the airport the next morning .
+
+----- Supporting -----
+
+[0.0] All good!
+[0.0] Ripoff.
+[0.0] !
+[0.0] .
+[0.0] ?
+
+----- Weakening -----
+
+[-0.9986162185668945] Great for those early morning flights, and no worries about traffic jams as Seatac Airport is right across the street.
+[-0.9981975555419922] Pros - Very close to airport, very quiet rooms (you cant hear the airplanes taking off even though it is right across from the airport), friendly staff, VERY comfortable beds with lots of pillows, large rooms, ice and vending machines close to all rooms, nicely appointed bathrooms, free shuttle (runs every 20 min, no reservation needed), convenience store on site, ATM, warm cookies on check in.
+[-0.9976732730865479] Very nice hotel, very close to the airport, walkable in fact to the terminals in less than 10 minutes or one can take a free shuttle bus.
+[-0.9972498416900635] The hotel is conveniently located, just across the street from the airport entrance with a free shuttle that runs every 20 minutes.
+[-0.9972467422485352] The good news - the hotel is very close to the airport with a 24hr shuttle to the airport.
+
+**********
+
+[0.9824228286743164] The check-in process was courteous.
+Parent: The check - in process was courteous and smooth , and we were given a nice corner room with a balcony on the 9th floor ( accompanied by the delicious chocolate chip cookies ) .
+
+----- Supporting -----
+
+[0.9824228286743164] The check-in process was courteous and smooth, and we were given a nice corner room with a balcony on the 9th floor (accompanied by the delicious chocolate chip cookies).
+[0.9086685180664062] Check-in was friendly and quick, and one receives a nice warm chocolate chip cookie along with the room key.
+[0.8974761962890625] The Front staff were friendly and efficient in getting us checked in and taken care of.
+[0.8599128723144531] Our check-in and check-out were accomplished efficiently by pleasant and personable people.
+[0.8012428283691406] Check In went very smooth, and we were upgraded to a very large suite at that time!
+
+----- Weakening -----
+
+[-0.9917473793029785] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+[-0.9915704727172852] It was so liquified that it spilled all over my hand and burned me terribly.
+[-0.9868640899658203] Our room was in the farthest section of the hotel, and tedious to get into to, and by the time we got settled it was too much trouble to go out to eat.
+[-0.9846067428588867] Frustrated - we called front desk - who called security - who called maintenance.
+[-0.984370231628418] When you finally reach your room the heaters all make tremendous noise, rattle, rumble.
+
+**********
+
+[0.9614648818969727] The check-in process was good.
+Parent: The check - in process was courteous and smooth , and we were given a nice corner room with a balcony on the 9th floor ( accompanied by the delicious chocolate chip cookies ) .
+
+----- Supporting -----
+
+[0.9614648818969727] The check-in process was courteous and smooth, and we were given a nice corner room with a balcony on the 9th floor (accompanied by the delicious chocolate chip cookies).
+[0.9500980377197266] The check-in was wonderful, the staff great, and the hotel itself was nice.
+[0.9240846633911133] Check In went very smooth, and we were upgraded to a very large suite at that time!
+[0.9106311798095703] Check in was easy and the cookies were nice.
+[0.8623256683349609] Check-in was friendly and quick, and one receives a nice warm chocolate chip cookie along with the room key.
+
+----- Weakening -----
+
+[-0.9728584289550781] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+[-0.9524965286254883] Our room was in the farthest section of the hotel, and tedious to get into to, and by the time we got settled it was too much trouble to go out to eat.
+[-0.8824081420898438] Frustrated - we called front desk - who called security - who called maintenance.
+[-0.8778915405273438] But the nightmare wasn't over, then it took three more tries to get a room with a non-rattling heater and sliding doors that sealed and did not let the traffic noise in.
+[-0.875579833984375] It was so liquified that it spilled all over my hand and burned me terribly.
+
+**********
+
+[0.9872884750366211] The corner room on the 9th floor was nice and had a balcony.
+Parent: The check - in process was courteous and smooth , and we were given a nice corner room with a balcony on the 9th floor ( accompanied by the delicious chocolate chip cookies ) .
+
+----- Supporting -----
+
+[0.9872884750366211] The check-in process was courteous and smooth, and we were given a nice corner room with a balcony on the 9th floor (accompanied by the delicious chocolate chip cookies).
+[0.17716217041015625] The room had a large balcony overlooking a lake and on the 4th floor we were up in the trees.
+[0.1124420166015625] Upgrade to King Corner Room or Penthouse to really treat yourself, balcony are amazing in these rooms.
+[0.073333740234375] The room was quiet, very comfy beds and we enjoyed the view from the 10th floor; the room and hallways could use an update, but are perfectly adequate.
+[0.060863494873046875] I asked for a room in the tower and the room was spacious with a nice king bed and a balcony that overlooked the airport.
+
+----- Weakening -----
+
+[-0.9427814483642578] I arrived to a room on the very ground floor that had a glass door that opened to the outside parking area.
+[-0.8838634490966797] I arrived late at night and was flustered by the confusing and poorly lit parking options.
+[-0.831207275390625] It was so liquified that it spilled all over my hand and burned me terribly.
+[-0.7797679901123047] Anyway, I requested a non-smoking room but the floor smelled like the stench of smoke.
+[-0.7713956832885742] The room was like staying in a basement, an old and mildew smell.
+
+**********
+
+[0.7655467987060547] The chocolate chip cookies were delicious.
+Parent: The check - in process was courteous and smooth , and we were given a nice corner room with a balcony on the 9th floor ( accompanied by the delicious chocolate chip cookies ) .
+
+----- Supporting -----
+
+[0.7655467987060547] The chocolate chip cookies are always a treat.
+[0.7357387542724609] The check-in process was courteous and smooth, and we were given a nice corner room with a balcony on the 9th floor (accompanied by the delicious chocolate chip cookies).
+[0.6114463806152344] Love the warm chocolate chips cookies and the service has always been outstanding.
+[0.34404754638671875] You absolutely cannot beat a Doubletree chocolate chip cookie as a welcome treat.
+[0.22887229919433594] The staff were very accomodating and I loved the chocolate chip cookie at check in.
+
+----- Weakening -----
+
+[-0.9539089202880859] What I found was rather run down and shabby.
+[-0.9242305755615234] other bugs every where.
+[-0.9201030731201172] We really liked the Doubletree Sea-Tac.
+[-0.8817863464355469] The beds were amazing.
+[-0.8789119720458984] I could not recommend this hotel.

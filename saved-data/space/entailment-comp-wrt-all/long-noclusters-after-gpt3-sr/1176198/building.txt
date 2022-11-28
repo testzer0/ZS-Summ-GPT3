@@ -1,0 +1,215 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.7828018188476562
+
+**********
+
+[0.9522180557250977] The building is new.
+Parent: The building is fairly new and very clean.
+
+----- Supporting -----
+
+[0.9522180557250977] The place is brand new so everything works just fine.
+[0.9458503723144531] The hotel is brand new, fantastic rooms and public areas.
+[0.9249973297119141] Hotel is brand new, with valet parking, service is exeptional with extra personal touches of the staff remembering you from check in.
+[0.9238681793212891] Hotel is new, everything was in good working order.
+[0.9204654693603516] A fairly small hotel for Toronto but modern (it is a pretty new property) and very, very clean.
+
+----- Weakening -----
+
+[-0.9010944366455078] Our original two rooms were finally clean but had already been given to someone else.
+[-0.8232955932617188] The room itself and the hotel were very nicely decorated, combining old and new accents.
+[-0.7935314178466797] The room was a fairly typical Hilton Garden Inn room, which I like, with great & free high speed access, a fridge that came in very handy and a solid shower and bed.
+[-0.6277618408203125] The week-end floozies everywhere and drunken partners are too much !
+[-0.6245479583740234] Excellent hotel that hides into an average gray downtown building, standing on an average not important street.
+
+**********
+
+[0.968440055847168] The building is clean.
+Parent: The building is fairly new and very clean.
+
+----- Supporting -----
+
+[0.968440055847168] The Hotel is very clean, has free WiFi, is well decorated and very comfortable.
+[0.9423694610595703] We love this hotel.It is clean and beautiful.The staff treat you like friends.It is so centrally located that you can access downtown Toronto at its best.You are in walking distance to everything.We will be staying here again for sure.
+[0.9131278991699219] This hotel was clean, convenient and reasonably priced.
+[0.8947219848632812] The hotel was clean and the rooms modern and good sized.
+[0.8892116546630859] This hotel was modern, clean and well maintained.
+
+----- Weakening -----
+
+[-0.9945354461669922] This night was a bit of a mess; we would walk out to the hallway and smell weed, hear loud music blasting, etc.
+[-0.9939174652099609] Plus the spa had too much chlorine in and that my eye's were stinging.
+[-0.99298095703125] There were weird grease marks on the wall as well.
+[-0.9882230758666992] The wallpaper in the bathroom and our room was warped, bubbled, etc.
+[-0.9870452880859375] The week-end floozies everywhere and drunken partners are too much !
+
+**********
+
+[0.8961181640625] There is no housekeeping service.
+Parent: However, there is no housekeeping/maid service, and the kitchen is closed.
+
+----- Supporting -----
+
+[0.8961181640625] First, there was absolutely no housecleaning/maid service!
+[0.08502197265625] It's pretty clear that this hotel did not train the staff before opening: You can only valet park your car for $35.
+[0.01678466796875] The hotel has Valet parking only which is fine since you can walk to everything.
+[0.015960693359375] The bathroom has no bathtub (who uses that in hotels anyway?)
+[0.00799560546875] my boyfriend and i both went home sore and dead tired from trying to find a comfortable way to sleep tossing and turning all night but there was none.
+
+----- Weakening -----
+
+[-0.9986112117767334] If we call for extra towels/sheets/cups, it's all sent up very quickly by housekeeping staff.
+[-0.9981396198272705] Housekeeping even stopped by to make sure we had everything we needed shortly after we arrived.
+[-0.9980700016021729] The rooms are in excellent condition, housekeeping is very good, and the location is very handy to everything downtown.
+[-0.9980335235595703] housekeeping was super here.
+[-0.998016357421875] Housekeeping changed towels when not needed, and so on and so forth!
+
+**********
+
+[0.8074569702148438] The kitchen is closed.
+Parent: However, there is no housekeeping/maid service, and the kitchen is closed.
+
+----- Supporting -----
+
+[0.8074569702148438] Fifth, we were told there was 24 hour room service, when we inquired about room service we were told the kitchen was closed!
+[0.0] Horrible !
+[0.0] WOW !
+[0.0] Downfall ?
+[0.0] : )
+
+----- Weakening -----
+
+[-0.9987282752990723] Custom made omelets, with several side dishes and great selection of juice, milk, cereals and fruits.
+[-0.9982204437255859] Food for breakfast was very good with lots to choose from.
+[-0.9981780052185059] Eggs are cooked to order and are really good.
+[-0.9981577396392822] A full cooked to order breakfast (including omlettes, eggs, waffles, home fries, bacon, sausage, toast, muffin, fruit, etc etc.)
+[-0.997760534286499] Has a large variety of food and was very good.
+
+**********
+
+[0.9892849922180176] The hotel is in a good location, close to many restaurants.
+Parent: However, there is no housekeeping/maid service, and the kitchen is closed.
+
+----- Supporting -----
+
+[0.9892849922180176] The Hilton Garden Inn is in a great location within walking distance of C.N.Tower and Rogers Stadium and next to a wide selection of restaurants,bars,shops etc There are fresh apples to help yourself each morning and cookies at night,also complimentary drinks on some days ?The rooms are spacious and clean BUT if you are stayingThursday through until Sunday there is a club with a patio next door and the noise is terrific until around three in the morning so if your not out yourself you will not sleep.We only had this experience on the Sat night the rest of our stay was perfect through until the following Wednesday.Fridge,microwave abd coffe maker in room really useful.Go to the italian quarter for some really great little restaurants and bars.Toronto is a terrific city ENJOY!
+[0.9017500877380371] The hotel location is ideal for a visitor to the city, within easy walking distance of the entertainment district, the business district, and great shopping and dining.
+[0.6658992767333984] This hotel is in walking distance to most of the downtown attractions such as the CN Tower, Queen St, Front St, even Wayne Gretzky's restaurant is right down the street.
+[0.5715103149414062] Great location for CN Tower/Blue Jays with plenty of local bars and restaurants, and easy access to tramcars.
+[0.46343231201171875] We could walk to the CN Tower and Skydome as well as many restaurants, and the customers we were calling on were close by, so the location in Toronto was great for us.
+
+----- Weakening -----
+
+[-0.9074130058288574] I would NOT recommend giving this hotel your business.
+[-0.6644392013549805] Unfortunately, we made the wrong decision on where to stay.
+[-0.6461391448974609] BAD: Make sure you request a room that is not above the nightclub downstairs on Peter St. We were on the 17th floor & we could still hear all the music, even with our windows shut.
+[-0.6432924270629883] Never again will I waste money at this property.
+[-0.4941568374633789] Never in my life have I spent so much in one place and been treated so poorly.
+
+**********
+
+[0.06217193603515625] The rooms were dusty.
+    The heater did not function properly.
+    There is a stain on the carpet.
+    The cost of parking was too high.
+Parent: However, there is no housekeeping/maid service, and the kitchen is closed.
+
+----- Supporting -----
+
+[0.06217193603515625] However the carpet in the room had 2 stains.
+[0.0] Horrible !
+[0.0] WOW !
+[0.0] Downfall ?
+[0.0] : )
+
+----- Weakening -----
+
+[-0.8507900238037109] Exceptional service!
+[-0.8236329555511475] You could make your own waffles with delicious toppings, huge choice of cereals and pastries, cooked items are made to order so fresh and yummy!
+[-0.7876756191253662] Free wi-fi!
+[-0.7440328598022461] I particularly loved the breakfast they offer where we have a choice of a continental breakfast for $10 +tx or a buffet (all you can eat) for $15 +tx.
+[-0.73891282081604] And the free internet is speedy.
+
+**********
+
+[0.9843535423278809] The hotel's location is good.
+Parent: However, there is no housekeeping/maid service, and the kitchen is closed.
+
+----- Supporting -----
+
+[0.9843535423278809] The hotel has a very good location.
+[0.9784541130065918] This hotel is a in a great location.
+[0.9780316352844238] The Hotel location is excellent, near the CN Tower and many other attractions.
+[0.975006103515625] The location is great, the hotel itself is fairly new so everything was clean and nicely presented.
+[0.9739952087402344] The location of the hotel is excellent for these attractions.
+
+----- Weakening -----
+
+[-0.9732036590576172] BAD: Make sure you request a room that is not above the nightclub downstairs on Peter St. We were on the 17th floor & we could still hear all the music, even with our windows shut.
+[-0.7413101196289062] Try not to get a room on that side, even high up.
+[-0.5402412414550781] Unfortunately, we made the wrong decision on where to stay.
+[-0.4800262451171875] Cons: Saturday night was very noisy-- club on street just below the hotel had noise that was heard even on my upper floor room with windows closed.
+[-0.3555030822753906] my boyfriend and i both went home sore and dead tired from trying to find a comfortable way to sleep tossing and turning all night but there was none.
+
+**********
+
+[0.9596576690673828] The hotel is close to several restaurants.
+Parent: However, there is no housekeeping/maid service, and the kitchen is closed.
+
+----- Supporting -----
+
+[0.9596576690673828] The Hilton Garden Inn is in a great location within walking distance of C.N.Tower and Rogers Stadium and next to a wide selection of restaurants,bars,shops etc There are fresh apples to help yourself each morning and cookies at night,also complimentary drinks on some days ?The rooms are spacious and clean BUT if you are stayingThursday through until Sunday there is a club with a patio next door and the noise is terrific until around three in the morning so if your not out yourself you will not sleep.We only had this experience on the Sat night the rest of our stay was perfect through until the following Wednesday.Fridge,microwave abd coffe maker in room really useful.Go to the italian quarter for some really great little restaurants and bars.Toronto is a terrific city ENJOY!
+[0.8509979248046875] The only thing i would not recommend is eating at the hotel; with as many restaurants nearby, go out.
+[0.7771377563476562] This hotel is in walking distance to most of the downtown attractions such as the CN Tower, Queen St, Front St, even Wayne Gretzky's restaurant is right down the street.
+[0.7329273223876953] Right out of hotel and then left on to King St brings you to a great row of bars and restaurants - I recommend Verona italian!
+[0.5163869857788086] The hotel location is ideal for a visitor to the city, within easy walking distance of the entertainment district, the business district, and great shopping and dining.
+
+----- Weakening -----
+
+[-0.3023681640625] Also it is conveniently located near a Shoppers which, with the in room microwave and fridge it makes it easy to have a quick snack in the room.
+[-0.2803916931152344] I would NOT recommend giving this hotel your business.
+[-0.27570343017578125] The bathroom is large, the shower is great, everything you might expect from a hotel of this category.There are some clubs close, but had no problems with noise, even at the reception.
+[-0.18500518798828125] Unfortunately, we made the wrong decision on where to stay.
+[-0.1824798583984375] OK, I love music, but this was no music !
+
+**********
+
+[0.9146518707275391] The guest had a short time to visit.
+Parent: Additionally, the guest had 10 minutes to visit.
+
+----- Supporting -----
+
+[0.9146518707275391] One night, while we were coming back into the hotel, we had one guest come up to our room to visit us....but we were informed that our guest had 10 minutes!!!!
+[0.8445053100585938] We took one of those hop on and off tour bus and there was a stop not that far from the hotel.. We only stayed there for 1 night but we made the most out of it.
+[0.7830429077148438] I only stayed there for one night but the room was very comfortable and clean.
+[0.693359375] Overall we had a fantastic 1 night stay especially since check out time was noon so we could sleep in.
+[0.5696029663085938] Took about 5 minutes to walk.
+
+----- Weakening -----
+
+[-0.9550132751464844] I stayed at the hotel for 3 weeks and next time I'm coming to Toronto I'll ask my hosts to get me a room in Hilton Garden Inn again.
+[-0.95111083984375] My girlfriend and I stayed at the Hilton Garden Inn over the July-August long weekend and had a great time!
+[-0.9456329345703125] Stayed here for a week, the hotel is nice, rooms are nicely appointed.
+[-0.9412651062011719] Stayed there for 6 nights.
+[-0.9295196533203125] We stayed for 2 nights , and spent both evenings at Roy Thompson Hall.... Peter St. intersects with the King Street Car, so we took full advantage of the TTC.
+
+**********
+
+[0.29366493225097656] The hotel does not have a bellboy to help with bags at check-out.
+Parent: There is also no bellboy to help with bags at check-out.
+
+----- Supporting -----
+
+[0.29366493225097656] Third, when it was time to check out there was no bell boy to help with our bags.
+[0.03668212890625] The hotel has Valet parking only which is fine since you can walk to everything.
+[0.0017547607421875] We had to rent a car and travel back to US to have key made.
+[6.4849853515625e-05] hotel cant help that.
+[0.0] Horrible !
+
+----- Weakening -----
+
+[-0.9616279602050781] The music started at about 11:00 and was pounding loud until 2:30 am.
+[-0.9509716033935547] On the Thursday night of my stay a open air club cranked music till 3:00am.
+[-0.8970279693603516] We were on the fourteenth floor and though we couldn't hear the music (which lasted until around 4 A.M.) the beat of the base permeated through the walls and just couldn't be stopped.
+[-0.8950862884521484] The obnoxious discobar downstairs next door !
+[-0.8909225463867188] She even called us by name.

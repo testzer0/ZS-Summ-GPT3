@@ -1,0 +1,275 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.745662469130296
+
+**********
+
+[0.30330467224121094] The hotel's architecture is unique.
+Parent: The hotel has unique architecture and is located near the airport.
+
+----- Supporting -----
+
+[0.30330467224121094] The building has unique architecture which can prove to be challenging for some to find their rooms.
+[0.18827438354492188] The design of the hotel is a little maze-like but still beautiful and the pool definitely makes you feel like you're somewhere else rather than beside the Sea-Tac Airport.
+[0.08125686645507812] This is a very large and confusingly laid out hotel.
+[0.07332515716552734] We had a large room with a balcony, comfortable beds, an easy chair and ottoman, and a coffee maker - all things we don't always find.
+[0.06150627136230469] The pool area, lobby and view from the balcony were very nice, not what I normally find when traveling and especially not this close to the airport!
+
+----- Weakening -----
+
+[-0.9049148559570312] This is a pretty rundown hotel.
+[-0.8986721038818359] The crappy wings are old and the rooms smell musty.
+[-0.8882532119750977] What a rip-off!
+[-0.8835945129394531] Room was typical for a double tree.
+[-0.8615875244140625] It looks nice on the outside,, but inside it is very shabby and used.
+
+**********
+
+[0.9899768829345703] The hotel is near the airport.
+Parent: The hotel has unique architecture and is located near the airport.
+
+----- Supporting -----
+
+[0.9899768829345703] The good news - the hotel is very close to the airport with a 24hr shuttle to the airport.
+[0.9896984100341797] Hotel is very close the the airport and room was comfortable.
+[0.9881353378295898] Very nice hotel, very close to the airport, walkable in fact to the terminals in less than 10 minutes or one can take a free shuttle bus.
+[0.9867868423461914] The hotel is very close to the airport and sometimes we walk.
+[0.985602855682373] We stayed at this hotel as it was close to the airport for our early morning flight.
+
+----- Weakening -----
+
+[-0.9936838150024414] This hotel is by a small lake and at dusk there are misquitos and misc.
+[-0.9220542907714844] Downtown Seattle was about a 30 minute ride by light rail service (cost of $16 for the 4 of us) or $40 cab ride to the pier.
+[-0.9169464111328125] Out the back of mine (#5) the deck looked out into a forest.
+[-0.9154176712036133] We were told we had a great view of the "lake" from our room.
+[-0.8823833465576172] The view we had was of some large trees and some people's backyards- better than the parking lot for us (but I wouldn't want to live there!).
+
+**********
+
+[0.9740400314331055] The property is large.
+Parent: It is a large property with five buildings.
+
+----- Supporting -----
+
+[0.9740400314331055] Yes, the hotel is large and somewhat dated - but the cleanliness and service is very goo d. My only blip was with a faulty magnetic door reader that prevented us from gaining access to our room.
+[0.9669427871704102] This is a large property with (I believe) five buildings.
+[0.9593219757080078] The hotel is huge and they give you warm cookies once you check-in.
+[0.9486923217773438] This is a very large and confusingly laid out hotel.
+[0.9434852600097656] Located within a few miles of Sea-Tac this is a very large hotel with a Starbucks, gift shop, meeting rooms, breakfast room, bar and dining room.
+
+----- Weakening -----
+
+[-0.9821281433105469] Rooms are not particularly posh or large.
+[-0.9342575073242188] It has "small hotel" service, meaning that you don't feel lost and they treat you well.
+[-0.9041824340820312] Decent size with flat panel TV, and normal size bathroom.
+[-0.900177001953125] The fitness room is small but the bedrooms are standard.
+[-0.8198509216308594] There were also 2 cigarette butts on the small patio.
+
+**********
+
+[0.9527854919433594] There are five buildings.
+Parent: It is a large property with five buildings.
+
+----- Supporting -----
+
+[0.9527854919433594] This is a large property with (I believe) five buildings.
+[0.8403358459472656] The workout rooms are decent - especially the larger one in Building Five.
+[0.6474075317382812] Our room was connected to the main lobby by a skyway; we were in building 5 -- it wasn't very close.
+[0.279998779296875] There is a Jack in the Box and Denny's across the street as well as a Subway, Thai restaurant and a BBQ restaurant nearby.
+[0.2591552734375] Out the back of mine (#5) the deck looked out into a forest.
+
+----- Weakening -----
+
+[-0.8347663879394531] Only one hiccup when we were collecting our car through their valet ,the valet asked pretty abruptly as we $5 tipped him if we had settled our parking fee.
+[-0.68231201171875] It's a solid 3* hotel and good value.
+[-0.6165237426757812] All major airlines are represented.
+[-0.606964111328125] At that point we waited the 18 minutes with 10 other people and caught the next bus.
+[-0.5972747802734375] After commuting back and fort from florida if too tired to drive back to my destination i always stay at this dbl tree.
+
+**********
+
+[0.9695196151733398] The main tower is the best place to stay.
+Parent: The main tower is the best place to stay, as it is close to everything.
+
+----- Supporting -----
+
+[0.9695196151733398] It has a main tower, which is the best place to stay as you are close to everything, as well as several wings.
+[0.8172760009765625] Overall, a very nice surprise, I have read on here it is best to request a room in the main towers, if not I would definatly ask to be on the top floor.
+[0.022796630859375] I suggest getting a room in the tower.
+[0.00377655029296875] Stayed in the high-rise portion.
+[0.0032634735107421875] We had a double queen room in the tower, looking out towards the mountains.
+
+----- Weakening -----
+
+[-0.986142635345459] The room was like staying in a basement, an old and mildew smell.
+[-0.9701099395751953] The pool is very relaxing and big.
+[-0.9553265571594238] We stayed in the village part of the hotel, which were found to be old and dark.
+[-0.9553098678588867] We spent a good portion of our early evening at the pool, which has an awesome setting.
+[-0.9498386383056641] After commuting back and fort from florida if too tired to drive back to my destination i always stay at this dbl tree.
+
+**********
+
+[0.7564010620117188] The main tower is convenient.
+Parent: The main tower is the best place to stay, as it is close to everything.
+
+----- Supporting -----
+
+[0.7564010620117188] It has a main tower, which is the best place to stay as you are close to everything, as well as several wings.
+[0.2532196044921875] Overall, a very nice surprise, I have read on here it is best to request a room in the main towers, if not I would definatly ask to be on the top floor.
+[0.12225341796875] We found the Doubletree to be good for what we needed- a place to stay when our plane arrived late and we didn't want to start driving anywhere until the next day.
+[0.12076568603515625] The check-in process was courteous and smooth, and we were given a nice corner room with a balcony on the 9th floor (accompanied by the delicious chocolate chip cookies).
+[0.084930419921875] The hotel interior itself is a bit outdated, but the room we stayed in (in the tower) was very pleasant, relaxing and modern.
+
+----- Weakening -----
+
+[-0.8648605346679688] Room was highly run down.
+[-0.8305740356445312] Getting to the room was a fun adventure in itself.
+[-0.8134231567382812] The room was like staying in a basement, an old and mildew smell.
+[-0.7426376342773438] Whenever my husband moved, I felt like we were on a boat in rough water.
+[-0.7289581298828125] The pool is very relaxing and big.
+
+**********
+
+[0.1571826934814453] The gardens are beautiful.
+Parent: There are gardens between the different buildings.
+
+----- Supporting -----
+
+[0.1571826934814453] There is an abundance of gardens in between the different buildings and all were very well maintained and tended.
+[0.06475067138671875] We really liked the Doubletree Sea-Tac.
+[0.052764892578125] Lovely spacious Doubletree, with gift shop and a very good restaurant inside it.
+[0.03302764892578125] We have stayed at the DoubleTree Seatac more than 15 times, love it.
+[0.03151702880859375] After a miserable day at Sea-Tac, we thought the Doubletree would be heaven.
+
+----- Weakening -----
+
+[-0.9350318908691406] What I found was rather run down and shabby.
+[-0.8986482620239258] This property is a mess.
+[-0.8711090087890625] The shuttle was hot and smelly again and people were mad.
+[-0.86279296875] The views of the airplanes taking off was great!
+[-0.8607330322265625] VERY average burger.
+
+**********
+
+[0.9713659286499023] The gardens are located between the different buildings.
+Parent: There are gardens between the different buildings.
+
+----- Supporting -----
+
+[0.9713659286499023] There is an abundance of gardens in between the different buildings and all were very well maintained and tended.
+[0.015289306640625] Booked thru hotwire and got such a great price ($69) we were worried what we'd be getting.... We were very pleasantly suprised!!
+[0.01251220703125] At my prompting he suggested the self-park behind the hotel but it was almost as expensive as the valet!
+[0.00921630859375] I thought she may care a bit more with the pics as proof, but I guess they hear complaints all day.
+[0.0069122314453125] Just a nice touch!
+
+----- Weakening -----
+
+[-0.795928955078125] Flat screen TV with many stations available.
+[-0.7414093017578125] --The doors to the rooms have a huge gap at the bottom - allows a lot of light and sound in from the hallway.
+[-0.7391891479492188] The service in both the casual restaurant at breakfast and the dining room in the evening was efficient.
+[-0.7346954345703125] I arrived late at night and was flustered by the confusing and poorly lit parking options.
+[-0.70928955078125] The views of the airplanes taking off was great!
+
+**********
+
+[0.74578857421875] The hotel is untidy.
+Parent: The hotel is a mess.
+
+----- Supporting -----
+
+[0.74578857421875] Unfortunately, there was nothing memorable about the hotel itself; it was a huge place, reminiscent of a rambling casino hotel (but without the lights or the casino), but just bland.
+[0.7056427001953125] But the bathroom was not so clean and it's a huge let-down for a hotel like this to be so neglected.
+[0.5146484375] This is a pretty rundown hotel.
+[0.3924560546875] this hotel was so comfortable.
+[0.35968017578125] Even though the hotel was close to the airport, you couldn't haer the planes taking off, it was quiet and very relaxing.
+
+----- Weakening -----
+
+[-0.99395751953125] This hotel is clean, neat and offers good value for the money.
+[-0.9924983978271484] The rooms were very clean and the staff was very nice.
+[-0.9918203353881836] Easy to reach, very clean and well-appointed rooms.
+[-0.9915065765380859] The rooms are always clean, the beds great, bedding and bath linens top notch.
+[-0.9905128479003906] The hotel was nice; good clean rooms.
+
+**********
+
+[0.8984146118164062] The gift shop is fully stocked.
+Parent: The gift shop is well stocked and reasonably priced.
+
+----- Supporting -----
+
+[0.8984146118164062] The gift shop was well stocked and very reasonably priced.
+[0.087982177734375] It had a sunken in tub, huge walk-in shower, robes & full line of Neutrogena beauty products.
+[0.07037353515625] The staff went around the lines of people handing out the essentials of shaving foam, razors, toothpaste, toothbrushes and home made cookies as we didn't have our luggage which was checked into the cancelled flight.
+[0.010219573974609375] They are dedicated and helpful to your every need.
+[0.006801605224609375] The staff are wonderful!
+
+----- Weakening -----
+
+[-0.9939956665039062] Waitress never brought the items we requested and the order was askew.
+[-0.985755443572998] What I found was rather run down and shabby.
+[-0.9844036102294922] Room was highly run down.
+[-0.979400634765625] other bugs every where.
+[-0.9768476486206055] Cheap toiletries, few towels.
+
+**********
+
+[0.9784660339355469] The gift shop is priced reasonably.
+Parent: The gift shop is well stocked and reasonably priced.
+
+----- Supporting -----
+
+[0.9784660339355469] The gift shop was well stocked and very reasonably priced.
+[0.149078369140625] Love riding the Rail from SeaTac to downtown and the Monorial is $2.00 to the Space Needle.
+[0.13317108154296875] We get the stay and jet package so we park for a week for only $30.00.
+[0.0925445556640625] For $5 we got an upgrade to a family suite - which has 2 connecting rooms, 2 sinks AND a full bath.
+[0.07489013671875] Decided to stay one night by the airport and used priceline to get a room and ended up with the doubletree at a good rate!
+
+----- Weakening -----
+
+[-0.9452877044677734] Total rip-off with the excess charges.
+[-0.78631591796875] Shame on you Doubletree for charging your own guests to pay to park on your site during their stay.
+[-0.7327041625976562] The food was good although a bit pricey.
+[-0.7224807739257812] Service in the more upscale of the two restaurants was almost unbearably slow and the food was cold when it finally arrived after over a hour at our table.
+[-0.7137527465820312] What I found was rather run down and shabby.
+
+**********
+
+[0.2089977264404297] The hotel's external walls are soundproof.
+Parent: The hotel does a good job of soundproofing the external walls, but the hall walls seem thin.
+
+----- Supporting -----
+
+[0.2089977264404297] They did a great job soundproofing the external walls, but the hall walls seemed a bit thin.
+[0.177581787109375] They never seem to slap my hand if I grab 2 or 3...recommendation goes to this hotel over others!
+[0.050811767578125] The room was very sound prrof, as I did not hear anyone in the halls or other rooms.
+[0.030109405517578125] Even though the hotel was close to the airport, you couldn't haer the planes taking off, it was quiet and very relaxing.
+[0.012157440185546875] My room was large, quiet and had a small balcony.
+
+----- Weakening -----
+
+[-0.9941153526306152] When you finally reach your room the heaters all make tremendous noise, rattle, rumble.
+[-0.9886455535888672] The good: large room, food at the restaurants (especially the clam chowder), bed, view from the elevators, service, shuttle every 20 minutes to and from the airport (5 minutes away) The bad: the insulation for the windows is awful, so the hotel is extremely noisy at night (at least if you are facing the airport): airplanes, busy airport boulevard, rooftop with furnaces/chillers etc.
+[-0.9885158538818359] I changed rooms six times before deciding that all the wings were the same with traffic noise, heater noise, and all the hiking and dragging bags from room to room.
+[-0.9861412048339844] The bed was comfortable but between the noise of the traffic ( not the jets) and the room fan, we did not sleep well.
+[-0.9766130447387695] I thought she may care a bit more with the pics as proof, but I guess they hear complaints all day.
+
+**********
+
+[0.7873687744140625] The hall walls are thin.
+Parent: The hotel does a good job of soundproofing the external walls, but the hall walls seem thin.
+
+----- Supporting -----
+
+[0.7873687744140625] They did a great job soundproofing the external walls, but the hall walls seemed a bit thin.
+[0.17462158203125] Wall paper peeling off walls in different places, light bulb not replaced in room and carpet stained.
+[0.034149169921875] The design of the hotel is a little maze-like but still beautiful and the pool definitely makes you feel like you're somewhere else rather than beside the Sea-Tac Airport.
+[0.028076171875] Room was highly run down.
+[0.0157318115234375] Room was typical for a double tree.
+
+----- Weakening -----
+
+[-0.8377609252929688] The pool was huge and gorgeous.
+[-0.7979831695556641] Stayed in the high-rise portion.
+[-0.7656402587890625] It was so liquified that it spilled all over my hand and burned me terribly.
+[-0.7478408813476562] The pool is very relaxing and big.
+[-0.74627685546875] The bathroom was huge.

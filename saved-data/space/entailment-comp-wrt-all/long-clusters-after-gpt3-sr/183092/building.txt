@@ -1,0 +1,191 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.8184403313530816
+
+**********
+
+[0.9577188491821289] The building was modern.
+Parent: Overall, reviewers thought the building was modern and well-equipped, with a beautiful lobby.
+
+----- Supporting -----
+
+[0.9577188491821289] The hotel was clean and modern and the King room was spacious, with the most comfortable bed (slept better than at home).
+[0.9479618072509766] The hotel is modern and the lobby is inviting.
+[0.935603141784668] The lobby was modern with a beautiful fireplace and a good breafast/coffee/drinks bar too.
+[0.8670825958251953] The hotel has a very modern look and feel to it.
+[0.8642406463623047] In addition to being spacious, the lobby was decorated in a modern fashion with booth-like check-in desk, complete with a very professional and courteous staff who checked us in promptly.
+
+----- Weakening -----
+
+[-0.9955606460571289] My basic perception was that the rooms had a dated, unclean vibe.
+[-0.9925670623779297] The rest of the hotel was nice but a little dated.
+[-0.9900493621826172] my colleagues staying at the sheraton said their rooms were old and not maintained and in some cases dirty.
+[-0.9620170593261719] To start with the decor in the rooms is dreadful; mustard coloured walls, a mustard coloured 3D (dont ask) carpet, mustard cloured bed throws and an artexed ceiling only just over 7 feet over our heads.
+[-0.9452476501464844] While the beds were comfy and we had plenty of room, the guest rooms are in need of a renovation.
+
+**********
+
+[0.9216718673706055] The building was well-equipped.
+Parent: Overall, reviewers thought the building was modern and well-equipped, with a beautiful lobby.
+
+----- Supporting -----
+
+[0.9216718673706055] The gym is huge and well equiped.
+[0.8613662719726562] Wonderful views and the gym was very well equpped with the latest machines and free weights.
+[0.8531064987182617] The hotel lobby was very spacious, and well furnished with comfy seating for tired travellers to wait while checking-in.
+[0.7912921905517578] The ballrooms and meeting rooms were well kept and allowed for great meetings by day and fun parties in the evening.
+[0.7038383483886719] Not only that, but the rooms were spotlessly clean, the amenities were nice and our view was spectacular.
+
+----- Weakening -----
+
+[-0.9650115966796875] my colleagues staying at the sheraton said their rooms were old and not maintained and in some cases dirty.
+[-0.9516792297363281] other issues- bathroom really not that nice, concierge horrible at recommending things to do or good resutarants or giving directions.
+[-0.9415454864501953] Not very convenient to go down to lobby all the time...Staff was not at all helpful in this matter... A sidenote: the room when we arrived was not vacumed and was not clean.
+[-0.9398612976074219] Few hours went by, and still no cots, and the four year old was getting tired.
+[-0.9360733032226562] It really needed a bit of a â€œrefreshâ€�.
+
+**********
+
+[0.8345327377319336] Overall, reviewers thought the lobby was beautiful.
+Parent: Overall, reviewers thought the building was modern and well-equipped, with a beautiful lobby.
+
+----- Supporting -----
+
+[0.8345327377319336] We love the lobby with the huge centered fireplace (OK, no true fire, just gas but still very cozy and close to the bar) and the beds are one of the best we've ever slept in - huge, comfortable, good linen and very clean.
+[0.6347866058349609] The staff were brilliant with our little boy and the bar/bistro was lovely.
+[0.5768051147460938] The lobby is very appealing and the front desk staff were professional and polite.
+[0.4530305862426758] Not only that, but the rooms were spotlessly clean, the amenities were nice and our view was spectacular.
+[0.44121837615966797] The lobby was nicely decorated and the staff were nice.
+
+----- Weakening -----
+
+[-0.989192008972168] My basic perception was that the rooms had a dated, unclean vibe.
+[-0.9628219604492188] Overrall, my room was a comfortable place to spend some time (I liked the large flat panel tv), while the rest of the hotel was unexciting.
+[-0.9412360191345215] It is probably the most depressing hotel I have ever stayed in.
+[-0.9095525741577148] During our recent trip we stayed in 5 hotels in Canada and this was by far the worst.
+[-0.898737907409668] my colleagues staying at the sheraton said their rooms were old and not maintained and in some cases dirty.
+
+**********
+
+[0.8332061767578125] The hotel needs to be refurbished.
+Parent: However, some thought it was in need of refurbishment, particularly in the older rooms.
+
+----- Supporting -----
+
+[0.8332061767578125] The lobby of the hotel is currently undergoing renovation (as noted on their website) which made for an unexciting first impression, however the room (1112) was tastefully decorated and fairly spacious for a downtown hotel room.
+[0.7643680572509766] While the beds were comfy and we had plenty of room, the guest rooms are in need of a renovation.
+[0.3201141357421875] The rest of my stay was great but definately need to get a new system in place for business travellers.. Id recommend Hilton Downtown or Marriott Airport Locations for Business Trips.
+[0.11030006408691406] The rooms were clean, but when you looked closely, you would feel it needed a deep clean.. Ie around baseboards, walls and ceiling in bath, etc.
+[0.1072540283203125] The lobby refurb looked great -- now they just need to tackle some of the older rooms.
+
+----- Weakening -----
+
+[-0.8711147308349609] The hotel is modern and the lobby is inviting.
+[-0.78570556640625] The hotel is marvelous, their renovations are complete and they did a wonderful job, we had a room with king bed, great tv in the room and it was a very spacious room.
+[-0.7631139755249023] Not only that, but the rooms were spotlessly clean, the amenities were nice and our view was spectacular.
+[-0.7558746337890625] The property looks recently renovated, and the room was spacious and comfortable.
+[-0.7527389526367188] This place is very clean, its got THE MOST comfortable beds, and the location is great.
+
+**********
+
+[0.2474079132080078] The older rooms in the hotel needed refurbishment.
+Parent: However, some thought it was in need of refurbishment, particularly in the older rooms.
+
+----- Supporting -----
+
+[0.2474079132080078] While the beds were comfy and we had plenty of room, the guest rooms are in need of a renovation.
+[0.23211669921875] The lobby of the hotel is currently undergoing renovation (as noted on their website) which made for an unexciting first impression, however the room (1112) was tastefully decorated and fairly spacious for a downtown hotel room.
+[0.22319793701171875] my colleagues staying at the sheraton said their rooms were old and not maintained and in some cases dirty.
+[0.18780899047851562] The hotel is marvelous, their renovations are complete and they did a wonderful job, we had a room with king bed, great tv in the room and it was a very spacious room.
+[0.06171131134033203] The rooms were clean, but when you looked closely, you would feel it needed a deep clean.. Ie around baseboards, walls and ceiling in bath, etc.
+
+----- Weakening -----
+
+[-0.7645149230957031] I could spend all day in a mall and just shop until I drop!
+[-0.6015396118164062] Friday AM I had surgery.
+[-0.5897293090820312] Made Christmas shopping an absolute treat!!
+[-0.5791091918945312] During the conference, the food/service department did a fantastic job with meals.
+[-0.5499477386474609] Expensive parking.
+
+**********
+
+[0.671356201171875] The fire alarm went off and it was really annoying.
+Parent: There were some complaints about the fire alarm going off, but staff were generally praised for their handling of the situation.
+
+----- Supporting -----
+
+[0.671356201171875] We also experienced a false fire alarm which was disconcerting as it took quite some time for us to get through to the receptionist to see whether we should proceed down the fire stairs or stay put..
+[0.028191566467285156] The only problem (and the reason for my rating of 4 rather than 5) for the entire weekend was that the fire alarm went off around 6:45 on Sunday morning and continued until about 7:15.
+[0.02375030517578125] Suprised a fellow traveller thought the fire alarm was a mark against the hotel!
+[0.014288902282714844] This was incredibly annoying and extremely loud in our room.
+[0.0078125] They got louder as the night progressed and started to smoke.
+
+----- Weakening -----
+
+[-0.9840173721313477] It's a nice clean, quiet hotel in a great area.
+[-0.9819886684417725] The room was great: quiet, roomy, comfortable beds and good ventilation.
+[-0.9783124923706055] We've stayed here several times, and everytime the staff have been exceptionally warm and given us some special treatment.
+[-0.9779582023620605] The Hotel itself is fine and we had no complaints about anything.
+[-0.9751622676849365] I have to admit that I am usually very worried about hotels and their cleanliness... but this hotel was extremely clean.
+
+**********
+
+[0.9662971496582031] The staff handled the situation well.
+Parent: There were some complaints about the fire alarm going off, but staff were generally praised for their handling of the situation.
+
+----- Supporting -----
+
+[0.9662971496582031] I hesitate to start with a description of a not-so-good experience, but the staff response to the not-so-good experience was handled so well that in the end, I left the hotel quite impressed.
+[0.9198360443115234] Fire alarm at 5.20am and evacuation was well handled although muddled about the return to the rooms - no problems with that becuase the staff made sure you were out of the hotel and the Toronto Fire Brigade were there in an instant!
+[0.9098100662231445] The staff took care of all ours needs and requests with enthusiasm and the concierge even went so far as recommend vineyards to visit for our side trip to Niagra wine country.
+[0.9097342491149902] The hotel was nearly 100% full, but check-in went quickly and we felt like the staff was taking good care of us.
+[0.886988639831543] The staff were courteous and helpful, and the sports bar on the first floor was a great place to hang out.
+
+----- Weakening -----
+
+[-0.9930648803710938] Not very convenient to go down to lobby all the time...Staff was not at all helpful in this matter... A sidenote: the room when we arrived was not vacumed and was not clean.
+[-0.984771728515625] Stay here if you can put up with bugs and indifferent staff.
+[-0.9758005142211914] The gentleman was excessively rude, simply entered the room, removed the dead bug and looked VERY quickly over the rest of the room before saying "Looks like we got em all".
+[-0.9729442596435547] I did however find the staff to be very indifferent, almost cold and the rooms to be on the smaller side.
+[-0.9540023803710938] The front desk girl didn't seem to understand the situation and said "oh there is a shoppers 2 blocks from here."
+
+**********
+
+[0.9728755950927734] The location was good.
+Parent: The location was also praised, with the subway station being close by.
+
+----- Supporting -----
+
+[0.9728755950927734] The location couldn't have been better.
+[0.9662876129150391] The location couldn't be better.
+[0.963714599609375] Location is good and the hotel is quiet.
+[0.9611368179321289] The location was perfect!
+[0.9593715667724609] The location was an excellent one for us because our event was just across the street, but we also walked to dinner on Queen Street, had many shopping choices (itâ€™s connected to the Eaton Centre, or you can meander along funky Queen West) and itâ€™s close to the subway.
+
+----- Weakening -----
+
+[-0.553436279296875] My only negative comment about the room was the view - it looked straight into an adjacent office building.
+[-0.49875640869140625] The hotel is connected to the Eaton center = dangerous!!!
+[-0.3350868225097656] It is probably the most depressing hotel I have ever stayed in.
+[-0.3191947937011719] During our recent trip we stayed in 5 hotels in Canada and this was by far the worst.
+[-0.293609619140625] Poor QC here.
+
+**********
+
+[0.9608964920043945] The subway station is close by.
+Parent: The location was also praised, with the subway station being close by.
+
+----- Supporting -----
+
+[0.9608964920043945] The location was an excellent one for us because our event was just across the street, but we also walked to dinner on Queen Street, had many shopping choices (itâ€™s connected to the Eaton Centre, or you can meander along funky Queen West) and itâ€™s close to the subway.
+[0.8474578857421875] It's also right next door to Eaton Center shopping area, where you can catch the subway and all the tour busses.
+[0.79443359375] The location, right next to the Eaton Centre, is ideal and makes it easy to take in all of the traditional tourist sights and access the subway.
+[0.7869110107421875] Addtionally, there were pleny of wonderful restaurants, places to shop, the subway transit system, buses and taxes within a 1-5 mile radius of the hotel making it very convenient for just about everything!
+[0.7354316711425781] In the cold weather, you don't need to go outside to reach the subway which is really nice.
+
+----- Weakening -----
+
+[-0.8651046752929688] The Eaton Centre is just steps away.
+[-0.7253570556640625] We were attending the show WE WILL ROCK YOU and decided to stay at the Marriott Eaton Centre due to the close proximity of the theatre we were attending.
+[-0.7000579833984375] The shower however was very touchy and the water was either scalding hot or very cold.
+[-0.6763916015625] The subway is about a block away in the basement of the mall.
+[-0.642242431640625] There was a hallway that connected to the Eaton Centre.

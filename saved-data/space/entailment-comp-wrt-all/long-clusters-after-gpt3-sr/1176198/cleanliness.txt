@@ -1,0 +1,107 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.7658119201660156
+
+**********
+
+[0.9886002540588379] The hotel was clean.
+Parent: The reviewers generally found the hotel to be clean.
+
+----- Supporting -----
+
+[0.9886002540588379] This hotel was clean, convenient and reasonably priced.
+[0.988318681716919] The hotel was very clean, room was quite large and shower had good water pressure.
+[0.9872126579284668] The Hotel is very clean, has free WiFi, is well decorated and very comfortable.
+[0.9846506118774414] The hotel was clean and the rooms modern and good sized.
+[0.9841084480285645] This hotel was modern, clean and well maintained.
+
+----- Weakening -----
+
+[-0.9949121475219727] This night was a bit of a mess; we would walk out to the hallway and smell weed, hear loud music blasting, etc.
+[-0.9943633079528809] Plus the spa had too much chlorine in and that my eye's were stinging.
+[-0.9914588928222656] The fire alarm went off in the ENTIRE hotel very early in the morning because someone burned toast.
+[-0.9905872344970703] The wallpaper in the bathroom and our room was warped, bubbled, etc.
+[-0.9848165512084961] There were weird grease marks on the wall as well.
+
+**********
+
+[0.0404052734375] There were a few exceptions where reviewers found hairs in the tub or stains on the carpet.
+Parent: There were a few exceptions where reviewers found hairs in the tub or stains on the carpet, but generally the hotel was clean.
+
+----- Supporting -----
+
+[0.0404052734375] All very clean, there was a couple of hairs in the tub but everything else was spotless.
+[0.01815032958984375] However the carpet in the room had 2 stains.
+[0.00647735595703125] Otherwise the room was clean [and cleaned], the fridge and microwave worked too.
+[0.0] Horrible !
+[0.0] WOW !
+
+----- Weakening -----
+
+[-0.3466472625732422] The bathroom has no bathtub (who uses that in hotels anyway?)
+[-0.2784900665283203] We had no complaints.
+[-0.27470970153808594] Never heard back.
+[-0.2732524871826172] Couldn't find any faults with this hotel.
+[-0.2037067413330078] Did not hear a thing the whole time we were there.
+
+**********
+
+[0.9886002540588379] The hotel was clean.
+Parent: There were a few exceptions where reviewers found hairs in the tub or stains on the carpet, but generally the hotel was clean.
+
+----- Supporting -----
+
+[0.9886002540588379] This hotel was clean, convenient and reasonably priced.
+[0.988318681716919] The hotel was very clean, room was quite large and shower had good water pressure.
+[0.9872126579284668] The Hotel is very clean, has free WiFi, is well decorated and very comfortable.
+[0.9846506118774414] The hotel was clean and the rooms modern and good sized.
+[0.9841084480285645] This hotel was modern, clean and well maintained.
+
+----- Weakening -----
+
+[-0.9949121475219727] This night was a bit of a mess; we would walk out to the hallway and smell weed, hear loud music blasting, etc.
+[-0.9943633079528809] Plus the spa had too much chlorine in and that my eye's were stinging.
+[-0.9914588928222656] The fire alarm went off in the ENTIRE hotel very early in the morning because someone burned toast.
+[-0.9905872344970703] The wallpaper in the bathroom and our room was warped, bubbled, etc.
+[-0.9848165512084961] There were weird grease marks on the wall as well.
+
+**********
+
+[0.8702974319458008] The fitness center is in good condition.
+Parent: The fitness center and pool were also noted as being well-maintained.
+
+----- Supporting -----
+
+[0.8702974319458008] They have an incredible pool and gym that are both kept impeccably clean.
+[0.8340892791748047] I used the fitness center and pool which were both small but well maintained.
+[0.8293571472167969] Gym is very good, and to my surprise, was empty the couple of times I went about.
+[0.6756973266601562] The rooms are equal to anything Hilton offers, the fitness facility is first rate and the restaurant staff are friendly and attentive - to the right degree.
+[0.67071533203125] The fitness center, pool, and hot tub where all nice like I said everything was brand new.
+
+----- Weakening -----
+
+[-0.9549064636230469] This night was a bit of a mess; we would walk out to the hallway and smell weed, hear loud music blasting, etc.
+[-0.9433441162109375] The fire alarm went off in the ENTIRE hotel very early in the morning because someone burned toast.
+[-0.9265260696411133] There were weird grease marks on the wall as well.
+[-0.9131717681884766] The wallpaper in the bathroom and our room was warped, bubbled, etc.
+[-0.9111976623535156] There was also a fire in the room which I imagine would be cozy on winter nights.
+
+**********
+
+[0.9411563873291016] The pool is in good condition.
+Parent: The fitness center and pool were also noted as being well-maintained.
+
+----- Supporting -----
+
+[0.9411563873291016] I used the fitness center and pool which were both small but well maintained.
+[0.8945503234863281] They have an incredible pool and gym that are both kept impeccably clean.
+[0.8251514434814453] the Pool, while not large, was comfortable and clean, and the workout facilities were excellent.
+[0.8239059448242188] Pool and hot tub clean, though bizarrly no changing room.
+[0.8008174896240234] There was a business centre, gym and pool, all of which were high quality.
+
+----- Weakening -----
+
+[-0.9410972595214844] Hotel rooms and restaurant = great "Valet" = brutal and ruined the whole stay.
+[-0.9169063568115234] Plus the spa had too much chlorine in and that my eye's were stinging.
+[-0.8816957473754883] This night was a bit of a mess; we would walk out to the hallway and smell weed, hear loud music blasting, etc.
+[-0.8635597229003906] There were weird grease marks on the wall as well.
+[-0.8548488616943359] we were so tired and sore from bad sleep we went home early on monday without shopping or anything the room was kind of plain we had the room with a jacuzzi and fireplace but both nights when we were in bed sleeping the jacuzzi mysteriously turned on and woke us both up and we couldn't figure out how to turn it off.

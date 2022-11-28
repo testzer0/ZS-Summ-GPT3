@@ -1,0 +1,107 @@
+***** Aspect: rooms Model Type : zs *****
+Overall score: 0.9665422439575195
+
+**********
+
+[0.9757041931152344] The rooms are old.
+Parent: The rooms were described as being old and dirty, and in need of renovation.
+
+----- Supporting -----
+
+[0.9757041931152344] The rooms are VERY outdated, smell terribly and don't even consider a room on the ground floor.
+[0.9513626098632812] Rooms need major updating.....old.
+[0.90081787109375] The rooms and hotel are a bit tired and in need of a reno.
+[0.8980216979980469] The staff was exteremly rude, rooms out dated and smelled!
+[0.8463554382324219] The rom is older but fine.
+
+----- Weakening -----
+
+[-0.9937658309936523] The room was very clean, and the decor was current (unlike the 80's look most cheaper hotels have).
+[-0.9838600158691406] Our room had a brand new air conditioning unit which was quiter than the ones we are used to, a microwave, fridge, freezer, hairdryer, safe and TV.
+[-0.983487606048584] Room was clean and fresh smelling.
+[-0.9780120849609375] The room was clean, linens fresh and the air conditioning worked fine.
+[-0.9716300964355469] The room interior was recently decorated and in a style similar to most US motel rooms with two large queen sized beds, air conditioner mounted at the window and came with safe, refrigerator and microwave.
+
+**********
+
+[0.9765958786010742] The rooms are dirty.
+Parent: The rooms were described as being old and dirty, and in need of renovation.
+
+----- Supporting -----
+
+[0.9765958786010742] The rooms were stuffy and disgusting.
+[0.9167270660400391] Our toilet never flushed properly and the washrooms were dirty.
+[0.8956756591796875] This place needs a total refurb, the electrical plug sockets aren't fixed to the wall so plug in at your own risk, lasted only 3 nights(out of &) and had to move hotels, Our room 217 was dirty there was cobwebs on the ceiling and an iron mark in the floor, at first glance it didn't look too bad but look around and it's DIRTY.
+[0.8622608184814453] The rooms smell damp, musty, dark dingey look shabby and dirty.
+[0.8521385192871094] First off, the bathroom lights didn’t work, the carpet was filthy(soles of your feet will turn black..guaranteed) the AC unit didn’t work well, and to top that off, hotel is infested with cockroaches.
+
+----- Weakening -----
+
+[-0.9972653388977051] The bedroom and bathroom were nice and clean.
+[-0.997107982635498] The rooms were clean, tidy and the air con made a great difference.
+[-0.9971060752868652] Rooms were clean, grounds were clean, staff was friendly.
+[-0.9968786239624023] Room was clean and fresh smelling.
+[-0.9965901374816895] The rooms were cleaned everyday and were nice and spacious.
+
+**********
+
+[0.955317497253418] The rooms need to be renovated.
+Parent: The rooms were described as being old and dirty, and in need of renovation.
+
+----- Supporting -----
+
+[0.955317497253418] The rooms and hotel are a bit tired and in need of a reno.
+[0.9332237243652344] Rooms need major updating.....old.
+[0.8526687622070312] Room was old and could do with a little refurb attention but kept clean with new linnen and towels daily.
+[0.8440952301025391] This place needs a total refurb, the electrical plug sockets aren't fixed to the wall so plug in at your own risk, lasted only 3 nights(out of &) and had to move hotels, Our room 217 was dirty there was cobwebs on the ceiling and an iron mark in the floor, at first glance it didn't look too bad but look around and it's DIRTY.
+[0.421051025390625] Pool area cleaned daily again basic could do with some new furniture have to cross small parking lot to access, towels available daily from reception minimal charge.
+
+----- Weakening -----
+
+[-0.8570327758789062] I have read some bad reviews of this hotel and do not agree we stayed here in october this year and would go back every year it was clean and had everything we wanted on site the staff were always helpful and room was always clean early in the day so if we went back for lunch it was alrewady done the hotel is in the perfect spot near disney and good easy place to get to the malls and shops i didnt find one bad thing about this hotel it was perfect
+[-0.8451194763183594] Room was clean and fresh smelling.
+[-0.8436880111694336] The facility looks fine, has an elevator and a decent size pool.
+[-0.8427009582519531] The room was spotless, very very clean.
+[-0.8382625579833984] This is passably the best deal in the WDW area I have been to WDW over 50 times staying everywhere from the Grand Floridian to the Gator Motel this is the best deal I have found the rooms were clean (they even steam cleaned the carpets mid week) we had a view of Expedition Everest from our room the housekeeping staff was thorough and friendly as well as the front desk attendants the continental breakfast was no more than doughnuts some muffins and toast juice, milk and coffee I was traveling with a 1 and a 3 year old and didn't have to worry about them crawling on the floor
+
+**********
+
+[0.9752378463745117] There were bedbugs.
+Parent: There were also reports of bedbugs and cockroaches.
+
+----- Supporting -----
+
+[0.9752378463745117] When we demanded another room it had bedbugs in the pillows.
+[0.9634466171264648] This hotel has a serious bed bug problem and they are not willing to take care of the issue.
+[0.9418392181396484] While we were at the front desk complaining about the bed bug problem another guest came in very angry becasue the house keeping lady stole his Rolex watch while he and his family went out to the pool!
+[0.5257797241210938] I'm a tv new reporter and did a piece on how to find bed bugs.
+[0.32122802734375] First off, the bathroom lights didn’t work, the carpet was filthy(soles of your feet will turn black..guaranteed) the AC unit didn’t work well, and to top that off, hotel is infested with cockroaches.
+
+----- Weakening -----
+
+[-0.9485912322998047] There are dolphins swimming only few yards from the people but be careful because there are also sharks.
+[-0.8880500793457031] We never used the pool as there were only a few sun parasols and it was just too hot to be in the full sun.
+[-0.8526515960693359] The rooms were cleaned every day and we had no problems whatsoever.
+[-0.8418159484863281] Many, many restaurants in the area.
+[-0.839324951171875] Anyway, no bugs, room was clean, plenty of towels, air worked fine.
+
+**********
+
+[0.9498558044433594] There were cockroaches.
+Parent: There were also reports of bedbugs and cockroaches.
+
+----- Supporting -----
+
+[0.9498558044433594] First off, the bathroom lights didn’t work, the carpet was filthy(soles of your feet will turn black..guaranteed) the AC unit didn’t work well, and to top that off, hotel is infested with cockroaches.
+[0.0029144287109375] We left the next day after a nightmare night and overcrowded non eatable breakfast that you had to stay in line for half an hour.
+[-0.006683349609375] The rooms were stuffy and disgusting.
+[-0.007343292236328125] Very basic, the bathroom was tiny and dirty.. i didnt even want to step in the shower it was that bad, it smelt and was just yuck!
+[-0.0083465576171875] It's not clean or inviting, and the 5 minutes we spent giving it a try lead us straight back to our room for a shower!
+
+----- Weakening -----
+
+[-0.9534492492675781] Many, many restaurants in the area.
+[-0.93499755859375] Lots of souvenier and other shops really close by.
+[-0.9319343566894531] We never used the pool as there were only a few sun parasols and it was just too hot to be in the full sun.
+[-0.9301834106445312] There are dolphins swimming only few yards from the people but be careful because there are also sharks.
+[-0.9295234680175781] The free breakfast was cereals, toast, doughnuts, muffins, tea,coffee and fruit juices.

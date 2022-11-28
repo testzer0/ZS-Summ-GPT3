@@ -1,0 +1,149 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.5921103613717216
+
+**********
+
+[0.9439296722412109] The lobby is nice.
+Parent: The building has a nice lobby with fresh cookies in the evening, an impressive pool and whirlpool area, and is within walking distance of Kensington Market.
+
+----- Supporting -----
+
+[0.9439296722412109] The lobby is quite lovely, the parking is expensive.
+[0.9271717071533203] Nice lobby with fresh cookies in the evening.
+[0.8141593933105469] Lobby is great for meeting friends and you can sit and chat there even if you don't want a drink.
+[0.470123291015625] The lobby is a little spare, and the furnishings are going down that Hilton Garden Inn direction of "your room is your office", which I appreciate when I travel for, well, business, and which appeals less for when I'm there because it's down the street from the theatre.
+[0.11114501953125] The lobby has delicious cookies every afternoon.
+
+----- Weakening -----
+
+[-0.31603240966796875] Never again will I waste money at this property.
+[-0.31256103515625] The great space for the pool and whirlpool is , without question, very impressive.
+[-0.29949951171875] There were weird grease marks on the wall as well.
+[-0.208526611328125] I was there the morning of the false fire alarm and although it was annoying I would rather it be false than for real!
+[-0.155487060546875] How easy could it have been for someone else to leave with our truck if they could bring us the wrong car?
+
+**********
+
+[0.9866561889648438] The building has cookies in the evening.
+Parent: The building has a nice lobby with fresh cookies in the evening, an impressive pool and whirlpool area, and is within walking distance of Kensington Market.
+
+----- Supporting -----
+
+[0.9866561889648438] Nice lobby with fresh cookies in the evening.
+[-0.0039119720458984375] Definately recommend the property.
+[-0.0072307586669921875] The place is brand new so everything works just fine.
+[-0.007351875305175781] We also walked to Kensington Market in 15 minutes or so.
+[-0.0074253082275390625] The lobby is also small.
+
+----- Weakening -----
+
+[-0.73297119140625] The lobby has delicious cookies every afternoon.
+[-0.3289527893066406] There were weird grease marks on the wall as well.
+[-0.2562713623046875] How easy could it have been for someone else to leave with our truck if they could bring us the wrong car?
+[-0.19179153442382812] The fire alarm went off in the ENTIRE hotel very early in the morning because someone burned toast.
+[-0.1707763671875] We had to rent a car and travel back to US to have key made.
+
+**********
+
+[0.9896421432495117] The pool and whirlpool area are impressive.
+Parent: The building has a nice lobby with fresh cookies in the evening, an impressive pool and whirlpool area, and is within walking distance of Kensington Market.
+
+----- Supporting -----
+
+[0.9896421432495117] The great space for the pool and whirlpool is , without question, very impressive.
+[0.006196022033691406] The facilities are also better than I have encountered in any hotel.
+[0.0015592575073242188] Definately recommend the property.
+[-0.000598907470703125] The place is brand new so everything works just fine.
+[-0.008256912231445312] The hotel had a indoor pool and gym facilities but didn't use them.
+
+----- Weakening -----
+
+[-0.3054666519165039] Never again will I waste money at this property.
+[-0.2303619384765625] And to CN tower.
+[-0.1802978515625] How easy could it have been for someone else to leave with our truck if they could bring us the wrong car?
+[-0.16768646240234375] There were weird grease marks on the wall as well.
+[-0.12546539306640625] I was there the morning of the false fire alarm and although it was annoying I would rather it be false than for real!
+
+**********
+
+[0.12128829956054688] The building is close to Kensington Market.
+Parent: The building has a nice lobby with fresh cookies in the evening, an impressive pool and whirlpool area, and is within walking distance of Kensington Market.
+
+----- Supporting -----
+
+[0.12128829956054688] We also walked to Kensington Market in 15 minutes or so.
+[0.0014400482177734375] Definately recommend the property.
+[0.0013294219970703125] The facilities are also better than I have encountered in any hotel.
+[-9.5367431640625e-05] The place is brand new so everything works just fine.
+[-0.0002765655517578125] The lobby is quite lovely, the parking is expensive.
+
+----- Weakening -----
+
+[-0.46936798095703125] The lobby is a little spare, and the furnishings are going down that Hilton Garden Inn direction of "your room is your office", which I appreciate when I travel for, well, business, and which appeals less for when I'm there because it's down the street from the theatre.
+[-0.14493560791015625] And to CN tower.
+[-0.0777587890625] How easy could it have been for someone else to leave with our truck if they could bring us the wrong car?
+[-0.03868293762207031] Never again will I waste money at this property.
+[-0.03631591796875] We had to rent a car and travel back to US to have key made.
+
+**********
+
+[0.1734466552734375] The walls are too thin.
+Parent: However, some guests have complained about thin walls, a small and crowded lobby, and a false fire alarm.
+
+----- Supporting -----
+
+[0.1734466552734375] (once we figured out how to work all the shower heads) The walls were very thin though-we could really hear our neighbours mini party at 2AM in the morning.
+[-0.006343841552734375] Never again will I waste money at this property.
+[-0.00732421875] The lobby is also small.
+[-0.015192031860351562] My husband had to drive back following week to Toronto from US after having been on the road for work for four days, to get our car back, that had been sitting underground under the hotel.
+[-0.03456687927246094] The hotel had a indoor pool and gym facilities but didn't use them.
+
+----- Weakening -----
+
+[-0.8049335479736328] The lobby has delicious cookies every afternoon.
+[-0.7509632110595703] Nice lobby with fresh cookies in the evening.
+[-0.6219825744628906] The place is brand new so everything works just fine.
+[-0.580775260925293] The facilities are also better than I have encountered in any hotel.
+[-0.4983959197998047] The great space for the pool and whirlpool is , without question, very impressive.
+
+**********
+
+[0.04632568359375] The lobby is too small.
+Parent: However, some guests have complained about thin walls, a small and crowded lobby, and a false fire alarm.
+
+----- Supporting -----
+
+[0.04632568359375] The lobby is a little spare, and the furnishings are going down that Hilton Garden Inn direction of "your room is your office", which I appreciate when I travel for, well, business, and which appeals less for when I'm there because it's down the street from the theatre.
+[0.036014556884765625] The lobby is also small.
+[-0.0027675628662109375] Never again will I waste money at this property.
+[-0.024944305419921875] There were weird grease marks on the wall as well.
+[-0.030534744262695312] The only bad things that i can mention are that during my stay another guest decided to set the fire alarm of at 04:30, not a wake up call I want to repeat.
+
+----- Weakening -----
+
+[-0.7946300506591797] The great space for the pool and whirlpool is , without question, very impressive.
+[-0.5381221771240234] The lobby was packed with people waiting for their cars.
+[-0.4508514404296875] Lobby was a little small and at times quite crowded, but once you pass through that it was a non-issue.
+[-0.4377164840698242] Lobby is great for meeting friends and you can sit and chat there even if you don't want a drink.
+[-0.40114688873291016] Nice lobby with fresh cookies in the evening.
+
+**********
+
+[0.88348388671875] The fire alarm was false.
+Parent: However, some guests have complained about thin walls, a small and crowded lobby, and a false fire alarm.
+
+----- Supporting -----
+
+[0.88348388671875] I was there the morning of the false fire alarm and although it was annoying I would rather it be false than for real!
+[-0.02187347412109375] We had to call the front desk to figure out what exactly was going on.
+[-0.095306396484375] The only bad things that i can mention are that during my stay another guest decided to set the fire alarm of at 04:30, not a wake up call I want to repeat.
+[-0.13051605224609375] Never again will I waste money at this property.
+[-0.13940811157226562] The fire alarm went off in the ENTIRE hotel very early in the morning because someone burned toast.
+
+----- Weakening -----
+
+[-0.7236175537109375] The great space for the pool and whirlpool is , without question, very impressive.
+[-0.6748199462890625] The descriptions of the neighborhood other reviewers made in the past are correct: there are some questionable-looking people, but that is just one of the elements of any big city.
+[-0.6337890625] As we arrived, I was wondering why the front desk girl was all rushed while we were the only ones checking in.
+[-0.6085968017578125] Nice lobby with fresh cookies in the evening.
+[-0.5592498779296875] Lobby is great for meeting friends and you can sit and chat there even if you don't want a drink.

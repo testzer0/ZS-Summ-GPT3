@@ -1,0 +1,107 @@
+***** Aspect: service Model Type : zs *****
+Overall score: 0.976130485534668
+
+**********
+
+[0.9762783050537109] The service was good.
+Parent: The reviews said that the service was very good.
+
+----- Supporting -----
+
+[0.9762783050537109] The service was great.
+[0.9679088592529297] The service was great!
+[0.9481353759765625] The employees were outstanding and the service was great.
+[0.9446401596069336] The service was excelent, and the staff was very friendly.
+[0.9267511367797852] Excellent guest service.
+
+----- Weakening -----
+
+[-0.9922409057617188] We got bad reception and approx 15 channels - most of which were news or informational.
+[-0.9905509948730469] The cable tv was horrible.
+[-0.9775428771972656] The hotel messed up the Cocktail Hour suite for both nights, and when I called to complain they did NOTHING to make it right, it was so clear that they could actually care less that I was unhappy.
+[-0.9732856750488281] Nasty staff.
+[-0.9671497344970703] They were very rude!
+
+**********
+
+[0.9376726150512695] The pool was nice.
+Parent: They said that the pool was very nice and that the breakfast was excellent.
+
+----- Supporting -----
+
+[0.9376726150512695] The pool area was clean and comfortable with a nice hot tub as well.
+[0.9358291625976562] The hot tubs and pool areas were very nice.
+[0.8552036285400391] Swimming area was clean and fun and everything you want to see is near this hotel.
+[0.8293647766113281] The pools were very clean and the breakfast was great.
+[0.813720703125] wonderful in door pool and hot tub/spa.
+
+----- Weakening -----
+
+[-0.9833316802978516] The pool area was in terrible shape.
+[-0.9698638916015625] We went to the first pool room the hot tub was not hot at all it was very cold and it was blowing out cold water, the pool was alittle bit cold.
+[-0.9641456604003906] We loved the Stone Castle.
+[-0.9618473052978516] The room was filthy and disgusting!
+[-0.951751708984375] The pool was VERY cold!
+
+**********
+
+[0.9902148246765137] The breakfast was excellent.
+Parent: They said that the pool was very nice and that the breakfast was excellent.
+
+----- Supporting -----
+
+[0.9902148246765137] The breakfast was excellent.
+[0.9872837066650391] The breakfast was wonderful.
+[0.9833207130432129] The breakfast was very good.
+[0.9714112281799316] The breakfast is great!
+[0.9699931144714355] The breakfast in the mornings was very good.
+
+----- Weakening -----
+
+[-0.9971718788146973] The breakfast was very bland and the music show wasn't that great either.
+[-0.9971418380737305] The first time the hot tub was a little dirty and the breakfast not so great.
+[-0.9954843521118164] Breakfast was ok but poorly stocked, there were only ~10 rooms rented while we were there so no excuse for overcrowded.
+[-0.9948921203613281] The staff was great but the breakfast was not so great but is was good enough.
+[-0.9912967681884766] Pluses: Good service, inexpensive, friendly, everything works, nice bath fixtures Negatives: the continental breakfast is kind of sad, but the hot breakfast isn't any better.
+
+**********
+
+[0.9927096366882324] The room was clean.
+Parent: They also said that the room was very clean and comfortable.
+
+----- Supporting -----
+
+[0.9927096366882324] The room was clean too.
+[0.991253137588501] Our room was clean.
+[0.9906888008117676] The room was very clean and decorated very nicely.
+[0.9869451522827148] The room was neet, clean, and more than adequate for our needs.
+[0.9867401123046875] The rooms were very clean and the beds were very comfortable.
+
+----- Weakening -----
+
+[-0.997739315032959] The sheet on one of the beds had copper colored stains near the top and the pillows were stained really bad.
+[-0.9972925186157227] The room was filthy and disgusting!
+[-0.9970512390136719] There were dead bugs floating in the water, a hole in the wall under the window, a piece of wood holding a slide glass door open, chains on other doors that said "this entrance is in need of repairs, sorry for any inconvenience" or something to that affect.
+[-0.9969558715820312] Bedspreads were messed up when we arrived.
+[-0.9961385726928711] The beds were very very nasty.
+
+**********
+
+[0.9837770462036133] The room was comfortable.
+Parent: They also said that the room was very clean and comfortable.
+
+----- Supporting -----
+
+[0.9837770462036133] The room was very large and comfortable, clean, quiet, great location.
+[0.9825949668884277] The room was quite comfortable and affordable.
+[0.9730391502380371] The rooms were very clean and the beds were very comfortable.
+[0.9730367660522461] It was a comfortable room but was not very clean.
+[0.9680681228637695] The rooms were clean, the beds were comfortable, the staff was professional and friendly and the conference rooms were perfect for our group.
+
+----- Weakening -----
+
+[-0.9959802627563477] The room was filthy and disgusting!
+[-0.98773193359375] The beds were very very nasty.
+[-0.9751167297363281] The room was like being in a cave with a bad smell.
+[-0.963287353515625] The bathroom is so small & dirty you couldn't stand to touch anything in it.
+[-0.9583549499511719] Opening the door, our room was musty and it smelled horrible.

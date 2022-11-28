@@ -1,0 +1,23 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.584991455078125
+
+**********
+
+[0.584991455078125] The breakfast buffet was free.
+Parent: the breakfast buffet was included.
+
+----- Supporting -----
+
+[0.584991455078125] I have had much better free continental breakfasts at Holiday Inns.
+[0.542724609375] I didnt like the looks of the free continental breakfast so I ordered room service and it was tasty and arrived quickly.
+[0.45998382568359375] We made a complainant and were told we could have a free breakfast.
+[0.4508056640625] They only give 2 free continental breakfast coupons no matter how many people you book in the room.
+[0.38922119140625] The breakfast buffet wasn't included in the price but we enjoyed continental breakfast.
+
+----- Weakening -----
+
+[-0.9961156845092773] The breakfast buffet is expensive but worth it.
+[-0.9923610687255859] Rate are cheap, but breakfast was not included and hotel charges $20 for breakfast buffet.
+[-0.9880504608154297] Cold fat soaked bacon, processed meats, and very expensive.
+[-0.9874801635742188] The restaurant inside the hotel had delicious plates and the breakfast buffet was reasonably priced and delicious.
+[-0.9793624877929688] Also we tried the breakfast buffet, it was tastfull and complete (20 dollar p.p.)

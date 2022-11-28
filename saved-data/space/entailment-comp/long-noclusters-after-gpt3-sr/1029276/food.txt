@@ -1,0 +1,65 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.8572610219319662
+
+**********
+
+[0.9267482757568359] The food was fine.
+Parent: The reviews said that the food was fine if you were a business traveler, but that it was very pricey if you were staying there for holidays.
+
+----- Supporting -----
+
+[0.9267482757568359] The food at the restaurant was excellent and the service was great.
+[0.8978672027587891] Food during the meeting was very good.
+[0.786346435546875] The banquet food was fabulous and themed menus were creative and well presented.
+[0.75067138671875] The food is decent, nothing great, but Bayside is just a short drive or 20 min.
+[0.5929718017578125] Food: seriously excellent snapper, bomb key lime pie.
+
+----- Weakening -----
+
+[-0.9945335388183594] Horrible club sandwich!
+[-0.9944648742675781] Last, the food is mediocre at best and overpriced as all hotel food is.
+[-0.9933528900146484] There is no food or entertainment around.
+[-0.9866619110107422] There was one occasion in which we ordered from the menu, sadly it was a little disappointing because it was overcooked but we were taken care of almost immediately when we complained.
+[-0.9097824096679688] It was almost uneatable, but we were hungry.
+
+**********
+
+[0.9565467834472656] The food was pricey.
+Parent: The reviews said that the food was fine if you were a business traveler, but that it was very pricey if you were staying there for holidays.
+
+----- Supporting -----
+
+[0.9565467834472656] The drinks and food are pricey in the hotel, but then again in Miami everything seems to be expensive.
+[0.9565467834472656] The drinks and food are pricey in the hotel, but then again in Miami everything seems to be expensive.
+[0.9418869018554688] Last, the food is mediocre at best and overpriced as all hotel food is.
+[0.9009799957275391] Cold fat soaked bacon, processed meats, and very expensive.
+[0.1164398193359375] Overall, I would stay there again because the other hotels were a little more expensive (Doubletree, Marriot) and you would have to pay even more to include breakfast.
+
+----- Weakening -----
+
+[-0.9459600448608398] There is no food or entertainment around.
+[-0.5448074340820312] My girlfriend and I got it for a great price.
+[-0.45160675048828125] Too many hobos and drug addicts!!!
+[-0.3385944366455078] I was upgraded to a lovely suite facing the port for only $25 a night and they also gave me free internet.
+[-0.2001953125] Again conference food just ok though, damn those $16 DOJ muffins Rooms a are good, big tvs, comfy beds, nice setup.
+
+**********
+
+[0.6884880065917969] The staff was excellent.
+Parent: They also said that the staff was excellent.
+
+----- Supporting -----
+
+[0.6884880065917969] The hotel is very clean, the staff professional - and the food - simply amazing.
+[0.6771812438964844] I had a great burger and beer at the lobby bar upon arrival and felt like the staff was very friendly in all departments.
+[0.6771812438964844] I had a great burger and beer at the lobby bar upon arrival and felt like the staff was very friendly in all departments.
+[0.2148456573486328] The food at the restaurant was excellent and the service was great.
+[0.190704345703125] We didn't stay there long, it was basically a place to sleep for the night so considering that I thought the $210 for the room & $28 for the parking was VERY high but I really had no complaints about the hotel or the staff.
+
+----- Weakening -----
+
+[-0.9298038482666016] Horrible club sandwich!
+[-0.9204788208007812] Too many hobos and drug addicts!!!
+[-0.9147567749023438] It tool almost 30 min to make some food an no one else was there other than the homeless people that kept asking to get their cup refilled for them.
+[-0.8278350830078125] There is no food or entertainment around.
+[-0.7924032211303711] The first night our food orders took forever and tonight I never got my slice of pie and our second round of drinks never arrived.

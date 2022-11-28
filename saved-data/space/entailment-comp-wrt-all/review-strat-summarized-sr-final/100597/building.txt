@@ -1,0 +1,107 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.9581302642822266
+
+**********
+
+[0.93701171875] The building has an external glass elevator.
+Parent: The building has an external glass elevator, is open 24 hours, has a maze-like design, and is large with several buildings.
+
+----- Supporting -----
+
+[0.93701171875] Our room was in the main tower, and was reached by an external elevator with glass walls.
+[0.9309005737304688] Access to the tower is by external glass elevators.
+[0.0853271484375] You go up stairs, down the elevator and thorugh doors.
+[0.02728271484375] Don't have to worry about drinking and driving, just a elevator ride to your room!
+[0.0018463134765625] Room was an "upgrade" but so far from the elevator.
+
+----- Weakening -----
+
+[-0.8334426879882812] The A/C put out hot air.
+[-0.8235397338867188] And then the real zinger was the unexpected additional parking charge!
+[-0.7984619140625] Had a huge mirror in the bathroom that was well light around the edges.
+[-0.747955322265625] --The doors to the rooms have a huge gap at the bottom - allows a lot of light and sound in from the hallway.
+[-0.7274551391601562] other bugs every where.
+
+**********
+
+[0.9713039398193359] The building is available 24 hours a day.
+Parent: The building has an external glass elevator, is open 24 hours, has a maze-like design, and is large with several buildings.
+
+----- Supporting -----
+
+[0.9713039398193359] Free internet access in the lobby only and open 24 hrs.
+[0.885223388671875] The hotel has a complimentary airport shuttle that runs every 15 minutes, 24 hours a day.
+[0.8194580078125] Shuttle to the airport every 20 mins 24 hours.
+[0.802764892578125] It has a convenient location and a shuttle service that runs every 15 minutes for 24 hours.
+[0.76312255859375] The shuttle runs 24 hours per day, and it makes about three trips per hour (no phone call or reservation is needed).
+
+----- Weakening -----
+
+[-0.9948339462280273] One wing building was closed for renovation.
+[-0.9905929565429688] Unfortunately there was no wifi and the parking was $16 per night - expensive for the area.
+[-0.9898176193237305] The shuttle only runs on the hour, not every half an hour like you would assume from an airport hotel.
+[-0.9893426895141602] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[-0.9850645065307617] We had planned to eat at the hotel restaurant but it was not open.
+
+**********
+
+[0.9661903381347656] The building is designed like a maze.
+Parent: The building has an external glass elevator, is open 24 hours, has a maze-like design, and is large with several buildings.
+
+----- Supporting -----
+
+[0.9661903381347656] The design of the hotel is a little maze-like but still beautiful and the pool definitely makes you feel like you're somewhere else rather than beside the Sea-Tac Airport.
+[0.75177001953125] It's obviously clean, although the further you get into the maze of halls the more the funky smell of "old" permeates the air.
+[0.3914947509765625] It is laid out in wings that make carrying your bags a nightmare, up elevators and down again.
+[0.223480224609375] My co-workers and I joke about the Doubletree Maze at SEATAC.
+[0.21540069580078125] This property is a mess.
+
+----- Weakening -----
+
+[-0.9786434173583984] Easy to reach, very clean and well-appointed rooms.
+[-0.9720468521118164] This hotel is clean, neat and offers good value for the money.
+[-0.9637050628662109] Our balcony looked over the pool enhanced with mature Pacific Northwest landscape.
+[-0.9550647735595703] access like health club.
+[-0.9531869888305664] Nice size bath.
+
+**********
+
+[0.9533634185791016] The building is large.
+Parent: The building has an external glass elevator, is open 24 hours, has a maze-like design, and is large with several buildings.
+
+----- Supporting -----
+
+[0.9533634185791016] Yes, the hotel is large and somewhat dated - but the cleanliness and service is very goo d. My only blip was with a faulty magnetic door reader that prevented us from gaining access to our room.
+[0.941314697265625] The hotel is huge and they give you warm cookies once you check-in.
+[0.9075393676757812] The hotel is pretty big but the location next to the airport is great.
+[0.9064350128173828] This is a very large and confusingly laid out hotel.
+[0.9008922576904297] The hotel is big and busy, so it always feels like there is some commotion going on in the common areas.
+
+----- Weakening -----
+
+[-0.9801406860351562] Rooms are not particularly posh or large.
+[-0.7446632385253906] There were also 2 cigarette butts on the small patio.
+[-0.7292404174804688] Decent size with flat panel TV, and normal size bathroom.
+[-0.70159912109375] The fitness room is small but the bedrooms are standard.
+[-0.534454345703125] It has "small hotel" service, meaning that you don't feel lost and they treat you well.
+
+**********
+
+[0.9627819061279297] The building has several buildings.
+Parent: The building has an external glass elevator, is open 24 hours, has a maze-like design, and is large with several buildings.
+
+----- Supporting -----
+
+[0.9627819061279297] This is a large property with (I believe) five buildings.
+[0.9266357421875] It has a main tower, which is the best place to stay as you are close to everything, as well as several wings.
+[0.9120693206787109] --The doubletree is not just a hotel, its like a little village of condo buildings too, which makes it very crowded and hard to get around the property.
+[0.9031391143798828] This is a multi story well thought out hotel.
+[0.8645553588867188] There is an abundance of gardens in between the different buildings and all were very well maintained and tended.
+
+----- Weakening -----
+
+[-0.407562255859375] Only one hiccup when we were collecting our car through their valet ,the valet asked pretty abruptly as we $5 tipped him if we had settled our parking fee.
+[-0.15789794921875] Don't expect a whole lot here.
+[-0.148193359375] It is on a busy street and I didn't see a restaurant within walking distance so I ate in the lobby.
+[-0.1232452392578125] Free internet access in the lobby only and open 24 hrs.
+[-0.1167755126953125] There was no lake visible.

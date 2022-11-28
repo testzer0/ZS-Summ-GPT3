@@ -1,0 +1,380 @@
+***** Aspect: rooms Model Type : zs *****
+Overall score: 0.9272865984174941
+
+**********
+
+[0.9859042167663574] The air conditioning unit in our room was brand new.
+Parent: Our room had a brand new air conditioning unit which was quiter than the ones we are used to , a microwave , fridge , freezer , hairdryer , safe and TV .
+
+----- Supporting -----
+
+[0.9859042167663574] Our room had a brand new air conditioning unit which was quiter than the ones we are used to, a microwave, fridge, freezer, hairdryer, safe and TV.
+[-0.001773834228515625] We stayed in room 237 I believe.
+[-0.0019092559814453125] We requested a room on the 3rd floor.
+[-0.002148151397705078] We stayed at this hotel in December 2006.
+[-0.0023674964904785156] of this hotel looked pretty good.
+
+----- Weakening -----
+
+[-0.9750213623046875] It was just kind of old/dated & grimy!
+[-0.9368743896484375] The rom is older but fine.
+[-0.8199825286865234] Okay it's a bit tired and basic, but my god it is so cheap!
+[-0.8163166046142578] The room was very basic, plain, old and worn.
+[-0.7756881713867188] Rooms need major updating.....old.
+
+**********
+
+[0.9901399612426758] The room had a microwave.
+Parent: Our room had a brand new air conditioning unit which was quiter than the ones we are used to , a microwave , fridge , freezer , hairdryer , safe and TV .
+
+----- Supporting -----
+
+[0.9901399612426758] My room was spacious and clean(ish), with TV, fridge, microwave and a/c.
+[0.9890727996826172] The room interior was recently decorated and in a style similar to most US motel rooms with two large queen sized beds, air conditioner mounted at the window and came with safe, refrigerator and microwave.
+[0.9883804321289062] When we first arrived, our first impression was, great and when we got into the room it was even better as we had a fridge, microwave & Tea & Coffee facilities (We did how ever pay extra for this pleasure of about £1 a day.)
+[0.9843711853027344] Our room had a brand new air conditioning unit which was quiter than the ones we are used to, a microwave, fridge, freezer, hairdryer, safe and TV.
+[0.9799022674560547] We had a fridge and microwave which made the stay all the better.
+
+----- Weakening -----
+
+[-0.9506473541259766] The pool was warm and clean.
+[-0.9458103179931641] We used the pool daily and found the pool to the be good and clean.
+[-0.9442958831787109] The pool was clean and warm.
+[-0.9346275329589844] The swimming pool was clean and very warm and much appreciated by my two young boys.
+[-0.9328155517578125] The pool was not user friendly... the bugs carried you away.
+
+**********
+
+[0.9903106689453125] The room had a fridge.
+Parent: Our room had a brand new air conditioning unit which was quiter than the ones we are used to , a microwave , fridge , freezer , hairdryer , safe and TV .
+
+----- Supporting -----
+
+[0.9903106689453125] My room was spacious and clean(ish), with TV, fridge, microwave and a/c.
+[0.9894423484802246] When we first arrived, our first impression was, great and when we got into the room it was even better as we had a fridge, microwave & Tea & Coffee facilities (We did how ever pay extra for this pleasure of about £1 a day.)
+[0.9892826080322266] The room was big with 2 double beds, tv, fridge & freezer, mircowave, iron & ironing board , hairdryer and a safe.
+[0.9872016906738281] Our room had a brand new air conditioning unit which was quiter than the ones we are used to, a microwave, fridge, freezer, hairdryer, safe and TV.
+[0.9847583770751953] The room interior was recently decorated and in a style similar to most US motel rooms with two large queen sized beds, air conditioner mounted at the window and came with safe, refrigerator and microwave.
+
+----- Weakening -----
+
+[-0.9903450012207031] The motels website states that fridges are in the room, but there was not one to be seen.
+[-0.9835128784179688] There is no fridge in the room, there is no coffee in the room, the safe in the room doesn't work.
+[-0.9647750854492188] The pool was clean and warm.
+[-0.9623756408691406] The pool was warm and clean.
+[-0.9543075561523438] The pool too was a bonus, so warm, like getting into a bath!!
+
+**********
+
+[0.9885597229003906] The room came with a freezer.
+Parent: Our room had a brand new air conditioning unit which was quiter than the ones we are used to , a microwave , fridge , freezer , hairdryer , safe and TV .
+
+----- Supporting -----
+
+[0.9885597229003906] The room was big with 2 double beds, tv, fridge & freezer, mircowave, iron & ironing board , hairdryer and a safe.
+[0.9809761047363281] Our room had a brand new air conditioning unit which was quiter than the ones we are used to, a microwave, fridge, freezer, hairdryer, safe and TV.
+[0.58453369140625] We were surprised that our room safe was provided at no extra charge, and the continental breakfast provided was satasfactory (although go early to avoid the rush), however if you require a fridge and microwave (which we did expect to be provided as part of the room price) expect to pay $10 a night for the privilege and request at the time of booking.
+[0.519775390625] The room interior was recently decorated and in a style similar to most US motel rooms with two large queen sized beds, air conditioner mounted at the window and came with safe, refrigerator and microwave.
+[0.0059814453125] The rooms are your basic hotel rooms - no fancy flat screen TV or dozens of channels - but it's clean and you have an elevator so you don't have to carry your luggage up the stairs.
+
+----- Weakening -----
+
+[-0.9785680770874023] The motels website states that fridges are in the room, but there was not one to be seen.
+[-0.9713401794433594] There is no fridge in the room, there is no coffee in the room, the safe in the room doesn't work.
+[-0.9385299682617188] Also the room would benifited from a fridge as we could not keep our water and drinks cold.
+[-0.9211235046386719] I had to keep the bathroom door closed at night, there were noises coming from the fan even when it wasn't on.
+[-0.9196929931640625] There was a large TV and a safe, when I checked the Wifi on my iPhone it showed full signal.
+
+**********
+
+[0.9917364120483398] The room came with a hairdryer.
+Parent: Our room had a brand new air conditioning unit which was quiter than the ones we are used to , a microwave , fridge , freezer , hairdryer , safe and TV .
+
+----- Supporting -----
+
+[0.9917364120483398] The room was big with 2 double beds, tv, fridge & freezer, mircowave, iron & ironing board , hairdryer and a safe.
+[0.9889440536499023] Our room had a brand new air conditioning unit which was quiter than the ones we are used to, a microwave, fridge, freezer, hairdryer, safe and TV.
+[0.9883232116699219] Room with 2 x double beds, shower over (tiny) bath, toilet, sink in room, hair dryer, TV, Iron and Board, sitting table and 2 x chairs.
+[0.9855995178222656] Room very basic with some odor (I think due to rooms shut all day not getting aired) twin beds, tv, safe, coffe maker, ironing board/iron, hair dryer, table and chairs, small dressing area, bath with shower.
+[-0.00016021728515625] A great place to stay.
+
+----- Weakening -----
+
+[-0.8186454772949219] There was a large TV and a safe, when I checked the Wifi on my iPhone it showed full signal.
+[-0.76177978515625] Our tub had a cover over it and I was afraid to lift it up to see what was under it.
+[-0.7434616088867188] We had a fridge and microwave which made the stay all the better.
+[-0.7231616973876953] For me this was the perfect budget hotel with no perks.
+[-0.69378662109375] This included a two burner stove, a small microwave, and a mini-fridge.
+
+**********
+
+[0.9845266342163086] The room was equipped with a safe.
+Parent: Our room had a brand new air conditioning unit which was quiter than the ones we are used to , a microwave , fridge , freezer , hairdryer , safe and TV .
+
+----- Supporting -----
+
+[0.9845266342163086] The room was big with 2 double beds, tv, fridge & freezer, mircowave, iron & ironing board , hairdryer and a safe.
+[0.9784517288208008] The room interior was recently decorated and in a style similar to most US motel rooms with two large queen sized beds, air conditioner mounted at the window and came with safe, refrigerator and microwave.
+[0.9666996002197266] Our room had a brand new air conditioning unit which was quiter than the ones we are used to, a microwave, fridge, freezer, hairdryer, safe and TV.
+[0.9636650085449219] It had one double bed with a sofa and chair.It had a microwave,fridge,a safe and TV.
+[0.9598121643066406] We were surprised that our room safe was provided at no extra charge, and the continental breakfast provided was satasfactory (although go early to avoid the rush), however if you require a fridge and microwave (which we did expect to be provided as part of the room price) expect to pay $10 a night for the privilege and request at the time of booking.
+
+----- Weakening -----
+
+[-0.86431884765625] This hotel has a serious bed bug problem and they are not willing to take care of the issue.
+[-0.8577041625976562] This included a two burner stove, a small microwave, and a mini-fridge.
+[-0.8548583984375] There are numerous restaurants around including a Dunkin Donuts.
+[-0.8414382934570312] Theres lots of restaurants very close.. a steak house, TGI fridays, outback, subway etc etc.. and a supermarket aswell which was handy.
+[-0.830902099609375] Many, many restaurants in the area.
+
+**********
+
+[0.9931297302246094] The room had a TV.
+Parent: Our room had a brand new air conditioning unit which was quiter than the ones we are used to , a microwave , fridge , freezer , hairdryer , safe and TV .
+
+----- Supporting -----
+
+[0.9931297302246094] The room was big with 2 double beds, tv, fridge & freezer, mircowave, iron & ironing board , hairdryer and a safe.
+[0.9885663986206055] Room with 2 x double beds, shower over (tiny) bath, toilet, sink in room, hair dryer, TV, Iron and Board, sitting table and 2 x chairs.
+[0.9872837066650391] Our room had a brand new air conditioning unit which was quiter than the ones we are used to, a microwave, fridge, freezer, hairdryer, safe and TV.
+[0.9869871139526367] My room was spacious and clean(ish), with TV, fridge, microwave and a/c.
+[0.9852523803710938] Room very basic with some odor (I think due to rooms shut all day not getting aired) twin beds, tv, safe, coffe maker, ironing board/iron, hair dryer, table and chairs, small dressing area, bath with shower.
+
+----- Weakening -----
+
+[-0.897796630859375] I had to keep the bathroom door closed at night, there were noises coming from the fan even when it wasn't on.
+[-0.8818359375] The rooms are your basic hotel rooms - no fancy flat screen TV or dozens of channels - but it's clean and you have an elevator so you don't have to carry your luggage up the stairs.
+[-0.8636512756347656] Huge clean heated pool.
+[-0.8431549072265625] The pool was clean and warm.
+[-0.8309516906738281] The pool was warm and clean.
+
+**********
+
+[0.8915090560913086] The Rainforest Cafe is a great place to visit.
+Parent: I would highly recommend a trip to the Rainforest Cafe in Downtown Disney , Hardrock Cafe in Universal , Bennigans on I drive and Johnny Rockets at the Pointe they are all brilliant !!
+
+----- Supporting -----
+
+[0.8915090560913086] I would highly recommend a trip to the Rainforest Cafe in Downtown Disney, Hardrock Cafe in Universal, Bennigans on I drive and Johnny Rockets at the Pointe they are all brilliant!!
+[0.0057373046875] There are dolphins swimming only few yards from the people but be careful because there are also sharks.
+[0.0015106201171875] This was our second stay here, we were here previously in the summer of 2006 (it was Quality Inn Maingate West back then).
+[0.0009765625] On site there's a (small) pool, washing and drying facilities ($2 each, I believe), very cool.
+[-0.00040435791015625] WELL WORTH the money and I will be staying there again as soon as I can get the time off work.
+
+----- Weakening -----
+
+[-0.9358711242675781] The rooms were stuffy and disgusting.
+[-0.9041318893432617] I would not recommend this hotel really - it is very basic, so is the breakfast
+[-0.8953781127929688] The rooms are VERY outdated, smell terribly and don't even consider a room on the ground floor.
+[-0.8731327056884766] It was just kind of old/dated & grimy!
+[-0.8616561889648438] The room was very basic, plain, old and worn.
+
+**********
+
+[0.7887306213378906] The Hardrock Cafe is a great destination.
+Parent: I would highly recommend a trip to the Rainforest Cafe in Downtown Disney , Hardrock Cafe in Universal , Bennigans on I drive and Johnny Rockets at the Pointe they are all brilliant !!
+
+----- Supporting -----
+
+[0.7887306213378906] I would highly recommend a trip to the Rainforest Cafe in Downtown Disney, Hardrock Cafe in Universal, Bennigans on I drive and Johnny Rockets at the Pointe they are all brilliant!!
+[0.035888671875] Breakfast was better than i have had in any other American hotel and the staff were always helpful and cheerful.
+[0.02695465087890625] You will not pay a massive sum to stay here but what you get is great value for money.
+[0.0261383056640625] Without a doubt I'd return to this hotel, it's superb value for money.
+[0.02163982391357422] WELL WORTH the money and I will be staying there again as soon as I can get the time off work.
+
+----- Weakening -----
+
+[-0.9544496536254883] I would not recommend this hotel really - it is very basic, so is the breakfast
+[-0.9258823394775391] The room was nothing outstanding.
+[-0.9183425903320312] The rooms were stuffy and disgusting.
+[-0.9146261215209961] I would never ever go back there again.
+[-0.9120054244995117] AVOID THIS HOTEL!!!!
+
+**********
+
+[0.8379669189453125] Bennigans is a great place to visit.
+Parent: I would highly recommend a trip to the Rainforest Cafe in Downtown Disney , Hardrock Cafe in Universal , Bennigans on I drive and Johnny Rockets at the Pointe they are all brilliant !!
+
+----- Supporting -----
+
+[0.8379669189453125] I would highly recommend a trip to the Rainforest Cafe in Downtown Disney, Hardrock Cafe in Universal, Bennigans on I drive and Johnny Rockets at the Pointe they are all brilliant!!
+[0.2501220703125] If you want a cheap, comfortable and clean motel as a base to visit Disney and Universal this is first class.
+[0.15811920166015625] have stayed here many times now, an never have we complained once about anything because the rooms were great this year we even had a 4 ring hob, microwave, fridge, the room was kept so clean , clean sheets when ever we wanted towels clean every day the supervisor spoke to us every day asked if we needed anything had a smile every day we were there, how can you moan about this hotel its perfect, close to all the food outlets walgreens opposite you can walk to all the shops, what is there to moan about, if you want 5 star then go and stay in 5 star pay 5 star money bet you will moan then?
+[0.137420654296875] This hotel is great for a good value stay in Orlando when visting the theme parks.
+[0.136871337890625] This is a 2 STAR MOTEL Some Guests Expect All The Extras of a 4 STAR HOTEL If so Then do not STAY HERE This is perfect for the HARD DAY At the PARKS.WHAT MORE DO YOU WANT.
+
+----- Weakening -----
+
+[-0.9831266403198242] AVOID THIS HOTEL!!!!
+[-0.9697589874267578] Bottom line - do yourself a favor: NEVER STAY at this flea bag of a hotel.
+[-0.9623832702636719] THE VERDICT...Very basic..This hotel needs to be knocked down and rebuilt...if your looking for a low cost quality hotel dont stay here.
+[-0.9560599327087402] I would not recommend this hotel really - it is very basic, so is the breakfast
+[-0.9261360168457031] This hotel was fine for a short while but I would not have wanted to spend my entire 10 day holiday here.
+
+**********
+
+[0.91217041015625] You should go to Johnny Rockets.
+Parent: I would highly recommend a trip to the Rainforest Cafe in Downtown Disney , Hardrock Cafe in Universal , Bennigans on I drive and Johnny Rockets at the Pointe they are all brilliant !!
+
+----- Supporting -----
+
+[0.91217041015625] I would highly recommend a trip to the Rainforest Cafe in Downtown Disney, Hardrock Cafe in Universal, Bennigans on I drive and Johnny Rockets at the Pointe they are all brilliant!!
+[-0.003265380859375] WELL WORTH the money and I will be staying there again as soon as I can get the time off work.
+[-0.04875946044921875] We loved it, nothing fancy but nice.
+[-0.054412841796875] The hotel itself was great!!
+[-0.059326171875] Try it - it's basic (perhaps a 1 or 2 star at most) but it's great value for money.
+
+----- Weakening -----
+
+[-0.9842777252197266] I would highly suggest spending more money to stay at a Disney property or a more expensive hotel.
+[-0.9839286804199219] OK, so to the rooms.
+[-0.9754161834716797] It is now called the Continental Plaza Hotel.
+[-0.9701576232910156] (Tell driver to take the Sherbeth Road short cut) Breakfast is fine for a few pieces of toast and orange juice- if you want an all-you-can-eat buffet there's a Sizzler and Ponderosa across the road about 10mins away on foot.
+[-0.9672374725341797] I know this hotel is a great location and close to Disney but please....book one of the nicer hotels next door (The Best Western).
+
+**********
+
+[0.8980560302734375] The Rainforest Cafe is great.
+Parent: I would highly recommend a trip to the Rainforest Cafe in Downtown Disney , Hardrock Cafe in Universal , Bennigans on I drive and Johnny Rockets at the Pointe they are all brilliant !!
+
+----- Supporting -----
+
+[0.8980560302734375] I would highly recommend a trip to the Rainforest Cafe in Downtown Disney, Hardrock Cafe in Universal, Bennigans on I drive and Johnny Rockets at the Pointe they are all brilliant!!
+[0.01947021484375] When we first arrived, our first impression was, great and when we got into the room it was even better as we had a fridge, microwave & Tea & Coffee facilities (We did how ever pay extra for this pleasure of about £1 a day.)
+[0.0046176910400390625] I would definitely stay here again.
+[0.00130462646484375] WELL WORTH the money and I will be staying there again as soon as I can get the time off work.
+[0.0001068115234375] This was our second stay here, we were here previously in the summer of 2006 (it was Quality Inn Maingate West back then).
+
+----- Weakening -----
+
+[-0.9773874282836914] The rooms were stuffy and disgusting.
+[-0.9665603637695312] The room was very basic, plain, old and worn.
+[-0.9639682769775391] It was just kind of old/dated & grimy!
+[-0.9632396697998047] Their "continental breakfast" was stale white bread and cornflakes.
+[-0.9631443023681641] There is a light breakfast served every morning - cornflakes, toast and coffee - which is again ok but nothing special.
+
+**********
+
+[0.8390350341796875] The Hardrock Cafe is great.
+Parent: I would highly recommend a trip to the Rainforest Cafe in Downtown Disney , Hardrock Cafe in Universal , Bennigans on I drive and Johnny Rockets at the Pointe they are all brilliant !!
+
+----- Supporting -----
+
+[0.8390350341796875] I would highly recommend a trip to the Rainforest Cafe in Downtown Disney, Hardrock Cafe in Universal, Bennigans on I drive and Johnny Rockets at the Pointe they are all brilliant!!
+[0.028228759765625] When we first arrived, our first impression was, great and when we got into the room it was even better as we had a fridge, microwave & Tea & Coffee facilities (We did how ever pay extra for this pleasure of about £1 a day.)
+[0.010776519775390625] I would definitely stay here again.
+[0.009471893310546875] When we got into the room we were very pleased.
+[0.009340286254882812] WELL WORTH the money and I will be staying there again as soon as I can get the time off work.
+
+----- Weakening -----
+
+[-0.9732570648193359] The room was nothing outstanding.
+[-0.9656238555908203] The rooms were stuffy and disgusting.
+[-0.9631328582763672] The room was very basic, plain, old and worn.
+[-0.9497995376586914] It was just kind of old/dated & grimy!
+[-0.9400844573974609] AVOID THIS HOTEL!!!!
+
+**********
+
+[0.7696990966796875] Bennigans is great.
+Parent: I would highly recommend a trip to the Rainforest Cafe in Downtown Disney , Hardrock Cafe in Universal , Bennigans on I drive and Johnny Rockets at the Pointe they are all brilliant !!
+
+----- Supporting -----
+
+[0.7696990966796875] I would highly recommend a trip to the Rainforest Cafe in Downtown Disney, Hardrock Cafe in Universal, Bennigans on I drive and Johnny Rockets at the Pointe they are all brilliant!!
+[0.33221435546875] The pool is GREAT open from 10am to 10pm , very good after a long day at the parks , and its HEATED at night!
+[0.241363525390625] 2nd Time Staying Here FANTASTIC VALUE Plus Added Bonus OF CONTINENTAL BREAKFAST STAFF Friendly ROOMS Reasonably Clean with Large TV Clean Sheets Safe IN Room Iron & Ironing Board Towels Changed Daily Heated pool with Towels Supplied free Washing Machines Dryers on site Free Ice Machines on all Floors Near Main Disney Area Perfect For All Areas Free TRANSPORT TO PARKS AND SHOPPING.
+[0.210052490234375] have stayed here many times now, an never have we complained once about anything because the rooms were great this year we even had a 4 ring hob, microwave, fridge, the room was kept so clean , clean sheets when ever we wanted towels clean every day the supervisor spoke to us every day asked if we needed anything had a smile every day we were there, how can you moan about this hotel its perfect, close to all the food outlets walgreens opposite you can walk to all the shops, what is there to moan about, if you want 5 star then go and stay in 5 star pay 5 star money bet you will moan then?
+[0.201904296875] This was our 5th visit to Orlando and our first budget trip and i have to say that this little gem of a hotel is far superior to other more expensive ones in the area.
+
+----- Weakening -----
+
+[-0.9897193908691406] THE VERDICT...Very basic..This hotel needs to be knocked down and rebuilt...if your looking for a low cost quality hotel dont stay here.
+[-0.9876651763916016] There is a light breakfast served every morning - cornflakes, toast and coffee - which is again ok but nothing special.
+[-0.9858131408691406] Worst "free" breakfast I have ever had.
+[-0.9842853546142578] The rooms are VERY outdated, smell terribly and don't even consider a room on the ground floor.
+[-0.9829092025756836] I have stayed at many 2 star hotels, but this one was the worst.
+
+**********
+
+[0.8749275207519531] Johnny Rockets is great.
+Parent: I would highly recommend a trip to the Rainforest Cafe in Downtown Disney , Hardrock Cafe in Universal , Bennigans on I drive and Johnny Rockets at the Pointe they are all brilliant !!
+
+----- Supporting -----
+
+[0.8749275207519531] I would highly recommend a trip to the Rainforest Cafe in Downtown Disney, Hardrock Cafe in Universal, Bennigans on I drive and Johnny Rockets at the Pointe they are all brilliant!!
+[0.270904541015625] Try it - it's basic (perhaps a 1 or 2 star at most) but it's great value for money.
+[0.2186279296875] This hotel was a great value for our 2 week stay.
+[0.2079315185546875] Without a doubt I'd return to this hotel, it's superb value for money.
+[0.20538330078125] If you want a cheap, comfortable and clean motel as a base to visit Disney and Universal this is first class.
+
+----- Weakening -----
+
+[-0.9891853332519531] THE VERDICT...Very basic..This hotel needs to be knocked down and rebuilt...if your looking for a low cost quality hotel dont stay here.
+[-0.9890832901000977] It's not clean or inviting, and the 5 minutes we spent giving it a try lead us straight back to our room for a shower!
+[-0.9849085807800293] I would not recommend this hotel really - it is very basic, so is the breakfast
+[-0.9833965301513672] I have stayed at many 2 star hotels, but this one was the worst.
+[-0.9797096252441406] It was just kind of old/dated & grimy!
+
+**********
+
+[0.9860420227050781] We have been to Orlando five times.
+Parent: This was our 5th visit to Orlando and our first budget trip and i have to say that this little gem of a hotel is far superior to other more expensive ones in the area .
+
+----- Supporting -----
+
+[0.9860420227050781] This was our 5th visit to Orlando and our first budget trip and i have to say that this little gem of a hotel is far superior to other more expensive ones in the area.
+[-0.00206756591796875] This place was a great base for a holiday where you spend most of your time out and about.
+[-0.0021038055419921875] This hotel is great for a good value stay in Orlando when visting the theme parks.
+[-0.0026006698608398438] A great place to stay.
+[-0.0032281875610351562] The vast majority of the accommodation available in Orlando are motels and having stayed in many of them I would not say that this is the worst.
+
+----- Weakening -----
+
+[-0.7949752807617188] This is passably the best deal in the WDW area I have been to WDW over 50 times staying everywhere from the Grand Floridian to the Gator Motel this is the best deal I have found the rooms were clean (they even steam cleaned the carpets mid week) we had a view of Expedition Everest from our room the housekeeping staff was thorough and friendly as well as the front desk attendants the continental breakfast was no more than doughnuts some muffins and toast juice, milk and coffee I was traveling with a 1 and a 3 year old and didn't have to worry about them crawling on the floor
+[-0.7558135986328125] Yes I know there are fancier hotels in Florida, this was our third time and we have stayed in everything from a villa to a nice hotel on International drive.
+[-0.6690483093261719] This is the 3rd time my family have stayed in this hotel & yes it does need a revamp & is a bit worn & tired but the staff are friendly & provide a good service.
+[-0.6466903686523438] 3 times to this 2 star hotel,it meet my needs but metro shuttle service should be terminated,they were 1.5 hours late and desk could not get a hold of them.breakfast was not much but ok for on the run.my room next to office so had good internet.only paid about 30.00 per night so very low cost.pool was clean on this trip.close to shops and restraunts.so i will stay again .
+[-0.6165390014648438] This was our second stay here, we were here previously in the summer of 2006 (it was Quality Inn Maingate West back then).
+
+**********
+
+[0.9874715805053711] This was our first budget trip.
+Parent: This was our 5th visit to Orlando and our first budget trip and i have to say that this little gem of a hotel is far superior to other more expensive ones in the area .
+
+----- Supporting -----
+
+[0.9874715805053711] This was our 5th visit to Orlando and our first budget trip and i have to say that this little gem of a hotel is far superior to other more expensive ones in the area.
+[0.0013370513916015625] Hotel was basic, 2* - no more.
+[-0.0002002716064453125] The hotel is basic.
+[-0.0008640289306640625] It was just a basic room.
+[-0.0009479522705078125] We loved it, nothing fancy but nice.
+
+----- Weakening -----
+
+[-0.8254814147949219] have stayed here many times now, an never have we complained once about anything because the rooms were great this year we even had a 4 ring hob, microwave, fridge, the room was kept so clean , clean sheets when ever we wanted towels clean every day the supervisor spoke to us every day asked if we needed anything had a smile every day we were there, how can you moan about this hotel its perfect, close to all the food outlets walgreens opposite you can walk to all the shops, what is there to moan about, if you want 5 star then go and stay in 5 star pay 5 star money bet you will moan then?
+[-0.8146886825561523] Yes I know there are fancier hotels in Florida, this was our third time and we have stayed in everything from a villa to a nice hotel on International drive.
+[-0.7064018249511719] I'm a tv new reporter and did a piece on how to find bed bugs.
+[-0.6529750823974609] This is passably the best deal in the WDW area I have been to WDW over 50 times staying everywhere from the Grand Floridian to the Gator Motel this is the best deal I have found the rooms were clean (they even steam cleaned the carpets mid week) we had a view of Expedition Everest from our room the housekeeping staff was thorough and friendly as well as the front desk attendants the continental breakfast was no more than doughnuts some muffins and toast juice, milk and coffee I was traveling with a 1 and a 3 year old and didn't have to worry about them crawling on the floor
+[-0.6332645416259766] It has always been perfectly adequate and acceptable for our overnight needs.
+
+**********
+
+[0.9812431335449219] This hotel is better than other more expensive ones in the area.
+Parent: This was our 5th visit to Orlando and our first budget trip and i have to say that this little gem of a hotel is far superior to other more expensive ones in the area .
+
+----- Supporting -----
+
+[0.9812431335449219] This was our 5th visit to Orlando and our first budget trip and i have to say that this little gem of a hotel is far superior to other more expensive ones in the area.
+[0.8242263793945312] In my opinion the hotel across the lake (Best Western Lakeside), which rates 18th, is no better than this hotel.
+[0.77362060546875] An excellent budget motel, better than many in this area.
+[0.6841354370117188] This is passably the best deal in the WDW area I have been to WDW over 50 times staying everywhere from the Grand Floridian to the Gator Motel this is the best deal I have found the rooms were clean (they even steam cleaned the carpets mid week) we had a view of Expedition Everest from our room the housekeeping staff was thorough and friendly as well as the front desk attendants the continental breakfast was no more than doughnuts some muffins and toast juice, milk and coffee I was traveling with a 1 and a 3 year old and didn't have to worry about them crawling on the floor
+[0.4013671875] We booked with first choice and this seems to be there most budget hotel.............if you want better you'll have to pay for it i suppose, We wanted a cheap base to enjoy the local attractions but with that we also got a nice comfortable hotel room in a nice quiet area and everything was fineeeeeeeee.
+
+----- Weakening -----
+
+[-0.9069309234619141] Bottom line - do yourself a favor: NEVER STAY at this flea bag of a hotel.
+[-0.86798095703125] AVOID THIS HOTEL!!!!
+[-0.8096351623535156] There are plenty of other hotels down the same stretch in an equally good/better location so my advice is to chose them and not stay at the quality inn!
+[-0.5390472412109375] I have stayed at many 2 star hotels, but this one was the worst.
+[-0.5135269165039062] I would highly suggest spending more money to stay at a Disney property or a more expensive hotel.

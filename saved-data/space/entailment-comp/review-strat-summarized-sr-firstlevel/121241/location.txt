@@ -1,0 +1,506 @@
+***** Aspect: location Model Type : zs *****
+Overall score: 0.5573050181070963
+
+**********
+
+[0.233062744140625] The Stone Castle was unappealing.
+Parent: The reviewers found the Stone Castle to be unappealing and a poor value compared to other hotels in the area.
+
+----- Supporting -----
+
+[0.233062744140625] At 11pm I contacted the Holiday Inn Express on Green Mountian Drive and Josh gave me a great rate to help compensate the poor quality of the Stone Castle.
+[0.00548553466796875] This place isn't fancy.
+[0.0031719207763671875] It was a very dissapointing place to stay ~ NEVER again
+[0.0] and small.
+[-0.0033416748046875] This was by far the worst place I have ever attempted to stay!
+
+----- Weakening -----
+
+[-0.9929957389831543] We loved the Stone Castle.
+[-0.9913845062255859] Location is perfect: off the busy 76 highway, but handy via backroads to all the shows and restaurants.
+[-0.9891767501831055] It has a great location.
+[-0.9875917434692383] Nice view and great prices.
+[-0.987276554107666] I highly recommend the Cascade.
+
+**********
+
+[0.80255126953125] The Stone Castle was a poor value.
+Parent: The reviewers found the Stone Castle to be unappealing and a poor value compared to other hotels in the area.
+
+----- Supporting -----
+
+[0.80255126953125] At 11pm I contacted the Holiday Inn Express on Green Mountian Drive and Josh gave me a great rate to help compensate the poor quality of the Stone Castle.
+[0.0012969970703125] It was a very dissapointing place to stay ~ NEVER again
+[0.0] and small.
+[-0.00217437744140625] This place isn't fancy.
+[-0.0036602020263671875] This was by far the worst place I have ever attempted to stay!
+
+----- Weakening -----
+
+[-0.990792989730835] I highly recommend the Cascade.
+[-0.9898738861083984] Nice view and great prices.
+[-0.9887118339538574] great location.
+[-0.9871010780334473] Oh and the Dockers Restaurant is next door and it's excellent, too!
+[-0.9857001304626465] It has a great location.
+
+**********
+
+[0.06464385986328125] Other hotels in the area were better than the Stone Castle.
+Parent: The reviewers found the Stone Castle to be unappealing and a poor value compared to other hotels in the area.
+
+----- Supporting -----
+
+[0.06464385986328125] Too many nicer places to stay in Branson for the same price.
+[0.005138397216796875] At 11pm I contacted the Holiday Inn Express on Green Mountian Drive and Josh gave me a great rate to help compensate the poor quality of the Stone Castle.
+[0.002353668212890625] I would recommend flying into Springfield instead.
+[0.0006513595581054688] We did not enjoy this vacation at all, and it was a total waste of time and money to stay here.
+[0.0005016326904296875] It was a very dissapointing place to stay ~ NEVER again
+
+----- Weakening -----
+
+[-0.30828857421875] Some of the places are a whole lot better than others and the Settle Inn is the best of all.
+[-0.16965866088867188] So who knows where it is.
+[-0.13726234436035156] It is conviently located close to Walmart and many stores that we commonly shop.
+[-0.11325454711914062] We were celebrating our 22nd anniversary.
+[-0.08497238159179688] Thankfully I have a terrific family who handled these mistakes with grace and understanding.
+
+**********
+
+[0.03369140625] The reservation process was difficult.
+Parent: They also had difficulty with the reservation process, finding that their rooms were not available when they arrived.
+
+----- Supporting -----
+
+[0.03369140625] The hotel reservation desk was OK when we check in but when we checked out it was a different story.
+[0.006671905517578125] VERY important!
+[0.0013275146484375] It was central to Branson's activities.
+[0.0013275146484375] It was central to Branson's activities.
+[0.0006561279296875] The man that took the reservation was very helpful.
+
+----- Weakening -----
+
+[-0.8440713882446289] It is very easy to access all the attractions and the strip.
+[-0.8006362915039062] The hotel wasn't busy, so finding a good parking spot was easy.
+[-0.5287933349609375] There is a convenient onsight restaurant.
+[-0.3451080322265625] Booked on the phone and received very courteous assistance.
+[-0.27365684509277344] Stone Castle is conveniently located on the yellow route for easy accessibility to Branson as well as Silver Dollar City.
+
+**********
+
+[0.0] Their rooms were not available when they arrived.
+Parent: They also had difficulty with the reservation process, finding that their rooms were not available when they arrived.
+
+----- Supporting -----
+
+[0.0] and small.
+[-0.01544952392578125] Too many nicer places to stay in Branson for the same price.
+[-0.032470703125] Upon arrival the girl at the front desk (Joy) said it only showed one of the two rooms reserved for us.
+[-0.05393218994140625] We did not enjoy this vacation at all, and it was a total waste of time and money to stay here.
+[-0.064910888671875] VERY important!
+
+----- Weakening -----
+
+[-0.9691247940063477] But overall its a nice town and I had a nice stay at the hotel
+[-0.9656753540039062] I called and ensured our reservation and the lady told me it was confirmed!
+[-0.9631896018981934] The view was nice and once again we were extremely pleased wth our stay there!!
+[-0.955561637878418] My family thoroughly enjoyed their stay.
+[-0.9550743103027344] Nice view and great prices.
+
+**********
+
+[0.7127628326416016] Overall, the location was good.
+Parent: Overall, reviewers thought the location was good.
+
+----- Supporting -----
+
+[0.7127628326416016] All in all, it was a nice trip.
+[0.7080230712890625] But overall its a nice town and I had a nice stay at the hotel
+[0.6864471435546875] Location is perfect: off the busy 76 highway, but handy via backroads to all the shows and restaurants.
+[0.6533756256103516] The location is great, distant enough to be quiet and close enough to enjoy all the activities offered in Branson.
+[0.6146888732910156] Great location, accessable but not too much traffic.
+
+----- Weakening -----
+
+[-0.9584245681762695] It was a very dissapointing place to stay ~ NEVER again
+[-0.9010868072509766] This was by far the worst place I have ever attempted to stay!
+[-0.5693588256835938] We did not enjoy this vacation at all, and it was a total waste of time and money to stay here.
+[-0.2043304443359375] This place isn't fancy.
+[-0.0731201171875] What is the point of vacationing together if you're in completely different buildings?
+
+**********
+
+[0.014141082763671875] The heat and humidity were unbearable.
+Parent: There were some complaints about the heat and humidity, as well as the ice machines breaking down, but generally reviewers thought the location was easy to find and had good parking.
+
+----- Supporting -----
+
+[0.014141082763671875] It was hot and humid.
+[0.0133056640625] As i stated it was very warm in there, i am not sure how they would expect anyone to stay in there without even a soda or water to drink.
+[0.0024089813232421875] It was a very dissapointing place to stay ~ NEVER again
+[0.0008172988891601562] This was by far the worst place I have ever attempted to stay!
+[0.0] and small.
+
+----- Weakening -----
+
+[-0.9977235794067383] Branson is a nice town, nice folks, temp not bad for summer time, and family friendly.
+[-0.9840199947357178] Nice view and great prices.
+[-0.980595588684082] The location is great, distant enough to be quiet and close enough to enjoy all the activities offered in Branson.
+[-0.9766592979431152] Great location, accessable but not too much traffic.
+[-0.9738130569458008] All in all, it was a nice trip.
+
+**********
+
+[0.9434394836425781] The ice machines were breaking down.
+Parent: There were some complaints about the heat and humidity, as well as the ice machines breaking down, but generally reviewers thought the location was easy to find and had good parking.
+
+----- Supporting -----
+
+[0.9434394836425781] The ice machines broke down and the third floor did not have and ice machine.
+[0.0] and small.
+[-0.010202407836914062] VERY important!
+[-0.024700164794921875] the only thing they could use there is a restaurant would make it alot better.
+[-0.03185272216796875] It was hot and humid.
+
+----- Weakening -----
+
+[-0.8660202026367188] We loved the Stone Castle.
+[-0.83306884765625] I highly recommend the Cascade.
+[-0.7357826232910156] A very talented family.
+[-0.6975574493408203] The hotel is located just off the road on the yellow route so we did not have any traffic noise.
+[-0.6919021606445312] They even have an arcade onsite!
+
+**********
+
+[0.8811740875244141] The location was easy to find.
+Parent: There were some complaints about the heat and humidity, as well as the ice machines breaking down, but generally reviewers thought the location was easy to find and had good parking.
+
+----- Supporting -----
+
+[0.8811740875244141] It is very easy to access all the attractions and the strip.
+[0.7051963806152344] The hotel wasn't busy, so finding a good parking spot was easy.
+[0.6928253173828125] Great location, accessable but not too much traffic.
+[0.6812553405761719] The location is great, its off the Yellow Route and accessible to anywhere in town.
+[0.6292800903320312] Stone Castle is conveniently located on the yellow route for easy accessibility to Branson as well as Silver Dollar City.
+
+----- Weakening -----
+
+[-0.9105491638183594] This was by far the worst place I have ever attempted to stay!
+[-0.8512229919433594] What is the point of vacationing together if you're in completely different buildings?
+[-0.7691516876220703] It was a very dissapointing place to stay ~ NEVER again
+[-0.7217941284179688] So who knows where it is.
+[-0.599884033203125] Parking was a little crouded but they were very busy.
+
+**********
+
+[0.9283590316772461] The location had good parking.
+Parent: There were some complaints about the heat and humidity, as well as the ice machines breaking down, but generally reviewers thought the location was easy to find and had good parking.
+
+----- Supporting -----
+
+[0.9283590316772461] But, most of all The Stone Castle is only minutes away from the best shows and attractions with plenty of parking.
+[0.9281806945800781] There was plenty of well-lit parking even with a conference going on in the hotel.
+[0.9021244049072266] The hotel wasn't busy, so finding a good parking spot was easy.
+[0.01630687713623047] There is a convenient onsight restaurant.
+[0.010172843933105469] Location just off Green Mountain Drive tends to be quite...good.
+
+----- Weakening -----
+
+[-0.4998779296875] Parking was a little crouded but they were very busy.
+[-0.30152130126953125] This was by far the worst place I have ever attempted to stay!
+[-0.212005615234375] It was a very dissapointing place to stay ~ NEVER again
+[-0.16549301147460938] We did not enjoy this vacation at all, and it was a total waste of time and money to stay here.
+[-0.11688995361328125] What is the point of vacationing together if you're in completely different buildings?
+
+**********
+
+[0.9637784957885742] The location was good.
+Parent: The reviews said that the location was good, central to Branson's activities, and that the hotel was vast with lots of rooms.
+
+----- Supporting -----
+
+[0.9637784957885742] The location is great, distant enough to be quiet and close enough to enjoy all the activities offered in Branson.
+[0.9501028060913086] The location is great, its off the Yellow Route and accessible to anywhere in town.
+[0.9419898986816406] Location is perfect: off the busy 76 highway, but handy via backroads to all the shows and restaurants.
+[0.9387431144714355] We stayed here recently and really liked the location.
+[0.9387431144714355] We stayed here recently and really liked the location.
+
+----- Weakening -----
+
+[-0.8688621520996094] It was a very dissapointing place to stay ~ NEVER again
+[-0.7951698303222656] This was by far the worst place I have ever attempted to stay!
+[-0.2226734161376953] We did not enjoy this vacation at all, and it was a total waste of time and money to stay here.
+[-0.213409423828125] What is the point of vacationing together if you're in completely different buildings?
+[-0.098052978515625] This place isn't fancy.
+
+**********
+
+[0.7029247283935547] The hotel is central to Branson's activities.
+Parent: The reviews said that the location was good, central to Branson's activities, and that the hotel was vast with lots of rooms.
+
+----- Supporting -----
+
+[0.7029247283935547] The hotel is centrally located in Branson.
+[0.4002685546875] The rooms are nice and the location is close enough to access everything we want to do in Branson, but off the strip so we can get to it quickly.
+[0.05682373046875] But, most of all The Stone Castle is only minutes away from the best shows and attractions with plenty of parking.
+[0.0425872802734375] It is very close to the outlet malls, Branson Landing, White Water, and not too far from Silver Dollar City.
+[0.0073833465576171875] It was central to Branson's activities.
+
+----- Weakening -----
+
+[-0.7709846496582031] It was a very dissapointing place to stay ~ NEVER again
+[-0.6186027526855469] Like the "off the Strip" location.
+[-0.5413131713867188] What is the point of vacationing together if you're in completely different buildings?
+[-0.46258544921875] The location is great, distant enough to be quiet and close enough to enjoy all the activities offered in Branson.
+[-0.38167572021484375] We did not enjoy this vacation at all, and it was a total waste of time and money to stay here.
+
+**********
+
+[0.9892177581787109] The hotel is vast.
+Parent: The reviews said that the location was good, central to Branson's activities, and that the hotel was vast with lots of rooms.
+
+----- Supporting -----
+
+[0.9892177581787109] The hotel is vast with lots of rooms.
+[0.0101470947265625] The hotel is centrally located in Branson.
+[0.00341796875] They even have an arcade onsite!
+[0.003208160400390625] The view was nice and once again we were extremely pleased wth our stay there!!
+[0.0026035308837890625] We stayed here recently and really liked the location.
+
+----- Weakening -----
+
+[-0.6060123443603516] It was a very dissapointing place to stay ~ NEVER again
+[-0.5274066925048828] This place isn't fancy.
+[-0.4229698181152344] This was by far the worst place I have ever attempted to stay!
+[-0.3372955322265625] We did not enjoy this vacation at all, and it was a total waste of time and money to stay here.
+[-0.1510467529296875] Parking was a little crouded but they were very busy.
+
+**********
+
+[0.99127197265625] The hotel had a lot of rooms.
+Parent: The reviews said that the location was good, central to Branson's activities, and that the hotel was vast with lots of rooms.
+
+----- Supporting -----
+
+[0.99127197265625] The hotel is vast with lots of rooms.
+[0.20366859436035156] The rooms are nice and the location is close enough to access everything we want to do in Branson, but off the strip so we can get to it quickly.
+[0.04959869384765625] Too many nicer places to stay in Branson for the same price.
+[0.027679443359375] Her supervisor was sitting in the next room, saw and hear everything, and never came to the counter to see what was going on.
+[0.02468109130859375] The entire place looked dark, dingy and medieval so they're keeping with the whole castle theme, very dungeon-like.
+
+----- Weakening -----
+
+[-0.726806640625] Upon arrival the girl at the front desk (Joy) said it only showed one of the two rooms reserved for us.
+[-0.394622802734375] Parking was a little crouded but they were very busy.
+[-0.1493072509765625] But, most of all The Stone Castle is only minutes away from the best shows and attractions with plenty of parking.
+[-0.1432952880859375] There was plenty of well-lit parking even with a conference going on in the hotel.
+[-0.13245391845703125] There is a convenient onsight restaurant.
+
+**********
+
+[0.6316947937011719] The location is great for those who want to be away from the Strip.
+Parent: The location is great for those who want to be off the Strip but still have access to all the shows and restaurants.
+
+----- Supporting -----
+
+[0.6316947937011719] Like the "off the Strip" location.
+[0.5957984924316406] The rooms are nice and the location is close enough to access everything we want to do in Branson, but off the strip so we can get to it quickly.
+[0.09259414672851562] The location is great, its off the Yellow Route and accessible to anywhere in town.
+[0.04852294921875] Location is perfect: off the busy 76 highway, but handy via backroads to all the shows and restaurants.
+[0.03333473205566406] The location was just off the strip, which we liked.
+
+----- Weakening -----
+
+[-0.7244033813476562] It was a very dissapointing place to stay ~ NEVER again
+[-0.6343679428100586] This was by far the worst place I have ever attempted to stay!
+[-0.38285255432128906] It was central to Branson's activities.
+[-0.38285255432128906] It was central to Branson's activities.
+[-0.3350067138671875] It is very easy to access all the attractions and the strip.
+
+**********
+
+[0.7771797180175781] The location is great for those who want to have access to all the shows and restaurants.
+Parent: The location is great for those who want to be off the Strip but still have access to all the shows and restaurants.
+
+----- Supporting -----
+
+[0.7771797180175781] Location is perfect: off the busy 76 highway, but handy via backroads to all the shows and restaurants.
+[0.06519889831542969] But, most of all The Stone Castle is only minutes away from the best shows and attractions with plenty of parking.
+[0.04109382629394531] It is very easy to access all the attractions and the strip.
+[0.029726028442382812] They even have an arcade onsite!
+[0.023026466369628906] The rooms are nice and the location is close enough to access everything we want to do in Branson, but off the strip so we can get to it quickly.
+
+----- Weakening -----
+
+[-0.9216270446777344] It was a very dissapointing place to stay ~ NEVER again
+[-0.8670692443847656] This was by far the worst place I have ever attempted to stay!
+[-0.6401786804199219] We did not enjoy this vacation at all, and it was a total waste of time and money to stay here.
+[-0.2727928161621094] It is conviently located close to Walmart and many stores that we commonly shop.
+[-0.18054962158203125] the only thing they could use there is a restaurant would make it alot better.
+
+**********
+
+[0.66815185546875] There is no traffic.
+Parent: There is little to no traffic, making it a perfect place to stay.
+
+----- Supporting -----
+
+[0.66815185546875] Great location, accessable but not too much traffic.
+[0.5910491943359375] The hotel is located just off the road on the yellow route so we did not have any traffic noise.
+[0.30291748046875] The hotel wasn't busy, so finding a good parking spot was easy.
+[0.15785980224609375] The location is great, distant enough to be quiet and close enough to enjoy all the activities offered in Branson.
+[0.06485366821289062] The location is great, its off the Yellow Route and accessible to anywhere in town.
+
+----- Weakening -----
+
+[-0.9971117973327637] Parking was a little crouded but they were very busy.
+[-0.9478168487548828] VERY important!
+[-0.9075345993041992] The hotel is located just off the main road going through the Branson attractions but was joined by many other hotels on the same road.
+[-0.8964157104492188] It was central to Branson's activities.
+[-0.8964157104492188] It was central to Branson's activities.
+
+**********
+
+[0.5780029296875] This is a perfect place to stay.
+Parent: There is little to no traffic, making it a perfect place to stay.
+
+----- Supporting -----
+
+[0.5780029296875] This place is perfect for the family as the rates are favorable (especially if you have a Entertainment Card).
+[0.42943668365478516] We stayed here recently and really liked the location.
+[0.42943668365478516] We stayed here recently and really liked the location.
+[0.2591571807861328] But overall its a nice town and I had a nice stay at the hotel
+[0.2249736785888672] The view was nice and once again we were extremely pleased wth our stay there!!
+
+----- Weakening -----
+
+[-0.9986376762390137] We did not enjoy this vacation at all, and it was a total waste of time and money to stay here.
+[-0.9985706806182861] This was by far the worst place I have ever attempted to stay!
+[-0.9975399971008301] It was a very dissapointing place to stay ~ NEVER again
+[-0.98358154296875] As i stated it was very warm in there, i am not sure how they would expect anyone to stay in there without even a soda or water to drink.
+[-0.9629173278808594] Too many nicer places to stay in Branson for the same price.
+
+**********
+
+[0.6568508148193359] The location of the hotel is good.
+Parent: The reviewers said that the location of the hotel is good.
+
+----- Supporting -----
+
+[0.6568508148193359] The rooms are nice and the location is close enough to access everything we want to do in Branson, but off the strip so we can get to it quickly.
+[0.5109024047851562] The hotel is located just off the road on the yellow route so we did not have any traffic noise.
+[0.3412933349609375] Stone Castle is conveniently located on the yellow route for easy accessibility to Branson as well as Silver Dollar City.
+[0.2794647216796875] But, most of all The Stone Castle is only minutes away from the best shows and attractions with plenty of parking.
+[0.2397003173828125] We stayed here recently and really liked the location.
+
+----- Weakening -----
+
+[-0.6630134582519531] It was a very dissapointing place to stay ~ NEVER again
+[-0.6492176055908203] This was by far the worst place I have ever attempted to stay!
+[-0.23624420166015625] We did not enjoy this vacation at all, and it was a total waste of time and money to stay here.
+[-0.10858917236328125] What is the point of vacationing together if you're in completely different buildings?
+[-0.09807968139648438] So who knows where it is.
+
+**********
+
+[0.7640533447265625] The hotel is close to the attractions.
+Parent: It is close to the attractions and the strip.
+
+----- Supporting -----
+
+[0.7640533447265625] But, most of all The Stone Castle is only minutes away from the best shows and attractions with plenty of parking.
+[0.7621479034423828] The rooms are nice and the location is close enough to access everything we want to do in Branson, but off the strip so we can get to it quickly.
+[0.7366104125976562] The hotel is located just off the main road going through the Branson attractions but was joined by many other hotels on the same road.
+[0.31632041931152344] Location is perfect: off the busy 76 highway, but handy via backroads to all the shows and restaurants.
+[0.1853618621826172] The location is great, distant enough to be quiet and close enough to enjoy all the activities offered in Branson.
+
+----- Weakening -----
+
+[-0.4732227325439453] It was a very dissapointing place to stay ~ NEVER again
+[-0.469329833984375] Like the "off the Strip" location.
+[-0.33154296875] It is conviently located close to Walmart and many stores that we commonly shop.
+[-0.3043365478515625] This was by far the worst place I have ever attempted to stay!
+[-0.2398223876953125] This place isn't fancy.
+
+**********
+
+[0.8378753662109375] It is close to the strip.
+Parent: It is close to the attractions and the strip.
+
+----- Supporting -----
+
+[0.8378753662109375] It is very easy to access all the attractions and the strip.
+[0.7298736572265625] The location was just off the strip, which we liked.
+[0.18143463134765625] But, most of all The Stone Castle is only minutes away from the best shows and attractions with plenty of parking.
+[0.17885589599609375] Location is perfect: off the busy 76 highway, but handy via backroads to all the shows and restaurants.
+[0.1490478515625] It is very close to the outlet malls, Branson Landing, White Water, and not too far from Silver Dollar City.
+
+----- Weakening -----
+
+[-0.77178955078125] Like the "off the Strip" location.
+[-0.4512939453125] The rooms are nice and the location is close enough to access everything we want to do in Branson, but off the strip so we can get to it quickly.
+[-0.125732421875] We were close to lots of mini golf and restaurants.
+[-0.087646484375] What is the point of vacationing together if you're in completely different buildings?
+[-0.08367919921875] It was central to Branson's activities.
+
+**********
+
+[0.14328956604003906] The hotel location is not ideal.
+Parent: The hotel is also located on the yellow route for easy accessibility to Branson as well as Silver Dollar City.
+
+----- Supporting -----
+
+[0.14328956604003906] It was a very dissapointing place to stay ~ NEVER again
+[0.11248970031738281] This was by far the worst place I have ever attempted to stay!
+[0.041229248046875] Too many nicer places to stay in Branson for the same price.
+[0.0286865234375] What is the point of vacationing together if you're in completely different buildings?
+[0.02044963836669922] This place isn't fancy.
+
+----- Weakening -----
+
+[-0.9877233505249023] Location is perfect: off the busy 76 highway, but handy via backroads to all the shows and restaurants.
+[-0.9853725433349609] great location.
+[-0.9816627502441406] It has a great location.
+[-0.9792022705078125] The location is great, distant enough to be quiet and close enough to enjoy all the activities offered in Branson.
+[-0.9761447906494141] We stayed here recently and really liked the location.
+
+**********
+
+[0.03342247009277344] The yellow route is the easiest way to get to Branson.
+Parent: The hotel is also located on the yellow route for easy accessibility to Branson as well as Silver Dollar City.
+
+----- Supporting -----
+
+[0.03342247009277344] Stone Castle is conveniently located on the yellow route for easy accessibility to Branson as well as Silver Dollar City.
+[0.0160980224609375] The location is great, its off the Yellow Route and accessible to anywhere in town.
+[0.001399993896484375] The hotel is located just off the road on the yellow route so we did not have any traffic noise.
+[0.0] and small.
+[-0.00090789794921875] So we called, booked our room, and the next day hit the road to Branson.
+
+----- Weakening -----
+
+[-0.7033958435058594] This was by far the worst place I have ever attempted to stay!
+[-0.6563034057617188] It was a very dissapointing place to stay ~ NEVER again
+[-0.5125961303710938] We did not enjoy this vacation at all, and it was a total waste of time and money to stay here.
+[-0.3900909423828125] What is the point of vacationing together if you're in completely different buildings?
+[-0.3649444580078125] Thankfully I have a terrific family who handled these mistakes with grace and understanding.
+
+**********
+
+[0.02378082275390625] The yellow route is the easiest way to get to Silver Dollar City.
+Parent: The hotel is also located on the yellow route for easy accessibility to Branson as well as Silver Dollar City.
+
+----- Supporting -----
+
+[0.02378082275390625] The location is great, its off the Yellow Route and accessible to anywhere in town.
+[0.019559860229492188] Stone Castle is conveniently located on the yellow route for easy accessibility to Branson as well as Silver Dollar City.
+[0.001659393310546875] The hotel is located just off the road on the yellow route so we did not have any traffic noise.
+[0.0] and small.
+[-0.004779815673828125] Great location, accessable but not too much traffic.
+
+----- Weakening -----
+
+[-0.6994285583496094] This was by far the worst place I have ever attempted to stay!
+[-0.6388015747070312] It was a very dissapointing place to stay ~ NEVER again
+[-0.5317840576171875] We did not enjoy this vacation at all, and it was a total waste of time and money to stay here.
+[-0.380340576171875] Thankfully I have a terrific family who handled these mistakes with grace and understanding.
+[-0.36652374267578125] What is the point of vacationing together if you're in completely different buildings?

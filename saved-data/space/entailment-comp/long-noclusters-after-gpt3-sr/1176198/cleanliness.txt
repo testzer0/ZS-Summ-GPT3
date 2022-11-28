@@ -1,0 +1,86 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.3936281204223633
+
+**********
+
+[0.09697341918945312] The cleanliness was not up to par.
+Parent: The reviewers said that the cleanliness was not up to par.
+
+----- Supporting -----
+
+[0.09697341918945312] We requested to have a maid clean our bathroom and take the trash out, no one ever came!
+[0.0910186767578125] However the carpet in the room had 2 stains.
+[0.078125] Hotel rooms and restaurant = great "Valet" = brutal and ruined the whole stay.
+[0.0769500732421875] Clearly they need more than two valet guys working on a Sunday morning when everyone is checking out for the weekend There was a party going on at 1-2AM beside one of our rooms.
+[0.0614166259765625] We were there for 4 days/3 nights and every day we had to track down a maid to request clean towels.
+
+----- Weakening -----
+
+[-0.9931998252868652] everything was super clean.
+[-0.9860935211181641] That was noticeabley stellar clean..
+[-0.9820156097412109] Super clean..i mean there wasn't any dust...dirt, smudges...The (glass or plexiglass) partition for whirpool was so clean that it positively sparkled.
+[-0.9809331893920898] housekeeping was super here.
+[-0.9795799255371094] Everything looked brand new and it was extremely clean.
+
+**********
+
+[0.5892333984375] There was no maid service.
+Parent: There were no maid service/housekeeping and the trash was not taken out.
+
+----- Supporting -----
+
+[0.5892333984375] We requested to have a maid clean our bathroom and take the trash out, no one ever came!
+[0.0] Clean.
+[-0.06534194946289062] Hotel rooms and restaurant = great "Valet" = brutal and ruined the whole stay.
+[-0.07233047485351562] The room itself and the hotel were very nicely decorated, combining old and new accents.
+[-0.082550048828125] Everything looked brand new and it was extremely clean.
+
+----- Weakening -----
+
+[-0.9964690208435059] Housekeeping even stopped by to make sure we had everything we needed shortly after we arrived.
+[-0.995821475982666] Housekeeping changed towels when not needed, and so on and so forth!
+[-0.9942288398742676] We were there for 4 days/3 nights and every day we had to track down a maid to request clean towels.
+[-0.9934291839599609] housekeeping was super here.
+[-0.9912843704223633] My husband is confined to a wheelchair and we really appreciated the extra effort the valets took helping us remove the chair from the car, assemble it, get my husband into it and get us into the hotel.
+
+**********
+
+[0.88189697265625] The trash was not taken out.
+Parent: There were no maid service/housekeeping and the trash was not taken out.
+
+----- Supporting -----
+
+[0.88189697265625] We requested to have a maid clean our bathroom and take the trash out, no one ever came!
+[0.7041015625] Since we never walk bare feet on the carpet and the rest was clean, I assumed it had been cleaned but it didn't come off.
+[0.0] Clean.
+[-0.0018463134765625] We trusted them to be honest and they were not.
+[-0.0576171875] Super clean..i mean there wasn't any dust...dirt, smudges...The (glass or plexiglass) partition for whirpool was so clean that it positively sparkled.
+
+----- Weakening -----
+
+[-0.839935302734375] There is also a small fitness center.
+[-0.8382415771484375] The whirpool temperature was awesome!
+[-0.828887939453125] Possible to make your own waffle as well.
+[-0.821807861328125] Everything looked brand new and it was extremely clean.
+[-0.8162002563476562] The lobby, pool area, rooms and hallway were all very clean.
+
+**********
+
+[0.00640869140625] You need a room card to get into the building.
+Parent: The guests also had to use their room cards to get into the building.
+
+----- Supporting -----
+
+[0.00640869140625] Other than this terrible time getting checked in, this hotel was very good.
+[0.0] Clean.
+[-0.0023202896118164062] There is also a small fitness center.
+[-0.0046443939208984375] The clientele seemed to include a lot of people whose night was just starting when we were getting back from the play (the hotel is also near a lot of nightclubs).
+[-0.008137702941894531] I used the fitness center and pool which were both small but well maintained.
+
+----- Weakening -----
+
+[-0.9065656661987305] Possible to make your own waffle as well.
+[-0.9058780670166016] Free wi-fi!
+[-0.8854484558105469] Back down at the desk we were offered a portable cot "free of charge".
+[-0.79083251953125] The valet ticket says to call down 30 minutes before you want to leave.
+[-0.7779970169067383] Also very convenient was the free in-room wifi which I really appreciated as so many hotels still do not offer the in-room wifi option.

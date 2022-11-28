@@ -1,0 +1,128 @@
+***** Aspect: rooms Model Type : zs *****
+Overall score: 0.6634955406188965
+
+**********
+
+[0.9848742485046387] The rooms were clean and comfortable.
+Parent: Most guests found the rooms to be clean and comfortable, although some guests did complain about the state of the towels and sheets.
+
+----- Supporting -----
+
+[0.9848742485046387] The rooms were great, we were on the 6th floor, beds were comfortable and room was quite clean.
+[0.983635425567627] The rooms are reasonably clean, the beds fairly comfortable, and the staff mostly helpful.
+[0.9834527969360352] Room was clean and quite and the bed was really confortable.
+[0.9817667007446289] The room was clean and comfortable.
+[0.981236457824707] The room was spacious and clean with an extremely comfortable bed.
+
+----- Weakening -----
+
+[-0.9986207485198975] The room was so filthy, we decided to leave, and find another hotel.
+[-0.9979805946350098] Exhausted, we walked into our room, and experienced the most overwhelming foul smells, I canâ€™t even describe!
+[-0.9978728294372559] The dust built up in the bathroom and on the carpet was substantial, seriously dust bunnies.
+[-0.9977774620056152] The shower was disgusting and there were marks all over the walls and carpet.
+[-0.9976663589477539] There was brown stuff on the walls of the bathroom, and the room was very shabby.
+
+**********
+
+[0.08000040054321289] The towels and sheets were in poor condition.
+Parent: Most guests found the rooms to be clean and comfortable, although some guests did complain about the state of the towels and sheets.
+
+----- Supporting -----
+
+[0.08000040054321289] The laundry facilitys are in poor quality.
+[0.020586013793945312] The laundry left something to be desired.
+[0.02021026611328125] ), and the the bath towels had yellow stains and smelled "funky"!
+[0.016574859619140625] The shower was disgusting and there were marks all over the walls and carpet.
+[0.0164794921875] I had called down to front desk to ask for some extra towels and they were giving me a hard time.
+
+----- Weakening -----
+
+[-0.9883594512939453] Everyday Our bed was made up with fresh sheets ,the was rubbish emptied and clean towels were provided.
+[-0.9882183074951172] Everything was spotlessly clean and comfortable and the staff were very helpful and polite.
+[-0.980438232421875] It was very clean and comfortable and had very nice artwork on the walls.
+[-0.9799327850341797] It was clean and comfortable.
+[-0.9794201850891113] The room was clean and well decorated.
+
+**********
+
+[0.338134765625] The rooms were too small.
+Parent: There were also complaints about the size of the room and the bathroom.
+
+----- Supporting -----
+
+[0.338134765625] The elevators are very small, it is cramped with 4 people with luggage.
+[0.30548095703125] The elevators are very small, so getting a cart and two bodies into the tight space was a difficult.
+[0.154205322265625] A few very minor complaints - the bathroom was very small and a bit cold, since the only heat was from a small baseboard heater.
+[0.1278076171875] The ramps are very steep, the spots are narrow and the driving room is almost non-existent.
+[0.03472137451171875] It was gay pride week so very few rooms were available and I had to take a smoking room here at this God-awful place.
+
+----- Weakening -----
+
+[-0.9979057312011719] The rooms were large and clean which was all we really needed.
+[-0.9976828098297119] We got a large room with two double beds and a coffee maker.
+[-0.9976711273193359] Staff was extra friendly, room was large and clean, had a great view of the city and we were walking distance to just about everything.
+[-0.9976382255554199] The room itself was very spacious and clean.
+[-0.9976134300231934] Simply put Its a clean, well run hotel, with excellent service at the front desk and very large rooms that look great.
+
+**********
+
+[0.6243209838867188] The bathroom was too small.
+Parent: There were also complaints about the size of the room and the bathroom.
+
+----- Supporting -----
+
+[0.6243209838867188] A few very minor complaints - the bathroom was very small and a bit cold, since the only heat was from a small baseboard heater.
+[0.24700927734375] The room was very large but made for a small bathroom.
+[0.02863311767578125] I had called down to front desk to ask for some extra towels and they were giving me a hard time.
+[0.0179443359375] A bathtub so filthy I wouldnâ€™t dare stand to take a shower.
+[0.017765045166015625] It was small and not very clean.
+
+----- Weakening -----
+
+[-0.981879711151123] The room itself was very spacious and clean.
+[-0.9745874404907227] The rooms were spacious with queen sized beds, nice bathrooms, the view was decent out of our 5th floor rooms, and we had no real issues at all as far as the hotel went.
+[-0.9648056030273438] Only problem was the carpark was too small.
+[-0.9616141319274902] Room was large and clean, bathroom was nice, looks like it was newly renovated.
+[-0.9586195945739746] It was a very large room for a great price.
+
+**********
+
+[0.9848742485046387] The rooms were clean and comfortable.
+Parent: Overall, guests were pleased with the cleanliness and comfort of the rooms, although some found them to be in need of repair.
+
+----- Supporting -----
+
+[0.9848742485046387] The rooms were great, we were on the 6th floor, beds were comfortable and room was quite clean.
+[0.983635425567627] The rooms are reasonably clean, the beds fairly comfortable, and the staff mostly helpful.
+[0.9834527969360352] Room was clean and quite and the bed was really confortable.
+[0.9817667007446289] The room was clean and comfortable.
+[0.981236457824707] The room was spacious and clean with an extremely comfortable bed.
+
+----- Weakening -----
+
+[-0.9986207485198975] The room was so filthy, we decided to leave, and find another hotel.
+[-0.9979805946350098] Exhausted, we walked into our room, and experienced the most overwhelming foul smells, I canâ€™t even describe!
+[-0.9978728294372559] The dust built up in the bathroom and on the carpet was substantial, seriously dust bunnies.
+[-0.9977774620056152] The shower was disgusting and there were marks all over the walls and carpet.
+[-0.9976663589477539] There was brown stuff on the walls of the bathroom, and the room was very shabby.
+
+**********
+
+[0.9687685966491699] The rooms were in need of repair.
+Parent: Overall, guests were pleased with the cleanliness and comfort of the rooms, although some found them to be in need of repair.
+
+----- Supporting -----
+
+[0.9687685966491699] Although most of the staff were nice, the rooms were dated and could use some renovation.
+[0.9533729553222656] The rooms are in need of a remodel.
+[0.8261871337890625] The bathroom needed a little work but it was good enough for my needs.
+[0.6747512817382812] The carpet could use replacing for staining, but it wasn't dirty, just old.
+[0.6043548583984375] The price is very good and the rooms are large, the only issue with the hotel is its very dated and could do with a revamp.
+
+----- Weakening -----
+
+[-0.977020263671875] The entire hotel was very bright and the rooms were very clean.
+[-0.9679231643676758] The staff was very polite, rooms were clean, and the hotel has a great location.
+[-0.9678530693054199] Overall, a great place to stay because the rooms were clean, staff was friendly and helpful, many attractions and great restaurants are walking distance from the hotel.
+[-0.9666719436645508] The room was very clean and well appointed.
+[-0.9652194976806641] The room was clean and well decorated.

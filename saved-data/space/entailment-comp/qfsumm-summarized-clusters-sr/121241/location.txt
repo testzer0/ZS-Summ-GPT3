@@ -1,0 +1,107 @@
+***** Aspect: location Model Type : zs *****
+Overall score: 0.981433916091919
+
+**********
+
+[0.9713287353515625] The location is good.
+Parent: Location just off Green Mountain Drive tends to be quite ... good .
+
+----- Supporting -----
+
+[0.9713287353515625] The location is great, distant enough to be quiet and close enough to enjoy all the activities offered in Branson.
+[0.9660730361938477] The location is great, its off the Yellow Route and accessible to anywhere in town.
+[0.9583044052124023] It has a great location.
+[0.942631721496582] Location is perfect: off the busy 76 highway, but handy via backroads to all the shows and restaurants.
+[0.9423198699951172] great location.
+
+----- Weakening -----
+
+[-0.8842868804931641] This was by far the worst place I have ever attempted to stay!
+[-0.8673171997070312] It was a very dissapointing place to stay ~ NEVER again
+[-0.35407447814941406] We did not enjoy this vacation at all, and it was a total waste of time and money to stay here.
+[-0.150054931640625] What is the point of vacationing together if you're in completely different buildings?
+[-0.069488525390625] So who knows where it is.
+
+**********
+
+[0.9753479957580566] The hotel is huge.
+Parent: The hotel is vast with lots of rooms .
+
+----- Supporting -----
+
+[0.9753479957580566] The hotel is vast with lots of rooms.
+[0.00685882568359375] The hotel is centrally located in Branson.
+[0.0017414093017578125] We stayed here recently and really liked the location.
+[0.0017414093017578125] We stayed here recently and really liked the location.
+[0.001674652099609375] They even have an arcade onsite!
+
+----- Weakening -----
+
+[-0.7236137390136719] This place isn't fancy.
+[-0.655909538269043] It was a very dissapointing place to stay ~ NEVER again
+[-0.3856163024902344] This was by far the worst place I have ever attempted to stay!
+[-0.35056304931640625] We did not enjoy this vacation at all, and it was a total waste of time and money to stay here.
+[-0.2110137939453125] Thankfully I have a terrific family who handled these mistakes with grace and understanding.
+
+**********
+
+[0.9927713871002197] The hotel has a lot of rooms.
+Parent: The hotel is vast with lots of rooms .
+
+----- Supporting -----
+
+[0.9927713871002197] The hotel is vast with lots of rooms.
+[0.34467124938964844] The rooms are nice and the location is close enough to access everything we want to do in Branson, but off the strip so we can get to it quickly.
+[0.06038665771484375] Too many nicer places to stay in Branson for the same price.
+[0.02825927734375] Her supervisor was sitting in the next room, saw and hear everything, and never came to the counter to see what was going on.
+[0.027301788330078125] The entire place looked dark, dingy and medieval so they're keeping with the whole castle theme, very dungeon-like.
+
+----- Weakening -----
+
+[-0.40590667724609375] Upon arrival the girl at the front desk (Joy) said it only showed one of the two rooms reserved for us.
+[-0.31024169921875] Parking was a little crouded but they were very busy.
+[-0.1083221435546875] It was a very dissapointing place to stay ~ NEVER again
+[-0.10776138305664062] This was by far the worst place I have ever attempted to stay!
+[-0.09503936767578125] There was plenty of well-lit parking even with a conference going on in the hotel.
+
+**********
+
+[0.983914852142334] The hotel was not busy.
+Parent: The hotel was n't busy , so finding a good parking spot was easy .
+
+----- Supporting -----
+
+[0.983914852142334] The hotel wasn't busy, so finding a good parking spot was easy.
+[0.9291067123413086] The hotel is located just off the road on the yellow route so we did not have any traffic noise.
+[0.174102783203125] As i stated it was very warm in there, i am not sure how they would expect anyone to stay in there without even a soda or water to drink.
+[0.12338924407958984] Great location, accessable but not too much traffic.
+[0.09082984924316406] The location is great, distant enough to be quiet and close enough to enjoy all the activities offered in Branson.
+
+----- Weakening -----
+
+[-0.9579029083251953] Parking was a little crouded but they were very busy.
+[-0.73724365234375] VERY important!
+[-0.6323394775390625] It was central to Branson's activities.
+[-0.6323394775390625] It was central to Branson's activities.
+[-0.59637451171875] There was plenty of well-lit parking even with a conference going on in the hotel.
+
+**********
+
+[0.9838066101074219] Finding a parking spot was easy.
+Parent: The hotel was n't busy , so finding a good parking spot was easy .
+
+----- Supporting -----
+
+[0.9838066101074219] The hotel wasn't busy, so finding a good parking spot was easy.
+[0.0713348388671875] There was plenty of well-lit parking even with a conference going on in the hotel.
+[0.0445404052734375] But, most of all The Stone Castle is only minutes away from the best shows and attractions with plenty of parking.
+[0.00603485107421875] Great location, accessable but not too much traffic.
+[0.003936767578125] It is not far off of highway 76.
+
+----- Weakening -----
+
+[-0.9667778015136719] Parking was a little crouded but they were very busy.
+[-0.8749074935913086] This was by far the worst place I have ever attempted to stay!
+[-0.8294858932495117] VERY important!
+[-0.768315315246582] The hotel reservation desk was OK when we check in but when we checked out it was a different story.
+[-0.7491874694824219] What is the point of vacationing together if you're in completely different buildings?

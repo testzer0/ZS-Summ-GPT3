@@ -1,0 +1,170 @@
+***** Aspect: service Model Type : zs *****
+Overall score: 0.44974738359451294
+
+**********
+
+[-0.2015380859375] This sentence cannot be simplified into a value judgement.
+Parent: My sister and I travel to Branson several times a year and always try different places to stay that are convenient , clean , and budget friendly .
+
+----- Supporting -----
+
+[-0.2015380859375] Were these people blind?
+[-0.2674560546875] 4) Staff is clueless.
+[-0.2952880859375] That was inconvenient.
+[-0.31982421875] It was extremely frustrating.
+[-0.323974609375] And as one would expect there were a million details that required the help of the staff at this hotel.
+
+----- Weakening -----
+
+[-0.9626960754394531] I just spent 4 days in Branson on business and found the Stone Castle to be both a convienient location and a great value with a staff that amied to please.
+[-0.8638458251953125] The price was unbeatable, the staff was helpful, and the breakfast (Which was included) was fantastic!
+[-0.834869384765625] He appreciated the staff that continuously kept everything filled and fresh.
+[-0.8303146362304688] Excellent guest service.
+[-0.8297119140625] I researched reviews on many hotels before our trip, I was really hopeful that this would meet our standards.
+
+**********
+
+[-0.077880859375] This is not a value judgement.
+Parent: My sister and I travel to Branson several times a year and always try different places to stay that are convenient , clean , and budget friendly .
+
+----- Supporting -----
+
+[-0.077880859375] They could not find anything???????
+[-0.15185546875] 4) Staff is clueless.
+[-0.227630615234375] When we notified front desk, they just said "oh" .
+[-0.22802734375] They do not have room service, restaurant or bar.
+[-0.2625732421875] The hotel messed up the Cocktail Hour suite for both nights, and when I called to complain they did NOTHING to make it right, it was so clear that they could actually care less that I was unhappy.
+
+----- Weakening -----
+
+[-0.9802703857421875] I just spent 4 days in Branson on business and found the Stone Castle to be both a convienient location and a great value with a staff that amied to please.
+[-0.9309539794921875] The price was unbeatable, the staff was helpful, and the breakfast (Which was included) was fantastic!
+[-0.9206733703613281] I researched reviews on many hotels before our trip, I was really hopeful that this would meet our standards.
+[-0.9127693176269531] He appreciated the staff that continuously kept everything filled and fresh.
+[-0.904571533203125] We stayed with a group recently and all had a good time....the group had experienced problems unrelated to the hotel but when we got there the treatment and service we received was wonderful.....we were made to feel right at home......I believe Joe was the gentleman who greeted us and was very kind and professional.....Maryann (I think that was her name) in the breakfast room was an absolute angel.....she went out of her way to make everyone feel special........this is an excellent choice for groups-affordable......receptive to needs.......Also the in charge cleaning lady was very professional and friendly.
+
+**********
+
+[0.11707305908203125] The hotel was not convenient, clean, or budget friendly.
+Parent: My sister and I travel to Branson several times a year and always try different places to stay that are convenient , clean , and budget friendly .
+
+----- Supporting -----
+
+[0.11707305908203125] No Disney, no movies, no CMT, .... At the end of our hallway there was a window that was open with a screen that was popped loose to leave an opening that dropped 3 stories to the ground....safe?
+[0.0828399658203125] Once inside the hotel it smelled so musty I opened the window in my room to discover it didn't even lock (we had a main floor room, so window locks are a MUST) Husband went to the front desk to complain, maintenance man was able to fix it after at least 45 minute wait.
+[0.06463241577148438] There was no restaurant, bar and the ATM did not work.
+[0.0580902099609375] Dog was barking in room across the hall all day and night, one of us stepped in dog feces in the parking lot and tracked it into the room :( A group of ill guests vomited just outside the entry door, massive amounts, when we called to ask that it be cleaned up due to health hazards front desk staff was rude!
+[0.050495147705078125] They do not have room service, restaurant or bar.
+
+----- Weakening -----
+
+[-0.9942460060119629] I just spent 4 days in Branson on business and found the Stone Castle to be both a convienient location and a great value with a staff that amied to please.
+[-0.994084358215332] The staff keeps everything full and clean.
+[-0.9939441680908203] The staff was very friendly and the pool area was always clean.
+[-0.9919567108154297] We stayed with a group recently and all had a good time....the group had experienced problems unrelated to the hotel but when we got there the treatment and service we received was wonderful.....we were made to feel right at home......I believe Joe was the gentleman who greeted us and was very kind and professional.....Maryann (I think that was her name) in the breakfast room was an absolute angel.....she went out of her way to make everyone feel special........this is an excellent choice for groups-affordable......receptive to needs.......Also the in charge cleaning lady was very professional and friendly.
+[-0.991877555847168] The price was unbeatable, the staff was helpful, and the breakfast (Which was included) was fantastic!
+
+**********
+
+[0.966212272644043] The staff was great.
+Parent: The staff was great , the breakfast music show was fun and we would love to stay there next time we go to Branson !
+
+----- Supporting -----
+
+[0.966212272644043] The employees were outstanding and the service was great.
+[0.9585809707641602] The staff was great, the breakfast music show was fun and we would love to stay there next time we go to Branson!
+[0.9344453811645508] The staff was so nice and took very good care of us.
+[0.9088554382324219] the staff and mangement are great.
+[0.8914279937744141] The price was unbeatable, the staff was helpful, and the breakfast (Which was included) was fantastic!
+
+----- Weakening -----
+
+[-0.9971933364868164] Nasty staff.
+[-0.9948902130126953] Dog was barking in room across the hall all day and night, one of us stepped in dog feces in the parking lot and tracked it into the room :( A group of ill guests vomited just outside the entry door, massive amounts, when we called to ask that it be cleaned up due to health hazards front desk staff was rude!
+[-0.9930915832519531] They did not give one person a packet, the Front Desk staff was downright snarky, as if I was asking them to do to much.
+[-0.9924001693725586] 4) Staff is clueless.
+[-0.9878168106079102] The staff didn't seem interested in providing service.
+
+**********
+
+[0.9733371734619141] The breakfast music show was fun.
+Parent: The staff was great , the breakfast music show was fun and we would love to stay there next time we go to Branson !
+
+----- Supporting -----
+
+[0.9733371734619141] The staff was great, the breakfast music show was fun and we would love to stay there next time we go to Branson!
+[0.01789093017578125] I had never stayed at a hotel in branson where they provide morning entertainment.
+[-0.0009365081787109375] They also offered entertainment.
+[-0.004665374755859375] We stayed with a group recently and all had a good time....the group had experienced problems unrelated to the hotel but when we got there the treatment and service we received was wonderful.....we were made to feel right at home......I believe Joe was the gentleman who greeted us and was very kind and professional.....Maryann (I think that was her name) in the breakfast room was an absolute angel.....she went out of her way to make everyone feel special........this is an excellent choice for groups-affordable......receptive to needs.......Also the in charge cleaning lady was very professional and friendly.
+[-0.0055637359619140625] The staff was super friendly and very helpful.
+
+----- Weakening -----
+
+[-0.9573297500610352] It was extremely frustrating.
+[-0.8660373687744141] We had a travel mag.
+[-0.8505172729492188] After 10pm at night a staff member was running a vacuum cleaner in the hallway, not just one spot, the entire hallway!
+[-0.7828407287597656] They could not find anything???????
+[-0.7221164703369141] They were very rude!
+
+**********
+
+[0.5439486503601074] We would love to stay at that hotel next time we go to Branson.
+Parent: The staff was great , the breakfast music show was fun and we would love to stay there next time we go to Branson !
+
+----- Supporting -----
+
+[0.5439486503601074] The staff was great, the breakfast music show was fun and we would love to stay there next time we go to Branson!
+[0.0006074905395507812] The service was great.
+[0.0002269744873046875] The service was great!
+[0.0001811981201171875] Rooms were great, staff was very friendly and helpful.
+[0.00017452239990234375] the staff and mangement are great.
+
+----- Weakening -----
+
+[-0.9016284942626953] Needless to say i'm sure we won't return.
+[-0.7230129241943359] Beware of The Stome Castle and the desk girl named Joy, they are a joke.
+[-0.6583752632141113] It was extremely frustrating.
+[-0.5414609909057617] They were very rude!
+[-0.48004722595214844] Nasty staff.
+
+**********
+
+[0.9906940460205078] The wireless internet did not work.
+Parent: The wireless internet did not work and we were basically told - " Sorry " and they could n't do anything about it .
+
+----- Supporting -----
+
+[0.9906940460205078] The wireless internet did not work and we were basically told - "Sorry" and they couldn't do anything about it.
+[0.8347282409667969] We also had a great deal of difficulty with the wireless internet.
+[0.2454833984375] We never did get our computer on the wireless network even after taking our laptop to the front desk.
+[0.0176849365234375] They did not give one person a packet, the Front Desk staff was downright snarky, as if I was asking them to do to much.
+[0.0045013427734375] I was unable to get online.
+
+----- Weakening -----
+
+[-0.9832615852355957] Every requests is handled quickly and efficiently.
+[-0.9753971099853516] Every request was fulfilled like we were the owner.
+[-0.9738297462463379] The service was great.
+[-0.9717745780944824] The service was great!
+[-0.9414892196655273] I like to read the information and go through the coupons.
+
+**********
+
+[0.2861328125] The hotel staff said they were sorry but could not do anything about it.
+Parent: The wireless internet did not work and we were basically told - " Sorry " and they could n't do anything about it .
+
+----- Supporting -----
+
+[0.2861328125] The wireless internet did not work and we were basically told - "Sorry" and they couldn't do anything about it.
+[-0.006424903869628906] There was no restaurant, bar and the ATM did not work.
+[-0.0067920684814453125] The hotel staff was not helpful but the cleaning staff was very good.
+[-0.00706028938293457] Hotel had NO INTERNET SERVICE ENTIRE WEEK.
+[-0.009718179702758789] The air conditioning in the buildings did not work properly.
+
+----- Weakening -----
+
+[-0.9950442314147949] The staff was friendly and very quick at fixing a problem.
+[-0.9948408603668213] Staff was nice and sent pillows to our room three times and sheets once.
+[-0.994727611541748] The price was unbeatable, the staff was helpful, and the breakfast (Which was included) was fantastic!
+[-0.9941997528076172] Rooms were great, staff was very friendly and helpful.
+[-0.9938838481903076] The attendant worked very hard at keeping the tables clean and around the serving dishes picked up.

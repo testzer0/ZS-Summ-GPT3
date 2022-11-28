@@ -1,0 +1,254 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.7286338011423746
+
+**********
+
+[0.03926849365234375] The reviewers said that the building was old.
+Parent: The reviewers said that the building was old and not well-maintained.
+
+----- Supporting -----
+
+[0.03926849365234375] It was very tight on space for 2 adults and 2 adolescents and a little past its prime.
+[0.006481170654296875] *The art in the rooms are old and are of Delta, why not GI?
+[-0.0125732421875] * Small rooms * We had a small balcony but had plastic furniture and latice on the floor (not nice) * The dresser, desk and minibar are still the old furniture (too many pieces and old and ugly) It did however have a flat screen tv which should not require a piece a furniture to hold it as it should be wall mounted.
+[-0.019510269165039062] You do have a art institute across the road.
+[-0.03542518615722656] The elevator groaned when in use which was kind of scary.The pay per view movie was not working the first night, worked the second.
+
+----- Weakening -----
+
+[-0.9840812683105469] The rooms are small but nice, the lobby is modern and inviting and the staff is friendly.
+[-0.8347339630126953] We went to the Pacific Culinary Institute and that was amazing!
+[-0.8323860168457031] Bad Points * half renovated the common areas are nice, the bathrooms have no bath tubs but new bathrooms.
+[-0.8137111663818359] He was very impressed and requested a tour of the brewery, which the brew-master provided for him.
+[-0.5964412689208984] It was a fun, informative, and flexible way to view the entire city.
+
+**********
+
+[0.5534629821777344] The building was not well-maintained.
+Parent: The reviewers said that the building was old and not well-maintained.
+
+----- Supporting -----
+
+[0.5534629821777344] It was very tight on space for 2 adults and 2 adolescents and a little past its prime.
+[0.14786148071289062] * Small rooms * We had a small balcony but had plastic furniture and latice on the floor (not nice) * The dresser, desk and minibar are still the old furniture (too many pieces and old and ugly) It did however have a flat screen tv which should not require a piece a furniture to hold it as it should be wall mounted.
+[0.124481201171875] Bad Points * half renovated the common areas are nice, the bathrooms have no bath tubs but new bathrooms.
+[0.06560516357421875] The elevator groaned when in use which was kind of scary.The pay per view movie was not working the first night, worked the second.
+[0.062255859375] Nothing a little renovation couldn't quickly take care of.
+
+----- Weakening -----
+
+[-0.5665969848632812] We went to the Pacific Culinary Institute and that was amazing!
+[-0.5197067260742188] The rooms are small but nice, the lobby is modern and inviting and the staff is friendly.
+[-0.4036388397216797] He was very impressed and requested a tour of the brewery, which the brew-master provided for him.
+[-0.1387786865234375] It was a fun, informative, and flexible way to view the entire city.
+[-0.06671142578125] The public spaces are nicely decorated, but our room had a couple of sad "department store" prints on the walls - and considering Granville Island is a hub of artistic activity, I would have loved to see better art (why not link with the Emily Carr school of art across the street, and promote local artists?).
+
+**********
+
+[0.1269378662109375] The hotel was too small for a family of four.
+Parent: They also said that it was too small for a family of four and that the elevator was scary.
+
+----- Supporting -----
+
+[0.1269378662109375] It was very tight on space for 2 adults and 2 adolescents and a little past its prime.
+[-0.00289154052734375] * Small rooms * We had a small balcony but had plastic furniture and latice on the floor (not nice) * The dresser, desk and minibar are still the old furniture (too many pieces and old and ugly) It did however have a flat screen tv which should not require a piece a furniture to hold it as it should be wall mounted.
+[-0.01400136947631836] The rooms are small but nice, the lobby is modern and inviting and the staff is friendly.
+[-0.019596576690673828] The public spaces are nicely decorated, but our room had a couple of sad "department store" prints on the walls - and considering Granville Island is a hub of artistic activity, I would have loved to see better art (why not link with the Emily Carr school of art across the street, and promote local artists?).
+[-0.01984405517578125] The elevator groaned when in use which was kind of scary.The pay per view movie was not working the first night, worked the second.
+
+----- Weakening -----
+
+[-0.41713714599609375] While we love trees, it always amazing to us why they are not more strategically placed!
+[-0.3543891906738281] You do have a art institute across the road.
+[-0.25650596618652344] He was very impressed and requested a tour of the brewery, which the brew-master provided for him.
+[-0.17044448852539062] I'd have given it 5 stars if only the desk chair hadn't had arms and been a royal pain to move around.
+[-0.15473175048828125] It was a fun, informative, and flexible way to view the entire city.
+
+**********
+
+[0.9448146820068359] The elevator was scary.
+Parent: They also said that it was too small for a family of four and that the elevator was scary.
+
+----- Supporting -----
+
+[0.9448146820068359] The elevator groaned when in use which was kind of scary.The pay per view movie was not working the first night, worked the second.
+[-0.028263092041015625] It was very tight on space for 2 adults and 2 adolescents and a little past its prime.
+[-0.13590049743652344] Nothing a little renovation couldn't quickly take care of.
+[-0.15917587280273438] * Small rooms * We had a small balcony but had plastic furniture and latice on the floor (not nice) * The dresser, desk and minibar are still the old furniture (too many pieces and old and ugly) It did however have a flat screen tv which should not require a piece a furniture to hold it as it should be wall mounted.
+[-0.16068267822265625] The public spaces are nicely decorated, but our room had a couple of sad "department store" prints on the walls - and considering Granville Island is a hub of artistic activity, I would have loved to see better art (why not link with the Emily Carr school of art across the street, and promote local artists?).
+
+----- Weakening -----
+
+[-0.893341064453125] While we love trees, it always amazing to us why they are not more strategically placed!
+[-0.728485107421875] I'd have given it 5 stars if only the desk chair hadn't had arms and been a royal pain to move around.
+[-0.5527095794677734] It was a fun, informative, and flexible way to view the entire city.
+[-0.5165863037109375] He was very impressed and requested a tour of the brewery, which the brew-master provided for him.
+[-0.4765453338623047] The rooms are small but nice, the lobby is modern and inviting and the staff is friendly.
+
+**********
+
+[0.9166259765625] The building was half-renovated.
+Parent: The reviewers said that the building was half-renovated, with nice common areas but small, old rooms.
+
+----- Supporting -----
+
+[0.9166259765625] Bad Points * half renovated the common areas are nice, the bathrooms have no bath tubs but new bathrooms.
+[0.180816650390625] The hotel's lobby was undergoing renovations at the time but it never created any issues with our stay.
+[0.01270294189453125] Nothing a little renovation couldn't quickly take care of.
+[-0.002044677734375] The rooms are small but nice, the lobby is modern and inviting and the staff is friendly.
+[-0.005499362945556641] We went to the Pacific Culinary Institute and that was amazing!
+
+----- Weakening -----
+
+[-0.3194427490234375] While we love trees, it always amazing to us why they are not more strategically placed!
+[-0.20888519287109375] There was a fire alarm at 11pm (had kids in bed!)
+[-0.15072250366210938] granville island is a community in itself.
+[-0.09429931640625] * Small rooms * We had a small balcony but had plastic furniture and latice on the floor (not nice) * The dresser, desk and minibar are still the old furniture (too many pieces and old and ugly) It did however have a flat screen tv which should not require a piece a furniture to hold it as it should be wall mounted.
+[-0.05876350402832031] *The art in the rooms are old and are of Delta, why not GI?
+
+**********
+
+[0.9476394653320312] The common areas were nice.
+Parent: The reviewers said that the building was half-renovated, with nice common areas but small, old rooms.
+
+----- Supporting -----
+
+[0.9476394653320312] Bad Points * half renovated the common areas are nice, the bathrooms have no bath tubs but new bathrooms.
+[0.905670166015625] The public spaces are nicely decorated, but our room had a couple of sad "department store" prints on the walls - and considering Granville Island is a hub of artistic activity, I would have loved to see better art (why not link with the Emily Carr school of art across the street, and promote local artists?).
+[0.6958732604980469] The rooms are small but nice, the lobby is modern and inviting and the staff is friendly.
+[0.055145263671875] The computer and printer located in the lobby for guests to use was very helpful.
+[0.0408172607421875] *The art in the rooms are old and are of Delta, why not GI?
+
+----- Weakening -----
+
+[-0.3028106689453125] * Small rooms * We had a small balcony but had plastic furniture and latice on the floor (not nice) * The dresser, desk and minibar are still the old furniture (too many pieces and old and ugly) It did however have a flat screen tv which should not require a piece a furniture to hold it as it should be wall mounted.
+[-0.136199951171875] There is no easy chair.
+[-0.13440704345703125] There was a fire alarm at 11pm (had kids in bed!)
+[-0.0671234130859375] We went to the Pacific Culinary Institute and that was amazing!
+[-0.04644775390625] The elevator groaned when in use which was kind of scary.The pay per view movie was not working the first night, worked the second.
+
+**********
+
+[0.90411376953125] The rooms were small and old.
+Parent: The reviewers said that the building was half-renovated, with nice common areas but small, old rooms.
+
+----- Supporting -----
+
+[0.90411376953125] * Small rooms * We had a small balcony but had plastic furniture and latice on the floor (not nice) * The dresser, desk and minibar are still the old furniture (too many pieces and old and ugly) It did however have a flat screen tv which should not require a piece a furniture to hold it as it should be wall mounted.
+[0.5609130859375] It was very tight on space for 2 adults and 2 adolescents and a little past its prime.
+[0.016815185546875] *The art in the rooms are old and are of Delta, why not GI?
+[-0.0120086669921875] The computer and printer located in the lobby for guests to use was very helpful.
+[-0.0378265380859375] There is no easy chair.
+
+----- Weakening -----
+
+[-0.8840713500976562] Bad Points * half renovated the common areas are nice, the bathrooms have no bath tubs but new bathrooms.
+[-0.738922119140625] It was a fun, informative, and flexible way to view the entire city.
+[-0.6900634765625] While we love trees, it always amazing to us why they are not more strategically placed!
+[-0.5776138305664062] granville island is a community in itself.
+[-0.550537109375] The rooms are small but nice, the lobby is modern and inviting and the staff is friendly.
+
+**********
+
+[0.9358100891113281] The furniture in the rooms was old.
+Parent: They also said that the furniture in the rooms was old and ugly, and that there was no easy chair.
+
+----- Supporting -----
+
+[0.9358100891113281] * Small rooms * We had a small balcony but had plastic furniture and latice on the floor (not nice) * The dresser, desk and minibar are still the old furniture (too many pieces and old and ugly) It did however have a flat screen tv which should not require a piece a furniture to hold it as it should be wall mounted.
+[0.011336326599121094] It was very tight on space for 2 adults and 2 adolescents and a little past its prime.
+[-0.01096343994140625] Nothing a little renovation couldn't quickly take care of.
+[-0.01670074462890625] The public spaces are nicely decorated, but our room had a couple of sad "department store" prints on the walls - and considering Granville Island is a hub of artistic activity, I would have loved to see better art (why not link with the Emily Carr school of art across the street, and promote local artists?).
+[-0.01845550537109375] There is no easy chair.
+
+----- Weakening -----
+
+[-0.7524814605712891] We went to the Pacific Culinary Institute and that was amazing!
+[-0.674560546875] While we love trees, it always amazing to us why they are not more strategically placed!
+[-0.5873527526855469] The rooms are small but nice, the lobby is modern and inviting and the staff is friendly.
+[-0.42877960205078125] It was a fun, informative, and flexible way to view the entire city.
+[-0.4046478271484375] He was very impressed and requested a tour of the brewery, which the brew-master provided for him.
+
+**********
+
+[0.8378829956054688] The furniture was ugly.
+Parent: They also said that the furniture in the rooms was old and ugly, and that there was no easy chair.
+
+----- Supporting -----
+
+[0.8378829956054688] * Small rooms * We had a small balcony but had plastic furniture and latice on the floor (not nice) * The dresser, desk and minibar are still the old furniture (too many pieces and old and ugly) It did however have a flat screen tv which should not require a piece a furniture to hold it as it should be wall mounted.
+[-0.00072479248046875] It was very tight on space for 2 adults and 2 adolescents and a little past its prime.
+[-0.004669189453125] There is no easy chair.
+[-0.017299652099609375] The hotel's lobby was undergoing renovations at the time but it never created any issues with our stay.
+[-0.03792572021484375] There was a fire alarm at 11pm (had kids in bed!)
+
+----- Weakening -----
+
+[-0.9709553718566895] We went to the Pacific Culinary Institute and that was amazing!
+[-0.9635391235351562] The rooms are small but nice, the lobby is modern and inviting and the staff is friendly.
+[-0.90216064453125] While we love trees, it always amazing to us why they are not more strategically placed!
+[-0.8820152282714844] He was very impressed and requested a tour of the brewery, which the brew-master provided for him.
+[-0.7599716186523438] It was a fun, informative, and flexible way to view the entire city.
+
+**********
+
+[0.9890127182006836] There was no easy chair.
+Parent: They also said that the furniture in the rooms was old and ugly, and that there was no easy chair.
+
+----- Supporting -----
+
+[0.9890127182006836] There is no easy chair.
+[0.648193359375] I'd have given it 5 stars if only the desk chair hadn't had arms and been a royal pain to move around.
+[0.0771484375] There was a fire alarm at 11pm (had kids in bed!)
+[0.03955078125] The elevator groaned when in use which was kind of scary.The pay per view movie was not working the first night, worked the second.
+[0.006378173828125] It was very tight on space for 2 adults and 2 adolescents and a little past its prime.
+
+----- Weakening -----
+
+[-0.7711181640625] It was a fun, informative, and flexible way to view the entire city.
+[-0.64501953125] He was very impressed and requested a tour of the brewery, which the brew-master provided for him.
+[-0.6302490234375] While we love trees, it always amazing to us why they are not more strategically placed!
+[-0.621826171875] The rooms are small but nice, the lobby is modern and inviting and the staff is friendly.
+[-0.606781005859375] *The art in the rooms are old and are of Delta, why not GI?
+
+**********
+
+[0.57562255859375] The fire alarm was going off.
+Parent: Finally, they noted that there was a fire alarm at 11pm.
+
+----- Supporting -----
+
+[0.57562255859375] There was a fire alarm at 11pm (had kids in bed!)
+[-0.08179855346679688] It was very tight on space for 2 adults and 2 adolescents and a little past its prime.
+[-0.0894012451171875] The elevator groaned when in use which was kind of scary.The pay per view movie was not working the first night, worked the second.
+[-0.10700607299804688] There is no easy chair.
+[-0.2403564453125] We arrived a little late on Xmas day after a troublesome time with the car rental company (Budget did not have a car for me despite having a valid reservation).
+
+----- Weakening -----
+
+[-0.9151496887207031] We went to the Pacific Culinary Institute and that was amazing!
+[-0.798370361328125] It was a fun, informative, and flexible way to view the entire city.
+[-0.7949676513671875] While we love trees, it always amazing to us why they are not more strategically placed!
+[-0.7085762023925781] He was very impressed and requested a tour of the brewery, which the brew-master provided for him.
+[-0.6727714538574219] The computer and printer located in the lobby for guests to use was very helpful.
+
+**********
+
+[0.9724140167236328] The fire alarm went off at 11pm.
+Parent: Finally, they noted that there was a fire alarm at 11pm.
+
+----- Supporting -----
+
+[0.9724140167236328] There was a fire alarm at 11pm (had kids in bed!)
+[-0.028594970703125] The elevator groaned when in use which was kind of scary.The pay per view movie was not working the first night, worked the second.
+[-0.07217025756835938] The public spaces are nicely decorated, but our room had a couple of sad "department store" prints on the walls - and considering Granville Island is a hub of artistic activity, I would have loved to see better art (why not link with the Emily Carr school of art across the street, and promote local artists?).
+[-0.08063983917236328] We arrived a little late on Xmas day after a troublesome time with the car rental company (Budget did not have a car for me despite having a valid reservation).
+[-0.09963417053222656] There is no easy chair.
+
+----- Weakening -----
+
+[-0.7713489532470703] We went to the Pacific Culinary Institute and that was amazing!
+[-0.7644882202148438] While we love trees, it always amazing to us why they are not more strategically placed!
+[-0.7314052581787109] He was very impressed and requested a tour of the brewery, which the brew-master provided for him.
+[-0.6265964508056641] It was a fun, informative, and flexible way to view the entire city.
+[-0.593536376953125] You do have a art institute across the road.

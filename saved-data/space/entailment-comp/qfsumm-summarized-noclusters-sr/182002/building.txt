@@ -1,0 +1,191 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.05750470691257053
+
+**********
+
+[0.053741455078125] The Primrose is a good hotel.
+Parent: The Primrose is a good hotel for people who plan on staying just a few dates in Toronto and plan on only sleeping there .
+
+----- Supporting -----
+
+[0.053741455078125] Lobby seemed nice, there's a restaurant right off the lobby that is also very nice and the Tim Horton's attached to the hotel is a great perk for me (I need my Tim's coffee in the AM!).
+[0.02162933349609375] They have done some renovations to the lobby area which is now a nice granite counter and some darker woods which look very warm and inviting.
+[0.02127838134765625] You should also be aware that there are no fire sprinklers in the guest areas of the hotel.
+[0.013919830322265625] However the staff were very pleasant and helpful, and the grand piano in the lobby was attractive but never played!
+[0.012798309326171875] Nice lobby.
+
+----- Weakening -----
+
+[-0.6335601806640625] Several churches of different denominations are dotted around Allan Park that is across the street.
+[-0.5641098022460938] Several blocks walking to Eaton Center, the shopping mall nearby.
+[-0.419830322265625] Our car was broken into.
+[-0.3184814453125] #1) Business Centre: no paper in printer, no pens, no envelopes, wi-fi slow and potentially virused #2) Several of the desk staff were cold and flat in their behaviour.
+[-0.3174896240234375] the subway is just up the street .
+
+**********
+
+[0.003078460693359375] The Primrose is a good hotel for people who plan on staying just a few dates in Toronto.
+Parent: The Primrose is a good hotel for people who plan on staying just a few dates in Toronto and plan on only sleeping there .
+
+----- Supporting -----
+
+[0.003078460693359375] Nice lobby.
+[0.00072479248046875] Lobby seemed nice, there's a restaurant right off the lobby that is also very nice and the Tim Horton's attached to the hotel is a great perk for me (I need my Tim's coffee in the AM!).
+[0.00060272216796875] Tim Hortons right in the lobby which was very convenient.
+[-0.000827789306640625] They have done some renovations to the lobby area which is now a nice granite counter and some darker woods which look very warm and inviting.
+[-0.003021240234375] I saw some work being done in the lobby and wonder if they also did the rooms as our furniture looked to be new and had no damage or wear you normally see.
+
+----- Weakening -----
+
+[-0.2951812744140625] We had many people coming for this conference that had scratched their cars or some that cracked their exhaust pipe.
+[-0.26206207275390625] Our car was broken into.
+[-0.160552978515625] #1) Business Centre: no paper in printer, no pens, no envelopes, wi-fi slow and potentially virused #2) Several of the desk staff were cold and flat in their behaviour.
+[-0.10065460205078125] Several churches of different denominations are dotted around Allan Park that is across the street.
+[-0.0772705078125] We waited 25 minutes for a car to move and had to find management to clear it so we could proceed!
+
+**********
+
+[0.06951904296875] The Primrose is a good hotel for people who plan on sleeping there.
+Parent: The Primrose is a good hotel for people who plan on staying just a few dates in Toronto and plan on only sleeping there .
+
+----- Supporting -----
+
+[0.06951904296875] Lobby seemed nice, there's a restaurant right off the lobby that is also very nice and the Tim Horton's attached to the hotel is a great perk for me (I need my Tim's coffee in the AM!).
+[0.0213775634765625] It appears this hotel also serves as a university residence, but there was no noise issue with that.
+[0.018798828125] You should also be aware that there are no fire sprinklers in the guest areas of the hotel.
+[0.010929107666015625] However the staff were very pleasant and helpful, and the grand piano in the lobby was attractive but never played!
+[0.010616302490234375] Which made it easy to stumble through the lobby drunk and singing at 1:00 a.m.
+
+----- Weakening -----
+
+[-0.4558258056640625] Our car was broken into.
+[-0.3413887023925781] Several churches of different denominations are dotted around Allan Park that is across the street.
+[-0.2775115966796875] We had many people coming for this conference that had scratched their cars or some that cracked their exhaust pipe.
+[-0.20693206787109375] #1) Business Centre: no paper in printer, no pens, no envelopes, wi-fi slow and potentially virused #2) Several of the desk staff were cold and flat in their behaviour.
+[-0.17346954345703125] We also experienced the subway and found it was very easy to get around.
+
+**********
+
+[-0.008518218994140625] The cost of parking is too high.
+Parent: The hotel parking was a little expensive ( CAN $ 15 ) and the garage is compact so I would be careful if you drive a big car or SUV .
+
+----- Supporting -----
+
+[-0.008518218994140625] I instead parked a block away because the garage was full upon my checking in.
+[-0.00867462158203125] We waited 25 minutes for a car to move and had to find management to clear it so we could proceed!
+[-0.018334388732910156] Be prepared to wait at least five minutes, and the doors sensors do not work, which was very annoying.
+[-0.018752574920654297] You have to drive very slow and carefully to make sure you don't damage your car.
+[-0.029096603393554688] We had many people coming for this conference that had scratched their cars or some that cracked their exhaust pipe.
+
+----- Weakening -----
+
+[-0.7388186454772949] Tim Hortons right in the lobby which was very convenient.
+[-0.7001228332519531] Which made it easy to stumble through the lobby drunk and singing at 1:00 a.m.
+[-0.6381797790527344] While taking an elevator to our room, we noted the bottom of the elevator was being held together with a piece of plywood.
+[-0.6265716552734375] It was quickley rectified and someone brought me a new iron within minuets.
+[-0.5185184478759766] We also experienced the subway and found it was very easy to get around.
+
+**********
+
+[-0.00927877426147461] The hotel parking is too expensive.
+Parent: The hotel parking was a little expensive ( CAN $ 15 ) and the garage is compact so I would be careful if you drive a big car or SUV .
+
+----- Supporting -----
+
+[-0.00927877426147461] We arrived to find the Hotel underging a refurbishment,which we were not advised of at the time of booking or through the Hotel website.
+[-0.020559310913085938] You should also be aware that there are no fire sprinklers in the guest areas of the hotel.
+[-0.02474212646484375] However the staff were very pleasant and helpful, and the grand piano in the lobby was attractive but never played!
+[-0.025775909423828125] We waited 25 minutes for a car to move and had to find management to clear it so we could proceed!
+[-0.026541709899902344] You have to drive very slow and carefully to make sure you don't damage your car.
+
+----- Weakening -----
+
+[-0.7701702117919922] Which made it easy to stumble through the lobby drunk and singing at 1:00 a.m.
+[-0.5530214309692383] Tim Hortons right in the lobby which was very convenient.
+[-0.46623897552490234] We also experienced the subway and found it was very easy to get around.
+[-0.3917274475097656] It was quickley rectified and someone brought me a new iron within minuets.
+[-0.3402099609375] Our car was broken into.
+
+**********
+
+[-0.02553558349609375] The hotel garage is small.
+Parent: The hotel parking was a little expensive ( CAN $ 15 ) and the garage is compact so I would be careful if you drive a big car or SUV .
+
+----- Supporting -----
+
+[-0.02553558349609375] We arrived to find the Hotel underging a refurbishment,which we were not advised of at the time of booking or through the Hotel website.
+[-0.025970458984375] It appears this hotel also serves as a university residence, but there was no noise issue with that.
+[-0.0320587158203125] Be prepared to wait at least five minutes, and the doors sensors do not work, which was very annoying.
+[-0.03350830078125] They moved very slow but at least they are undergoing renovation.
+[-0.033599853515625] It was quickley rectified and someone brought me a new iron within minuets.
+
+----- Weakening -----
+
+[-0.7076263427734375] If you get on an elevator that is packed, forget about getting to the card reader.
+[-0.677886962890625] (Coming off the street, the turns were tight and narrow.)
+[-0.51641845703125] Several churches of different denominations are dotted around Allan Park that is across the street.
+[-0.51611328125] They have done some renovations to the lobby area which is now a nice granite counter and some darker woods which look very warm and inviting.
+[-0.4842529296875] #1) Business Centre: no paper in printer, no pens, no envelopes, wi-fi slow and potentially virused #2) Several of the desk staff were cold and flat in their behaviour.
+
+**********
+
+[0.01544952392578125] If you drive a big car or SUV, you will have to be careful.
+Parent: The hotel parking was a little expensive ( CAN $ 15 ) and the garage is compact so I would be careful if you drive a big car or SUV .
+
+----- Supporting -----
+
+[0.01544952392578125] Be prepared to wait at least five minutes, and the doors sensors do not work, which was very annoying.
+[0.008111000061035156] You have to drive very slow and carefully to make sure you don't damage your car.
+[0.0003452301025390625] (Coming off the street, the turns were tight and narrow.)
+[-0.001514434814453125] We had many people coming for this conference that had scratched their cars or some that cracked their exhaust pipe.
+[-0.00274658203125] Our car was broken into.
+
+----- Weakening -----
+
+[-0.5972900390625] If you get on an elevator that is packed, forget about getting to the card reader.
+[-0.578277587890625] On the way up to my room - I got stuck in an elevator.
+[-0.524078369140625] The beds were comfortable and the sheets good quality but the furniture is pretty dated and the bathroom very tired looking.
+[-0.4360504150390625] Tim Hortons right in the lobby which was very convenient.
+[-0.3553009033203125] Which made it easy to stumble through the lobby drunk and singing at 1:00 a.m.
+
+**********
+
+[0.41956329345703125] The location was good.
+Parent: It was in a good location on Carlton / College Ave. .
+
+----- Supporting -----
+
+[0.41956329345703125] Tim Hortons right in the lobby which was very convenient.
+[0.34728050231933594] Lobby seemed nice, there's a restaurant right off the lobby that is also very nice and the Tim Horton's attached to the hotel is a great perk for me (I need my Tim's coffee in the AM!).
+[0.2966947555541992] Nice lobby.
+[0.1075592041015625] There were lots of restaurants around, and found the area and city in general to be very family friendly.
+[0.07428741455078125] Relatively safe neighborhood in the "gay" area, but there were a few crazies walking the streets and some just high on drugs.
+
+----- Weakening -----
+
+[-0.15282440185546875] Our car was broken into.
+[-0.03667449951171875] #1) Business Centre: no paper in printer, no pens, no envelopes, wi-fi slow and potentially virused #2) Several of the desk staff were cold and flat in their behaviour.
+[-0.03487396240234375] We waited 25 minutes for a car to move and had to find management to clear it so we could proceed!
+[-0.0318756103515625] If you get on an elevator that is packed, forget about getting to the card reader.
+[-0.02550506591796875] On the way up to my room - I got stuck in an elevator.
+
+**********
+
+[-0.000476837158203125] The hotel was located on Carlton / College Ave.
+Parent: It was in a good location on Carlton / College Ave. .
+
+----- Supporting -----
+
+[-0.000476837158203125] The property was much better then I expected.
+[-0.0015735626220703125] It appears this hotel also serves as a university residence, but there was no noise issue with that.
+[-0.0019741058349609375] On the way up to my room - I got stuck in an elevator.
+[-0.00244903564453125] Nice lobby.
+[-0.00247955322265625] Lobby seemed nice, there's a restaurant right off the lobby that is also very nice and the Tim Horton's attached to the hotel is a great perk for me (I need my Tim's coffee in the AM!).
+
+----- Weakening -----
+
+[-0.4475250244140625] Several churches of different denominations are dotted around Allan Park that is across the street.
+[-0.4071502685546875] the subway is just up the street .
+[-0.166473388671875] #1) Business Centre: no paper in printer, no pens, no envelopes, wi-fi slow and potentially virused #2) Several of the desk staff were cold and flat in their behaviour.
+[-0.11719131469726562] Several blocks walking to Eaton Center, the shopping mall nearby.
+[-0.11319351196289062] We were lost in a city we HAD never been in for 10 mintues during the night.

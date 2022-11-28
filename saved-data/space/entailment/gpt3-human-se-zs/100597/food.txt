@@ -1,0 +1,182 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.9655366738637289
+
+**********
+
+[0.9680948257446289] The food was good.
+
+----- Supporting -----
+
+[0.9680948257446289] The food was good although a bit pricey.
+[0.9598751068115234] Food was good, but a bit overpriced.
+[0.9436769485473633] Restaurant food was excellent and reasonably priced and breakfast was good.
+[0.9420289993286133] The food was decent as was the wine selection.
+[0.9126667976379395] We tried the hotel restaurants and the food was quite good.
+
+----- Weakening -----
+
+[-0.9760665893554688] Food was very expensive in restaurant and just okay.
+[-0.877227783203125] The not so good news - food at the hotel was OK.
+[-0.79388427734375] We ate at both the lounge and the cafe and food was average at best, but the service VERY GOOD!
+[-0.7062530517578125] VERY average burger.
+[-0.28620147705078125] We ordered food and received ice cold food one hour later.
+
+**********
+
+[0.9863166809082031] The food was pricey.
+
+----- Supporting -----
+
+[0.9863166809082031] Food was very expensive in restaurant and just okay.
+[0.9707679748535156] Food was good, but a bit overpriced.
+[0.9657144546508789] The food was a little expensive-$13 for a burger and $12 for an omelette alone.
+[0.9592666625976562] The food was good although a bit pricey.
+[0.9529314041137695] That worked well for me since the food at the hotel is fairly pricey.
+
+----- Weakening -----
+
+[-0.9832763671875] Restaurant food was excellent and reasonably priced and breakfast was good.
+[-0.9314117431640625] I was able to purchase a reasonably priced bottle of Oregon pinot noir for in-room consumption.
+[-0.8256988525390625] This plus we luv their complimentary cookies that they offer upon check-in.
+[-0.675140380859375] Even got free cookies - wasn't expecting that.
+[-0.6336517333984375] VERY average burger.
+
+**********
+
+[0.9961001873016357] The hotel reception smelled of freshly baked cookies.
+
+----- Supporting -----
+
+[0.9961001873016357] The hotel reception had a lovely smell of freshly baked cookies which were given out at check in and were delicious.
+[0.025177001953125] The rooms are comfortable and the cookies are great but getting smaller.
+[0.00824737548828125] Warm cookies when you arrive.
+[0.00670623779296875] The cookies are a nice touch too.
+[0.004650115966796875] They did have warm cookies at check-in.
+
+----- Weakening -----
+
+[-0.8732147216796875] The soup was brought to us pretty cold, but he seemed to vanish so we couldn't complain.
+[-0.7834968566894531] So a burger and soup were $32, and it was a very.
+[-0.777496337890625] All of this resulted in out take-out food getting cold plus I lost my scarf somewhere along the way.
+[-0.6727638244628906] VERY average burger.
+[-0.6429290771484375] Then there was this set-up for the syrup which was under a sterno can and full flame, the syrup was boiling.
+
+**********
+
+[0.9907803535461426] Cookies were given out at check-in.
+
+----- Supporting -----
+
+[0.9907803535461426] The hotel reception had a lovely smell of freshly baked cookies which were given out at check in and were delicious.
+[0.9893913269042969] On the plus side, we got warm cookies upon check-in.
+[0.9874348640441895] They did have warm cookies at check-in.
+[0.985630989074707] This plus we luv their complimentary cookies that they offer upon check-in.
+[0.9712257385253906] And yes, we like the chocolate chip cookies at check-in.
+
+----- Weakening -----
+
+[-0.861236572265625] Then there was this set-up for the syrup which was under a sterno can and full flame, the syrup was boiling.
+[-0.7419376373291016] I love the big warm cookies in the evening.
+[-0.688446044921875] --Cookies at check in were good.
+[-0.6244010925292969] We ordered food and received ice cold food one hour later.
+[-0.44557952880859375] The soup was brought to us pretty cold, but he seemed to vanish so we couldn't complain.
+
+**********
+
+[0.8710250854492188] The cookies were delicious.
+
+----- Supporting -----
+
+[0.8710250854492188] The hotel reception had a lovely smell of freshly baked cookies which were given out at check in and were delicious.
+[0.5156688690185547] Cookies were good, as always.
+[0.31745147705078125] The chocolate chip cookies are always a treat.
+[0.2803497314453125] The rooms are comfortable and the cookies are great but getting smaller.
+[0.177154541015625] You absolutely cannot beat a Doubletree chocolate chip cookie as a welcome treat.
+
+----- Weakening -----
+
+[-0.9143409729003906] So a burger and soup were $32, and it was a very.
+[-0.8152809143066406] The soup was brought to us pretty cold, but he seemed to vanish so we couldn't complain.
+[-0.7668304443359375] VERY average burger.
+[-0.7566986083984375] Burger, soda and tip $21.00.
+[-0.7352161407470703] So we had to order a pizza.
+
+**********
+
+[0.9848709106445312] The food was expensive.
+
+----- Supporting -----
+
+[0.9848709106445312] Food was very expensive in restaurant and just okay.
+[0.9679908752441406] Food was good, but a bit overpriced.
+[0.9593601226806641] The food was a little expensive-$13 for a burger and $12 for an omelette alone.
+[0.9586915969848633] That worked well for me since the food at the hotel is fairly pricey.
+[0.9527854919433594] The food was good although a bit pricey.
+
+----- Weakening -----
+
+[-0.9933147430419922] Restaurant food was excellent and reasonably priced and breakfast was good.
+[-0.8956222534179688] I was able to purchase a reasonably priced bottle of Oregon pinot noir for in-room consumption.
+[-0.7965278625488281] VERY average burger.
+[-0.7323837280273438] This plus we luv their complimentary cookies that they offer upon check-in.
+[-0.4197711944580078] Even got free cookies - wasn't expecting that.
+
+**********
+
+[0.9705333709716797] The food was excellent.
+
+----- Supporting -----
+
+[0.9705333709716797] Restaurant food was excellent and reasonably priced and breakfast was good.
+[0.9492740631103516] Choice of food was excelent.
+[0.8677482604980469] We tried the hotel restaurants and the food was quite good.
+[0.8328781127929688] The food was good although a bit pricey.
+[0.672119140625] Food was good, but a bit overpriced.
+
+----- Weakening -----
+
+[-0.9964351654052734] Food was very expensive in restaurant and just okay.
+[-0.9961156845092773] The not so good news - food at the hotel was OK.
+[-0.9956283569335938] We ate at both the lounge and the cafe and food was average at best, but the service VERY GOOD!
+[-0.9931888580322266] VERY average burger.
+[-0.9458723068237305] We ordered food and received ice cold food one hour later.
+
+**********
+
+[0.9680948257446289] The food was good.
+
+----- Supporting -----
+
+[0.9680948257446289] The food was good although a bit pricey.
+[0.9598751068115234] Food was good, but a bit overpriced.
+[0.9436769485473633] Restaurant food was excellent and reasonably priced and breakfast was good.
+[0.9420289993286133] The food was decent as was the wine selection.
+[0.9126667976379395] We tried the hotel restaurants and the food was quite good.
+
+----- Weakening -----
+
+[-0.9760665893554688] Food was very expensive in restaurant and just okay.
+[-0.877227783203125] The not so good news - food at the hotel was OK.
+[-0.79388427734375] We ate at both the lounge and the cafe and food was average at best, but the service VERY GOOD!
+[-0.7062530517578125] VERY average burger.
+[-0.28620147705078125] We ordered food and received ice cold food one hour later.
+
+**********
+
+[0.9540138244628906] The food was overpriced.
+
+----- Supporting -----
+
+[0.9540138244628906] Food was good, but a bit overpriced.
+[0.9466400146484375] Food was very expensive in restaurant and just okay.
+[0.7691612243652344] That worked well for me since the food at the hotel is fairly pricey.
+[0.7379302978515625] The food was good although a bit pricey.
+[0.4860992431640625] The food was a little expensive-$13 for a burger and $12 for an omelette alone.
+
+----- Weakening -----
+
+[-0.9922189712524414] Restaurant food was excellent and reasonably priced and breakfast was good.
+[-0.9004268646240234] I was able to purchase a reasonably priced bottle of Oregon pinot noir for in-room consumption.
+[-0.5889034271240234] This plus we luv their complimentary cookies that they offer upon check-in.
+[-0.5575332641601562] The only good thing about it was that i booked it on Priceline and got a really good price.
+[-0.5372486114501953] Overall I was quite pleased as we paid only $50 through Priceline.

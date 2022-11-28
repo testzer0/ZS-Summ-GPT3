@@ -1,0 +1,170 @@
+***** Aspect: service Model Type : zs *****
+Overall score: 0.12450540065765381
+
+**********
+
+[-0.000385284423828125] The hotel is located 40 minutes away from DFW airport.
+Parent: The hotel is about 40 minutes from DFW airport in downtown Dallas .
+
+----- Supporting -----
+
+[-0.000385284423828125] Good location and very helpful staff.
+[-0.0007848739624023438] I was treated wonderfully.
+[-0.0008153915405273438] I stay in Dallas quite a bit for business and this is one of two hotels I frequent (W is the other).
+[-0.0009698867797851562] We were treated very well.
+[-0.0009741783142089844] Chasity Gray helped arrange my stay at this very impressive hotel.
+
+----- Weakening -----
+
+[-0.7154541015625] Need a ride to the State Fair?
+[-0.2931365966796875] I find that very unproffessional as a manager not to be stocked or offer to go get what the customer is requesting.
+[-0.22303009033203125] If your review is questioned you get no say in the process.
+[-0.1761627197265625] I've never written a review but want to save ppl this drama, thanks the joule for totally ruining our first wedding anniversary!!
+[-0.16921234130859375] He also went on an errand for me as I was running out of time to get ready for a wedding.
+
+**********
+
+[0.35646820068359375] The hotel is in a good location.
+Parent: The hotel is about 40 minutes from DFW airport in downtown Dallas .
+
+----- Supporting -----
+
+[0.35646820068359375] Not only is this a great hotel, but I was traveling on business and experienced an illness during my trip.
+[0.28789520263671875] I suggest you take a look at the managment position as the pool ran out of Chardoney on Saturday night before 10pm and no one offered to go get us some more.
+[0.08294677734375] Good location and very helpful staff.
+[0.061593055725097656] I ended a five week business trip at this hotel and it was by far the best experience that I had.
+[0.061069488525390625] The hotel room was pristine and beautiful, and the staff was extremely friendly and polite (not at all condescending which can sometimes occur in a high-end hotel like this).
+
+----- Weakening -----
+
+[-0.3786964416503906] We have NEVER had a bad experience with that company until now.
+[-0.24831390380859375] I was appalled that we were treated that way.
+[-0.22447967529296875] to get ONE sandwhich I had to call and ck on it and there are slow and the service is so bad and the managers know which makes it WORSE...
+[-0.2215576171875] Need a ride to the State Fair?
+[-0.1821136474609375] Maybe I'm just spoiled, but I travel frequently and I have never recieved such poor service from an "upscale" hotel.
+
+**********
+
+[0.1651611328125] The room was spacious.
+Parent: The room was spacious enough , with a big glass wall on the outside , a 42 " flat screen TV , and terrific lighting arrangements that allowed you to adjust the brightness in various parts of the room .
+
+----- Supporting -----
+
+[0.1651611328125] The accomodations were wonderful, the canti-levered pool was gorgeous and the lobby ultra chiq...but the best attribute by far was the care and attention to detail given by Henry and the valet staff!
+[0.0709075927734375] The hotel room was pristine and beautiful, and the staff was extremely friendly and polite (not at all condescending which can sometimes occur in a high-end hotel like this).
+[0.0368194580078125] They upgraded us to a suite free of charge, brought in cupcakes, a special beer and were of ongoing assistance through out the stay, helping to make his birthday a great day and full of surprises.
+[0.026580810546875] We enjoyed the Charlie Palmer for dinner and drinks nightly, and were treated like VIP's everywhere we went.
+[0.0260772705078125] Thank you for a fabulous weekend and hats off to Henry and the entire valet staff and their "bloody good" service!
+
+----- Weakening -----
+
+[-0.8229217529296875] Cons: Service is terrible!!
+[-0.7443618774414062] Also Brendan and Craig were the best, they would bend over backwards to accommodate me.
+[-0.5516357421875] It was really disappointing to have not just one error but two errors on my bill.
+[-0.541839599609375] to get ONE sandwhich I had to call and ck on it and there are slow and the service is so bad and the managers know which makes it WORSE...
+[-0.5255126953125] Need a ride to the State Fair?
+
+**********
+
+[-0.000644683837890625] The room had a big glass wall on the outside.
+Parent: The room was spacious enough , with a big glass wall on the outside , a 42 " flat screen TV , and terrific lighting arrangements that allowed you to adjust the brightness in various parts of the room .
+
+----- Supporting -----
+
+[-0.000644683837890625] I stayed here for one night for a short business trip with meetings in Dallas downtown.
+[-0.0021457672119140625] Chasity Gray helped arrange my stay at this very impressive hotel.
+[-0.0029931068420410156] We received prompt and courteous service at check-in, and arrived to find an extremely nice well appointed room.
+[-0.004268646240234375] They upgraded us to a suite free of charge, brought in cupcakes, a special beer and were of ongoing assistance through out the stay, helping to make his birthday a great day and full of surprises.
+[-0.0047760009765625] I was here on business with a client and we both totally love this place.
+
+----- Weakening -----
+
+[-0.6366424560546875] The food and service is amazing!
+[-0.52447509765625] I think you have some great staff out front you might want to have Bryce and Bryson or Nikki teach your managers what it means to have great customer service!
+[-0.4972381591796875] The only service which was spot on was the car parking service and staff.
+[-0.482757568359375] Need a ride to the State Fair?
+[-0.475830078125] The salmon here is especially good â€¢ Service â€“ Very good and the staff are very friendly.
+
+**********
+
+[-0.0009479522705078125] The room had a 42" flat screen TV.
+Parent: The room was spacious enough , with a big glass wall on the outside , a 42 " flat screen TV , and terrific lighting arrangements that allowed you to adjust the brightness in various parts of the room .
+
+----- Supporting -----
+
+[-0.0009479522705078125] We received prompt and courteous service at check-in, and arrived to find an extremely nice well appointed room.
+[-0.0014142990112304688] Chasity Gray helped arrange my stay at this very impressive hotel.
+[-0.0014705657958984375] I was treated wonderfully.
+[-0.001529693603515625] I stayed here for one night for a short business trip with meetings in Dallas downtown.
+[-0.00176239013671875] The hotel room was pristine and beautiful, and the staff was extremely friendly and polite (not at all condescending which can sometimes occur in a high-end hotel like this).
+
+----- Weakening -----
+
+[-0.6940193176269531] The only service which was spot on was the car parking service and staff.
+[-0.6622772216796875] Need a ride to the State Fair?
+[-0.5648040771484375] She then handed me a bag , yes a bag of ice.
+[-0.5468826293945312] Cons: Service is terrible!!
+[-0.5245208740234375] The salmon here is especially good â€¢ Service â€“ Very good and the staff are very friendly.
+
+**********
+
+[0.2606658935546875] The room had good lighting arrangements.
+Parent: The room was spacious enough , with a big glass wall on the outside , a 42 " flat screen TV , and terrific lighting arrangements that allowed you to adjust the brightness in various parts of the room .
+
+----- Supporting -----
+
+[0.2606658935546875] The Bellman/Valet Team are incredible and make you feel right at home each time!
+[0.09647369384765625] The accomodations were wonderful, the canti-levered pool was gorgeous and the lobby ultra chiq...but the best attribute by far was the care and attention to detail given by Henry and the valet staff!
+[0.024682998657226562] The hotel room was pristine and beautiful, and the staff was extremely friendly and polite (not at all condescending which can sometimes occur in a high-end hotel like this).
+[0.0243377685546875] The have really nice turn down service, too.
+[0.02303314208984375] I suggest you take a look at the managment position as the pool ran out of Chardoney on Saturday night before 10pm and no one offered to go get us some more.
+
+----- Weakening -----
+
+[-0.5206336975097656] Cons: Service is terrible!!
+[-0.364288330078125] The only service which was spot on was the car parking service and staff.
+[-0.337066650390625] I was so amazed at the rust on the equipment.
+[-0.2856597900390625] We have NEVER had a bad experience with that company until now.
+[-0.24729156494140625] I have read some of the reviews that spoke of bad service.
+
+**********
+
+[-0.0011777877807617188] The front desk area is too small.
+Parent: The front deks area is not huge , but has a farily open seating and meeting place .
+
+----- Supporting -----
+
+[-0.0011777877807617188] Cons: Service is terrible!!
+[-0.0018148422241210938] I read the reviews before I went so I addressed some of the service issues beforehand.
+[-0.0028285980224609375] Maybe I'm just spoiled, but I travel frequently and I have never recieved such poor service from an "upscale" hotel.
+[-0.005451202392578125] Absolutely ridiculous service for any hotel let alone one u pay $300+ a night for.
+[-0.0056629180908203125] I have read some of the reviews that spoke of bad service.
+
+----- Weakening -----
+
+[-0.4956698417663574] The customer service was excellent and Ms. Chasity Gray was outstanding, as she went the extra mile to make sure our stay was a memorable one!!!
+[-0.49083614349365234] We were very impressed with the service and attention to detail.
+[-0.4901924133300781] I was treated wonderfully.
+[-0.4357643127441406] hotel service was wonderful.
+[-0.41771602630615234] The staff made us feel welcome and relaxed from the minute we pulled up to the valet stand.
+
+**********
+
+[0.2169036865234375] The front deks area has an open seating and meeting place.
+Parent: The front deks area is not huge , but has a farily open seating and meeting place .
+
+----- Supporting -----
+
+[0.2169036865234375] Bryson also has great customer service and I enjoyed visiting with Bryson on the front sidewalk several times.
+[0.061187744140625] The accomodations were wonderful, the canti-levered pool was gorgeous and the lobby ultra chiq...but the best attribute by far was the care and attention to detail given by Henry and the valet staff!
+[0.0299072265625] However, Shawn at the bar, Scott the restaurant's executive chef, and Todd at the hotel bar have MORE than made up for the rough start.
+[0.021240234375] Craig was very knowledgable and helpful with everything, from finding a suitable conference room for our meetings to finding the perfect meal in town!
+[0.020050048828125] The manager of the attached restaurantis also really helpful and provides excellent service - even though the restaurant is independently managed.
+
+----- Weakening -----
+
+[-0.1816864013671875] Cons: Service is terrible!!
+[-0.14508819580078125] Furthermore, room service was closed at 10 pm, front desk was unhelpful (in ordering a pizza nonetheless) and Charlie Palmer was a waste of time and energy (great staff, HORRIBLE management.)
+[-0.13775634765625] Need a ride to the State Fair?
+[-0.1144561767578125] After my first drink we had to flag down a girl to ask for another as the pool area was not busy maybe 6 other people so ni reason for service to be that bad.
+[-0.1077880859375] After calling down to the desk, they did not even give a simple apology.

@@ -1,0 +1,233 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.8847602063959296
+
+**********
+
+[0.9860935211181641] The hotel was not clean.
+Parent: The cleanliness of the hotel was criticized in the reviews, with complaints about the condition of the bedding, the presence of hair, and the general cleanliness of the room.
+
+----- Supporting -----
+
+[0.9860935211181641] The hotel just did not seem clean at all.
+[0.9148941040039062] The hotel needs updating and cleaning.
+[0.9145488739013672] Once inside the hotel it smelled so musty I opened the window in my room to discover it didn't even lock (we had a main floor room, so window locks are a MUST) Husband went to the front desk to complain, maintenance man was able to fix it after at least 45 minute wait.
+[0.91119384765625] NAsty hotel!!!!
+[0.90338134765625] The hotel had a very musty smell as soon as you entered.
+
+----- Weakening -----
+
+[-0.9903526306152344] The hotel in all is very clean and the standard rooms are very spacious.
+[-0.98663330078125] It's in a very quiet part of Branson, the rooms are super clean, the staff is very helpful and they have a great hot breakfast.
+[-0.9811820983886719] The room was nice and clean and the hotel staff was wonderful.
+[-0.9809970855712891] The rooms are always very clean and have a coffee pot, blow dryer, and cable tv.
+[-0.9790000915527344] The rooms are very clean and have plenty of room with the most comfortable beds for a good night's sleep.
+
+**********
+
+[0.8481597900390625] The bedding was in poor condition.
+Parent: The cleanliness of the hotel was criticized in the reviews, with complaints about the condition of the bedding, the presence of hair, and the general cleanliness of the room.
+
+----- Supporting -----
+
+[0.8481597900390625] Bedspreads were messed up when we arrived.
+[0.8199005126953125] Pulled the blankets back on the bed was surprised to see there was a duvet that nobody uses because you know they don't wash them, the middle blanket was all ripped (on both beds), the sheets looked like they needed washed, anytime you move at all the bed continues to bounce for a while after.
+[0.8166351318359375] The room was clean but worn the AC/Heat was very noisy and the towels really needed to be replaced.
+[0.7965888977050781] The beds were poorly made.
+[0.7107124328613281] The sheet on one of the beds had copper colored stains near the top and the pillows were stained really bad.
+
+----- Weakening -----
+
+[-0.9902982711791992] They were clean and the furnishing were very nice.
+[-0.987241268157959] The bedding was very nice (large throw pillows and upscale comforters).
+[-0.9835872650146484] The group just raves over the super comfy beds and overall cleanliness of everything.
+[-0.9753408432006836] First of all I will say the good thing as the bed was comfortable and clean.
+[-0.9728622436523438] Pillows were even good, which is usually not the case at most hotels (from some of my previous experiences at other hotels).
+
+**********
+
+[0.9642353057861328] There were complaints about hair being found in the room.
+Parent: The cleanliness of the hotel was criticized in the reviews, with complaints about the condition of the bedding, the presence of hair, and the general cleanliness of the room.
+
+----- Supporting -----
+
+[0.9642353057861328] Heard several people at front desk complaining of hair in their bathtub upon arrival and general complaints about their room, our bathtub was never cleaned while we were there.
+[0.09051513671875] The staff was very helpful but could not find an unstained pilliow in the entire complex!
+[0.0059108734130859375] The hotel just did not seem clean at all.
+[0.0030469894409179688] It was a comfortable room but was not very clean.
+[0.002349853515625] The beds were very very nasty.
+
+----- Weakening -----
+
+[-0.8901901245117188] I complained about the dogs in the unit and they did move us to the building which doesn't allow pets, which is the only good thing I have to say about the place.
+[-0.8170318603515625] There were dead bugs floating in the water, a hole in the wall under the window, a piece of wood holding a slide glass door open, chains on other doors that said "this entrance is in need of repairs, sorry for any inconvenience" or something to that affect.
+[-0.8133697509765625] They are funny and have wonderful voices.
+[-0.786865234375] We had a message on our phone saying we had a package at the desk.
+[-0.7852516174316406] The wireless internet did not work and we were basically told - "Sorry" and they couldn't do anything about it.
+
+**********
+
+[0.985323429107666] The room was not clean enough.
+Parent: The cleanliness of the hotel was criticized in the reviews, with complaints about the condition of the bedding, the presence of hair, and the general cleanliness of the room.
+
+----- Supporting -----
+
+[0.985323429107666] It was a comfortable room but was not very clean.
+[0.9399566650390625] The hotel just did not seem clean at all.
+[0.9053020477294922] My room was dusty, which made me think that maybe it wasn't too clean.
+[0.870701789855957] Well room 506 was not clean and the hallway stunk and as we entered into the room the floor was wet from the sink leaking.
+[0.6520881652832031] The hotel needs updating and cleaning.
+
+----- Weakening -----
+
+[-0.9859809875488281] However, the rooms were clean enough, breakfast was fairly good and we enjoyed the location off the main strip.
+[-0.9822330474853516] The room was very clean and decorated very nicely.
+[-0.9793872833251953] The rooms were very clean and the beds were very comfortable.
+[-0.9771213531494141] The room was neet, clean, and more than adequate for our needs.
+[-0.9729709625244141] It's in a very quiet part of Branson, the rooms are super clean, the staff is very helpful and they have a great hot breakfast.
+
+**********
+
+[0.6645431518554688] The maid was not good.
+Parent: The maid was also criticized for not following instructions to clean the bathroom.
+
+----- Supporting -----
+
+[0.6645431518554688] NAsty hotel!!!!
+[0.632049560546875] The beds were very very nasty.
+[0.6058845520019531] The room was filthy and disgusting!
+[0.553009033203125] The pool area was in terrible shape.
+[0.544921875] The beds were poorly made.
+
+----- Weakening -----
+
+[-0.9928336143493652] It was great!
+[-0.9922275543212891] It was wonderful!
+[-0.9866495132446289] I would highly recommend it!
+[-0.9853982925415039] Excellent guest service.
+[-0.9851932525634766] Wonderful place!
+
+**********
+
+[0.7822265625] The maid did not clean the bathroom properly.
+Parent: The maid was also criticized for not following instructions to clean the bathroom.
+
+----- Supporting -----
+
+[0.7822265625] I had written a note to the maid to please spray bleach on the shower and tub, but this did not happen.
+[0.3968505859375] The staff who was very friendly tried cleaning the AC unit, however it didn't help.
+[0.3397216796875] The staff was very helpful but could not find an unstained pilliow in the entire complex!
+[0.24520492553710938] or they didnt check the sheets and blankets!
+[0.213409423828125] Pulled the blankets back on the bed was surprised to see there was a duvet that nobody uses because you know they don't wash them, the middle blanket was all ripped (on both beds), the sheets looked like they needed washed, anytime you move at all the bed continues to bounce for a while after.
+
+----- Weakening -----
+
+[-0.9314260482788086] He appreciated the staff that continuously kept everything filled and fresh.
+[-0.9288444519042969] The staff keeps everything full and clean.
+[-0.9096221923828125] The hotel staff was not helpful but the cleaning staff was very good.
+[-0.9093284606933594] Every requests is handled quickly and efficiently.
+[-0.9011898040771484] We stayed with a group recently and all had a good time....the group had experienced problems unrelated to the hotel but when we got there the treatment and service we received was wonderful.....we were made to feel right at home......I believe Joe was the gentleman who greeted us and was very kind and professional.....Maryann (I think that was her name) in the breakfast room was an absolute angel.....she went out of her way to make everyone feel special........this is an excellent choice for groups-affordable......receptive to needs.......Also the in charge cleaning lady was very professional and friendly.
+
+**********
+
+[0.9827399253845215] The hotel was clean.
+Parent: Some reviewers thought the hotel was clean, while others found it to be moldy or unclean in some areas.
+
+----- Supporting -----
+
+[0.9827399253845215] The hotel in all is very clean and the standard rooms are very spacious.
+[0.9745702743530273] Everything was great---Front desk people were friendly and was always willing to help in anyway...Rooms were clean and fresh..Breakfast was good and good music to listen too....I would rate this hotel and one of the best Branson has to offer.
+[0.9512748718261719] The room was nice and clean and the hotel staff was wonderful.
+[0.9402055740356445] (I dont go on vacation to sit in the hotel and watch TV) The rooms were very clean.
+[0.9126930236816406] Stone Castle is very convenient to the main strip in Branson, but is also accessible to the relief routes that avoid traffic The rooms were very clean and the beds were super comfortable.
+
+----- Weakening -----
+
+[-0.9973516464233398] The room was filthy and disgusting!
+[-0.9959630966186523] However, when we went into the building....the musty odor was horrible, the lobby area was humid as if the air conditioning wasn't on, the elevator smelled musty.
+[-0.9957733154296875] The entire hotel smells old and musty.
+[-0.9957494735717773] Dog was barking in room across the hall all day and night, one of us stepped in dog feces in the parking lot and tracked it into the room :( A group of ill guests vomited just outside the entry door, massive amounts, when we called to ask that it be cleaned up due to health hazards front desk staff was rude!
+[-0.9951744079589844] Opening the door, our room was musty and it smelled horrible.
+
+**********
+
+[0.71337890625] The hotel was moldy.
+Parent: Some reviewers thought the hotel was clean, while others found it to be moldy or unclean in some areas.
+
+----- Supporting -----
+
+[0.71337890625] Management should really address the musty smell of the hotel.
+[0.426025390625] The hotel had a very musty smell as soon as you entered.
+[0.3995361328125] Once inside the hotel it smelled so musty I opened the window in my room to discover it didn't even lock (we had a main floor room, so window locks are a MUST) Husband went to the front desk to complain, maintenance man was able to fix it after at least 45 minute wait.
+[0.27619171142578125] Then when we got to the room it was so small, and the bathroom had MOLD growing around the tile area.
+[0.2503547668457031] The hotel just did not seem clean at all.
+
+----- Weakening -----
+
+[-0.9919290542602539] The room was nice and clean and the hotel staff was wonderful.
+[-0.9915595054626465] The atmosphere was nice and friendly.
+[-0.9908580780029297] Rooms and halls were clean and neat.
+[-0.9896049499511719] Very warm, cozy, and comfortable rooms.
+[-0.988189697265625] The hotel in all is very clean and the standard rooms are very spacious.
+
+**********
+
+[0.8919830322265625] The hotel was unclean.
+Parent: Some reviewers thought the hotel was clean, while others found it to be moldy or unclean in some areas.
+
+----- Supporting -----
+
+[0.8919830322265625] The hotel had a very musty smell as soon as you entered.
+[0.8728179931640625] Once inside the hotel it smelled so musty I opened the window in my room to discover it didn't even lock (we had a main floor room, so window locks are a MUST) Husband went to the front desk to complain, maintenance man was able to fix it after at least 45 minute wait.
+[0.7992668151855469] Management should really address the musty smell of the hotel.
+[0.594757080078125] NAsty hotel!!!!
+[0.590179443359375] The entire hotel smells old and musty.
+
+----- Weakening -----
+
+[-0.9971973896026611] The atmosphere was nice and friendly.
+[-0.99660325050354] The staff was super friendly and very helpful.
+[-0.9961795806884766] The staff was so nice and took very good care of us.
+[-0.995978832244873] The staff is very accomodating and friendly.
+[-0.9956552982330322] We found the staff to be extremely nice and accomodating.
+
+**********
+
+[0.9827399253845215] The hotel was clean.
+Parent: Overall, reviewers thought the hotel was at least somewhat clean.
+
+----- Supporting -----
+
+[0.9827399253845215] The hotel in all is very clean and the standard rooms are very spacious.
+[0.9745702743530273] Everything was great---Front desk people were friendly and was always willing to help in anyway...Rooms were clean and fresh..Breakfast was good and good music to listen too....I would rate this hotel and one of the best Branson has to offer.
+[0.9512748718261719] The room was nice and clean and the hotel staff was wonderful.
+[0.9402055740356445] (I dont go on vacation to sit in the hotel and watch TV) The rooms were very clean.
+[0.9126930236816406] Stone Castle is very convenient to the main strip in Branson, but is also accessible to the relief routes that avoid traffic The rooms were very clean and the beds were super comfortable.
+
+----- Weakening -----
+
+[-0.9973516464233398] The room was filthy and disgusting!
+[-0.9959630966186523] However, when we went into the building....the musty odor was horrible, the lobby area was humid as if the air conditioning wasn't on, the elevator smelled musty.
+[-0.9957733154296875] The entire hotel smells old and musty.
+[-0.9957494735717773] Dog was barking in room across the hall all day and night, one of us stepped in dog feces in the parking lot and tracked it into the room :( A group of ill guests vomited just outside the entry door, massive amounts, when we called to ask that it be cleaned up due to health hazards front desk staff was rude!
+[-0.9951744079589844] Opening the door, our room was musty and it smelled horrible.
+
+**********
+
+[0.930938720703125] The hotel was at least somewhat clean.
+Parent: Overall, reviewers thought the hotel was at least somewhat clean.
+
+----- Supporting -----
+
+[0.930938720703125] Everything was great---Front desk people were friendly and was always willing to help in anyway...Rooms were clean and fresh..Breakfast was good and good music to listen too....I would rate this hotel and one of the best Branson has to offer.
+[0.8818092346191406] The room was nice and clean and the hotel staff was wonderful.
+[0.8566131591796875] However, the rooms were clean enough, breakfast was fairly good and we enjoyed the location off the main strip.
+[0.8549652099609375] (I dont go on vacation to sit in the hotel and watch TV) The rooms were very clean.
+[0.8536624908447266] Stone Castle is very convenient to the main strip in Branson, but is also accessible to the relief routes that avoid traffic The rooms were very clean and the beds were super comfortable.
+
+----- Weakening -----
+
+[-0.8576507568359375] The room was filthy and disgusting!
+[-0.8096160888671875] Opening the door, our room was musty and it smelled horrible.
+[-0.769775390625] The room was like being in a cave with a bad smell.
+[-0.745513916015625] The room smelled musty.
+[-0.741943359375] However, when we went into the building....the musty odor was horrible, the lobby area was humid as if the air conditioning wasn't on, the elevator smelled musty.

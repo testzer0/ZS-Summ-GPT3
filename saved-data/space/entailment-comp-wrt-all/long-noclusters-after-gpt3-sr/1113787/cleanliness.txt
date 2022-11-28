@@ -1,0 +1,44 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.9399986267089844
+
+**********
+
+[0.9164924621582031] The reviews said that the hotel was clean.
+Parent: The reviews said that the hotel was clean and well maintained.
+
+----- Supporting -----
+
+[0.9164924621582031] The hotel room was pristine and beautiful, and the staff was extremely friendly and polite (not at all condescending which can sometimes occur in a high-end hotel like this).
+[0.8016128540039062] The room was immaculate - superbly decorated, super clean, and there was a complimentary bottle of champagne for us, with truffles and a lovely note from the manager.
+[0.48755645751953125] The rooms were fantastic, very clean, and had awesome showers!!!
+[0.45236778259277344] Pros: The rooms were very clean and nice.
+[0.389556884765625] The accomodations were wonderful, the canti-levered pool was gorgeous and the lobby ultra chiq...but the best attribute by far was the care and attention to detail given by Henry and the valet staff!
+
+----- Weakening -----
+
+[-0.9790782928466797] I was so amazed at the rust on the equipment.
+[-0.9701976776123047] It needs to be removed ASAP.
+[-0.96282958984375] I agree with one reviewer that the outside club noise was a bit excessive, but that's the price for the great locale!
+[-0.9604644775390625] It was insulting that the doorman/management were so disrespectful and unwilling to take care of their guest.
+[-0.9486370086669922] The pool was completely packed with drunk, tattooed twenty-somethings like spring break in Daytona.
+
+**********
+
+[0.9635047912597656] The hotel was well maintained.
+Parent: The reviews said that the hotel was clean and well maintained.
+
+----- Supporting -----
+
+[0.9635047912597656] Rooms also nice, well-maintained, if again trying a bit too hard - one almost feels like this hotel is screaming "yes, I know its Dallas, but Dallas can be trendy too!".
+[0.9240608215332031] The hotel room was pristine and beautiful, and the staff was extremely friendly and polite (not at all condescending which can sometimes occur in a high-end hotel like this).
+[0.8998441696166992] I would recommend this hotel to anyone; it is clean, luxurious and has out of this world service.
+[0.7445335388183594] The accomodations were wonderful, the canti-levered pool was gorgeous and the lobby ultra chiq...but the best attribute by far was the care and attention to detail given by Henry and the valet staff!
+[0.6798095703125] The hotel is gorgeous and our room was clean, modern, and just as I expected a Luxury Starwood Hotel should be.
+
+----- Weakening -----
+
+[-0.9580402374267578] It was insulting that the doorman/management were so disrespectful and unwilling to take care of their guest.
+[-0.9525699615478516] Maybe I'm just spoiled, but I travel frequently and I have never recieved such poor service from an "upscale" hotel.
+[-0.9398460388183594] I was so amazed at the rust on the equipment.
+[-0.9323043823242188] This extends to the restaurants as well Bad: â€¢ No parking within the hotel itself so if you do not wish to pay for valet parking you have to drive around to a nearby parking building â€¢ No upgrades for SPG Platinum members â€“ although since I was travelling for business, I didnâ€™t particularly care.
+[-0.9313325881958008] It needs to be removed ASAP.

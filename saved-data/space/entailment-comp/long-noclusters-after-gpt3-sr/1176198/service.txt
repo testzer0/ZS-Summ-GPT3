@@ -1,0 +1,149 @@
+***** Aspect: service Model Type : zs *****
+Overall score: 0.31957994188581196
+
+**********
+
+[0.26590538024902344] The service at the hotel was poor.
+Parent: Overall, reviewers found the service at the hotel to be lacking.
+
+----- Supporting -----
+
+[0.26590538024902344] We spoke with the lady at the desk and all she had to say was "we have never had a Sunday like this... We have another valet employee coming in in an hour" Not helpful!
+[0.04068756103515625] Hotel did not offer taxi that day so I had to walk and pulled my back out.
+[0.023065567016601562] Never in my life have I spent so much in one place and been treated so poorly.
+[0.021402359008789062] I would NOT recommend giving this hotel your business.
+[0.01834392547607422] First, there was absolutely no housecleaning/maid service!
+
+----- Weakening -----
+
+[-0.9975190162658691] The hotel staff was very nice and let us leave our luggage before and after check in so that we can go around the city.
+[-0.9973950386047363] The service was exceptional and the rooms are very clean and comfortable.
+[-0.9970178604125977] The front desk staff, porters, room staff, wereall excellent....When a hotel strives for excellence in costumer service, it shows....it really does...
+[-0.9969892501831055] I often stay at Hilton properties and the Toronto Hilton Garden Inn offers a great, and expected, level of service and comfort.
+[-0.9965167045593262] The service was excellent, we were offered a deal on breakfast at check in.
+
+**********
+
+[0.987004280090332] There was no housekeeping/maid service.
+Parent: Complaints included no housekeeping/maid service, having to track down a maid to request towels, being given the wrong car when asking for the valet, and being told that their guest could only visit for 10 minutes.
+
+----- Supporting -----
+
+[0.987004280090332] First, there was absolutely no housecleaning/maid service!
+[0.0118865966796875] The service manager refused!
+[0.0] Horrible !
+[-0.002239227294921875] I would NOT recommend giving this hotel your business.
+[-0.003875732421875] Never in my life have I spent so much in one place and been treated so poorly.
+
+----- Weakening -----
+
+[-0.9980771541595459] If we call for extra towels/sheets/cups, it's all sent up very quickly by housekeeping staff.
+[-0.9956457614898682] From the valet staff to the front desk, to the cleaning staff, everyone was curteous and very friendly.
+[-0.9933948516845703] The front desk staff, porters, room staff, wereall excellent....When a hotel strives for excellence in costumer service, it shows....it really does...
+[-0.9914693832397461] The rooms and staff are fine.
+[-0.9875502586364746] Exceptional service!
+
+**********
+
+[0.0] The guests had to track down a maid to request towels.
+Parent: Complaints included no housekeeping/maid service, having to track down a maid to request towels, being given the wrong car when asking for the valet, and being told that their guest could only visit for 10 minutes.
+
+----- Supporting -----
+
+[0.0] Horrible !
+[-0.0101165771484375] But then it was all down hill from there.
+[-0.0240478515625] We spoke with the lady at the desk and all she had to say was "we have never had a Sunday like this... We have another valet employee coming in in an hour" Not helpful!
+[-0.02606964111328125] I would NOT recommend giving this hotel your business.
+[-0.0276031494140625] Never in my life have I spent so much in one place and been treated so poorly.
+
+----- Weakening -----
+
+[-0.9281749725341797] The valet parking service guys are really nice and rest assured your car will be safe.
+[-0.9260196685791016] The front desk made sure I was ok and comfortable and even went out of their way to offer soup, neo citran etc.
+[-0.8884048461914062] Nice people behind the front desk, my HiltonHHonors requests were granted, and so on.
+[-0.8859405517578125] Staff was helpful in helping us use mass transit and figure out what was open on Canadian Thanksgiving.
+[-0.8813877105712891] I stayed here on business and can definitely say that it has all the basic things required by a business traveller; iron, hairdryer, in room safe, free wi-fi etc.
+
+**********
+
+[0.0] The valet gave guests the wrong car.
+Parent: Complaints included no housekeeping/maid service, having to track down a maid to request towels, being given the wrong car when asking for the valet, and being told that their guest could only visit for 10 minutes.
+
+----- Supporting -----
+
+[0.0] Horrible !
+[-0.008939743041992188] Never in my life have I spent so much in one place and been treated so poorly.
+[-0.015680313110351562] I would NOT recommend giving this hotel your business.
+[-0.0290069580078125] Their fault, not ours, no apology from them.
+[-0.046062469482421875] Now, keep in mind that this is the third Hilton we had stayed at in three days and the other two had no issue and also my husband is a Gold member.
+
+----- Weakening -----
+
+[-0.9716968536376953] The valet parking service guys are really nice and rest assured your car will be safe.
+[-0.9680881500244141] Staff at the complimentary breakfast were also superb,.
+[-0.9667015075683594] Staff was helpful in helping us use mass transit and figure out what was open on Canadian Thanksgiving.
+[-0.962946891784668] Exceptional service!
+[-0.9585142135620117] The staff, including the General Manager, ensured that I had everything I required.
+
+**********
+
+[0.172149658203125] The guests were only allowed to visit for 10 minutes.
+Parent: Complaints included no housekeeping/maid service, having to track down a maid to request towels, being given the wrong car when asking for the valet, and being told that their guest could only visit for 10 minutes.
+
+----- Supporting -----
+
+[0.172149658203125] and that after 10 minutes they were going to come up into our room to check if our guest was still there??!!
+[0.0] Horrible !
+[-0.0072841644287109375] First, there was absolutely no housecleaning/maid service!
+[-0.01503753662109375] This would not be an issue during week with business travellers, but there were many young people around on the weekend.
+[-0.016147613525390625] But then it was all down hill from there.
+
+----- Weakening -----
+
+[-0.8495759963989258] Over a 2 week period I paid for 10 room nights here with our business.
+[-0.6745223999023438] We went down 20 minutes later ready to go and the guy said it would be another 20 minutes!
+[-0.4022693634033203] The service was excellent, we were offered a deal on breakfast at check in.
+[-0.4006004333496094] She happened to be outside as we were leaving on the last day and even called us by name then and wished us a safe trip home.
+[-0.3993072509765625] it doesnt matter if im hilton employee or not , check me in first, make me feel welcome and then when i leave the front desk , call to check the level of my honesty , and if im not hilton employee , all you have to do is switch rate and give me call to let me know !!!
+
+**********
+
+[0.6903266906738281] The hotel was clean.
+Parent: On the positive side, reviewers noted that the hotel was clean and modern.
+
+----- Supporting -----
+
+[0.6903266906738281] The service was exceptional and the rooms are very clean and comfortable.
+[0.3775634765625] From the valet staff to the front desk, to the cleaning staff, everyone was curteous and very friendly.
+[0.14131927490234375] I stayed here on business and can definitely say that it has all the basic things required by a business traveller; iron, hairdryer, in room safe, free wi-fi etc.
+[0.03765869140625] We needed a early check in and a late check-out - which we got with a smile - nothing was too much trouble for the staff of this hotel.
+[0.03598594665527344] The rooms in this hotel are really nice and the front desk staff were very friendly when we checked in.
+
+----- Weakening -----
+
+[-0.9219942092895508] Never in my life have I spent so much in one place and been treated so poorly.
+[-0.8071098327636719] First, there was absolutely no housecleaning/maid service!
+[-0.6032791137695312] We spoke with the lady at the desk and all she had to say was "we have never had a Sunday like this... We have another valet employee coming in in an hour" Not helpful!
+[-0.5330886840820312] Anyway, we called visa and it turns out that the Hotel had been entering the wrong expiry date.
+[-0.529693603515625] Am currently seeking medical attention for it.
+
+**********
+
+[0.121673583984375] The hotel was modern.
+Parent: On the positive side, reviewers noted that the hotel was clean and modern.
+
+----- Supporting -----
+
+[0.121673583984375] Rooms are attractive and well-appointed with super comfortable beds We were traveling light and didn't bring our laptops so the business center with free internet was a definite plus.
+[0.1024627685546875] Not a bad place for _recreational_ travelers But the desk clerks could not figure out that for business travel, two people might have two reservations to share one room -- not, as the clerks set it up, for one to be the guest of the other (which also means no "HHonors" points for the "guest).
+[0.04925537109375] There was a business centre, gym and pool, all of which were high quality.
+[0.045139312744140625] Wireless internet was complimentary in the room which is great.
+[0.017787933349609375] Nice facilityin a convenient location, very useful business services room, friendly restaurant staff (though the honeydew melon in the salad bar was off).
+
+----- Weakening -----
+
+[-0.500640869140625] I used to stay at the full service Hilton on Rishmond, but I prefer the low key ambience of this Hilton brand.
+[-0.26328277587890625] I would NOT recommend giving this hotel your business.
+[-0.1994781494140625] Am currently seeking medical attention for it.
+[-0.17250823974609375] Never in my life have I spent so much in one place and been treated so poorly.
+[-0.155731201171875] I stayed here on business and can definitely say that it has all the basic things required by a business traveller; iron, hairdryer, in room safe, free wi-fi etc.

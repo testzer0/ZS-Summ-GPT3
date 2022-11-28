@@ -1,0 +1,296 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.85515182358878
+
+**********
+
+[0.9740333557128906] The food was not good.
+Parent: The food was not good.
+
+----- Supporting -----
+
+[0.9740333557128906] The food is god awful, my stomach had to get used to it.
+[0.262298583984375] Breakfast was fairly average too.
+[0.1878204345703125] When at the restaurant, they gave me catchup that was so rancid it bubbled.
+[0.1667022705078125] The non-free continental breakfast is a joke.
+[0.1442718505859375] No Breakfast sandwiches for meat lovers like myself.
+
+----- Weakening -----
+
+[-0.994511604309082] The food they serve is good as well.
+[-0.9914951324462891] Great beef swarma pita sandwiches nearby esp.
+[-0.9909706115722656] Excellent breakfast in the AM as well.
+[-0.9899654388427734] The food was good and arrived on time and hot.
+[-0.9870033264160156] The restaurant buffet for breakfast was good, the wait staff was very pleasant.
+
+**********
+
+[0.9747099876403809] The food was bad.
+Parent: The reviewers said that the food was bad, but there were some good restaurants nearby.
+
+----- Supporting -----
+
+[0.9747099876403809] The food is god awful, my stomach had to get used to it.
+[0.19454193115234375] When at the restaurant, they gave me catchup that was so rancid it bubbled.
+[0.04156494140625] No Breakfast sandwiches for meat lovers like myself.
+[0.03203535079956055] Heed this warning stay away from this crappy place, you'll be glad you did.
+[0.02703857421875] The non-free continental breakfast is a joke.
+
+----- Weakening -----
+
+[-0.9971203804016113] The food they serve is good as well.
+[-0.9970455169677734] The food was good and arrived on time and hot.
+[-0.9965691566467285] Excellent breakfast in the AM as well.
+[-0.9962425231933594] The restaurant buffet for breakfast was good, the wait staff was very pleasant.
+[-0.9953880310058594] Great beef swarma pita sandwiches nearby esp.
+
+**********
+
+[0.7519655227661133] The nearby restaurants are good.
+Parent: The reviewers said that the food was bad, but there were some good restaurants nearby.
+
+----- Supporting -----
+
+[0.7519655227661133] surrounded by great restauants and a healthy walking distance to shops, Air Canada Centre, CN Tower.
+[0.7302875518798828] Close to good restaurants.
+[0.6411170959472656] Lots of good restaurants in the area too.
+[0.6268997192382812] Had daily continental or hot breakfast for an unreasonable cost for the 'menu' - try the local restaurants or delivery) Overall, reasonable cost for duration; comfortable, quiet, clean rooms; and you receive Best Western Club points or Airmiles for your stay.
+[0.6162939071655273] It is in a great location and was able to walk to some great restaurants and shopping places.
+
+----- Weakening -----
+
+[-0.3563699722290039] The food is god awful, my stomach had to get used to it.
+[-0.34803009033203125] In my entire life, I have never been treated in such a rude, disrespecting manner.
+[-0.26425743103027344] I do not recommend staying here.
+[-0.25473785400390625] I would not recommend this hotel to anyone!
+[-0.2535247802734375] It was so slow it was practically useless.
+
+**********
+
+[0.9748525619506836] The food was good.
+Parent: The reviews said that the food was good, with great coffee and doughnuts in the mornings.
+
+----- Supporting -----
+
+[0.9748525619506836] The food was good and arrived on time and hot.
+[0.9414768218994141] The food they serve is good as well.
+[0.8484525680541992] The restaurant buffet for breakfast was good, the wait staff was very pleasant.
+[0.4282989501953125] Went to Toronto for a buyers show and stayed at this Primrose Hotel because there was a dinner function there for us.Â  Booked on bestwestern.com as I found the rate was pretty much the same on all the websites I checked.Â  Lobby was ok, nothing too fancy.Â  I was checked in by the manager who seemed very nice and told me he upgraded my room - thanks!Â  Room was HUGE!Â  Great view of the city, very comfortable bed, I slept well.Â  Bathroom was ok, kinda like the lobby.Â  All the staff were very friendly and the breakfast buffet was good but overpriced compared to the Golden Greek restaurant next door that I found on my next morning.Â  For the price I paid I would stay again.
+[0.3514890670776367] Excellent breakfast in the AM as well.
+
+----- Weakening -----
+
+[-0.9935016632080078] The food is god awful, my stomach had to get used to it.
+[-0.7987136840820312] Breakfast was fairly average too.
+[-0.710540771484375] the beds were fantastic.
+[-0.6109199523925781] They had a restaurant but we didnâ€™t use it and opted for a quick coffee and muffin at the coffee shop beside the lobby.
+[-0.5861225128173828] Heed this warning stay away from this crappy place, you'll be glad you did.
+
+**********
+
+[0.834228515625] The coffee was great.
+Parent: The reviews said that the food was good, with great coffee and doughnuts in the mornings.
+
+----- Supporting -----
+
+[0.834228515625] great coffee & doughnuts in the mornings!
+[0.7715797424316406] Loved the Tim Hortons in the Lobby the next morning.
+[0.5206298828125] Lobby seemed nice, there's a restaurant right off the lobby that is also very nice and the Tim Horton's attached to the hotel is a great perk for me (I need my Tim's coffee in the AM!).
+[0.143341064453125] The coffee shop Tim Hortons in the lobby has wonderful baked goods not good for the wasteline buttasted great, Thanks Primrose.
+[0.12722015380859375] The `Tim Horton`s` coffee shop in the reception was a bonus.
+
+----- Weakening -----
+
+[-0.9729185104370117] But we didnt realise they were as bad as they were, on the 3rd time of using them we got stuck!!
+[-0.9686031341552734] The first impression we got from the Primrose Best Western was rudeness.
+[-0.9373369216918945] The shower was disgusting and there were marks all over the walls and carpet.
+[-0.9331474304199219] The laundry left something to be desired.
+[-0.9326248168945312] It was so slow it was practically useless.
+
+**********
+
+[0.7592620849609375] The doughnuts were great.
+Parent: The reviews said that the food was good, with great coffee and doughnuts in the mornings.
+
+----- Supporting -----
+
+[0.7592620849609375] Loved the Tim Hortons in the Lobby the next morning.
+[0.6204795837402344] great coffee & doughnuts in the mornings!
+[0.01696014404296875] The price was also quite reasonable.
+[0.013498306274414062] First thing I noticed was they had a Tim Horton's in the lobby, sweet!
+[0.0118408203125] The staff were very friendly and cheery and the kids also liked the Tim Hortons in the lobby for the donuts.
+
+----- Weakening -----
+
+[-0.9844822883605957] But we didnt realise they were as bad as they were, on the 3rd time of using them we got stuck!!
+[-0.9422216415405273] It was so slow it was practically useless.
+[-0.9257602691650391] Heed this warning stay away from this crappy place, you'll be glad you did.
+[-0.9232749938964844] The shower was disgusting and there were marks all over the walls and carpet.
+[-0.9220361709594727] I would never step into that hotel.
+
+**********
+
+[0.8520736694335938] The beef swarma pita sandwiches were great.
+Parent: They also said that the beef swarma pita sandwiches were great.
+
+----- Supporting -----
+
+[0.8520736694335938] Great beef swarma pita sandwiches nearby esp.
+[0.011028289794921875] The price was also quite reasonable.
+[0.0073089599609375] This cost $15 a night!
+[0.0063648223876953125] Wouldnâ€™t hesitate to go back there.
+[0.0061664581298828125] I'll be back.
+
+----- Weakening -----
+
+[-0.9614005088806152] The food is god awful, my stomach had to get used to it.
+[-0.9468698501586914] But we didnt realise they were as bad as they were, on the 3rd time of using them we got stuck!!
+[-0.9283938407897949] Heed this warning stay away from this crappy place, you'll be glad you did.
+[-0.9092268943786621] We are heartbroken and will never recommend this hotel to anyone.
+[-0.904083251953125] I would not recommend this hotel to anyone!
+
+**********
+
+[0.9748525619506836] The food was good.
+Parent: The reviews said that the food was good and that there was a variety of food available.
+
+----- Supporting -----
+
+[0.9748525619506836] The food was good and arrived on time and hot.
+[0.9414768218994141] The food they serve is good as well.
+[0.8484525680541992] The restaurant buffet for breakfast was good, the wait staff was very pleasant.
+[0.4282989501953125] Went to Toronto for a buyers show and stayed at this Primrose Hotel because there was a dinner function there for us.Â  Booked on bestwestern.com as I found the rate was pretty much the same on all the websites I checked.Â  Lobby was ok, nothing too fancy.Â  I was checked in by the manager who seemed very nice and told me he upgraded my room - thanks!Â  Room was HUGE!Â  Great view of the city, very comfortable bed, I slept well.Â  Bathroom was ok, kinda like the lobby.Â  All the staff were very friendly and the breakfast buffet was good but overpriced compared to the Golden Greek restaurant next door that I found on my next morning.Â  For the price I paid I would stay again.
+[0.3514890670776367] Excellent breakfast in the AM as well.
+
+----- Weakening -----
+
+[-0.9935016632080078] The food is god awful, my stomach had to get used to it.
+[-0.7987136840820312] Breakfast was fairly average too.
+[-0.710540771484375] the beds were fantastic.
+[-0.6109199523925781] They had a restaurant but we didnâ€™t use it and opted for a quick coffee and muffin at the coffee shop beside the lobby.
+[-0.5861225128173828] Heed this warning stay away from this crappy place, you'll be glad you did.
+
+**********
+
+[0.9283790588378906] The food was varied.
+Parent: The reviews said that the food was good and that there was a variety of food available.
+
+----- Supporting -----
+
+[0.9283790588378906] We did order food and beverage and were pleased with the variety of choices available for lunches.
+[0.12380218505859375] Went to Toronto for a buyers show and stayed at this Primrose Hotel because there was a dinner function there for us.Â  Booked on bestwestern.com as I found the rate was pretty much the same on all the websites I checked.Â  Lobby was ok, nothing too fancy.Â  I was checked in by the manager who seemed very nice and told me he upgraded my room - thanks!Â  Room was HUGE!Â  Great view of the city, very comfortable bed, I slept well.Â  Bathroom was ok, kinda like the lobby.Â  All the staff were very friendly and the breakfast buffet was good but overpriced compared to the Golden Greek restaurant next door that I found on my next morning.Â  For the price I paid I would stay again.
+[0.097259521484375] There were several `ladies of indeterminate occupation` on duty outside the front door most of the day & night.
+[0.07012939453125] When at the restaurant, they gave me catchup that was so rancid it bubbled.
+[0.06550788879394531] the concierge had little knowlege of the restaurants which should be a big part of his job but we made out ok. there are so many wonderful restaurants in toronto including a Korean Grill we went to where you bbq your own meat/fish.
+
+----- Weakening -----
+
+[-0.9611358642578125] We are huge fans of their breakfast menu but there were only a few choices available- very few muffins and bagels.
+[-0.6846923828125] The Wi-Fi service in the room was undependable, the 40+ kgb reception would suddenly drop to 1Kgb and unuseable, then it would flip up to perhaps 18 kbs and back to 1 kgb.
+[-0.6822776794433594] Breakfast was fairly average too.
+[-0.6732940673828125] This is not to complain about Tim Hortons in any way, but were were dissapointed of the "limited" menu they have had there.
+[-0.6332931518554688] They had a restaurant but we didnâ€™t use it and opted for a quick coffee and muffin at the coffee shop beside the lobby.
+
+**********
+
+[0.9724884033203125] The food arrived on time.
+Parent: The food arrived on time and was hot.
+
+----- Supporting -----
+
+[0.9724884033203125] The food was good and arrived on time and hot.
+[0.124847412109375] The restaurant buffet for breakfast was good, the wait staff was very pleasant.
+[0.12314605712890625] Tim Hortons onsite.
+[0.08979034423828125] Excellent breakfast in the AM as well.
+[0.0885009765625] It was quickley rectified and someone brought me a new iron within minuets.
+
+----- Weakening -----
+
+[-0.9940204620361328] There was a 'restaurant' that never did open the three days, two nights we stayed and no room service.
+[-0.9765338897705078] No Breakfast sandwiches for meat lovers like myself.
+[-0.9730920791625977] Checked in early and a King room was not ready yet.
+[-0.9716129302978516] Our car was broken into.
+[-0.9697647094726562] THEY GAVE US WRONG DIRECTIONS.
+
+**********
+
+[0.94622802734375] The food was hot.
+Parent: The food arrived on time and was hot.
+
+----- Supporting -----
+
+[0.94622802734375] The food was good and arrived on time and hot.
+[0.06311798095703125] Had daily continental or hot breakfast for an unreasonable cost for the 'menu' - try the local restaurants or delivery) Overall, reasonable cost for duration; comfortable, quiet, clean rooms; and you receive Best Western Club points or Airmiles for your stay.
+[0.0437469482421875] Loved the Tim Hortons in the Lobby the next morning.
+[0.038463592529296875] I stayed at the Primrose last weekend with a buddy for the Grey Cup and had a blast.
+[0.02848052978515625] Oh I must also add that there is a Tim Horton's donut shop, second only to Dunkin Donuts in quality (although Canadians might argue that point), located right inside the front entrance, so that was a great option for breakfast!
+
+----- Weakening -----
+
+[-0.9803714752197266] The food is god awful, my stomach had to get used to it.
+[-0.9374856948852539] They had a restaurant but we didnâ€™t use it and opted for a quick coffee and muffin at the coffee shop beside the lobby.
+[-0.9365701675415039] Heed this warning stay away from this crappy place, you'll be glad you did.
+[-0.8851165771484375] The first impression we got from the Primrose Best Western was rudeness.
+[-0.8825492858886719] The shower was disgusting and there were marks all over the walls and carpet.
+
+**********
+
+[0.3238849639892578] The food at the hotel is great.
+Parent: The food at the hotel was praised by reviewers for being great tasting and reasonably priced.
+
+----- Supporting -----
+
+[0.3238849639892578] Lobby seemed nice, there's a restaurant right off the lobby that is also very nice and the Tim Horton's attached to the hotel is a great perk for me (I need my Tim's coffee in the AM!).
+[0.2769775390625] Went to Toronto for a buyers show and stayed at this Primrose Hotel because there was a dinner function there for us.Â  Booked on bestwestern.com as I found the rate was pretty much the same on all the websites I checked.Â  Lobby was ok, nothing too fancy.Â  I was checked in by the manager who seemed very nice and told me he upgraded my room - thanks!Â  Room was HUGE!Â  Great view of the city, very comfortable bed, I slept well.Â  Bathroom was ok, kinda like the lobby.Â  All the staff were very friendly and the breakfast buffet was good but overpriced compared to the Golden Greek restaurant next door that I found on my next morning.Â  For the price I paid I would stay again.
+[0.18860244750976562] Had daily continental or hot breakfast for an unreasonable cost for the 'menu' - try the local restaurants or delivery) Overall, reasonable cost for duration; comfortable, quiet, clean rooms; and you receive Best Western Club points or Airmiles for your stay.
+[0.12845230102539062] 2) Our favorite bottle of wine is waiting for us in the room 3) Reservations are made at our favorite restauraunt 4) Staff know us by our first names 5) My wife gets a birthday email on her birthday 6) The staff truly feels like family TRY THIS hOTEL you wont be disapointed!
+[0.11535358428955078] The service was great and we had a breakfast arranged in a private dining room which everyone enjoyed.
+
+----- Weakening -----
+
+[-0.9892833232879639] The food is god awful, my stomach had to get used to it.
+[-0.9498481750488281] Heed this warning stay away from this crappy place, you'll be glad you did.
+[-0.9319629669189453] There was a restraunt in the hotel but we never eat there.
+[-0.9267854690551758] There was a 'restaurant' that never did open the three days, two nights we stayed and no room service.
+[-0.9037466049194336] I cannot begin to explain how awful this hotel is.
+
+**********
+
+[0.7325401306152344] The food at the hotel is reasonably priced.
+Parent: The food at the hotel was praised by reviewers for being great tasting and reasonably priced.
+
+----- Supporting -----
+
+[0.7325401306152344] there's an in-house tim hortons in case you don't want the very affordable breakfast buffet.
+[0.3871002197265625] great stuff, not one of those sneaky hotels that tries to sell you this sort of thing at extortionate rates after you booked.
+[0.079498291015625] the one across the street from the "Made in China" chinese restaurant, which was decent cheap eats on it's own!
+[0.074005126953125] Free soda with meal at "Made in China" and dinner specials from $5.99!
+[0.05010700225830078] In a nutshell it was affordable clean comfortable, the staff where friendly .. we felt safe here and the stay was very pleasant!
+
+----- Weakening -----
+
+[-0.9314727783203125] Went to Toronto for a buyers show and stayed at this Primrose Hotel because there was a dinner function there for us.Â  Booked on bestwestern.com as I found the rate was pretty much the same on all the websites I checked.Â  Lobby was ok, nothing too fancy.Â  I was checked in by the manager who seemed very nice and told me he upgraded my room - thanks!Â  Room was HUGE!Â  Great view of the city, very comfortable bed, I slept well.Â  Bathroom was ok, kinda like the lobby.Â  All the staff were very friendly and the breakfast buffet was good but overpriced compared to the Golden Greek restaurant next door that I found on my next morning.Â  For the price I paid I would stay again.
+[-0.74761962890625] They were also kind enough to recommend and make reservations at a lovely restaurant called Ruth Chris (pricey but well worth it if you are a steak lover).
+[-0.6560459136962891] We arrived at 3:00 in the morning, and drove through the night to arrive to the filthiest hotel we have ever seen!
+[-0.572723388671875] The restaurant was also a great deal since our kids ate free from the buffet since they are younger.
+[-0.5593719482421875] Weâ€™ve travelled to some very poor countries in our lives, but weâ€™ve never seen such dirty conditions!
+
+**********
+
+[0.9726266860961914] The baked goods at Tim Hortons in the lobby are wonderful.
+Parent: Tim Hortons in the lobby was specifically mentioned as having wonderful baked goods.
+
+----- Supporting -----
+
+[0.9726266860961914] The coffee shop Tim Hortons in the lobby has wonderful baked goods not good for the wasteline buttasted great, Thanks Primrose.
+[0.6435546875] Loved the Tim Hortons in the Lobby the next morning.
+[0.4192543029785156] The staff were very friendly and cheery and the kids also liked the Tim Hortons in the lobby for the donuts.
+[0.3350238800048828] Oh I must also add that there is a Tim Horton's donut shop, second only to Dunkin Donuts in quality (although Canadians might argue that point), located right inside the front entrance, so that was a great option for breakfast!
+[0.04297447204589844] great coffee & doughnuts in the mornings!
+
+----- Weakening -----
+
+[-0.8354368209838867] Heed this warning stay away from this crappy place, you'll be glad you did.
+[-0.8338308334350586] I would not recommend this hotel to anyone!
+[-0.8228011131286621] We are heartbroken and will never recommend this hotel to anyone.
+[-0.7806339263916016] I would never step into that hotel.
+[-0.7592029571533203] In my entire life, I have never been treated in such a rude, disrespecting manner.

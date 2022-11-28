@@ -1,0 +1,149 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.9507362501961845
+
+**********
+
+[0.9732751846313477] The four cup coffee maker was useful.
+Parent: A four cup coffee maker and supplies and complementary wi - fi were useful .
+
+----- Supporting -----
+
+[0.9732751846313477] A four cup coffee maker and supplies and complementary wi-fi were useful.
+[0.009258270263671875] The price was also quite reasonable.
+[0.000400543212890625] Highly recommended for the price!
+[-0.000762939453125] There is also a coffee shop in the lobby which was open late so that was convenient.
+[-0.0020313262939453125] for what this place costs I definitely recommend this hotel.
+
+----- Weakening -----
+
+[-0.24466705322265625] I used the sales department at the hotel to make a booking for a block of rooms coming to Toronto for a family wedding.
+[-0.19433212280273438] The food is god awful, my stomach had to get used to it.
+[-0.08841705322265625] we did get a craving for some calamari at 12:30 at night so we went out for a walk and saw three girls of the night between our hotel over to Younge.
+[-0.08139991760253906] The food was good and arrived on time and hot.
+[-0.06021881103515625] we did see a couple of homeless guys but they did not bother us.
+
+**********
+
+[0.9403152465820312] The supplies were useful.
+Parent: A four cup coffee maker and supplies and complementary wi - fi were useful .
+
+----- Supporting -----
+
+[0.9403152465820312] A four cup coffee maker and supplies and complementary wi-fi were useful.
+[0.353973388671875] The Tim Hortons in the lobby was also convenient for a late night coffee.
+[0.08380889892578125] The `Tim Horton`s` coffee shop in the reception was a bonus.
+[0.0697174072265625] great coffee & doughnuts in the mornings!
+[0.06677436828613281] We did order food and beverage and were pleased with the variety of choices available for lunches.
+
+----- Weakening -----
+
+[-0.2063751220703125] The food is god awful, my stomach had to get used to it.
+[-0.163543701171875] The food was good and arrived on time and hot.
+[-0.077667236328125] The food they serve is good as well.
+[-0.058502197265625] Great hotel and great price.
+[-0.049468994140625] The price is very good and the rooms are large, the only issue with the hotel is its very dated and could do with a revamp.
+
+**********
+
+[0.9636611938476562] The complimentary wi-fi was useful.
+Parent: A four cup coffee maker and supplies and complementary wi - fi were useful .
+
+----- Supporting -----
+
+[0.9636611938476562] A four cup coffee maker and supplies and complementary wi-fi were useful.
+[0.0005855560302734375] for what this place costs I definitely recommend this hotel.
+[-0.00049591064453125] Great hotel and great price.
+[-0.00087738037109375] Would stay there again as price was great and location perfect.
+[-0.001232147216796875] The price was good and they had a room with a king bed open.
+
+----- Weakening -----
+
+[-0.101715087890625] The Tim Hortons in the lobby was also convenient for a late night coffee.
+[-0.07135009765625] I used the sales department at the hotel to make a booking for a block of rooms coming to Toronto for a family wedding.
+[-0.0625152587890625] For $10 extra I could have stayed at the Sheraton!
+[-0.0506744384765625] Or grab a coffee and bagel at the Tim Hortons right next door.
+[-0.03461265563964844] The food is god awful, my stomach had to get used to it.
+
+**********
+
+[0.9794754981994629] The food is good.
+Parent: The food they serve is good as well .
+
+----- Supporting -----
+
+[0.9794754981994629] The food they serve is good as well.
+[0.961977481842041] The food was good and arrived on time and hot.
+[0.25363731384277344] Great beef swarma pita sandwiches nearby esp.
+[0.1550140380859375] The coffee shop Tim Hortons in the lobby has wonderful baked goods not good for the wasteline buttasted great, Thanks Primrose.
+[0.0952911376953125] great coffee & doughnuts in the mornings!
+
+----- Weakening -----
+
+[-0.9952554702758789] The food is god awful, my stomach had to get used to it.
+[-0.04073333740234375] The price was amazing ($90 CAD) and parking was typical at $23/day/in & out privileges.
+[-0.029388427734375] There was also always plenty of hot water for Baths/showers.
+[-0.0254364013671875] The `Tim Horton`s` coffee shop in the reception was a bonus.
+[-0.0165252685546875] A four cup coffee maker and supplies and complementary wi-fi were useful.
+
+**********
+
+[0.9153594970703125] The price was fair.
+Parent: The price was good and they had a room with a king bed open .
+
+----- Supporting -----
+
+[0.9153594970703125] The price was also quite reasonable.
+[0.873077392578125] The price is very good and the rooms are large, the only issue with the hotel is its very dated and could do with a revamp.
+[0.8679542541503906] It was close to the theatre we were going to and the price was affordable.
+[0.8652629852294922] The price was good and they had a room with a king bed open.
+[0.8615016937255859] I was given a discount as I was a senior so the price ended up being very reasonable.
+
+----- Weakening -----
+
+[-0.9734344482421875] Although it would have been more convenient for me to stay at the hotel the meeting was in, their prices were far too expensive for my budget.
+[-0.5166473388671875] If you are looking for an expensive four or five star hotel, don't stay here.
+[-0.407470703125] The price was amazing ($90 CAD) and parking was typical at $23/day/in & out privileges.
+[-0.08032608032226562] The food is god awful, my stomach had to get used to it.
+[-0.027862548828125] we did see a couple of homeless guys but they did not bother us.
+
+**********
+
+[0.8972311019897461] The room was available.
+Parent: The price was good and they had a room with a king bed open .
+
+----- Supporting -----
+
+[0.8972311019897461] The price was good and they had a room with a king bed open.
+[0.62750244140625] I used the sales department at the hotel to make a booking for a block of rooms coming to Toronto for a family wedding.
+[0.59027099609375] There is also a coffee shop in the lobby which was open late so that was convenient.
+[0.579345703125] The Tim Hortons in the lobby was also convenient for a late night coffee.
+[0.50103759765625] The price was great, and the rooms large.
+
+----- Weakening -----
+
+[-0.4351806640625] The food was good and arrived on time and hot.
+[-0.4339599609375] The food is god awful, my stomach had to get used to it.
+[-0.4132080078125] The food they serve is good as well.
+[-0.2730712890625] The price was amazing ($90 CAD) and parking was typical at $23/day/in & out privileges.
+[-0.2685546875] We did order food and beverage and were pleased with the variety of choices available for lunches.
+
+**********
+
+[0.9858360290527344] The room had a king bed.
+Parent: The price was good and they had a room with a king bed open .
+
+----- Supporting -----
+
+[0.9858360290527344] The price was good and they had a room with a king bed open.
+[-0.0008106231689453125] Great hotel and great price.
+[-0.001678466796875] for what this place costs I definitely recommend this hotel.
+[-0.001857757568359375] Would stay there again as price was great and location perfect.
+[-0.0024499893188476562] The location was good, right where I needed to be, and the price was great for downtown and I only paid $89 with a corporate discount.
+
+----- Weakening -----
+
+[-0.8630523681640625] The coffee shop Tim Hortons in the lobby has wonderful baked goods not good for the wasteline buttasted great, Thanks Primrose.
+[-0.7768630981445312] The food is god awful, my stomach had to get used to it.
+[-0.5587997436523438] We did order food and beverage and were pleased with the variety of choices available for lunches.
+[-0.4093780517578125] The food they serve is good as well.
+[-0.39978790283203125] There is a decent diner to the left of the hotel and a great little Thai restaurant on the other side and around the corner.

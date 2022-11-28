@@ -1,0 +1,443 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.8273037728809175
+
+**********
+
+[0.9220056533813477] The food was okay.
+Parent: The food received mixed reviews, with some people saying it was excellent and others finding it average or below average.
+
+----- Supporting -----
+
+[0.9220056533813477] The location is great, the waitstaff good and the food ok.
+[0.919219970703125] The food is acceptable, but don't expect gourmet.
+[0.906646728515625] Food/service was faultless.
+[0.7887802124023438] The hotel restaurant was fine, not great.
+[0.6256637573242188] Did check out the restaurant during regular business hours several times and the food, service and beer brewed on premisise was an all around thumbs up!
+
+----- Weakening -----
+
+[-0.958740234375] The market itself is so interesting and the food is wonderful.
+[-0.9576263427734375] The food is excellent and the view is amazing.
+[-0.95428466796875] The location, the artistic vibe, the fantastic food (the market in our opinion is much better than Pike Place in Seattle that we visited earlier in the week) and this hotel.
+[-0.9377784729003906] The area is amazing with lots of shopping, great food and beautiful views!
+[-0.934478759765625] It was all lovely, beautiful venue with the patio and city and water view, delicious food, all the guests and a great time!
+
+**********
+
+[0.9867153167724609] The food was excellent.
+Parent: The food received mixed reviews, with some people saying it was excellent and others finding it average or below average.
+
+----- Supporting -----
+
+[0.9867153167724609] The restaurant food was excellent.
+[0.9795112609863281] The food was superb, and the atmosphere is wonderful - right on the water.
+[0.9715652465820312] The food and service were outstanding.
+[0.9610552787780762] Service was fast, the food was very good and the dining room had nice water views.
+[0.959803581237793] The event I attended had a lunch and reception in the restaurant and the food was fantastic.
+
+----- Weakening -----
+
+[-0.9969720840454102] Food isnt great but you are right by the market.
+[-0.9963674545288086] For old times sake, we even had lunch at the Old Spaghetti Factory, but the food wasn't very good, so we decided to give the city a miss and pootle around the Island instead .
+[-0.9944400787353516] * The restaurant has a very limited and boring menu and the service is terrible.
+[-0.9863038063049316] I didn't have any meals at the hotel so can't comment on that.
+[-0.97998046875] The location is great, the waitstaff good and the food ok.
+
+**********
+
+[0.40869140625] The food was average.
+Parent: The food received mixed reviews, with some people saying it was excellent and others finding it average or below average.
+
+----- Supporting -----
+
+[0.40869140625] The food is acceptable, but don't expect gourmet.
+[0.38250732421875] Food isnt great but you are right by the market.
+[0.3515625] The location is great, the waitstaff good and the food ok.
+[0.315093994140625] The hotel restaurant was fine, not great.
+[0.23052978515625] For old times sake, we even had lunch at the Old Spaghetti Factory, but the food wasn't very good, so we decided to give the city a miss and pootle around the Island instead .
+
+----- Weakening -----
+
+[-0.9953985214233398] The food is excellent ( both room service and in the resto) and they have a micro brewery on site.
+[-0.9949274063110352] The food is excellent and the view is amazing.
+[-0.9947481155395508] The location, the artistic vibe, the fantastic food (the market in our opinion is much better than Pike Place in Seattle that we visited earlier in the week) and this hotel.
+[-0.994725227355957] Great food and great service.
+[-0.9946279525756836] Awesome food, service and view!
+
+**********
+
+[0.932159423828125] The food was not good.
+Parent: The food received mixed reviews, with some people saying it was excellent and others finding it average or below average.
+
+----- Supporting -----
+
+[0.932159423828125] Food isnt great but you are right by the market.
+[0.9023380279541016] For old times sake, we even had lunch at the Old Spaghetti Factory, but the food wasn't very good, so we decided to give the city a miss and pootle around the Island instead .
+[0.8031082153320312] The hotel restaurant was fine, not great.
+[0.7280998229980469] * The restaurant has a very limited and boring menu and the service is terrible.
+[0.28548431396484375] The food market made me wish I was cooking and not eating out at restaurants!
+
+----- Weakening -----
+
+[-0.9959192276000977] Great food and great service.
+[-0.9952335357666016] The market itself is so interesting and the food is wonderful.
+[-0.9950418472290039] It was all lovely, beautiful venue with the patio and city and water view, delicious food, all the guests and a great time!
+[-0.9950389862060547] The food is excellent and the view is amazing.
+[-0.9949522018432617] Awesome food, service and view!
+
+**********
+
+[0.9540729522705078] The portions were too small.
+Parent: Complaints were made about the small portions, high prices, and slow service.
+
+----- Supporting -----
+
+[0.9540729522705078] As I said the rooms are too small for all that furniture.
+[0.9424171447753906] No carpet on the floor, hardly any outlets and the bathroom was too small.
+[0.8983535766601562] The room was so tiny we could hardly fit in it.
+[0.7637100219726562] The rooms are incredibly small.
+[0.6922683715820312] The room was the smallest we stayed in during our tour of western Canada, and it was a struggle to fit in a rollaway bed for my son.
+
+----- Weakening -----
+
+[-0.977839469909668] The room was very spacious with a lovely king size bed and nice toiletries, replenished daily.
+[-0.9724588394165039] My kids thought they were in heaven with such a large suite.
+[-0.9720063209533691] The restuarant in the hotel is quite nice and despite its "brewery" designation is much more of a full menu than you might expect.
+[-0.9705839157104492] Big rooms with lots of windows.
+[-0.9704170227050781] The rooms themselves are spacious, we had a king-size bed, with a little balcony that looked out towards downtown.
+
+**********
+
+[0.8580970764160156] The prices were too high.
+Parent: Complaints were made about the small portions, high prices, and slow service.
+
+----- Supporting -----
+
+[0.8580970764160156] It was an acceptable hotel, but definitely not worth the outlandish price.
+[0.8056488037109375] * Way over priced and not the price I had booked online Overall this is a good choice for the location and if it is within your budget, just don't expect too much.
+[0.27423095703125] Granville Island was a little too touristy for me.
+[0.1804351806640625] The restaurant was a little bit pricey for our budget.
+[0.17334747314453125] I probably wouldn't eat there though if I was paying for it myself as the menu was pretty expensive and there are several great places to eat elsewhere on the Island.
+
+----- Weakening -----
+
+[-0.9962995052337646] The in room breakfast was exceptional and reasonably priced as were the items in the mini-bar.
+[-0.9947752952575684] The hotel was reasonable value, and in a great location.
+[-0.9942984580993652] There are a variety of options at a reasonable price.
+[-0.9937779903411865] The hotel itself is reasonably priced, has very open meeting rooms with doors directly outside.
+[-0.9921383857727051] If you want to visit downtown just take the water taxi or "aqua bus" these little boats are fun, not very expensive and the quickest way to gt there.
+
+**********
+
+[0.560943603515625] The service was slow.
+Parent: Complaints were made about the small portions, high prices, and slow service.
+
+----- Supporting -----
+
+[0.560943603515625] The bar was really nice and I spent a nice couple hours there on a sunny afternoon enjoying a slow pint.
+[0.254180908203125] * The restaurant has a very limited and boring menu and the service is terrible.
+[0.16338348388671875] Unfortunately they just don't have the level of service that would make them a great hotel.
+[0.135528564453125] My room was very quiet.
+[0.0960845947265625] The room was quiet and we did not notice any noise from "neighbors".
+
+----- Weakening -----
+
+[-0.9956293106079102] From reviewing the meeting room options to choosing menus and getting setup, the process was fast and smooth.
+[-0.9951467514038086] Service was fast, the food was very good and the dining room had nice water views.
+[-0.9935836791992188] They had very fast room service as well.
+[-0.9905071258544922] WiFi was also pretty quick
+[-0.9858341217041016] The location, for me, is ideal, the reception very friendly and efficient and the rooms great value for the price.
+
+**********
+
+[0.916844367980957] The food at the hotel is good.
+Parent: The food at the hotel is good, but it is expensive.
+
+----- Supporting -----
+
+[0.916844367980957] Generally this hotel has excellent service, is fantastic value, the restaurant is good with great views, but the best thing is that it just has a lovely relaxed and friendly atmosphere.
+[0.9130978584289551] The hotel's bar and restaurant were both very nice, offered good food and beverages.
+[0.8995037078857422] Hotel was friendly, staff helpful, room lovely, bathroom really lovely, restaurant and bar great food and drink and service.
+[0.8707141876220703] The hotel is nice, the restaurant is great, and it is really central.
+[0.8553581237792969] Good points: Very welcoming atmosphere Room was very clean & well appointed Room service was promt & food was great same as restaurant Best Mini bar selection of my whole trip lots of local treats Very close to the great Granville Island Markets (1-2 min walk) Very good service from all staff Close to Aquabus which takes you into downtown Vancouver (a bit of a hike uphill to get into town) Free internet access for guests there is one computer in lobby so you somtimes have to wait for another guest to finish but it is rare to find free access The Beer brewed on site was pretty good Disappointing points: Was not on the pick up list for day trips but it is very quick & cheap trip into Vancouver to meet up with a trip.
+
+----- Weakening -----
+
+[-0.8595733642578125] * The restaurant has a very limited and boring menu and the service is terrible.
+[-0.823333740234375] The public market was amazing in the variety and quality of the food - nothing at all like the sad collection of vegetable stalls that you find at most UK town markets.
+[-0.7910919189453125] Food isnt great but you are right by the market.
+[-0.6866664886474609] I didn't have any meals at the hotel so can't comment on that.
+[-0.48838233947753906] My wife and I had a bad experience at GIH.
+
+**********
+
+[0.9129638671875] The food is expensive.
+Parent: The food at the hotel is good, but it is expensive.
+
+----- Supporting -----
+
+[0.9129638671875] I probably wouldn't eat there though if I was paying for it myself as the menu was pretty expensive and there are several great places to eat elsewhere on the Island.
+[0.8546028137207031] The restaurant was a little bit pricey for our budget.
+[0.8095703125] The hotel restaurant merits only 3*, with slightly above average food (also expensive) .
+[0.7777252197265625] We had our Xmas dinner at the hotel and even though it was a little pricey, we had a nice dinner.
+[0.0850830078125] * Way over priced and not the price I had booked online Overall this is a good choice for the location and if it is within your budget, just don't expect too much.
+
+----- Weakening -----
+
+[-0.9925804138183594] The in room breakfast was exceptional and reasonably priced as were the items in the mini-bar.
+[-0.9731121063232422] There are a variety of options at a reasonable price.
+[-0.8868408203125] The restaurant is excellent, and good value if you take advantage of the $25 three-course special.
+[-0.6547698974609375] Good points: Very welcoming atmosphere Room was very clean & well appointed Room service was promt & food was great same as restaurant Best Mini bar selection of my whole trip lots of local treats Very close to the great Granville Island Markets (1-2 min walk) Very good service from all staff Close to Aquabus which takes you into downtown Vancouver (a bit of a hike uphill to get into town) Free internet access for guests there is one computer in lobby so you somtimes have to wait for another guest to finish but it is rare to find free access The Beer brewed on site was pretty good Disappointing points: Was not on the pick up list for day trips but it is very quick & cheap trip into Vancouver to meet up with a trip.
+[-0.6534271240234375] WiFi was also pretty quick
+
+**********
+
+[0.9438962936401367] The hotel's food was good.
+Parent: The food at the hotel was praised by some reviewers for being great, while others found it to be acceptable.
+
+----- Supporting -----
+
+[0.9438962936401367] The hotel's bar and restaurant were both very nice, offered good food and beverages.
+[0.886260986328125] Good points: Very welcoming atmosphere Room was very clean & well appointed Room service was promt & food was great same as restaurant Best Mini bar selection of my whole trip lots of local treats Very close to the great Granville Island Markets (1-2 min walk) Very good service from all staff Close to Aquabus which takes you into downtown Vancouver (a bit of a hike uphill to get into town) Free internet access for guests there is one computer in lobby so you somtimes have to wait for another guest to finish but it is rare to find free access The Beer brewed on site was pretty good Disappointing points: Was not on the pick up list for day trips but it is very quick & cheap trip into Vancouver to meet up with a trip.
+[0.8837661743164062] Hotel was friendly, staff helpful, room lovely, bathroom really lovely, restaurant and bar great food and drink and service.
+[0.8610601425170898] The food is excellent ( both room service and in the resto) and they have a micro brewery on site.
+[0.8126640319824219] The service from employees is always professional and courteous, the room is extremely clean, the restaurant food is good and the view is impeccable.
+
+----- Weakening -----
+
+[-0.9595909118652344] * The restaurant has a very limited and boring menu and the service is terrible.
+[-0.86407470703125] Food isnt great but you are right by the market.
+[-0.8535289764404297] For old times sake, we even had lunch at the Old Spaghetti Factory, but the food wasn't very good, so we decided to give the city a miss and pootle around the Island instead .
+[-0.8424968719482422] so that when we bought food to bring back to the room, we had nothing to eat it with.
+[-0.7759647369384766] I didn't have any meals at the hotel so can't comment on that.
+
+**********
+
+[0.8938217163085938] The hotel's food was acceptable.
+Parent: The food at the hotel was praised by some reviewers for being great, while others found it to be acceptable.
+
+----- Supporting -----
+
+[0.8938217163085938] The hotel restaurant was fine, not great.
+[0.8528041839599609] The service from employees is always professional and courteous, the room is extremely clean, the restaurant food is good and the view is impeccable.
+[0.8466224670410156] The hotel's bar and restaurant were both very nice, offered good food and beverages.
+[0.8239450454711914] The location is great, the waitstaff good and the food ok.
+[0.7749252319335938] The hotel restaurant merits only 3*, with slightly above average food (also expensive) .
+
+----- Weakening -----
+
+[-0.9053192138671875] * The restaurant has a very limited and boring menu and the service is terrible.
+[-0.7853832244873047] so that when we bought food to bring back to the room, we had nothing to eat it with.
+[-0.78363037109375] Chips and salsa *The restaurant deck is very nice and modern and quite a gem....too bad about the service and the food.
+[-0.6992111206054688] We went to the Pacific Culinary Institute and that was amazing!
+[-0.6527862548828125] We had wished the room had a fridge that could be used rather than one stocked with liquor.
+
+**********
+
+[0.17669677734375] The in-room breakfast was subpar.
+Parent: Some reviewers specifically mentioned the in-room breakfast as being exceptional.
+
+----- Supporting -----
+
+[0.17669677734375] The service in the restaurant was a bit snobbish and I didn't get the condiments I requested the second morning, however this is minor in my opinion.
+[0.0190582275390625] We had wished the room had a fridge that could be used rather than one stocked with liquor.
+[0.006282806396484375] My wife and I had a bad experience at GIH.
+[0.0023651123046875] * The restaurant has a very limited and boring menu and the service is terrible.
+[0.00084686279296875] Granville Island itself is very disappointing.
+
+----- Weakening -----
+
+[-0.9969387054443359] The in room breakfast was exceptional and reasonably priced as were the items in the mini-bar.
+[-0.9942512512207031] We stayed overnight in one of the rooms which was on the small side, but beautiful views and excellent room service for breakfast the following morning.
+[-0.9926571846008301] The room service was great!
+[-0.9905338287353516] They served everything from made-to-order Eggs Benedict to fruit and pastries to salmon and bacon and fresh-made waffles and...
+[-0.9882550239562988] Great food and great service.
+
+**********
+
+[0.9700202941894531] The in-room breakfast is great.
+Parent: Some reviewers specifically mentioned the in-room breakfast as being exceptional.
+
+----- Supporting -----
+
+[0.9700202941894531] The in room breakfast was exceptional and reasonably priced as were the items in the mini-bar.
+[0.5490455627441406] We stayed overnight in one of the rooms which was on the small side, but beautiful views and excellent room service for breakfast the following morning.
+[0.296234130859375] The restuarant in the hotel is quite nice and despite its "brewery" designation is much more of a full menu than you might expect.
+[0.21998977661132812] Most everything else about the hotel was great as well - the size of our room, the friendly staff, a great dinner and breakfast, again with outstanding views from the dining room.
+[0.0671234130859375] The restaurant has a fabulous view of the harbour which we enjoyed both mornings for breakfast.
+
+----- Weakening -----
+
+[-0.9664802551269531] Didn't try the breakfast we we tended to buy things from the market and eat them outside.
+[-0.905487060546875] I would not recommend this to my friends or family.
+[-0.8763933181762695] We were told none were available.
+[-0.8694801330566406] The event I attended had a lunch and reception in the restaurant and the food was fantastic.
+[-0.8689632415771484] so that when we bought food to bring back to the room, we had nothing to eat it with.
+
+**********
+
+[0.9611101150512695] The hotel is conveniently located near the Public Market.
+Parent: The hotel is also conveniently located near the Public Market, where there are a variety of food options.
+
+----- Supporting -----
+
+[0.9611101150512695] Loved how this hotel is centrally located within Granville Island which made it convenient to walk to nearby art galleries, restaurants, shops and the famous Public Market.
+[0.9408445358276367] The hotel is not far from the Aqua Bus, taxis, and the Granville Island Public Market making it easy to get around.
+[0.9307594299316406] The best part of the hotel is being able to walk to the Public Market where you can find everything you need to prepare a wonderful meal (like a picnic with wine, cheese, bread, fruits, meats, etc) or you could just eat at the many food stalls.
+[0.7632408142089844] Good points: Very welcoming atmosphere Room was very clean & well appointed Room service was promt & food was great same as restaurant Best Mini bar selection of my whole trip lots of local treats Very close to the great Granville Island Markets (1-2 min walk) Very good service from all staff Close to Aquabus which takes you into downtown Vancouver (a bit of a hike uphill to get into town) Free internet access for guests there is one computer in lobby so you somtimes have to wait for another guest to finish but it is rare to find free access The Beer brewed on site was pretty good Disappointing points: Was not on the pick up list for day trips but it is very quick & cheap trip into Vancouver to meet up with a trip.
+[0.7312774658203125] The Granville Island Hotel is a great little place to stay if you don't want the big city experience, and you like walking out your door to the marketplace, coffee shops, galleries and outdoor spaces that surround you on this interesting island.
+
+----- Weakening -----
+
+[-0.7453641891479492] I personally do not think the location is particularly good, you do get a nice view across False Creek, but the downside is that access to the city is difficult.
+[-0.7195281982421875] The hotel is located right on the water.
+[-0.5466537475585938] Being on the sea wall makes it safe and impossible to get lost.
+[-0.51031494140625] The hotel is located as close to the water as you can get without falling in.
+[-0.4792938232421875] I would not recommend this to my friends or family.
+
+**********
+
+[0.9069786071777344] The food options near the Public Market are varied.
+Parent: The hotel is also conveniently located near the Public Market, where there are a variety of food options.
+
+----- Supporting -----
+
+[0.9069786071777344] The public market was amazing in the variety and quality of the food - nothing at all like the sad collection of vegetable stalls that you find at most UK town markets.
+[0.8099098205566406] The best part of the hotel is being able to walk to the Public Market where you can find everything you need to prepare a wonderful meal (like a picnic with wine, cheese, bread, fruits, meats, etc) or you could just eat at the many food stalls.
+[0.5672264099121094] Granville Island is a shoppers bazaar by day for gifts, clothing, groceries, baked goods, quick snacks, sophisticated dining, aboriginal art and more and also popular among locals and tourists alike.
+[0.5596160888671875] Good points: Very welcoming atmosphere Room was very clean & well appointed Room service was promt & food was great same as restaurant Best Mini bar selection of my whole trip lots of local treats Very close to the great Granville Island Markets (1-2 min walk) Very good service from all staff Close to Aquabus which takes you into downtown Vancouver (a bit of a hike uphill to get into town) Free internet access for guests there is one computer in lobby so you somtimes have to wait for another guest to finish but it is rare to find free access The Beer brewed on site was pretty good Disappointing points: Was not on the pick up list for day trips but it is very quick & cheap trip into Vancouver to meet up with a trip.
+[0.5551910400390625] you could easily spend most of your time there since there are lots of restaurants and a fantastic public market featuring lots of food.
+
+----- Weakening -----
+
+[-0.6165885925292969] * The restaurant has a very limited and boring menu and the service is terrible.
+[-0.5906562805175781] We were told none were available.
+[-0.5210170745849609] so that when we bought food to bring back to the room, we had nothing to eat it with.
+[-0.4008636474609375] Just somewhere to sleep.
+[-0.28363037109375] Our only slightly negative comment was that the large kitchen area had plenty of wine glasses, but nothing else - no cutlery, no plates, etc.
+
+**********
+
+[0.905430793762207] The food at the hotel is excellent.
+Parent: The food at the hotel is excellent, with a great view.
+
+----- Supporting -----
+
+[0.905430793762207] Hotel was friendly, staff helpful, room lovely, bathroom really lovely, restaurant and bar great food and drink and service.
+[0.8942794799804688] The Dockside Restaurant in the hotel is superb, and we ended up eating there twice for dinner.
+[0.8734979629516602] The hotel is showing some signs of age, but the truly wonderful restaurant, cheery staff, and easy access to the city make this a hotel that every Vancouver visitor should try at least once.
+[0.8667507171630859] The hotel is nice, the restaurant is great, and it is really central.
+[0.8480291366577148] The hotel's bar and restaurant were both very nice, offered good food and beverages.
+
+----- Weakening -----
+
+[-0.9935345649719238] * The restaurant has a very limited and boring menu and the service is terrible.
+[-0.9838237762451172] Food isnt great but you are right by the market.
+[-0.9528908729553223] I didn't have any meals at the hotel so can't comment on that.
+[-0.94940185546875] The hotel restaurant was fine, not great.
+[-0.9443511962890625] The hotel restaurant merits only 3*, with slightly above average food (also expensive) .
+
+**********
+
+[0.9817376136779785] The hotel has a great view.
+Parent: The food at the hotel is excellent, with a great view.
+
+----- Supporting -----
+
+[0.9817376136779785] The hotel provides some wonderful views of the harbour and the rooms are modern and clean.
+[0.9559116363525391] Generally this hotel has excellent service, is fantastic value, the restaurant is good with great views, but the best thing is that it just has a lovely relaxed and friendly atmosphere.
+[0.9521284103393555] Most everything else about the hotel was great as well - the size of our room, the friendly staff, a great dinner and breakfast, again with outstanding views from the dining room.
+[0.9424386024475098] The hotel setting is very nice with water and dock views.
+[0.9188728332519531] The Granville Island Hotel allows you to view it from one of the best locations in Vancouver ... Granville Island.
+
+----- Weakening -----
+
+[-0.9820556640625] Also, in this room there was no view, which for a prairie girl was a bit disappointing.
+[-0.8978042602539062] My rating would have been 5 stars, except the room was quite small for two people 5 days, and the only view was over a roof and hvac unit.
+[-0.7914886474609375] The only drawback could be room size as ours was only just adequate and the view was rather restricted.
+[-0.6325540542602539] I have to say I was disappointed with the hotel.
+[-0.538330078125] The restaurant also has a terrific view and the people were very nice.
+
+**********
+
+[0.9264516830444336] The food is varied.
+Parent: There is a wide variety of food available, and it is all fresh and of great quality.
+
+----- Supporting -----
+
+[0.9264516830444336] The public market was amazing in the variety and quality of the food - nothing at all like the sad collection of vegetable stalls that you find at most UK town markets.
+[0.46724700927734375] They served everything from made-to-order Eggs Benedict to fruit and pastries to salmon and bacon and fresh-made waffles and...
+[0.4343862533569336] The mini bar was stocked sufficiently with a wide variety of refreshments and snacks.
+[0.3593254089355469] The food is excellent ( both room service and in the resto) and they have a micro brewery on site.
+[0.325225830078125] There are plenty of paths to jog and walk around the water, and lots of choices for dinner and drinks.
+
+----- Weakening -----
+
+[-0.9878883361816406] * The restaurant has a very limited and boring menu and the service is terrible.
+[-0.9328384399414062] Good points: Very welcoming atmosphere Room was very clean & well appointed Room service was promt & food was great same as restaurant Best Mini bar selection of my whole trip lots of local treats Very close to the great Granville Island Markets (1-2 min walk) Very good service from all staff Close to Aquabus which takes you into downtown Vancouver (a bit of a hike uphill to get into town) Free internet access for guests there is one computer in lobby so you somtimes have to wait for another guest to finish but it is rare to find free access The Beer brewed on site was pretty good Disappointing points: Was not on the pick up list for day trips but it is very quick & cheap trip into Vancouver to meet up with a trip.
+[-0.5626144409179688] We were told none were available.
+[-0.5327644348144531] Just somewhere to sleep.
+[-0.51898193359375] The staff was very helpful and attentive, the evening was seamless from appies to dinner to dessert....just ended too soon.
+
+**********
+
+[0.3934040069580078] The food is fresh.
+Parent: There is a wide variety of food available, and it is all fresh and of great quality.
+
+----- Supporting -----
+
+[0.3934040069580078] They served everything from made-to-order Eggs Benedict to fruit and pastries to salmon and bacon and fresh-made waffles and...
+[0.3737678527832031] Granville Island is actually a little peninsula (more like a giant pier) with a very laid back feel to it, complete with a down-home fresh foods market, like something you would see in the movies.
+[0.3022003173828125] There are several shops and plenty of excellent places to eat FRESH seafood, including the Dockside Restaurant and pub (microbrew).
+[0.2822608947753906] Good points: Very welcoming atmosphere Room was very clean & well appointed Room service was promt & food was great same as restaurant Best Mini bar selection of my whole trip lots of local treats Very close to the great Granville Island Markets (1-2 min walk) Very good service from all staff Close to Aquabus which takes you into downtown Vancouver (a bit of a hike uphill to get into town) Free internet access for guests there is one computer in lobby so you somtimes have to wait for another guest to finish but it is rare to find free access The Beer brewed on site was pretty good Disappointing points: Was not on the pick up list for day trips but it is very quick & cheap trip into Vancouver to meet up with a trip.
+[0.10933685302734375] They asked me if I wouldn’t mind waiting as they offered to make it from scratch… highly worth the wait.
+
+----- Weakening -----
+
+[-0.9065704345703125] Oh, and the sauna was broken.
+[-0.9037857055664062] It was a bottle of wine with a miniature tuxedo jacket around the bottle.
+[-0.8147773742675781] The room was small and dark and old.
+[-0.7561187744140625] We were told none were available.
+[-0.736083984375] They put new fresh flowers in the room every few days.
+
+**********
+
+[0.8932609558105469] The food is of great quality.
+Parent: There is a wide variety of food available, and it is all fresh and of great quality.
+
+----- Supporting -----
+
+[0.8932609558105469] The food was superb, and the atmosphere is wonderful - right on the water.
+[0.8659439086914062] The food is excellent and the view is amazing.
+[0.8483619689941406] Service was fast, the food was very good and the dining room had nice water views.
+[0.8452816009521484] The service from employees is always professional and courteous, the room is extremely clean, the restaurant food is good and the view is impeccable.
+[0.7901182174682617] The restaurant food was excellent.
+
+----- Weakening -----
+
+[-0.9926691055297852] Food isnt great but you are right by the market.
+[-0.9910392761230469] For old times sake, we even had lunch at the Old Spaghetti Factory, but the food wasn't very good, so we decided to give the city a miss and pootle around the Island instead .
+[-0.9517011642456055] * The restaurant has a very limited and boring menu and the service is terrible.
+[-0.9195661544799805] My wife and I had a bad experience at GIH.
+[-0.8999147415161133] Granville Island itself is very disappointing.
+
+**********
+
+[0.9680767059326172] The service is excellent.
+Parent: The service is also outstanding.
+
+----- Supporting -----
+
+[0.9680767059326172] The service is fantastic… in nine days I’ve only encountered nice, friendly, helpful, courteous, attentive and caring employees.
+[0.9529104232788086] The service is good.
+[0.9478483200073242] The housekeeping service is excellent; the room was spotless every day.
+[0.9467306137084961] The service was good.
+[0.9416046142578125] The food and service were outstanding.
+
+----- Weakening -----
+
+[-0.9982132911682129] * The restaurant has a very limited and boring menu and the service is terrible.
+[-0.9971094131469727] Unfortunately they just don't have the level of service that would make them a great hotel.
+[-0.990379810333252] The staff just seemed disinterested, especially at the bar and the front desk.
+[-0.9868869781494141] My wife and I had a bad experience at GIH.
+[-0.9866752624511719] The service in the restaurant was a bit snobbish and I didn't get the condiments I requested the second morning, however this is minor in my opinion.

@@ -1,0 +1,128 @@
+***** Aspect: location Model Type : zs *****
+Overall score: 0.7930722236633301
+
+**********
+
+[0.010312080383300781] The St. Regis in Houston was a great place to stay for two nights.
+Parent: I spent 2 nights in the St. Regis in Houston prior to coming to this hotel .
+
+----- Supporting -----
+
+[0.010312080383300781] I spent 2 nights in the St. Regis in Houston prior to coming to this hotel.
+[0.010284423828125] I will hopefully be back -- as the revitalized Main St. has a lot of action on the weekends and this hotel sits right in the middle!
+[0.008935928344726562] We were upgraded from a regular deluxe room to a Loft Suite and even received a bottle of champagne.
+[0.00864410400390625] The food was amzing, the room service food is from the restaurant downstairs!!
+[0.008527755737304688] We also ate great food in the restaurant.
+
+----- Weakening -----
+
+[-0.974271297454834] Maybe I just had a bad experience but I was throughly disappointed in this hotel.
+[-0.9229516983032227] So instead of going out of town we planned a special Saturday and Sunday at the Hotel Joule in Dallas, Tx.
+[-0.9201812744140625] We had an amazing time celebrating our daughter's 13TH birthday at the Joule in Dallas....from the time we were greeted until the time we checked out, we were made to feel special and welcomed.
+[-0.9145278930664062] Stayed there for one night so I did not get to use any of the hotel services nor dine there.
+[-0.9061222076416016] The Joule was a great hotel to stay at in Dallas.
+
+**********
+
+[0.9878940582275391] I stayed at this hotel.
+Parent: I spent 2 nights in the St. Regis in Houston prior to coming to this hotel .
+
+----- Supporting -----
+
+[0.9878940582275391] I travel at least once a month for work, and I was fortunate enough to stay at this hotel last February and it's such a charming hotel.
+[0.9869499206542969] My wife and I stayed at this hotel to celebrate our anniversary.
+[0.9715461730957031] I had a wonderful stay at the hotel, loved the rooms, even though our room was a bit small they utilized the space very well.
+[0.9699535369873047] I ended a five week business trip at this hotel and it was by far the best experience that I had.
+[0.9611129760742188] But I have stayed here three times since and like the hotel.
+
+----- Weakening -----
+
+[-0.9505844116210938] They seemed eager to work and acted like they truly enjoyed their job.
+[-0.88360595703125] I stopped into Charlie Palmer for dinner, had a fantastic time there, Tommy the bartender took great care of me and the food was out of this world.
+[-0.8513717651367188] Need a ride to the State Fair?
+[-0.845458984375] Biggest issue was when we picked up our car from the valet parking.
+[-0.8450336456298828] Needless to say, I felt very out of place in my suit w/my husband's shirt as a cover-up (I forgot mine) so we turned tail and left.
+
+**********
+
+[0.9886531829833984] The area around the hotel is not fancy.
+Parent: The area around the hotel is n't exactly swanky .
+
+----- Supporting -----
+
+[0.9886531829833984] The area around the hotel isn't exactly swanky.
+[0.9256095886230469] Downtown area around it is sort of dead... the structure itself is a period building, renovated into a boutique hotel.
+[0.49863624572753906] This hotel has a very cramped feel.
+[0.3680877685546875] The Joule is not luxurious in comparison and not sure why Starwood has it branded as such.
+[0.312469482421875] Designer soap in the bathroom does not a luxury hotel make.
+
+----- Weakening -----
+
+[-0.985076904296875] From the lobby to the rooms, this hotel has been very tastefully decorated â€¢ Rooms â€“ Very chic rooms.
+[-0.9818401336669922] Loved the rose prosecco too :-) the decor was really fun and innovative throughout, like the large moving cogs by the check-in desk or the chairs in the lobby with sliding silver tables attached, or the secret reading lamp on the guestrooms headboards.
+[-0.9740266799926758] The design and decor is incredible.
+[-0.972813606262207] It was so nice!!!
+[-0.9701604843139648] The decorum was awesome.
+
+**********
+
+[0.9738388061523438] There is a Neiman Marcus next door.
+Parent: There is a Neiman Marcus and a decent Mexican restaurant next door , but there 's also a boarded up building .
+
+----- Supporting -----
+
+[0.9738388061523438] There is a Neiman Marcus and a decent Mexican restaurant next door, but there's also a boarded up building.
+[0.9592056274414062] Also, it was very nice to be next door to Neiman Marcus.
+[0.0] The pool!
+[0.0] jackpot.
+[0.0] !
+
+----- Weakening -----
+
+[-0.9111137390136719] You can walk next door to iron cactus for bfast and lunch, then eat dinner at the ultra swanky Charlie Palmer.
+[-0.8858566284179688] Until recently the center of Main Street in Dallas has not been the most amazing location in Dallas to stay, but the Joule is turning into an anchor location with the downtown Nieman Marcus a couple blocks in one direction and the JFK memorial a couple blocks in the other and about 6 or 7 popular restaurants surrounding the hotel.
+[-0.7660751342773438] Be warned, the building next door is under construction (which I am sure is temporary).
+[-0.7109184265136719] I would also like to acknowledge a gentlemen named Trey Shultz, I believe was his name, he played a very instrumental part of my enjoyable stay.
+[-0.5780487060546875] He did not offer to help in any way.
+
+**********
+
+[0.8569850921630859] The Mexican restaurant next door is decent.
+Parent: There is a Neiman Marcus and a decent Mexican restaurant next door , but there 's also a boarded up building .
+
+----- Supporting -----
+
+[0.8569850921630859] There is a Neiman Marcus and a decent Mexican restaurant next door, but there's also a boarded up building.
+[0.1089019775390625] Also, it was very nice to be next door to Neiman Marcus.
+[0.02768707275390625] You can walk next door to iron cactus for bfast and lunch, then eat dinner at the ultra swanky Charlie Palmer.
+[0.02239990234375] The chef generously shared the granola recipe with my husband, who declared it the best granola he'd even eaten.
+[0.010288238525390625] The have really nice turn down service, too.
+
+----- Weakening -----
+
+[-0.33942413330078125] Be warned, the building next door is under construction (which I am sure is temporary).
+[-0.33054542541503906] I have read some of the reviews that spoke of bad service.
+[-0.32555198669433594] We have NEVER had a bad experience with that company until now.
+[-0.3001251220703125] The service was amazing and the food was amazing.
+[-0.2990264892578125] I was so livid with how it was being handled that I was ready to completely lose it.
+
+**********
+
+[0.9407501220703125] The building next door is boarded up.
+Parent: There is a Neiman Marcus and a decent Mexican restaurant next door , but there 's also a boarded up building .
+
+----- Supporting -----
+
+[0.9407501220703125] There is a Neiman Marcus and a decent Mexican restaurant next door, but there's also a boarded up building.
+[0.0] The pool!
+[0.0] jackpot.
+[0.0] !
+[0.0] !
+
+----- Weakening -----
+
+[-0.9852514266967773] You can walk next door to iron cactus for bfast and lunch, then eat dinner at the ultra swanky Charlie Palmer.
+[-0.9844446182250977] We ate at the restaurant before we were going to go out and the food was amazing and the service was second to none.
+[-0.9810581207275391] The Staff went above and beyond.
+[-0.9792985916137695] They have a special lunch that includes a soup, salad and half sandwich that's quick and inexpensive.
+[-0.9780597686767578] I had dinner at the restaurant that night and it was amazing from the service, ambiance and quality of the food.

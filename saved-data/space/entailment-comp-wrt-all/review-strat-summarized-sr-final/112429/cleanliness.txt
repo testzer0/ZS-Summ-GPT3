@@ -1,0 +1,86 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.8494246006011963
+
+**********
+
+[0.986699104309082] The hotel is clean.
+Parent: The accounts indicated that the hotel was generally clean, but there were some complaints about specific areas not being clean enough.
+
+----- Supporting -----
+
+[0.986699104309082] Hotel is extremely clean and quiet, and the staff is very helpful.
+[0.9812335968017578] Hotel was very clean, very quiet, great for a business trip.
+[0.9615330696105957] Highly recommend this hotel rooms, they were nice and clean and very comfortable.
+[0.946876049041748] Friendly welcoming staff, clean, one of the best hotels I've stayed at in a long time!
+[0.922938346862793] The hotel is recently remodeled and the rooms are very clean and modern as is the hotel lobby.
+
+----- Weakening -----
+
+[-0.9969172477722168] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[-0.9887886047363281] The air conditioning vent had so much filthy residue trapped inside that it could not possibly pass a health audit.
+[-0.9876413345336914] Don't take a room on the inside unless you want to be awakened by the garbage trucks at 5am.
+[-0.986457347869873] The biggest issue is that upon going to bed the first night, I noticed an overpowering smell of urine in my bed.
+[-0.9832925796508789] Our toliet overflowed at 11pm resulting in a flood in our bathroom.
+
+**********
+
+[0.6237869262695312] Some areas of the hotel were not clean enough.
+Parent: The accounts indicated that the hotel was generally clean, but there were some complaints about specific areas not being clean enough.
+
+----- Supporting -----
+
+[0.6237869262695312] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[0.46958160400390625] The not so good: The hotel had touted a 2 person tub - and while it was a soaking tub - it wasn't comfortable for two.
+[0.45589447021484375] We had some issues with hot water and the in-room hairdryer was small and weak (not a big deal, but most hotels now provide the full-size kind).
+[0.3748311996459961] Then coming back to the room tonight after being away from 8:30am to 8:30pm, the room had not been cleaned.
+[0.3494834899902344] Beds comfortable but the windows seemed to have drafty gaps and the air conditioning unit on it let in outside air and sound as if it was an open window.
+
+----- Weakening -----
+
+[-0.18768310546875] The best included the cleanliness, the attention to detail with lighting and electrical outlets, the comfortable furniture, the robes, the great shower, the refrigerator, the windows can open, the wide and well lit hallways (although too warm) and of course an excellent king bed.
+[-0.1743011474609375] The staff is friendly and super helpful (ie: tourist questions, room questions etc), the rooms are neat and clean and comfortable, the location is perfect and close to everything you need downtown including transit to anything outside of downtown (monorail, bus stops, lightrail).
+[-0.17000961303710938] Everything was clean and furnishings were modern.
+[-0.16455078125] Highly recommend this hotel rooms, they were nice and clean and very comfortable.
+[-0.1476593017578125] Hotel is extremely clean and quiet, and the staff is very helpful.
+
+**********
+
+[0.9127883911132812] The fitness center was mentioned.
+Parent: In particular, the fitness center was mentioned as being in need of more attention.
+
+----- Supporting -----
+
+[0.9127883911132812] The only aspect of the hotel that could be improved, in my opinion, is the fitness center -- it's in the basement and has older equipment.
+[0.847442626953125] - Free coffee in the morning and apples in the afternoon - Beds are pretty comfy The cons: - The gym was a joke.
+[0.765716552734375] Free internet and gym.
+[0.72344970703125] The only thing I didn't care for was the fitness center, which was sort of a dungeon in the basement.
+[0.613525390625] The treadmills were ok but the ellyptical machines were bad.
+
+----- Weakening -----
+
+[-0.9661293029785156] Some other restaurants in the area within two blocks (Vons, Cheesecake factory).
+[-0.9590263366699219] Barnes and Noble right on the corner.
+[-0.9589462280273438] The hotel is in downtown Seattle right in the middle of it all.
+[-0.9581489562988281] The hotel it in plain downtown - 10min.
+[-0.9545440673828125] Dragonfish restaurant is attached and has great seafood and sushi.
+
+**********
+
+[0.8744239807128906] The fitness center needs more attention.
+Parent: In particular, the fitness center was mentioned as being in need of more attention.
+
+----- Supporting -----
+
+[0.8744239807128906] The only aspect of the hotel that could be improved, in my opinion, is the fitness center -- it's in the basement and has older equipment.
+[0.039272308349609375] Some other minor issues were the desk chair in the room (it fell short of an appropriate working height of the desk and constantly fell down when your leg accidently hit the adjustment bar in front, poor choice of chairs), the elevator door was annoyingly slow to close (I was up and down several times per day), the exterior and lobby doors should be automatic and I noticed people struggling to open them and get their luggage through, they also were misaligned and did not open well.
+[0.0323486328125] Rooms are currently being refurnished with new furniture.
+[0.032073974609375] It is on the edge of downtown, with parking lots and demolition going on across the street on one side and the Hyatt on the other.
+[0.026683807373046875] The room is shabby, the shower made a horrible noise whenever the water was running.
+
+----- Weakening -----
+
+[-0.8095359802246094] The hotel since I last stayed had gone through a nice renovation.
+[-0.7702598571777344] The rooms were completely renovated and tastefully done.
+[-0.7270889282226562] The hotel was recently renovated and is really nice.
+[-0.7126502990722656] Newly renovated rooms with high-end fixtures.
+[-0.6914520263671875] The hotel itself is in an older building, but renovations have obviously kept it up to modern standards.

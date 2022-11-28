@@ -1,0 +1,191 @@
+***** Aspect: rooms Model Type : zs *****
+Overall score: 0.9244760937160916
+
+**********
+
+[0.9876680374145508] The rooms are clean.
+Parent: The rooms at the hotel are clean and comfortable, with a variety of views.
+
+----- Supporting -----
+
+[0.9876680374145508] The good stuff: the rooms are clean and tidy.
+[0.986757755279541] The rooms are very clean, equipped with large flat screen TV and complimentary internet.
+[0.986687183380127] The rooms are VERY clean (very), and the bathrooms are quite luxurious.
+[0.9826474189758301] The rooms were very clean and comfortable.
+[0.9816703796386719] The rooms are clean and comfortable, the bathrooms very nice (love the shower!).
+
+----- Weakening -----
+
+[-0.9888801574707031] The room also had a weird smell.
+[-0.9868278503417969] I think the bathroom was recently reno'd and it was great, but the rest of the room was pretty ho-hum, and even a little run-down/old looking.
+[-0.9817037582397461] When we initially entered our room it became clear that animals had stayed in the room -- husband and son have bad animal allergies -- they moved us to another room.
+[-0.9744033813476562] Only room complaint was the old fashioned noisy A/C unit - noisy and musty smelling.
+[-0.9742298126220703] * The doors, wallpaper and carpets need to be redone.
+
+**********
+
+[0.9782218933105469] The rooms are comfortable.
+Parent: The rooms at the hotel are clean and comfortable, with a variety of views.
+
+----- Supporting -----
+
+[0.9782218933105469] The rooms are clean and comfortable, the bathrooms very nice (love the shower!).
+[0.9732813835144043] The rooms were very clean and comfortable.
+[0.9485931396484375] We find the hotel rooms well appointed and comfortable; the staff friendly and accomodating.
+[0.9465360641479492] Our room was most comfortable and with its amenities, left nothing to be desired This is simply a first class hotel.
+[0.8936777114868164] The hotel was well appointed, our room comfortable and decorated in a traditional style.
+
+----- Weakening -----
+
+[-0.8624114990234375] I think the bathroom was recently reno'd and it was great, but the rest of the room was pretty ho-hum, and even a little run-down/old looking.
+[-0.85296630859375] Only room complaint was the old fashioned noisy A/C unit - noisy and musty smelling.
+[-0.8399429321289062] And the most annoying: the room lighting is poor, in particular the reading light.
+[-0.8095550537109375] We recently had an extremely bad stay at an American Sheraton hotel, and were a bit gunshy about staying in ANY hotel again...haha.
+[-0.8031463623046875] * Small rooms * We had a small balcony but had plastic furniture and latice on the floor (not nice) * The dresser, desk and minibar are still the old furniture (too many pieces and old and ugly) It did however have a flat screen tv which should not require a piece a furniture to hold it as it should be wall mounted.
+
+**********
+
+[0.9508876800537109] The rooms at the hotel have different views.
+Parent: The rooms at the hotel are clean and comfortable, with a variety of views.
+
+----- Supporting -----
+
+[0.9508876800537109] Since we'd heard that the rooms can vary in size and view, we requested (at booking) a larger room and a nice view, both of which were accommodated by the hotel.
+[0.5119094848632812] After living in Vancouver for several years, then coming back to visit, we found this hotel gave us an entirely different perspective of the city - one that we fully appreciated!
+[0.4994659423828125] The hotel provides some wonderful views of the harbour and the rooms are modern and clean.
+[0.3046913146972656] All the rooms have some view of the water and although they are small and expensive it is worth it.
+[0.26439666748046875] Most everything else about the hotel was great as well - the size of our room, the friendly staff, a great dinner and breakfast, again with outstanding views from the dining room.
+
+----- Weakening -----
+
+[-0.8367919921875] Basically a food market and some specialist shops.
+[-0.532379150390625] I especially enjoyed the Public Market.
+[-0.4075927734375] The market itself is so interesting and the food is wonderful.
+[-0.40606689453125] The food market made me wish I was cooking and not eating out at restaurants!
+[-0.282684326171875] My 11 year old daughter marvelled at the Toy Store, loved the food fudge vendors and even the buskers tunes.
+
+**********
+
+[0.9815502166748047] The rooms were too small.
+Parent: Some reviewers found the rooms to be small, but most were satisfied with the size.
+
+----- Supporting -----
+
+[0.9815502166748047] As I said the rooms are too small for all that furniture.
+[0.911285400390625] The room was so tiny we could hardly fit in it.
+[0.7913417816162109] The rooms are incredibly small.
+[0.668212890625] No carpet on the floor, hardly any outlets and the bathroom was too small.
+[0.456634521484375] The room was the smallest we stayed in during our tour of western Canada, and it was a struggle to fit in a rollaway bed for my son.
+
+----- Weakening -----
+
+[-0.9970650672912598] The room was very spacious with a lovely king size bed and nice toiletries, replenished daily.
+[-0.997035026550293] Big rooms with lots of windows.
+[-0.9969768524169922] The rooms are large, each with a small balcony and most have a view of the water.
+[-0.9966683387756348] The balcony had impressive views and was private, the suite was huge and very comfortable.
+[-0.9966166019439697] Our room was clean and large.
+
+**********
+
+[0.9485111236572266] The size of the hotel was good.
+Parent: Some reviewers found the rooms to be small, but most were satisfied with the size.
+
+----- Supporting -----
+
+[0.9485111236572266] The hotel is very good, with decent sized rooms, great prices and excellent service!
+[0.9398727416992188] The size was adequate for us -- as we do not spend a lot time in a hotel, preferring to see the city instead.
+[0.8826789855957031] Most everything else about the hotel was great as well - the size of our room, the friendly staff, a great dinner and breakfast, again with outstanding views from the dining room.
+[0.6700897216796875] Our girls loved the decent-sized hot tube with the windowed ceiling that allowed us to watch the starts at night.
+[0.6062278747558594] The rooms are small but nice, the lobby is modern and inviting and the staff is friendly.
+
+----- Weakening -----
+
+[-0.80755615234375] *The shampoo was in a ridiculous size bottle and if anyone figures out how to get it out of the bottle I would love to know.
+[-0.7827911376953125] * Small rooms * We had a small balcony but had plastic furniture and latice on the floor (not nice) * The dresser, desk and minibar are still the old furniture (too many pieces and old and ugly) It did however have a flat screen tv which should not require a piece a furniture to hold it as it should be wall mounted.
+[-0.7385101318359375] The room was so tiny we could hardly fit in it.
+[-0.735687255859375] As I said the rooms are too small for all that furniture.
+[-0.7133026123046875] No carpet on the floor, hardly any outlets and the bathroom was too small.
+
+**********
+
+[0.729949951171875] The A/C units in the rooms were too noisy.
+Parent: The A/C units in the rooms were noisy and emitted a musty smell, but guests were able to open the sliding glass doors to get some cool air.
+
+----- Supporting -----
+
+[0.729949951171875] Only room complaint was the old fashioned noisy A/C unit - noisy and musty smelling.
+[0.083160400390625] The bed was quite comfortable, but the A/C a bit noisy.
+[0.02001953125] The elevator groaned when in use which was kind of scary.The pay per view movie was not working the first night, worked the second.
+[0.00189208984375] In 2004 my daughter was back East with her dad's family for Christmas and I just couldn't stomach the idea of spending another holiday with my then-significant other's nice but guarded family in an overheated home where conversation never goes deeper than discussion of recipes, jobs and weather.
+[0.000530242919921875] It was exceptionally noisy.
+
+----- Weakening -----
+
+[-0.9879975318908691] The room was quiet and we did not notice any noise from "neighbors".
+[-0.9745564460754395] Friendly, clean, quiet...what more can you ask for?
+[-0.9712505340576172] It was like a peaceful oasis in a major metropolitan area.
+[-0.9599251747131348] Our room was on the ground floor, and I was initially worried it might be noisy as it had a view of the waiter's water station for the outside patio, but in fact it was very quiet, and we could glimpse the water through the shrubs which preserved our privacy, as well as people-watching.
+[-0.9542040824890137] Granville Island is a wonderful oasis of calm right in the middle of Vancouver, there are shops, restaurants and sights all around.
+
+**********
+
+[0.9834556579589844] The A/C units emitted a musty smell.
+Parent: The A/C units in the rooms were noisy and emitted a musty smell, but guests were able to open the sliding glass doors to get some cool air.
+
+----- Supporting -----
+
+[0.9834556579589844] Only room complaint was the old fashioned noisy A/C unit - noisy and musty smelling.
+[0.0] Perfect
+[0.0] Enjoy!
+[0.0] !
+[0.0] .
+
+----- Weakening -----
+
+[-0.9794921875] Friendly, clean, quiet...what more can you ask for?
+[-0.9445056915283203] Friendly and informal.
+[-0.940119743347168] It was like a peaceful oasis in a major metropolitan area.
+[-0.9385833740234375] The market itself is so interesting and the food is wonderful.
+[-0.9383115768432617] Granville Island is a wonderful oasis of calm right in the middle of Vancouver, there are shops, restaurants and sights all around.
+
+**********
+
+[0.8154983520507812] The sliding glass doors opened to allow guests to get some cool air.
+Parent: The A/C units in the rooms were noisy and emitted a musty smell, but guests were able to open the sliding glass doors to get some cool air.
+
+----- Supporting -----
+
+[0.8154983520507812] I turned it off and opened the sliding glass door to get some cool air.
+[0.1033477783203125] The temperature control ( an old round dial type of thermostat) didnt work so we couldnt adjust the temperature, other then by opening a window.
+[0.0128021240234375] At the end of a tiring day, the hotel hot tub is the ideal place to unwind and ease those aching limbs.
+[0.0103607177734375] The Granville Island Hotel is a great little place to stay if you don't want the big city experience, and you like walking out your door to the marketplace, coffee shops, galleries and outdoor spaces that surround you on this interesting island.
+[0.009685516357421875] This was more than considerate and made for a wonderful first night.
+
+----- Weakening -----
+
+[-0.884185791015625] We were told none were available.
+[-0.716278076171875] We had a problem with the toilet running and somebody came up to fix it immediately.
+[-0.6765518188476562] Oh, and the sauna was broken.
+[-0.60626220703125] There are far more people begging and the whole area is in need of some upgrading.
+[-0.603057861328125] WiFi was also pretty quick
+
+**********
+
+[0.9445419311523438] The top floor rooms are nicer than the other rooms.
+Parent: The top floor rooms were said to be nicer than the others.
+
+----- Supporting -----
+
+[0.9445419311523438] The rooms on the third floor (top floor) tend to be nicer than the others.
+[0.6808433532714844] I thought the penthouse was well worth the money for a romantic stay compared to the other hotels we considered.
+[0.213531494140625] quiet at night without the often ugly street level scene you encounter at more glamorous high-rises (yes the high-rises can give you great views but coming out at street level you feel like you've walked into a seedy bus station environment).
+[0.07672119140625] Got room twice the sz with a balcony & view - MUCH better :-) This is close to everything,GR8 4 kids, couples, walking, hopping, coffee, food, farmer's market, easy acess to bridges, residential, ferries across water to downtown, yaletown, science world.
+[0.037848472595214844] We finally settled on a penthouse suite here and absolutely could not have been more pleased.
+
+----- Weakening -----
+
+[-0.6861228942871094] The restaurant on the ground floor is excellent.
+[-0.5688095092773438] If you want to walk/cycle - it doesn't get better the the walking/cycling trails leading away from Granville Island.
+[-0.4853057861328125] While we love trees, it always amazing to us why they are not more strategically placed!
+[-0.4726104736328125] But the main high-light for us, as we are sick of being in our cars in Los Angeles, was the public transportation.
+[-0.45188140869140625] I would not recommend this to my friends or family.

@@ -1,0 +1,422 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.7212886571884155
+
+**********
+
+[0.15692138671875] The food was not good.
+Parent: The reviews suggest that the food was either not good or not available.
+
+----- Supporting -----
+
+[0.15692138671875] Not too many healthy options, but they did have oatmeal.
+[0.0] $45/nt.
+[-0.003204345703125] my wife found some food on the floor from the previous occupants while trying to plug in the computer.
+[-0.008087158203125] The women said that maybe she might allow a plastic bottle of soda or water but for sure no beer.
+[-0.01268768310546875] Again we had a pricing issue we had a reservation conformation for one price and the clerk that checked us in would not honor it AT ALL.
+
+----- Weakening -----
+
+[-0.9936113357543945] The places we had dinner "Montana Mikes" and " Florentina's" were both really good food and great service.
+[-0.9928312301635742] The waffles were great, as were the donuts.
+[-0.983546257019043] The price was unbeatable, the staff was helpful, and the breakfast (Which was included) was fantastic!
+[-0.7021446228027344] They have scrambled eggs, biscuits and gravy, waffles, hot and cold cereal, and even donuts!
+[-0.4677734375] For the price we paid it was just fine!
+
+**********
+
+[0.0] The food was not available.
+Parent: The reviews suggest that the food was either not good or not available.
+
+----- Supporting -----
+
+[0.0] $45/nt.
+[-0.08606719970703125] The price was right and our room was first class.
+[-0.220703125] The water was shut off for about four hours and that messed up the pools chorine and they were shut down for one night.
+[-0.228057861328125] Only in the price.
+[-0.28228759765625] or they didnt check the sheets and blankets!
+
+----- Weakening -----
+
+[-0.9985332489013672] They have scrambled eggs, biscuits and gravy, waffles, hot and cold cereal, and even donuts!
+[-0.9979357719421387] They had biscuts and gravy, waffle stations, cereal, bagels, toast, oatmeal, donuts, juice, milk, and coffee.
+[-0.9973597526550293] The waffles were great, as were the donuts.
+[-0.9960575103759766] Not too many healthy options, but they did have oatmeal.
+[-0.995941162109375] The places we had dinner "Montana Mikes" and " Florentina's" were both really good food and great service.
+
+**********
+
+[0.8775482177734375] The food was good at Montana Mikes.
+Parent: The food was good at both Montana Mikes and Florentinas, and the service was good as well.
+
+----- Supporting -----
+
+[0.8775482177734375] The places we had dinner "Montana Mikes" and " Florentina's" were both really good food and great service.
+[0.3025703430175781] The price was unbeatable, the staff was helpful, and the breakfast (Which was included) was fantastic!
+[0.0880279541015625] The waffles were great, as were the donuts.
+[0.06859207153320312] They had biscuts and gravy, waffle stations, cereal, bagels, toast, oatmeal, donuts, juice, milk, and coffee.
+[0.05467987060546875] Canned peaches made up the fruit area and the eggs were very mysterious.
+
+----- Weakening -----
+
+[-0.159942626953125] Not too many healthy options, but they did have oatmeal.
+[-0.1341552734375] The water was shut off for about four hours and that messed up the pools chorine and they were shut down for one night.
+[-0.10711669921875] or they didnt check the sheets and blankets!
+[-0.106597900390625] The coffee does need to be a little bit stronger but that's all.
+[-0.0590362548828125] We had a coffeemaker in the room but did not use it as there was a small coffee/tea bar just down the hall.
+
+**********
+
+[0.9530134201049805] The food at Florentinas was good.
+Parent: The food was good at both Montana Mikes and Florentinas, and the service was good as well.
+
+----- Supporting -----
+
+[0.9530134201049805] The places we had dinner "Montana Mikes" and " Florentina's" were both really good food and great service.
+[0.30821990966796875] The price was unbeatable, the staff was helpful, and the breakfast (Which was included) was fantastic!
+[0.137359619140625] The waffles were great, as were the donuts.
+[0.10902023315429688] They had biscuts and gravy, waffle stations, cereal, bagels, toast, oatmeal, donuts, juice, milk, and coffee.
+[0.0861053466796875] Canned peaches made up the fruit area and the eggs were very mysterious.
+
+----- Weakening -----
+
+[-0.12884521484375] Not too many healthy options, but they did have oatmeal.
+[-0.11529541015625] or they didnt check the sheets and blankets!
+[-0.0763702392578125] The water was shut off for about four hours and that messed up the pools chorine and they were shut down for one night.
+[-0.054290771484375] The coffee does need to be a little bit stronger but that's all.
+[-0.0490570068359375] never saw it...oh unless they mean the old fruit on the table with the juice.
+
+**********
+
+[0.8779392242431641] The service was good.
+Parent: The food was good at both Montana Mikes and Florentinas, and the service was good as well.
+
+----- Supporting -----
+
+[0.8779392242431641] The price was unbeatable, the staff was helpful, and the breakfast (Which was included) was fantastic!
+[0.8462047576904297] The places we had dinner "Montana Mikes" and " Florentina's" were both really good food and great service.
+[0.4173736572265625] Overall, we couldn't beat the price for the location and helpfulness of the staff, but I expect our rooms to be cleaner and everything well-stocked & in working order.
+[0.299896240234375] The waffles were great, as were the donuts.
+[0.08893585205078125] They had biscuts and gravy, waffle stations, cereal, bagels, toast, oatmeal, donuts, juice, milk, and coffee.
+
+----- Weakening -----
+
+[-0.6705684661865234] The water was shut off for about four hours and that messed up the pools chorine and they were shut down for one night.
+[-0.4891777038574219] or they didnt check the sheets and blankets!
+[-0.3744049072265625] Again we had a pricing issue we had a reservation conformation for one price and the clerk that checked us in would not honor it AT ALL.
+[-0.060699462890625] Only in the price.
+[-0.0249481201171875] The women said that maybe she might allow a plastic bottle of soda or water but for sure no beer.
+
+**********
+
+[0.8779392242431641] The service was good.
+Parent: The food was good at both Montana Mikes and Florentinas, and the service was good as well.
+
+----- Supporting -----
+
+[0.8779392242431641] The price was unbeatable, the staff was helpful, and the breakfast (Which was included) was fantastic!
+[0.8462047576904297] The places we had dinner "Montana Mikes" and " Florentina's" were both really good food and great service.
+[0.4173736572265625] Overall, we couldn't beat the price for the location and helpfulness of the staff, but I expect our rooms to be cleaner and everything well-stocked & in working order.
+[0.299896240234375] The waffles were great, as were the donuts.
+[0.08893585205078125] They had biscuts and gravy, waffle stations, cereal, bagels, toast, oatmeal, donuts, juice, milk, and coffee.
+
+----- Weakening -----
+
+[-0.6705684661865234] The water was shut off for about four hours and that messed up the pools chorine and they were shut down for one night.
+[-0.4891777038574219] or they didnt check the sheets and blankets!
+[-0.3744049072265625] Again we had a pricing issue we had a reservation conformation for one price and the clerk that checked us in would not honor it AT ALL.
+[-0.060699462890625] Only in the price.
+[-0.0249481201171875] The women said that maybe she might allow a plastic bottle of soda or water but for sure no beer.
+
+**********
+
+[0.9804248809814453] The water was shut off.
+Parent: There was a problem with the water being shut off for a while, which caused the pools to be closed for one night.
+
+----- Supporting -----
+
+[0.9804248809814453] The water was shut off for about four hours and that messed up the pools chorine and they were shut down for one night.
+[0.0] $45/nt.
+[-0.14401626586914062] The price was right and our room was first class.
+[-0.294342041015625] Overall, we couldn't beat the price for the location and helpfulness of the staff, but I expect our rooms to be cleaner and everything well-stocked & in working order.
+[-0.335479736328125] my wife found some food on the floor from the previous occupants while trying to plug in the computer.
+
+----- Weakening -----
+
+[-0.977874755859375] There is also a variety of beverages.
+[-0.9557342529296875] They have scrambled eggs, biscuits and gravy, waffles, hot and cold cereal, and even donuts!
+[-0.9393062591552734] The coffee does need to be a little bit stronger but that's all.
+[-0.9167404174804688] They had biscuts and gravy, waffle stations, cereal, bagels, toast, oatmeal, donuts, juice, milk, and coffee.
+[-0.8994979858398438] Not too many healthy options, but they did have oatmeal.
+
+**********
+
+[0.9786772727966309] The pools were closed for one night.
+Parent: There was a problem with the water being shut off for a while, which caused the pools to be closed for one night.
+
+----- Supporting -----
+
+[0.9786772727966309] The water was shut off for about four hours and that messed up the pools chorine and they were shut down for one night.
+[0.0] $45/nt.
+[-0.11607933044433594] Overall, we couldn't beat the price for the location and helpfulness of the staff, but I expect our rooms to be cleaner and everything well-stocked & in working order.
+[-0.2109813690185547] The price was right and our room was first class.
+[-0.240264892578125] The women said that maybe she might allow a plastic bottle of soda or water but for sure no beer.
+
+----- Weakening -----
+
+[-0.9164085388183594] There is also a variety of beverages.
+[-0.9127044677734375] The price was great.
+[-0.9119052886962891] Only in the price.
+[-0.8670082092285156] The waffles were great, as were the donuts.
+[-0.8660202026367188] They had biscuts and gravy, waffle stations, cereal, bagels, toast, oatmeal, donuts, juice, milk, and coffee.
+
+**********
+
+[0.15692138671875] The food was not good.
+Parent: The food was not great, but it was priced well.
+
+----- Supporting -----
+
+[0.15692138671875] Not too many healthy options, but they did have oatmeal.
+[0.0] $45/nt.
+[-0.003204345703125] my wife found some food on the floor from the previous occupants while trying to plug in the computer.
+[-0.008087158203125] The women said that maybe she might allow a plastic bottle of soda or water but for sure no beer.
+[-0.01268768310546875] Again we had a pricing issue we had a reservation conformation for one price and the clerk that checked us in would not honor it AT ALL.
+
+----- Weakening -----
+
+[-0.9936113357543945] The places we had dinner "Montana Mikes" and " Florentina's" were both really good food and great service.
+[-0.9928312301635742] The waffles were great, as were the donuts.
+[-0.983546257019043] The price was unbeatable, the staff was helpful, and the breakfast (Which was included) was fantastic!
+[-0.7021446228027344] They have scrambled eggs, biscuits and gravy, waffles, hot and cold cereal, and even donuts!
+[-0.4677734375] For the price we paid it was just fine!
+
+**********
+
+[0.9456024169921875] The food was priced reasonably.
+Parent: The food was not great, but it was priced well.
+
+----- Supporting -----
+
+[0.9456024169921875] For the location and breakfast, it was priced well.
+[0.2308063507080078] The price was very good and they had made improvements in the short 5 weeks between trips.
+[0.15679168701171875] Good price with coupon from MWTravelBuddy.com .
+[0.1481485366821289] For the price we paid it was just fine!
+[0.060688018798828125] The price was right and our room was first class.
+
+----- Weakening -----
+
+[-0.5521392822265625] The price was great.
+[-0.47203826904296875] Again we had a pricing issue we had a reservation conformation for one price and the clerk that checked us in would not honor it AT ALL.
+[-0.1436614990234375] or they didnt check the sheets and blankets!
+[-0.1048126220703125] The water was shut off for about four hours and that messed up the pools chorine and they were shut down for one night.
+[-0.09033203125] The price was unbeatable, the staff was helpful, and the breakfast (Which was included) was fantastic!
+
+**********
+
+[0.2772674560546875] The cleanliness was not up to par.
+Parent: There were some issues with cleanliness, but the staff was helpful.
+
+----- Supporting -----
+
+[0.2772674560546875] Not too many healthy options, but they did have oatmeal.
+[0.0871734619140625] or they didnt check the sheets and blankets!
+[0.0649261474609375] My son found a long hair in his pancake.
+[0.05551910400390625] The water was shut off for about four hours and that messed up the pools chorine and they were shut down for one night.
+[0.0313720703125] Overall, we couldn't beat the price for the location and helpfulness of the staff, but I expect our rooms to be cleaner and everything well-stocked & in working order.
+
+----- Weakening -----
+
+[-0.4648590087890625] The price was right and our room was first class.
+[-0.4031410217285156] They have scrambled eggs, biscuits and gravy, waffles, hot and cold cereal, and even donuts!
+[-0.3588447570800781] The price was very good and they had made improvements in the short 5 weeks between trips.
+[-0.35654449462890625] They had biscuts and gravy, waffle stations, cereal, bagels, toast, oatmeal, donuts, juice, milk, and coffee.
+[-0.308929443359375] There is also a variety of beverages.
+
+**********
+
+[0.971735954284668] The staff was helpful.
+Parent: There were some issues with cleanliness, but the staff was helpful.
+
+----- Supporting -----
+
+[0.971735954284668] The price was unbeatable, the staff was helpful, and the breakfast (Which was included) was fantastic!
+[0.947789192199707] Overall, we couldn't beat the price for the location and helpfulness of the staff, but I expect our rooms to be cleaner and everything well-stocked & in working order.
+[0.35774707794189453] The places we had dinner "Montana Mikes" and " Florentina's" were both really good food and great service.
+[0.040191650390625] The women said that maybe she might allow a plastic bottle of soda or water but for sure no beer.
+[0.004536628723144531] The price was very good and they had made improvements in the short 5 weeks between trips.
+
+----- Weakening -----
+
+[-0.5708465576171875] Again we had a pricing issue we had a reservation conformation for one price and the clerk that checked us in would not honor it AT ALL.
+[-0.4842643737792969] or they didnt check the sheets and blankets!
+[-0.11017608642578125] My son found a long hair in his pancake.
+[-0.0812835693359375] Only in the price.
+[-0.025203704833984375] But if the price is right - why complain?
+
+**********
+
+[0.8711729049682617] The food was good.
+Parent: The food was good overall, with some healthy options available.
+
+----- Supporting -----
+
+[0.8711729049682617] The places we had dinner "Montana Mikes" and " Florentina's" were both really good food and great service.
+[0.6439418792724609] The waffles were great, as were the donuts.
+[0.5323123931884766] The price was unbeatable, the staff was helpful, and the breakfast (Which was included) was fantastic!
+[0.061298370361328125] Canned peaches made up the fruit area and the eggs were very mysterious.
+[0.0567779541015625] For the location and breakfast, it was priced well.
+
+----- Weakening -----
+
+[-0.11571502685546875] The water was shut off for about four hours and that messed up the pools chorine and they were shut down for one night.
+[-0.08585357666015625] or they didnt check the sheets and blankets!
+[-0.0601959228515625] The coffee does need to be a little bit stronger but that's all.
+[-0.01513671875] Not too many healthy options, but they did have oatmeal.
+[-0.012989044189453125] Again we had a pricing issue we had a reservation conformation for one price and the clerk that checked us in would not honor it AT ALL.
+
+**********
+
+[0.0522308349609375] The food was healthy.
+Parent: The food was good overall, with some healthy options available.
+
+----- Supporting -----
+
+[0.0522308349609375] The waffles were great, as were the donuts.
+[0.042438507080078125] The price was unbeatable, the staff was helpful, and the breakfast (Which was included) was fantastic!
+[0.025432586669921875] They had biscuts and gravy, waffle stations, cereal, bagels, toast, oatmeal, donuts, juice, milk, and coffee.
+[0.024176597595214844] The places we had dinner "Montana Mikes" and " Florentina's" were both really good food and great service.
+[0.022214889526367188] They have scrambled eggs, biscuits and gravy, waffles, hot and cold cereal, and even donuts!
+
+----- Weakening -----
+
+[-0.8536529541015625] Not too many healthy options, but they did have oatmeal.
+[-0.21549224853515625] My son found a long hair in his pancake.
+[-0.1968536376953125] The water was shut off for about four hours and that messed up the pools chorine and they were shut down for one night.
+[-0.17626953125] or they didnt check the sheets and blankets!
+[-0.0446319580078125] Only in the price.
+
+**********
+
+[0.9705305099487305] The waffles were good.
+Parent: The waffles and donuts were particularly praised.
+
+----- Supporting -----
+
+[0.9705305099487305] The waffles were great, as were the donuts.
+[0.0612030029296875] The price was great.
+[0.041839599609375] The price was very good and they had made improvements in the short 5 weeks between trips.
+[0.0224609375] Good price with coupon from MWTravelBuddy.com .
+[0.013273239135742188] They have scrambled eggs, biscuits and gravy, waffles, hot and cold cereal, and even donuts!
+
+----- Weakening -----
+
+[-0.356781005859375] Canned peaches made up the fruit area and the eggs were very mysterious.
+[-0.18560791015625] Again we had a pricing issue we had a reservation conformation for one price and the clerk that checked us in would not honor it AT ALL.
+[-0.16119384765625] or they didnt check the sheets and blankets!
+[-0.15285491943359375] The water was shut off for about four hours and that messed up the pools chorine and they were shut down for one night.
+[-0.127349853515625] The coffee does need to be a little bit stronger but that's all.
+
+**********
+
+[0.91888427734375] The donuts were good.
+Parent: The waffles and donuts were particularly praised.
+
+----- Supporting -----
+
+[0.91888427734375] The waffles were great, as were the donuts.
+[0.014920234680175781] They had biscuts and gravy, waffle stations, cereal, bagels, toast, oatmeal, donuts, juice, milk, and coffee.
+[0.0062408447265625] The price was great.
+[0.005046844482421875] The price was unbeatable, the staff was helpful, and the breakfast (Which was included) was fantastic!
+[0.0036830902099609375] They have scrambled eggs, biscuits and gravy, waffles, hot and cold cereal, and even donuts!
+
+----- Weakening -----
+
+[-0.2618560791015625] Canned peaches made up the fruit area and the eggs were very mysterious.
+[-0.25717926025390625] The water was shut off for about four hours and that messed up the pools chorine and they were shut down for one night.
+[-0.14667510986328125] The coffee does need to be a little bit stronger but that's all.
+[-0.13094329833984375] or they didnt check the sheets and blankets!
+[-0.09912109375] never saw it...oh unless they mean the old fruit on the table with the juice.
+
+**********
+
+[0.9399070739746094] The coffee was not strong enough.
+Parent: The coffee could be stronger, but other than that the food is good.
+
+----- Supporting -----
+
+[0.9399070739746094] The coffee does need to be a little bit stronger but that's all.
+[0.0] $45/nt.
+[-0.006730079650878906] They had biscuts and gravy, waffle stations, cereal, bagels, toast, oatmeal, donuts, juice, milk, and coffee.
+[-0.018985748291015625] For the location and breakfast, it was priced well.
+[-0.0263671875] Again we had a pricing issue we had a reservation conformation for one price and the clerk that checked us in would not honor it AT ALL.
+
+----- Weakening -----
+
+[-0.6689796447753906] The waffles were great, as were the donuts.
+[-0.33411407470703125] They have scrambled eggs, biscuits and gravy, waffles, hot and cold cereal, and even donuts!
+[-0.31268310546875] The water was shut off for about four hours and that messed up the pools chorine and they were shut down for one night.
+[-0.2848663330078125] Canned peaches made up the fruit area and the eggs were very mysterious.
+[-0.248992919921875] My son found a long hair in his pancake.
+
+**********
+
+[0.7391319274902344] The food is good.
+Parent: The coffee could be stronger, but other than that the food is good.
+
+----- Supporting -----
+
+[0.7391319274902344] The places we had dinner "Montana Mikes" and " Florentina's" were both really good food and great service.
+[0.4049949645996094] The waffles were great, as were the donuts.
+[0.38219261169433594] The price was unbeatable, the staff was helpful, and the breakfast (Which was included) was fantastic!
+[0.07075881958007812] Canned peaches made up the fruit area and the eggs were very mysterious.
+[0.03906440734863281] They have scrambled eggs, biscuits and gravy, waffles, hot and cold cereal, and even donuts!
+
+----- Weakening -----
+
+[-0.159820556640625] The water was shut off for about four hours and that messed up the pools chorine and they were shut down for one night.
+[-0.12548828125] or they didnt check the sheets and blankets!
+[-0.031402587890625] The coffee does need to be a little bit stronger but that's all.
+[-0.026885986328125] Not too many healthy options, but they did have oatmeal.
+[-0.0133056640625] Only in the price.
+
+**********
+
+[0.9718341827392578] There is a variety of breakfast food available.
+Parent: There is a variety of breakfast food available, and it is all reasonably priced.
+
+----- Supporting -----
+
+[0.9718341827392578] They have scrambled eggs, biscuits and gravy, waffles, hot and cold cereal, and even donuts!
+[0.9408421516418457] They had biscuts and gravy, waffle stations, cereal, bagels, toast, oatmeal, donuts, juice, milk, and coffee.
+[0.4774322509765625] Canned peaches made up the fruit area and the eggs were very mysterious.
+[0.1601104736328125] The waffles were great, as were the donuts.
+[0.09625244140625] Not too many healthy options, but they did have oatmeal.
+
+----- Weakening -----
+
+[-0.27764892578125] There is also a variety of beverages.
+[-0.23442840576171875] The places we had dinner "Montana Mikes" and " Florentina's" were both really good food and great service.
+[-0.12493896484375] The water was shut off for about four hours and that messed up the pools chorine and they were shut down for one night.
+[-0.08951950073242188] The coffee does need to be a little bit stronger but that's all.
+[-0.0686798095703125] never saw it...oh unless they mean the old fruit on the table with the juice.
+
+**********
+
+[0.9080905914306641] The breakfast food is reasonably priced.
+Parent: There is a variety of breakfast food available, and it is all reasonably priced.
+
+----- Supporting -----
+
+[0.9080905914306641] For the location and breakfast, it was priced well.
+[0.008726119995117188] The price was very good and they had made improvements in the short 5 weeks between trips.
+[0.00620269775390625] Good price with coupon from MWTravelBuddy.com .
+[0.003795623779296875] There is also a variety of beverages.
+[0.00310516357421875] The waffles were great, as were the donuts.
+
+----- Weakening -----
+
+[-0.79632568359375] The price was great.
+[-0.610107421875] The price was unbeatable, the staff was helpful, and the breakfast (Which was included) was fantastic!
+[-0.1801910400390625] Again we had a pricing issue we had a reservation conformation for one price and the clerk that checked us in would not honor it AT ALL.
+[-0.130401611328125] With having a Silver Dollar City season pass the price was very afforadable.
+[-0.129486083984375] The water was shut off for about four hours and that messed up the pools chorine and they were shut down for one night.

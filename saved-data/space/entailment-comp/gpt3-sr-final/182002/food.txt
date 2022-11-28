@@ -1,0 +1,128 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.6792181332906088
+
+**********
+
+[0.098846435546875] The food at the hotel is good.
+Parent: The food at the hotel is good, but it is very expensive.
+
+----- Supporting -----
+
+[0.098846435546875] The coffee shop Tim Hortons in the lobby has wonderful baked goods not good for the wasteline buttasted great, Thanks Primrose.
+[0.0741114616394043] The food they serve is good as well.
+[0.0651092529296875] there's an in-house tim hortons in case you don't want the very affordable breakfast buffet.
+[0.055511474609375] There is a decent diner to the left of the hotel and a great little Thai restaurant on the other side and around the corner.
+[0.038521766662597656] We did order food and beverage and were pleased with the variety of choices available for lunches.
+
+----- Weakening -----
+
+[-0.9249868392944336] The food is god awful, my stomach had to get used to it.
+[-0.0115966796875] Or grab a coffee and bagel at the Tim Hortons right next door.
+[-0.009326934814453125] The price was amazing ($90 CAD) and parking was typical at $23/day/in & out privileges.
+[-0.00897979736328125] I used the sales department at the hotel to make a booking for a block of rooms coming to Toronto for a family wedding.
+[-0.00794219970703125] we did see a couple of homeless guys but they did not bother us.
+
+**********
+
+[0.0347747802734375] The food at the hotel is expensive.
+Parent: The food at the hotel is good, but it is very expensive.
+
+----- Supporting -----
+
+[0.0347747802734375] for what this place costs I definitely recommend this hotel.
+[0.008556365966796875] Although it would have been more convenient for me to stay at the hotel the meeting was in, their prices were far too expensive for my budget.
+[0.0009975433349609375] we did get a craving for some calamari at 12:30 at night so we went out for a walk and saw three girls of the night between our hotel over to Younge.
+[-0.0021648406982421875] The food was good and arrived on time and hot.
+[-0.0033922195434570312] There is a decent diner to the left of the hotel and a great little Thai restaurant on the other side and around the corner.
+
+----- Weakening -----
+
+[-0.9728050231933594] there's an in-house tim hortons in case you don't want the very affordable breakfast buffet.
+[-0.7959718704223633] The price was also quite reasonable.
+[-0.6934623718261719] I was given a discount as I was a senior so the price ended up being very reasonable.
+[-0.6824159622192383] It was close to the theatre we were going to and the price was affordable.
+[-0.192047119140625] The price was good and they had a room with a king bed open.
+
+**********
+
+[0.9929056167602539] The coffee shop in the lobby has wonderful baked goods.
+Parent: The coffee shop in the lobby has wonderful baked goods.
+
+----- Supporting -----
+
+[0.9929056167602539] The coffee shop Tim Hortons in the lobby has wonderful baked goods not good for the wasteline buttasted great, Thanks Primrose.
+[0.14346885681152344] great coffee & doughnuts in the mornings!
+[0.0747222900390625] Or grab a coffee and bagel at the Tim Hortons right next door.
+[0.025262832641601562] The `Tim Horton`s` coffee shop in the reception was a bonus.
+[0.01790618896484375] there's an in-house tim hortons in case you don't want the very affordable breakfast buffet.
+
+----- Weakening -----
+
+[-0.5722208023071289] The food is god awful, my stomach had to get used to it.
+[-0.20069122314453125] The food they serve is good as well.
+[-0.1571807861328125] The food was good and arrived on time and hot.
+[-0.1397857666015625] The price was good and they had a room with a king bed open.
+[-0.1281890869140625] Great beef swarma pita sandwiches nearby esp.
+
+**********
+
+[0.9794754981994629] The food is good.
+Parent: The food they serve is good as well.
+
+----- Supporting -----
+
+[0.9794754981994629] The food they serve is good as well.
+[0.961977481842041] The food was good and arrived on time and hot.
+[0.25363731384277344] Great beef swarma pita sandwiches nearby esp.
+[0.1550140380859375] The coffee shop Tim Hortons in the lobby has wonderful baked goods not good for the wasteline buttasted great, Thanks Primrose.
+[0.0952911376953125] great coffee & doughnuts in the mornings!
+
+----- Weakening -----
+
+[-0.9952554702758789] The food is god awful, my stomach had to get used to it.
+[-0.04073333740234375] The price was amazing ($90 CAD) and parking was typical at $23/day/in & out privileges.
+[-0.029388427734375] There was also always plenty of hot water for Baths/showers.
+[-0.0254364013671875] The `Tim Horton`s` coffee shop in the reception was a bonus.
+[-0.0165252685546875] A four cup coffee maker and supplies and complementary wi-fi were useful.
+
+**********
+
+[0.9767341613769531] The diner is to the left of the hotel.
+Parent: There is a decent diner to the left of the hotel and a great little Thai restaurant on the other side and around the corner.
+
+----- Supporting -----
+
+[0.9767341613769531] There is a decent diner to the left of the hotel and a great little Thai restaurant on the other side and around the corner.
+[0.00171661376953125] The food they serve is good as well.
+[0.000568389892578125] The food was good and arrived on time and hot.
+[-0.0034465789794921875] Would stay there again as price was great and location perfect.
+[-0.0043087005615234375] Great hotel and great price.
+
+----- Weakening -----
+
+[-0.8702030181884766] there's an in-house tim hortons in case you don't want the very affordable breakfast buffet.
+[-0.8643875122070312] Or grab a coffee and bagel at the Tim Hortons right next door.
+[-0.3737640380859375] The `Tim Horton`s` coffee shop in the reception was a bonus.
+[-0.1889190673828125] The coffee shop Tim Hortons in the lobby has wonderful baked goods not good for the wasteline buttasted great, Thanks Primrose.
+[-0.18073272705078125] There was also always plenty of hot water for Baths/showers.
+
+**********
+
+[0.9925723075866699] There is a Thai restaurant on the other side and around the corner.
+Parent: There is a decent diner to the left of the hotel and a great little Thai restaurant on the other side and around the corner.
+
+----- Supporting -----
+
+[0.9925723075866699] There is a decent diner to the left of the hotel and a great little Thai restaurant on the other side and around the corner.
+[0.00311279296875] The food they serve is good as well.
+[-0.0013895034790039062] Would stay there again as price was great and location perfect.
+[-0.0020246505737304688] for what this place costs I definitely recommend this hotel.
+[-0.002849578857421875] The location was good, right where I needed to be, and the price was great for downtown and I only paid $89 with a corporate discount.
+
+----- Weakening -----
+
+[-0.12939453125] The price was great, and the rooms large.
+[-0.114105224609375] The food is god awful, my stomach had to get used to it.
+[-0.11115646362304688] we did get a craving for some calamari at 12:30 at night so we went out for a walk and saw three girls of the night between our hotel over to Younge.
+[-0.0980987548828125] There was also always plenty of hot water for Baths/showers.
+[-0.08278656005859375] Or grab a coffee and bagel at the Tim Hortons right next door.

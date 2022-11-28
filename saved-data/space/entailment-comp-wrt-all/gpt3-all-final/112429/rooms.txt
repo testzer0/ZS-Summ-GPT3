@@ -1,0 +1,149 @@
+***** Aspect: rooms Model Type : zs *****
+Overall score: 0.785874775477818
+
+**********
+
+[0.9876890182495117] The rooms were clean.
+Parent: The reviewers found the rooms to be clean and comfortable, with good amenities.
+
+----- Supporting -----
+
+[0.9876890182495117] Rooms were very clean and comfortable.
+[0.9846668243408203] The rooms were clean and I forgot an item and was able to get it back from the front desk staff.
+[0.9836878776550293] The rooms are clean and neat, and the staff is friendly.
+[0.980687141418457] Rooms are very clean, and modern and the service was excellent.
+[0.9803586006164551] Highly recommend this hotel rooms, they were nice and clean and very comfortable.
+
+----- Weakening -----
+
+[-0.9974188804626465] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[-0.9962277412414551] Our toliet overflowed at 11pm resulting in a flood in our bathroom.
+[-0.9953584671020508] It was dark, dirty, and noisy from the construction right outside my window.
+[-0.9951581954956055] Stripping the sheets, I found a fairly fresh urine stain that made me want to vomit.
+[-0.9950704574584961] The air conditioning vent had so much filthy residue trapped inside that it could not possibly pass a health audit.
+
+**********
+
+[0.9887199401855469] The rooms were comfortable.
+Parent: The reviewers found the rooms to be clean and comfortable, with good amenities.
+
+----- Supporting -----
+
+[0.9887199401855469] The rooms are comfortable.
+[0.9877433776855469] Rooms were very clean and comfortable.
+[0.9790387153625488] Rooms were comfortable as far as size and also very quiet.
+[0.9773898124694824] Highly recommend this hotel rooms, they were nice and clean and very comfortable.
+[0.9621400833129883] The customer service is top notch, the location is perfect, and the rooms are very comfortable.
+
+----- Weakening -----
+
+[-0.9859809875488281] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[-0.9520034790039062] The room is shabby, the shower made a horrible noise whenever the water was running.
+[-0.937957763671875] It was dark, dirty, and noisy from the construction right outside my window.
+[-0.9098472595214844] Stripping the sheets, I found a fairly fresh urine stain that made me want to vomit.
+[-0.8806076049804688] The heater came off and on frequently and it made a jarring clicking noise each time...all night long.
+
+**********
+
+[0.9290742874145508] The rooms had good amenities.
+Parent: The reviewers found the rooms to be clean and comfortable, with good amenities.
+
+----- Supporting -----
+
+[0.9290742874145508] The room was pleasantly decorated in warm tones (gold, brown, cream and red), separate shower and bathing tub, & all of the amenities worked (iron, blow dryer, etc).
+[0.9244270324707031] I was impressed with the room...while not being large, it had more than adequate space and amenities.
+[0.9220409393310547] The bathroom was roomy and supplied with great amenities.
+[0.9218978881835938] Clean rooms, pleasant staff with good restaurant recommendations, and fast, free internet.
+[0.9194879531860352] The rooms were very well decorated, with a flat screen tv, marble bathroom, great view, etc.
+
+----- Weakening -----
+
+[-0.9347724914550781] The room is shabby, the shower made a horrible noise whenever the water was running.
+[-0.8234329223632812] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[-0.8115978240966797] It was dark, dirty, and noisy from the construction right outside my window.
+[-0.795196533203125] Some other minor issues were the desk chair in the room (it fell short of an appropriate working height of the desk and constantly fell down when your leg accidently hit the adjustment bar in front, poor choice of chairs), the elevator door was annoyingly slow to close (I was up and down several times per day), the exterior and lobby doors should be automatic and I noticed people struggling to open them and get their luggage through, they also were misaligned and did not open well.
+[-0.650146484375] The not so good: The hotel had touted a 2 person tub - and while it was a soaking tub - it wasn't comfortable for two.
+
+**********
+
+[0.529388427734375] The rooms were too small.
+Parent: Some reviewers found the rooms small, but most found them adequate.
+
+----- Supporting -----
+
+[0.529388427734375] That could be nice but the new furniture is really over-sized and makes the small rooms even smaller and doesn't allow for a body to move around the room.
+[0.1392974853515625] They did provide us with roll-away beds but then there was no room to move around in the room.
+[0.111083984375] The bathroom is the size of a closet and the hot water took forever to warm up.
+[0.0074558258056640625] This is a small place and they react quickly.
+[0.0040073394775390625] The rooms for the price were not very good.
+
+----- Weakening -----
+
+[-0.9981117248535156] Large room, with amazing king size bed, stunning bathroom, and a view.
+[-0.9975874423980713] Room was pretty big and spacious and the bed was comfortable.
+[-0.9971635341644287] The room was large with a desk area, comfortable chairs and a very comfortable bed.
+[-0.9971427917480469] The rooms are superb -- spacious, well-appointed, with awesome beds.
+[-0.9970531463623047] The rooms are spacious, clean and well maintained.
+
+**********
+
+[0.8701305389404297] The rooms were adequate.
+Parent: Some reviewers found the rooms small, but most found them adequate.
+
+----- Supporting -----
+
+[0.8701305389404297] The rooms are comfortable.
+[0.8457355499267578] The customer service is top notch, the location is perfect, and the rooms are very comfortable.
+[0.8450088500976562] I was impressed with the room...while not being large, it had more than adequate space and amenities.
+[0.8133087158203125] Rooms were comfortable as far as size and also very quiet.
+[0.8028411865234375] Rooms were very clean and comfortable.
+
+----- Weakening -----
+
+[-0.987518310546875] The room is shabby, the shower made a horrible noise whenever the water was running.
+[-0.9718074798583984] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[-0.9703207015991211] Stripping the sheets, I found a fairly fresh urine stain that made me want to vomit.
+[-0.9619979858398438] I was put in a room that just didn't have the feeling be being fresh and clean.
+[-0.956146240234375] The rooms for the price were not very good.
+
+**********
+
+[0.360107421875] The neighbors were noisy.
+Parent: Some guests noted that they could hear their neighbors, but overall had a positive experience.
+
+----- Supporting -----
+
+[0.360107421875] One had wobbly paddles and the other one squeaked when you paddle.
+[0.28997230529785156] We ate there very late one night and there was a good crowd and the place was very lively.
+[0.2688751220703125] The only thing keeping this from being a 5 star review all the way around is that we could hear the person in the next room peeing.
+[0.2669830322265625] My only minor complaint is some noise from the plumbing, also from the street and from an adjacent building's hvac system.
+[0.24535369873046875] On this last stay, I was assigned a corner room which had great views but, because of having two windows and being on the corner of a busy street, was also a bit noisier (sirens, etc.)
+
+----- Weakening -----
+
+[-0.714935302734375] The other fellow named Rich was very aloof , didnt know anything and confusing.
+[-0.6675014495849609] Laid back, nonintrusive hotel suitable for business or vacation stays, centrally located on Pine--3 blocks from Westlake, a block from the bus terminal ($2.75 airport transfers), and a block from Von's Martini and Manhattan Shrine, never to be missed.
+[-0.6640777587890625] Everything from the staff to the amenities everything.
+[-0.5891342163085938] Front desk personnel are somewhat "aloof".
+[-0.5170707702636719] Everyone was very friendly, and eager to pass on maps, coupons and recommendations for the local area.
+
+**********
+
+[0.8360137939453125] The guests had a positive experience.
+Parent: Some guests noted that they could hear their neighbors, but overall had a positive experience.
+
+----- Supporting -----
+
+[0.8360137939453125] We retired to our room happy campers and, as mentioned, had a surprisingly excellent sleep.
+[0.7834682464599609] We were very pleased when we got to our room- quite spacious with a king bed that honestly gave us such a great sleep that we meant to ask the front desk about the mattress brand and bedding.
+[0.7649135589599609] Our stay was very enjoyable.
+[0.7548751831054688] I would definitely recommend this hotel as we had a fantastic experience with it!
+[0.6841831207275391] At $24 a night it seemed a bit pricey, but all in all we thoroughly enjoyed ourselves.
+
+----- Weakening -----
+
+[-0.9955682754516602] Needless to say we left the hotel very frustrated and upset.
+[-0.9844875335693359] Things started to go terribly wrong on our second night.
+[-0.9792823791503906] I did not enjoy my stay here.
+[-0.9707088470458984] The biggest issue is that upon going to bed the first night, I noticed an overpowering smell of urine in my bed.
+[-0.9618759155273438] I stayed for 5 nights and by the 5th night I was dreadfully ill.

@@ -1,0 +1,29 @@
+***** food : Sentiments for original sentences *****
+/ tea bar : + 0     - 1
+beer : + 0     - 1
+price : + 9     - 0
+food : + 1     - 1
+service : + 1     - 0
+peaches : + 0     - 1
+eggs : + 0     - 1
+beverages : + 1     - 0
+clerk : + 0     - 1
+water : + 0     - 1
+location : + 1     - 0
+staff : + 2     - 0
+priced : + 1     - 0
+waffles : + 1     - 0
+donuts : + 1     - 0
+oatmeal : + 1     - 0
+breakfast : + 1     - 0
+room : + 1     - 0
+***** food : Sentiments for raw summaries *****
+food : + 3     - 2
+service : + 1     - 0
+water : + 0     - 1
+priced : + 2     - 0
+staff : + 1     - 0
+donuts : + 1     - 0
+coffee : + 0     - 1
+breakfast food : + 1     - 0
+***** food : Sentiments for final summary *****

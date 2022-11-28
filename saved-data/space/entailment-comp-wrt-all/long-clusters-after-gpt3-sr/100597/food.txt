@@ -1,0 +1,128 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.9645511309305826
+
+**********
+
+[0.9680948257446289] The food was good.
+Parent: The food at the hotel was good, although it was a bit pricey.
+
+----- Supporting -----
+
+[0.9680948257446289] The food was good although a bit pricey.
+[0.9598751068115234] Food was good, but a bit overpriced.
+[0.9490771293640137] We had dinner in the attached restaurant, and the food was absolutely delicious.
+[0.9436769485473633] Restaurant food was excellent and reasonably priced and breakfast was good.
+[0.9420289993286133] The food was decent as was the wine selection.
+
+----- Weakening -----
+
+[-0.9760665893554688] Food was very expensive in restaurant and just okay.
+[-0.877227783203125] The not so good news - food at the hotel was OK.
+[-0.79388427734375] We ate at both the lounge and the cafe and food was average at best, but the service VERY GOOD!
+[-0.7062530517578125] VERY average burger.
+[-0.6980037689208984] What I found was rather run down and shabby.
+
+**********
+
+[0.9853553771972656] The food at the hotel was expensive.
+Parent: The food at the hotel was good, although it was a bit pricey.
+
+----- Supporting -----
+
+[0.9853553771972656] That worked well for me since the food at the hotel is fairly pricey.
+[0.66278076171875] The room service was horribly overpriced-- not only do they charge 18% more than listed price, the listed prices in the rooms are ALREADY higher than in the restaurant ($2 more on soups and $3-$8 more on entrees/burgers).
+[0.22714614868164062] Room service was typically expensive .
+[0.22007369995117188] With the $20 a night parking, internet fees, and insane food pricing I would expect a much more modern, bigger, and clean room.
+[0.153900146484375] We had a lovely buffet breakfast in the restaurant and sat by the outdoor pool in the morning while we waited for our transfer to the airport.
+
+----- Weakening -----
+
+[-0.9503154754638672] Restaurant food was excellent and reasonably priced and breakfast was good.
+[-0.7984619140625] The rooms are relatively spacious, our kids love the pool, and the breakfast buffet isn't a bad deal for what you get.
+[-0.7658252716064453] I was able to purchase a reasonably priced bottle of Oregon pinot noir for in-room consumption.
+[-0.6700382232666016] Cheap toiletries, few towels.
+[-0.64892578125] This plus we luv their complimentary cookies that they offer upon check-in.
+
+**********
+
+[0.8937759399414062] The coffee bar was great.
+Parent: The coffee bar was great, and the food was excelent.
+
+----- Supporting -----
+
+[0.8937759399414062] The coffee bar in the lobby is great and opens at 5.
+[0.6228790283203125] Breakfast was delicious in the coffee shop, hot scones with jam and coffee.
+[0.6210403442382812] The coffee bar in the lobby was handy, too!
+[0.176910400390625] Service was great and bell person got ice for us and was very helpful.
+[0.07618331909179688] The room was spacious and had a coffee maker.
+
+----- Weakening -----
+
+[-0.996525764465332] Coffee shop service was horrible.
+[-0.9644317626953125] Room was highly run down.
+[-0.954803466796875] What I found was rather run down and shabby.
+[-0.9511356353759766] VERY average burger.
+[-0.9477729797363281] The beds were amazing.
+
+**********
+
+[0.9705333709716797] The food was excellent.
+Parent: The coffee bar was great, and the food was excelent.
+
+----- Supporting -----
+
+[0.9705333709716797] Restaurant food was excellent and reasonably priced and breakfast was good.
+[0.950556755065918] We had dinner in the attached restaurant, and the food was absolutely delicious.
+[0.9492740631103516] Choice of food was excelent.
+[0.8677482604980469] We tried the hotel restaurants and the food was quite good.
+[0.8328781127929688] The food was good although a bit pricey.
+
+----- Weakening -----
+
+[-0.9964351654052734] Food was very expensive in restaurant and just okay.
+[-0.9961156845092773] The not so good news - food at the hotel was OK.
+[-0.9956283569335938] We ate at both the lounge and the cafe and food was average at best, but the service VERY GOOD!
+[-0.9931888580322266] VERY average burger.
+[-0.9754743576049805] What I found was rather run down and shabby.
+
+**********
+
+[0.9928951263427734] The food in the restaurant was expensive.
+Parent: However, the food was quite expensive in the restaurant, and the take-out food got cold.
+
+----- Supporting -----
+
+[0.9928951263427734] Food was very expensive in restaurant and just okay.
+[0.9639816284179688] That worked well for me since the food at the hotel is fairly pricey.
+[0.8897476196289062] The only drawback was that the restaurant was a little on the pricey side for breakfast, but there are many places nearby to eat.
+[0.7870960235595703] The food was a little expensive-$13 for a burger and $12 for an omelette alone.
+[0.6405982971191406] The food was good although a bit pricey.
+
+----- Weakening -----
+
+[-0.9927272796630859] Restaurant food was excellent and reasonably priced and breakfast was good.
+[-0.8281497955322266] (For the discounted price) The room was very large, faced the airport, but was still quiet.
+[-0.7193984985351562] VERY average burger.
+[-0.70245361328125] The rooms are relatively spacious, our kids love the pool, and the breakfast buffet isn't a bad deal for what you get.
+[-0.6643486022949219] Cheap toiletries, few towels.
+
+**********
+
+[0.9766521453857422] The take-out food was cold.
+Parent: However, the food was quite expensive in the restaurant, and the take-out food got cold.
+
+----- Supporting -----
+
+[0.9766521453857422] All of this resulted in out take-out food getting cold plus I lost my scarf somewhere along the way.
+[0.86767578125] We ordered food and received ice cold food one hour later.
+[0.682037353515625] The soup was brought to us pretty cold, but he seemed to vanish so we couldn't complain.
+[0.12709808349609375] Service in the more upscale of the two restaurants was almost unbearably slow and the food was cold when it finally arrived after over a hour at our table.
+[0.1234130859375] If it wasn't for Pam the waitress quick actions and bringing me ice, I am sure it would have blistered terribly.
+
+----- Weakening -----
+
+[-0.9764251708984375] Love the warm chocolate chips cookies and the service has always been outstanding.
+[-0.9717426300048828] We arrived very late, were greeted at the desk by a friendly employee who handed us a warm chocolate chip cookie to munch on while we were waiting for our room key.
+[-0.9708538055419922] Warm cookies when you arrive.
+[-0.9688291549682617] Breakfast was delicious in the coffee shop, hot scones with jam and coffee.
+[-0.964019775390625] It was so liquified that it spilled all over my hand and burned me terribly.

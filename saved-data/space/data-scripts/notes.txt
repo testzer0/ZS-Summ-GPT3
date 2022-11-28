@@ -1,0 +1,3 @@
+1) In "The fire alarm has been going off.", one of the previous statements about another guest setting off the alarm has plunged to around -0.01 from a slightly positive score.
+2) "There is a good variety of food available." became "The food is good." - this is incorrect.
+3) A statement like "Overall, the reviewers thought the service was friendly and helpful." becomes "The reviewers thought the service was friendly and helpful.", instead of the intended "The service was friendly and helpful". Understandable that there are two layers of "wrappers" ("The reviewers thought X" and "Overall, X") and GPT-3 only unwraps one layer, but a possible issue.

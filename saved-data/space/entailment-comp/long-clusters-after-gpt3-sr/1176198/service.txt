@@ -1,0 +1,107 @@
+***** Aspect: service Model Type : zs *****
+Overall score: 0.5921615600585938
+
+**********
+
+[0.9770326614379883] The service was good.
+Parent: The service was generally praised by reviewers, with many noting that the staff were friendly and helpful.
+
+----- Supporting -----
+
+[0.9770326614379883] The service was quite good.
+[0.9546346664428711] The service is great and you must try a croissant - the best.
+[0.9473466873168945] The service was excellent, we were offered a deal on breakfast at check in.
+[0.9197158813476562] The service was exceptional and the rooms are very clean and comfortable.
+[0.9108562469482422] The front desk staff, porters, room staff, wereall excellent....When a hotel strives for excellence in costumer service, it shows....it really does...
+
+----- Weakening -----
+
+[-0.9933719635009766] Never in my life have I spent so much in one place and been treated so poorly.
+[-0.9546623229980469] First, there was absolutely no housecleaning/maid service!
+[-0.9434814453125] We spoke with the lady at the desk and all she had to say was "we have never had a Sunday like this... We have another valet employee coming in in an hour" Not helpful!
+[-0.9274101257324219] They told us in a very rude tone and with attitude that our credit card had been declined over the last few days and that they had tried it several time so we would have to provide a cash deposit.
+[-0.8033885955810547] I would NOT recommend giving this hotel your business.
+
+**********
+
+[0.9931163787841797] The staff were friendly and helpful.
+Parent: The service was generally praised by reviewers, with many noting that the staff were friendly and helpful.
+
+----- Supporting -----
+
+[0.9931163787841797] The staff was friendly, helpful and efficient.
+[0.9901714324951172] Staff was friendly and helpful.
+[0.9863224029541016] The staff is pleasant and helpful.
+[0.985863208770752] The staff on the front desk were very polite and helpful.
+[0.982417106628418] The staff was friendly and they did all they could to help us.
+
+----- Weakening -----
+
+[-0.997978687286377] We spoke with the lady at the desk and all she had to say was "we have never had a Sunday like this... We have another valet employee coming in in an hour" Not helpful!
+[-0.9964661598205566] They told us in a very rude tone and with attitude that our credit card had been declined over the last few days and that they had tried it several time so we would have to provide a cash deposit.
+[-0.9941978454589844] Never in my life have I spent so much in one place and been treated so poorly.
+[-0.9134292602539062] It was a pretty good deal but this experience left me feeling like they took advantage of me when they were supposed to be helpful.
+[-0.8714065551757812] The service manager refused!
+
+**********
+
+[0.987004280090332] There was no housekeeping/maid service.
+Parent: However, some guests complained that there was no housekeeping/maid service available, and that noise levels could be an issue, particularly on weekends.
+
+----- Supporting -----
+
+[0.987004280090332] First, there was absolutely no housecleaning/maid service!
+[0.0118865966796875] The service manager refused!
+[0.0] Horrible !
+[-0.002239227294921875] I would NOT recommend giving this hotel your business.
+[-0.003875732421875] Never in my life have I spent so much in one place and been treated so poorly.
+
+----- Weakening -----
+
+[-0.9980771541595459] If we call for extra towels/sheets/cups, it's all sent up very quickly by housekeeping staff.
+[-0.9956457614898682] From the valet staff to the front desk, to the cleaning staff, everyone was curteous and very friendly.
+[-0.9933948516845703] The front desk staff, porters, room staff, wereall excellent....When a hotel strives for excellence in costumer service, it shows....it really does...
+[-0.9914693832397461] The rooms and staff are fine.
+[-0.9875502586364746] Exceptional service!
+
+**********
+
+[0.00365447998046875] The noise levels were too high.
+Parent: However, some guests complained that there was no housekeeping/maid service available, and that noise levels could be an issue, particularly on weekends.
+
+----- Supporting -----
+
+[0.00365447998046875] The front desk staff responded quickly to the noise at 2AM with the room next door.
+[0.0018901824951171875] I would NOT recommend giving this hotel your business.
+[0.0] Horrible !
+[-0.0059642791748046875] This would not be an issue during week with business travellers, but there were many young people around on the weekend.
+[-0.0074462890625] We spoke with the lady at the desk and all she had to say was "we have never had a Sunday like this... We have another valet employee coming in in an hour" Not helpful!
+
+----- Weakening -----
+
+[-0.9651141166687012] Exceptional service!
+[-0.9247531890869141] Any time we were leaving they reversed the process with nary an unpleasant word and always smiling.
+[-0.9053401947021484] And the free internet is speedy.
+[-0.9014315605163574] The service was exceptional and went beyond the standard service.
+[-0.8987607955932617] Wireless internet was complimentary in the room which is great.
+
+**********
+
+[0.0] The noise levels are too high on weekends.
+Parent: However, some guests complained that there was no housekeeping/maid service available, and that noise levels could be an issue, particularly on weekends.
+
+----- Supporting -----
+
+[0.0] Horrible !
+[-0.0002593994140625] We spoke with the lady at the desk and all she had to say was "we have never had a Sunday like this... We have another valet employee coming in in an hour" Not helpful!
+[-0.0007648468017578125] I would NOT recommend giving this hotel your business.
+[-0.009700775146484375] Never in my life have I spent so much in one place and been treated so poorly.
+[-0.011976242065429688] I sent a hard copy letter to the general manager suggesting this was a problem and have not received even an acknowledgment after a month.
+
+----- Weakening -----
+
+[-0.8288278579711914] Exceptional service!
+[-0.7668275833129883] The service was exceptional and went beyond the standard service.
+[-0.6203861236572266] Free internet was nice too, and useful.
+[-0.6110706329345703] And the free internet is speedy.
+[-0.6041297912597656] Wireless internet was complimentary in the room which is great.

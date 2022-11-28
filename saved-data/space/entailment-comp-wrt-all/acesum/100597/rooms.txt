@@ -1,0 +1,23 @@
+***** Aspect: rooms Model Type : zs *****
+Overall score: 0.9886999130249023
+
+**********
+
+[0.9886999130249023] The room was spacious.
+Parent: The room was spacious.
+
+----- Supporting -----
+
+[0.9886999130249023] The room was spacious with a comfortable bed and a large selection of various pillows.
+[0.9876642227172852] The room was spacious, clean and well appointed.
+[0.9871430397033691] Room was spacious and clean.
+[0.9816093444824219] The rooms were gorgeous and spacious and comfortable.
+[0.9782590866088867] The suite was spacious, clean, and quiet.
+
+----- Weakening -----
+
+[-0.9936428070068359] The fitness room is small but the bedrooms are standard.
+[-0.9871902465820312] Complimentary shuttle nice although couldn't fit everyone on a Sunday mid-AM!
+[-0.9791946411132812] By the time the shuttle was prepared to leave on the hour there were to many people to fit in the shuttle(they could have run there & back in that time ).
+[-0.9768600463867188] Room was highly run down.
+[-0.9738616943359375] Rooms are not particularly posh or large.

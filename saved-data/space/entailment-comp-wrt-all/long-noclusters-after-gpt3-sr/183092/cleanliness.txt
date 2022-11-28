@@ -1,0 +1,44 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.9383058547973633
+
+**********
+
+[0.9916439056396484] The hotel was clean.
+Parent: The hotel was clean and well-kept.
+
+----- Supporting -----
+
+[0.9916439056396484] Hotel was extremely clean.
+[0.9866857528686523] I have to admit that I am usually very worried about hotels and their cleanliness... but this hotel was extremely clean.
+[0.9861721992492676] The hotel is very clean, the rooms were a good price for the quality received, and, best of all, the location can't be beat.
+[0.9857335090637207] The hotel was very clean, the hotel staff were very friendly and information, and it was close to public transportation, which we used for our entire time in Toronto.
+[0.981961727142334] The hotel was clean and modern and the King room was spacious, with the most comfortable bed (slept better than at home).
+
+----- Weakening -----
+
+[-0.9955720901489258] my colleagues staying at the sheraton said their rooms were old and not maintained and in some cases dirty.
+[-0.9866170883178711] My basic perception was that the rooms had a dated, unclean vibe.
+[-0.9856195449829102] The worst part of the stay however was finding two LARGE insects or animals, something in the room!
+[-0.9855070114135742] We called reception at 3am to get them changed, they were apologetic and changed them immediately but even the 'new' sheets still had holes and looked worn!
+[-0.9795284271240234] I was on the 10th floor, it took forever for the shower to get hot and when it did the temperature fluctuated radically from luke warm to scalding.
+
+**********
+
+[0.8849678039550781] The hotel was well-kept.
+Parent: The hotel was clean and well-kept.
+
+----- Supporting -----
+
+[0.8849678039550781] Hotel was extremely clean.
+[0.8050918579101562] I have to admit that I am usually very worried about hotels and their cleanliness... but this hotel was extremely clean.
+[0.7135581970214844] Clean hotel, well located.
+[0.544525146484375] The hotel is very clean, the rooms were a good price for the quality received, and, best of all, the location can't be beat.
+[0.5285301208496094] However, we found this hotel to be pleasant and clean.
+
+----- Weakening -----
+
+[-0.9884185791015625] my colleagues staying at the sheraton said their rooms were old and not maintained and in some cases dirty.
+[-0.9666156768798828] Not very convenient to go down to lobby all the time...Staff was not at all helpful in this matter... A sidenote: the room when we arrived was not vacumed and was not clean.
+[-0.9612026214599609] To compound this the air conditioning didnt work properly and we couldn't open the window.
+[-0.9410076141357422] The worst part of the stay however was finding two LARGE insects or animals, something in the room!
+[-0.9352550506591797] other issues- bathroom really not that nice, concierge horrible at recommending things to do or good resutarants or giving directions.

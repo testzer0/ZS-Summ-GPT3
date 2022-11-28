@@ -1,0 +1,485 @@
+***** Aspect: location Model Type : zs *****
+Overall score: 0.7987607562023661
+
+**********
+
+[0.9872031211853027] The location is near the airport.
+Parent: The location is close to the airport and 15 minutes away from town.
+
+----- Supporting -----
+
+[0.9872031211853027] The hotel is pretty big but the location next to the airport is great.
+[0.9813327789306641] Staff are friendly and helpful, the rooms are decent, and it's very close to the airport.
+[0.9809427261352539] --Location is very convenient to the airport, and pretty quick access to I-5.
+[0.9784622192382812] The good news - the hotel is very close to the airport with a 24hr shuttle to the airport.
+[0.9762535095214844] Very nice hotel, very close to the airport, walkable in fact to the terminals in less than 10 minutes or one can take a free shuttle bus.
+
+----- Weakening -----
+
+[-0.9926915168762207] This hotel is by a small lake and at dusk there are misquitos and misc.
+[-0.9298973083496094] Out the back of mine (#5) the deck looked out into a forest.
+[-0.9163017272949219] Downtown Seattle was about a 30 minute ride by light rail service (cost of $16 for the 4 of us) or $40 cab ride to the pier.
+[-0.8992710113525391] We were told we had a great view of the "lake" from our room.
+[-0.8940744400024414] The room had a large balcony overlooking a lake and on the 4th floor we were up in the trees.
+
+**********
+
+[0.9710760116577148] The location is 15 minutes away from town.
+Parent: The location is close to the airport and 15 minutes away from town.
+
+----- Supporting -----
+
+[0.9710760116577148] It was about fifteen minutes away from town and very close to the airport.
+[0.0126190185546875] Airport pickup runs every 15 minutes.
+[0.00078582763671875] The free airport shuttle runs every 15 mins or so and really helped us catch our flight the next morning.
+[0.0005092620849609375] It has a convenient location and a shuttle service that runs every 15 minutes for 24 hours.
+[0.000141143798828125] It is an easy drive into downtown Seattle from here and worked great for my late-arriving flight before meetings in Seattle the following morning.
+
+----- Weakening -----
+
+[-0.7872610092163086] Wonderfully quiet, considering the airport is literally across the street.
+[-0.7447357177734375] We live about two hours and a ferry ride from the airport and always stay here when we have an early morning flight.
+[-0.6539058685302734] The hotel was clean, beds were fine, hotel is located across the street from the air port, was within walking distance to a Denny's, Jack in the Box, and a steak place.
+[-0.51806640625] Downtown Seattle was about a 30 minute ride by light rail service (cost of $16 for the 4 of us) or $40 cab ride to the pier.
+[-0.44597434997558594] t was a very long walk to get to the room.
+
+**********
+
+[0.40300750732421875] The parking fee is too high.
+Parent: There is a parking fee, as well as a parking tax.
+
+----- Supporting -----
+
+[0.40300750732421875] To add insult to injury, for people who use the parking lot to "park and fly", the charge is $7.95/day, almost half of what the hotel guests are charged!!
+[0.3529052734375] Pros: - cookies upon check-in - one of my favorite things about the Doubletrees - complimentary airport shuttle every 15 mins - nice pools, rooms are very comfortable with excellent beds and Neutrogena toiletries and Wolfgang Puck coffee - nice food selection in hotel Cons: - parking is expensive - $16/night.
+[0.27701568603515625] I thought it was a little expensive for a hotel not located in the center of the city to charge $15 per day to park a car.
+[0.202117919921875] At my prompting he suggested the self-park behind the hotel but it was almost as expensive as the valet!
+[0.17589569091796875] Parking and some extras relatively expensive.
+
+----- Weakening -----
+
+[-0.9491257667541504] The room was a bit basic and dated but it was inexpensive and we could leave our car in their car park while we were on holiday.
+[-0.9355344772338867] If you're just crashing for the night, the hotel has 1 night hotel plus x days parking that's not a bad deal - no breakfast - no free wireless in the room - it's a fee - don't remember what it was since I've never used it - HUGE complex - both a plus and a minus - if you get one of the far wing rooms, you have a long way to walk after check-in Overall, I think it's a great value, especially if you get a Priceline rate.
+[-0.9185552597045898] On the incoming leg earlier, we stayed across the street at the Hampton for about the same price, wireless internet, free parking and free breakfast.
+[-0.8706474304199219] After a good nights sleep, the free shuttle to the airport saved us a lot of stress!
+[-0.8599624633789062] I can walk down to the lobby and get free wifi or use their computers for no charge.
+
+**********
+
+[0.20053482055664062] The parking tax is too high.
+Parent: There is a parking fee, as well as a parking tax.
+
+----- Supporting -----
+
+[0.20053482055664062] To add insult to injury, for people who use the parking lot to "park and fly", the charge is $7.95/day, almost half of what the hotel guests are charged!!
+[0.0615234375] I thought it was a little expensive for a hotel not located in the center of the city to charge $15 per day to park a car.
+[0.03731536865234375] Shame on you Doubletree for charging your own guests to pay to park on your site during their stay.
+[0.03218841552734375] Parking is expensive at $25 for valet and $21.50 for self-park per night.
+[0.0239410400390625] Pros: - cookies upon check-in - one of my favorite things about the Doubletrees - complimentary airport shuttle every 15 mins - nice pools, rooms are very comfortable with excellent beds and Neutrogena toiletries and Wolfgang Puck coffee - nice food selection in hotel Cons: - parking is expensive - $16/night.
+
+----- Weakening -----
+
+[-0.9101614952087402] I can walk down to the lobby and get free wifi or use their computers for no charge.
+[-0.9052438735961914] Check In went very smooth, and we were upgraded to a very large suite at that time!
+[-0.9000864028930664] Free shuttle to the airport got us to the terminal in about 3 minutes!
+[-0.8937220573425293] On the incoming leg earlier, we stayed across the street at the Hampton for about the same price, wireless internet, free parking and free breakfast.
+[-0.8908720016479492] I was surprised at how nice the rooms were!
+
+**********
+
+[0.8247451782226562] The location is convenient for those flying in or out of Sea-Tac airport.
+Parent: The location is convenient for those flying in or out of Sea-Tac airport, but the views from the rooms are unimpressive.
+
+----- Supporting -----
+
+[0.8247451782226562] If you are coming late and/or leaving early at Sea-Tac, this is not a bad choice.
+[0.2837867736816406] Well appointed, clean, convenient to airport and travels south of Seattle However, we were not informed by Priceline when we made resesrvations that hotel guests are charged $16/day +tax of $1.52 to park in the HUGE hotel parking lot.
+[0.23541259765625] Great for those early morning flights, and no worries about traffic jams as Seatac Airport is right across the street.
+[0.2092132568359375] Front desk service can be a bit hit or miss, but the location, shuttle service, and stress-free park & fly service wins out.
+[0.16357421875] I've stayed at the Doubletree several times when I need to fly in and out of Seattle.
+
+----- Weakening -----
+
+[-0.5997848510742188] I would not recommend this hotel.
+[-0.5821037292480469] I could not recommend this hotel.
+[-0.5791473388671875] other bugs every where.
+[-0.5052490234375] Whenever my husband moved, I felt like we were on a boat in rough water.
+[-0.4902181625366211] Our room was in the farthest section of the hotel, and tedious to get into to, and by the time we got settled it was too much trouble to go out to eat.
+
+**********
+
+[0.9188518524169922] The views from the rooms are not impressive.
+Parent: The location is convenient for those flying in or out of Sea-Tac airport, but the views from the rooms are unimpressive.
+
+----- Supporting -----
+
+[0.9188518524169922] --Rooms have a small deck, but the view is of the airport - nothing spectacular.
+[0.0633392333984375] The tower rooms do have balconies but the space is shared with the room next door and divided by a set of austere looking bars--plus there is no furniture to sit on so the balconies are not really functional.
+[0.03554534912109375] If I had been wanting to stay for more than one night, be close to anything interesting (other than the artificially created world of SEATAC), or wanted to get some business done, this would not have been the best hotel.
+[0.032695770263671875] Rooms are not particularly posh or large.
+[0.028919219970703125] Unfortunately, there was nothing memorable about the hotel itself; it was a huge place, reminiscent of a rambling casino hotel (but without the lights or the casino), but just bland.
+
+----- Weakening -----
+
+[-0.9913921356201172] Upgrade to King Corner Room or Penthouse to really treat yourself, balcony are amazing in these rooms.
+[-0.9855480194091797] Our balcony looked over the pool enhanced with mature Pacific Northwest landscape.
+[-0.9840946197509766] The room we stayed in was beautiful!
+[-0.9785957336425781] I was surprised at how nice the rooms were!
+[-0.9742879867553711] This place is huge - felt like I was in Disneyworld!!
+
+**********
+
+[0.9753398895263672] The parking is not free.
+Parent: There is a charge for parking.
+
+----- Supporting -----
+
+[0.9753398895263672] You are charged for parking - $8/night for outdoor parking.
+[0.9617481231689453] ;) BAD: --YOU HAVE TO PAY TO PARK HERE.
+[0.9527206420898438] To add insult to injury, for people who use the parking lot to "park and fly", the charge is $7.95/day, almost half of what the hotel guests are charged!!
+[0.952545166015625] Parking is expensive at $25 for valet and $21.50 for self-park per night.
+[0.9504318237304688] I was disappointed to learn there was a fee for parking ($16+tax), a fee for Internet ($5 for one hour), no simple breakfast included.
+
+----- Weakening -----
+
+[-0.9078216552734375] On the incoming leg earlier, we stayed across the street at the Hampton for about the same price, wireless internet, free parking and free breakfast.
+[-0.846649169921875] OUR overall stay was great, would have been nice to have no feathered pillows , not having a MICROWAVE,REFRIDG not cool, they charge each day for a roll away bed they said they would accomumdate for up to five in one room stayed three days so used blankets on the floor for the two boys I requested four blanket but had to go down to argue after only getting one they charge for wi-fi in room, LOBBY FREE- charge for daily parking no continuial breakfast without charging all these should change I called on phone for the entertainment book checking in nope they dont take it close to many places to eat,bank and even small cascino the airport close yes somewhat noisy but hey what one is not only during day time night time very quiet staff quiet friendly HOUSEKEEPING WONDERFUL yes i would recommend this hotel to others it'sa nice place is great for summer as with pool only on outsde .
+[-0.804412841796875] Even got free cookies - wasn't expecting that.
+[-0.78076171875] We get the stay and jet package so we park for a week for only $30.00.
+[-0.727447509765625] Verify internet price-not free.
+
+**********
+
+[0.9330387115478516] The location is convenient.
+Parent: The location near the airport is convenient, and the hotel offers a complimentary shuttle.
+
+----- Supporting -----
+
+[0.9330387115478516] --Location is very convenient to the airport, and pretty quick access to I-5.
+[0.9209480285644531] It has a convenient location and a shuttle service that runs every 15 minutes for 24 hours.
+[0.8871698379516602] The hotel is conveniently located, just across the street from the airport entrance with a free shuttle that runs every 20 minutes.
+[0.7701930999755859] Having the printer in the lobby to print your boarding pass was really convenient.
+[0.7373542785644531] Good jumping off spot for wherever you want to go.
+
+----- Weakening -----
+
+[-0.9896335601806641] Our room was in the farthest section of the hotel, and tedious to get into to, and by the time we got settled it was too much trouble to go out to eat.
+[-0.9509429931640625] It is laid out in wings that make carrying your bags a nightmare, up elevators and down again.
+[-0.9500236511230469] Cons - Hotel is spread out so pay attention to how to get to your room as you may get lost, Feather pillows (synthetic available on request), Pay parking ($16 self/day $20 valet/day), warm cookies on check in.
+[-0.9072589874267578] Parts of the hotel are laid-out such that it can be difficult to find your room.
+[-0.8475341796875] Confusing layout.
+
+**********
+
+[0.9909029006958008] The hotel offers a free shuttle.
+Parent: The location near the airport is convenient, and the hotel offers a complimentary shuttle.
+
+----- Supporting -----
+
+[0.9909029006958008] The hotel is conveniently located, just across the street from the airport entrance with a free shuttle that runs every 20 minutes.
+[0.9854497909545898] Lots of air crews use this hotel which has a frequent free shuttle to airport.
+[0.9752407073974609] Very nice hotel, very close to the airport, walkable in fact to the terminals in less than 10 minutes or one can take a free shuttle bus.
+[0.9721260070800781] Pros - Very close to airport, very quiet rooms (you cant hear the airplanes taking off even though it is right across from the airport), friendly staff, VERY comfortable beds with lots of pillows, large rooms, ice and vending machines close to all rooms, nicely appointed bathrooms, free shuttle (runs every 20 min, no reservation needed), convenience store on site, ATM, warm cookies on check in.
+[0.8913116455078125] We utilized the free airport shuttle, which is handy, but did not use any other hotel service.
+
+----- Weakening -----
+
+[-0.9460868835449219] To add insult to injury, for people who use the parking lot to "park and fly", the charge is $7.95/day, almost half of what the hotel guests are charged!!
+[-0.9326152801513672] Total rip-off with the excess charges.
+[-0.9265899658203125] I was staying at the hotel for under 8 hours and yet the clerk who checked me in was still encouraging me to pay for the valet parking.
+[-0.9113368988037109] So why would I pay to use it in the room?
+[-0.8826770782470703] Also, charge for parking for overnight quests leaves a sour taste.
+
+**********
+
+[0.341064453125] The surrounding area was not safe.
+Parent: However, some reviewers found the surrounding area to be "iffy."
+
+----- Supporting -----
+
+[0.341064453125] Keep your children away from these set ups, they are going to injure someone terribly!
+[0.25801849365234375] The area around the airport can be iffy, as in many large metropolitan areas.
+[0.1973876953125] It was so liquified that it spilled all over my hand and burned me terribly.
+[0.182830810546875] Have stayed at cheaper hotels with park n fly and they are always scary!
+[0.18111801147460938] But the nightmare wasn't over, then it took three more tries to get a room with a non-rattling heater and sliding doors that sealed and did not let the traffic noise in.
+
+----- Weakening -----
+
+[-0.8623542785644531] There is an abundance of gardens in between the different buildings and all were very well maintained and tended.
+[-0.7925729751586914] It was fine.
+[-0.7773628234863281] Shuttle service is very quick and so great!
+[-0.7539443969726562] The stay, park & fly packages are *usually* a good deal, and their airport shuttle service is fantastic - I believe it runs every 20 mins around the clock.
+[-0.7485389709472656] The staff are exceptional and the quality without question.
+
+**********
+
+[0.8608188629150391] The location was good.
+Parent: The location was praised for its proximity to the airport, light rail, and car rental, as well as its view of the airport.
+
+----- Supporting -----
+
+[0.8608188629150391] This hotel was within a stone's throw of Sea-Tac airport and right next to the off-site Thrifty car rental lot, so for location, it was great.
+[0.8519706726074219] Great location within view or shuttle ride from the airport.
+[0.8191680908203125] For me the location worked well since I was attending events at the hotel and didn't have to rent a car to get there.
+[0.7906532287597656] Good jumping off spot for wherever you want to go.
+[0.7714862823486328] The hotel is pretty big but the location next to the airport is great.
+
+----- Weakening -----
+
+[-0.8261051177978516] What I found was rather run down and shabby.
+[-0.6828155517578125] Cons - Hotel is spread out so pay attention to how to get to your room as you may get lost, Feather pillows (synthetic available on request), Pay parking ($16 self/day $20 valet/day), warm cookies on check in.
+[-0.5306797027587891] This property is a mess.
+[-0.35693359375] The area around the airport can be iffy, as in many large metropolitan areas.
+[-0.352386474609375] Room was highly run down.
+
+**********
+
+[0.9849255084991455] The location is close to the airport.
+Parent: The location was praised for its proximity to the airport, light rail, and car rental, as well as its view of the airport.
+
+----- Supporting -----
+
+[0.9849255084991455] Staff are friendly and helpful, the rooms are decent, and it's very close to the airport.
+[0.9831457138061523] Pros - Very close to airport, very quiet rooms (you cant hear the airplanes taking off even though it is right across from the airport), friendly staff, VERY comfortable beds with lots of pillows, large rooms, ice and vending machines close to all rooms, nicely appointed bathrooms, free shuttle (runs every 20 min, no reservation needed), convenience store on site, ATM, warm cookies on check in.
+[0.9831280708312988] The good news - the hotel is very close to the airport with a 24hr shuttle to the airport.
+[0.9813408851623535] Hotel is very close the the airport and room was comfortable.
+[0.9795498847961426] Yes it is a bit far from downtown, but very close to the airport.
+
+----- Weakening -----
+
+[-0.9546852111816406] Had a room that faced away from the airport so that helped with the noise.
+[-0.929473876953125] This hotel is by a small lake and at dusk there are misquitos and misc.
+[-0.7517261505126953] Out the back of mine (#5) the deck looked out into a forest.
+[-0.6560783386230469] The room had a large balcony overlooking a lake and on the 4th floor we were up in the trees.
+[-0.53082275390625] We LIKED the fact that it was close to new rapid transit terminal which we chose to take to stadium.
+
+**********
+
+[0.901947021484375] The location is close to the light rail.
+Parent: The location was praised for its proximity to the airport, light rail, and car rental, as well as its view of the airport.
+
+----- Supporting -----
+
+[0.901947021484375] I didn't have a car so Airport, Light Rail and many restaurants are in walking distance.
+[0.7526054382324219] It had easy access to the light rail located at the airport (we took the DT shuttle over), and was next to an Enterprise car rental.
+[0.4058837890625] We LIKED the fact that it was close to new rapid transit terminal which we chose to take to stadium.
+[0.3693695068359375] Downtown Seattle was about a 30 minute ride by light rail service (cost of $16 for the 4 of us) or $40 cab ride to the pier.
+[0.3176231384277344] Hotel shuttle picked us up at the airport and took us to the light rail station to go into Seattle the next day.
+
+----- Weakening -----
+
+[-0.9312152862548828] Even though the hotel was close to the airport, you couldn't haer the planes taking off, it was quiet and very relaxing.
+[-0.9200305938720703] Despite its proximity to the airport, the room was surprisingly quiet.
+[-0.9178142547607422] Surprisingly since this was close to the airport, we weren't woken up by any airplanes.
+[-0.8955669403076172] The pool area, lobby and view from the balcony were very nice, not what I normally find when traveling and especially not this close to the airport!
+[-0.886077880859375] Close to the airport.
+
+**********
+
+[0.8513336181640625] The location is convenient for car rental.
+Parent: The location was praised for its proximity to the airport, light rail, and car rental, as well as its view of the airport.
+
+----- Supporting -----
+
+[0.8513336181640625] If you don't want to wait, a good alternative is the nearby taxi stand; fare to the Doubletree should be less than $10 because of the hotel's proximity to the airport.
+[0.6572189331054688] This was cheaper than the hotel we stayed at downtown and I think in the future I would look for places like this outside the city and get a rental car to drive into the city.
+[0.6422271728515625] This hotel was within a stone's throw of Sea-Tac airport and right next to the off-site Thrifty car rental lot, so for location, it was great.
+[0.6412200927734375] We purchased the Park and Fly Package and were very happy to discover that this package included valet parking for our car directly out front of the hotel, not off in a back parking lot or at an off site location like many other hotels.
+[0.4756622314453125] The stay, park & fly packages are *usually* a good deal, and their airport shuttle service is fantastic - I believe it runs every 20 mins around the clock.
+
+----- Weakening -----
+
+[-0.800048828125] If I had transportation and didn't have events at the hotel, I would look a few miles away for a better buy for the money.
+[-0.7725372314453125] Cons - Hotel is spread out so pay attention to how to get to your room as you may get lost, Feather pillows (synthetic available on request), Pay parking ($16 self/day $20 valet/day), warm cookies on check in.
+[-0.7403907775878906] ;) BAD: --YOU HAVE TO PAY TO PARK HERE.
+[-0.6590309143066406] I arrived late at night and was flustered by the confusing and poorly lit parking options.
+[-0.6324424743652344] Getting to the room was a fun adventure in itself.
+
+**********
+
+[0.9825477600097656] The location has a view of the airport.
+Parent: The location was praised for its proximity to the airport, light rail, and car rental, as well as its view of the airport.
+
+----- Supporting -----
+
+[0.9825477600097656] Ever since I was a child, I've enjoyed watching airplanes takeoff and land, and this hotel provides an eagle's eye view of the airport (unless you're on the east side of the tower, in which case you're stuck looking at the snowcapped Cascades and/or Mt Rainier).
+[0.9766778945922852] --Rooms have a small deck, but the view is of the airport - nothing spectacular.
+[0.9572811126708984] I asked for a room in the tower and the room was spacious with a nice king bed and a balcony that overlooked the airport.
+[0.94403076171875] (For the discounted price) The room was very large, faced the airport, but was still quiet.
+[0.9350757598876953] We ended up on the 11th floor overlooking the airport and the Cascades.
+
+----- Weakening -----
+
+[-0.9924278259277344] The room had a large balcony overlooking a lake and on the 4th floor we were up in the trees.
+[-0.9837856292724609] Out the back of mine (#5) the deck looked out into a forest.
+[-0.9830818176269531] We were told we had a great view of the "lake" from our room.
+[-0.982330322265625] We had a double queen room in the tower, looking out towards the mountains.
+[-0.9714126586914062] There was a huge wrap around balcony with a view of the glass elavators and a view of the Cascade Mts.
+
+**********
+
+[0.6150588989257812] The neighborhood was noisy.
+Parent: Some reviewers found the neighborhood to be noisy, while others found it convenient for restaurants and transportation.
+
+----- Supporting -----
+
+[0.6150588989257812] --The doubletree is not just a hotel, its like a little village of condo buildings too, which makes it very crowded and hard to get around the property.
+[0.5676803588867188] The inner hall was quiet but there was a lot of traffic noise from the outside.
+[0.557403564453125] I changed rooms six times before deciding that all the wings were the same with traffic noise, heater noise, and all the hiking and dragging bags from room to room.
+[0.53521728515625] The most disturbing noises came not from the jet planes across the street, but from the hallway.
+[0.5316276550292969] It is on a busy street and I didn't see a restaurant within walking distance so I ate in the lobby.
+
+----- Weakening -----
+
+[-0.9944887161254883] Wonderfully quiet, considering the airport is literally across the street.
+[-0.9777259826660156] It wasn't noisy at all as you might expect being so close to the runways.
+[-0.9670944213867188] Even though the hotel was close to the airport, you couldn't haer the planes taking off, it was quiet and very relaxing.
+[-0.9660773277282715] The pool is very relaxing and big.
+[-0.9257650375366211] I heard no noise from the airport, or elsewhere.
+
+**********
+
+[0.7857284545898438] The neighborhood was convenient for restaurants and transportation.
+Parent: Some reviewers found the neighborhood to be noisy, while others found it convenient for restaurants and transportation.
+
+----- Supporting -----
+
+[0.7857284545898438] This hotel is a nice size and is convenient to the airport and restaurants.
+[0.759307861328125] You could safely cross the street at the light and crosswalk and find your self at a diner or several other restaurants.
+[0.6938304901123047] There are a few restaurants around the hotel area and you can also easily walk to the airport should you want to.
+[0.6621513366699219] I didn't have a car so Airport, Light Rail and many restaurants are in walking distance.
+[0.480499267578125] Don't have to worry about drinking and driving, just a elevator ride to your room!
+
+----- Weakening -----
+
+[-0.985663890838623] Our room was in the farthest section of the hotel, and tedious to get into to, and by the time we got settled it was too much trouble to go out to eat.
+[-0.9433660507202148] It is laid out in wings that make carrying your bags a nightmare, up elevators and down again.
+[-0.9414710998535156] It is on a busy street and I didn't see a restaurant within walking distance so I ate in the lobby.
+[-0.8302326202392578] I arrived late at night and was flustered by the confusing and poorly lit parking options.
+[-0.8162975311279297] --The doubletree is not just a hotel, its like a little village of condo buildings too, which makes it very crowded and hard to get around the property.
+
+**********
+
+[0.22839832305908203] The neighborhood was too noisy.
+Parent: Some reviewers found the neighborhood to be noisy, while others found it convenient for restaurants and transportation.
+
+----- Supporting -----
+
+[0.22839832305908203] We would not stay here again because of the noise and mildew.
+[0.1833953857421875] From reading others reviews I was not in the main towers, and only complaint was only being on the second floor someone was above me and from the sound they made walking must have weighed 400 pounds as it was very loud.
+[0.165008544921875] --The doubletree is not just a hotel, its like a little village of condo buildings too, which makes it very crowded and hard to get around the property.
+[0.10004806518554688] The bed was comfortable but between the noise of the traffic ( not the jets) and the room fan, we did not sleep well.
+[0.07916259765625] I changed rooms six times before deciding that all the wings were the same with traffic noise, heater noise, and all the hiking and dragging bags from room to room.
+
+----- Weakening -----
+
+[-0.9967796802520752] Wonderfully quiet, considering the airport is literally across the street.
+[-0.9966204166412354] It wasn't noisy at all as you might expect being so close to the runways.
+[-0.9924123287200928] I heard no noise from the airport, or elsewhere.
+[-0.9883565902709961] Even though the hotel was close to the airport, you couldn't haer the planes taking off, it was quiet and very relaxing.
+[-0.9870891571044922] There is an abundance of gardens in between the different buildings and all were very well maintained and tended.
+
+**********
+
+[0.7760238647460938] The neighborhood had good restaurants and transportation.
+Parent: Some reviewers found the neighborhood to be noisy, while others found it convenient for restaurants and transportation.
+
+----- Supporting -----
+
+[0.7760238647460938] The good: large room, food at the restaurants (especially the clam chowder), bed, view from the elevators, service, shuttle every 20 minutes to and from the airport (5 minutes away) The bad: the insulation for the windows is awful, so the hotel is extremely noisy at night (at least if you are facing the airport): airplanes, busy airport boulevard, rooftop with furnaces/chillers etc.
+[0.7229843139648438] There are a few restaurants around the hotel area and you can also easily walk to the airport should you want to.
+[0.6793098449707031] I didn't have a car so Airport, Light Rail and many restaurants are in walking distance.
+[0.6303825378417969] There were elevators, gift shop, restaurant and lots of other dining choices just across the street.
+[0.6255588531494141] You could safely cross the street at the light and crosswalk and find your self at a diner or several other restaurants.
+
+----- Weakening -----
+
+[-0.9799108505249023] It is on a busy street and I didn't see a restaurant within walking distance so I ate in the lobby.
+[-0.8375864028930664] Our room was in the farthest section of the hotel, and tedious to get into to, and by the time we got settled it was too much trouble to go out to eat.
+[-0.7404794692993164] What I found was rather run down and shabby.
+[-0.69573974609375] With the $20 a night parking, internet fees, and insane food pricing I would expect a much more modern, bigger, and clean room.
+[-0.6446857452392578] This property is a mess.
+
+**********
+
+[0.9832186698913574] The location is convenient for the airport.
+Parent: The reviews say that the location is convenient for the airport and that the shuttle service is good.
+
+----- Supporting -----
+
+[0.9832186698913574] --Location is very convenient to the airport, and pretty quick access to I-5.
+[0.9460067749023438] They were extremely convenient to the airport.
+[0.9297466278076172] Overall, it was OK - decent room, nice staff, convenient to airport.
+[0.9277124404907227] The hotel is conveniently located, just across the street from the airport entrance with a free shuttle that runs every 20 minutes.
+[0.9240436553955078] Well appointed, clean, convenient to airport and travels south of Seattle However, we were not informed by Priceline when we made resesrvations that hotel guests are charged $16/day +tax of $1.52 to park in the HUGE hotel parking lot.
+
+----- Weakening -----
+
+[-0.6473541259765625] The area around the airport can be iffy, as in many large metropolitan areas.
+[-0.6131744384765625] other bugs every where.
+[-0.5836029052734375] It was so liquified that it spilled all over my hand and burned me terribly.
+[-0.576171875] Keep your children away from these set ups, they are going to injure someone terribly!
+[-0.543609619140625] Whenever my husband moved, I felt like we were on a boat in rough water.
+
+**********
+
+[0.9378499984741211] The shuttle service is good.
+Parent: The reviews say that the location is convenient for the airport and that the shuttle service is good.
+
+----- Supporting -----
+
+[0.9378499984741211] The shuttle is convenient and reliable.
+[0.9206676483154297] The airport shuttle service was great, friendly and on-time.
+[0.9171047210693359] The airport shuttle was very good- better than other hotels I have stayed in.
+[0.9071025848388672] The stay, park & fly packages are *usually* a good deal, and their airport shuttle service is fantastic - I believe it runs every 20 mins around the clock.
+[0.9066410064697266] Shuttle service is very quick and so great!
+
+----- Weakening -----
+
+[-0.8589820861816406] Coffee shop service was horrible.
+[-0.7092056274414062] The service at the hotel coffee shop was really slow and the waiter seemed really bothered by having to come to our table to see what we wanted.
+[-0.68017578125] Room service was good, however.
+[-0.66693115234375] The shuttle was hot and smelly again and people were mad.
+[-0.6631240844726562] other bugs every where.
+
+**********
+
+[0.9554386138916016] The hotel is quiet.
+Parent: They also say that the hotel is quiet and the rooms are comfortable.
+
+----- Supporting -----
+
+[0.9554386138916016] For an airport hotel, it was surprisingly quiet, rooms were extremely comfortable and well prepared, and the staff were all extremely helpful and courteous.
+[0.9447669982910156] Even though the hotel was close to the airport, you couldn't haer the planes taking off, it was quiet and very relaxing.
+[0.8890495300292969] Pros - Very close to airport, very quiet rooms (you cant hear the airplanes taking off even though it is right across from the airport), friendly staff, VERY comfortable beds with lots of pillows, large rooms, ice and vending machines close to all rooms, nicely appointed bathrooms, free shuttle (runs every 20 min, no reservation needed), convenience store on site, ATM, warm cookies on check in.
+[0.7520160675048828] It may cost a little more to stay here, but we feel it is worth it for the quiet rooms and the very comfortable beds.
+[0.6881103515625] OUR overall stay was great, would have been nice to have no feathered pillows , not having a MICROWAVE,REFRIDG not cool, they charge each day for a roll away bed they said they would accomumdate for up to five in one room stayed three days so used blankets on the floor for the two boys I requested four blanket but had to go down to argue after only getting one they charge for wi-fi in room, LOBBY FREE- charge for daily parking no continuial breakfast without charging all these should change I called on phone for the entertainment book checking in nope they dont take it close to many places to eat,bank and even small cascino the airport close yes somewhat noisy but hey what one is not only during day time night time very quiet staff quiet friendly HOUSEKEEPING WONDERFUL yes i would recommend this hotel to others it'sa nice place is great for summer as with pool only on outsde .
+
+----- Weakening -----
+
+[-0.9976372718811035] We couldn't hear them in our room (thankfully), but they were pretty loud throughout the hotel.
+[-0.997227668762207] I changed rooms six times before deciding that all the wings were the same with traffic noise, heater noise, and all the hiking and dragging bags from room to room.
+[-0.995844841003418] When you finally reach your room the heaters all make tremendous noise, rattle, rumble.
+[-0.9948759078979492] Princess has the contract for cruise passengers so you'll meet a lot of people coming and going on trips in the lobby or restaurant.
+[-0.9946918487548828] The hotel is big and busy, so it always feels like there is some commotion going on in the common areas.
+
+**********
+
+[0.9624433517456055] The rooms are comfortable.
+Parent: They also say that the hotel is quiet and the rooms are comfortable.
+
+----- Supporting -----
+
+[0.9624433517456055] The rooms are comfortable and the cookies are great but getting smaller.
+[0.9606876373291016] Pros: - cookies upon check-in - one of my favorite things about the Doubletrees - complimentary airport shuttle every 15 mins - nice pools, rooms are very comfortable with excellent beds and Neutrogena toiletries and Wolfgang Puck coffee - nice food selection in hotel Cons: - parking is expensive - $16/night.
+[0.9575433731079102] Hotel is very close the the airport and room was comfortable.
+[0.9435577392578125] Too bad considering the hotel facilities are lovely and the rooms are comfortable and spacious.
+[0.9421176910400391] The room was very clean and comfortable.
+
+----- Weakening -----
+
+[-0.9528160095214844] Anyway, I requested a non-smoking room but the floor smelled like the stench of smoke.
+[-0.9444122314453125] Room was highly run down.
+[-0.9200687408447266] When you finally reach your room the heaters all make tremendous noise, rattle, rumble.
+[-0.9173202514648438] It was so liquified that it spilled all over my hand and burned me terribly.
+[-0.8982391357421875] The crappy wings are old and the rooms smell musty.

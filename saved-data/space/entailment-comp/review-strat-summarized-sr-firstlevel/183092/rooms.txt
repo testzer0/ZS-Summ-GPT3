@@ -1,0 +1,695 @@
+***** Aspect: rooms Model Type : zs *****
+Overall score: 0.8248064879215125
+
+**********
+
+[0.8323402404785156] The rooms at this hotel are average.
+Parent: The rooms at this hotel are average, with some guests finding them dated and unclean.
+
+----- Supporting -----
+
+[0.8323402404785156] The room was a standard hotel room, nothing special or unique.
+[0.7335205078125] The rooms are spacious and beds very comfortable, unfortunately there was no bottled water in the room which was disappointing given the hotel standard but this is my only downside of the stay.
+[0.6591796875] This is a renovated Marriott with an above average lobby and room.
+[0.5064010620117188] The room was like any standard 4 star hotel room.
+[0.38745880126953125] Room : The room was just another hotel room , nothing flash but it was comfortable.
+
+----- Weakening -----
+
+[-0.993250846862793] The hotel is marvelous, their renovations are complete and they did a wonderful job, we had a room with king bed, great tv in the room and it was a very spacious room.
+[-0.9921073913574219] This hotel was extremely luxurious and the view was fantastic.
+[-0.990142822265625] The hotel staff was friendly and efficient, our room was clean and spacious and the amenities made it feel very upscale.
+[-0.9891586303710938] We love the lobby with the huge centered fireplace (OK, no true fire, just gas but still very cozy and close to the bar) and the beds are one of the best we've ever slept in - huge, comfortable, good linen and very clean.
+[-0.9881629943847656] We had connecting rooms, these were prepared to a very high standard, house keeping do a first class job in this hotel.
+
+**********
+
+[0.4428863525390625] The rooms at this hotel are dated and unclean.
+Parent: The rooms at this hotel are average, with some guests finding them dated and unclean.
+
+----- Supporting -----
+
+[0.4428863525390625] my colleagues staying at the sheraton said their rooms were old and not maintained and in some cases dirty.
+[0.1737060546875] While the beds were comfy and we had plenty of room, the guest rooms are in need of a renovation.
+[0.091796875] To start with the decor in the rooms is dreadful; mustard coloured walls, a mustard coloured 3D (dont ask) carpet, mustard cloured bed throws and an artexed ceiling only just over 7 feet over our heads.
+[0.08261489868164062] The room was a standard hotel room, nothing special or unique.
+[0.06383132934570312] My basic perception was that the rooms had a dated, unclean vibe.
+
+----- Weakening -----
+
+[-0.9980525970458984] Rooms were spacious and updated - flat screen tv, newer furniture.
+[-0.9980134963989258] The hotel was clean and modern and the King room was spacious, with the most comfortable bed (slept better than at home).
+[-0.9970903396606445] The hotel is modern and the lobby is inviting.
+[-0.9970207214355469] Not only that, but the rooms were spotlessly clean, the amenities were nice and our view was spectacular.
+[-0.9968147277832031] Clean modern rooms, reasonably good service, excellent concierge, good restaurant.
+
+**********
+
+[0.8512306213378906] The decor in the rooms is not up to par.
+Parent: There have been complaints about the decor in the rooms, with some guests finding it very depressing.
+
+----- Supporting -----
+
+[0.8512306213378906] To start with the decor in the rooms is dreadful; mustard coloured walls, a mustard coloured 3D (dont ask) carpet, mustard cloured bed throws and an artexed ceiling only just over 7 feet over our heads.
+[0.13090896606445312] My basic perception was that the rooms had a dated, unclean vibe.
+[0.088775634765625] The bathroom was small and not as contemporary as I was expecting.
+[0.044666290283203125] my colleagues staying at the sheraton said their rooms were old and not maintained and in some cases dirty.
+[0.02653980255126953] While the beds were comfy and we had plenty of room, the guest rooms are in need of a renovation.
+
+----- Weakening -----
+
+[-0.9919638633728027] The rooms were large and nicely appointed.
+[-0.991307258605957] We had connecting rooms, these were prepared to a very high standard, house keeping do a first class job in this hotel.
+[-0.9701881408691406] Room was perfect.
+[-0.9695034027099609] The lobby of the hotel is currently undergoing renovation (as noted on their website) which made for an unexciting first impression, however the room (1112) was tastefully decorated and fairly spacious for a downtown hotel room.
+[-0.9631967544555664] Bed comfortable; furniture, carpeting, drapes in good repair.
+
+**********
+
+[0.6874771118164062] The decor in the rooms is very depressing.
+Parent: There have been complaints about the decor in the rooms, with some guests finding it very depressing.
+
+----- Supporting -----
+
+[0.6874771118164062] To start with the decor in the rooms is dreadful; mustard coloured walls, a mustard coloured 3D (dont ask) carpet, mustard cloured bed throws and an artexed ceiling only just over 7 feet over our heads.
+[0.05861663818359375] It is probably the most depressing hotel I have ever stayed in.
+[0.041473388671875] My basic perception was that the rooms had a dated, unclean vibe.
+[0.0033750534057617188] During our recent trip we stayed in 5 hotels in Canada and this was by far the worst.
+[0.0015163421630859375] I will not stay there again.
+
+----- Weakening -----
+
+[-0.997241735458374] We loved the Eaton Centre Marriott - the lobby has a nice cocktail bar and good steak restaurant and with a modern art look.
+[-0.9967441558837891] The rooms were large and nicely appointed.
+[-0.9964156150817871] The lobby of the hotel is currently undergoing renovation (as noted on their website) which made for an unexciting first impression, however the room (1112) was tastefully decorated and fairly spacious for a downtown hotel room.
+[-0.9952602386474609] It's a nice clean, quiet hotel in a great area.
+[-0.9947812557220459] Wonderful views and the gym was very well equpped with the latest machines and free weights.
+
+**********
+
+[0.07457733154296875] The bathrooms are too small.
+Parent: The bathrooms are small and basic, and the towels and toiletries are quite meagre.
+
+----- Supporting -----
+
+[0.07457733154296875] The bathroom was small and not as contemporary as I was expecting.
+[0.000514984130859375] My only quibbles were with the bathroom.
+[-0.001220703125] Compared to my last stay, my room was a little disappointing.
+[-0.00151824951171875] During our recent trip we stayed in 5 hotels in Canada and this was by far the worst.
+[-0.0026731491088867188] It is probably the most depressing hotel I have ever stayed in.
+
+----- Weakening -----
+
+[-0.9964900016784668] Enjoyed the spacious bathroom with lots of counter space for all the toiletries that my daughter and I had.
+[-0.9886379241943359] There is however a coffee/tea making machine and the bathroom is ample sized.
+[-0.9273643493652344] The rooms were large and nicely appointed.
+[-0.8952903747558594] The king bed was super comfortable â€“ you literally just sink right in, it feels so delicious just lying down.
+[-0.8845529556274414] Huge rooms, clean and renovated.
+
+**********
+
+[0.7887344360351562] The bathrooms are simple.
+Parent: The bathrooms are small and basic, and the towels and toiletries are quite meagre.
+
+----- Supporting -----
+
+[0.7887344360351562] The bathroom was the highlight, fairly basic and clean but small with meagre towels and toiletries.
+[0.6052398681640625] The bathroom was on the small size with shower over the bath.
+[0.492645263671875] The bathroom was small and not as contemporary as I was expecting.
+[0.20782470703125] Bathroom was spotless and seemed very new.
+[0.07073974609375] Tiled bathtub was clean as was the rest of the room.
+
+----- Weakening -----
+
+[-0.9451465606689453] There is however a coffee/tea making machine and the bathroom is ample sized.
+[-0.9439888000488281] Enjoyed the spacious bathroom with lots of counter space for all the toiletries that my daughter and I had.
+[-0.9106998443603516] I was on the 10th floor, it took forever for the shower to get hot and when it did the temperature fluctuated radically from luke warm to scalding.
+[-0.8448028564453125] The rooms were large and nicely appointed.
+[-0.8289871215820312] Also had a problem with the shower - very hot...but not an issue.
+
+**********
+
+[0.5714797973632812] The towels are inadequate.
+Parent: The bathrooms are small and basic, and the towels and toiletries are quite meagre.
+
+----- Supporting -----
+
+[0.5714797973632812] The bathroom was the highlight, fairly basic and clean but small with meagre towels and toiletries.
+[0.0017805099487304688] Our only complaint is that the bed wasn't very comfortable.
+[0.001007080078125] The bathroom was small and not as contemporary as I was expecting.
+[0.0008869171142578125] Compared to my last stay, my room was a little disappointing.
+[0.0003604888916015625] My only quibbles were with the bathroom.
+
+----- Weakening -----
+
+[-0.9209413528442383] The bathroom products are stellar and each room has a coffee maker.
+[-0.9200124740600586] We had connecting rooms, these were prepared to a very high standard, house keeping do a first class job in this hotel.
+[-0.9145736694335938] The breakfast was awesome !
+[-0.9067192077636719] There are tons of excellent restaurants close by for pretty much every taste and budget.
+[-0.9004459381103516] The breakfast that is served at the hotel is wonderful!!
+
+**********
+
+[0.317230224609375] The toiletries are insufficient.
+Parent: The bathrooms are small and basic, and the towels and toiletries are quite meagre.
+
+----- Supporting -----
+
+[0.317230224609375] The toilet did not flush properly and the shower seemed to have only 2 temperatures: scalding hot or freezing cold.
+[0.10858154296875] The bathroom was small and not as contemporary as I was expecting.
+[0.0695037841796875] my colleagues staying at the sheraton said their rooms were old and not maintained and in some cases dirty.
+[0.0513916015625] The rooms are spacious and beds very comfortable, unfortunately there was no bottled water in the room which was disappointing given the hotel standard but this is my only downside of the stay.
+[0.0399017333984375] It's amazing how not being able to have a normal shower can affect my overall impression but it does.
+
+----- Weakening -----
+
+[-0.994044303894043] The bathroom products are stellar and each room has a coffee maker.
+[-0.9909629821777344] There is however a coffee/tea making machine and the bathroom is ample sized.
+[-0.9820361137390137] Great pool (warm and clean) and hot tub (the cleaning guy let us stay late that evening - thank you!)
+[-0.9809904098510742] The bathrooms were clean and the rooms have been updated.
+[-0.9383907318115234] TV was good, bathroom was clean/marble.
+
+**********
+
+[0.9657745361328125] The breakfast was reasonable.
+Parent: The breakfast is reasonable but nothing special.
+
+----- Supporting -----
+
+[0.9657745361328125] Breakfast was reasonable but unremarkable and the service very hit and miss.
+[0.795562744140625] (1) Location of the hotel is ideal , my wife was thrilled as it was within short walling distance to the Eaton center one of the largest shopping centers in Toronto (2) Room is spacious compared to other 4 star hotels, good furniture, clean and neat (3) Good entertainment with LCD 37 inch TV with on demand movies and more (4) Staff are friendly and professional, good staffing numbers very adequate (5) Breakfast was great and included in the price of around US$ 200 per night , very fair price for this hotel, the breakfast included fresh fruits (Produce of Canada) and eggs and an egg station and many other delights
+[0.381500244140625] Room service breakfast was $20 for nothing too special.
+[0.13818359375] Breakfast : A good selection with a chef cooking omelettes.
+[0.0886993408203125] I wanted to order roomservice breakfast but had missed the midnight deadline for putting the order on my doorhandle however a quick call to reception and I was assured that this could still be managed.
+
+----- Weakening -----
+
+[-0.9889945983886719] (see photo) The breakfast buffet was a little expensive but the food and service were both very good.
+[-0.9875907897949219] The breakfast on room service and in the hotel (buffet and menu) are both pretty pricey (around 18$ each approx).
+[-0.9605255126953125] The breakfast was awesome !
+[-0.9507293701171875] There were only 3 minor disappointments -- the concierge lounge was full of families with kids so breakfast was a bit noisy and crowded, the rooftop pool was small and also full of kids, and food at the hotel was pricey -- we got better quality food at more reasonable prices at nearby restaurants.
+[-0.9188385009765625] The breakfast that is served at the hotel is wonderful!!
+
+**********
+
+[0.9544410705566406] The breakfast is not special.
+Parent: The breakfast is reasonable but nothing special.
+
+----- Supporting -----
+
+[0.9544410705566406] Breakfast was reasonable but unremarkable and the service very hit and miss.
+[0.8908920288085938] Room service breakfast was $20 for nothing too special.
+[0.26092529296875] There were only 3 minor disappointments -- the concierge lounge was full of families with kids so breakfast was a bit noisy and crowded, the rooftop pool was small and also full of kids, and food at the hotel was pricey -- we got better quality food at more reasonable prices at nearby restaurants.
+[0.1192474365234375] Nice and clean gym on the top, typical hotel breakfast available downstairs.
+[0.03021240234375] While we didnâ€™t get the free breakfast others have mentioned, we ended up at a tiny place across the street called The Daily Brew.
+
+----- Weakening -----
+
+[-0.9918098449707031] The breakfast that is served at the hotel is wonderful!!
+[-0.9901847839355469] They have the best breakfast buffet I have ever seen at a Marriott.
+[-0.9886054992675781] The breakfast was awesome !
+[-0.9880695343017578] The breakfast was top-notch including a wide variety of fresh produce.
+[-0.9873867034912109] The Parkside breakfast was the best buffet breakfast I have ever had.
+
+**********
+
+[0.34161376953125] The rooms were efficient.
+Parent: The reviews said that the rooms were efficient and polite.
+
+----- Supporting -----
+
+[0.34161376953125] Not only that, but the rooms were spotlessly clean, the amenities were nice and our view was spectacular.
+[0.24171829223632812] The ballrooms and meeting rooms were well kept and allowed for great meetings by day and fun parties in the evening.
+[0.2377471923828125] Clean modern rooms, reasonably good service, excellent concierge, good restaurant.
+[0.22601318359375] The bathrooms were clean and the rooms have been updated.
+[0.22124481201171875] Beds are very comfortable and staff are numerous and helpful.
+
+----- Weakening -----
+
+[-0.9715328216552734] Now maybe our expectations of hotels have risen in recent years, or maybe we were just given a uniquely bad room for the first time, but our room was noisy!
+[-0.9549026489257812] my colleagues staying at the sheraton said their rooms were old and not maintained and in some cases dirty.
+[-0.9538116455078125] The toilet did not flush properly and the shower seemed to have only 2 temperatures: scalding hot or freezing cold.
+[-0.9464759826660156] Compared to my last stay, my room was a little disappointing.
+[-0.93212890625] I was on the 10th floor, it took forever for the shower to get hot and when it did the temperature fluctuated radically from luke warm to scalding.
+
+**********
+
+[0.6386489868164062] The rooms were polite.
+Parent: The reviews said that the rooms were efficient and polite.
+
+----- Supporting -----
+
+[0.6386489868164062] The room was comfortable, the staff was nice and helpful.
+[0.563018798828125] The room was great: quiet, roomy, comfortable beds and good ventilation.
+[0.460052490234375] Quiet, clean, modern room.
+[0.45440673828125] The room I had was at the end of the hall, so it was exceptionally quiet, and the bed was great.
+[0.38524627685546875] Our room was very nice, we asked for a lower level and got it with no problem.
+
+----- Weakening -----
+
+[-0.9856739044189453] Now maybe our expectations of hotels have risen in recent years, or maybe we were just given a uniquely bad room for the first time, but our room was noisy!
+[-0.9852027893066406] My basic perception was that the rooms had a dated, unclean vibe.
+[-0.9650039672851562] my colleagues staying at the sheraton said their rooms were old and not maintained and in some cases dirty.
+[-0.9617233276367188] The effect in the small room was to feel as if the ceiling and walls were closing in on us.
+[-0.9432601928710938] To start with the decor in the rooms is dreadful; mustard coloured walls, a mustard coloured 3D (dont ask) carpet, mustard cloured bed throws and an artexed ceiling only just over 7 feet over our heads.
+
+**********
+
+[0.9741525650024414] The rooms were average.
+Parent: The rooms were average, with some reviewers finding them small.
+
+----- Supporting -----
+
+[0.9741525650024414] However, the rooms are very average (no safe, mini-bar for example).
+[0.8076667785644531] The room was a standard hotel room, nothing special or unique.
+[0.774200439453125] The rooms are medium size, has a desk and a small lounge and coffee table.
+[0.620025634765625] The room was like any standard 4 star hotel room.
+[0.4848670959472656] Had all standard amenities including coffee maker and fridge and robes .
+
+----- Weakening -----
+
+[-0.9950752258300781] The hotel is marvelous, their renovations are complete and they did a wonderful job, we had a room with king bed, great tv in the room and it was a very spacious room.
+[-0.9949741363525391] Room was perfect.
+[-0.9944047927856445] The room was also excellent, as I was on the end and had a view of the CN Tower.
+[-0.9935302734375] Aside from that, the room was great.
+[-0.992828369140625] The room was very nice, a good view and the bed was very, very comfortable.
+
+**********
+
+[0.9568080902099609] The rooms were small.
+Parent: The rooms were average, with some reviewers finding them small.
+
+----- Supporting -----
+
+[0.9568080902099609] The staff was outstanding, the rooms were a bit small but very clean and with the most comfortable beds.
+[0.9374160766601562] I requested a King size bed but was surprised at how small the room was.
+[0.9019050598144531] hotel room was small but clean and comfortable.
+[0.8973236083984375] The effect in the small room was to feel as if the ceiling and walls were closing in on us.
+[0.8873138427734375] Room was clean but small- could say the same about the pool!
+
+----- Weakening -----
+
+[-0.9970607757568359] Huge rooms, clean and renovated.
+[-0.9969892501831055] The rooms were large and nicely appointed.
+[-0.9969539642333984] The rooms are large and the food in the dining room is decent enough.
+[-0.9968652725219727] Our room was large, well furnished and clean.
+[-0.995758056640625] The room next to mine was obviously a large suite occupied by several people.
+
+**********
+
+[0.9917163848876953] The beds were comfortable.
+Parent: The beds were comfortable, and the views from some of the rooms were good.
+
+----- Supporting -----
+
+[0.9917163848876953] The beds were comfortable.
+[0.9791312217712402] Beds are to die for, so comfortable.
+[0.9753217697143555] The rooms are clean and the beds are extremely comfortable...it was actually hard to get up in the morning!
+[0.9745235443115234] The rooms are spacious and beds very comfortable, unfortunately there was no bottled water in the room which was disappointing given the hotel standard but this is my only downside of the stay.
+[0.974482536315918] Beds are very comfortable and staff are numerous and helpful.
+
+----- Weakening -----
+
+[-0.958953857421875] Our only complaint is that the bed wasn't very comfortable.
+[-0.941558837890625] Even the bed was not quite as comfortable (it sagged a little in the middle), as a normal Marriott bed.
+[-0.88714599609375] We stayed in a room with 2 queen beds ( 04 people ) and it was not so comfortable as we are used to sleep in a King Size bed back home.
+[-0.84149169921875] The shower however was very touchy and the water was either scalding hot or very cold.
+[-0.8052749633789062] It's a little scary to walk around late night by yourself, but othewise, it's fine.
+
+**********
+
+[0.7402324676513672] The views from some of the rooms were good.
+Parent: The beds were comfortable, and the views from some of the rooms were good.
+
+----- Supporting -----
+
+[0.7402324676513672] Being Marriott Rewards members, we got a lovely upgraded room with access to the concierge lounge and good views.
+[0.6393032073974609] The room was typically Marriott - very nice, great view of the Church and gardens in between the Eaton Centre.
+[0.6387443542480469] Not only that, but the rooms were spotlessly clean, the amenities were nice and our view was spectacular.
+[0.6186161041259766] The room was a good size and looked out over the church next door, plus it was useful to be able to go straight through into the Eaton Centre.
+[0.6054153442382812] Gym is amazing, if you are so inclined, and so is the view...from 18th floor.
+
+----- Weakening -----
+
+[-0.0513458251953125] It is probably the most depressing hotel I have ever stayed in.
+[-0.03933525085449219] I will not stay there again.
+[-0.024758338928222656] During our recent trip we stayed in 5 hotels in Canada and this was by far the worst.
+[-0.021820068359375] It means breakfast on the last day is either cash of charge card.
+[-0.021087646484375] Breakfast : A good selection with a chef cooking omelettes.
+
+**********
+
+[0.9645366668701172] The showers had fluctuating temperatures.
+Parent: Some reviewers found the showers to have fluctuating temperatures.
+
+----- Supporting -----
+
+[0.9645366668701172] I was on the 10th floor, it took forever for the shower to get hot and when it did the temperature fluctuated radically from luke warm to scalding.
+[0.953155517578125] The shower however was very touchy and the water was either scalding hot or very cold.
+[0.9400100708007812] The toilet did not flush properly and the shower seemed to have only 2 temperatures: scalding hot or freezing cold.
+[0.31475830078125] The only negative for the guestroom was that the shower seemed to take an inordinately long time to achieve warm/hot water...literally 2-3 minutes.
+[0.0014801025390625] My friend and I stayed at this hotel in September 2011 during the TIFF weekend.
+
+----- Weakening -----
+
+[-0.4737548828125] The rooms are large and the food in the dining room is decent enough.
+[-0.4199638366699219] Room was perfect.
+[-0.4048347473144531] Quiet, clean, modern room.
+[-0.3587188720703125] Clean modern rooms, reasonably good service, excellent concierge, good restaurant.
+[-0.3516654968261719] The beds were comfortable.
+
+**********
+
+[0.966822624206543] The rooms meet Marriott's standards.
+Parent: Most people found the rooms to be up to Marriott's usual standards - well done, not over-the-top luxurious, but very nice.
+
+----- Supporting -----
+
+[0.966822624206543] The rooms were Marriott quality with all the requisite amenities you would expect.
+[0.9407958984375] The room itself was up to Marriott's usual standards - well done, not over-the-top luxurious, but very nice.
+[0.5474166870117188] The room was typically Marriott - very nice, great view of the Church and gardens in between the Eaton Centre.
+[0.4494895935058594] We stayed at Marriott Eaton for 02 nights and the hotel was up to our expection.
+[0.44482421875] The room was what most would call the "typical Marriott room."
+
+----- Weakening -----
+
+[-0.9473724365234375] Overall a very good hotel to use as a base for exploring Toronto but not quite up to the Marriott standards I have come to expect.
+[-0.7055282592773438] While we didnâ€™t get the free breakfast others have mentioned, we ended up at a tiny place across the street called The Daily Brew.
+[-0.6774559020996094] During our recent trip we stayed in 5 hotels in Canada and this was by far the worst.
+[-0.62115478515625] Even the bed was not quite as comfortable (it sagged a little in the middle), as a normal Marriott bed.
+[-0.59765625] While the beds were comfy and we had plenty of room, the guest rooms are in need of a renovation.
+
+**********
+
+[0.9133424758911133] The rooms are well done.
+Parent: Most people found the rooms to be up to Marriott's usual standards - well done, not over-the-top luxurious, but very nice.
+
+----- Supporting -----
+
+[0.9133424758911133] The rooms seem to have been recently updated and are well kept.
+[0.9064769744873047] The rooms were large and nicely appointed.
+[0.8360519409179688] The ballrooms and meeting rooms were well kept and allowed for great meetings by day and fun parties in the evening.
+[0.8219165802001953] Not only that, but the rooms were spotlessly clean, the amenities were nice and our view was spectacular.
+[0.8024406433105469] We had connecting rooms, these were prepared to a very high standard, house keeping do a first class job in this hotel.
+
+----- Weakening -----
+
+[-0.9873981475830078] To start with the decor in the rooms is dreadful; mustard coloured walls, a mustard coloured 3D (dont ask) carpet, mustard cloured bed throws and an artexed ceiling only just over 7 feet over our heads.
+[-0.9862613677978516] my colleagues staying at the sheraton said their rooms were old and not maintained and in some cases dirty.
+[-0.9750709533691406] Now maybe our expectations of hotels have risen in recent years, or maybe we were just given a uniquely bad room for the first time, but our room was noisy!
+[-0.9699172973632812] While the beds were comfy and we had plenty of room, the guest rooms are in need of a renovation.
+[-0.9646568298339844] However, the rooms are very average (no safe, mini-bar for example).
+
+**********
+
+[0.8528614044189453] The rooms are not luxurious.
+Parent: Most people found the rooms to be up to Marriott's usual standards - well done, not over-the-top luxurious, but very nice.
+
+----- Supporting -----
+
+[0.8528614044189453] However, the rooms are very average (no safe, mini-bar for example).
+[0.7540435791015625] To start with the decor in the rooms is dreadful; mustard coloured walls, a mustard coloured 3D (dont ask) carpet, mustard cloured bed throws and an artexed ceiling only just over 7 feet over our heads.
+[0.70465087890625] The room itself was up to Marriott's usual standards - well done, not over-the-top luxurious, but very nice.
+[0.6315383911132812] While the beds were comfy and we had plenty of room, the guest rooms are in need of a renovation.
+[0.620147705078125] Room : The room was just another hotel room , nothing flash but it was comfortable.
+
+----- Weakening -----
+
+[-0.9946761131286621] This hotel was extremely luxurious and the view was fantastic.
+[-0.9721946716308594] for us We had a living area and a very comfy king bed and amazingly comfy pillows.
+[-0.9718799591064453] The king bed was super comfortable â€“ you literally just sink right in, it feels so delicious just lying down.
+[-0.9680805206298828] The hotel is marvelous, their renovations are complete and they did a wonderful job, we had a room with king bed, great tv in the room and it was a very spacious room.
+[-0.9647636413574219] The room was very nice, a good view and the bed was very, very comfortable.
+
+**********
+
+[0.969782829284668] The rooms are nice.
+Parent: Most people found the rooms to be up to Marriott's usual standards - well done, not over-the-top luxurious, but very nice.
+
+----- Supporting -----
+
+[0.969782829284668] The rooms are nice and spacious An feature all you'd expect from the brand.
+[0.8594284057617188] The rooms are clean and the beds are extremely comfortable...it was actually hard to get up in the morning!
+[0.8474140167236328] Not only that, but the rooms were spotlessly clean, the amenities were nice and our view was spectacular.
+[0.8341646194458008] The rooms were large and nicely appointed.
+[0.8226699829101562] It is convenient to my office, but I am always impressed the friendly and professional staff, nice rooms and good food.
+
+----- Weakening -----
+
+[-0.9736442565917969] To start with the decor in the rooms is dreadful; mustard coloured walls, a mustard coloured 3D (dont ask) carpet, mustard cloured bed throws and an artexed ceiling only just over 7 feet over our heads.
+[-0.9635467529296875] My basic perception was that the rooms had a dated, unclean vibe.
+[-0.9633216857910156] Now maybe our expectations of hotels have risen in recent years, or maybe we were just given a uniquely bad room for the first time, but our room was noisy!
+[-0.9520606994628906] Compared to my last stay, my room was a little disappointing.
+[-0.9408950805664062] However, the rooms are very average (no safe, mini-bar for example).
+
+**********
+
+[0.9917163848876953] The beds were comfortable.
+Parent: Some people found the beds to be exceptionally comfortable, while others found them to be a little soft.
+
+----- Supporting -----
+
+[0.9917163848876953] The beds were comfortable.
+[0.9791312217712402] Beds are to die for, so comfortable.
+[0.9753217697143555] The rooms are clean and the beds are extremely comfortable...it was actually hard to get up in the morning!
+[0.9745235443115234] The rooms are spacious and beds very comfortable, unfortunately there was no bottled water in the room which was disappointing given the hotel standard but this is my only downside of the stay.
+[0.974482536315918] Beds are very comfortable and staff are numerous and helpful.
+
+----- Weakening -----
+
+[-0.958953857421875] Our only complaint is that the bed wasn't very comfortable.
+[-0.941558837890625] Even the bed was not quite as comfortable (it sagged a little in the middle), as a normal Marriott bed.
+[-0.88714599609375] We stayed in a room with 2 queen beds ( 04 people ) and it was not so comfortable as we are used to sleep in a King Size bed back home.
+[-0.84149169921875] The shower however was very touchy and the water was either scalding hot or very cold.
+[-0.8052749633789062] It's a little scary to walk around late night by yourself, but othewise, it's fine.
+
+**********
+
+[0.8939666748046875] The beds were soft.
+Parent: Some people found the beds to be exceptionally comfortable, while others found them to be a little soft.
+
+----- Supporting -----
+
+[0.8939666748046875] The room was clean and the bed was very comfortable.
+[0.8690948486328125] While the beds were comfy and we had plenty of room, the guest rooms are in need of a renovation.
+[0.8639869689941406] The beds were comfortable.
+[0.8494186401367188] Bed rather soft for me.
+[0.8243331909179688] The beds at the Marriot were SO comfortable I would have been ok with just lounging in bed all weekend and never seeing the rest of city!
+
+----- Weakening -----
+
+[-0.927886962890625] The shower however was very touchy and the water was either scalding hot or very cold.
+[-0.9205780029296875] Breakfast : A good selection with a chef cooking omelettes.
+[-0.9129180908203125] Even the bed was not quite as comfortable (it sagged a little in the middle), as a normal Marriott bed.
+[-0.8987960815429688] The Parkside breakfast was the best buffet breakfast I have ever had.
+[-0.8947830200195312] There are tons of excellent restaurants close by for pretty much every taste and budget.
+
+**********
+
+[0.9917163848876953] The beds were comfortable.
+Parent: Some people found the beds to be exceptionally comfortable, while others found them to be a little soft.
+
+----- Supporting -----
+
+[0.9917163848876953] The beds were comfortable.
+[0.9791312217712402] Beds are to die for, so comfortable.
+[0.9753217697143555] The rooms are clean and the beds are extremely comfortable...it was actually hard to get up in the morning!
+[0.9745235443115234] The rooms are spacious and beds very comfortable, unfortunately there was no bottled water in the room which was disappointing given the hotel standard but this is my only downside of the stay.
+[0.974482536315918] Beds are very comfortable and staff are numerous and helpful.
+
+----- Weakening -----
+
+[-0.958953857421875] Our only complaint is that the bed wasn't very comfortable.
+[-0.941558837890625] Even the bed was not quite as comfortable (it sagged a little in the middle), as a normal Marriott bed.
+[-0.88714599609375] We stayed in a room with 2 queen beds ( 04 people ) and it was not so comfortable as we are used to sleep in a King Size bed back home.
+[-0.84149169921875] The shower however was very touchy and the water was either scalding hot or very cold.
+[-0.8052749633789062] It's a little scary to walk around late night by yourself, but othewise, it's fine.
+
+**********
+
+[0.8939666748046875] The beds were soft.
+Parent: Some people found the beds to be exceptionally comfortable, while others found them to be a little soft.
+
+----- Supporting -----
+
+[0.8939666748046875] The room was clean and the bed was very comfortable.
+[0.8690948486328125] While the beds were comfy and we had plenty of room, the guest rooms are in need of a renovation.
+[0.8639869689941406] The beds were comfortable.
+[0.8494186401367188] Bed rather soft for me.
+[0.8243331909179688] The beds at the Marriot were SO comfortable I would have been ok with just lounging in bed all weekend and never seeing the rest of city!
+
+----- Weakening -----
+
+[-0.927886962890625] The shower however was very touchy and the water was either scalding hot or very cold.
+[-0.9205780029296875] Breakfast : A good selection with a chef cooking omelettes.
+[-0.9129180908203125] Even the bed was not quite as comfortable (it sagged a little in the middle), as a normal Marriott bed.
+[-0.8987960815429688] The Parkside breakfast was the best buffet breakfast I have ever had.
+[-0.8947830200195312] There are tons of excellent restaurants close by for pretty much every taste and budget.
+
+**********
+
+[0.8877782821655273] The rooms needed a bit of a refresh.
+Parent: Some people also found that the rooms needed a bit of a refresh.
+
+----- Supporting -----
+
+[0.8877782821655273] While the beds were comfy and we had plenty of room, the guest rooms are in need of a renovation.
+[0.051779747009277344] It really needed a bit of a â€œrefreshâ€�.
+[0.04317283630371094] my colleagues staying at the sheraton said their rooms were old and not maintained and in some cases dirty.
+[0.03480339050292969] The bathrooms were clean and the rooms have been updated.
+[0.0330047607421875] Rooms were spacious and updated - flat screen tv, newer furniture.
+
+----- Weakening -----
+
+[-0.6569175720214844] Room was perfect.
+[-0.5276412963867188] The ballrooms and meeting rooms were well kept and allowed for great meetings by day and fun parties in the evening.
+[-0.5146598815917969] Not only that, but the rooms were spotlessly clean, the amenities were nice and our view was spectacular.
+[-0.47386932373046875] Rooms were spotless, and big enough.
+[-0.4400367736816406] The room was decent size for Toronto and was very clean.
+
+**********
+
+[0.9026632308959961] The rooms were satisfactory.
+Parent: Overall, people were happy with the rooms.
+
+----- Supporting -----
+
+[0.9026632308959961] Not only that, but the rooms were spotlessly clean, the amenities were nice and our view was spectacular.
+[0.9008769989013672] The room was comfortable, the staff was nice and helpful.
+[0.8851280212402344] Rooms were spotless, and big enough.
+[0.8682079315185547] The room was comfortable and well-equipped...except for a small fridge that I was unable to obtain during my stay.
+[0.8387908935546875] The rooms are spacious and beds very comfortable, unfortunately there was no bottled water in the room which was disappointing given the hotel standard but this is my only downside of the stay.
+
+----- Weakening -----
+
+[-0.9804534912109375] Now maybe our expectations of hotels have risen in recent years, or maybe we were just given a uniquely bad room for the first time, but our room was noisy!
+[-0.9753265380859375] Compared to my last stay, my room was a little disappointing.
+[-0.9744377136230469] To start with the decor in the rooms is dreadful; mustard coloured walls, a mustard coloured 3D (dont ask) carpet, mustard cloured bed throws and an artexed ceiling only just over 7 feet over our heads.
+[-0.9630470275878906] my colleagues staying at the sheraton said their rooms were old and not maintained and in some cases dirty.
+[-0.94561767578125] While the beds were comfy and we had plenty of room, the guest rooms are in need of a renovation.
+
+**********
+
+[0.974116325378418] The rooms were typical Marriott rooms.
+Parent: The reviewers said that the rooms were typical Marriott rooms, clean and comfortable with all the necessary amenities.
+
+----- Supporting -----
+
+[0.974116325378418] The rooms were Marriott quality with all the requisite amenities you would expect.
+[0.9223098754882812] The room was typically Marriott - very nice, great view of the Church and gardens in between the Eaton Centre.
+[0.91607666015625] The room itself was up to Marriott's usual standards - well done, not over-the-top luxurious, but very nice.
+[0.8884201049804688] The room was what most would call the "typical Marriott room."
+[0.23980712890625] The room was like any standard 4 star hotel room.
+
+----- Weakening -----
+
+[-0.9866542816162109] My wife enjoyed the gym which had new and excellent machines.
+[-0.9809093475341797] Wonderful views and the gym was very well equpped with the latest machines and free weights.
+[-0.9803590774536133] The rooms seem to have been recently updated and are well kept.
+[-0.9795475006103516] The beds at the Marriot were SO comfortable I would have been ok with just lounging in bed all weekend and never seeing the rest of city!
+[-0.976837158203125] The bathrooms were clean and the rooms have been updated.
+
+**********
+
+[0.9862842559814453] The rooms were clean and comfortable.
+Parent: The reviewers said that the rooms were typical Marriott rooms, clean and comfortable with all the necessary amenities.
+
+----- Supporting -----
+
+[0.9862842559814453] The room was clean and the bed was very comfortable.
+[0.9861493110656738] The rooms are clean and the beds are extremely comfortable...it was actually hard to get up in the morning!
+[0.9819016456604004] The staff was outstanding, the rooms were a bit small but very clean and with the most comfortable beds.
+[0.9624490737915039] hotel room was small but clean and comfortable.
+[0.9492402076721191] Not only that, but the rooms were spotlessly clean, the amenities were nice and our view was spectacular.
+
+----- Weakening -----
+
+[-0.998016357421875] my colleagues staying at the sheraton said their rooms were old and not maintained and in some cases dirty.
+[-0.9948701858520508] My basic perception was that the rooms had a dated, unclean vibe.
+[-0.9914975166320801] The effect in the small room was to feel as if the ceiling and walls were closing in on us.
+[-0.9886016845703125] To start with the decor in the rooms is dreadful; mustard coloured walls, a mustard coloured 3D (dont ask) carpet, mustard cloured bed throws and an artexed ceiling only just over 7 feet over our heads.
+[-0.983790397644043] Now maybe our expectations of hotels have risen in recent years, or maybe we were just given a uniquely bad room for the first time, but our room was noisy!
+
+**********
+
+[0.9815950393676758] The rooms had all the necessary amenities.
+Parent: The reviewers said that the rooms were typical Marriott rooms, clean and comfortable with all the necessary amenities.
+
+----- Supporting -----
+
+[0.9815950393676758] The rooms were Marriott quality with all the requisite amenities you would expect.
+[0.7803106307983398] Excellent housekeeping and the usual amenities; plenty of room for one person.
+[0.5749282836914062] Had all standard amenities including coffee maker and fridge and robes .
+[0.5128440856933594] Not only that, but the rooms were spotlessly clean, the amenities were nice and our view was spectacular.
+[0.49408721923828125] Clean modern rooms, reasonably good service, excellent concierge, good restaurant.
+
+----- Weakening -----
+
+[-0.9884724617004395] The toilet did not flush properly and the shower seemed to have only 2 temperatures: scalding hot or freezing cold.
+[-0.9880809783935547] The pool didn't have a shallow end for small children, so if you have a younger child you have to hold them the whole time.
+[-0.9804878234863281] However, the rooms are very average (no safe, mini-bar for example).
+[-0.97957444190979] my colleagues staying at the sheraton said their rooms were old and not maintained and in some cases dirty.
+[-0.9710578918457031] The rooms are spacious and beds very comfortable, unfortunately there was no bottled water in the room which was disappointing given the hotel standard but this is my only downside of the stay.
+
+**********
+
+[0.9568080902099609] The rooms were small.
+Parent: Some reviewers mentioned that the rooms were small, but most said they were spacious and had a good view.
+
+----- Supporting -----
+
+[0.9568080902099609] The staff was outstanding, the rooms were a bit small but very clean and with the most comfortable beds.
+[0.9374160766601562] I requested a King size bed but was surprised at how small the room was.
+[0.9019050598144531] hotel room was small but clean and comfortable.
+[0.8973236083984375] The effect in the small room was to feel as if the ceiling and walls were closing in on us.
+[0.8873138427734375] Room was clean but small- could say the same about the pool!
+
+----- Weakening -----
+
+[-0.9970607757568359] Huge rooms, clean and renovated.
+[-0.9969892501831055] The rooms were large and nicely appointed.
+[-0.9969539642333984] The rooms are large and the food in the dining room is decent enough.
+[-0.9968652725219727] Our room was large, well furnished and clean.
+[-0.995758056640625] The room next to mine was obviously a large suite occupied by several people.
+
+**********
+
+[0.9858732223510742] The rooms were spacious.
+Parent: Some reviewers mentioned that the rooms were small, but most said they were spacious and had a good view.
+
+----- Supporting -----
+
+[0.9858732223510742] The rooms are spacious and beds very comfortable, unfortunately there was no bottled water in the room which was disappointing given the hotel standard but this is my only downside of the stay.
+[0.9799470901489258] The rooms are nice and spacious An feature all you'd expect from the brand.
+[0.9795370101928711] Rooms were spacious and updated - flat screen tv, newer furniture.
+[0.9686107635498047] The rooms were large and nicely appointed.
+[0.9607515335083008] The property looks recently renovated, and the room was spacious and comfortable.
+
+----- Weakening -----
+
+[-0.9924888610839844] Room was clean but small- could say the same about the pool!
+[-0.9924888610839844] Room was clean but small- could say the same about the pool!
+[-0.9921550750732422] hotel room was small but clean and comfortable.
+[-0.9916172027587891] I requested a King size bed but was surprised at how small the room was.
+[-0.9902820587158203] The bathroom was small and not as contemporary as I was expecting.
+
+**********
+
+[0.9754395484924316] The rooms have a good view.
+Parent: Some reviewers mentioned that the rooms were small, but most said they were spacious and had a good view.
+
+----- Supporting -----
+
+[0.9754395484924316] The room was very nice, a good view and the bed was very, very comfortable.
+[0.945683479309082] Not only that, but the rooms were spotlessly clean, the amenities were nice and our view was spectacular.
+[0.9358797073364258] The room we had was a decent size and had a nice view.
+[0.9334735870361328] Being Marriott Rewards members, we got a lovely upgraded room with access to the concierge lounge and good views.
+[0.9209308624267578] Wonderful views and the gym was very well equpped with the latest machines and free weights.
+
+----- Weakening -----
+
+[-0.3659992218017578] It is probably the most depressing hotel I have ever stayed in.
+[-0.31573486328125] To start with the decor in the rooms is dreadful; mustard coloured walls, a mustard coloured 3D (dont ask) carpet, mustard cloured bed throws and an artexed ceiling only just over 7 feet over our heads.
+[-0.2587432861328125] Now maybe our expectations of hotels have risen in recent years, or maybe we were just given a uniquely bad room for the first time, but our room was noisy!
+[-0.2246990203857422] During our recent trip we stayed in 5 hotels in Canada and this was by far the worst.
+[-0.2232532501220703] Compared to my last stay, my room was a little disappointing.

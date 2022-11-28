@@ -1,0 +1,128 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.936305046081543
+
+**********
+
+[0.9261703491210938] The Primrose is a good hotel for people who plan on staying just a few days in Toronto.
+Parent: The Primrose is a good hotel for people who plan on staying just a few dates in Toronto and plan on only sleeping there .
+
+----- Supporting -----
+
+[0.9261703491210938] The Primrose is a good hotel for people who plan on staying just a few dates in Toronto and plan on only sleeping there.
+[0.1637420654296875] So we went to Toronto for a girlâ€™s weekend out and booked 2 rooms at the Primrose Hotel online after finding a good deal on Hotwire.
+[0.09517669677734375] Went to Toronto for a weekend â€œstaycationâ€� and got a cheap room online at the Primrose Hotel.
+[0.0577850341796875] I was booked in here as part of a city break package, while visiting friends in the Toronto area.
+[0.046558380126953125] Met some long time friends in toronto for the weekend, I decided to come into town last minuet and found the primrose cause the delta gave my room away?
+
+----- Weakening -----
+
+[-0.6669998168945312] I would not recommend this hotel to anyone!
+[-0.6486282348632812] We are heartbroken and will never recommend this hotel to anyone.
+[-0.6183357238769531] I do not recommend staying here.
+[-0.5617914199829102] I would never step into that hotel.
+[-0.5317153930664062] East Lothian Scotland.
+
+**********
+
+[0.9460468292236328] The Primrose is a good hotel for people who only want a place to sleep.
+Parent: The Primrose is a good hotel for people who plan on staying just a few dates in Toronto and plan on only sleeping there .
+
+----- Supporting -----
+
+[0.9460468292236328] The Primrose is a good hotel for people who plan on staying just a few dates in Toronto and plan on only sleeping there.
+[0.043701171875] I wouldn't recommend this hotel to anyone who is looking for a nice weekend getaway or a family looking for a vacation.
+[0.03564453125] I would describe it as typical Best Western standard 3 star hotel quality, nothing special and no frills.
+[0.021240234375] Other than the hotel is OK, but far from great.
+[0.002197265625] the hotel is centrally located and is very comfortable with a nice bed and rooms cleaned daily.
+
+----- Weakening -----
+
+[-0.9910778999328613] I guess this hotel would be ok for people who are looking to party.
+[-0.9894371032714844] This restaurant has a loyal group of customers.
+[-0.986994743347168] great for shopping, dining & partying.
+[-0.9799909591674805] We did order food and beverage and were pleased with the variety of choices available for lunches.
+[-0.978569746017456] All in all, I`d highly recommend it to anyone looking to catch a baseball weekend, or shop at the Eaton Center and such.
+
+**********
+
+[0.9773654937744141] The hotel parking was expensive.
+Parent: The hotel parking was a little expensive ( CAN $ 15 ) and the garage is compact so I would be careful if you drive a big car or SUV .
+
+----- Supporting -----
+
+[0.9773654937744141] The hotel parking was a little expensive (CAN $15) and the garage is compact so I would be careful if you drive a big car or SUV.
+[0.7417526245117188] The hotel charges $23 for parking, which should be free considering the difficulty it is to get into an actual parking spot.
+[0.645263671875] The underground parking in the hotel was $15 a day, but you do get in/out privileges, just use caution when parking, it's a bit tight down there.
+[0.585174560546875] I guess the only thing I didnâ€™t really like was the cost of the parking which was $23 a day, but I guess after paying close to $40 for valet parking at the wedding venue and hearing that someone else at the wedding paid almost $30 for parking at their hotel, I canâ€™t really complain since it looks like Toronto in general is expensive for parking.
+[0.30712890625] The "self parking" amenity translates as $23 per night in hotel parking lot!
+
+----- Weakening -----
+
+[-0.7845935821533203] The price was also quite reasonable.
+[-0.7154254913330078] It is free.
+[-0.6174507141113281] Many places I visit charge ridicules rates for internet so the fact it was free was great.
+[-0.6016387939453125] Had daily continental or hot breakfast for an unreasonable cost for the 'menu' - try the local restaurants or delivery) Overall, reasonable cost for duration; comfortable, quiet, clean rooms; and you receive Best Western Club points or Airmiles for your stay.
+[-0.5867586135864258] It was close to the theatre we were going to and the price was affordable.
+
+**********
+
+[0.9316673278808594] The hotel garage is small.
+Parent: The hotel parking was a little expensive ( CAN $ 15 ) and the garage is compact so I would be careful if you drive a big car or SUV .
+
+----- Supporting -----
+
+[0.9316673278808594] The hotel parking was a little expensive (CAN $15) and the garage is compact so I would be careful if you drive a big car or SUV.
+[0.47515869140625] Also, the hotel parking has a height limit of 6 feet, so, since we were driving a GMC Yukon, it was not available to us anyway.
+[0.080322265625] The Primrose is a dated property offering only basic levels of service.
+[0.076904296875] The hotel was clean, modern and the only concern that I had was the limited parking in the hotel garage.
+[0.060577392578125] For me, I believe that if a hotel has a parking garage that it should have adequate space reserved for hotel patrons regardless if they are going to use it or not.
+
+----- Weakening -----
+
+[-0.9890384674072266] It was a very large room for a great price.
+[-0.9875564575195312] The hotel is older but the room was huge and had a view all the way to the lake.
+[-0.9838199615478516] The room was wickedly huge and we had tons of space.
+[-0.9829845428466797] Large room, with really nice and comfy duvets, and overall much nicer than I've seen from most hotels in Toronto in this price range.
+[-0.98187255859375] The room itself was very spacious and clean.
+
+**********
+
+[0.9725818634033203] The continental breakfast is not free.
+Parent: The non-free continental breakfast is a joke .
+
+----- Supporting -----
+
+[0.9725818634033203] The non-free continental breakfast is a joke.
+[0.662750244140625] The breakfast is $12.95 for pre cooked eggs, bacon,etc.
+[0.64849853515625] Had daily continental or hot breakfast for an unreasonable cost for the 'menu' - try the local restaurants or delivery) Overall, reasonable cost for duration; comfortable, quiet, clean rooms; and you receive Best Western Club points or Airmiles for your stay.
+[0.522705078125] Beware of what looks like a continental breakfast as it is not nor are there any signs indicating charge.
+[0.3504638671875] there's an in-house tim hortons in case you don't want the very affordable breakfast buffet.
+
+----- Weakening -----
+
+[-0.9690628051757812] #4) Gave me coupons for the free continental breakfast.
+[-0.9393491744995117] It is free.
+[-0.8440933227539062] You also got two pillows each without asking.
+[-0.7961349487304688] there's free - and mostly slow but functional - wireless internet access included in the room rate.
+[-0.7831268310546875] Many places I visit charge ridicules rates for internet so the fact it was free was great.
+
+**********
+
+[0.8639984130859375] The continental breakfast is terrible.
+Parent: The non-free continental breakfast is a joke .
+
+----- Supporting -----
+
+[0.8639984130859375] The non-free continental breakfast is a joke.
+[0.0037384033203125] Not of Best western quality.
+[0.0023517608642578125] The food is god awful, my stomach had to get used to it.
+[0.0] All
+[0.0] Be warned.
+
+----- Weakening -----
+
+[-0.9956388473510742] The restaurant buffet for breakfast was good, the wait staff was very pleasant.
+[-0.9947719573974609] The food was good and arrived on time and hot.
+[-0.9928195476531982] The food they serve is good as well.
+[-0.9921488761901855] Excellent breakfast in the AM as well.
+[-0.9907772541046143] The service was great and we had a breakfast arranged in a private dining room which everyone enjoyed.

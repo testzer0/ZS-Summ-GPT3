@@ -1,0 +1,47 @@
+***** cleanliness : Sentiments for original sentences *****
+washer : + 2     - 0
+dryer : + 2     - 0
+Management : + 0     - 1
+musty smell : + 0     - 1
+decor : + 2     - 0
+jacuzzi tub : + 1     - 0
+balcony : + 1     - 0
+blanket : + 0     - 1
+horse back riding : + 1     - 0
+bedding : + 1     - 1
+fridge : + 0     - 1
+carpet : + 0     - 1
+a / c : + 0     - 1
+Bedspreads : + 0     - 1
+smoke detectors : + 0     - 1
+coffee : + 1     - 0
+board : + 1     - 0
+Check in process : + 1     - 0
+room : + 1     - 0
+staff : + 1     - 0
+TV : + 1     - 0
+WiFi : + 1     - 0
+sheet : + 0     - 1
+pillows : + 0     - 1
+receptionist : + 1     - 0
+themed rooms : + 1     - 0
+air conditioning unit : + 0     - 1
+smell : + 0     - 1
+lighting : + 0     - 2
+throw pillows : + 1     - 0
+comforters : + 1     - 0
+waffles : + 1     - 0
+rate : + 1     - 0
+Check in : + 1     - 0
+check out : + 1     - 0
+beds : + 1     - 0
+bed : + 0     - 1
+maid : + 0     - 1
+breakfast : + 1     - 0
+***** cleanliness : Sentiments for raw summaries *****
+bedding : + 0     - 1
+maid : + 0     - 1
+blanket : + 0     - 1
+carpet : + 0     - 1
+place : + 1     - 0
+***** cleanliness : Sentiments for final summary *****

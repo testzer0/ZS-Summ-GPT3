@@ -1,0 +1,105 @@
+***** rooms : Sentiments for original sentences *****
+cleanliness : + 1     - 0
+lighting : + 1     - 0
+electrical outlets : + 1     - 0
+furniture : + 4     - 0
+robes : + 1     - 0
+shower : + 1     - 1
+refrigerator : + 1     - 0
+windows : + 2     - 0
+lit hallways : + 1     - 0
+king bed : + 1     - 0
+rate : + 1     - 0
+room : + 30     - 7
+staff : + 12     - 0
+rooms : + 22     - 2
+hot water : + 0     - 1
+room service : + 0     - 1
+Rooms : + 5     - 1
+breakfast : + 1     - 1
+Location : + 1     - 0
+deals : + 1     - 0
+location : + 4     - 0
+price : + 3     - 0
+corner rooms : + 1     - 0
+city views : + 1     - 0
+breakfast buffets : + 1     - 0
+service : + 4     - 0
+beds : + 12     - 2
+hotel : + 8     - 0
+Beds : + 3     - 0
+desk clerk : + 1     - 0
+value : + 2     - 0
+breakfasts : + 1     - 0
+lobby : + 2     - 1
+view : + 2     - 0
+front desk : + 2     - 0
+room / : + 1     - 0
+area : + 1     - 0
+sleep : + 3     - 0
+Concierge : + 1     - 0
+food : + 1     - 0
+closet : + 0     - 1
+bed : + 9     - 0
+pillows : + 3     - 0
+priced : + 2     - 0
+bathrooms : + 1     - 0
+furnishings : + 2     - 1
+curtains : + 1     - 0
+coffee : + 1     - 0
+amenities : + 3     - 0
+fridge : + 1     - 0
+parking : + 1     - 0
+Room : + 3     - 0
+motel : + 1     - 0
+pillowtop beds : + 1     - 0
+size : + 3     - 0
+tub : + 0     - 1
+air conditioning unit : + 0     - 1
+Hotel : + 1     - 0
+king size bed : + 1     - 0
+bathroom : + 3     - 1
+Dragonfish Cafe : + 1     - 0
+spot : + 1     - 0
+lobby staff : + 1     - 0
+english breakfast : + 1     - 0
+grey tea : + 1     - 0
+corner room : + 1     - 0
+space : + 2     - 0
+front desk staff : + 0     - 1
+located : + 1     - 0
+hotels : + 1     - 0
+free WiFi : + 1     - 0
+bathroom sink : + 0     - 1
+coffee maker : + 0     - 1
+TV : + 1     - 0
+marble : + 1     - 0
+Paramount : + 1     - 0
+Asian cuisine : + 1     - 0
+bathroom ammentities : + 1     - 0
+smell : + 0     - 1
+experience : + 1     - 0
+views : + 1     - 0
+cleaning : + 0     - 1
+toiletry products : + 0     - 1
+things : + 0     - 1
+chairs : + 1     - 0
+bedding : + 1     - 0
+action : + 1     - 0
+internet : + 1     - 0
+style : + 1     - 0
+linens : + 1     - 0
+fixtures : + 1     - 0
+bar fridge : + 1     - 0
+wifi : + 1     - 0
+mattress : + 1     - 0
+refridgerator : + 1     - 0
+***** rooms : Sentiments for raw summaries *****
+rooms : + 2     - 3
+bed : + 1     - 0
+furnishings : + 0     - 1
+smell : + 0     - 1
+value : + 1     - 0
+breakfast buffet : + 0     - 1
+curtains : + 1     - 0
+***** rooms : Sentiments for final summary *****

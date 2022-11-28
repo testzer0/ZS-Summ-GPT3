@@ -1,0 +1,128 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.9532930850982666
+
+**********
+
+[0.9919452667236328] The building next door is being built.
+Parent: Be warned , the building next door is under construction ( which I am sure is temporary ) .
+
+----- Supporting -----
+
+[0.9919452667236328] Be warned, the building next door is under construction (which I am sure is temporary).
+[0.10808563232421875] I opened my curtains to a view of the construction site.
+[0.064117431640625] If anything other hotels that are being built should use the joule as a starting point.
+[0.027166366577148438] We went out for dinner and then straight to sleep, then left early in morning bc construction noise woke us up, so we didn't have time to eat anything from mini bar.
+[0.003894805908203125] They seemed eager to work and acted like they truly enjoyed their job.
+
+----- Weakening -----
+
+[-0.8610115051269531] There is a Neiman Marcus and a decent Mexican restaurant next door, but there's also a boarded up building.
+[-0.8362960815429688] Need a ride to the State Fair?
+[-0.75506591796875] It needs to be removed ASAP.
+[-0.7442245483398438] The food was amazing!
+[-0.5848312377929688] Great food.
+
+**********
+
+[0.77447509765625] The building next door is only temporary.
+Parent: Be warned , the building next door is under construction ( which I am sure is temporary ) .
+
+----- Supporting -----
+
+[0.77447509765625] Be warned, the building next door is under construction (which I am sure is temporary).
+[0.26959228515625] Downtown area around it is sort of dead... the structure itself is a period building, renovated into a boutique hotel.
+[0.14703369140625] It might be where the young people of Texas go to spend their money on dinner and drinks in the bar but its not the place to stay overnight.
+[0.1442413330078125] I would never hesitate to return to this hotel.
+[0.118988037109375] My girlfriend and I decided on this hotel for a short weekend trip to Dallas.
+
+----- Weakening -----
+
+[-0.6245346069335938] We were very impressed with the service and attention to detail.
+[-0.6129150390625] The food and service is amazing!
+[-0.602203369140625] From the moment of check-in to check-out, our experience was first class.
+[-0.561553955078125] The customer service was excellent and Ms. Chasity Gray was outstanding, as she went the extra mile to make sure our stay was a memorable one!!!
+[-0.54254150390625] I cant say enough about the service.
+
+**********
+
+[0.9748687744140625] The front desk area is not huge.
+Parent: The front deks area is not huge , but has a farily open seating and meeting place .
+
+----- Supporting -----
+
+[0.9748687744140625] The front deks area is not huge, but has a farily open seating and meeting place.
+[0.504302978515625] 2 - We stayed in the Demi-Joule room and it was very small.
+[0.38818359375] The rooms are tiny and open like most W's and the focus on being trendy, not on customer service nor amenities.
+[0.27044677734375] The pool was nice as was the fitness center but with tiny cramped rooms, lack of customer service (I tried calling the desk 3 times and never go through) and the loading dock at the front of the building, I wouldn't recommend it.
+[0.267425537109375] The Joule is not luxurious in comparison and not sure why Starwood has it branded as such.
+
+----- Weakening -----
+
+[-0.66729736328125] It was very crowded, you could barely move, but the drinks were very good.
+[-0.5362167358398438] Darrell went out of his way to make our visit extra special!
+[-0.4844818115234375] I cant say enough about The Joule.
+[-0.4559326171875] It is one of a kind and nothing else can compare in Dallas or wherever you may be....
+[-0.45556640625] The pool is small but they keep it very cool and refreshing.
+
+**********
+
+[0.9906134605407715] The front deks area has a farily open seating and meeting place.
+Parent: The front deks area is not huge , but has a farily open seating and meeting place .
+
+----- Supporting -----
+
+[0.9906134605407715] The front deks area is not huge, but has a farily open seating and meeting place.
+[0.077545166015625] The accomodations were wonderful, the canti-levered pool was gorgeous and the lobby ultra chiq...but the best attribute by far was the care and attention to detail given by Henry and the valet staff!
+[0.06719970703125] The owner is an art collector so the lobby was decorated with pieces from his own personal collection.
+[0.0599365234375] BTW, the pool and PM Lounge are really cool!
+[0.059600830078125] Even if you just go into the lobby and get a drink at the hotel bar it is worth it.
+
+----- Weakening -----
+
+[-0.9135208129882812] There is a Neiman Marcus and a decent Mexican restaurant next door, but there's also a boarded up building.
+[-0.7679710388183594] Only little tiny thing is the location ...
+[-0.7611942291259766] This hotel has a very cramped feel.
+[-0.719573974609375] I was there on a Sunday and there's not much going on around that area, but they totally know that and offer a FREE shuttle to wherever you need to go.
+[-0.637939453125] That night we visited the PM Lounge that's located in the basement of the hotel.
+
+**********
+
+[0.9945030212402344] The owner is an art collector.
+Parent: The owner is an art collector so the lobby was decorated with pieces from his own personal collection .
+
+----- Supporting -----
+
+[0.9945030212402344] The owner is an art collector so the lobby was decorated with pieces from his own personal collection.
+[0.012941360473632812] Chasity actually took the time to explain the art throughout the hotel and how the owner put his own personal touch on the property.
+[0.00449371337890625] We were looking for something that combined elegance, art, and architecture.
+[0.0018835067749023438] From the lobby to the rooms, this hotel has been very tastefully decorated â€¢ Rooms â€“ Very chic rooms.
+[0.001628875732421875] (But what's with the big wooden wheel in the lobby?)
+
+----- Weakening -----
+
+[-0.9736499786376953] Whoever is the GM is doing an amazing job with their staff!
+[-0.9395866394042969] Their new GM is aware of the service issues they have had and he is working to turn it around.
+[-0.9093246459960938] The chef generously shared the granola recipe with my husband, who declared it the best granola he'd even eaten.
+[-0.8997001647949219] He coordinated with NOKA Chocolates for a private wine and chocolate pairing on Saturday afternoon.
+[-0.8533859252929688] I think you have some great staff out front you might want to have Bryce and Bryson or Nikki teach your managers what it means to have great customer service!
+
+**********
+
+[0.9933528900146484] The lobby is decorated with the owner's personal collection.
+Parent: The owner is an art collector so the lobby was decorated with pieces from his own personal collection .
+
+----- Supporting -----
+
+[0.9933528900146484] The owner is an art collector so the lobby was decorated with pieces from his own personal collection.
+[0.049224853515625] Chasity actually took the time to explain the art throughout the hotel and how the owner put his own personal touch on the property.
+[0.016313552856445312] The Joule is touted as a luxury property.
+[0.010761260986328125] Very Romantic....GO!!!
+[0.00970458984375] The room was immaculate - superbly decorated, super clean, and there was a complimentary bottle of champagne for us, with truffles and a lovely note from the manager.
+
+----- Weakening -----
+
+[-0.453765869140625] The pool was completely packed with drunk, tattooed twenty-somethings like spring break in Daytona.
+[-0.37996673583984375] I was so amazed at the rust on the equipment.
+[-0.2976493835449219] Cons: Service is terrible!!
+[-0.2850189208984375] to get ONE sandwhich I had to call and ck on it and there are slow and the service is so bad and the managers know which makes it WORSE...
+[-0.27866363525390625] The bed was very comfy.

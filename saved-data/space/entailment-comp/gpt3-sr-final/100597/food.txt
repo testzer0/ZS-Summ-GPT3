@@ -1,0 +1,44 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.9764828681945801
+
+**********
+
+[0.9680948257446289] The food was good.
+Parent: The food at the hotel was good, but it was expensive.
+
+----- Supporting -----
+
+[0.9680948257446289] The food was good although a bit pricey.
+[0.9598751068115234] Food was good, but a bit overpriced.
+[0.9436769485473633] Restaurant food was excellent and reasonably priced and breakfast was good.
+[0.9420289993286133] The food was decent as was the wine selection.
+[0.9126667976379395] We tried the hotel restaurants and the food was quite good.
+
+----- Weakening -----
+
+[-0.9760665893554688] Food was very expensive in restaurant and just okay.
+[-0.877227783203125] The not so good news - food at the hotel was OK.
+[-0.79388427734375] We ate at both the lounge and the cafe and food was average at best, but the service VERY GOOD!
+[-0.7062530517578125] VERY average burger.
+[-0.28620147705078125] We ordered food and received ice cold food one hour later.
+
+**********
+
+[0.9848709106445312] The food was expensive.
+Parent: The food at the hotel was good, but it was expensive.
+
+----- Supporting -----
+
+[0.9848709106445312] Food was very expensive in restaurant and just okay.
+[0.9679908752441406] Food was good, but a bit overpriced.
+[0.9593601226806641] The food was a little expensive-$13 for a burger and $12 for an omelette alone.
+[0.9586915969848633] That worked well for me since the food at the hotel is fairly pricey.
+[0.9527854919433594] The food was good although a bit pricey.
+
+----- Weakening -----
+
+[-0.9933147430419922] Restaurant food was excellent and reasonably priced and breakfast was good.
+[-0.8956222534179688] I was able to purchase a reasonably priced bottle of Oregon pinot noir for in-room consumption.
+[-0.7965278625488281] VERY average burger.
+[-0.7323837280273438] This plus we luv their complimentary cookies that they offer upon check-in.
+[-0.4197711944580078] Even got free cookies - wasn't expecting that.

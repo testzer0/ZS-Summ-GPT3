@@ -1,0 +1,107 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.708218765258789
+
+**********
+
+[0.9309005737304688] The building has an external glass elevator.
+Parent: The building has an external glass elevator, is open 24 hours, has a maze-like design, and is large with several buildings.
+
+----- Supporting -----
+
+[0.9309005737304688] Access to the tower is by external glass elevators.
+[-0.0012798309326171875] Overall this is a good property.
+[-0.003849029541015625] The walk from that building to the lobby is about 2-3 minutes.
+[-0.00397491455078125] As a Doubletree, I expected a GOOD three star property for my stay on August 27, 2004.
+[-0.0040435791015625] Will stay there again in the future.
+
+----- Weakening -----
+
+[-0.5125732421875] The tower elevators, which run on the exterior of the building, were quite cold.
+[-0.365753173828125] When we arrived we were told by the front desk the roll-a-way would be sent up immediately and would probably be there before we got up to the room.
+[-0.326416015625] They did a great job soundproofing the external walls, but the hall walls seemed a bit thin.
+[-0.18079376220703125] There is an abundance of gardens in between the different buildings and all were very well maintained and tended.
+[-0.13544464111328125] The design of the hotel is a little maze-like but still beautiful and the pool definitely makes you feel like you're somewhere else rather than beside the Sea-Tac Airport.
+
+**********
+
+[-0.00447845458984375] The building is available 24 hours a day.
+Parent: The building has an external glass elevator, is open 24 hours, has a maze-like design, and is large with several buildings.
+
+----- Supporting -----
+
+[-0.00447845458984375] The design of the hotel is a little maze-like but still beautiful and the pool definitely makes you feel like you're somewhere else rather than beside the Sea-Tac Airport.
+[-0.005370140075683594] Several fireplaces and seating areas in the lobby make it comfortable.
+[-0.005722999572753906] Will stay there again in the future.
+[-0.006038665771484375] This is a large property with (I believe) five buildings.
+[-0.006171703338623047] The gift shop was well stocked and very reasonably priced.
+
+----- Weakening -----
+
+[-0.9948339462280273] One wing building was closed for renovation.
+[-0.8096637725830078] I was put into this property by an airline due to a maintenance issue, although I checked in late at night and had to leave early the next morning, I saw enough that I want to return!
+[-0.7448043823242188] This property is a mess.
+[-0.19354629516601562] When we arrived we were told by the front desk the roll-a-way would be sent up immediately and would probably be there before we got up to the room.
+[-0.12372016906738281] There is an abundance of gardens in between the different buildings and all were very well maintained and tended.
+
+**********
+
+[0.9661903381347656] The building is designed like a maze.
+Parent: The building has an external glass elevator, is open 24 hours, has a maze-like design, and is large with several buildings.
+
+----- Supporting -----
+
+[0.9661903381347656] The design of the hotel is a little maze-like but still beautiful and the pool definitely makes you feel like you're somewhere else rather than beside the Sea-Tac Airport.
+[0.21540069580078125] This property is a mess.
+[0.0303192138671875] The building has unique architecture which can prove to be challenging for some to find their rooms.
+[-0.01395416259765625] Will stay there again in the future.
+[-0.019367218017578125] I was put into this property by an airline due to a maintenance issue, although I checked in late at night and had to leave early the next morning, I saw enough that I want to return!
+
+----- Weakening -----
+
+[-0.9480075836181641] Several fireplaces and seating areas in the lobby make it comfortable.
+[-0.8975296020507812] There is an abundance of gardens in between the different buildings and all were very well maintained and tended.
+[-0.8732032775878906] The gift shop was well stocked and very reasonably priced.
+[-0.7925338745117188] The exterior of the buildings in these wings looks like some outdated Polynesian tiki architecture.
+[-0.6838912963867188] Lobby has PC with printer to check in to airline and print boarding pass.
+
+**********
+
+[0.685699462890625] The building is large.
+Parent: The building has an external glass elevator, is open 24 hours, has a maze-like design, and is large with several buildings.
+
+----- Supporting -----
+
+[0.685699462890625] This is a large property with (I believe) five buildings.
+[0.28571319580078125] It has a main tower, which is the best place to stay as you are close to everything, as well as several wings.
+[0.07965850830078125] Stayed in the high-rise portion.
+[0.04624176025390625] The design of the hotel is a little maze-like but still beautiful and the pool definitely makes you feel like you're somewhere else rather than beside the Sea-Tac Airport.
+[0.044002532958984375] There is an abundance of gardens in between the different buildings and all were very well maintained and tended.
+
+----- Weakening -----
+
+[-0.1959228515625] This property is a mess.
+[-0.00087738037109375] One wing building was closed for renovation.
+[0.00180816650390625] Lobby has PC with printer to check in to airline and print boarding pass.
+[0.002140045166015625] The gift shop was well stocked and very reasonably priced.
+[0.0025310516357421875] I went down to the lobby about 5:30 a.m. to print out our boarding passes, and a front desk employee came over to be sure everything was going well and I had what I needed - nice touch.
+
+**********
+
+[0.9627819061279297] The building has several buildings.
+Parent: The building has an external glass elevator, is open 24 hours, has a maze-like design, and is large with several buildings.
+
+----- Supporting -----
+
+[0.9627819061279297] This is a large property with (I believe) five buildings.
+[0.9266357421875] It has a main tower, which is the best place to stay as you are close to everything, as well as several wings.
+[0.8645553588867188] There is an abundance of gardens in between the different buildings and all were very well maintained and tended.
+[0.6196403503417969] The exterior of the buildings in these wings looks like some outdated Polynesian tiki architecture.
+[0.29693603515625] The design of the hotel is a little maze-like but still beautiful and the pool definitely makes you feel like you're somewhere else rather than beside the Sea-Tac Airport.
+
+----- Weakening -----
+
+[0.011533737182617188] The walk from that building to the lobby is about 2-3 minutes.
+[0.016845703125] Will stay there again in the future.
+[0.024448394775390625] Overall this is a good property.
+[0.025241851806640625] I was put into this property by an airline due to a maintenance issue, although I checked in late at night and had to leave early the next morning, I saw enough that I want to return!
+[0.026020050048828125] As a Doubletree, I expected a GOOD three star property for my stay on August 27, 2004.

@@ -1,0 +1,485 @@
+***** Aspect: rooms Model Type : zs *****
+Overall score: 0.8044855490974758
+
+**********
+
+[0.9859576225280762] The rooms were small.
+Parent: The reviewers found the rooms to be small and outdated, with no carpeting on the floors.
+
+----- Supporting -----
+
+[0.9859576225280762] The rooms are quite small, which was a little tight with two kids and my wife and me.
+[0.9853763580322266] The rooms are incredibly small.
+[0.9830050468444824] The rooms are small and sparsely furnished.
+[0.9817647933959961] The rooms are small but nice, the lobby is modern and inviting and the staff is friendly.
+[0.9647293090820312] The rooms are somewhat small and quite expensive considering the size.
+
+----- Weakening -----
+
+[-0.996769905090332] A beautiful large modern style room with lots of windows.
+[-0.996403694152832] Big rooms with lots of windows.
+[-0.9963903427124023] The rooms are large, each with a small balcony and most have a view of the water.
+[-0.9963440895080566] Our room was clean and large.
+[-0.9951176643371582] The balcony had impressive views and was private, the suite was huge and very comfortable.
+
+**********
+
+[0.8302154541015625] The rooms were outdated.
+Parent: The reviewers found the rooms to be small and outdated, with no carpeting on the floors.
+
+----- Supporting -----
+
+[0.8302154541015625] I think the bathroom was recently reno'd and it was great, but the rest of the room was pretty ho-hum, and even a little run-down/old looking.
+[0.758697509765625] I booked an upgraded King room with a view and ended up beside the elevator in a room that looked pretty dated and uninviting.
+[0.6036529541015625] The room was small and dark and old.
+[0.5225830078125] The rooms are fairly well equipped, and on the surface look good, however the fittings when you look closely at them are not top quality, and will not last.
+[0.3651123046875] Its a bit old and some of the furnishings and fabrics in the room showed their age, but its clean and quiet and the mattress was comfortable.
+
+----- Weakening -----
+
+[-0.9960660934448242] The room was very nice, clean and new, a tad on the small side, but fine.
+[-0.9935402870178223] The room itself was clean, the bathroom was very modern, and the views of the water/harbor were very pretty.
+[-0.9904026985168457] A beautiful large modern style room with lots of windows.
+[-0.9896864891052246] The hotel is very modern, with the feel of a boutique 5 star hotel.
+[-0.9881997108459473] We especially loved the modern shower with rainfall, massage, and regular options.
+
+**********
+
+[0.9483051300048828] The rooms did not have any carpeting on the floors.
+Parent: The reviewers found the rooms to be small and outdated, with no carpeting on the floors.
+
+----- Supporting -----
+
+[0.9483051300048828] No carpet on the floor, hardly any outlets and the bathroom was too small.
+[0.746734619140625] The marble tile floors in the rooms make for easy management of the pet-friendly policy, so I don't mark this hotel down for that as some other reviewers have mentioned.
+[0.17498779296875] It had views of the harbour and the rooms were absolutely beautiful -- nice marble floors too.
+[0.036708831787109375] The room itself was clean, the bathroom was very modern, and the views of the water/harbor were very pretty.
+[0.03633880615234375] Big clean remodelled bathroom.
+
+----- Weakening -----
+
+[-0.9971230030059814] * The doors, wallpaper and carpets need to be redone.
+[-0.9840965270996094] Kind size bed, tv, marble floors small scatter rug on either side of the bed.
+[-0.940155029296875] The floors throughout are marble with an occasional scatter rug.
+[-0.8452987670898438] If you're going to stay for more than one night, I would highly recommend spending the extra few bucks for the upgrade.
+[-0.8339500427246094] Beds are lush.
+
+**********
+
+[0.9779720306396484] The bathrooms were too small.
+Parent: Some also found the bathrooms to be too small.
+
+----- Supporting -----
+
+[0.9779720306396484] No carpet on the floor, hardly any outlets and the bathroom was too small.
+[0.0999908447265625] Room was quite small, with very limited closet space, especially for 2 adults and a child.
+[0.032825469970703125] The rooms are incredibly small.
+[0.018224716186523438] The room was so tiny we could hardly fit in it.
+[0.010532379150390625] The rooms are quite small, which was a little tight with two kids and my wife and me.
+
+----- Weakening -----
+
+[-0.9975700378417969] Best shower ...the bathroom was huge with an amazing huge ceiling shower head.
+[-0.9965903759002686] Big clean remodelled bathroom.
+[-0.9586353302001953] Bathrooms are super-luxorious.
+[-0.955352783203125] The rooms are VERY clean (very), and the bathrooms are quite luxurious.
+[-0.9403104782104492] The room was beautiful and very spacious with amazing views of False Creek.
+
+**********
+
+[0.8749027252197266] There were not enough outlets.
+Parent: There were also not enough outlets and the desk staff were not very friendly.
+
+----- Supporting -----
+
+[0.8749027252197266] No carpet on the floor, hardly any outlets and the bathroom was too small.
+[0.207794189453125] We had wished the room had a fridge that could be used rather than one stocked with liquor.
+[0.20745849609375] Our only slightly negative comment was that the large kitchen area had plenty of wine glasses, but nothing else - no cutlery, no plates, etc.
+[0.13861083984375] We were told none were available.
+[0.0977325439453125] We only have two comments - we were planning on a "nightcap" when we got back from the theatre on a Saturday night at 10:30 - only to discover that both the dining room and the lounge were closed at this early hour.
+
+----- Weakening -----
+
+[-0.9902563095092773] There are plenty of paths to jog and walk around the water, and lots of choices for dinner and drinks.
+[-0.9853801727294922] Big rooms with lots of windows.
+[-0.9730825424194336] That aside, the rooms were very clean and provided all the amenities needed to help make our stay quite comfortable.
+[-0.9727649688720703] If you're staying over a weekend I recommend booking for dinner as it was packed on Saturday night and Sunday lunchtime.
+[-0.9579963684082031] All the rooms have been remodeled with nice big screen TVs, very comfortable beds and nice décor.
+
+**********
+
+[0.43702125549316406] The desk staff was not very friendly.
+Parent: There were also not enough outlets and the desk staff were not very friendly.
+
+----- Supporting -----
+
+[0.43702125549316406] The hotel is in a great location but needs some serious updating, sound proofing and desk staff needs an attitude check towards guests.
+[0.005417346954345703] I have to say I was disappointed with the hotel.
+[0.003513336181640625] That being said, my room was only okay.
+[0.00318145751953125] We stayed in 6 hotels in all and this was by no means the cheapest, but it was the least appealing.
+[0.0007953643798828125] I booked an upgraded King room with a view and ended up beside the elevator in a room that looked pretty dated and uninviting.
+
+----- Weakening -----
+
+[-0.9866399765014648] The hotel was a short ride from the airport and the staff were very pleasant upon check-in and check-out.
+[-0.9799814224243164] The room was beautiful, the staff were very pleasant and the food from the restiarant Downstairs was delicious.
+[-0.9776887893676758] This is a wonderful hotel with really nice staff and is a beautiful place to go for a drink or to stay.
+[-0.9708881378173828] The hotel is really nice and the staff are friendly and helpful.
+[-0.9688763618469238] First, I need to mention how helpful the folks at the front desk were.
+
+**********
+
+[0.9651927947998047] The location of the hotel was good.
+Parent: However, the location of the hotel was praised.
+
+----- Supporting -----
+
+[0.9651927947998047] This is not a five star hotel but you are not paying five star prices and as stated above the location is awesome.
+[0.9651684761047363] I love the setting of this hotel.
+[0.9540290832519531] The hotel itself was average plus, but as I mentioned the location nails it.
+[0.9497804641723633] The hotel was reasonable value, and in a great location.
+[0.9460711479187012] The hotel was cute, trendy and in an amazing location.
+
+----- Weakening -----
+
+[-0.4028167724609375] I booked an upgraded King room with a view and ended up beside the elevator in a room that looked pretty dated and uninviting.
+[-0.38128662109375] If you're looking to stay at a big hi-rise in the middle of the hustle and bustle of downtown, then this place is not for you.
+[-0.2810821533203125] Initially ck'd into tiny dark room - no way!
+[-0.13440704345703125] Also, in this room there was no view, which for a prairie girl was a bit disappointing.
+[-0.13173866271972656] I have to say I was disappointed with the hotel.
+
+**********
+
+[0.5201263427734375] The rooms at the hotel are average or small.
+Parent: The rooms at the hotel are average or small in size, and some guests felt that the furniture in the rooms was too sparse or dated.
+
+----- Supporting -----
+
+[0.5201263427734375] The rooms are small but nice, the lobby is modern and inviting and the staff is friendly.
+[0.404632568359375] If you're looking for a smaller (decent sized) hotel with a relaxed environment (not to mention romantic), and is a 3 minute drive (5 minute water taxi ride) from downtown Vancouver, then this IS the hotel for you.
+[0.2351226806640625] We stayed overnight in one of the rooms which was on the small side, but beautiful views and excellent room service for breakfast the following morning.
+[0.23213958740234375] We stayed in room 319 which was of average size for the hotel.
+[0.21620941162109375] Otherwise, it is kind of a humble little hotel.
+
+----- Weakening -----
+
+[-0.9939718246459961] Big rooms with lots of windows.
+[-0.9932670593261719] The rooms are large, each with a small balcony and most have a view of the water.
+[-0.9757881164550781] The rooms themselves are spacious, we had a king-size bed, with a little balcony that looked out towards downtown.
+[-0.975377082824707] A beautiful large modern style room with lots of windows.
+[-0.9730968475341797] My kids thought they were in heaven with such a large suite.
+
+**********
+
+[0.2676830291748047] The furniture in the rooms was too sparse or dated.
+Parent: The rooms at the hotel are average or small in size, and some guests felt that the furniture in the rooms was too sparse or dated.
+
+----- Supporting -----
+
+[0.2676830291748047] I think the bathroom was recently reno'd and it was great, but the rest of the room was pretty ho-hum, and even a little run-down/old looking.
+[0.1407928466796875] The rooms are fairly well equipped, and on the surface look good, however the fittings when you look closely at them are not top quality, and will not last.
+[0.078857421875] Our only slightly negative comment was that the large kitchen area had plenty of wine glasses, but nothing else - no cutlery, no plates, etc.
+[0.06826972961425781] The rooms are small and sparsely furnished.
+[0.06784820556640625] No carpet on the floor, hardly any outlets and the bathroom was too small.
+
+----- Weakening -----
+
+[-0.9952540397644043] High end bathroom fixtures, comfortable bed with premium linens, free wifi.
+[-0.9948108196258545] All the rooms have been remodeled with nice big screen TVs, very comfortable beds and nice décor.
+[-0.9943010807037354] The hotel was well appointed, our room comfortable and decorated in a traditional style.
+[-0.9937360286712646] Secondly, the room was well equipped, the decor tasteful and the bed was extremely comfortable.
+[-0.9923677444458008] The rooms were well appointed.
+
+**********
+
+[0.972559928894043] The fittings in the rooms were not up to par.
+Parent: There were also some complaints about the quality of the fittings in the rooms, such as the shower fixtures.
+
+----- Supporting -----
+
+[0.972559928894043] The rooms are fairly well equipped, and on the surface look good, however the fittings when you look closely at them are not top quality, and will not last.
+[0.51690673828125] I think the bathroom was recently reno'd and it was great, but the rest of the room was pretty ho-hum, and even a little run-down/old looking.
+[0.48896217346191406] No carpet on the floor, hardly any outlets and the bathroom was too small.
+[0.42649269104003906] * The doors, wallpaper and carpets need to be redone.
+[0.30304718017578125] Oh, and the sauna was broken.
+
+----- Weakening -----
+
+[-0.9846420288085938] Secondly, the room was well equipped, the decor tasteful and the bed was extremely comfortable.
+[-0.9838027954101562] We find the hotel rooms well appointed and comfortable; the staff friendly and accomodating.
+[-0.9829483032226562] It had views of the harbour and the rooms were absolutely beautiful -- nice marble floors too.
+[-0.9825224876403809] Our room with king bed was incredibly comfortable, easy to temperature control, well-lit and well-equipped.
+[-0.9823999404907227] Our room was very quiet and well appointed.
+
+**********
+
+[0.0313568115234375] The shower fixtures were unsatisfactory.
+Parent: There were also some complaints about the quality of the fittings in the rooms, such as the shower fixtures.
+
+----- Supporting -----
+
+[0.0313568115234375] Oh, and the sauna was broken.
+[0.02634429931640625] The rooms are fairly well equipped, and on the surface look good, however the fittings when you look closely at them are not top quality, and will not last.
+[0.00032806396484375] I have to say I was disappointed with the hotel.
+[0.000202178955078125] No carpet on the floor, hardly any outlets and the bathroom was too small.
+[-0.0007953643798828125] That being said, my room was only okay.
+
+----- Weakening -----
+
+[-0.9736995697021484] We especially loved the modern shower with rainfall, massage, and regular options.
+[-0.9733219146728516] Best shower ...the bathroom was huge with an amazing huge ceiling shower head.
+[-0.9637594223022461] The rooms are clean and comfortable, the bathrooms very nice (love the shower!).
+[-0.9075813293457031] You won't be disappointed.
+[-0.8868141174316406] Bathrooms are super-luxorious.
+
+**********
+
+[0.8952789306640625] The hotel charges for local calls.
+Parent: Local calls are charged for at the hotel.
+
+----- Supporting -----
+
+[0.8952789306640625] And what kind of hotel charges for local calls?!
+[0.548553466796875] And the hotel is a $10 cab ride from downtown or you can take a water taxi to the edge of the downtown area.
+[-0.00388336181640625] We enjoyed a quick, one-night visit to Vancouver, and stayed at the Granville Island Hotel.
+[-0.004985809326171875] We spent two nights here and were not dissapointed.
+[-0.005229949951171875] Otherwise, it is kind of a humble little hotel.
+
+----- Weakening -----
+
+[-0.8416976928710938] Good points: Very welcoming atmosphere Room was very clean & well appointed Room service was promt & food was great same as restaurant Best Mini bar selection of my whole trip lots of local treats Very close to the great Granville Island Markets (1-2 min walk) Very good service from all staff Close to Aquabus which takes you into downtown Vancouver (a bit of a hike uphill to get into town) Free internet access for guests there is one computer in lobby so you somtimes have to wait for another guest to finish but it is rare to find free access The Beer brewed on site was pretty good Disappointing points: Was not on the pick up list for day trips but it is very quick & cheap trip into Vancouver to meet up with a trip.
+[-0.7230148315429688] The hotel brought in free pastries and coffee every morning, while the restaurant was being refurbished.
+[-0.5926246643066406] High end bathroom fixtures, comfortable bed with premium linens, free wifi.
+[-0.5536422729492188] Free wi-fi was accessed with ease and the bed was lavish.
+[-0.48368072509765625] The first night we were in a smaller room without a view, which was quite small, and upon request, they moved us the next morning to a larger room with a balcony and great view without any charges.
+
+**********
+
+[0.9876680374145508] The rooms are clean.
+Parent: The rooms are clean and comfortable, with good views.
+
+----- Supporting -----
+
+[0.9876680374145508] The good stuff: the rooms are clean and tidy.
+[0.986757755279541] The rooms are very clean, equipped with large flat screen TV and complimentary internet.
+[0.986687183380127] The rooms are VERY clean (very), and the bathrooms are quite luxurious.
+[0.9826474189758301] The rooms were very clean and comfortable.
+[0.9816703796386719] The rooms are clean and comfortable, the bathrooms very nice (love the shower!).
+
+----- Weakening -----
+
+[-0.9888801574707031] The room also had a weird smell.
+[-0.9868278503417969] I think the bathroom was recently reno'd and it was great, but the rest of the room was pretty ho-hum, and even a little run-down/old looking.
+[-0.9817037582397461] When we initially entered our room it became clear that animals had stayed in the room -- husband and son have bad animal allergies -- they moved us to another room.
+[-0.9744033813476562] Only room complaint was the old fashioned noisy A/C unit - noisy and musty smelling.
+[-0.9742298126220703] * The doors, wallpaper and carpets need to be redone.
+
+**********
+
+[0.9782218933105469] The rooms are comfortable.
+Parent: The rooms are clean and comfortable, with good views.
+
+----- Supporting -----
+
+[0.9782218933105469] The rooms are clean and comfortable, the bathrooms very nice (love the shower!).
+[0.9732813835144043] The rooms were very clean and comfortable.
+[0.9485931396484375] We find the hotel rooms well appointed and comfortable; the staff friendly and accomodating.
+[0.9465360641479492] Our room was most comfortable and with its amenities, left nothing to be desired This is simply a first class hotel.
+[0.8936777114868164] The hotel was well appointed, our room comfortable and decorated in a traditional style.
+
+----- Weakening -----
+
+[-0.8624114990234375] I think the bathroom was recently reno'd and it was great, but the rest of the room was pretty ho-hum, and even a little run-down/old looking.
+[-0.85296630859375] Only room complaint was the old fashioned noisy A/C unit - noisy and musty smelling.
+[-0.7871246337890625] No carpet on the floor, hardly any outlets and the bathroom was too small.
+[-0.7773590087890625] Initially ck'd into tiny dark room - no way!
+[-0.644317626953125] The rooms are quite small, which was a little tight with two kids and my wife and me.
+
+**********
+
+[0.8381500244140625] The views are good.
+Parent: The rooms are clean and comfortable, with good views.
+
+----- Supporting -----
+
+[0.8381500244140625] Generally this hotel has excellent service, is fantastic value, the restaurant is good with great views, but the best thing is that it just has a lovely relaxed and friendly atmosphere.
+[0.7946968078613281] we have a superior room but the view and location can't be beat.
+[0.6513290405273438] Most everything else about the hotel was great as well - the size of our room, the friendly staff, a great dinner and breakfast, again with outstanding views from the dining room.
+[0.6458606719970703] We stayed overnight in one of the rooms which was on the small side, but beautiful views and excellent room service for breakfast the following morning.
+[0.6291675567626953] The room itself was clean, the bathroom was very modern, and the views of the water/harbor were very pretty.
+
+----- Weakening -----
+
+[-0.9762382507324219] Also, in this room there was no view, which for a prairie girl was a bit disappointing.
+[-0.40191650390625] Bathrooms are super-luxorious.
+[-0.3135986328125] The bathroom was very nice.
+[-0.293304443359375] The only drawback could be room size as ours was only just adequate and the view was rather restricted.
+[-0.2091541290283203] I have to say I was disappointed with the hotel.
+
+**********
+
+[0.9755396842956543] The rooms were of a good size.
+Parent: They are of a good size, except for being a little small for five days.
+
+----- Supporting -----
+
+[0.9755396842956543] The hotel is very good, with decent sized rooms, great prices and excellent service!
+[0.9610795974731445] The bed was huge and the room a good size.
+[0.9284496307373047] Big rooms with lots of windows.
+[0.9246997833251953] The standard room was a good size, clean and attractive.
+[0.9154186248779297] The rooms are large, each with a small balcony and most have a view of the water.
+
+----- Weakening -----
+
+[-0.9581451416015625] Initially ck'd into tiny dark room - no way!
+[-0.9426803588867188] The room was so tiny we could hardly fit in it.
+[-0.92095947265625] As I said the rooms are too small for all that furniture.
+[-0.898162841796875] The rooms are incredibly small.
+[-0.857330322265625] The room was small and dark and old.
+
+**********
+
+[0.428955078125] The rooms are too small for five days.
+Parent: They are of a good size, except for being a little small for five days.
+
+----- Supporting -----
+
+[0.428955078125] My rating would have been 5 stars, except the room was quite small for two people 5 days, and the only view was over a roof and hvac unit.
+[0.0055789947509765625] The rooms are incredibly small.
+[2.6702880859375e-05] The rooms are small and sparsely furnished.
+[-0.002521514892578125] I accepted 211 but should have negotiated for a different room.
+[-0.003558635711669922] The hotel is located on Granville Island in the heart of Vancouver.
+
+----- Weakening -----
+
+[-0.9957711696624756] The rooms are large, each with a small balcony and most have a view of the water.
+[-0.9953700304031372] Our room was clean and large.
+[-0.9948248863220215] Big rooms with lots of windows.
+[-0.9943361282348633] A beautiful large modern style room with lots of windows.
+[-0.993854284286499] The room was very spacious with a lovely king size bed and nice toiletries, replenished daily.
+
+**********
+
+[0.9329280853271484] The rooms were very nice.
+Parent: The reviewers said that the rooms were very nice, with beautiful views, comfortable beds, and modern bathrooms.
+
+----- Supporting -----
+
+[0.9329280853271484] The room was beautiful, the staff were very pleasant and the food from the restiarant Downstairs was delicious.
+[0.9292316436767578] The room was very nice, clean and new, a tad on the small side, but fine.
+[0.9237937927246094] The rooms are clean and comfortable, the bathrooms very nice (love the shower!).
+[0.9126801490783691] The rooms were well appointed.
+[0.9045381546020508] Hotel was friendly, staff helpful, room lovely, bathroom really lovely, restaurant and bar great food and drink and service.
+
+----- Weakening -----
+
+[-0.9947090148925781] That being said, my room was only okay.
+[-0.9901332855224609] Also, in this room there was no view, which for a prairie girl was a bit disappointing.
+[-0.9900321960449219] I think the bathroom was recently reno'd and it was great, but the rest of the room was pretty ho-hum, and even a little run-down/old looking.
+[-0.9807806015014648] I booked an upgraded King room with a view and ended up beside the elevator in a room that looked pretty dated and uninviting.
+[-0.9069938659667969] Initially ck'd into tiny dark room - no way!
+
+**********
+
+[0.9449334144592285] The rooms have beautiful views.
+Parent: The reviewers said that the rooms were very nice, with beautiful views, comfortable beds, and modern bathrooms.
+
+----- Supporting -----
+
+[0.9449334144592285] We stayed overnight in one of the rooms which was on the small side, but beautiful views and excellent room service for breakfast the following morning.
+[0.8747091293334961] The room itself was clean, the bathroom was very modern, and the views of the water/harbor were very pretty.
+[0.8709774017333984] The room was beautiful and very spacious with amazing views of False Creek.
+[0.8653678894042969] It had views of the harbour and the rooms were absolutely beautiful -- nice marble floors too.
+[0.8599014282226562] we have a superior room but the view and location can't be beat.
+
+----- Weakening -----
+
+[-0.9956145286560059] Also, in this room there was no view, which for a prairie girl was a bit disappointing.
+[-0.9430465698242188] My rating would have been 5 stars, except the room was quite small for two people 5 days, and the only view was over a roof and hvac unit.
+[-0.7111673355102539] I have to say I was disappointed with the hotel.
+[-0.702728271484375] The only drawback could be room size as ours was only just adequate and the view was rather restricted.
+[-0.6512794494628906] Initially ck'd into tiny dark room - no way!
+
+**********
+
+[0.7797889709472656] The reviewers said that the beds were comfortable.
+Parent: The reviewers said that the rooms were very nice, with beautiful views, comfortable beds, and modern bathrooms.
+
+----- Supporting -----
+
+[0.7797889709472656] We find the hotel rooms well appointed and comfortable; the staff friendly and accomodating.
+[0.612152099609375] We were initially worried as our room was adjacent to the patio and we feared lots of noise, but it was quiet after 10 pm, the beds were great and we both a great sleep, and really enjoyed visiting the market before we left for Kelowna.
+[0.4999237060546875] Secondly, the room was well equipped, the decor tasteful and the bed was extremely comfortable.
+[0.39298248291015625] The pillows and bed were amazing; we slept better than ever!
+[0.19268417358398438] High end bathroom fixtures, comfortable bed with premium linens, free wifi.
+
+----- Weakening -----
+
+[-0.8815345764160156] While at the hotel we hosted a dinner for 30 people in the Dockside and everybody that I spoke with raved about the dinner,even the locals who had never been there are very keen to come back.
+[-0.8436660766601562] Our only slightly negative comment was that the large kitchen area had plenty of wine glasses, but nothing else - no cutlery, no plates, etc.
+[-0.825836181640625] Bathrooms are super-luxorious.
+[-0.8061676025390625] We especially loved the modern shower with rainfall, massage, and regular options.
+[-0.7161788940429688] Only room complaint was the old fashioned noisy A/C unit - noisy and musty smelling.
+
+**********
+
+[0.9800729751586914] The rooms had modern bathrooms.
+Parent: The reviewers said that the rooms were very nice, with beautiful views, comfortable beds, and modern bathrooms.
+
+----- Supporting -----
+
+[0.9800729751586914] The room itself was clean, the bathroom was very modern, and the views of the water/harbor were very pretty.
+[0.8772315979003906] They’re currently renovating all the bathrooms and the new look is beautiful; even nicer than the Hyatt Regency where I stayed a few days prior to this hotel.
+[0.8275146484375] High end bathroom fixtures, comfortable bed with premium linens, free wifi.
+[0.7526054382324219] We especially loved the modern shower with rainfall, massage, and regular options.
+[0.7456130981445312] The bathrooms in the newer section had more counter space to place personal toiletries.
+
+----- Weakening -----
+
+[-0.9398422241210938] No carpet on the floor, hardly any outlets and the bathroom was too small.
+[-0.8651313781738281] Oh, and the sauna was broken.
+[-0.8310527801513672] The room was small and dark and old.
+[-0.7893056869506836] We were told none were available.
+[-0.34814453125] Like the wonky shower head.
+
+**********
+
+[0.9755458831787109] The staff was friendly.
+Parent: They also said that the staff was friendly and helpful.
+
+----- Supporting -----
+
+[0.9755458831787109] The hotel is really nice and the staff are friendly and helpful.
+[0.9618473052978516] The rooms are small but nice, the lobby is modern and inviting and the staff is friendly.
+[0.9596118927001953] The room was beautiful, the staff were very pleasant and the food from the restiarant Downstairs was delicious.
+[0.955143928527832] Hotel was friendly, staff helpful, room lovely, bathroom really lovely, restaurant and bar great food and drink and service.
+[0.9479770660400391] Most everything else about the hotel was great as well - the size of our room, the friendly staff, a great dinner and breakfast, again with outstanding views from the dining room.
+
+----- Weakening -----
+
+[-0.8555374145507812] The hotel is in a great location but needs some serious updating, sound proofing and desk staff needs an attitude check towards guests.
+[-0.5381641387939453] We were told none were available.
+[-0.4565572738647461] I have to say I was disappointed with the hotel.
+[-0.26903533935546875] I'm assuming the previous occupant was a negligent pet owner and allowed their pet to do their business everywhere in the room.
+[-0.2135028839111328] We only have two comments - we were planning on a "nightcap" when we got back from the theatre on a Saturday night at 10:30 - only to discover that both the dining room and the lounge were closed at this early hour.
+
+**********
+
+[0.9747915267944336] The staff was helpful.
+Parent: They also said that the staff was friendly and helpful.
+
+----- Supporting -----
+
+[0.9747915267944336] Hotel was friendly, staff helpful, room lovely, bathroom really lovely, restaurant and bar great food and drink and service.
+[0.9741287231445312] The Hotel is easy to get to from the Airport, Check-in was smooth, and the staff was very helpful.
+[0.9692573547363281] The hotel is really nice and the staff are friendly and helpful.
+[0.9690284729003906] However the hotel is very nice, and the staff very helpful.
+[0.9302072525024414] First, I need to mention how helpful the folks at the front desk were.
+
+----- Weakening -----
+
+[-0.7506256103515625] The hotel is in a great location but needs some serious updating, sound proofing and desk staff needs an attitude check towards guests.
+[-0.40145111083984375] I have to say I was disappointed with the hotel.
+[-0.2730598449707031] We were told none were available.
+[-0.2274188995361328] We only have two comments - we were planning on a "nightcap" when we got back from the theatre on a Saturday night at 10:30 - only to discover that both the dining room and the lounge were closed at this early hour.
+[-0.17637252807617188] Just somewhere to sleep.

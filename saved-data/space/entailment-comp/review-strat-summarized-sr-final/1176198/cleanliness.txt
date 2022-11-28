@@ -1,0 +1,128 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.45484288533528644
+
+**********
+
+[0.6412429809570312] Some reviews were positive and some were negative.
+Parent: The reviews were mixed on the cleanliness of the hotel.
+
+----- Supporting -----
+
+[0.6412429809570312] Hotel rooms and restaurant = great "Valet" = brutal and ruined the whole stay.
+[0.1126708984375] Super clean..i mean there wasn't any dust...dirt, smudges...The (glass or plexiglass) partition for whirpool was so clean that it positively sparkled.
+[0.065185546875] Other than this terrible time getting checked in, this hotel was very good.
+[0.0619659423828125] Having the refridgerator and microwave is essential for us when traveling with our kids - so that was a plus.
+[0.0619659423828125] Having the refridgerator and microwave is essential for us when traveling with our kids - so that was a plus.
+
+----- Weakening -----
+
+[-0.7386131286621094] everything was super clean.
+[-0.0549468994140625] No frills, but clean clean clean.
+[-0.03436279296875] Free wi-fi!
+[-0.0320281982421875] Valet lost the key to our Mercedes Benz!
+[-0.0291290283203125] housekeeping was super here.
+
+**********
+
+[0.32395172119140625] The hotel was not clean.
+Parent: The reviews were mixed on the cleanliness of the hotel.
+
+----- Supporting -----
+
+[0.32395172119140625] We were there for 4 days/3 nights and every day we had to track down a maid to request clean towels.
+[0.2790374755859375] We requested to have a maid clean our bathroom and take the trash out, no one ever came!
+[0.2335357666015625] Hotel rooms and restaurant = great "Valet" = brutal and ruined the whole stay.
+[0.14048004150390625] However the carpet in the room had 2 stains.
+[0.127716064453125] When we arrived at room we had no sheets for pull out couch so we had to wait on housekeeping, who were friendly.
+
+----- Weakening -----
+
+[-0.9837417602539062] The lobby, pool area, rooms and hallway were all very clean.
+[-0.9755706787109375] Everything looked brand new and it was extremely clean.
+[-0.9753570556640625] everything was super clean.
+[-0.9685783386230469] housekeeping was super here.
+[-0.9598522186279297] Super clean..i mean there wasn't any dust...dirt, smudges...The (glass or plexiglass) partition for whirpool was so clean that it positively sparkled.
+
+**********
+
+[0.513554573059082] The room and hotel were clean.
+Parent: Some guests said that the room and hotel were very clean, while others noted that there were hairs in the tub and stains on the carpet.
+
+----- Supporting -----
+
+[0.513554573059082] The lobby, pool area, rooms and hallway were all very clean.
+[0.133941650390625] the Pool, while not large, was comfortable and clean, and the workout facilities were excellent.
+[0.1337451934814453] housekeeping was super here.
+[0.09954833984375] Housekeeping even stopped by to make sure we had everything we needed shortly after we arrived.
+[0.058441162109375] Super clean..i mean there wasn't any dust...dirt, smudges...The (glass or plexiglass) partition for whirpool was so clean that it positively sparkled.
+
+----- Weakening -----
+
+[-0.988800048828125] Hotel rooms and restaurant = great "Valet" = brutal and ruined the whole stay.
+[-0.9771614074707031] We requested to have a maid clean our bathroom and take the trash out, no one ever came!
+[-0.9700946807861328] However the carpet in the room had 2 stains.
+[-0.9566459655761719] We were there for 4 days/3 nights and every day we had to track down a maid to request clean towels.
+[-0.929351806640625] We were extremely inconvenienced (mother in law in hospital).
+
+**********
+
+[0.0075836181640625] The tub had hairs in it and the carpet had stains on it.
+Parent: Some guests said that the room and hotel were very clean, while others noted that there were hairs in the tub and stains on the carpet.
+
+----- Supporting -----
+
+[0.0075836181640625] However the carpet in the room had 2 stains.
+[0.0] Clean.
+[-4.38690185546875e-05] We requested to have a maid clean our bathroom and take the trash out, no one ever came!
+[-0.013034820556640625] When we arrived at room we had no sheets for pull out couch so we had to wait on housekeeping, who were friendly.
+[-0.016202926635742188] The clientele seemed to include a lot of people whose night was just starting when we were getting back from the play (the hotel is also near a lot of nightclubs).
+
+----- Weakening -----
+
+[-0.9706320762634277] everything was super clean.
+[-0.9451913833618164] The lobby, pool area, rooms and hallway were all very clean.
+[-0.9444780349731445] Super clean..i mean there wasn't any dust...dirt, smudges...The (glass or plexiglass) partition for whirpool was so clean that it positively sparkled.
+[-0.9424972534179688] That was noticeabley stellar clean..
+[-0.919924259185791] Everything looked brand new and it was extremely clean.
+
+**********
+
+[0.3403043746948242] The hotel is clean.
+Parent: Overall, it seems that the hotel is generally clean, but there may be some areas that need improvement.
+
+----- Supporting -----
+
+[0.3403043746948242] The lobby, pool area, rooms and hallway were all very clean.
+[0.25632476806640625] Super clean..i mean there wasn't any dust...dirt, smudges...The (glass or plexiglass) partition for whirpool was so clean that it positively sparkled.
+[0.1965789794921875] the Pool, while not large, was comfortable and clean, and the workout facilities were excellent.
+[0.18798446655273438] housekeeping was super here.
+[0.11754226684570312] Housekeeping even stopped by to make sure we had everything we needed shortly after we arrived.
+
+----- Weakening -----
+
+[-0.9273452758789062] Hotel rooms and restaurant = great "Valet" = brutal and ruined the whole stay.
+[-0.8536376953125] We requested to have a maid clean our bathroom and take the trash out, no one ever came!
+[-0.7816429138183594] However the carpet in the room had 2 stains.
+[-0.7635955810546875] We were there for 4 days/3 nights and every day we had to track down a maid to request clean towels.
+[-0.6154937744140625] We were extremely inconvenienced (mother in law in hospital).
+
+**********
+
+[0.9024200439453125] The hotel needs improvement.
+Parent: Overall, it seems that the hotel is generally clean, but there may be some areas that need improvement.
+
+----- Supporting -----
+
+[0.9024200439453125] All in all a great experience at the hotel...only thing they need to improve on is the wi-fi which really needs to be better than it was.
+[0.420257568359375] Clearly they need more than two valet guys working on a Sunday morning when everyone is checking out for the weekend There was a party going on at 1-2AM beside one of our rooms.
+[0.050811767578125] Hotel rooms and restaurant = great "Valet" = brutal and ruined the whole stay.
+[0.0150909423828125] There was also a very much needed laundry!
+[0.004150390625] The only cons about this hotel was that check-in and check-out was extremely slow.
+
+----- Weakening -----
+
+[-0.6013298034667969] Housekeeping even stopped by to make sure we had everything we needed shortly after we arrived.
+[-0.6009941101074219] housekeeping was super here.
+[-0.5018386840820312] The rooms are equal to anything Hilton offers, the fitness facility is first rate and the restaurant staff are friendly and attentive - to the right degree.
+[-0.4852275848388672] Super clean..i mean there wasn't any dust...dirt, smudges...The (glass or plexiglass) partition for whirpool was so clean that it positively sparkled.
+[-0.4793663024902344] everything was super clean.

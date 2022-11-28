@@ -1,0 +1,128 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.9363931020100912
+
+**********
+
+[0.7782421112060547] The building was in poor condition.
+Parent: The building was in poor condition, with dead bugs in the water, a hole in the wall, and chains on the doors.
+
+----- Supporting -----
+
+[0.7782421112060547] We would never go back to this property again, because of the condition of the property, and the bad oders.
+[0.6085968017578125] There were dead bugs floating in the water, a hole in the wall under the window, a piece of wood holding a slide glass door open, chains on other doors that said "this entrance is in need of repairs, sorry for any inconvenience" or something to that affect.
+[0.2825927734375] All 3 bldgs are old and need to be updated.. not with paint either...i mean gutted & refinished completely.
+[0.26346588134765625] It needs a lot of tender care to restore it back to it's original character.
+[0.175048828125] The walls are paper thin.
+
+----- Weakening -----
+
+[-0.9954733848571777] The landscape is lovely and the buildings are well kept and clean.
+[-0.9947805404663086] The facility was clean.
+[-0.9902744293212891] the characteristic of the furniture and art in the room was excellent.
+[-0.988349437713623] There was a gorgeous painting on the wall, the lovely arch made me feel like a real Geneviere of Camelot.
+[-0.987421989440918] The exterior is very well maintained.
+
+**********
+
+[0.9912376403808594] There were dead bugs in the water.
+Parent: The building was in poor condition, with dead bugs in the water, a hole in the wall, and chains on the doors.
+
+----- Supporting -----
+
+[0.9912376403808594] There were dead bugs floating in the water, a hole in the wall under the window, a piece of wood holding a slide glass door open, chains on other doors that said "this entrance is in need of repairs, sorry for any inconvenience" or something to that affect.
+[-0.002777099609375] The door could hardly clear the toilet.
+[-0.010882854461669922] I used the iron and when I pressed the steam button rusty water sprayed all over the shirt I was ironing.
+[-0.011023521423339844] Two buildings have indoor pools whereas the main building has the conference room/ breakfast area.
+[-0.012800216674804688] The lady at the front desk took our credit card and then the phone rang she held up her thumbs and mouthed " Your good to go" So we left the next day we went swimming and about 3:30 someone knocked on the door.
+
+----- Weakening -----
+
+[-0.9074230194091797] There was a gorgeous painting on the wall, the lovely arch made me feel like a real Geneviere of Camelot.
+[-0.8924217224121094] the characteristic of the furniture and art in the room was excellent.
+[-0.8752670288085938] You can see the new renovation and it is very nice.
+[-0.8349266052246094] there was one very small, round table and 2 small, straight back chairs.
+[-0.8143272399902344] The folks at the front desk had an answer for every question.
+
+**********
+
+[0.9454631805419922] There was a hole in the wall.
+Parent: The building was in poor condition, with dead bugs in the water, a hole in the wall, and chains on the doors.
+
+----- Supporting -----
+
+[0.9454631805419922] There were dead bugs floating in the water, a hole in the wall under the window, a piece of wood holding a slide glass door open, chains on other doors that said "this entrance is in need of repairs, sorry for any inconvenience" or something to that affect.
+[-0.000949859619140625] Seems to me the constructors of this building were not playing with a full deck.
+[-0.00605010986328125] We would never go back to this property again, because of the condition of the property, and the bad oders.
+[-0.0061798095703125] It needs a lot of tender care to restore it back to it's original character.
+[-0.006710052490234375] All 3 bldgs are old and need to be updated.. not with paint either...i mean gutted & refinished completely.
+
+----- Weakening -----
+
+[-0.8873977661132812] There was a gorgeous painting on the wall, the lovely arch made me feel like a real Geneviere of Camelot.
+[-0.602752685546875] The folks at the front desk had an answer for every question.
+[-0.5840377807617188] there was one very small, round table and 2 small, straight back chairs.
+[-0.26866912841796875] All roads to 76 were easily accessed.
+[-0.244140625] The landscape is lovely and the buildings are well kept and clean.
+
+**********
+
+[0.9461936950683594] The building had chains on the doors.
+Parent: The building was in poor condition, with dead bugs in the water, a hole in the wall, and chains on the doors.
+
+----- Supporting -----
+
+[0.9461936950683594] There were dead bugs floating in the water, a hole in the wall under the window, a piece of wood holding a slide glass door open, chains on other doors that said "this entrance is in need of repairs, sorry for any inconvenience" or something to that affect.
+[0.01149749755859375] Since this was right after Christmas there weren't many people staying there and half the property was closed off.
+[-0.0017337799072265625] Do not stay in the third building.
+[-0.004718780517578125] Our first two nights were spent at The Stone Castle.
+[-0.00798797607421875] DON'T STAY AT STONE CASTLE
+
+----- Weakening -----
+
+[-0.9144439697265625] All roads to 76 were easily accessed.
+[-0.8039627075195312] You can see the new renovation and it is very nice.
+[-0.7322921752929688] The landscape is lovely and the buildings are well kept and clean.
+[-0.6658897399902344] You could definitly tell that they put some time and money into the renovation.
+[-0.6250228881835938] I used the iron and when I pressed the steam button rusty water sprayed all over the shirt I was ironing.
+
+**********
+
+[0.9922056198120117] The fire alarms were disabled.
+Parent: The fire alarms were disabled and the musty odor was horrible.
+
+----- Supporting -----
+
+[0.9922056198120117] The fire alarms were all disabled throughout the entire hotel.
+[-0.01342010498046875] Since this was right after Christmas there weren't many people staying there and half the property was closed off.
+[-0.013751983642578125] However, when we went into the building....the musty odor was horrible, the lobby area was humid as if the air conditioning wasn't on, the elevator smelled musty.
+[-0.03318023681640625] Our first two nights were spent at The Stone Castle.
+[-0.041172027587890625] There are 3 different buildings in which one can stay, I found it confusing and the building we were in was the a long walk to the Front desk and where breakfast was.
+
+----- Weakening -----
+
+[-0.4135894775390625] The landscape is lovely and the buildings are well kept and clean.
+[-0.3742523193359375] The folks at the front desk had an answer for every question.
+[-0.36702728271484375] You can see the new renovation and it is very nice.
+[-0.326446533203125] All 3 bldgs are old and need to be updated.. not with paint either...i mean gutted & refinished completely.
+[-0.2869148254394531] The facility was clean.
+
+**********
+
+[0.9650163650512695] The musty odor was horrible.
+Parent: The fire alarms were disabled and the musty odor was horrible.
+
+----- Supporting -----
+
+[0.9650163650512695] However, when we went into the building....the musty odor was horrible, the lobby area was humid as if the air conditioning wasn't on, the elevator smelled musty.
+[0.06622695922851562] We would never go back to this property again, because of the condition of the property, and the bad oders.
+[-0.00360107421875] DON'T STAY AT STONE CASTLE
+[-0.003909111022949219] Do not stay in the third building.
+[-0.004227638244628906] The door could hardly clear the toilet.
+
+----- Weakening -----
+
+[-0.9943645000457764] The facility was clean.
+[-0.9943208694458008] The landscape is lovely and the buildings are well kept and clean.
+[-0.9749412536621094] You can see the new renovation and it is very nice.
+[-0.972679615020752] There was a gorgeous painting on the wall, the lovely arch made me feel like a real Geneviere of Camelot.
+[-0.9661364555358887] the characteristic of the furniture and art in the room was excellent.

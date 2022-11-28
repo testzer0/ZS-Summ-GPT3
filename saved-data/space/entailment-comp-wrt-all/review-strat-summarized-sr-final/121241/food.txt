@@ -1,0 +1,65 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.8199996948242188
+
+**********
+
+[0.8650741577148438] The food at the hotel was good.
+Parent: Overall, the food at the hotel was good, but there were some complaints about the availability of food and the quality of the food.
+
+----- Supporting -----
+
+[0.8650741577148438] Breakfast was very good; I am a relatively picky eater and I don't understand why other reviews complain about the breakfast, especially given the cost of this hotel.
+[0.686279296875] Hotel had a great breakfast.
+[0.5853004455566406] However, the rooms were clean enough, breakfast was fairly good and we enjoyed the location off the main strip.
+[0.5613956451416016] A good hot breakfast was included and the hotel was convenient to other Branson attractions.
+[0.5580463409423828] We go to Branson at least 3 times a year and we have stayed at many of the hotels and this one had the most comfortable beds and a great hot breakfast.
+
+----- Weakening -----
+
+[-0.9590950012207031] There was no restaurant, bar and the ATM did not work.
+[-0.91156005859375] They do not have room service, restaurant or bar.
+[-0.8677177429199219] The breakfast was very bland and the music show wasn't that great either.
+[-0.860107421875] The first time the hot tub was a little dirty and the breakfast not so great.
+[-0.6251325607299805] The room was filthy and disgusting!
+
+**********
+
+[0.819244384765625] There were not enough food options.
+Parent: Overall, the food at the hotel was good, but there were some complaints about the availability of food and the quality of the food.
+
+----- Supporting -----
+
+[0.819244384765625] Not too many healthy options, but they did have oatmeal.
+[0.6237068176269531] Flat screen TV with lots of channels, but no fridge or microwave.
+[0.4727897644042969] They do not have room service, restaurant or bar.
+[0.46414947509765625] Downfall no mini fridge or microwave.
+[0.4568023681640625] Its very much a budget based place without many frills.
+
+----- Weakening -----
+
+[-0.9814014434814453] We were close to lots of mini golf and restaurants.
+[-0.9813528060913086] This hotel was very comfortable, with a full buffet breakfast.
+[-0.9800472259521484] Full buffet breakfast was outstanding!
+[-0.9785661697387695] The free breakfast buffet in the morning was delicious and had a good variety.
+[-0.9773712158203125] They offered breakfast and it was much more than your average cereal and donuts.
+
+**********
+
+[0.7756805419921875] The food was not high quality.
+Parent: Overall, the food at the hotel was good, but there were some complaints about the availability of food and the quality of the food.
+
+----- Supporting -----
+
+[0.7756805419921875] The staff was great but the breakfast was not so great but is was good enough.
+[0.6501922607421875] Not too many healthy options, but they did have oatmeal.
+[0.5729522705078125] The breakfast was very bland and the music show wasn't that great either.
+[0.39127349853515625] The first time the hot tub was a little dirty and the breakfast not so great.
+[0.2921600341796875] Pluses: Good service, inexpensive, friendly, everything works, nice bath fixtures Negatives: the continental breakfast is kind of sad, but the hot breakfast isn't any better.
+
+----- Weakening -----
+
+[-0.9754810333251953] The places we had dinner "Montana Mikes" and " Florentina's" were both really good food and great service.
+[-0.9478034973144531] Full buffet breakfast was outstanding!
+[-0.9448184967041016] It was wonderful!
+[-0.9354095458984375] I have to give a shout out for Mary Ann and Tammy, who make our dining experiences, which is 3 times a day for 4 days, absolutely amazing!
+[-0.9349431991577148] It was great!

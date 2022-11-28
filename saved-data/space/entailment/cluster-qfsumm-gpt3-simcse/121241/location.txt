@@ -1,0 +1,42 @@
+***** Aspect: location Model Type : simcse *****
+Overall score: 0.9572228789329529
+
+**********
+
+[0.9821927547454834] The hotel is located just off the main road going through the Branson attractions, but is joined by many other hotels on the same road.
+
+----- Supporting -----
+
+[0.9821927547454834] The hotel is located just off the main road going through the Branson attractions but was joined by many other hotels on the same road.
+[0.6815608739852905] The hotel is centrally located in Branson.
+[0.6556142568588257] Too many nicer places to stay in Branson for the same price.
+[0.6459749341011047] The rooms are nice and the location is close enough to access everything we want to do in Branson, but off the strip so we can get to it quickly.
+[0.6252883672714233] It is very close to the outlet malls, Branson Landing, White Water, and not too far from Silver Dollar City.
+
+----- Weakening -----
+
+[-0.06830169260501862] We were celebrating our 22nd anniversary.
+[-0.06496041268110275] Thankfully I have a terrific family who handled these mistakes with grace and understanding.
+[-0.04981933534145355] The ice machines broke down and the third floor did not have and ice machine.
+[-0.04003008082509041] Her supervisor was sitting in the next room, saw and hear everything, and never came to the counter to see what was going on.
+[0.009305261075496674] This was by far the worst place I have ever attempted to stay!
+
+**********
+
+[0.9322530031204224] It is central to Branson's activities.
+
+----- Supporting -----
+
+[0.9322530031204224] It was central to Branson's activities.
+[0.9322530031204224] It was central to Branson's activities.
+[0.551196813583374] The hotel is centrally located in Branson.
+[0.426888644695282] Stone Castle is conveniently located on the yellow route for easy accessibility to Branson as well as Silver Dollar City.
+[0.4126819670200348] The location is great, distant enough to be quiet and close enough to enjoy all the activities offered in Branson.
+
+----- Weakening -----
+
+[-0.13005051016807556] The ice machines broke down and the third floor did not have and ice machine.
+[-0.12124063819646835] This was by far the worst place I have ever attempted to stay!
+[-0.09652747213840485] This place isn't fancy.
+[-0.09134897589683533] Upon arrival the girl at the front desk (Joy) said it only showed one of the two rooms reserved for us.
+[-0.08363115787506104] Thankfully I have a terrific family who handled these mistakes with grace and understanding.

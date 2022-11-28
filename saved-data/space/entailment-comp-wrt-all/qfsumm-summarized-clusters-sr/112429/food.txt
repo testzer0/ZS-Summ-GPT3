@@ -1,0 +1,107 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.9596389770507813
+
+**********
+
+[0.93035888671875] There is no breakfast restaurant.
+Parent: No breakfast no restaurant except an attached Asian food restaurant .
+
+----- Supporting -----
+
+[0.93035888671875] No breakfast no restaurant except an attached Asian food restaurant.
+[0.72308349609375] I like breakfast buffets, there isnâ€™t one in this hotel.
+[0.2655029296875] Instead of a mini-bar, there's a small refrigerator with two bottles of $2.50 water--drink from the tap instead.
+[0.03472900390625] The room was very dark at night and the beds were comfy, so we got a great night's sleep.
+[0.0242919921875] We retired to our room happy campers and, as mentioned, had a surprisingly excellent sleep.
+
+----- Weakening -----
+
+[-0.9985733032226562] Our package also included two complimentary breakfasts which were satisfying.
+[-0.9983658790588379] Off-lobby sushi restaurant also serves conventional breakfast, lively at night.
+[-0.9983344078063965] The breakfast (paid separately) in the restaurant Dragonfish CafÃ© at the hotel is limit priceworthy.
+[-0.9978504180908203] Rooms very nice and restaurant downstairs had great breakfast.
+[-0.9976997375488281] Only negative was the attached restaurant for breakfast.
+
+**********
+
+[0.9784479141235352] The hotel has an attached Asian food restaurant.
+Parent: No breakfast no restaurant except an attached Asian food restaurant .
+
+----- Supporting -----
+
+[0.9784479141235352] Restaurant (DragonFish) attached to the hotel serves awesome chinese food.
+[0.9691410064697266] I especially liked the Japanese restaurant attached to this hotel (not sure if it is part of the hotel), but it is open late and has a very well priced happy hour and late night happy hour.
+[0.9513435363769531] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[0.7925033569335938] I loved the pan-Asian restaurant in the hotel and ate their twice.
+[0.741668701171875] The only food available is from a Chinese restaurant that is in the hotel.
+
+----- Weakening -----
+
+[-0.498779296875] Bartell's drugstore with trial size toiletries next to Nordstroms.
+[-0.467041015625] I far rather prefer the individual bottles.
+[-0.4163970947265625] PLEASE don't give this awful chain your business!
+[-0.3924751281738281] Ok, it is bad.
+[-0.3497467041015625] Debit cards are just a plastic check and not a credit card.
+
+**********
+
+[0.9718046188354492] The food was great.
+Parent: The food was awesome and the prices are pretty good .
+
+----- Supporting -----
+
+[0.9718046188354492] The food was awesome and the prices are pretty good.
+[0.9284782409667969] Food and service were very good.
+[0.8683929443359375] The Happy Hour at the Dragonfish was exceptional - great prices, great food, great service.
+[0.8314666748046875] The restaurant (Dragonfish) has amazing food, and a wonderful happy hour small plates menu, though it can get quite busy, the hostess just took our room number and called us when our reservation was ready.
+[0.7851161956787109] We enjoyed dining at the Dragonfish restaurant for great food and reasonable pricing.
+
+----- Weakening -----
+
+[-0.9958295822143555] The room-service was way overpriced for mediocre food though.
+[-0.9883832931518555] hotel restaurant isn't very good, try others like palace kitchen, wild ginger, le pitchet.
+[-0.9854059219360352] The in-house restaurant is mediocre but not too pricey.
+[-0.9577827453613281] PLEASE don't give this awful chain your business!
+[-0.9529266357421875] I didn't try it, but it doesn't look appetizing.
+
+**********
+
+[0.9358329772949219] The prices are good.
+Parent: The food was awesome and the prices are pretty good .
+
+----- Supporting -----
+
+[0.9358329772949219] The food was awesome and the prices are pretty good.
+[0.852447509765625] The Happy Hour at the Dragonfish was exceptional - great prices, great food, great service.
+[0.8316154479980469] Good price point for such a prime location.
+[0.8300247192382812] Great pricing compared to other hotels near by.
+[0.7899551391601562] We enjoyed dining at the Dragonfish restaurant for great food and reasonable pricing.
+
+----- Weakening -----
+
+[-0.9624786376953125] And the price was too high for the quality of hotel and service.
+[-0.931610107421875] The room-service was way overpriced for mediocre food though.
+[-0.867279052734375] Overpriced though.
+[-0.8347015380859375] Your only option for room service (aside from breakfast) is overpriced -- tasty, but overpriced -- Asian cuisine from Dragonfish.
+[-0.794891357421875] The rooms for the price were not very good.
+
+**********
+
+[0.98175048828125] It cost $2.75 each way.
+Parent: It only cost me $ 2.75 each way .
+
+----- Supporting -----
+
+[0.98175048828125] It only cost me $2.75 each way.
+[0.9771575927734375] It's also really close to Westlake Station (2 blocks), so if you fly in/out and don't want to rent a car, this is a great option--only $2.75 per person each way.
+[0.7576141357421875] Laid back, nonintrusive hotel suitable for business or vacation stays, centrally located on Pine--3 blocks from Westlake, a block from the bus terminal ($2.75 airport transfers), and a block from Von's Martini and Manhattan Shrine, never to be missed.
+[0.62432861328125] travel time for USD 2.75.
+[0.0284423828125] At $24 a night it seemed a bit pricey, but all in all we thoroughly enjoyed ourselves.
+
+----- Weakening -----
+
+[-0.946624755859375] I had Sake for $1.
+[-0.8531451225280762] Free wi-fi.
+[-0.827850341796875] We were also provided with free Wifi, which was great!
+[-0.813934326171875] On the free bus line.
+[-0.7664604187011719] And don't pay more than $129/night for a room, there are better deals out there in the higher price range.

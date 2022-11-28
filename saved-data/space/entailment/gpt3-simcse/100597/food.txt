@@ -1,0 +1,82 @@
+***** Aspect: food Model Type : simcse *****
+Overall score: 0.9063625186681747
+
+**********
+
+[0.805322527885437] The food at the hotel was good, although it was a bit pricey.
+
+----- Supporting -----
+
+[0.805322527885437] We tried the hotel restaurants and the food was quite good.
+[0.8050654530525208] The food was good although a bit pricey.
+[0.8043654561042786] That worked well for me since the food at the hotel is fairly pricey.
+[0.7632836103439331] Food was good, but a bit overpriced.
+[0.7529830932617188] The not so good news - food at the hotel was OK.
+
+----- Weakening -----
+
+[0.08593989163637161] What a rip-off!
+[0.1389307826757431] I love the big warm cookies in the evening.
+[0.14079612493515015] Warm cookies when you arrive.
+[0.15635831654071808] I loved that the heating system was quiet.
+[0.1585208773612976] As others have mentioned as well, who's night is not made better when checking in and receiving a warm cookie?
+
+**********
+
+[0.9988700151443481] The hotel reception had a lovely smell of freshly baked cookies, which were given out at check-in and were delicious.
+
+----- Supporting -----
+
+[0.9988700151443481] The hotel reception had a lovely smell of freshly baked cookies which were given out at check in and were delicious.
+[0.8140708208084106] They did have warm cookies at check-in.
+[0.7587258219718933] --Cookies at check in were good.
+[0.7495019435882568] On the plus side, we got warm cookies upon check-in.
+[0.7327941656112671] This plus we luv their complimentary cookies that they offer upon check-in.
+
+----- Weakening -----
+
+[-0.017676450312137604] It is hard to find fault at that price, and I won't.
+[0.0018948167562484741] What a rip-off!
+[0.07964889705181122] We cannot comment on the value, as our price was included in our group travel, so Iwe're sure it was a group or discounted rate.
+[0.10505378246307373] Burger, soda and tip $21.00.
+[0.10632549226284027] So a burger and soup were $32, and it was a very.
+
+**********
+
+[0.8245270252227783] The food was very expensive in the restaurant, but the choice of food was excelent.
+
+----- Supporting -----
+
+[0.8245270252227783] The food was good although a bit pricey.
+[0.7735622525215149] Food was very expensive in restaurant and just okay.
+[0.7650104761123657] Food was good, but a bit overpriced.
+[0.7204006910324097] Choice of food was excelent.
+[0.6101377010345459] The food was a little expensive-$13 for a burger and $12 for an omelette alone.
+
+----- Weakening -----
+
+[-0.0038631530478596687] As others have mentioned as well, who's night is not made better when checking in and receiving a warm cookie?
+[0.058180633932352066] Warm cookies when you arrive.
+[0.07048897445201874] What a rip-off!
+[0.08016938716173172] I love the big warm cookies in the evening.
+[0.095969557762146] The coffee bar in the lobby was handy, too!
+
+**********
+
+[0.9967305064201355] The food was good, but a bit overpriced.
+
+----- Supporting -----
+
+[0.9967305064201355] Food was good, but a bit overpriced.
+[0.9678696393966675] The food was good although a bit pricey.
+[0.8176743984222412] Food was very expensive in restaurant and just okay.
+[0.7408287525177002] The food was a little expensive-$13 for a burger and $12 for an omelette alone.
+[0.6759129762649536] Restaurant food was excellent and reasonably priced and breakfast was good.
+
+----- Weakening -----
+
+[0.10298219323158264] As others have mentioned as well, who's night is not made better when checking in and receiving a warm cookie?
+[0.11037210375070572] The coffee bar in the lobby is great and opens at 5.
+[0.11409999430179596] I loved that the heating system was quiet.
+[0.14807471632957458] Warm cookies when you arrive.
+[0.17068585753440857] 75.00 (not including taxes) for a full day stay.

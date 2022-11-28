@@ -1,0 +1,107 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.46691141128540037
+
+**********
+
+[0.0743560791015625] This hotel is not as good as the 3 star hotels down the street.
+Parent: There are 3 and 4 star hotels just down the street from this one , and half the price .
+
+----- Supporting -----
+
+[0.0743560791015625] There are 3 and 4 star hotels just down the street from this one, and half the price.
+[-0.007450103759765625] Concierge lounge nibbles in the evening were a little disappointing, but the staff were friendly (I think this area used to be the old steak house).
+[-0.0077152252197265625] At over $250 a night, that's not too good.
+[-0.008855819702148438] We didn't eat at the steak bar though.
+[-0.009233474731445312] I can't comment on the food or drinks offered at the hotel as we did not order anything at the restaurant or room service - it was pretty expensive.
+
+----- Weakening -----
+
+[-0.28205108642578125] asking if she had some band aids or knew of a shoppers super close by.
+[-0.21864891052246094] During the conference, the food/service department did a fantastic job with meals.
+[-0.18929290771484375] It think it may also be the most expensive of all of the Toronto Marriott hotels.
+[-0.18912887573242188] I bought croissants, a pastry and some fruit.
+[-0.1437225341796875] You may have a difficult fit.
+
+**********
+
+[0.3427734375] This hotel is not as good as the others down the street.
+Parent: There are 3 and 4 star hotels just down the street from this one , and half the price .
+
+----- Supporting -----
+
+[0.3427734375] There are 3 and 4 star hotels just down the street from this one, and half the price.
+[0.007058143615722656] At over $250 a night, that's not too good.
+[0.0035800933837890625] Don't eat at the hotel.
+[0.0010128021240234375] Concierge lounge nibbles in the evening were a little disappointing, but the staff were friendly (I think this area used to be the old steak house).
+[-0.000335693359375] Food presentation was fancy, but the food didn't taste very good.
+
+----- Weakening -----
+
+[-0.7224607467651367] During the conference, the food/service department did a fantastic job with meals.
+[-0.4631061553955078] We never went hungry and the quality of the food was excellent.
+[-0.4381217956542969] The meal itself was extremely good, it is well worth your money to have a meal there, you won't be disappointed.
+[-0.3984565734863281] The food was excellent.
+[-0.3811149597167969] They even have a juicer with prepared vegetables that you can juice, cold deli meats and cheeses, omelet station, typical hot foods section, compotes,oatmeals, breads, etc.
+
+**********
+
+[0.933197021484375] The hotels down the street are cheaper.
+Parent: There are 3 and 4 star hotels just down the street from this one , and half the price .
+
+----- Supporting -----
+
+[0.933197021484375] There are 3 and 4 star hotels just down the street from this one, and half the price.
+[-0.0005817413330078125] I got a discounted rate because I am a Marriott rewards member which made it worth it.
+[-0.0008411407470703125] At over $250 a night, that's not too good.
+[-0.0014047622680664062] I can't comment on the food or drinks offered at the hotel as we did not order anything at the restaurant or room service - it was pretty expensive.
+[-0.001949310302734375] And for this we paid fancy hotel restaurant prices - ugh!
+
+----- Weakening -----
+
+[-0.17198562622070312] asking if she had some band aids or knew of a shoppers super close by.
+[-0.16285324096679688] During the conference, the food/service department did a fantastic job with meals.
+[-0.11362075805664062] I bought croissants, a pastry and some fruit.
+[-0.1053619384765625] You may have a difficult fit.
+[-0.08346176147460938] They even have a juicer with prepared vegetables that you can juice, cold deli meats and cheeses, omelet station, typical hot foods section, compotes,oatmeals, breads, etc.
+
+**********
+
+[0.9881863594055176] The food was excellent.
+Parent: The food was excellent .
+
+----- Supporting -----
+
+[0.9881863594055176] The food was excellent.
+[0.9639906883239746] We never went hungry and the quality of the food was excellent.
+[0.9487361907958984] Food was good and service from all of the staff was extremely professional.
+[0.9355440139770508] The meal itself was extremely good, it is well worth your money to have a meal there, you won't be disappointed.
+[0.8990259170532227] We had breakfast and lunch at the Parkside restaurant in the hotel, the food was of a very high standard, and children less than three eat free ( it costs $7.95 for children over three for the breakfast buffet).
+
+----- Weakening -----
+
+[-0.9973726272583008] Food presentation was fancy, but the food didn't taste very good.
+[-0.9968085289001465] We are NOT demanding restaurant a patrons, but both the food and the service was poor.
+[-0.9895401000976562] Concierge lounge nibbles in the evening were a little disappointing, but the staff were friendly (I think this area used to be the old steak house).
+[-0.9850015640258789] I can't comment on the food or drinks offered at the hotel as we did not order anything at the restaurant or room service - it was pretty expensive.
+[-0.9667544364929199] Didn't eat there.
+
+**********
+
+[-0.003955841064453125] The Toronto Marriott hotels are more expensive than this one.
+Parent: It think it may also be the most expensive of all of the Toronto Marriott hotels .
+
+----- Supporting -----
+
+[-0.003955841064453125] Didn't eat there.
+[-0.005471229553222656] At over $250 a night, that's not too good.
+[-0.0060253143310546875] If the price was right, I would go back.
+[-0.010951995849609375] We didn't eat at the steak bar though.
+[-0.012495040893554688] The rooms are large and the food in the dining room is decent enough.
+
+----- Weakening -----
+
+[-0.41454315185546875] There are 3 and 4 star hotels just down the street from this one, and half the price.
+[-0.40673828125] It think it may also be the most expensive of all of the Toronto Marriott hotels.
+[-0.14804840087890625] I bought croissants, a pastry and some fruit.
+[-0.12976837158203125] asking if she had some band aids or knew of a shoppers super close by.
+[-0.0921478271484375] During the conference, the food/service department did a fantastic job with meals.

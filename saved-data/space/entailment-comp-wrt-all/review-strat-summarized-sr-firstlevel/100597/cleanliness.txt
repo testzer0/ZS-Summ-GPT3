@@ -1,0 +1,359 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.8343050900627585
+
+**********
+
+[0.9896502494812012] The hotel was clean.
+Parent: The reviewers seemed to think that the hotel was clean overall.
+
+----- Supporting -----
+
+[0.9896502494812012] The hotel was clean, beds were fine, hotel is located across the street from the air port, was within walking distance to a Denny's, Jack in the Box, and a steak place.
+[0.9872698783874512] The Hotel was clean, great staff, was greeted with hot fresh cookies at the check-in counter.
+[0.9832820892333984] The hotel was nice; good clean rooms.
+[0.9815225601196289] This hotel is clean, neat and offers good value for the money.
+[0.9575014114379883] My room and bathroom were both very clean and the service at the hotel was friendly, The check in process could be slow and it would be helpful if the airline crews were not given first priority to jump in front of everyone waiting.
+
+----- Weakening -----
+
+[-0.996180534362793] When we found our room we discovered that the bathroom hadn't been cleaned and there were dirty towels lying around.
+[-0.9951038360595703] The bathroom was dirty and stained.
+[-0.9944906234741211] This property is a mess.
+[-0.9943456649780273] Upon further inspection of the room, the older bathroom wood doors were dirty from years of use-these "Hilton Honors" rooms really need refurbishing.
+[-0.9941530227661133] It was so liquified that it spilled all over my hand and burned me terribly.
+
+**********
+
+[0.9276237487792969] The hotel was not clean.
+Parent: It seems that the cleanliness of the hotel was not up to par, as there were reports of cigarette butts and mildew around the property.
+
+----- Supporting -----
+
+[0.9276237487792969] But the bathroom was not so clean and it's a huge let-down for a hotel like this to be so neglected.
+[0.8844451904296875] This is a pretty rundown hotel.
+[0.824920654296875] The shuttle was hot and smelly again and people were mad.
+[0.813201904296875] The hotel has seen its newer days: the carpets are threadbare in some spots and the cement balconies are noticeably empty of furniture.
+[0.7483367919921875] I was informed that entire floor was currently being re-furbished and there were no rooms of that quality available.
+
+----- Weakening -----
+
+[-0.9885177612304688] This hotel is clean, neat and offers good value for the money.
+[-0.9868583679199219] The Hotel was clean, great staff, was greeted with hot fresh cookies at the check-in counter.
+[-0.9849700927734375] The hotel was clean, beds were fine, hotel is located across the street from the air port, was within walking distance to a Denny's, Jack in the Box, and a steak place.
+[-0.9840850830078125] Easy to reach, very clean and well-appointed rooms.
+[-0.9832706451416016] My room and bathroom were both very clean and the service at the hotel was friendly, The check in process could be slow and it would be helpful if the airline crews were not given first priority to jump in front of everyone waiting.
+
+**********
+
+[0.9708080291748047] The property was not clean.
+Parent: It seems that the cleanliness of the hotel was not up to par, as there were reports of cigarette butts and mildew around the property.
+
+----- Supporting -----
+
+[0.9708080291748047] This property is a mess.
+[0.9304885864257812] It looks nice on the outside,, but inside it is very shabby and used.
+[0.9162769317626953] But the bathroom was not so clean and it's a huge let-down for a hotel like this to be so neglected.
+[0.8863410949707031] The room was okay, but not as clean as one would expect.
+[0.8847770690917969] The shuttle was hot and smelly again and people were mad.
+
+----- Weakening -----
+
+[-0.986114501953125] Easy to reach, very clean and well-appointed rooms.
+[-0.9831352233886719] The Hotel was clean, great staff, was greeted with hot fresh cookies at the check-in counter.
+[-0.9825897216796875] This hotel is clean, neat and offers good value for the money.
+[-0.9816818237304688] The rooms were very clean and the staff was very nice.
+[-0.9813728332519531] Newer furniture, very comfortable bed with nice linens, two large sink areas and super clean.
+
+**********
+
+[0.1209564208984375] The check-in process was too long.
+Parent: Some guests also felt that the check-in process was too long and that the staff was not very helpful.
+
+----- Supporting -----
+
+[0.1209564208984375] We wanted to carry our own luggage and got tired of the bell hops asking if they could take it for us.
+[0.0919036865234375] Waited forever to be seated and there were only 3 others in the place.
+[0.08903121948242188] Our room was in the farthest section of the hotel, and tedious to get into to, and by the time we got settled it was too much trouble to go out to eat.
+[0.08371353149414062] I had to trek all the way to the front-desk from out tower location (to have key re-coded) only to f ind it did not resolve issue.
+[0.0384521484375] But the nightmare wasn't over, then it took three more tries to get a room with a non-rattling heater and sliding doors that sealed and did not let the traffic noise in.
+
+----- Weakening -----
+
+[-0.9973015785217285] Check in was very quick and was assigned a two queen room in the tower.
+[-0.9967536926269531] Check-in was friendly and quick, and one receives a nice warm chocolate chip cookie along with the room key.
+[-0.9957616329193115] Check in was easy and the cookies were nice.
+[-0.9952595233917236] Considering over a hundred people turned up at the same time due to the cancelled flight the check in was very quick.
+[-0.9928629398345947] Check In went very smooth, and we were upgraded to a very large suite at that time!
+
+**********
+
+[0.9237327575683594] The staff was not very helpful.
+Parent: Some guests also felt that the check-in process was too long and that the staff was not very helpful.
+
+----- Supporting -----
+
+[0.9237327575683594] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+[0.9183158874511719] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[0.7907981872558594] When we tried to leave, our paid parking pass wouldn't register to let us out of the parking lot, and there were no attendants handy, so we were late returning our rental car :( -- I'm thankful we didn't get dinged on that.
+[0.6846790313720703] Waitress never brought the items we requested and the order was askew.
+[0.5878143310546875] The service at the hotel coffee shop was really slow and the waiter seemed really bothered by having to come to our table to see what we wanted.
+
+----- Weakening -----
+
+[-0.9971733093261719] The staff was very helpful with all my business and pesonal needs.
+[-0.9965219497680664] The hotel staff was courteous and very helpful with our questions.
+[-0.9964199066162109] The staff people were really helpful and nice.
+[-0.9960575103759766] The staff were very accomodating and I loved the chocolate chip cookie at check in.
+[-0.9959211349487305] All staff were very courteous and helpful.
+
+**********
+
+[0.9896502494812012] The hotel was clean.
+Parent: The reviews said that the hotel was clean, except for a stain on the carpet.
+
+----- Supporting -----
+
+[0.9896502494812012] The hotel was clean, beds were fine, hotel is located across the street from the air port, was within walking distance to a Denny's, Jack in the Box, and a steak place.
+[0.9872698783874512] The Hotel was clean, great staff, was greeted with hot fresh cookies at the check-in counter.
+[0.9832820892333984] The hotel was nice; good clean rooms.
+[0.9815225601196289] This hotel is clean, neat and offers good value for the money.
+[0.9575014114379883] My room and bathroom were both very clean and the service at the hotel was friendly, The check in process could be slow and it would be helpful if the airline crews were not given first priority to jump in front of everyone waiting.
+
+----- Weakening -----
+
+[-0.996180534362793] When we found our room we discovered that the bathroom hadn't been cleaned and there were dirty towels lying around.
+[-0.9951038360595703] The bathroom was dirty and stained.
+[-0.9944906234741211] This property is a mess.
+[-0.9943456649780273] Upon further inspection of the room, the older bathroom wood doors were dirty from years of use-these "Hilton Honors" rooms really need refurbishing.
+[-0.9941530227661133] It was so liquified that it spilled all over my hand and burned me terribly.
+
+**********
+
+[0.30638885498046875] The hotel has a stain on the carpet.
+Parent: The reviews said that the hotel was clean, except for a stain on the carpet.
+
+----- Supporting -----
+
+[0.30638885498046875] Wall paper peeling off walls in different places, light bulb not replaced in room and carpet stained.
+[0.274993896484375] The room to which I was initially assigned had a broken lamp and a rip in the carpet.
+[0.201416015625] The hotel has seen its newer days: the carpets are threadbare in some spots and the cement balconies are noticeably empty of furniture.
+[0.08153152465820312] There was a stain on the carpet but otherwise it was clean and well maintained.
+[0.026515960693359375] Carpet was old as were the other furnishings.
+
+----- Weakening -----
+
+[-0.8932151794433594] The rooms are always clean, the beds great, bedding and bath linens top notch.
+[-0.7932586669921875] This hotel is clean, neat and offers good value for the money.
+[-0.7496814727783203] Easy to reach, very clean and well-appointed rooms.
+[-0.6879539489746094] Newer furniture, very comfortable bed with nice linens, two large sink areas and super clean.
+[-0.6743850708007812] The rooms are clean and nicely appointed.
+
+**********
+
+[0.9687590599060059] The staff was great.
+Parent: They also said that the staff was great.
+
+----- Supporting -----
+
+[0.9687590599060059] The staff are wonderful!
+[0.9515810012817383] The check-in was wonderful, the staff great, and the hotel itself was nice.
+[0.9498672485351562] All the staff we interacted with were great.
+[0.9385862350463867] The staff are exceptional and the quality without question.
+[0.9374370574951172] The restaurant and bar restaurant are better than average and again great staff.
+
+----- Weakening -----
+
+[-0.9976439476013184] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+[-0.9944887161254883] We experienced this poor attitude with a few other staff members within the hotel.
+[-0.9903631210327148] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[-0.9834613800048828] When we tried to leave, our paid parking pass wouldn't register to let us out of the parking lot, and there were no attendants handy, so we were late returning our rental car :( -- I'm thankful we didn't get dinged on that.
+[-0.9824600219726562] --Restaurant staff seemed to be overwhelmed during breakfast, so they fell behind a bit.
+
+**********
+
+[0.9881768226623535] The hotel is clean.
+Parent: The reviews suggest that the hotel is clean and well-kept, with friendly and helpful staff.
+
+----- Supporting -----
+
+[0.9881768226623535] This hotel is clean, neat and offers good value for the money.
+[0.9816269874572754] The hotel was clean, beds were fine, hotel is located across the street from the air port, was within walking distance to a Denny's, Jack in the Box, and a steak place.
+[0.9768252372741699] The Hotel was clean, great staff, was greeted with hot fresh cookies at the check-in counter.
+[0.9594392776489258] The hotel was nice; good clean rooms.
+[0.9295387268066406] Yes, the hotel is large and somewhat dated - but the cleanliness and service is very goo d. My only blip was with a faulty magnetic door reader that prevented us from gaining access to our room.
+
+----- Weakening -----
+
+[-0.9945964813232422] The crappy wings are old and the rooms smell musty.
+[-0.9944934844970703] This property is a mess.
+[-0.992060661315918] When we found our room we discovered that the bathroom hadn't been cleaned and there were dirty towels lying around.
+[-0.9918718338012695] It was so liquified that it spilled all over my hand and burned me terribly.
+[-0.9905405044555664] The bathroom was dirty and stained.
+
+**********
+
+[0.4245758056640625] The hotel is well-kept.
+Parent: The reviews suggest that the hotel is clean and well-kept, with friendly and helpful staff.
+
+----- Supporting -----
+
+[0.4245758056640625] This hotel is clean, neat and offers good value for the money.
+[0.421661376953125] The Hotel was clean, great staff, was greeted with hot fresh cookies at the check-in counter.
+[0.402313232421875] The hotel was nice; good clean rooms.
+[0.32427978515625] The hotel was clean, beds were fine, hotel is located across the street from the air port, was within walking distance to a Denny's, Jack in the Box, and a steak place.
+[0.2834014892578125] Well appointed, clean, convenient to airport and travels south of Seattle However, we were not informed by Priceline when we made resesrvations that hotel guests are charged $16/day +tax of $1.52 to park in the HUGE hotel parking lot.
+
+----- Weakening -----
+
+[-0.9915595054626465] This property is a mess.
+[-0.9823684692382812] The good: large room, food at the restaurants (especially the clam chowder), bed, view from the elevators, service, shuttle every 20 minutes to and from the airport (5 minutes away) The bad: the insulation for the windows is awful, so the hotel is extremely noisy at night (at least if you are facing the airport): airplanes, busy airport boulevard, rooftop with furnaces/chillers etc.
+[-0.9742336273193359] But the bathroom was not so clean and it's a huge let-down for a hotel like this to be so neglected.
+[-0.9513483047485352] When we found our room we discovered that the bathroom hadn't been cleaned and there were dirty towels lying around.
+[-0.949310302734375] The crappy wings are old and the rooms smell musty.
+
+**********
+
+[0.9500980377197266] The reviews suggest that the hotel staff is friendly and helpful.
+Parent: The reviews suggest that the hotel is clean and well-kept, with friendly and helpful staff.
+
+----- Supporting -----
+
+[0.9500980377197266] For an airport hotel, it was surprisingly quiet, rooms were extremely comfortable and well prepared, and the staff were all extremely helpful and courteous.
+[0.8887062072753906] Pros - Very close to airport, very quiet rooms (you cant hear the airplanes taking off even though it is right across from the airport), friendly staff, VERY comfortable beds with lots of pillows, large rooms, ice and vending machines close to all rooms, nicely appointed bathrooms, free shuttle (runs every 20 min, no reservation needed), convenience store on site, ATM, warm cookies on check in.
+[0.7993011474609375] OUR overall stay was great, would have been nice to have no feathered pillows , not having a MICROWAVE,REFRIDG not cool, they charge each day for a roll away bed they said they would accomumdate for up to five in one room stayed three days so used blankets on the floor for the two boys I requested four blanket but had to go down to argue after only getting one they charge for wi-fi in room, LOBBY FREE- charge for daily parking no continuial breakfast without charging all these should change I called on phone for the entertainment book checking in nope they dont take it close to many places to eat,bank and even small cascino the airport close yes somewhat noisy but hey what one is not only during day time night time very quiet staff quiet friendly HOUSEKEEPING WONDERFUL yes i would recommend this hotel to others it'sa nice place is great for summer as with pool only on outsde .
+[0.6923446655273438] My room and bathroom were both very clean and the service at the hotel was friendly, The check in process could be slow and it would be helpful if the airline crews were not given first priority to jump in front of everyone waiting.
+[0.5293235778808594] The hotel employees were very polite and most efficient: we were on our way to our room within 30 seconds, warm cookies in hand.
+
+----- Weakening -----
+
+[-0.9936189651489258] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+[-0.9385528564453125] We experienced this poor attitude with a few other staff members within the hotel.
+[-0.9339313507080078] Have stayed at cheaper hotels with park n fly and they are always scary!
+[-0.9290494918823242] This property is a mess.
+[-0.8983612060546875] I'm surprised at the negative reviews, I'm a regular Priceline customer, staying at the Doubletree usually once a month and have never had a bad experience.
+
+**********
+
+[0.8267593383789062] The wifi was not good.
+Parent: There were some issues with the wifi and the printer, but overall guests seemed to enjoy their stay.
+
+----- Supporting -----
+
+[0.8267593383789062] Unfortunately there was no wifi and the parking was $16 per night - expensive for the area.
+[0.58624267578125] The internet fees are a HUGE scam-- $12-$15 for 24 hours.
+[0.24554443359375] It was so liquified that it spilled all over my hand and burned me terribly.
+[0.231353759765625] The shuttle was hot and smelly again and people were mad.
+[0.174224853515625] (and no in room wireless).
+
+----- Weakening -----
+
+[-0.9381370544433594] Internet is free if you have HH Gold and works well.
+[-0.9276885986328125] Especially with the shuttle service.
+[-0.9257354736328125] It seemed to ALWAYS be running, and was very convenient.
+[-0.9157257080078125] The staff are exceptional and the quality without question.
+[-0.903350830078125] Shuttle service is very quick and so great!
+
+**********
+
+[0.8747997283935547] The printer was not working properly.
+Parent: There were some issues with the wifi and the printer, but overall guests seemed to enjoy their stay.
+
+----- Supporting -----
+
+[0.8747997283935547] Printer didn't work but able to check in for flight.
+[0.0860595703125] I also used the business center, but the computers were slow and ran an old version of software; one printer worked but the other didn't.
+[0.0748291015625] They discovered faulty battery problem and reset.
+[0.053768157958984375] For those using the hotel to fly there are shuttles, flight info, and a kiosk to print out boarding passes (although it did not work for me).
+[0.0370941162109375] I had to trek all the way to the front-desk from out tower location (to have key re-coded) only to f ind it did not resolve issue.
+
+----- Weakening -----
+
+[-0.8499546051025391] It seemed to ALWAYS be running, and was very convenient.
+[-0.7510080337524414] It was fine.
+[-0.7507362365722656] Love the warm chocolate chips cookies and the service has always been outstanding.
+[-0.7439126968383789] Having the printer in the lobby to print your boarding pass was really convenient.
+[-0.7412605285644531] Great friendly staff took the edge off our long day of intercontinental travel.
+
+**********
+
+[0.9494171142578125] Overall, guests enjoyed their stay.
+Parent: There were some issues with the wifi and the printer, but overall guests seemed to enjoy their stay.
+
+----- Supporting -----
+
+[0.9494171142578125] Overall,it was a very pleasant stay at a very nice property.
+[0.9381446838378906] We've stayed in this hotel three times in the past 2 years and overall we've been very satisfied.
+[0.9147205352783203] OUR overall stay was great, would have been nice to have no feathered pillows , not having a MICROWAVE,REFRIDG not cool, they charge each day for a roll away bed they said they would accomumdate for up to five in one room stayed three days so used blankets on the floor for the two boys I requested four blanket but had to go down to argue after only getting one they charge for wi-fi in room, LOBBY FREE- charge for daily parking no continuial breakfast without charging all these should change I called on phone for the entertainment book checking in nope they dont take it close to many places to eat,bank and even small cascino the airport close yes somewhat noisy but hey what one is not only during day time night time very quiet staff quiet friendly HOUSEKEEPING WONDERFUL yes i would recommend this hotel to others it'sa nice place is great for summer as with pool only on outsde .
+[0.7948970794677734] Overall, a great stay.
+[0.7189407348632812] All in all, a nice place to stay before or after the flight.
+
+----- Weakening -----
+
+[-0.8757410049438477] This hotel disappointed.
+[-0.8354034423828125] Overall, if this were MY money, I would NOT stay here.
+[-0.5704460144042969] Unfortunately, there was nothing memorable about the hotel itself; it was a huge place, reminiscent of a rambling casino hotel (but without the lights or the casino), but just bland.
+[-0.5523433685302734] I would not recommend this hotel.
+[-0.5009536743164062] I could not recommend this hotel.
+
+**********
+
+[0.9896502494812012] The hotel was clean.
+Parent: The reviews said that the hotel was clean and that the staff were friendly and helpful.
+
+----- Supporting -----
+
+[0.9896502494812012] The hotel was clean, beds were fine, hotel is located across the street from the air port, was within walking distance to a Denny's, Jack in the Box, and a steak place.
+[0.9872698783874512] The Hotel was clean, great staff, was greeted with hot fresh cookies at the check-in counter.
+[0.9832820892333984] The hotel was nice; good clean rooms.
+[0.9815225601196289] This hotel is clean, neat and offers good value for the money.
+[0.9575014114379883] My room and bathroom were both very clean and the service at the hotel was friendly, The check in process could be slow and it would be helpful if the airline crews were not given first priority to jump in front of everyone waiting.
+
+----- Weakening -----
+
+[-0.996180534362793] When we found our room we discovered that the bathroom hadn't been cleaned and there were dirty towels lying around.
+[-0.9951038360595703] The bathroom was dirty and stained.
+[-0.9944906234741211] This property is a mess.
+[-0.9943456649780273] Upon further inspection of the room, the older bathroom wood doors were dirty from years of use-these "Hilton Honors" rooms really need refurbishing.
+[-0.9941530227661133] It was so liquified that it spilled all over my hand and burned me terribly.
+
+**********
+
+[0.9906530380249023] The staff were friendly and helpful.
+Parent: The reviews said that the hotel was clean and that the staff were friendly and helpful.
+
+----- Supporting -----
+
+[0.9906530380249023] The front desk staff was friendly and helpful.
+[0.9872379302978516] Staff are friendly and helpful, the rooms are decent, and it's very close to the airport.
+[0.9832925796508789] The staff was friendly and helpful and we enjoyed the warm, chocolate chip cookie we were given at check-in.
+[0.9799995422363281] The hotel staff was friendly and accomodating.
+[0.9794278144836426] The Front staff were friendly and efficient in getting us checked in and taken care of.
+
+----- Weakening -----
+
+[-0.998344898223877] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+[-0.9965295791625977] We experienced this poor attitude with a few other staff members within the hotel.
+[-0.9959707260131836] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[-0.9782047271728516] When we tried to leave, our paid parking pass wouldn't register to let us out of the parking lot, and there were no attendants handy, so we were late returning our rental car :( -- I'm thankful we didn't get dinged on that.
+[-0.9720001220703125] Waitress never brought the items we requested and the order was askew.
+
+**********
+
+[0.9914870262145996] The hotel is located near the airport.
+Parent: They also said that the hotel was conveniently located near the airport.
+
+----- Supporting -----
+
+[0.9914870262145996] The good news - the hotel is very close to the airport with a 24hr shuttle to the airport.
+[0.9906625747680664] Hotel is very close the the airport and room was comfortable.
+[0.9895644187927246] Very nice hotel, very close to the airport, walkable in fact to the terminals in less than 10 minutes or one can take a free shuttle bus.
+[0.9891867637634277] The hotel is very close to the airport and sometimes we walk.
+[0.9880475997924805] The hotel is pretty big but the location next to the airport is great.
+
+----- Weakening -----
+
+[-0.9957015514373779] This hotel is by a small lake and at dusk there are misquitos and misc.
+[-0.9409713745117188] Out the back of mine (#5) the deck looked out into a forest.
+[-0.9250602722167969] Downtown Seattle was about a 30 minute ride by light rail service (cost of $16 for the 4 of us) or $40 cab ride to the pier.
+[-0.9111728668212891] The room had a large balcony overlooking a lake and on the 4th floor we were up in the trees.
+[-0.9102449417114258] We were told we had a great view of the "lake" from our room.

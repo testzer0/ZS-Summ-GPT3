@@ -1,0 +1,254 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.5730834404627482
+
+**********
+
+[0.8764991760253906] The building was in poor condition.
+Parent: The reviews said that the building was in poor condition, with a musty odor, and that it was confusing to navigate.
+
+----- Supporting -----
+
+[0.8764991760253906] At 11pm I contacted the Holiday Inn Express on Green Mountian Drive and Josh gave me a great rate to help compensate the poor quality of the Stone Castle.
+[0.7806720733642578] The hotel just did not seem clean at all.
+[0.7782421112060547] We would never go back to this property again, because of the condition of the property, and the bad oders.
+[0.6239585876464844] The air conditioning in the buildings did not work properly.
+[0.6233806610107422] The carpet was old and the building had a musty smell to it.
+
+----- Weakening -----
+
+[-0.9971566200256348] The room was very clean and decorated very nicely.
+[-0.9957268238067627] They were clean and the furnishing were very nice.
+[-0.9956803321838379] Everything was clean and worked properly.
+[-0.9956026077270508] Rooms and halls were clean and neat.
+[-0.9955596923828125] Everything was great---Front desk people were friendly and was always willing to help in anyway...Rooms were clean and fresh..Breakfast was good and good music to listen too....I would rate this hotel and one of the best Branson has to offer.
+
+**********
+
+[0.9891266822814941] The building had a musty odor.
+Parent: The reviews said that the building was in poor condition, with a musty odor, and that it was confusing to navigate.
+
+----- Supporting -----
+
+[0.9891266822814941] The carpet was old and the building had a musty smell to it.
+[0.9890360832214355] However, when we went into the building....the musty odor was horrible, the lobby area was humid as if the air conditioning wasn't on, the elevator smelled musty.
+[0.980320930480957] The hotel had a very musty smell as soon as you entered.
+[0.9772424697875977] The entire hotel smells old and musty.
+[0.9681167602539062] Management should really address the musty smell of the hotel.
+
+----- Weakening -----
+
+[-0.9942014217376709] the rooms are so clean.
+[-0.993128776550293] The facility was clean.
+[-0.9927806854248047] Everything was clean and worked properly.
+[-0.9926018714904785] It's in a very quiet part of Branson, the rooms are super clean, the staff is very helpful and they have a great hot breakfast.
+[-0.9923093318939209] The room was very clean and decorated very nicely.
+
+**********
+
+[0.8943767547607422] The building was confusing to navigate.
+Parent: The reviews said that the building was in poor condition, with a musty odor, and that it was confusing to navigate.
+
+----- Supporting -----
+
+[0.8943767547607422] There are 3 different buildings in which one can stay, I found it confusing and the building we were in was the a long walk to the Front desk and where breakfast was.
+[0.25843048095703125] The staff likes to park their cars very close to all entry ways even at the expense of making it difficult to get into the buildings.
+[0.22417449951171875] you could barely sqeeze between the foot of the bed and the armoir.
+[0.208709716796875] What is the point of vacationing together if you're in completely different buildings?
+[0.18452072143554688] You had to sit sideways on the toilet just to close the door and when you did sit on the toilet the "right" way, the toilet paper holder was poking you in the side.
+
+----- Weakening -----
+
+[-0.9917721748352051] It is very easy to access all the attractions and the strip.
+[-0.9877939224243164] Location is perfect: off the busy 76 highway, but handy via backroads to all the shows and restaurants.
+[-0.9839792251586914] Stone Castle is conveniently located on the yellow route for easy accessibility to Branson as well as Silver Dollar City.
+[-0.9820394515991211] Check is was smooth, no problems at all.
+[-0.9727048873901367] All roads to 76 were easily accessed.
+
+**********
+
+[0.7617502212524414] The exterior of the building was in good condition.
+Parent: They also said that the exterior of the building was well-maintained.
+
+----- Supporting -----
+
+[0.7617502212524414] The exterior is very well maintained.
+[0.26325225830078125] Rooms and halls were clean and neat.
+[0.2470073699951172] The facility was clean.
+[0.17821502685546875] The outside does look pretty nice but the rooms inside do not.
+[0.16606998443603516] They were clean and the furnishing were very nice.
+
+----- Weakening -----
+
+[-0.9428482055664062] The exterior doors had problems locking.
+[-0.9344091415405273] There were dead bugs floating in the water, a hole in the wall under the window, a piece of wood holding a slide glass door open, chains on other doors that said "this entrance is in need of repairs, sorry for any inconvenience" or something to that affect.
+[-0.6708278656005859] The staff was very helpful but could not find an unstained pilliow in the entire complex!
+[-0.5051460266113281] The bedding felt nasty and we found hair.
+[-0.48790740966796875] I used the iron and when I pressed the steam button rusty water sprayed all over the shirt I was ironing.
+
+**********
+
+[0.22030258178710938] The guests who have reviewed the Stone Castle hotel like the building itself.
+Parent: The guests who have reviewed the Stone Castle hotel generally seem to think well of the building itself - commenting on its cleanliness, newness (in the case of post-renovation guests), and lovely features such as the paintings and architecture.
+
+----- Supporting -----
+
+[0.22030258178710938] We found this delightful hotel called The Stone Castle (formerly known as Settle Inn).
+[0.17533111572265625] We were so plesed with the outside look of the hotel and just as plesed with our rooms.
+[0.1556854248046875] We loved the decor and the large jacuzzi tub and private balcony.
+[0.1246185302734375] My husband, two boys, and I stayed at the Stone Castle and loved it!
+[0.12451553344726562] We enjoyed our stay at the Settle Inn/Stone Castle in Branson, MO.
+
+----- Weakening -----
+
+[-0.7202529907226562] Run away from this place as fast as you can.
+[-0.6959552764892578] We got bad reception and approx 15 channels - most of which were news or informational.
+[-0.6910791397094727] My advice is to STAY AWAY FROM THIS MOTEL!
+[-0.688079833984375] It was a complete nightmare after a long drive.
+[-0.6629486083984375] We had the Jewel of the Nile it was very nice we loved it.
+
+**********
+
+[0.2839202880859375] The guests who have reviewed the Stone Castle hotel think that the building is clean.
+Parent: The guests who have reviewed the Stone Castle hotel generally seem to think well of the building itself - commenting on its cleanliness, newness (in the case of post-renovation guests), and lovely features such as the paintings and architecture.
+
+----- Supporting -----
+
+[0.2839202880859375] Everything was great---Front desk people were friendly and was always willing to help in anyway...Rooms were clean and fresh..Breakfast was good and good music to listen too....I would rate this hotel and one of the best Branson has to offer.
+[0.2319355010986328] The rooms were clean, the beds were comfortable, the staff was professional and friendly and the conference rooms were perfect for our group.
+[0.161407470703125] We stayed with a group recently and all had a good time....the group had experienced problems unrelated to the hotel but when we got there the treatment and service we received was wonderful.....we were made to feel right at home......I believe Joe was the gentleman who greeted us and was very kind and professional.....Maryann (I think that was her name) in the breakfast room was an absolute angel.....she went out of her way to make everyone feel special........this is an excellent choice for groups-affordable......receptive to needs.......Also the in charge cleaning lady was very professional and friendly.
+[0.15964126586914062] Stone Castle is very convenient to the main strip in Branson, but is also accessible to the relief routes that avoid traffic The rooms were very clean and the beds were super comfortable.
+[0.121856689453125] However, the rooms were clean enough, breakfast was fairly good and we enjoyed the location off the main strip.
+
+----- Weakening -----
+
+[-0.9851579666137695] However, when we went into the building....the musty odor was horrible, the lobby area was humid as if the air conditioning wasn't on, the elevator smelled musty.
+[-0.9833211898803711] Dog was barking in room across the hall all day and night, one of us stepped in dog feces in the parking lot and tracked it into the room :( A group of ill guests vomited just outside the entry door, massive amounts, when we called to ask that it be cleaned up due to health hazards front desk staff was rude!
+[-0.9794235229492188] The room was filthy and disgusting!
+[-0.9762773513793945] Heard several people at front desk complaining of hair in their bathtub upon arrival and general complaints about their room, our bathtub was never cleaned while we were there.
+[-0.9751486778259277] The beds were very very nasty.
+
+**********
+
+[0.2682952880859375] The guests who have reviewed the Stone Castle hotel think that the building is new.
+Parent: The guests who have reviewed the Stone Castle hotel generally seem to think well of the building itself - commenting on its cleanliness, newness (in the case of post-renovation guests), and lovely features such as the paintings and architecture.
+
+----- Supporting -----
+
+[0.2682952880859375] at the stone castle hotel it is highly a must to see and stay at,from its three castles and two indoor heated pools and two spas it also is equipt with a family arcade,gift shop,laundry and a hot deliciuos breakfast each morning and if thats not enough it also has for your convience high speed internet and a computer for your use in the lobby.the rooms are newly remolded with pillow top beds,table and chairs,restroom etc needs,ironing board and iron,and a blow dryer.the tvs are meduim size and cable tv.this hotel is right smack in the heart of branson.
+[0.0667724609375] Everything was great---Front desk people were friendly and was always willing to help in anyway...Rooms were clean and fresh..Breakfast was good and good music to listen too....I would rate this hotel and one of the best Branson has to offer.
+[0.0635986328125] And truthfully, we can't wait to get back to our new hidden gem!
+[0.0267181396484375] Our stay at the Settle Inn newly renamed to Stone Castle Hotel & Conference Center was great.
+[0.02574920654296875] He appreciated the staff that continuously kept everything filled and fresh.
+
+----- Weakening -----
+
+[-0.9657835960388184] This hotel is outdated.
+[-0.961029052734375] The problems we saw were - hotel is older and needs help.
+[-0.8913021087646484] The entire hotel smells old and musty.
+[-0.8694229125976562] As for the hotel itself, it is old and outdated.
+[-0.8577613830566406] It was a very dissapointing place to stay ~ NEVER again
+
+**********
+
+[0.22039127349853516] The guests who have reviewed the Stone Castle hotel think that the building has lovely features.
+Parent: The guests who have reviewed the Stone Castle hotel generally seem to think well of the building itself - commenting on its cleanliness, newness (in the case of post-renovation guests), and lovely features such as the paintings and architecture.
+
+----- Supporting -----
+
+[0.22039127349853516] We loved the decor and the large jacuzzi tub and private balcony.
+[0.20829010009765625] At first when I saw this big, magnificent hoteI that looked like a castle I thought that it would be way too much to stay there.
+[0.1993570327758789] Everything was great---Front desk people were friendly and was always willing to help in anyway...Rooms were clean and fresh..Breakfast was good and good music to listen too....I would rate this hotel and one of the best Branson has to offer.
+[0.19032669067382812] The rooms were clean, the beds were comfortable, the staff was professional and friendly and the conference rooms were perfect for our group.
+[0.1872386932373047] We were so plesed with the outside look of the hotel and just as plesed with our rooms.
+
+----- Weakening -----
+
+[-0.9729547500610352] However, when we went into the building....the musty odor was horrible, the lobby area was humid as if the air conditioning wasn't on, the elevator smelled musty.
+[-0.9340019226074219] Stay for convention...place was filthy....nothing was clean.
+[-0.9233074188232422] It was a very dissapointing place to stay ~ NEVER again
+[-0.9201531410217285] This was by far the worst place I have ever attempted to stay!
+[-0.9064254760742188] We would never go back to this property again, because of the condition of the property, and the bad oders.
+
+**********
+
+[0.914215087890625] However, some reviewers mention some less-than-ideal aspects of the hotel.
+Parent: However, a few reviewers mention some less-than-ideal aspects of the hotel, including its thin walls, disabled fire alarms, and rusty iron.
+
+----- Supporting -----
+
+[0.914215087890625] Rooms were nice in decor but there was dirt under the beds, TV was tiny, wireless internet was horrible, room was very small, pool and hot tub were tiny and full of rowdy kids with no one enforcing the rules of no jumping or horseplay, could not enjoy it at all.
+[0.8938121795654297] Heard several people at front desk complaining of hair in their bathtub upon arrival and general complaints about their room, our bathtub was never cleaned while we were there.
+[0.7552947998046875] No Disney, no movies, no CMT, .... At the end of our hallway there was a window that was open with a screen that was popped loose to leave an opening that dropped 3 stories to the ground....safe?
+[0.7162322998046875] Dog was barking in room across the hall all day and night, one of us stepped in dog feces in the parking lot and tracked it into the room :( A group of ill guests vomited just outside the entry door, massive amounts, when we called to ask that it be cleaned up due to health hazards front desk staff was rude!
+[0.711273193359375] Pluses: Good service, inexpensive, friendly, everything works, nice bath fixtures Negatives: the continental breakfast is kind of sad, but the hot breakfast isn't any better.
+
+----- Weakening -----
+
+[-0.11452865600585938] I was unable to get online.
+[-0.06329727172851562] They could not find anything???????
+[-0.0431671142578125] That's about it.
+[-0.042079925537109375] The positive things about the hotel: Pretty landscaping, the beds are comfortable, the rooms are cool - air conditioner works well, the eating area for the continental breakfast is very large and roomy, great location - walking distance to many attractions and quiet area.
+[-0.039783477783203125] However, it's neat and tidy.
+
+**********
+
+[0.003711700439453125] The walls were thin, the fire alarms were disabled, and the iron was rusty.
+Parent: However, a few reviewers mention some less-than-ideal aspects of the hotel, including its thin walls, disabled fire alarms, and rusty iron.
+
+----- Supporting -----
+
+[0.003711700439453125] We would never go back to this property again, because of the condition of the property, and the bad oders.
+[0.002254486083984375] The problems we saw were - hotel is older and needs help.
+[0.0020961761474609375] NAsty hotel!!!!
+[0.001842498779296875] Stay for convention...place was filthy....nothing was clean.
+[0.0017528533935546875] The fire alarms were all disabled throughout the entire hotel.
+
+----- Weakening -----
+
+[-0.9883742332458496] Everything was clean and worked properly.
+[-0.9859435558319092] The rooms are well maintained, clean, and spacious.
+[-0.9854912757873535] The room was very clean and decorated very nicely.
+[-0.9854433536529541] They were clean and the furnishing were very nice.
+[-0.9844489097595215] The landscape is lovely and the buildings are well kept and clean.
+
+**********
+
+[0.7860870361328125] The building was easy to access.
+Parent: The building was easy to access from all roads.
+
+----- Supporting -----
+
+[0.7860870361328125] Stone Castle is conveniently located on the yellow route for easy accessibility to Branson as well as Silver Dollar City.
+[0.76727294921875] It is very easy to access all the attractions and the strip.
+[0.6294631958007812] Stone Castle is very convenient to the main strip in Branson, but is also accessible to the relief routes that avoid traffic The rooms were very clean and the beds were super comfortable.
+[0.49786376953125] Check in and check out were fast and easy.
+[0.47833251953125] The location is great, its off the Yellow Route and accessible to anywhere in town.
+
+----- Weakening -----
+
+[-0.9940152168273926] It was a complete nightmare after a long drive.
+[-0.9937901496887207] You had to sit sideways on the toilet just to close the door and when you did sit on the toilet the "right" way, the toilet paper holder was poking you in the side.
+[-0.9921255111694336] There are 3 different buildings in which one can stay, I found it confusing and the building we were in was the a long walk to the Front desk and where breakfast was.
+[-0.9918575286865234] There were dead bugs floating in the water, a hole in the wall under the window, a piece of wood holding a slide glass door open, chains on other doors that said "this entrance is in need of repairs, sorry for any inconvenience" or something to that affect.
+[-0.9913806915283203] The staff likes to park their cars very close to all entry ways even at the expense of making it difficult to get into the buildings.
+
+**********
+
+[0.6583251953125] The building was accessible from all roads.
+Parent: The building was easy to access from all roads.
+
+----- Supporting -----
+
+[0.6583251953125] The location is great, its off the Yellow Route and accessible to anywhere in town.
+[0.55682373046875] Stone Castle is very convenient to the main strip in Branson, but is also accessible to the relief routes that avoid traffic The rooms were very clean and the beds were super comfortable.
+[0.38140869140625] All roads to 76 were easily accessed.
+[0.3292694091796875] Stone Castle is conveniently located on the yellow route for easy accessibility to Branson as well as Silver Dollar City.
+[0.300201416015625] It is very easy to access all the attractions and the strip.
+
+----- Weakening -----
+
+[-0.9953083992004395] You literally had to turn around to get into the bathroom.
+[-0.9941442012786865] The continental breakfast is served only in the first of the three buildings, which meant walking a distance.
+[-0.9936988353729248] There are 3 different buildings in which one can stay, I found it confusing and the building we were in was the a long walk to the Front desk and where breakfast was.
+[-0.9926052093505859] The staff likes to park their cars very close to all entry ways even at the expense of making it difficult to get into the buildings.
+[-0.990415096282959] Since this was right after Christmas there weren't many people staying there and half the property was closed off.

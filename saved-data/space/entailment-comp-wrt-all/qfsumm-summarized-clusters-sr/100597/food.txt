@@ -1,0 +1,170 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.8210426568984985
+
+**********
+
+[0.9848709106445312] The food was expensive.
+Parent: Food was very expensive in restaurant and just okay .
+
+----- Supporting -----
+
+[0.9848709106445312] Food was very expensive in restaurant and just okay.
+[0.9679908752441406] Food was good, but a bit overpriced.
+[0.9593601226806641] The food was a little expensive-$13 for a burger and $12 for an omelette alone.
+[0.9586915969848633] That worked well for me since the food at the hotel is fairly pricey.
+[0.9527854919433594] The food was good although a bit pricey.
+
+----- Weakening -----
+
+[-0.9933147430419922] Restaurant food was excellent and reasonably priced and breakfast was good.
+[-0.9350261688232422] Cheap toiletries, few towels.
+[-0.8956222534179688] I was able to purchase a reasonably priced bottle of Oregon pinot noir for in-room consumption.
+[-0.8056201934814453] The gift shop was well stocked and very reasonably priced.
+[-0.7965278625488281] VERY average burger.
+
+**********
+
+[0.9718475341796875] The food in the restaurant was okay.
+Parent: Food was very expensive in restaurant and just okay .
+
+----- Supporting -----
+
+[0.9718475341796875] Food was very expensive in restaurant and just okay.
+[0.8527774810791016] We were pretty late 9.54pm but managed to get a decent meal in the bar, I will happily come back to this doubletrees.
+[0.82440185546875] The not so good news - food at the hotel was OK.
+[0.8003692626953125] The restaurant also had good food (we were given a $10 per person coupon to use in the restaurant from the hotel).
+[0.6556396484375] The good: large room, food at the restaurants (especially the clam chowder), bed, view from the elevators, service, shuttle every 20 minutes to and from the airport (5 minutes away) The bad: the insulation for the windows is awful, so the hotel is extremely noisy at night (at least if you are facing the airport): airplanes, busy airport boulevard, rooftop with furnaces/chillers etc.
+
+----- Weakening -----
+
+[-0.9437713623046875] We had dinner in the attached restaurant, and the food was absolutely delicious.
+[-0.9399490356445312] The breakfast in the restaurant was amazing, and the staff was very attentive and friendly.
+[-0.893096923828125] We ordered food and received ice cold food one hour later.
+[-0.874908447265625] We had a lovely buffet breakfast in the restaurant and sat by the outdoor pool in the morning while we waited for our transfer to the airport.
+[-0.7341880798339844] The beds were amazing.
+
+**********
+
+[0.9613008499145508] The Oregon pinot noir was available for purchase.
+Parent: I was able to purchase a reasonably priced bottle of Oregon pinot noir for in - room consumption .
+
+----- Supporting -----
+
+[0.9613008499145508] I was able to purchase a reasonably priced bottle of Oregon pinot noir for in-room consumption.
+[0.19512939453125] At $65 plus the upgrade this was outstanding value, so much so we used it on our return journey too.
+[0.07354736328125] The Drivers are very professional, courteous and make you feel like you are their only customer!
+[0.0576171875] We booked through a discount website and were completely satisfied with our stay.
+[0.04547119140625] It looks from other reviews here like you may be able to do better on Priceline if you don't want your Hilton points.
+
+----- Weakening -----
+
+[-0.9216804504394531] Wolfgang Puck coffee was available for the in room coffee maker, My room was in the tower on the 8th floor and had a balcony.
+[-0.8705902099609375] ;) BAD: --YOU HAVE TO PAY TO PARK HERE.
+[-0.8393096923828125] I can walk down to the lobby and get free wifi or use their computers for no charge.
+[-0.825592041015625] AND they have the famous Doubletree chocolate chip cookies!
+[-0.816375732421875] On check in, the warm chocolate chip cookies were a lovely touch.
+
+**********
+
+[0.9725322723388672] The Oregon pinot noir was reasonably priced.
+Parent: I was able to purchase a reasonably priced bottle of Oregon pinot noir for in - room consumption .
+
+----- Supporting -----
+
+[0.9725322723388672] I was able to purchase a reasonably priced bottle of Oregon pinot noir for in-room consumption.
+[0.028106689453125] We had decided to go with this hotel to save a small amount of money and as a change from the Cedarbrook lodge we had stayed in a couple of weeks before.
+[0.016658782958984375] We stayed here the last night of our trip to Seattle (got it on Priceline for $46 - not bad!).
+[0.0111236572265625] This hotel is clean, neat and offers good value for the money.
+[0.0107421875] Despite the low rate, the receptionist tried to give us the type of room I wanted (high floor, one bed) and was very pleasant to me.
+
+----- Weakening -----
+
+[-0.9237442016601562] Total rip-off with the excess charges.
+[-0.7736587524414062] Parking is expensive at $25 for valet and $21.50 for self-park per night.
+[-0.757720947265625] The internet fees are a HUGE scam-- $12-$15 for 24 hours.
+[-0.7511005401611328] With the $20 a night parking, internet fees, and insane food pricing I would expect a much more modern, bigger, and clean room.
+[-0.7484092712402344] The shuttle was hot and smelly again and people were mad.
+
+**********
+
+[0.05643463134765625] The Oregon pinot noir was consumed in my hotel room.
+Parent: I was able to purchase a reasonably priced bottle of Oregon pinot noir for in - room consumption .
+
+----- Supporting -----
+
+[0.05643463134765625] I was able to purchase a reasonably priced bottle of Oregon pinot noir for in-room consumption.
+[0.0] All good!
+[0.0] Ripoff.
+[0.0] !
+[0.0] .
+
+----- Weakening -----
+
+[-0.9799938201904297] Wolfgang Puck coffee was available for the in room coffee maker, My room was in the tower on the 8th floor and had a balcony.
+[-0.9680700302124023] Went to breakfast and got some french toast.
+[-0.9494228363037109] On check in, the warm chocolate chip cookies were a lovely touch.
+[-0.9409275054931641] So we had to order a pizza.
+[-0.9344635009765625] We had dinner in the attached restaurant, and the food was absolutely delicious.
+
+**********
+
+[0.8196563720703125] The clam chowder was good.
+Parent: We ordered clam chowder from the menu - much better than I expected - and finished off fruit from Pike Place Market .
+
+----- Supporting -----
+
+[0.8196563720703125] The good: large room, food at the restaurants (especially the clam chowder), bed, view from the elevators, service, shuttle every 20 minutes to and from the airport (5 minutes away) The bad: the insulation for the windows is awful, so the hotel is extremely noisy at night (at least if you are facing the airport): airplanes, busy airport boulevard, rooftop with furnaces/chillers etc.
+[0.7401390075683594] We ordered clam chowder from the menu - much better than I expected - and finished off fruit from Pike Place Market.
+[0.2567901611328125] My husband was quite happy with the clam chowder he ordered at the bar after a late night arrival, and that's saying something!
+[0.0065822601318359375] Will stay there again in the future.
+[0.0053806304931640625] However it was good enough.
+
+----- Weakening -----
+
+[-0.9479560852050781] We really liked the Doubletree Sea-Tac.
+[-0.93426513671875] On check in, the warm chocolate chip cookies were a lovely touch.
+[-0.9039993286132812] The chocolate chip cookies are always a treat.
+[-0.876007080078125] You absolutely cannot beat a Doubletree chocolate chip cookie as a welcome treat.
+[-0.8577919006347656] Check in was easy and the cookies were nice.
+
+**********
+
+[0.8196563720703125] The clam chowder was good.
+Parent: We ordered clam chowder from the menu - much better than I expected - and finished off fruit from Pike Place Market .
+
+----- Supporting -----
+
+[0.8196563720703125] The good: large room, food at the restaurants (especially the clam chowder), bed, view from the elevators, service, shuttle every 20 minutes to and from the airport (5 minutes away) The bad: the insulation for the windows is awful, so the hotel is extremely noisy at night (at least if you are facing the airport): airplanes, busy airport boulevard, rooftop with furnaces/chillers etc.
+[0.7401390075683594] We ordered clam chowder from the menu - much better than I expected - and finished off fruit from Pike Place Market.
+[0.2567901611328125] My husband was quite happy with the clam chowder he ordered at the bar after a late night arrival, and that's saying something!
+[0.0065822601318359375] Will stay there again in the future.
+[0.0053806304931640625] However it was good enough.
+
+----- Weakening -----
+
+[-0.9479560852050781] We really liked the Doubletree Sea-Tac.
+[-0.93426513671875] On check in, the warm chocolate chip cookies were a lovely touch.
+[-0.9039993286132812] The chocolate chip cookies are always a treat.
+[-0.876007080078125] You absolutely cannot beat a Doubletree chocolate chip cookie as a welcome treat.
+[-0.8577919006347656] Check in was easy and the cookies were nice.
+
+**********
+
+[0.9820423126220703] We ate fruit from Pike Place Market.
+Parent: We ordered clam chowder from the menu - much better than I expected - and finished off fruit from Pike Place Market .
+
+----- Supporting -----
+
+[0.9820423126220703] We ordered clam chowder from the menu - much better than I expected - and finished off fruit from Pike Place Market.
+[0.0] All good!
+[0.0] Ripoff.
+[0.0] !
+[0.0] .
+
+----- Weakening -----
+
+[-0.9843363761901855] So we had to order a pizza.
+[-0.9650707244873047] The soup was brought to us pretty cold, but he seemed to vanish so we couldn't complain.
+[-0.9645686149597168] Went to breakfast and got some french toast.
+[-0.963554859161377] So a burger and soup were $32, and it was a very.
+[-0.9606609344482422] Burger, soda and tip $21.00.

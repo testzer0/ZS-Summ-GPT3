@@ -1,0 +1,128 @@
+***** Aspect: rooms Model Type : zs *****
+Overall score: 0.6772679885228475
+
+**********
+
+[0.9922196865081787] The rooms are clean.
+Parent: The rooms at the hotel are clean and comfortable, with soft sheets and plenty of space.
+
+----- Supporting -----
+
+[0.9922196865081787] the rooms are so clean.
+[0.9858226776123047] The rooms are very clean and have plenty of room with the most comfortable beds for a good night's sleep.
+[0.9858226776123047] The rooms are very clean and have plenty of room with the most comfortable beds for a good night's sleep.
+[0.9830489158630371] The rooms are always nice and clean and the location is nice since it sits right on the Yellow Route.
+[0.9812936782836914] The rooms were very clean and the beds were very comfortable.
+
+----- Weakening -----
+
+[-0.9982457160949707] The room was filthy and disgusting!
+[-0.9956064224243164] Opening the door, our room was musty and it smelled horrible.
+[-0.994903564453125] The bathroom is so small & dirty you couldn't stand to touch anything in it.
+[-0.9947061538696289] The room was like being in a cave with a bad smell.
+[-0.9939346313476562] The rooms were dirty, small and the t.v.
+
+**********
+
+[0.9320964813232422] The rooms at the hotel are comfortable.
+Parent: The rooms at the hotel are clean and comfortable, with soft sheets and plenty of space.
+
+----- Supporting -----
+
+[0.9320964813232422] Are rooms were close together, very family friendly Hotel.The beds were very comfortable.
+[0.9270839691162109] We go to Branson at least 3 times a year and we have stayed at many of the hotels and this one had the most comfortable beds and a great hot breakfast.
+[0.9259605407714844] The positive things about the hotel: Pretty landscaping, the beds are comfortable, the rooms are cool - air conditioner works well, the eating area for the continental breakfast is very large and roomy, great location - walking distance to many attractions and quiet area.
+[0.8907938003540039] Stone Castle is very convenient to the main strip in Branson, but is also accessible to the relief routes that avoid traffic The rooms were very clean and the beds were super comfortable.
+[0.8272705078125] This hotel was very comfortable, with a full buffet breakfast.
+
+----- Weakening -----
+
+[-0.9237918853759766] The room was filthy and disgusting!
+[-0.9062347412109375] NAsty hotel!!!!
+[-0.873779296875] Rooms were nice in decor but there was dirt under the beds, TV was tiny, wireless internet was horrible, room was very small, pool and hot tub were tiny and full of rowdy kids with no one enforcing the rules of no jumping or horseplay, could not enjoy it at all.
+[-0.8617706298828125] The beds were very very nasty.
+[-0.84637451171875] The hotel is overall alright and the theme rooms or suites may be roomier but the regular rooms are very cramped.
+
+**********
+
+[0.9239692687988281] The rooms have soft sheets.
+Parent: The rooms at the hotel are clean and comfortable, with soft sheets and plenty of space.
+
+----- Supporting -----
+
+[0.9239692687988281] The beds were comfy and the sheets were soft, which is hard to find in some hotels.
+[0.23027801513671875] The group just raves over the super comfy beds and overall cleanliness of everything.
+[0.21338462829589844] The rooms are very clean and have plenty of room with the most comfortable beds for a good night's sleep.
+[0.21338462829589844] The rooms are very clean and have plenty of room with the most comfortable beds for a good night's sleep.
+[0.179443359375] Pillows were even good, which is usually not the case at most hotels (from some of my previous experiences at other hotels).
+
+----- Weakening -----
+
+[-0.9110851287841797] The room was filthy and disgusting!
+[-0.8963909149169922] Rooms were nice in decor but there was dirt under the beds, TV was tiny, wireless internet was horrible, room was very small, pool and hot tub were tiny and full of rowdy kids with no one enforcing the rules of no jumping or horseplay, could not enjoy it at all.
+[-0.877685546875] There were all sorts of artifacts in the room from helmets to weapons and the waterfall jacuzzi was the most spectacular and ingenious piece.
+[-0.8665924072265625] Beds could be softer.
+[-0.8515396118164062] The jets on the hot tub were broken and sprayed water in your face if you tried to use them, one pool was ice cold while the other was fine.
+
+**********
+
+[0.9738063812255859] The rooms at the hotel have plenty of space.
+Parent: The rooms at the hotel are clean and comfortable, with soft sheets and plenty of space.
+
+----- Supporting -----
+
+[0.9738063812255859] The hotel in all is very clean and the standard rooms are very spacious.
+[0.5237045288085938] at the stone castle hotel it is highly a must to see and stay at,from its three castles and two indoor heated pools and two spas it also is equipt with a family arcade,gift shop,laundry and a hot deliciuos breakfast each morning and if thats not enough it also has for your convience high speed internet and a computer for your use in the lobby.the rooms are newly remolded with pillow top beds,table and chairs,restroom etc needs,ironing board and iron,and a blow dryer.the tvs are meduim size and cable tv.this hotel is right smack in the heart of branson.
+[0.2900390625] Breakfast was ok but poorly stocked, there were only ~10 rooms rented while we were there so no excuse for overcrowded.
+[0.2021331787109375] The suite was big enough for the kids to have space to play and not be on top of us.
+[0.18987655639648438] The rooms are very clean and have plenty of room with the most comfortable beds for a good night's sleep.
+
+----- Weakening -----
+
+[-0.9914073944091797] The hotel is overall alright and the theme rooms or suites may be roomier but the regular rooms are very cramped.
+[-0.9825782775878906] The rooms were clean, bathroom is extremely small and crowded, barely enough room to turn around.
+[-0.9776992797851562] Rooms were nice in decor but there was dirt under the beds, TV was tiny, wireless internet was horrible, room was very small, pool and hot tub were tiny and full of rowdy kids with no one enforcing the rules of no jumping or horseplay, could not enjoy it at all.
+[-0.9718847274780273] There was nothing in our rooms at all to help plan the trip.
+[-0.9678134918212891] The standard rooms are cramped with very poor lighting.
+
+**********
+
+[0.01708984375] The microwave and fridge are useful for snacks.
+Parent: The microwave and fridge are handy for snacks, and the washer and dryer are a plus.
+
+----- Supporting -----
+
+[0.01708984375] Eggs, sausage, ham, biscuits and gravy plus hot and cold cereals were served.
+[0.011474609375] at the stone castle hotel it is highly a must to see and stay at,from its three castles and two indoor heated pools and two spas it also is equipt with a family arcade,gift shop,laundry and a hot deliciuos breakfast each morning and if thats not enough it also has for your convience high speed internet and a computer for your use in the lobby.the rooms are newly remolded with pillow top beds,table and chairs,restroom etc needs,ironing board and iron,and a blow dryer.the tvs are meduim size and cable tv.this hotel is right smack in the heart of branson.
+[0.00449371337890625] We will deffinatly stay here again soon.
+[0.00299072265625] They offered breakfast and it was much more than your average cereal and donuts.
+[0.00061798095703125] We will make use of it again, I am sure.
+
+----- Weakening -----
+
+[-0.8445930480957031] Two swimming pools for the kids.
+[-0.790130615234375] Pools were clean but old looking.
+[-0.7647857666015625] 2, count 'em 2, separate indoor pools and hot tubs!
+[-0.7450637817382812] We went and checked out the pool.
+[-0.738555908203125] the indoor pools .... wow.
+
+**********
+
+[0.22442626953125] The washer and dryer are a plus.
+Parent: The microwave and fridge are handy for snacks, and the washer and dryer are a plus.
+
+----- Supporting -----
+
+[0.22442626953125] at the stone castle hotel it is highly a must to see and stay at,from its three castles and two indoor heated pools and two spas it also is equipt with a family arcade,gift shop,laundry and a hot deliciuos breakfast each morning and if thats not enough it also has for your convience high speed internet and a computer for your use in the lobby.the rooms are newly remolded with pillow top beds,table and chairs,restroom etc needs,ironing board and iron,and a blow dryer.the tvs are meduim size and cable tv.this hotel is right smack in the heart of branson.
+[0.09503173828125] The rooms are always very clean and have a coffee pot, blow dryer, and cable tv.
+[0.034880638122558594] They have onsite laundry and SEVERAL pools.
+[0.019786834716796875] They could definitely use some new bed linens, but the beds were nice and comfy and housekeeping was nice, too.
+[0.015350341796875] We will make use of it again, I am sure.
+
+----- Weakening -----
+
+[-0.9490432739257812] The breakfast is great and the pool and hot-tub an added plus.
+[-0.7526168823242188] The best part of the breakfast was the live entertainment.
+[-0.6250686645507812] The highlight of the hotel was the desk staff.
+[-0.5944366455078125] Loved the Settle Inn/Stone Castle.
+[-0.5707931518554688] Stay away at all costs.

@@ -1,0 +1,107 @@
+***** Aspect: service Model Type : zs *****
+Overall score: 0.9439078807830811
+
+**********
+
+[0.9780721664428711] The service at the hotel was excellent.
+Parent: The reviewers said that the service at the hotel was excellent, with friendly and helpful staff.
+
+----- Supporting -----
+
+[0.9780721664428711] The hotel staff was very friendly and offered great service.
+[0.9612507820129395] The room service is always on time and tastey...I highly recommend this hotel.
+[0.9520225524902344] The service at the Mariott was wonderful for the duration of our stay.
+[0.9233865737915039] The Marriott Eaton Centre provided service at its best.
+[0.921870231628418] For a Downtown hotel, I would give this a 5 star for friendly and efficient service.
+
+----- Weakening -----
+
+[-0.9977188110351562] For business use the hotel gets a C, it was a poor service compared to the others.
+[-0.9951438903808594] I did however find the staff to be very indifferent, almost cold and the rooms to be on the smaller side.
+[-0.993680477142334] other issues- bathroom really not that nice, concierge horrible at recommending things to do or good resutarants or giving directions.
+[-0.9921846389770508] Not very convenient to go down to lobby all the time...Staff was not at all helpful in this matter... A sidenote: the room when we arrived was not vacumed and was not clean.
+[-0.985386848449707] Front desk staff were not the friendliest...common to big cities perhaps?
+
+**********
+
+[0.9942004680633545] The staff at the hotel was friendly and helpful.
+Parent: The reviewers said that the service at the hotel was excellent, with friendly and helpful staff.
+
+----- Supporting -----
+
+[0.9942004680633545] The staff at the hotel were polite and helpful at all times.
+[0.9893121719360352] Every hotel worker we encountered was friendly and helpful.
+[0.9868571758270264] The hotel staff was friendly and efficient, our room was clean and spacious and the amenities made it feel very upscale.
+[0.985029935836792] The hotel staff was very friendly and offered great service.
+[0.9828543663024902] The hotel was very clean, the hotel staff were very friendly and information, and it was close to public transportation, which we used for our entire time in Toronto.
+
+----- Weakening -----
+
+[-0.996098518371582] I did however find the staff to be very indifferent, almost cold and the rooms to be on the smaller side.
+[-0.9910268783569336] Not very convenient to go down to lobby all the time...Staff was not at all helpful in this matter... A sidenote: the room when we arrived was not vacumed and was not clean.
+[-0.9909482002258301] The gentleman was excessively rude, simply entered the room, removed the dead bug and looked VERY quickly over the rest of the room before saying "Looks like we got em all".
+[-0.9896402359008789] other issues- bathroom really not that nice, concierge horrible at recommending things to do or good resutarants or giving directions.
+[-0.9865808486938477] Stay here if you can put up with bugs and indifferent staff.
+
+**********
+
+[0.9916439056396484] The hotel was clean.
+Parent: They also said that the hotel was clean.
+
+----- Supporting -----
+
+[0.9916439056396484] Hotel was extremely clean.
+[0.9866857528686523] I have to admit that I am usually very worried about hotels and their cleanliness... but this hotel was extremely clean.
+[0.9861721992492676] The hotel is very clean, the rooms were a good price for the quality received, and, best of all, the location can't be beat.
+[0.9857335090637207] The hotel was very clean, the hotel staff were very friendly and information, and it was close to public transportation, which we used for our entire time in Toronto.
+[0.981961727142334] The hotel was clean and modern and the King room was spacious, with the most comfortable bed (slept better than at home).
+
+----- Weakening -----
+
+[-0.9955720901489258] my colleagues staying at the sheraton said their rooms were old and not maintained and in some cases dirty.
+[-0.9866170883178711] My basic perception was that the rooms had a dated, unclean vibe.
+[-0.9856195449829102] The worst part of the stay however was finding two LARGE insects or animals, something in the room!
+[-0.9855070114135742] We called reception at 3am to get them changed, they were apologetic and changed them immediately but even the 'new' sheets still had holes and looked worn!
+[-0.9795284271240234] I was on the 10th floor, it took forever for the shower to get hot and when it did the temperature fluctuated radically from luke warm to scalding.
+
+**********
+
+[0.808349609375] The breakfast service was not good.
+Parent: There were some complaints about the breakfast service, but otherwise reviewers were happy with their stay.
+
+----- Supporting -----
+
+[0.808349609375] Breakfast was reasonable but unremarkable and the service very hit and miss.
+[0.7597808837890625] Room service breakfast was $20 for nothing too special.
+[0.478515625] There were only 3 minor disappointments -- the concierge lounge was full of families with kids so breakfast was a bit noisy and crowded, the rooftop pool was small and also full of kids, and food at the hotel was pricey -- we got better quality food at more reasonable prices at nearby restaurants.
+[0.11575698852539062] Poor QC here.
+[0.0564422607421875] I had some fried rice that was much too gingery; my side dish of broccoli was overcooked; the key lime pie tasted as if it came from a mix - you get the idea.
+
+----- Weakening -----
+
+[-0.9950981140136719] The breakfast that is served at the hotel is wonderful!!
+[-0.9936647415161133] Breakfast arrived right on time and was delicious (scrambled egs, well done bacon, juice and tea...perfect!).
+[-0.9934682846069336] The Parkside breakfast was the best buffet breakfast I have ever had.
+[-0.9926824569702148] The buffett breakfast which was included with our rate was good every morning and better than most hotels.
+[-0.9925985336303711] They have the best breakfast buffet I have ever seen at a Marriott.
+
+**********
+
+[0.9472732543945312] Reviewers were happy with their stay.
+Parent: There were some complaints about the breakfast service, but otherwise reviewers were happy with their stay.
+
+----- Supporting -----
+
+[0.9472732543945312] We enjoyed our stay both times.
+[0.9407730102539062] We enjoyed our stay at the Marriott Eaton Centre with a few minor quibbles.
+[0.9148225784301758] Overall : The Marriott Hotel served a purpose and we had a comfortable stay.
+[0.8471755981445312] Overall wonderful stay, will book again when I return to town.
+[0.8466167449951172] I stayed at the hotel with my family of 4 and my mother last weekend and we were really pleased with the hotel.
+
+----- Weakening -----
+
+[-0.9904212951660156] However, we were very dissapointed when we checked in to find that our sheets had stains on them and looked worn.
+[-0.9875812530517578] This really annoys me, enough that I will not stay there again in spite of the excellent service.
+[-0.9867477416992188] I was so frustrated.
+[-0.9846305847167969] It is probably the most depressing hotel I have ever stayed in.
+[-0.9755725860595703] Dissapointed since this is suppose to be a 5 star establishment.

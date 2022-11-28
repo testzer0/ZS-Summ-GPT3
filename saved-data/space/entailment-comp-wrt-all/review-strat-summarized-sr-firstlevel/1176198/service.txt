@@ -1,0 +1,590 @@
+***** Aspect: service Model Type : zs *****
+Overall score: 0.8001131159918649
+
+**********
+
+[0.8303375244140625] The service at the hotel was poor.
+Parent: The service at the hotel was poor, and the staff were unhelpful and unaccommodating.
+
+----- Supporting -----
+
+[0.8303375244140625] I would avoid the restaurant in the hotel as the service is slow and inconsistent.
+[0.5382843017578125] I would not stay her again because of the rude front desk staff and the street noise.
+[0.3117218017578125] Hotel rooms and restaurant = great "Valet" = brutal and ruined the whole stay.
+[0.26590538024902344] We spoke with the lady at the desk and all she had to say was "we have never had a Sunday like this... We have another valet employee coming in in an hour" Not helpful!
+[0.1135101318359375] It's pretty clear that this hotel did not train the staff before opening: You can only valet park your car for $35.
+
+----- Weakening -----
+
+[-0.9975190162658691] The hotel staff was very nice and let us leave our luggage before and after check in so that we can go around the city.
+[-0.9973950386047363] The service was exceptional and the rooms are very clean and comfortable.
+[-0.9970178604125977] The front desk staff, porters, room staff, wereall excellent....When a hotel strives for excellence in costumer service, it shows....it really does...
+[-0.9969892501831055] The rooms are in excellent condition, housekeeping is very good, and the location is very handy to everything downtown.
+[-0.9969892501831055] I often stay at Hilton properties and the Toronto Hilton Garden Inn offers a great, and expected, level of service and comfort.
+
+**********
+
+[0.7159271240234375] The staff at the hotel were not helpful.
+Parent: The service at the hotel was poor, and the staff were unhelpful and unaccommodating.
+
+----- Supporting -----
+
+[0.7159271240234375] I would not stay her again because of the rude front desk staff and the street noise.
+[0.6030540466308594] We spoke with the lady at the desk and all she had to say was "we have never had a Sunday like this... We have another valet employee coming in in an hour" Not helpful!
+[0.490020751953125] Not a bad place for _recreational_ travelers But the desk clerks could not figure out that for business travel, two people might have two reservations to share one room -- not, as the clerks set it up, for one to be the guest of the other (which also means no "HHonors" points for the "guest).
+[0.4018096923828125] There was a slight mix up with our booking but no fuss was made although I did find the reception staff a little disinterested but nothing to spoil my stay.
+[0.1993408203125] We were given a regular room and when we called to ask to have our room replaced with another Jacuzzi room it took 25 minutes for the front desk to call us back.
+
+----- Weakening -----
+
+[-0.9956352710723877] The front desk made sure I was ok and comfortable and even went out of their way to offer soup, neo citran etc.
+[-0.9955549240112305] The hotel staff was very nice and let us leave our luggage before and after check in so that we can go around the city.
+[-0.9955358505249023] I have nothing bad to say about this hotel, helpful staff, clean tidy room, comfy beds, great location, it was a perfect place to stay.
+[-0.9952516555786133] The only thing we needed it for was looking up directions to places which we ended up just getting from hotel staff anyways and they were very friendly and helpful.
+[-0.9951963424682617] Very nice hotel, clean, and helpful staff.
+
+**********
+
+[0.8337383270263672] The staff at the hotel were not accommodating.
+Parent: The service at the hotel was poor, and the staff were unhelpful and unaccommodating.
+
+----- Supporting -----
+
+[0.8337383270263672] I would not stay her again because of the rude front desk staff and the street noise.
+[0.7943811416625977] We spoke with the lady at the desk and all she had to say was "we have never had a Sunday like this... We have another valet employee coming in in an hour" Not helpful!
+[0.6983718872070312] Not a bad place for _recreational_ travelers But the desk clerks could not figure out that for business travel, two people might have two reservations to share one room -- not, as the clerks set it up, for one to be the guest of the other (which also means no "HHonors" points for the "guest).
+[0.542388916015625] There was a slight mix up with our booking but no fuss was made although I did find the reception staff a little disinterested but nothing to spoil my stay.
+[0.3929176330566406] I would avoid the restaurant in the hotel as the service is slow and inconsistent.
+
+----- Weakening -----
+
+[-0.9935426712036133] The hotel staff was very nice and let us leave our luggage before and after check in so that we can go around the city.
+[-0.9928693771362305] The only thing we needed it for was looking up directions to places which we ended up just getting from hotel staff anyways and they were very friendly and helpful.
+[-0.9928598403930664] Very nice hotel, clean, and helpful staff.
+[-0.9920730590820312] The service was excellent, we were offered a deal on breakfast at check in.
+[-0.9919795989990234] I have nothing bad to say about this hotel, helpful staff, clean tidy room, comfy beds, great location, it was a perfect place to stay.
+
+**********
+
+[0.847381591796875] The hotel charged one of the guests for something.
+Parent: The hotel also double-charged one of the guests.
+
+----- Supporting -----
+
+[0.847381591796875] Hotel comped our room, but then double charged us.
+[0.8358306884765625] We tried to exchange our American money and the hotel tried to charge us a rate that would give us LESS money back even though the American dollar was worth about $1.20 that day.
+[0.7940750122070312] The 20 minute wait the following morning for the car wasn't good either especially as I could have parked across the street for $15 dollars rather than the $36 the hotel charge, Overall recommended
+[0.7754364013671875] Then we asked the hotel (after we parked our car in the public parking) and they said that we'd pay $35 until 3 pm!!
+[0.699951171875] Not until the next day after we checked out did we find out that the rate was THIRTY FIVE cents difference on each dollar and when you do the math they make a very nice profit off of unsuspecting American tourists.
+
+----- Weakening -----
+
+[-0.8235626220703125] Someone invested in training the staff and it showed.
+[-0.82177734375] Also very convenient was the free in-room wifi which I really appreciated as so many hotels still do not offer the in-room wifi option.
+[-0.71075439453125] They did offer us free breakfast which was okay, a little cold but the omelets were really good.
+[-0.710723876953125] Free high speed internet.
+[-0.7075958251953125] Pros: convenient central lOcation, very comfortable bed, free wifi are all great aspects for business or leisure traveler to have.
+
+**********
+
+[0.9801654815673828] The hotel charged one of the guests twice.
+Parent: The hotel also double-charged one of the guests.
+
+----- Supporting -----
+
+[0.9801654815673828] Hotel comped our room, but then double charged us.
+[0.4808006286621094] Stayed here Sept. 9th 2011 for two nighfts.
+[0.475341796875] We prepaid for our room which was supposed to be 2 Queens, when we checked in we were told that they only had a King with sofabed left.
+[0.1806640625] Two nights we did have a guest, who had orginally intended to attend the conference: despite being assured on the phone that we could add a rollaway for him, when he arrived, we couldn't, and he and my colleague had to split a regular bed.
+[0.1044921875] I had clicked "pay" for this non refundable rate when I realized that there were hidden charges for an additional $100.00.
+
+----- Weakening -----
+
+[-0.9469833374023438] Back down at the desk we were offered a portable cot "free of charge".
+[-0.9410285949707031] They did offer us free breakfast which was okay, a little cold but the omelets were really good.
+[-0.9263877868652344] For a price of $10 we had a choice of hot and cold items, both ready made, and made to order.
+[-0.92303466796875] On the day of checkout, the front desk got a limo for the price of a common taxi to take us to the airport.
+[-0.9001007080078125] At check in we got to help ourselves to the complimentary cookies which were very delicious.
+
+**********
+
+[0.8394012451171875] The service was not good.
+Parent: The reviews said that the service was not good.
+
+----- Supporting -----
+
+[0.8394012451171875] I would avoid the restaurant in the hotel as the service is slow and inconsistent.
+[0.8286380767822266] Never in my life have I spent so much in one place and been treated so poorly.
+[0.6627922058105469] Our check in experience was not great.
+[0.62640380859375] The 20 minute wait the following morning for the car wasn't good either especially as I could have parked across the street for $15 dollars rather than the $36 the hotel charge, Overall recommended
+[0.5414962768554688] I would not stay her again because of the rude front desk staff and the street noise.
+
+----- Weakening -----
+
+[-0.9964828491210938] Exceptional service!
+[-0.995732307434082] The service was exceptional and the rooms are very clean and comfortable.
+[-0.9954729080200195] Restaurant was really good too with great service!
+[-0.9951410293579102] The service was excellent, we were offered a deal on breakfast at check in.
+[-0.9945211410522461] The service is great and you must try a croissant - the best.
+
+**********
+
+[0.98516845703125] There was no housecleaning or maid service.
+Parent: There was no housecleaning/maid service, and after 11pm you have to use your room card to get into the building.
+
+----- Supporting -----
+
+[0.98516845703125] First, there was absolutely no housecleaning/maid service!
+[0.611572265625] We requested to have a maid clean our bathroom and take the trash out, no one ever came!
+[0.0267181396484375] The indoor pool and hot tub are nice and we had the whole area to ourselves when we went.
+[0.0150299072265625] my boyfriend and i both went home sore and dead tired from trying to find a comfortable way to sleep tossing and turning all night but there was none.
+[0.0070343017578125] It was also VERY quiet.
+
+----- Weakening -----
+
+[-0.9985489845275879] Housekeeping even stopped by to make sure we had everything we needed shortly after we arrived.
+[-0.9981584548950195] If we call for extra towels/sheets/cups, it's all sent up very quickly by housekeeping staff.
+[-0.9979987144470215] The rooms are in excellent condition, housekeeping is very good, and the location is very handy to everything downtown.
+[-0.9979152679443359] Housekeeping changed towels when not needed, and so on and so forth!
+[-0.9975128173828125] housekeeping was super here.
+
+**********
+
+[0.9930109977722168] After 11pm, you need your room card to get into the building.
+Parent: There was no housecleaning/maid service, and after 11pm you have to use your room card to get into the building.
+
+----- Supporting -----
+
+[0.9930109977722168] Second, after 11pm you have to use your room card to get into the building.
+[0.010284423828125] Happily to get in the hotel at night you need to use your keycard and they ask you to confirm your room number and name at the front desk prior to accessing the elevator.
+[0.0] Horrible !
+[0.0] WOW !
+[0.0] Downfall ?
+
+----- Weakening -----
+
+[-0.7552108764648438] Arrived early 10.15 and asked if I could leave my bags and check in later, the girl on the desk let me check in straight away, a real bonus when sometimes they make you wait until 3pm.
+[-0.7340593338012695] Free internet was nice too, and useful.
+[-0.69268798828125] Then we asked the hotel (after we parked our car in the public parking) and they said that we'd pay $35 until 3 pm!!
+[-0.6816205978393555] And the free internet is speedy.
+[-0.6302413940429688] Even though we didn't buy them you could buy snacks 24 hours a day which was nice.
+
+**********
+
+[0.9235773086547852] The service is courteous.
+Parent: The reviews say that the service is curtious, friendly, and helpful.
+
+----- Supporting -----
+
+[0.9235773086547852] The staff is very polite and attentive.
+[0.9187755584716797] Overall a positive stay, staff were courteous & friendly and would comeback again.
+[0.8959846496582031] The staff were very friendly and service was great just lacked a calculator!
+[0.8724632263183594] Describe the service you experienced - Front desk staff very polite and friendly.
+[0.8721237182617188] Hotel is brand new, with valet parking, service is exeptional with extra personal touches of the staff remembering you from check in.
+
+----- Weakening -----
+
+[-0.996485710144043] They told us in a very rude tone and with attitude that our credit card had been declined over the last few days and that they had tried it several time so we would have to provide a cash deposit.
+[-0.9957413673400879] Never in my life have I spent so much in one place and been treated so poorly.
+[-0.9947357177734375] I would not stay her again because of the rude front desk staff and the street noise.
+[-0.9799671173095703] That was a bit of a pain, but understandable, because it was getting extremely rowdy and it was clear people were bringing in about 10 people into one room.
+[-0.9755954742431641] We trusted them to be honest and they were not.
+
+**********
+
+[0.9690618515014648] The service is friendly.
+Parent: The reviews say that the service is curtious, friendly, and helpful.
+
+----- Supporting -----
+
+[0.9690618515014648] Service was fast and friendly.
+[0.9316177368164062] Describe the service you experienced - Front desk staff very polite and friendly.
+[0.9182920455932617] The staff was friendly and they did all they could to help us.
+[0.9117336273193359] The staff were very friendly and service was great just lacked a calculator!
+[0.9101734161376953] We love this hotel.It is clean and beautiful.The staff treat you like friends.It is so centrally located that you can access downtown Toronto at its best.You are in walking distance to everything.We will be staying here again for sure.
+
+----- Weakening -----
+
+[-0.994147777557373] Never in my life have I spent so much in one place and been treated so poorly.
+[-0.9900569915771484] They told us in a very rude tone and with attitude that our credit card had been declined over the last few days and that they had tried it several time so we would have to provide a cash deposit.
+[-0.9878654479980469] I would not stay her again because of the rude front desk staff and the street noise.
+[-0.9728221893310547] We spoke with the lady at the desk and all she had to say was "we have never had a Sunday like this... We have another valet employee coming in in an hour" Not helpful!
+[-0.9177284240722656] Hotel rooms and restaurant = great "Valet" = brutal and ruined the whole stay.
+
+**********
+
+[0.8971662521362305] The service is helpful.
+Parent: The reviews say that the service is curtious, friendly, and helpful.
+
+----- Supporting -----
+
+[0.8971662521362305] I have nothing bad to say about this hotel, helpful staff, clean tidy room, comfy beds, great location, it was a perfect place to stay.
+[0.8578834533691406] The staff is pleasant and helpful.
+[0.8202285766601562] Pros: room very clean and well-lit; staff extremely helpful; extra comfortable beds (probably one of the best hotel beds I've slept in) Cons: room internet was very slow except for very basic email checks; breakfast room was understaffed so that two frantic staff-members were running around looking very flustered and struggling to deal with all the guests
+[0.8111000061035156] Very nice hotel, clean, and helpful staff.
+[0.7797908782958984] Staff was friendly and helpful.
+
+----- Weakening -----
+
+[-0.9762344360351562] We spoke with the lady at the desk and all she had to say was "we have never had a Sunday like this... We have another valet employee coming in in an hour" Not helpful!
+[-0.9183807373046875] I would avoid the restaurant in the hotel as the service is slow and inconsistent.
+[-0.8660621643066406] Never in my life have I spent so much in one place and been treated so poorly.
+[-0.8438720703125] I would NOT recommend giving this hotel your business.
+[-0.7425060272216797] I would not stay her again because of the rude front desk staff and the street noise.
+
+**********
+
+[0.08591461181640625] There is a problem with the credit card machine.
+Parent: There is also mention of a problem with the credit card machine, but it was quickly taken care of.
+
+----- Supporting -----
+
+[0.08591461181640625] After swiping your card then you are questioned by someone about which room you are going to.
+[0.0782470703125] Key cards kept deactivating so we had to go up and down elevator several times to have it reactivated.
+[0.04196929931640625] I had clicked "pay" for this non refundable rate when I realized that there were hidden charges for an additional $100.00.
+[0.041286468505859375] From the check in we were given a hard time because I wanted to pay for all the rooms under 1 card.
+[0.02013397216796875] Second, after 11pm you have to use your room card to get into the building.
+
+----- Weakening -----
+
+[-0.7416534423828125] The bed had a control to change firmness which was neat- overall could have been softer but no complaints.
+[-0.711273193359375] The climate control in the room worked extremely quickly to change between different temperatures to keep the room as cool or warm as you like it.
+[-0.6732940673828125] In the shower there is a very nice rainfall shower head that feels great to get into after a long day walking around Toronto, especially in the heat!
+[-0.626678466796875] The only issue was that it was VERY NOISY at night having multiple clubs right outside the front doors.
+[-0.5875778198242188] The wallpaper in the bathroom and our room was warped, bubbled, etc.
+
+**********
+
+[0.0036106109619140625] The credit card machine was not working properly, but it was quickly fixed.
+Parent: There is also mention of a problem with the credit card machine, but it was quickly taken care of.
+
+----- Supporting -----
+
+[0.0036106109619140625] We called the front desk and it was taken care of within 15mins.
+[0.000911712646484375] Friendly and helpful staff.
+[0.0007410049438476562] The staff is pleasant and helpful.
+[0.0006809234619140625] Staff was friendly and helpful.
+[0.00039005279541015625] The staff on the front desk were very polite and helpful.
+
+----- Weakening -----
+
+[-0.46060752868652344] I sent a hard copy letter to the general manager suggesting this was a problem and have not received even an acknowledgment after a month.
+[-0.40762901306152344] Am currently seeking medical attention for it.
+[-0.36922359466552734] Couldn't find any faults with this hotel.
+[-0.34833526611328125] But then it was all down hill from there.
+[-0.33461666107177734] Never heard back.
+
+**********
+
+[0.5136966705322266] The desk clerks do not understand that two people might have two reservations to share one room. This is a problem.
+Parent: There is also mention of a problem with the desk clerks not understanding that two people might have two reservations to share one room, but it is not clear if this was resolved.
+
+----- Supporting -----
+
+[0.5136966705322266] Not a bad place for _recreational_ travelers But the desk clerks could not figure out that for business travel, two people might have two reservations to share one room -- not, as the clerks set it up, for one to be the guest of the other (which also means no "HHonors" points for the "guest).
+[0.43422508239746094] This is where the weekend turns for the worse....
+[0.25510692596435547] Everything about this hotel was great it's too bad something so negative like this is pretty much out of their control.
+[0.18251323699951172] For some this may not be an issue, but also be aware, most rooms do not have bathtubs, just standup showers, so if you like to bath or have children who you need to bath, this is likely not the best choice.
+[0.1450185775756836] what makes is worse is the drunk people returning to there rooms from 12am to 5am.
+
+----- Weakening -----
+
+[-0.8497653007507324] The room was clean and comfortable...So nice to have that special attention from our room staff...thank you!
+[-0.7134566307067871] Free internet was nice too, and useful.
+[-0.70257568359375] Breakfast was wonderful- the staff encouraged us to take whatever we wanted to go - with paper bags made available.
+[-0.6892690658569336] A great place for a family of four (2 children under 10).
+[-0.6729702949523926] The indoor pool and hot tub are nice and we had the whole area to ourselves when we went.
+
+**********
+
+[0.803955078125] This was not resolved.
+Parent: There is also mention of a problem with the desk clerks not understanding that two people might have two reservations to share one room, but it is not clear if this was resolved.
+
+----- Supporting -----
+
+[0.803955078125] We requested a later check out and they would not accommodate this....which I have never had happen before.
+[0.6377029418945312] Never heard back.
+[0.4883575439453125] He has not called back.
+[0.4832763671875] We spoke with the lady at the desk and all she had to say was "we have never had a Sunday like this... We have another valet employee coming in in an hour" Not helpful!
+[0.459716796875] I sent a hard copy letter to the general manager suggesting this was a problem and have not received even an acknowledgment after a month.
+
+----- Weakening -----
+
+[-0.9951333999633789] The climate control in the room worked extremely quickly to change between different temperatures to keep the room as cool or warm as you like it.
+[-0.9941911697387695] The front desk staff responded quickly to the noise at 2AM with the room next door.
+[-0.9928474426269531] We called the front desk and it was taken care of within 15mins.
+[-0.9913158416748047] The staff was nice to us, and our demands were answered quickly.
+[-0.9901237487792969] The front desk made sure I was ok and comfortable and even went out of their way to offer soup, neo citran etc.
+
+**********
+
+[0.9501075744628906] The service at this hotel is excellent.
+Parent: The service at this hotel is generally very good.
+
+----- Supporting -----
+
+[0.9501075744628906] Hotel is brand new, with valet parking, service is exeptional with extra personal touches of the staff remembering you from check in.
+[0.8848819732666016] I have nothing bad to say about this hotel, helpful staff, clean tidy room, comfy beds, great location, it was a perfect place to stay.
+[0.8829374313354492] I often stay at Hilton properties and the Toronto Hilton Garden Inn offers a great, and expected, level of service and comfort.
+[0.8620777130126953] The front desk staff, porters, room staff, wereall excellent....When a hotel strives for excellence in costumer service, it shows....it really does...
+[0.843663215637207] Very nice hotel, clean, and helpful staff.
+
+----- Weakening -----
+
+[-0.9961786270141602] I would avoid the restaurant in the hotel as the service is slow and inconsistent.
+[-0.9953064918518066] I would not stay her again because of the rude front desk staff and the street noise.
+[-0.9935426712036133] Never in my life have I spent so much in one place and been treated so poorly.
+[-0.9935126304626465] I would NOT recommend giving this hotel your business.
+[-0.9849700927734375] We spoke with the lady at the desk and all she had to say was "we have never had a Sunday like this... We have another valet employee coming in in an hour" Not helpful!
+
+**********
+
+[0.9905610084533691] The staff is polite.
+Parent: The staff are polite and helpful, and they are willing to accommodate requests.
+
+----- Supporting -----
+
+[0.9905610084533691] The staff is very polite and attentive.
+[0.9771246910095215] Staff is also very friendly and accommodating.
+[0.9722785949707031] The staff were very friendly and unintrusive, check in and check out were quick, under 5 mins.
+[0.9703178405761719] The staff on the front desk were very polite and helpful.
+[0.9673604965209961] The staff was always very friendly.
+
+----- Weakening -----
+
+[-0.9870853424072266] I would not stay her again because of the rude front desk staff and the street noise.
+[-0.9865531921386719] They told us in a very rude tone and with attitude that our credit card had been declined over the last few days and that they had tried it several time so we would have to provide a cash deposit.
+[-0.9765071868896484] Never in my life have I spent so much in one place and been treated so poorly.
+[-0.9411163330078125] We spoke with the lady at the desk and all she had to say was "we have never had a Sunday like this... We have another valet employee coming in in an hour" Not helpful!
+[-0.8974418640136719] As we arrived, I was wondering why the front desk girl was all rushed while we were the only ones checking in.
+
+**********
+
+[0.9869351387023926] The staff is helpful.
+Parent: The staff are polite and helpful, and they are willing to accommodate requests.
+
+----- Supporting -----
+
+[0.9869351387023926] The staff is pleasant and helpful.
+[0.9729557037353516] Staff was friendly and helpful.
+[0.9712581634521484] The staff was friendly, helpful and efficient.
+[0.9595208168029785] Friendly and helpful staff.
+[0.9570178985595703] Very nice hotel, clean, and helpful staff.
+
+----- Weakening -----
+
+[-0.9906387329101562] We spoke with the lady at the desk and all she had to say was "we have never had a Sunday like this... We have another valet employee coming in in an hour" Not helpful!
+[-0.9727716445922852] I would not stay her again because of the rude front desk staff and the street noise.
+[-0.9222507476806641] Never in my life have I spent so much in one place and been treated so poorly.
+[-0.8721771240234375] There was a slight mix up with our booking but no fuss was made although I did find the reception staff a little disinterested but nothing to spoil my stay.
+[-0.8109283447265625] On checkout, the Sunday-morning clerks could not produce an itemized bill, in my name, showing a zero balance -- which my controller demands for reimbursement.
+
+**********
+
+[0.9875874519348145] The staff is accommodating.
+Parent: The staff are polite and helpful, and they are willing to accommodate requests.
+
+----- Supporting -----
+
+[0.9875874519348145] Staff is also very friendly and accommodating.
+[0.9712553024291992] The staff is pleasant and helpful.
+[0.959538459777832] Very nice hotel, clean, and helpful staff.
+[0.9532089233398438] The staff is very polite and attentive.
+[0.951080322265625] I have nothing bad to say about this hotel, helpful staff, clean tidy room, comfy beds, great location, it was a perfect place to stay.
+
+----- Weakening -----
+
+[-0.9833545684814453] We spoke with the lady at the desk and all she had to say was "we have never had a Sunday like this... We have another valet employee coming in in an hour" Not helpful!
+[-0.9801254272460938] I would not stay her again because of the rude front desk staff and the street noise.
+[-0.9772701263427734] Never in my life have I spent so much in one place and been treated so poorly.
+[-0.9720306396484375] We requested a later check out and they would not accommodate this....which I have never had happen before.
+[-0.9647636413574219] They told us in a very rude tone and with attitude that our credit card had been declined over the last few days and that they had tried it several time so we would have to provide a cash deposit.
+
+**********
+
+[0.8577251434326172] The business center is of high quality.
+Parent: The business center and gym are also high quality.
+
+----- Supporting -----
+
+[0.8577251434326172] There was a business centre, gym and pool, all of which were high quality.
+[0.41422271728515625] Maybe some hotels have a lower rate, but if you are looking for consistency, and quality at a competitive room rate in the downtown core, you really cannot go wrong with this place.
+[0.3479499816894531] The lobby is quite lovely, the parking is expensive.
+[0.3203086853027344] Nice facilityin a convenient location, very useful business services room, friendly restaurant staff (though the honeydew melon in the salad bar was off).
+[0.23380279541015625] Be it for personal or business I highly recommend this property....it's location to all downtown amenities, sites coupled with the extrodinary customer service and high quality room make it a must!
+
+----- Weakening -----
+
+[-0.794586181640625] The lobby is a little spare, and the furnishings are going down that Hilton Garden Inn direction of "your room is your office", which I appreciate when I travel for, well, business, and which appeals less for when I'm there because it's down the street from the theatre.
+[-0.7629156112670898] Never in my life have I spent so much in one place and been treated so poorly.
+[-0.7362060546875] I would NOT recommend giving this hotel your business.
+[-0.703216552734375] The food was of high quality and good variety.
+[-0.6587753295898438] This night was a bit of a mess; we would walk out to the hallway and smell weed, hear loud music blasting, etc.
+
+**********
+
+[0.9112968444824219] The gym is of high quality.
+Parent: The business center and gym are also high quality.
+
+----- Supporting -----
+
+[0.9112968444824219] The rooms are equal to anything Hilton offers, the fitness facility is first rate and the restaurant staff are friendly and attentive - to the right degree.
+[0.8980855941772461] Gym is very good, and to my surprise, was empty the couple of times I went about.
+[0.7753334045410156] They have an incredible pool and gym that are both kept impeccably clean.
+[0.6892013549804688] There was a business centre, gym and pool, all of which were high quality.
+[0.45901966094970703] There is an excellent restaurant in the hotel on the second floor Also on the second floor is a small pool and a very good gym.
+
+----- Weakening -----
+
+[-0.8757095336914062] Hotel rooms and restaurant = great "Valet" = brutal and ruined the whole stay.
+[-0.8158187866210938] I truly disliked the bed.
+[-0.7831535339355469] OK, I love music, but this was no music !
+[-0.7724418640136719] Never in my life have I spent so much in one place and been treated so poorly.
+[-0.76513671875] The restaurant food was excellent-we had chicken stir fry and shrimp pasta.
+
+**********
+
+[0.34716796875] The staff member who checked them in was unprofessional.
+Parent: The only complaint is that one reviewer found the staff member who checked them in to be unprofessional.
+
+----- Supporting -----
+
+[0.34716796875] I would not stay her again because of the rude front desk staff and the street noise.
+[0.2803955078125] There was a slight mix up with our booking but no fuss was made although I did find the reception staff a little disinterested but nothing to spoil my stay.
+[0.2576904296875] staff was lovely except the lady who checked me in , wasnt a happy person , she didnt check me in until she make sure that i m a hilton employee , which i m not very happy about .
+[0.2288818359375] Sometimes desk people can have an attitude, but not this woman.
+[0.2166748046875] We spoke with the lady at the desk and all she had to say was "we have never had a Sunday like this... We have another valet employee coming in in an hour" Not helpful!
+
+----- Weakening -----
+
+[-0.9884476661682129] The rooms in this hotel are really nice and the front desk staff were very friendly when we checked in.
+[-0.985231876373291] The staff is very polite and attentive.
+[-0.9810905456542969] Abbas was great GSA , very professional , and he was a lot of help .
+[-0.9800143241882324] The front desk staff, porters, room staff, wereall excellent....When a hotel strives for excellence in costumer service, it shows....it really does...
+[-0.9791698455810547] The hotel staff was very nice and let us leave our luggage before and after check in so that we can go around the city.
+
+**********
+
+[0.991060733795166] The staff were friendly.
+Parent: The reviews said that the staff were friendly and helpful, and that the service was great.
+
+----- Supporting -----
+
+[0.991060733795166] The staff was always very friendly.
+[0.9890742301940918] Staff was friendly and helpful.
+[0.9873199462890625] The staff was friendly, helpful and efficient.
+[0.9855647087097168] all of the staff were super friendly.
+[0.9852795600891113] The staff was friendly and they did all they could to help us.
+
+----- Weakening -----
+
+[-0.9930105209350586] They told us in a very rude tone and with attitude that our credit card had been declined over the last few days and that they had tried it several time so we would have to provide a cash deposit.
+[-0.9917821884155273] I would not stay her again because of the rude front desk staff and the street noise.
+[-0.9873342514038086] We spoke with the lady at the desk and all she had to say was "we have never had a Sunday like this... We have another valet employee coming in in an hour" Not helpful!
+[-0.9849462509155273] Never in my life have I spent so much in one place and been treated so poorly.
+[-0.8512935638427734] Hotel rooms and restaurant = great "Valet" = brutal and ruined the whole stay.
+
+**********
+
+[0.987483024597168] The staff were helpful.
+Parent: The reviews said that the staff were friendly and helpful, and that the service was great.
+
+----- Supporting -----
+
+[0.987483024597168] The staff was friendly, helpful and efficient.
+[0.986473560333252] Staff was friendly and helpful.
+[0.9864335060119629] The staff is pleasant and helpful.
+[0.9723525047302246] The staff on the front desk were very polite and helpful.
+[0.9669747352600098] I have nothing bad to say about this hotel, helpful staff, clean tidy room, comfy beds, great location, it was a perfect place to stay.
+
+----- Weakening -----
+
+[-0.9956293106079102] We spoke with the lady at the desk and all she had to say was "we have never had a Sunday like this... We have another valet employee coming in in an hour" Not helpful!
+[-0.9852371215820312] I would not stay her again because of the rude front desk staff and the street noise.
+[-0.9635467529296875] We requested to have a maid clean our bathroom and take the trash out, no one ever came!
+[-0.9374561309814453] Never in my life have I spent so much in one place and been treated so poorly.
+[-0.9360313415527344] On checkout, the Sunday-morning clerks could not produce an itemized bill, in my name, showing a zero balance -- which my controller demands for reimbursement.
+
+**********
+
+[0.9648504257202148] The service was great.
+Parent: The reviews said that the staff were friendly and helpful, and that the service was great.
+
+----- Supporting -----
+
+[0.9648504257202148] The service is great and you must try a croissant - the best.
+[0.9567375183105469] The service was exceptional and the rooms are very clean and comfortable.
+[0.9368534088134766] The service was excellent, we were offered a deal on breakfast at check in.
+[0.93084716796875] Restaurant was really good too with great service!
+[0.9293842315673828] The service was exceptional and went beyond the standard service.
+
+----- Weakening -----
+
+[-0.9967865943908691] Never in my life have I spent so much in one place and been treated so poorly.
+[-0.9936556816101074] First, there was absolutely no housecleaning/maid service!
+[-0.9931659698486328] I would avoid the restaurant in the hotel as the service is slow and inconsistent.
+[-0.9902749061584473] I would not stay her again because of the rude front desk staff and the street noise.
+[-0.9879474639892578] Breakfast is adequate, nothing impressive.
+
+**********
+
+[0.9916987419128418] The rooms were clean.
+Parent: They also said that the rooms were clean and comfortable, and that the hotel was close to the subway line.
+
+----- Supporting -----
+
+[0.9916987419128418] The rooms were very clean and nice.
+[0.986142635345459] The rooms were very clean and comfortable and the location was very convenient to a lot of major attractions downtown.
+[0.9811248779296875] Rooms are clean and spacious with your own refrigerator and microwave.
+[0.9803647994995117] The room was clean and and the beds are really comfortable.
+[0.9787993431091309] :-) Rooms VERY clean and were comfortable and roomy...sitting chairs and ottomans to put your feet up.
+
+----- Weakening -----
+
+[-0.9962472915649414] This night was a bit of a mess; we would walk out to the hallway and smell weed, hear loud music blasting, etc.
+[-0.9945783615112305] The wallpaper in the bathroom and our room was warped, bubbled, etc.
+[-0.9913330078125] There were weird grease marks on the wall as well.
+[-0.9902877807617188] Plus the spa had too much chlorine in and that my eye's were stinging.
+[-0.9787521362304688] However the carpet in the room had 2 stains.
+
+**********
+
+[0.9802355766296387] The rooms were comfortable.
+Parent: They also said that the rooms were clean and comfortable, and that the hotel was close to the subway line.
+
+----- Supporting -----
+
+[0.9802355766296387] The rooms were very clean and comfortable and the location was very convenient to a lot of major attractions downtown.
+[0.9799709320068359] The rooms were warm and comfortable, and the hotel has a small but cozy lobby with a fireplace, business center and small market shop.
+[0.9701108932495117] The service was exceptional and the rooms are very clean and comfortable.
+[0.9697880744934082] The rooms are well-equipped and comfortable.
+[0.9679837226867676] The room was clean and and the beds are really comfortable.
+
+----- Weakening -----
+
+[-0.9818496704101562] my boyfriend and i both went home sore and dead tired from trying to find a comfortable way to sleep tossing and turning all night but there was none.
+[-0.9695234298706055] That was a bit of a pain, but understandable, because it was getting extremely rowdy and it was clear people were bringing in about 10 people into one room.
+[-0.9506072998046875] This night was a bit of a mess; we would walk out to the hallway and smell weed, hear loud music blasting, etc.
+[-0.9247360229492188] overall the people were nice but because of the uncomfortable bed we would not stay here again.
+[-0.9152069091796875] In the bathroom you feel like you are in a space capsule and these are a little cramped but lets face it how much time do you spend in a bathroom...in and out right!
+
+**********
+
+[0.234344482421875] The hotel was close to the subway line.
+Parent: They also said that the rooms were clean and comfortable, and that the hotel was close to the subway line.
+
+----- Supporting -----
+
+[0.234344482421875] We stayed for 2 nights , and spent both evenings at Roy Thompson Hall.... Peter St. intersects with the King Street Car, so we took full advantage of the TTC.
+[0.1160888671875] Great location for CN Tower/Blue Jays with plenty of local bars and restaurants, and easy access to tramcars.
+[0.036102294921875] We took one of those hop on and off tour bus and there was a stop not that far from the hotel.. We only stayed there for 1 night but we made the most out of it.
+[0.03269195556640625] We could see the CN tower from our room.
+[0.02544403076171875] The 15-minute walk to Union Station is very easy and convenient.
+
+----- Weakening -----
+
+[-0.9502601623535156] Not near a subway, but no need, we walked everywhere.
+[-0.897247314453125] The hotel is right beside a nightclub.
+[-0.8855514526367188] However, it's right next to a really noisy nightclub.
+[-0.8750152587890625] Also it is conveniently located near a Shoppers which, with the in room microwave and fridge it makes it easy to have a quick snack in the room.
+[-0.8089981079101562] The lobby is a little spare, and the furnishings are going down that Hilton Garden Inn direction of "your room is your office", which I appreciate when I travel for, well, business, and which appeals less for when I'm there because it's down the street from the theatre.

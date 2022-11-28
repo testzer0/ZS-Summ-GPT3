@@ -1,0 +1,23 @@
+***** Aspect: rooms Model Type : zs *****
+Overall score: 0.9874734878540039
+
+**********
+
+[0.9874734878540039] The room was small.
+Parent: The room was small.
+
+----- Supporting -----
+
+[0.9874734878540039] The room was so tiny we could hardly fit in it.
+[0.9823017120361328] Room was quite small, with very limited closet space, especially for 2 adults and a child.
+[0.9802656173706055] The room was small and dark and old.
+[0.979313850402832] The rooms are quite small, which was a little tight with two kids and my wife and me.
+[0.9707746505737305] The room was the smallest we stayed in during our tour of western Canada, and it was a struggle to fit in a rollaway bed for my son.
+
+----- Weakening -----
+
+[-0.9968690872192383] Big rooms with lots of windows.
+[-0.9964742660522461] A beautiful large modern style room with lots of windows.
+[-0.9963560104370117] Our room was clean and large.
+[-0.9949140548706055] The balcony had impressive views and was private, the suite was huge and very comfortable.
+[-0.9948854446411133] It was vast, with a dining room, 2 bathrooms - and a jacuzzi in the bedroom!

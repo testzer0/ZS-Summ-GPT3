@@ -1,0 +1,85 @@
+***** service : Sentiments for original sentences *****
+money : + 1     - 0
+room : + 7     - 0
+staff : + 29     - 2
+front desk : + 1     - 1
+glasses : + 0     - 1
+sheets : + 0     - 1
+front desk staff : + 1     - 1
+manager : + 2     - 3
+front desk manager : + 1     - 0
+Bar service : + 0     - 1
+food : + 2     - 0
+service : + 12     - 4
+bartender : + 0     - 1
+cab : + 1     - 0
+services : + 0     - 1
+train : + 0     - 1
+Service : + 2     - 0
+Housekeeping : + 1     - 0
+stuff : + 1     - 0
+internet : + 3     - 0
+Rooms : + 1     - 0
+front desk clerk : + 0     - 1
+front desk guy : + 1     - 0
+internet service : + 1     - 0
+People : + 1     - 0
+amenities : + 1     - 0
+bellman : + 0     - 1
+bellmen : + 1     - 0
+rooms : + 2     - 0
+view : + 3     - 0
+bill : + 0     - 1
+rate : + 1     - 1
+attendant : + 0     - 1
+attendent : + 0     - 1
+employees : + 1     - 0
+staff members : + 1     - 1
+check : + 1     - 0
+elevator service : + 0     - 1
+views : + 2     - 0
+breakfast : + 2     - 0
+staff person : + 1     - 0
+bumper to bumper traffic : + 0     - 1
+lady : + 1     - 0
+bell captain : + 0     - 1
+transportation office : + 0     - 1
+dining : + 1     - 0
+lobby : + 1     - 0
+bars downstairs : + 1     - 0
+sights : + 1     - 0
+bellboys : + 1     - 0
+front desk officials : + 1     - 0
+Front desk staff : + 1     - 0
+Bayside Marketplace : + 1     - 0
+comfort : + 1     - 0
+beds : + 1     - 0
+place : + 1     - 0
+bar : + 1     - 0
+suite : + 1     - 0
+Staff : + 1     - 1
+room service : + 1     - 0
+housekeeping staff : + 0     - 1
+internet access : + 1     - 1
+employee : + 1     - 0
+location : + 1     - 0
+Room service trays : + 0     - 1
+Front desk : + 1     - 0
+accommodations : + 1     - 0
+served : + 1     - 0
+bathroom : + 1     - 0
+Hyatt personal service : + 1     - 0
+center : + 1     - 0
+Rates : + 0     - 1
+guy : + 0     - 1
+***** service : Sentiments for raw summaries *****
+service : + 3     - 3
+staff : + 2     - 2
+housekeeping staff : + 0     - 1
+rates : + 0     - 1
+staff members : + 1     - 0
+front desk clerk : + 0     - 1
+area : + 0     - 1
+internet : + 0     - 1
+rooms : + 1     - 0
+***** service : Sentiments for final summary *****

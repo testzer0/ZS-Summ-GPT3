@@ -1,0 +1,86 @@
+***** Aspect: location Model Type : zs *****
+Overall score: 0.9362198114395142
+
+**********
+
+[0.9667773246765137] The hotel is in a good location.
+Parent: The location of the hotel is good, with access to some great restaurants.
+
+----- Supporting -----
+
+[0.9667773246765137] The hotel is in a nice location with good access to some great restaurants.
+[0.8169174194335938] Until recently the center of Main Street in Dallas has not been the most amazing location in Dallas to stay, but the Joule is turning into an anchor location with the downtown Nieman Marcus a couple blocks in one direction and the JFK memorial a couple blocks in the other and about 6 or 7 popular restaurants surrounding the hotel.
+[0.5919075012207031] The convenient location of The Joule allowed us to choose from a variety of restaurants.
+[0.23702430725097656] The hotel is located in the heart of downtown Dallas near several shops and restaurants.
+[0.18358802795410156] Back to the Penthouse...what a view of Dallas, both at night with all the lights and then again in the morning when we met for breakfast.
+
+----- Weakening -----
+
+[-0.7969818115234375] The area around the hotel isn't exactly swanky.
+[-0.6239547729492188] Location wasn't the best and looked a little scary out on the street at times, but no issues while out walking before dark.
+[-0.280120849609375] This hotel has a very cramped feel.
+[-0.16693115234375] The view from the lower floors is kinda cruddy and the street noise might get loud on the weekend.
+[-0.1568450927734375] This extends to the restaurants as well Bad: â€¢ No parking within the hotel itself so if you do not wish to pay for valet parking you have to drive around to a nearby parking building â€¢ No upgrades for SPG Platinum members â€“ although since I was travelling for business, I didnâ€™t particularly care.
+
+**********
+
+[0.9902315139770508] The hotel has access to some great restaurants.
+Parent: The location of the hotel is good, with access to some great restaurants.
+
+----- Supporting -----
+
+[0.9902315139770508] The hotel is in a nice location with good access to some great restaurants.
+[0.9378180503845215] the hotel has an excellent in house restaurant with plenty on the menu and delectable choices.
+[0.7889919281005859] It is clear this hotel has no loading dock or alley because while I was eating dinner at the award winning restaurant downstairs (Charlie Palmer's) I had big trucks pulling up within 10 ft of my table loading and unloading big crates of towels (I learned they outsource their linens) and other large pieces of equipment.
+[0.7882938385009766] Until recently the center of Main Street in Dallas has not been the most amazing location in Dallas to stay, but the Joule is turning into an anchor location with the downtown Nieman Marcus a couple blocks in one direction and the JFK memorial a couple blocks in the other and about 6 or 7 popular restaurants surrounding the hotel.
+[0.7789182662963867] The convenient location of The Joule allowed us to choose from a variety of restaurants.
+
+----- Weakening -----
+
+[-0.52142333984375] This extends to the restaurants as well Bad: â€¢ No parking within the hotel itself so if you do not wish to pay for valet parking you have to drive around to a nearby parking building â€¢ No upgrades for SPG Platinum members â€“ although since I was travelling for business, I didnâ€™t particularly care.
+[-0.16704940795898438] Trip to this hotel started off VERY poorly with a bungled reservation.
+[-0.06505584716796875] The guest who remained were forced to go across the street to a dive bar where the b-day girl began to cry uncontrollably over her ruined special evening.
+[-0.044979095458984375] You get no view .
+[-0.0445556640625] This hotel has a very cramped feel.
+
+**********
+
+[0.8389549255371094] The hotel is too cramped.
+Parent: However, it is also in a somewhat cramped area with a loading dock at the front of the building.
+
+----- Supporting -----
+
+[0.8389549255371094] This hotel has a very cramped feel.
+[0.80145263671875] The pool was nice as was the fitness center but with tiny cramped rooms, lack of customer service (I tried calling the desk 3 times and never go through) and the loading dock at the front of the building, I wouldn't recommend it.
+[0.0794677734375] This extends to the restaurants as well Bad: â€¢ No parking within the hotel itself so if you do not wish to pay for valet parking you have to drive around to a nearby parking building â€¢ No upgrades for SPG Platinum members â€“ although since I was travelling for business, I didnâ€™t particularly care.
+[-0.0045452117919921875] You get no view .
+[-0.015064239501953125] Had we been paying attention though, we could have asked for a room on the back side of the hotel when we made our reservation.
+
+----- Weakening -----
+
+[-0.9956386089324951] The convenient location of The Joule allowed us to choose from a variety of restaurants.
+[-0.9952080249786377] The hotel is in a nice location with good access to some great restaurants.
+[-0.9942457675933838] the hotel has an excellent in house restaurant with plenty on the menu and delectable choices.
+[-0.9938032627105713] We reserved a guest room which was beautiful and enjoyed a wonderful breakfast on the patio Saturday morning at Charlie Palmer's Restaurant.
+[-0.993337869644165] I stopped into Charlie Palmer for dinner, had a fantastic time there, Tommy the bartender took great care of me and the food was out of this world.
+
+**********
+
+[0.9489154815673828] The hotel has a loading dock.
+Parent: However, it is also in a somewhat cramped area with a loading dock at the front of the building.
+
+----- Supporting -----
+
+[0.9489154815673828] The pool was nice as was the fitness center but with tiny cramped rooms, lack of customer service (I tried calling the desk 3 times and never go through) and the loading dock at the front of the building, I wouldn't recommend it.
+[-0.0040493011474609375] I spent 2 nights in the St. Regis in Houston prior to coming to this hotel.
+[-0.00582122802734375] The hotel sits in the heart of Dallas.
+[-0.0059032440185546875] My stay at the Magnolia around the corner for the preceding two nights was far more pleasant for $150 less a night.
+[-0.00676727294921875] The best location in downtown Dallas.
+
+----- Weakening -----
+
+[-0.9913845062255859] It is clear this hotel has no loading dock or alley because while I was eating dinner at the award winning restaurant downstairs (Charlie Palmer's) I had big trucks pulling up within 10 ft of my table loading and unloading big crates of towels (I learned they outsource their linens) and other large pieces of equipment.
+[-0.574310302734375] Their nightclub, PM, manages the pool area.
+[-0.55816650390625] At first, I did not want to eat at the restaurant.
+[-0.4372673034667969] This extends to the restaurants as well Bad: â€¢ No parking within the hotel itself so if you do not wish to pay for valet parking you have to drive around to a nearby parking building â€¢ No upgrades for SPG Platinum members â€“ although since I was travelling for business, I didnâ€™t particularly care.
+[-0.4264678955078125] The guest who remained were forced to go across the street to a dive bar where the b-day girl began to cry uncontrollably over her ruined special evening.

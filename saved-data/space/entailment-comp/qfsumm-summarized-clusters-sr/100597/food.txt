@@ -1,0 +1,170 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.8011633157730103
+
+**********
+
+[0.9848709106445312] The food was expensive.
+Parent: Food was very expensive in restaurant and just okay .
+
+----- Supporting -----
+
+[0.9848709106445312] Food was very expensive in restaurant and just okay.
+[0.9679908752441406] Food was good, but a bit overpriced.
+[0.9593601226806641] The food was a little expensive-$13 for a burger and $12 for an omelette alone.
+[0.9586915969848633] That worked well for me since the food at the hotel is fairly pricey.
+[0.9527854919433594] The food was good although a bit pricey.
+
+----- Weakening -----
+
+[-0.9933147430419922] Restaurant food was excellent and reasonably priced and breakfast was good.
+[-0.8956222534179688] I was able to purchase a reasonably priced bottle of Oregon pinot noir for in-room consumption.
+[-0.7965278625488281] VERY average burger.
+[-0.7323837280273438] This plus we luv their complimentary cookies that they offer upon check-in.
+[-0.4197711944580078] Even got free cookies - wasn't expecting that.
+
+**********
+
+[0.9718475341796875] The food in the restaurant was okay.
+Parent: Food was very expensive in restaurant and just okay .
+
+----- Supporting -----
+
+[0.9718475341796875] Food was very expensive in restaurant and just okay.
+[0.8527774810791016] We were pretty late 9.54pm but managed to get a decent meal in the bar, I will happily come back to this doubletrees.
+[0.82440185546875] The not so good news - food at the hotel was OK.
+[0.6326904296875] We tried the hotel restaurants and the food was quite good.
+[0.5486106872558594] The food was decent as was the wine selection.
+
+----- Weakening -----
+
+[-0.893096923828125] We ordered food and received ice cold food one hour later.
+[-0.68011474609375] We ate supper in their restaurant and I had an excellent salad (large enough to divide) and an exceptionally good Reuben sandwich.
+[-0.4658203125] Restaurant food was excellent and reasonably priced and breakfast was good.
+[-0.407470703125] Choice of food was excelent.
+[-0.32745361328125] VERY average burger.
+
+**********
+
+[0.9613008499145508] The Oregon pinot noir was available for purchase.
+Parent: I was able to purchase a reasonably priced bottle of Oregon pinot noir for in - room consumption .
+
+----- Supporting -----
+
+[0.9613008499145508] I was able to purchase a reasonably priced bottle of Oregon pinot noir for in-room consumption.
+[0.04156494140625] The only good thing about it was that i booked it on Priceline and got a really good price.
+[0.001220703125] Booked thru hotwire and got such a great price ($69) we were worried what we'd be getting.... We were very pleasantly suprised!!
+[0.000213623046875] Overall I was quite pleased as we paid only $50 through Priceline.
+[-0.00128936767578125] It was good and the staff was attentive.
+
+----- Weakening -----
+
+[-0.825592041015625] AND they have the famous Doubletree chocolate chip cookies!
+[-0.7970809936523438] We were able to grab a quick bite and coffee at the convenience Starbucks in the lobby on our way out to our flight.
+[-0.7924652099609375] Even got free cookies - wasn't expecting that.
+[-0.7064361572265625] VERY average burger.
+[-0.65863037109375] The chocolate chip cookies are always a treat.
+
+**********
+
+[0.9725322723388672] The Oregon pinot noir was reasonably priced.
+Parent: I was able to purchase a reasonably priced bottle of Oregon pinot noir for in - room consumption .
+
+----- Supporting -----
+
+[0.9725322723388672] I was able to purchase a reasonably priced bottle of Oregon pinot noir for in-room consumption.
+[0.008304595947265625] Overall I was quite pleased as we paid only $50 through Priceline.
+[0.0049285888671875] The only good thing about it was that i booked it on Priceline and got a really good price.
+[0.0029325485229492188] It was good and the staff was attentive.
+[0.0015726089477539062] The food was decent as was the wine selection.
+
+----- Weakening -----
+
+[-0.6739883422851562] You absolutely cannot beat a Doubletree chocolate chip cookie as a welcome treat.
+[-0.6495265960693359] Food was good, but a bit overpriced.
+[-0.5456504821777344] Food was very expensive in restaurant and just okay.
+[-0.500152587890625] AND they have the famous Doubletree chocolate chip cookies!
+[-0.45733642578125] So a burger and soup were $32, and it was a very.
+
+**********
+
+[0.05643463134765625] The Oregon pinot noir was consumed in my hotel room.
+Parent: I was able to purchase a reasonably priced bottle of Oregon pinot noir for in - room consumption .
+
+----- Supporting -----
+
+[0.05643463134765625] I was able to purchase a reasonably priced bottle of Oregon pinot noir for in-room consumption.
+[-0.004256248474121094] The food was decent as was the wine selection.
+[-0.010644912719726562] It was good and the staff was attentive.
+[-0.013781547546386719] 75.00 (not including taxes) for a full day stay.
+[-0.015354156494140625] Choice of food was excelent.
+
+----- Weakening -----
+
+[-0.9409275054931641] So we had to order a pizza.
+[-0.9167366027832031] The soup was brought to us pretty cold, but he seemed to vanish so we couldn't complain.
+[-0.9004230499267578] Cookies were good, as always.
+[-0.8989524841308594] The chocolate chip cookies are always a treat.
+[-0.8900966644287109] VERY average burger.
+
+**********
+
+[0.7401390075683594] The clam chowder was good.
+Parent: We ordered clam chowder from the menu - much better than I expected - and finished off fruit from Pike Place Market .
+
+----- Supporting -----
+
+[0.7401390075683594] We ordered clam chowder from the menu - much better than I expected - and finished off fruit from Pike Place Market.
+[0.0012969970703125] It was good and the staff was attentive.
+[0.000682830810546875] Choice of food was excelent.
+[0.0002593994140625] Food was good, but a bit overpriced.
+[7.62939453125e-05] The food was good although a bit pricey.
+
+----- Weakening -----
+
+[-0.9039993286132812] The chocolate chip cookies are always a treat.
+[-0.876007080078125] You absolutely cannot beat a Doubletree chocolate chip cookie as a welcome treat.
+[-0.799530029296875] Cookies were good, as always.
+[-0.761993408203125] I love the big warm cookies in the evening.
+[-0.7030258178710938] And yes, we like the chocolate chip cookies at check-in.
+
+**********
+
+[0.7401390075683594] The clam chowder was good.
+Parent: We ordered clam chowder from the menu - much better than I expected - and finished off fruit from Pike Place Market .
+
+----- Supporting -----
+
+[0.7401390075683594] We ordered clam chowder from the menu - much better than I expected - and finished off fruit from Pike Place Market.
+[0.0012969970703125] It was good and the staff was attentive.
+[0.000682830810546875] Choice of food was excelent.
+[0.0002593994140625] Food was good, but a bit overpriced.
+[7.62939453125e-05] The food was good although a bit pricey.
+
+----- Weakening -----
+
+[-0.9039993286132812] The chocolate chip cookies are always a treat.
+[-0.876007080078125] You absolutely cannot beat a Doubletree chocolate chip cookie as a welcome treat.
+[-0.799530029296875] Cookies were good, as always.
+[-0.761993408203125] I love the big warm cookies in the evening.
+[-0.7030258178710938] And yes, we like the chocolate chip cookies at check-in.
+
+**********
+
+[0.9820423126220703] We ate fruit from Pike Place Market.
+Parent: We ordered clam chowder from the menu - much better than I expected - and finished off fruit from Pike Place Market .
+
+----- Supporting -----
+
+[0.9820423126220703] We ordered clam chowder from the menu - much better than I expected - and finished off fruit from Pike Place Market.
+[-0.00457000732421875] It was good and the staff was attentive.
+[-0.01102447509765625] Choice of food was excelent.
+[-0.013456344604492188] Food was good, but a bit overpriced.
+[-0.023168563842773438] The food was good although a bit pricey.
+
+----- Weakening -----
+
+[-0.9843363761901855] So we had to order a pizza.
+[-0.9650707244873047] The soup was brought to us pretty cold, but he seemed to vanish so we couldn't complain.
+[-0.963554859161377] So a burger and soup were $32, and it was a very.
+[-0.9606609344482422] Burger, soda and tip $21.00.
+[-0.9517049789428711] VERY average burger.

@@ -1,0 +1,23 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.9795379638671875
+
+**********
+
+[0.9795379638671875] Granville Island is a peninsula.
+Parent: Granville Island is a peninsula.
+
+----- Supporting -----
+
+[0.9795379638671875] Granville Island is actually a little peninsula (more like a giant pier) with a very laid back feel to it, complete with a down-home fresh foods market, like something you would see in the movies.
+[0.01470947265625] Granville Island was a little too touristy for me.
+[0.006072998046875] Granville Island is a great location to base a trip from if you are staying in Vancouver.
+[0.003021240234375] My mutt loves Granville Island!
+[0.002532958984375] We loved everything about Granville Island.
+
+----- Weakening -----
+
+[-0.976654052734375] A beautiful large modern style room with lots of windows.
+[-0.9756507873535156] It was a fun, informative, and flexible way to view the entire city.
+[-0.9753532409667969] it is a getaway in the middle of the city.
+[-0.9717521667480469] The room was small and dark and old.
+[-0.9678878784179688] The V-shaped hotel has its restaurant and bar seating within the V, making for noisy evenings in your room.

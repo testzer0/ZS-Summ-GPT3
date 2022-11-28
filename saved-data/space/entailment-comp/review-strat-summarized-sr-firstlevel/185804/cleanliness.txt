@@ -1,0 +1,191 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.13777923583984375
+
+**********
+
+[0.23235321044921875] The room was clean.
+Parent: The cleanliness of the room was generally praised, although one reviewer noted that a light bulb had burnt out and should have been replaced.
+
+----- Supporting -----
+
+[0.23235321044921875] It is clean, just a little frumpy.
+[0.0464935302734375] We had in-room massages provided by the spa just down the road and there was plenty of space for side-by-side table setup.
+[0.02085399627685547] It was pure bliss.
+[0.0184326171875] Very accomodating, offering the use of their umbrellas (take one!
+[0.014546394348144531] Check-in was friendly and efficient, and our room, although small, was fine.
+
+----- Weakening -----
+
+[-0.9567184448242188] * Lamp had burnt out light bulb...not a big deal but these things should be checked upon cleaning.
+[-0.9170684814453125] Otherwise, the decor and furnishings are a little tired and dated.
+[-0.862640380859375] Our only real disappontment was when we walked around Gastown, which really seems to have got shabby since our last visit.
+[-0.6920318603515625] My husband tried removing the shade from the lamp, which only helped a tiny bit.
+[-0.6805419921875] And the most annoying: the room lighting is poor, in particular the reading light.
+
+**********
+
+[0.4866943359375] The room had a burnt out light bulb.
+Parent: The cleanliness of the room was generally praised, although one reviewer noted that a light bulb had burnt out and should have been replaced.
+
+----- Supporting -----
+
+[0.4866943359375] * Lamp had burnt out light bulb...not a big deal but these things should be checked upon cleaning.
+[-0.011968135833740234] Having just come off a very long flight from Australia I arrived well before regular check in time but was shown to my room straight away.
+[-0.024918556213378906] Check-in was friendly and efficient, and our room, although small, was fine.
+[-0.037109375] Otherwise, the decor and furnishings are a little tired and dated.
+[-0.03963661193847656] All of that said, I would still stay here again, but would be prepared for needing cash for taxis.
+
+----- Weakening -----
+
+[-0.8909072875976562] WiFi was also pretty quick
+[-0.7925338745117188] What can we say, with the great location, ambiance and first class staff , who met our every need.
+[-0.770294189453125] Last year (2007) was the first time I tried the Christmas-morning brunch.
+[-0.72393798828125] Their Microbrewery is much praised.
+[-0.6666374206542969] It was pure bliss.
+
+**********
+
+[-0.06251144409179688] The shampoo bottle was too small.
+Parent: There was also mention of the size of the shampoo bottle, but it is not clear if this was a positive or negative comment.
+
+----- Supporting -----
+
+[-0.06251144409179688] We mentioned this upon check-out and they seemed happy to add those items to the room in future.
+[-0.07933425903320312] Last year (2007) was the first time I tried the Christmas-morning brunch.
+[-0.11089706420898438] After sort of figuring it out how it worked i started out for a ride to the beach.
+[-0.11529541015625] When we checked out they gladly kept our luggage until we were ready to leave the "island".
+[-0.1738739013671875] My only quibbles are small.
+
+----- Weakening -----
+
+[-0.8141860961914062] Pricing/value was impressive compared to other venues I looked at for these meetings.
+[-0.7571792602539062] There is a nice hottub to enjoy as well.
+[-0.747039794921875] WiFi was also pretty quick
+[-0.7181015014648438] I rented a bike but no one offered to show me how to use the lock.
+[-0.7109375] *The shampoo was in a ridiculous size bottle and if anyone figures out how to get it out of the bottle I would love to know.
+
+**********
+
+[0.2053070068359375] This is a positive comment.
+Parent: There was also mention of the size of the shampoo bottle, but it is not clear if this was a positive or negative comment.
+
+----- Supporting -----
+
+[0.2053070068359375] It was pure bliss.
+[0.1812896728515625] The Granville Island hotel concierge helped us get tickets on the trolley tour, and we are very glad we did.
+[0.161102294921875] Their Microbrewery is much praised.
+[0.1436309814453125] Very accomodating, offering the use of their umbrellas (take one!
+[0.1348876953125] There is a nice hottub to enjoy as well.
+
+----- Weakening -----
+
+[-0.9685382843017578] And the most annoying: the room lighting is poor, in particular the reading light.
+[-0.8569793701171875] My only quibbles are small.
+[-0.816802978515625] Our only real disappontment was when we walked around Gastown, which really seems to have got shabby since our last visit.
+[-0.637054443359375] What would have made this hotel a 5-star for us would have been if the concierge had been more knowledgeable, particularly with transit options for exploring attractions.
+[-0.573089599609375] It is clean, just a little frumpy.
+
+**********
+
+[0.006420135498046875] The reviews said that the hotel was clean.
+Parent: The reviews said that the hotel was clean, although the decor and furnishings were a little dated.
+
+----- Supporting -----
+
+[0.006420135498046875] It is clean, just a little frumpy.
+[0.00023174285888671875] Check-in was friendly and efficient, and our room, although small, was fine.
+[-9.441375732421875e-05] Having just come off a very long flight from Australia I arrived well before regular check in time but was shown to my room straight away.
+[-0.0003948211669921875] A local B&B actually recommended your hotel and we had a lovely one night stay with you.
+[-0.00101470947265625] It was pure bliss.
+
+----- Weakening -----
+
+[-0.916778564453125] Otherwise, the decor and furnishings are a little tired and dated.
+[-0.7131986618041992] * Lamp had burnt out light bulb...not a big deal but these things should be checked upon cleaning.
+[-0.7002849578857422] Our only real disappontment was when we walked around Gastown, which really seems to have got shabby since our last visit.
+[-0.5313682556152344] *The shampoo was in a ridiculous size bottle and if anyone figures out how to get it out of the bottle I would love to know.
+[-0.3519706726074219] My husband tried removing the shade from the lamp, which only helped a tiny bit.
+
+**********
+
+[0.1115264892578125] The hotel's decor and furnishings are a little dated.
+Parent: The reviews said that the hotel was clean, although the decor and furnishings were a little dated.
+
+----- Supporting -----
+
+[0.1115264892578125] Our only real disappontment was when we walked around Gastown, which really seems to have got shabby since our last visit.
+[0.050887107849121094] Otherwise, the decor and furnishings are a little tired and dated.
+[0.0169219970703125] My husband tried removing the shade from the lamp, which only helped a tiny bit.
+[0.01001739501953125] * Lamp had burnt out light bulb...not a big deal but these things should be checked upon cleaning.
+[0.007110595703125] We mentioned this upon check-out and they seemed happy to add those items to the room in future.
+
+----- Weakening -----
+
+[-0.30085182189941406] What can we say, with the great location, ambiance and first class staff , who met our every need.
+[-0.06782913208007812] It was pure bliss.
+[-0.044307708740234375] Pricing/value was impressive compared to other venues I looked at for these meetings.
+[-0.029541015625] It is clean, just a little frumpy.
+[-0.02825927734375] WiFi was also pretty quick
+
+**********
+
+[0.03041839599609375] The hotel was clean.
+Parent: The reviewers generally found the hotel clean.
+
+----- Supporting -----
+
+[0.03041839599609375] We had in-room massages provided by the spa just down the road and there was plenty of space for side-by-side table setup.
+[0.025390625] Very accomodating, offering the use of their umbrellas (take one!
+[0.017406463623046875] It is clean, just a little frumpy.
+[0.014506340026855469] It was pure bliss.
+[0.009553909301757812] Check-in was friendly and efficient, and our room, although small, was fine.
+
+----- Weakening -----
+
+[-0.8402500152587891] * Lamp had burnt out light bulb...not a big deal but these things should be checked upon cleaning.
+[-0.7956771850585938] Otherwise, the decor and furnishings are a little tired and dated.
+[-0.6879806518554688] Our only real disappontment was when we walked around Gastown, which really seems to have got shabby since our last visit.
+[-0.64801025390625] *The shampoo was in a ridiculous size bottle and if anyone figures out how to get it out of the bottle I would love to know.
+[-0.4482574462890625] My husband tried removing the shade from the lamp, which only helped a tiny bit.
+
+**********
+
+[0.220703125] The room was not clean.
+Parent: A few reviewers mentioned that the room was not as clean as they would have liked, but this was not a common complaint.
+
+----- Supporting -----
+
+[0.220703125] Our only real disappontment was when we walked around Gastown, which really seems to have got shabby since our last visit.
+[0.2072906494140625] Otherwise, the decor and furnishings are a little tired and dated.
+[0.181793212890625] My husband tried removing the shade from the lamp, which only helped a tiny bit.
+[0.12725830078125] *The shampoo was in a ridiculous size bottle and if anyone figures out how to get it out of the bottle I would love to know.
+[0.11338043212890625] * Lamp had burnt out light bulb...not a big deal but these things should be checked upon cleaning.
+
+----- Weakening -----
+
+[-0.8519287109375] It is clean, just a little frumpy.
+[-0.7612838745117188] What can we say, with the great location, ambiance and first class staff , who met our every need.
+[-0.7581253051757812] It was pure bliss.
+[-0.577178955078125] We had in-room massages provided by the spa just down the road and there was plenty of space for side-by-side table setup.
+[-0.5493316650390625] Very accomodating, offering the use of their umbrellas (take one!
+
+**********
+
+[0.00910186767578125] This was not a problem for most guests.
+Parent: A few reviewers mentioned that the room was not as clean as they would have liked, but this was not a common complaint.
+
+----- Supporting -----
+
+[0.00910186767578125] * Lamp had burnt out light bulb...not a big deal but these things should be checked upon cleaning.
+[0.00864410400390625] WiFi was also pretty quick
+[0.0072021484375] Our only real disappontment was when we walked around Gastown, which really seems to have got shabby since our last visit.
+[0.001739501953125] Very accomodating, offering the use of their umbrellas (take one!
+[0.00115203857421875] It allows us to enjoy the Vancouver night life without the drive back home in the early morning hours.
+
+----- Weakening -----
+
+[-0.051540374755859375] Last year (2007) was the first time I tried the Christmas-morning brunch.
+[-0.0426788330078125] A local B&B actually recommended your hotel and we had a lovely one night stay with you.
+[-0.03762054443359375] My only quibbles are small.
+[-0.035675048828125] What can we say, with the great location, ambiance and first class staff , who met our every need.
+[-0.031810760498046875] Visit all the amenities on Granville island and enjoy a meal at the hotel restaurant Dockside - especially on the waterside plaza in the summer!

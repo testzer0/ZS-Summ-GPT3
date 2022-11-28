@@ -1,0 +1,65 @@
+***** Aspect: service Model Type : zs *****
+Overall score: 0.6671835581461588
+
+**********
+
+[0.7032833099365234] The service was poor.
+Parent: The accounts said that the service was poor, that the staff were unhelpful and unaccommodating, and that the hotel double-charged one of the guests.
+
+----- Supporting -----
+
+[0.7032833099365234] Never in my life have I spent so much in one place and been treated so poorly.
+[0.563934326171875] I would avoid the restaurant in the hotel as the service is slow and inconsistent.
+[0.379638671875] I would not stay her again because of the rude front desk staff and the street noise.
+[0.23430633544921875] We spoke with the lady at the desk and all she had to say was "we have never had a Sunday like this... We have another valet employee coming in in an hour" Not helpful!
+[0.18856048583984375] My only complaint about the room was the Wi-Fi...terrible signal from it and half the time (at least) I couldn't even get on the internet.
+
+----- Weakening -----
+
+[-0.9980401992797852] Staff at the complimentary breakfast were also superb,.
+[-0.9978008270263672] The service is great and you must try a croissant - the best.
+[-0.9977965354919434] Exceptional service!
+[-0.9977951049804688] Restaurant was really good too with great service!
+[-0.9976472854614258] The service was excellent, we were offered a deal on breakfast at check in.
+
+**********
+
+[0.3318939208984375] The staff were unhelpful and unaccommodating.
+Parent: The accounts said that the service was poor, that the staff were unhelpful and unaccommodating, and that the hotel double-charged one of the guests.
+
+----- Supporting -----
+
+[0.3318939208984375] We spoke with the lady at the desk and all she had to say was "we have never had a Sunday like this... We have another valet employee coming in in an hour" Not helpful!
+[0.3291130065917969] I would not stay her again because of the rude front desk staff and the street noise.
+[0.25864410400390625] They told us in a very rude tone and with attitude that our credit card had been declined over the last few days and that they had tried it several time so we would have to provide a cash deposit.
+[0.06463623046875] I would avoid the restaurant in the hotel as the service is slow and inconsistent.
+[0.0565948486328125] We requested to have a maid clean our bathroom and take the trash out, no one ever came!
+
+----- Weakening -----
+
+[-0.998659610748291] all of the staff were super friendly.
+[-0.9986362457275391] The front desk made sure I was ok and comfortable and even went out of their way to offer soup, neo citran etc.
+[-0.9986112117767334] The hotel staff was very nice and let us leave our luggage before and after check in so that we can go around the city.
+[-0.9985997676849365] Very nice hotel, clean, and helpful staff.
+[-0.9985864162445068] The staff was friendly and they did all they could to help us.
+
+**********
+
+[0.9663734436035156] The hotel double-charged one of the guests.
+Parent: The accounts said that the service was poor, that the staff were unhelpful and unaccommodating, and that the hotel double-charged one of the guests.
+
+----- Supporting -----
+
+[0.9663734436035156] Hotel comped our room, but then double charged us.
+[0.1566162109375] Our room also had 2 queens which was nice since I went with a bunch of dudes.
+[0.06878662109375] Two nights we did have a guest, who had orginally intended to attend the conference: despite being assured on the phone that we could add a rollaway for him, when he arrived, we couldn't, and he and my colleague had to split a regular bed.
+[0.06597900390625] Not until the next day after we checked out did we find out that the rate was THIRTY FIVE cents difference on each dollar and when you do the math they make a very nice profit off of unsuspecting American tourists.
+[0.044464111328125] I had clicked "pay" for this non refundable rate when I realized that there were hidden charges for an additional $100.00.
+
+----- Weakening -----
+
+[-0.829620361328125] Back down at the desk we were offered a portable cot "free of charge".
+[-0.77105712890625] On the day of checkout, the front desk got a limo for the price of a common taxi to take us to the airport.
+[-0.7426681518554688] They did offer us free breakfast which was okay, a little cold but the omelets were really good.
+[-0.715789794921875] Not a bad place for _recreational_ travelers But the desk clerks could not figure out that for business travel, two people might have two reservations to share one room -- not, as the clerks set it up, for one to be the guest of the other (which also means no "HHonors" points for the "guest).
+[-0.6969833374023438] There were other choices, but I am glad this was our choice given how friendly, confortable and relatively inexpensive it was.

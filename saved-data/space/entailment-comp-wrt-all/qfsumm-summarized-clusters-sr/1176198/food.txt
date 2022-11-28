@@ -1,0 +1,149 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.8303679057529995
+
+**********
+
+[0.9580411911010742] The dining option was reasonably priced.
+Parent: The dining option was reasonable and the food ( dinner & breakfast ) was ok .
+
+----- Supporting -----
+
+[0.9580411911010742] The dining option was reasonable and the food (dinner & breakfast) was ok. Actually, dinner was of better quality than I was expecting since this wasn't a full service Hilton.
+[0.753143310546875] The buffet breakfast is really quite good and worth the price if you are hungry.
+[0.706329345703125] The prices were comparative to the restaurants in the neighborhood with the difference that service was much better and of course there was the convenience.
+[0.5926399230957031] For a price of $10 we had a choice of hot and cold items, both ready made, and made to order.
+[0.5919189453125] The price is very reasonabe and the quality of the food was great.
+
+----- Weakening -----
+
+[-0.9773826599121094] Breakfast too expensive for what you got, even if the cooked food is made upon request.
+[-0.8687362670898438] The Only drawback of this hotel is that usage of Business Center is a bit expensive and so is the Restauant in the hotel for the qulaity of food.
+[-0.8118553161621094] It cost you at least double of the standard taxi ride.
+[-0.5859584808349609] Ridiculous!
+[-0.49588775634765625] Searching around for alternate parking in the area is a crapshoot, as much parking in the area [only a few blocks from the Rogers Centre/Skydome and inside the Entertainment District] is outdoors and prices are jacked up for events and weekends.
+
+**********
+
+[0.84356689453125] The food was adequate.
+Parent: The dining option was reasonable and the food ( dinner & breakfast ) was ok .
+
+----- Supporting -----
+
+[0.84356689453125] Breakfast is adequate, nothing impressive.
+[0.8249969482421875] The dining option was reasonable and the food (dinner & breakfast) was ok. Actually, dinner was of better quality than I was expecting since this wasn't a full service Hilton.
+[0.7783889770507812] The price is very reasonabe and the quality of the food was great.
+[0.6940460205078125] The food was of high quality and good variety.
+[0.6347732543945312] The food at dinner was very good and the breakfast that was included with the room package was excellent.
+
+----- Weakening -----
+
+[-0.7840690612792969] Didn't try the restaurant.
+[-0.7820587158203125] I would avoid the restaurant in the hotel as the service is slow and inconsistent.
+[-0.6333236694335938] Two nights we did have a guest, who had orginally intended to attend the conference: despite being assured on the phone that we could add a rollaway for him, when he arrived, we couldn't, and he and my colleague had to split a regular bed.
+[-0.6211528778076172] Didn't end up using it.
+[-0.5907058715820312] Ridiculous!
+
+**********
+
+[0.9396896362304688] The price is reasonable.
+Parent: The price is very reasonabe and the quality of the food was great .
+
+----- Supporting -----
+
+[0.9396896362304688] The price is very reasonabe and the quality of the food was great.
+[0.9331369400024414] This place is quite reasonably priced and close to some of this great city's main attractions.
+[0.8437652587890625] This hotel was clean, convenient and reasonably priced.
+[0.7427711486816406] Price was good, too.
+[0.7110671997070312] There were other choices, but I am glad this was our choice given how friendly, confortable and relatively inexpensive it was.
+
+----- Weakening -----
+
+[-0.9808464050292969] Breakfast too expensive for what you got, even if the cooked food is made upon request.
+[-0.972808837890625] I really don't have anything bad to say about this hotel, the price is a little steep per night but it is definitely worth it.
+[-0.9615383148193359] Also, if you are planning on parking your car there is only valet parking available which at $35 per day is quite pricey.
+[-0.9598312377929688] The Hotel is a bit expensive but the rooms are neat and very comfortable.
+[-0.8630218505859375] Very easy to get to - but parking is an issue and the rate of $35.00 / day is very steep.
+
+**********
+
+[0.9836492538452148] The food is of great quality.
+Parent: The price is very reasonabe and the quality of the food was great .
+
+----- Supporting -----
+
+[0.9836492538452148] The food was of high quality and good variety.
+[0.9687356948852539] The price is very reasonabe and the quality of the food was great.
+[0.8402786254882812] The whole experience was great, from the service to the choice and quality of the food.
+[0.7809886932373047] yet the restaurant had the same high quality as the big box Hilton.
+[0.7380437850952148] Hot breakfast is on until 11am for (civilized) late sleepers, and offers lots to choose from, all good and very well prepared.
+
+----- Weakening -----
+
+[-0.9650812149047852] Breakfast is adequate, nothing impressive.
+[-0.877375602722168] I would NOT recommend giving this hotel your business.
+[-0.7006244659423828] Never in my life have I spent so much in one place and been treated so poorly.
+[-0.6844806671142578] I would avoid the restaurant in the hotel as the service is slow and inconsistent.
+[-0.6385459899902344] OK, I love music, but this was no music !
+
+**********
+
+[0.9885025024414062] You can get a custom made omelet.
+Parent: Custom made omelets , with several side dishes and great selection of juice , milk , cereals and fruits .
+
+----- Supporting -----
+
+[0.9885025024414062] Custom made omelets, with several side dishes and great selection of juice, milk, cereals and fruits.
+[0.9650678634643555] If I remember correctly custom omelettes were being prepared as you wait.
+[0.66455078125] My kids loved making their own waffles, whilst a chef prepared cooked breakfast/omelettes/pancakes to order.
+[0.6500244140625] Made to order eggs, french toast, waffles, omlettes, fresh fruit, cereals, selection of pastries, yogurts..you name it.
+[0.6019287109375] Eggs are cooked to order and are really good.
+
+----- Weakening -----
+
+[-0.8233642578125] Also offered professional driver to get car back.
+[-0.7903060913085938] If you have a car, consider the cost of parking.
+[-0.79010009765625] The service manager refused!
+[-0.7377243041992188] I would NOT recommend giving this hotel your business.
+[-0.6975059509277344] Try not to get a room on that side, even high up.
+
+**********
+
+[0.1514129638671875] The side dishes were great.
+Parent: Custom made omelets , with several side dishes and great selection of juice , milk , cereals and fruits .
+
+----- Supporting -----
+
+[0.1514129638671875] Valets were excellent with our vehicle.
+[0.08298110961914062] Custom made omelets, with several side dishes and great selection of juice, milk, cereals and fruits.
+[0.06220245361328125] You could make your own waffles with delicious toppings, huge choice of cereals and pastries, cooked items are made to order so fresh and yummy!
+[0.06107521057128906] The restaurant food was excellent-we had chicken stir fry and shrimp pasta.
+[0.044521331787109375] Food great and the views spectacular especially at night and they have computers for easy access to the web and e-mail up there.
+
+----- Weakening -----
+
+[-0.7032155990600586] Didn't end up using it.
+[-0.6977901458740234] I would NOT recommend giving this hotel your business.
+[-0.6263847351074219] This is where the weekend turns for the worse....
+[-0.60284423828125] Never again will I waste money at this property.
+[-0.5749893188476562] Ridiculous!
+
+**********
+
+[0.9477128982543945] The selection of juice, milk, cereals, and fruits was great.
+Parent: Custom made omelets , with several side dishes and great selection of juice , milk , cereals and fruits .
+
+----- Supporting -----
+
+[0.9477128982543945] Custom made omelets, with several side dishes and great selection of juice, milk, cereals and fruits.
+[0.1232452392578125] Fresh fruit and fruit juices, breads and pastries, and coffee brought to the table rather than stewed out of a communal urn.
+[0.05877685546875] The Hilton Garden Inn is in a great location within walking distance of C.N.Tower and Rogers Stadium and next to a wide selection of restaurants,bars,shops etc There are fresh apples to help yourself each morning and cookies at night,also complimentary drinks on some days ?The rooms are spacious and clean BUT if you are stayingThursday through until Sunday there is a club with a patio next door and the noise is terrific until around three in the morning so if your not out yourself you will not sleep.We only had this experience on the Sat night the rest of our stay was perfect through until the following Wednesday.Fridge,microwave abd coffe maker in room really useful.Go to the italian quarter for some really great little restaurants and bars.Toronto is a terrific city ENJOY!
+[0.03717041015625] So you can pack a couple of apples or muffins for later in the day and save yourself some more money on food!
+[0.01728057861328125] The service is great and you must try a croissant - the best.
+
+----- Weakening -----
+
+[-0.9201564788818359] The week-end floozies everywhere and drunken partners are too much !
+[-0.8488636016845703] I kno they have some sort of sleep selection gizmo on the bed, but I fell in love with the mattress all the same.
+[-0.8396844863891602] I would NOT recommend giving this hotel your business.
+[-0.8381195068359375] It was an adjustable bed that allows you to choose the softness, I found it to be lumpy and uncomfortable.
+[-0.8196859359741211] Breakfast is adequate, nothing impressive.

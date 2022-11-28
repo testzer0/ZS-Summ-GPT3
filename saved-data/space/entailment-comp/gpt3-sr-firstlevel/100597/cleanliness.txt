@@ -1,0 +1,281 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.3303669782785269
+
+**********
+
+[0.069305419921875] The hotel is clean.
+Parent: The hotel is generally clean, with the exception of a stain on the carpet.
+
+----- Supporting -----
+
+[0.069305419921875] We loved the decor of the hotel.
+[0.031261444091796875] The check-in was wonderful, the staff great, and the hotel itself was nice.
+[0.028656005859375] The kids liked the pool and I was able to do laundry before the cruise.
+[0.027797698974609375] There was a stain on the carpet but otherwise it was clean and well maintained.
+[0.02492523193359375] I did not use daily housekeeping and was able to get what I needed when I saw them in the halls.
+
+----- Weakening -----
+
+[-0.9815301895141602] When you finally reach your room the heaters all make tremendous noise, rattle, rumble.
+[-0.9621725082397461] Keep your children away from these set ups, they are going to injure someone terribly!
+[-0.9093856811523438] Cheap toiletries, few towels.
+[-0.8609695434570312] We would not stay here again because of the noise and mildew.
+[-0.7825660705566406] We put the A/C on 60 and the room immediately heated the room up 89 degrees.
+
+**********
+
+[0.9924654960632324] There is a stain on the carpet.
+Parent: The hotel is generally clean, with the exception of a stain on the carpet.
+
+----- Supporting -----
+
+[0.9924654960632324] There was a stain on the carpet but otherwise it was clean and well maintained.
+[-0.004178047180175781] The fitness room is small but the bedrooms are standard.
+[-0.008899688720703125] I did not use daily housekeeping and was able to get what I needed when I saw them in the halls.
+[-0.011699676513671875] Despite the low rate, the receptionist tried to give us the type of room I wanted (high floor, one bed) and was very pleasant to me.
+[-0.014661788940429688] Check in was very quick and was assigned a two queen room in the tower.
+
+----- Weakening -----
+
+[-0.5274200439453125] It seemed to ALWAYS be running, and was very convenient.
+[-0.484527587890625] My husband was quite happy with the clam chowder he ordered at the bar after a late night arrival, and that's saying something!
+[-0.3694305419921875] There were also 2 cigarette butts on the small patio.
+[-0.35866546630859375] Lots of conveniences close by.
+[-0.3420295715332031] Plus you get a free cookie at check-in!
+
+**********
+
+[0.15960693359375] The A/C was not working properly.
+Parent: There were also complaints about the A/C.
+
+----- Supporting -----
+
+[0.15960693359375] The A/C put out hot air.
+[0.0189208984375] When you finally reach your room the heaters all make tremendous noise, rattle, rumble.
+[0.0001373291015625] If it wasn't for Pam the waitress quick actions and bringing me ice, I am sure it would have blistered terribly.
+[-0.0003204345703125] Was hoping it would stop but it kept going (empty at that).
+[-0.0035247802734375] We would not stay here again because of the noise and mildew.
+
+----- Weakening -----
+
+[-0.8483543395996094] It seemed to ALWAYS be running, and was very convenient.
+[-0.5564384460449219] Nice pool and fitness areas.
+[-0.5483131408691406] Lots of conveniences close by.
+[-0.401397705078125] Printer didn't work but able to check in for flight.
+[-0.33918190002441406] In spite of the fact that a large convention was concluding and check-out time was not until noon, they had our room ready and waiting.
+
+**********
+
+[-0.0076904296875] The reviews were mixed.
+Parent: The reviews were mixed on the cleanliness of the hotel.
+
+----- Supporting -----
+
+[-0.0076904296875] For those using the hotel to fly there are shuttles, flight info, and a kiosk to print out boarding passes (although it did not work for me).
+[-0.014570236206054688] They don't even have microwaves or fridges in the rooms.
+[-0.0293731689453125] Cheap toiletries, few towels.
+[-0.039306640625] The fitness room is small but the bedrooms are standard.
+[-0.050332069396972656] There is a stand alone kiosk which one may use to check in for flights.
+
+----- Weakening -----
+
+[-0.9872345924377441] The check-in was wonderful, the staff great, and the hotel itself was nice.
+[-0.9718766212463379] We loved the decor of the hotel.
+[-0.9669923782348633] My husband was quite happy with the clam chowder he ordered at the bar after a late night arrival, and that's saying something!
+[-0.9514541625976562] There's a concierge desk which I found to be very helpful with questions.
+[-0.9468898773193359] Despite the low rate, the receptionist tried to give us the type of room I wanted (high floor, one bed) and was very pleasant to me.
+
+**********
+
+[0.2591400146484375] The hotel was not clean.
+Parent: The reviews were mixed on the cleanliness of the hotel.
+
+----- Supporting -----
+
+[0.2591400146484375] If it wasn't for Pam the waitress quick actions and bringing me ice, I am sure it would have blistered terribly.
+[0.24660110473632812] Cheap toiletries, few towels.
+[0.1228790283203125] We would not stay here again because of the noise and mildew.
+[0.102783203125] When you finally reach your room the heaters all make tremendous noise, rattle, rumble.
+[0.08197784423828125] They don't even have microwaves or fridges in the rooms.
+
+----- Weakening -----
+
+[-0.792572021484375] There was a stain on the carpet but otherwise it was clean and well maintained.
+[-0.6797027587890625] We loved the decor of the hotel.
+[-0.3759765625] The kids liked the pool and I was able to do laundry before the cruise.
+[-0.3613739013671875] It seemed to ALWAYS be running, and was very convenient.
+[-0.3430023193359375] Plus you get a free cookie at check-in!
+
+**********
+
+[-0.023236751556396484] The rooms were dusty.
+The heater did not function properly.
+There is a stain on the carpet.
+The cost of parking was too high.
+Parent: The reviews were mixed on the cleanliness of the hotel.
+
+----- Supporting -----
+
+[-0.023236751556396484] The A/C put out hot air.
+[-0.029417037963867188] We would not stay here again because of the noise and mildew.
+[-0.05263638496398926] The fitness room is small but the bedrooms are standard.
+[-0.055834293365478516] They don't even have microwaves or fridges in the rooms.
+[-0.055861473083496094] Unfortunately there was no wifi and the parking was $16 per night - expensive for the area.
+
+----- Weakening -----
+
+[-0.8171383142471313] It seemed to ALWAYS be running, and was very convenient.
+[-0.7066339254379272] Lots of conveniences close by.
+[-0.6730706691741943] We put the A/C on 60 and the room immediately heated the room up 89 degrees.
+[-0.6617050170898438] There is a stand alone kiosk which one may use to check in for flights.
+[-0.5670082569122314] I can walk down to the lobby and get free wifi or use their computers for no charge.
+
+**********
+
+[0.04413604736328125] The hotel's location is great, but the rooms are small.
+Parent: The reviews were mixed on the cleanliness of the hotel.
+
+----- Supporting -----
+
+[0.04413604736328125] The fitness room is small but the bedrooms are standard.
+[0.015804290771484375] There were also 2 cigarette butts on the small patio.
+[0.0131378173828125] Despite the low rate, the receptionist tried to give us the type of room I wanted (high floor, one bed) and was very pleasant to me.
+[0.00646209716796875] They don't even have microwaves or fridges in the rooms.
+[0.00547027587890625] Cheap toiletries, few towels.
+
+----- Weakening -----
+
+[-0.147247314453125] Keep your children away from these set ups, they are going to injure someone terribly!
+[-0.060089111328125] Unfortunately there was no wifi and the parking was $16 per night - expensive for the area.
+[-0.03925323486328125] Was hoping it would stop but it kept going (empty at that).
+[-0.0373992919921875] Printer didn't work but able to check in for flight.
+[-0.035701751708984375] We would not stay here again because of the noise and mildew.
+
+**********
+
+[-0.023236751556396484] The rooms were dusty.
+    The heater did not function properly.
+    There is a stain on the carpet.
+    The cost of parking was too high.
+Parent: The reviews were mixed on the cleanliness of the hotel.
+
+----- Supporting -----
+
+[-0.023236751556396484] The A/C put out hot air.
+[-0.029417037963867188] We would not stay here again because of the noise and mildew.
+[-0.05263638496398926] The fitness room is small but the bedrooms are standard.
+[-0.055834293365478516] They don't even have microwaves or fridges in the rooms.
+[-0.055861473083496094] Unfortunately there was no wifi and the parking was $16 per night - expensive for the area.
+
+----- Weakening -----
+
+[-0.8171383142471313] It seemed to ALWAYS be running, and was very convenient.
+[-0.7066339254379272] Lots of conveniences close by.
+[-0.6730706691741943] We put the A/C on 60 and the room immediately heated the room up 89 degrees.
+[-0.6617050170898438] There is a stand alone kiosk which one may use to check in for flights.
+[-0.5670082569122314] I can walk down to the lobby and get free wifi or use their computers for no charge.
+
+**********
+
+[0.19565773010253906] The hotel is in a good location.
+Parent: The reviews were mixed on the cleanliness of the hotel.
+
+----- Supporting -----
+
+[0.19565773010253906] The check-in process was courteous and smooth, and we were given a nice corner room with a balcony on the 9th floor (accompanied by the delicious chocolate chip cookies).
+[0.12700653076171875] Don't have to worry about drinking and driving, just a elevator ride to your room!
+[0.12107086181640625] We found the Doubletree to be good for what we needed- a place to stay when our plane arrived late and we didn't want to start driving anywhere until the next day.
+[0.07699012756347656] The check-in was wonderful, the staff great, and the hotel itself was nice.
+[0.054401397705078125] We have stayed at several Seatac airport hotels, all acceptable.
+
+----- Weakening -----
+
+[-0.26580810546875] Keep your children away from these set ups, they are going to injure someone terribly!
+[-0.15792465209960938] We would not stay here again because of the noise and mildew.
+[-0.15557861328125] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[-0.118560791015625] Unfortunately there was no wifi and the parking was $16 per night - expensive for the area.
+[-0.0267333984375] Was hoping it would stop but it kept going (empty at that).
+
+**********
+
+[0.216583251953125] The rooms are small.
+Parent: The reviews were mixed on the cleanliness of the hotel.
+
+----- Supporting -----
+
+[0.216583251953125] There were also 2 cigarette butts on the small patio.
+[0.2041015625] The fitness room is small but the bedrooms are standard.
+[0.041015625] Despite the low rate, the receptionist tried to give us the type of room I wanted (high floor, one bed) and was very pleasant to me.
+[0.0106658935546875] Cheap toiletries, few towels.
+[0.008937835693359375] They don't even have microwaves or fridges in the rooms.
+
+----- Weakening -----
+
+[-0.116302490234375] The kids liked the pool and I was able to do laundry before the cruise.
+[-0.11358642578125] My husband was quite happy with the clam chowder he ordered at the bar after a late night arrival, and that's saying something!
+[-0.100128173828125] waited a few more minutes for valet to bring car back.
+[-0.0887603759765625] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[-0.06707000732421875] Check in was very quick and was assigned a two queen room in the tower.
+
+**********
+
+[0.761810302734375] The room was clean.
+Parent: Some reviewers said that the room was clean, while others said that there were cigarette butts on the patio and mildew in the room.
+
+----- Supporting -----
+
+[0.761810302734375] There was a stain on the carpet but otherwise it was clean and well maintained.
+[0.04323577880859375] We loved the decor of the hotel.
+[0.01544189453125] I did not use daily housekeeping and was able to get what I needed when I saw them in the halls.
+[0.013216018676757812] In spite of the fact that a large convention was concluding and check-out time was not until noon, they had our room ready and waiting.
+[0.01256561279296875] The check-in was wonderful, the staff great, and the hotel itself was nice.
+
+----- Weakening -----
+
+[-0.9734611511230469] Keep your children away from these set ups, they are going to injure someone terribly!
+[-0.9671707153320312] Cheap toiletries, few towels.
+[-0.9554576873779297] We would not stay here again because of the noise and mildew.
+[-0.9538078308105469] We put the A/C on 60 and the room immediately heated the room up 89 degrees.
+[-0.9395828247070312] When you finally reach your room the heaters all make tremendous noise, rattle, rumble.
+
+**********
+
+[0.9925394058227539] There were cigarette butts on the patio.
+Parent: Some reviewers said that the room was clean, while others said that there were cigarette butts on the patio and mildew in the room.
+
+----- Supporting -----
+
+[0.9925394058227539] There were also 2 cigarette butts on the small patio.
+[-0.013227462768554688] In spite of the fact that a large convention was concluding and check-out time was not until noon, they had our room ready and waiting.
+[-0.0153656005859375] We found the Doubletree to be good for what we needed- a place to stay when our plane arrived late and we didn't want to start driving anywhere until the next day.
+[-0.0158233642578125] The check-in was wonderful, the staff great, and the hotel itself was nice.
+[-0.025609970092773438] Check in was very quick and was assigned a two queen room in the tower.
+
+----- Weakening -----
+
+[-0.6679916381835938] Plus you get a free cookie at check-in!
+[-0.6584930419921875] Keep your children away from these set ups, they are going to injure someone terribly!
+[-0.5844573974609375] It seemed to ALWAYS be running, and was very convenient.
+[-0.5685882568359375] There is a stand alone kiosk which one may use to check in for flights.
+[-0.453643798828125] When you finally reach your room the heaters all make tremendous noise, rattle, rumble.
+
+**********
+
+[0.6576900482177734] There was mildew in the room.
+Parent: Some reviewers said that the room was clean, while others said that there were cigarette butts on the patio and mildew in the room.
+
+----- Supporting -----
+
+[0.6576900482177734] We would not stay here again because of the noise and mildew.
+[0.01263427734375] If it wasn't for Pam the waitress quick actions and bringing me ice, I am sure it would have blistered terribly.
+[-0.01146697998046875] Cheap toiletries, few towels.
+[-0.012098312377929688] The fitness room is small but the bedrooms are standard.
+[-0.02080535888671875] waited a few more minutes for valet to bring car back.
+
+----- Weakening -----
+
+[-0.85650634765625] The room also had Wi-Fi access - we even had Wi-Fi on the pool deck!
+[-0.80804443359375] The A/C put out hot air.
+[-0.80035400390625] Plus you get a free cookie at check-in!
+[-0.7563400268554688] We put the A/C on 60 and the room immediately heated the room up 89 degrees.
+[-0.7550125122070312] My only complaint is that they charge for the use of wifi in your room.

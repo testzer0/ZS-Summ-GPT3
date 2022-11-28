@@ -1,0 +1,27 @@
+***** building : Sentiments for original sentences *****
+lobby : + 2     - 3
+cookies : + 2     - 0
+facilities : + 1     - 0
+Lobby : + 1     - 1
+toast : + 0     - 1
+gym facilities : + 0     - 1
+fire : + 0     - 1
+space : + 1     - 0
+furnishings : + 0     - 1
+hall : + 0     - 1
+front desk girl : + 0     - 1
+place : + 1     - 0
+***** building : Sentiments for raw summaries *****
+building : + 0     - 2
+security : + 0     - 1
+fire alarm : + 0     - 1
+lobby : + 1     - 2
+indoor pool : + 1     - 0
+gym : + 1     - 0
+location : + 2     - 0
+furnishings : + 1     - 0
+city noise : + 0     - 1
+facilities : + 1     - 0
+walls : + 1     - 0
+hallways : + 0     - 1
+***** building : Sentiments for final summary *****

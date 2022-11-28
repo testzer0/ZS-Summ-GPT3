@@ -1,0 +1,66 @@
+***** service : Sentiments for original sentences *****
+staff : + 16     - 2
+towels : + 3     - 0
+shuttle : + 4     - 1
+fee : + 0     - 1
+clerk : + 0     - 1
+wireless internet : + 0     - 1
+rep : + 0     - 1
+buses : + 0     - 1
+shuttle service : + 1     - 1
+breakfast : + 1     - 0
+bus : + 1     - 1
+tickets : + 1     - 0
+transportation : + 1     - 0
+parks : + 1     - 0
+local calls : + 1     - 0
+sheets : + 1     - 0
+shampoo : + 1     - 0
+soap : + 1     - 0
+Staff : + 2     - 0
+Rooms : + 1     - 0
+grounds : + 1     - 0
+reception staff : + 1     - 0
+housekeeping : + 1     - 0
+ticket agents : + 1     - 0
+guestrooms : + 1     - 0
+Reception staff : + 1     - 1
+Maid service : + 1     - 0
+beds : + 1     - 0
+shuttle buses : + 2     - 0
+Maintainance : + 1     - 0
+Guest services : + 1     - 0
+sights : + 1     - 0
+customer service : + 0     - 1
+manager : + 1     - 4
+maids : + 1     - 0
+Landscaping : + 0     - 1
+sherrif : + 0     - 1
+Service : + 0     - 2
+service : + 2     - 2
+cost : + 1     - 0
+counter staff : + 0     - 1
+Front desk : + 1     - 0
+rates : + 1     - 0
+reservation services : + 0     - 1
+general manager : + 0     - 1
+maintenance : + 1     - 0
+room : + 2     - 0
+pool : + 1     - 0
+location : + 1     - 0
+Dario : + 1     - 0
+rooms : + 0     - 1
+Maintenace : + 0     - 1
+Flights : + 1     - 0
+carpet : + 0     - 1
+reception : + 0     - 1
+***** service : Sentiments for raw summaries *****
+service : + 1     - 1
+staff : + 4     - 2
+amenities : + 0     - 1
+rooms : + 3     - 0
+cleanliness : + 1     - 0
+internet service : + 0     - 1
+shuttle service : + 2     - 1
+air conditioning : + 1     - 0
+***** service : Sentiments for final summary *****

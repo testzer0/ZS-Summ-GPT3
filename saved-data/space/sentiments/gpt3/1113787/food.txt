@@ -1,0 +1,28 @@
+***** food : Sentiments for original sentences *****
+meal : + 1     - 0
+executive chef : + 1     - 0
+chef : + 1     - 0
+service : + 2     - 0
+food : + 6     - 0
+wine : + 2     - 0
+desserts : + 1     - 0
+peanut butter bar : + 1     - 0
+open bathroom concept : + 0     - 1
+salmon : + 1     - 0
+Service : + 1     - 0
+staff : + 1     - 0
+bread options : + 1     - 0
+mushroom plate : + 1     - 0
+- Fi : + 0     - 1
+New York strip : + 1     - 0
+spinach side : + 1     - 0
+***** food : Sentiments for raw summaries *****
+food : + 5     - 0
+Charlie : + 1     - 0
+chef : + 1     - 0
+signature desserts : + 1     - 0
+salmon : + 1     - 0
+french toast : + 1     - 0
+burger : + 1     - 0
+spinach side : + 1     - 0
+***** food : Sentiments for final summary *****

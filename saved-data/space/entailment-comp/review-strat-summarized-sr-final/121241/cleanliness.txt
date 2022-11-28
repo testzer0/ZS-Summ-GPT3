@@ -1,0 +1,233 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.7303048914129083
+
+**********
+
+[0.9860935211181641] The hotel was not clean.
+Parent: The cleanliness of the hotel was criticized in the reviews, with complaints about the condition of the bedding, the presence of hair, and the general cleanliness of the room.
+
+----- Supporting -----
+
+[0.9860935211181641] The hotel just did not seem clean at all.
+[0.90338134765625] The hotel had a very musty smell as soon as you entered.
+[0.8841838836669922] Management should really address the musty smell of the hotel.
+[0.5184516906738281] Heard several people at front desk complaining of hair in their bathtub upon arrival and general complaints about their room, our bathtub was never cleaned while we were there.
+[0.4378070831298828] Bedspreads were messed up when we arrived.
+
+----- Weakening -----
+
+[-0.9441413879394531] Check in process was very pleasant, room was nice and CLEAN!!
+[-0.9196434020996094] Everything was clean and worked properly.
+[-0.8833084106445312] Housekeeping was adequate.
+[-0.6554412841796875] The bedding was very nice (large throw pillows and upscale comforters).
+[-0.5971603393554688] Can't thank Rachael enough for all her help in making our family reunion one of best we have had.
+
+**********
+
+[0.8481597900390625] The bedding was in poor condition.
+Parent: The cleanliness of the hotel was criticized in the reviews, with complaints about the condition of the bedding, the presence of hair, and the general cleanliness of the room.
+
+----- Supporting -----
+
+[0.8481597900390625] Bedspreads were messed up when we arrived.
+[0.7107124328613281] The sheet on one of the beds had copper colored stains near the top and the pillows were stained really bad.
+[0.7006378173828125] The carpet was old and the building had a musty smell to it.
+[0.6077804565429688] The blanket on the bed looked to be about 20 years old and pilling and I didn't feel comfortable using it.
+[0.3837318420410156] It was kinda moldy around the bathtub.
+
+----- Weakening -----
+
+[-0.987241268157959] The bedding was very nice (large throw pillows and upscale comforters).
+[-0.964165210723877] The beds were fine, and the decor was very nice.
+[-0.9424257278442383] Everything was clean and worked properly.
+[-0.9080533981323242] Check in was great.
+[-0.8767223358154297] Check in process was very pleasant, room was nice and CLEAN!!
+
+**********
+
+[0.9642353057861328] There were complaints about hair being found in the room.
+Parent: The cleanliness of the hotel was criticized in the reviews, with complaints about the condition of the bedding, the presence of hair, and the general cleanliness of the room.
+
+----- Supporting -----
+
+[0.9642353057861328] Heard several people at front desk complaining of hair in their bathtub upon arrival and general complaints about their room, our bathtub was never cleaned while we were there.
+[0.0059108734130859375] The hotel just did not seem clean at all.
+[-0.00420379638671875] The bedding felt nasty and we found hair.
+[-0.014169692993164062] We were on the first floor so we had to keep the drapes shut.
+[-0.0202178955078125] The most important thing to me is the honesty of the staff.
+
+----- Weakening -----
+
+[-0.6012420654296875] By the way, the smoke detectors did not work in our building.
+[-0.4180488586425781] The kids loved this and so do we as we can use these after shows or before we start our day.
+[-0.4051666259765625] ironing board,iron and so forth.
+[-0.37688446044921875] We went horse back riding at Sheppard Hills, and that was a wonderful experience.
+[-0.349395751953125] We made our own waffles which I like.
+
+**********
+
+[0.9399566650390625] The room was not clean enough.
+Parent: The cleanliness of the hotel was criticized in the reviews, with complaints about the condition of the bedding, the presence of hair, and the general cleanliness of the room.
+
+----- Supporting -----
+
+[0.9399566650390625] The hotel just did not seem clean at all.
+[0.392791748046875] Heard several people at front desk complaining of hair in their bathtub upon arrival and general complaints about their room, our bathtub was never cleaned while we were there.
+[0.3878326416015625] Management should really address the musty smell of the hotel.
+[0.3610725402832031] The carpet was old and the building had a musty smell to it.
+[0.2284393310546875] Bedspreads were messed up when we arrived.
+
+----- Weakening -----
+
+[-0.9474296569824219] Housekeeping was adequate.
+[-0.9300346374511719] Check in process was very pleasant, room was nice and CLEAN!!
+[-0.9106388092041016] Everything was clean and worked properly.
+[-0.5460662841796875] The bedding was very nice (large throw pillows and upscale comforters).
+[-0.5264453887939453] We loved the decor and the large jacuzzi tub and private balcony.
+
+**********
+
+[0.41544342041015625] The maid was not good.
+Parent: The maid was also criticized for not following instructions to clean the bathroom.
+
+----- Supporting -----
+
+[0.41544342041015625] The hotel just did not seem clean at all.
+[0.329833984375] The a/c was bad during a heat wave.
+[0.316162109375] It was kinda moldy around the bathtub.
+[0.3006744384765625] The bedding felt nasty and we found hair.
+[0.159942626953125] Bedspreads were messed up when we arrived.
+
+----- Weakening -----
+
+[-0.9734554290771484] Check in was great.
+[-0.9726467132568359] We loved the decor and the large jacuzzi tub and private balcony.
+[-0.9693260192871094] The kids loved this and so do we as we can use these after shows or before we start our day.
+[-0.9676494598388672] We went there for a timeshare thing and we ended up really loving it there and have had our grown kids/grandkids stay there, as well.
+[-0.9607601165771484] The beds were fine, and the decor was very nice.
+
+**********
+
+[0.7822265625] The maid did not clean the bathroom properly.
+Parent: The maid was also criticized for not following instructions to clean the bathroom.
+
+----- Supporting -----
+
+[0.7822265625] I had written a note to the maid to please spray bleach on the shower and tub, but this did not happen.
+[0.1262531280517578] Heard several people at front desk complaining of hair in their bathtub upon arrival and general complaints about their room, our bathtub was never cleaned while we were there.
+[0.010601043701171875] The next day we left to see some sites, and when we returned the bathroom was still the same......MOLD still there.....and the bed was half made.
+[0.00473785400390625] The bedding felt nasty and we found hair.
+[0.0030965805053710938] The hotel just did not seem clean at all.
+
+----- Weakening -----
+
+[-0.7916793823242188] The washer and dryer were ann added plus, especially when traveling with 4 kids.
+[-0.7916793823242188] The washer and dryer were ann added plus, especially when traveling with 4 kids.
+[-0.7903728485107422] Everything was clean and worked properly.
+[-0.6401443481445312] The kids loved this and so do we as we can use these after shows or before we start our day.
+[-0.6295795440673828] Check in process was very pleasant, room was nice and CLEAN!!
+
+**********
+
+[0.4843940734863281] The hotel was clean.
+Parent: Some reviewers thought the hotel was clean, while others found it to be moldy or unclean in some areas.
+
+----- Supporting -----
+
+[0.4843940734863281] Housekeeping was adequate.
+[0.3813619613647461] Check in process was very pleasant, room was nice and CLEAN!!
+[0.19780349731445312] I asked her if the hotel was clean and she assured me it was.
+[0.13439559936523438] The beds were fine, and the decor was very nice.
+[0.045562744140625] The bedding was very nice (large throw pillows and upscale comforters).
+
+----- Weakening -----
+
+[-0.9951152801513672] Bedspreads were messed up when we arrived.
+[-0.9937238693237305] The hotel had a very musty smell as soon as you entered.
+[-0.9927425384521484] The hotel just did not seem clean at all.
+[-0.9911022186279297] Management should really address the musty smell of the hotel.
+[-0.9906520843505859] The sheet on one of the beds had copper colored stains near the top and the pillows were stained really bad.
+
+**********
+
+[0.71337890625] The hotel was moldy.
+Parent: Some reviewers thought the hotel was clean, while others found it to be moldy or unclean in some areas.
+
+----- Supporting -----
+
+[0.71337890625] Management should really address the musty smell of the hotel.
+[0.426025390625] The hotel had a very musty smell as soon as you entered.
+[0.2503547668457031] The hotel just did not seem clean at all.
+[0.10814666748046875] Bedspreads were messed up when we arrived.
+[0.077545166015625] The carpet was old and the building had a musty smell to it.
+
+----- Weakening -----
+
+[-0.9851312637329102] The beds were fine, and the decor was very nice.
+[-0.9691925048828125] Check in process was very pleasant, room was nice and CLEAN!!
+[-0.9615569114685059] Everything was clean and worked properly.
+[-0.9539432525634766] The bedding was very nice (large throw pillows and upscale comforters).
+[-0.9171504974365234] Housekeeping was adequate.
+
+**********
+
+[0.8919830322265625] The hotel was unclean.
+Parent: Some reviewers thought the hotel was clean, while others found it to be moldy or unclean in some areas.
+
+----- Supporting -----
+
+[0.8919830322265625] The hotel had a very musty smell as soon as you entered.
+[0.7992668151855469] Management should really address the musty smell of the hotel.
+[0.519500732421875] The hotel just did not seem clean at all.
+[0.08353424072265625] The carpet was old and the building had a musty smell to it.
+[0.01654052734375] Stayed here last week- Problems as follows: 1) Did not honor their OWN coupon.
+
+----- Weakening -----
+
+[-0.9935016632080078] The beds were fine, and the decor was very nice.
+[-0.982515811920166] We loved the decor and the large jacuzzi tub and private balcony.
+[-0.9813194274902344] Check in process was very pleasant, room was nice and CLEAN!!
+[-0.9751434326171875] Everything was clean and worked properly.
+[-0.9645805358886719] The bedding was very nice (large throw pillows and upscale comforters).
+
+**********
+
+[0.4843940734863281] The hotel was clean.
+Parent: Overall, reviewers thought the hotel was at least somewhat clean.
+
+----- Supporting -----
+
+[0.4843940734863281] Housekeeping was adequate.
+[0.3813619613647461] Check in process was very pleasant, room was nice and CLEAN!!
+[0.19780349731445312] I asked her if the hotel was clean and she assured me it was.
+[0.13439559936523438] The beds were fine, and the decor was very nice.
+[0.045562744140625] The bedding was very nice (large throw pillows and upscale comforters).
+
+----- Weakening -----
+
+[-0.9951152801513672] Bedspreads were messed up when we arrived.
+[-0.9937238693237305] The hotel had a very musty smell as soon as you entered.
+[-0.9927425384521484] The hotel just did not seem clean at all.
+[-0.9911022186279297] Management should really address the musty smell of the hotel.
+[-0.9906520843505859] The sheet on one of the beds had copper colored stains near the top and the pillows were stained really bad.
+
+**********
+
+[0.5230884552001953] The hotel was at least somewhat clean.
+Parent: Overall, reviewers thought the hotel was at least somewhat clean.
+
+----- Supporting -----
+
+[0.5230884552001953] Housekeeping was adequate.
+[0.45462608337402344] Check in process was very pleasant, room was nice and CLEAN!!
+[0.37554931640625] The next day we left to see some sites, and when we returned the bathroom was still the same......MOLD still there.....and the bed was half made.
+[0.2138233184814453] I asked her if the hotel was clean and she assured me it was.
+[0.19834518432617188] The bedding was very nice (large throw pillows and upscale comforters).
+
+----- Weakening -----
+
+[-0.738189697265625] The hotel had a very musty smell as soon as you entered.
+[-0.72906494140625] The carpet was old and the building had a musty smell to it.
+[-0.630859375] Management should really address the musty smell of the hotel.
+[-0.61846923828125] Bedspreads were messed up when we arrived.
+[-0.55548095703125] The sheet on one of the beds had copper colored stains near the top and the pillows were stained really bad.

@@ -1,0 +1,1681 @@
+The building is beautiful.
+Keywords: 
+     [0.7065975359009077]  beautiful
+     [0.5208109888350045]  building
+     [0.40163172500005623]  is
+
+Top 5 statements based on keywords:
+1:  This is a large property with (I believe) five buildings.
+2:  The design of the hotel is a little maze-like but still beautiful and the pool definitely makes you feel like you're somewhere else rather than beside the Sea-Tac Airport.
+3:  The walk from that building to the lobby is about 2-3 minutes.
+4:  There is an abundance of gardens in between the different buildings and all were very well maintained and tended.
+5:  Overall this is a good property.
+----- Supporting -----
+
+[0.6487998962402344] The design of the hotel is a little maze-like but still beautiful and the pool definitely makes you feel like you're somewhere else rather than beside the Sea-Tac Airport.
+[0.11747932434082031] There is an abundance of gardens in between the different buildings and all were very well maintained and tended.
+[0.08473539352416992] Overall this is a good property.
+[0.07264518737792969] The building has unique architecture which can prove to be challenging for some to find their rooms.
+[0.037903785705566406] It has a main tower, which is the best place to stay as you are close to everything, as well as several wings.
+
+----- Weakening -----
+
+[-0.984349250793457] This property is a mess.
+[-0.116058349609375] The tower elevators, which run on the exterior of the building, were quite cold.
+[-0.033779144287109375] The gift shop was well stocked and very reasonably priced.
+[-0.008914947509765625] Lobby has PC with printer to check in to airline and print boarding pass.
+[-0.0049686431884765625] One wing building was closed for renovation.
+
+**********
+
+The gift shop is reasonably priced.
+Keywords: 
+     [0.4735342452632821]  gift
+     [0.4735342452632821]  priced
+     [0.4735342452632821]  reasonably
+     [0.4735342452632821]  shop
+     [0.26915799462731665]  is
+
+Top 5 statements based on keywords:
+1:  The gift shop was well stocked and very reasonably priced.
+2:  This is a large property with (I believe) five buildings.
+3:  Overall this is a good property.
+4:  I was put into this property by an airline due to a maintenance issue, although I checked in late at night and had to leave early the next morning, I saw enough that I want to return!
+5:  This property is a mess.
+
+----- Supporting -----
+
+[0.9692239761352539] The gift shop was well stocked and very reasonably priced.
+[0.00160980224609375] Will stay there again in the future.
+[-0.0011653900146484375] It has a main tower, which is the best place to stay as you are close to everything, as well as several wings.
+[-0.0040283203125] The walk from that building to the lobby is about 2-3 minutes.
+[-0.00574493408203125] Overall this is a good property.
+
+----- Weakening -----
+
+[-0.6792182922363281] This property is a mess.
+[-0.191558837890625] The building has unique architecture which can prove to be challenging for some to find their rooms.
+[-0.1677398681640625] Lobby has PC with printer to check in to airline and print boarding pass.
+[-0.1150665283203125] Access to the tower is by external glass elevators.
+[-0.07623291015625] Stayed in the high-rise portion.
+
+**********
+
+The hotel is generally clean.
+Keywords: 
+     [0.6510090122563081]  clean
+     [0.545507541173543]  is
+     [0.4837931368192081]  hotel
+
+Top 5 statements based on keywords:
+1:  There was a stain on the carpet but otherwise it was clean and well maintained.
+2:  No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+3:  This trip we needed a quick access to the airport with wheelchair accessibility and this was it.
+4:  Hassle to get from ship to hotel, hassle to get correct rate, hassle with hotel safe (should have one in room anyway), and a hassle to get to the airport the next morning.
+5:  The kids liked the pool and I was able to do laundry before the cruise.
+
+----- Supporting -----
+
+[0.0503387451171875] I did not use daily housekeeping and was able to get what I needed when I saw them in the halls.
+[0.04753684997558594] There was a stain on the carpet but otherwise it was clean and well maintained.
+[0.033710479736328125] We loved the decor of the hotel.
+[0.023345947265625] The kids liked the pool and I was able to do laundry before the cruise.
+[0.015987396240234375] The check-in was wonderful, the staff great, and the hotel itself was nice.
+
+----- Weakening -----
+
+[-0.8965721130371094] When you finally reach your room the heaters all make tremendous noise, rattle, rumble.
+[-0.8914775848388672] Keep your children away from these set ups, they are going to injure someone terribly!
+[-0.6515083312988281] We would not stay here again because of the noise and mildew.
+[-0.5853271484375] Cheap toiletries, few towels.
+[-0.3248138427734375] We put the A/C on 60 and the room immediately heated the room up 89 degrees.
+
+**********
+
+The hotel has a stain on the carpet.
+Keywords: 
+     [0.5366152347947251]  carpet
+     [0.5366152347947251]  stain
+     [0.39878214098225845]  hotel
+     [0.3794422288649048]  on
+
+Top 5 statements based on keywords:
+1:  In spite of the fact that a large convention was concluding and check-out time was not until noon, they had our room ready and waiting.
+2:  There was a stain on the carpet but otherwise it was clean and well maintained.
+3:  Hassle to get from ship to hotel, hassle to get correct rate, hassle with hotel safe (should have one in room anyway), and a hassle to get to the airport the next morning.
+4:  The check-in was wonderful, the staff great, and the hotel itself was nice.
+5:  The check-in process was courteous and smooth, and we were given a nice corner room with a balcony on the 9th floor (accompanied by the delicious chocolate chip cookies).
+
+----- Supporting -----
+
+[0.08153152465820312] There was a stain on the carpet but otherwise it was clean and well maintained.
+[-0.006840705871582031] The fitness room is small but the bedrooms are standard.
+[-0.008480072021484375] I did not use daily housekeeping and was able to get what I needed when I saw them in the halls.
+[-0.008961677551269531] Despite the low rate, the receptionist tried to give us the type of room I wanted (high floor, one bed) and was very pleasant to me.
+[-0.011516571044921875] Check in was very quick and was assigned a two queen room in the tower.
+
+----- Weakening -----
+
+[-0.40865325927734375] It seemed to ALWAYS be running, and was very convenient.
+[-0.34420013427734375] Plus you get a free cookie at check-in!
+[-0.2965278625488281] Even most motels give you a microwave.
+[-0.2655925750732422] Lots of conveniences close by.
+[-0.25785064697265625] There were also 2 cigarette butts on the small patio.
+
+**********
+
+Some reviewers said that the room was clean.
+Keywords: 
+     [0.5601760144501953]  clean
+     [0.5601760144501953]  said
+     [0.41629118199525506]  that
+     [0.3150267972147048]  room
+     [0.2586073229873066]  was
+
+Top 5 statements based on keywords:
+1:  In spite of the fact that a large convention was concluding and check-out time was not until noon, they had our room ready and waiting.
+2:  There was a stain on the carpet but otherwise it was clean and well maintained.
+3:  Check in was very quick and was assigned a two queen room in the tower.
+4:  The checkin clerk was very friendly and said she would ensure we had a good view.
+5:  The check-in was a bit slow, but when our turn came, I could understood why because the desk staff was incredibly friendly and determined to answer all of our questions--she was a very nice person.
+
+----- Supporting -----
+
+[0.0031671524047851562] There was a stain on the carpet but otherwise it was clean and well maintained.
+[0.0014934539794921875] The check-in was wonderful, the staff great, and the hotel itself was nice.
+[0.0005512237548828125] Nice pool and fitness areas.
+[0.00030231475830078125] We found the Doubletree to be good for what we needed- a place to stay when our plane arrived late and we didn't want to start driving anywhere until the next day.
+[0.00018978118896484375] The fitness room is small but the bedrooms are standard.
+
+----- Weakening -----
+
+[-0.5752487182617188] Keep your children away from these set ups, they are going to injure someone terribly!
+[-0.13229942321777344] There were also 2 cigarette butts on the small patio.
+[-0.11627769470214844] When you finally reach your room the heaters all make tremendous noise, rattle, rumble.
+[-0.11182785034179688] Cheap toiletries, few towels.
+[-0.09999656677246094] We put the A/C on 60 and the room immediately heated the room up 89 degrees.
+
+**********
+
+The food was very expensive in the restaurant.
+Keywords: 
+     [0.5033269076406679]  expensive
+     [0.4387083808972571]  restaurant
+     [0.4156450304201724]  very
+     [0.39244220563528903]  the
+     [0.30846336821728587]  food
+     [0.2571727580504594]  in
+
+Top 5 statements based on keywords:
+1:  There is a Jack in the Box and Denny's across the street as well as a Subway, Thai restaurant and a BBQ restaurant nearby.
+2:  Can not speak to the dining aspect of the hotel as I did not eat there.
+3:  Food was very expensive in restaurant and just okay.
+4:  If you don't want to eat breakfast at the hotel, there is a Denny's across the street and an IHOP 2mile down the street.
+5:  Plenty of eating places nearby, and the bar in the hotel is fine also.
+
+----- Supporting -----
+
+[0.9944558143615723] Food was very expensive in restaurant and just okay.
+[0.9039459228515625] That worked well for me since the food at the hotel is fairly pricey.
+[0.31085205078125] The food was good although a bit pricey.
+[0.3030281066894531] So a burger and soup were $32, and it was a very.
+[0.2767333984375] Food was good, but a bit overpriced.
+
+----- Weakening -----
+
+[-0.9970054626464844] Restaurant food was excellent and reasonably priced and breakfast was good.
+[-0.8901448249816895] We ate at both the lounge and the cafe and food was average at best, but the service VERY GOOD!
+[-0.8705348968505859] VERY average burger.
+[-0.8424186706542969] The only good thing about it was that i booked it on Priceline and got a really good price.
+[-0.6619300842285156] This plus we luv their complimentary cookies that they offer upon check-in.
+
+**********
+
+Some reviewers noted that the rooms had balconies with good view.
+Keywords: 
+     [0.48731559509450395]  balconies
+     [0.4289234846941663]  view
+     [0.38589050835836275]  some
+     [0.33637417937166136]  good
+     [0.3022169844494941]  that
+     [0.27798206897132377]  had
+     [0.2649961061524475]  with
+     [0.25030822670005437]  rooms
+
+Top 5 statements based on keywords:
+1:  The tower rooms do have balconies but the space is shared with the room next door and divided by a set of austere looking bars--plus there is no furniture to sit on so the balconies are not really functional.
+2:  There was a huge wrap around balcony with a view of the glass elavators and a view of the Cascade Mts.
+3:  The good: large room, food at the restaurants (especially the clam chowder), bed, view from the elevators, service, shuttle every 20 minutes to and from the airport (5 minutes away) The bad: the insulation for the windows is awful, so the hotel is extremely noisy at night (at least if you are facing the airport): airplanes, busy airport boulevard, rooftop with furnaces/chillers etc.
+4:  I arrived to a room on the very ground floor that had a glass door that opened to the outside parking area.
+5:  Had a room that faced away from the airport so that helped with the noise.
+
+----- Supporting -----
+
+[0.0377197265625] The room was quiet, very comfy beds and we enjoyed the view from the 10th floor; the room and hallways could use an update, but are perfectly adequate.
+[0.03373908996582031] The walk out balcony was a nice surprise.
+[0.012415885925292969] Upgrade to King Corner Room or Penthouse to really treat yourself, balcony are amazing in these rooms.
+[0.008246898651123047] We had a balcony, the beds were super comfortable, room was a good size and clean.
+[0.006560325622558594] We explored the other areas of this large hotel complex and noticed some rooms were actually are on a small lake, and others overlook the attractive outdoor pool.
+
+----- Weakening -----
+
+[-0.18192291259765625] I was informed that entire floor was currently being re-furbished and there were no rooms of that quality available.
+[-0.178466796875] The good: large room, food at the restaurants (especially the clam chowder), bed, view from the elevators, service, shuttle every 20 minutes to and from the airport (5 minutes away) The bad: the insulation for the windows is awful, so the hotel is extremely noisy at night (at least if you are facing the airport): airplanes, busy airport boulevard, rooftop with furnaces/chillers etc.
+[-0.14217185974121094] Room was highly run down.
+[-0.1286792755126953] The bathroom was dirty and stained.
+[-0.08904457092285156] Provided amenities (e.g., soap, shampoo) were low quality.
+
+**********
+
+The reviewers said that the beds were comfortable.
+Keywords: 
+     [0.632901295998845]  said
+     [0.3924899348256878]  beds
+     [0.3667948257181984]  that
+     [0.34026165558460414]  comfortable
+     [0.3266090224022108]  were
+
+Top 5 statements based on keywords:
+1:  There were 2 double beds and the mattresses were really comfortable.
+2:  I was informed that entire floor was currently being re-furbished and there were no rooms of that quality available.
+3:  It was very suitable to the geography, and we did not have that feeling that we were just in any big hotel in any big city.
+4:  We had a balcony, the beds were super comfortable, room was a good size and clean.
+5:  The beds were comfortable and the room was very clean.
+
+----- Supporting -----
+
+[0.9686861038208008] The room was quiet, very comfy beds and we enjoyed the view from the 10th floor; the room and hallways could use an update, but are perfectly adequate.
+[0.9288368225097656] Pros: - cookies upon check-in - one of my favorite things about the Doubletrees - complimentary airport shuttle every 15 mins - nice pools, rooms are very comfortable with excellent beds and Neutrogena toiletries and Wolfgang Puck coffee - nice food selection in hotel Cons: - parking is expensive - $16/night.
+[0.5558090209960938] Beds were very comfortble .
+[0.3703765869140625] I did find the beds comfortable, but very jiggly.
+[0.333770751953125] My wife really liked the Crabtree & Evelyn "Citron" toiletries; I liked the very comfortable bed and blackout curtains.
+
+----- Weakening -----
+
+[-0.8039665222167969] Bathroom floors seems dirty and needed to be regrouted.
+[-0.7842254638671875] The bathrooms are worn and need updating.
+[-0.7808990478515625] The bathroom was dirty and stained.
+[-0.7381477355957031] What I found was rather run down and shabby.
+[-0.7345504760742188] Provided amenities (e.g., soap, shampoo) were low quality.
+
+**********
+
+The hotel could do with a refurbishment.
+Keywords: 
+     [0.4958214276370658]  could
+     [0.4958214276370658]  do
+     [0.4958214276370658]  refurbishment
+     [0.3732997372151263]  with
+     [0.31045326594082895]  hotel
+
+Top 5 statements based on keywords:
+1:  Hotel could do with a refurbishment.
+2:  They are doing the best they can with the old building.
+3:  VALET: I must say the only friendly people at this hotel were the actually valet driversâ€¦those in the Valet booth were extremely rude and will forget to give your keys to a driver to get your car (happened to several guests) RENOVATIONS: Drilling started at 7am right outside our window.
+4:  The downtown is a ghost town except for a couple of hotels and Bayside.
+5:  The ongoing construction and the strange location of the lobby doesn't give you the feeling that you're in a 4star hotel.
+
+----- Supporting -----
+
+[0.9911050796508789] Hotel could do with a refurbishment.
+[0.0105133056640625] The ongoing construction and the strange location of the lobby doesn't give you the feeling that you're in a 4star hotel.
+[0.009090423583984375] VALET: I must say the only friendly people at this hotel were the actually valet driversâ€¦those in the Valet booth were extremely rude and will forget to give your keys to a driver to get your car (happened to several guests) RENOVATIONS: Drilling started at 7am right outside our window.
+[0.0020399093627929688] But the lobby is on the 7th floor, and the signage to direct guests was lacking.
+[0.001800537109375] Construction was happening on the exterior of the hotel.
+
+----- Weakening -----
+
+[-0.22347259521484375] Beautiful lobby!
+[-0.1933612823486328] Rooms were clean and the staff was nice except for the front desk clerk who double-charged me and my friend's credit cards.
+[-0.10562896728515625] We picked up a car through Enterprise at the airport & was allowed to drop it off at the hotel the next day, very convenient, since the cruise line was supplying a shuttle for us to the pier.
+[-0.10057830810546875] A design genius put this hotel together clearly.
+[-0.07458114624023438] They are doing the best they can with the old building.
+
+**********
+
+There are issues with the elevators taking a long time to arrive.
+Keywords: 
+     [0.5050193890353234]  are
+     [0.5050193890353234]  long
+     [0.5050193890353234]  there
+     [0.3802248041474853]  with
+     [0.2500885384516817]  to
+
+Top 5 statements based on keywords:
+1:  The elevator can take 20-30 minutes to get to your floor and is often filled with people and luggage.
+2:  VALET: I must say the only friendly people at this hotel were the actually valet driversâ€¦those in the Valet booth were extremely rude and will forget to give your keys to a driver to get your car (happened to several guests) RENOVATIONS: Drilling started at 7am right outside our window.
+3:  They are doing the best they can with the old building.
+4:  The elevator dinged all night long keeping up the entire family.
+5:  Last night i took it back from Bayside and the car was filled with drunk teens that were looking for a fight.
+
+----- Supporting -----
+
+[0.17009735107421875] The elevator can take 20-30 minutes to get to your floor and is often filled with people and luggage.
+[0.140655517578125] The elevator dinged all night long keeping up the entire family.
+[0.01497650146484375] Also lots of construction on the streets make sure you plan to leave a bit early especially on the weekend.
+[0.006519317626953125] Ended up riding up and back down to get to the lobby.
+[0.00640869140625] When we finally got to the lobby (because it's a little bit tricky) it was full of people checking in, but everything ran just perfect thanks to the professionalism and friendly attitude of the front desk agents.
+
+----- Weakening -----
+
+[-0.1599712371826172] We picked up a car through Enterprise at the airport & was allowed to drop it off at the hotel the next day, very convenient, since the cruise line was supplying a shuttle for us to the pier.
+[-0.07977676391601562] You drive up to what seems to be the 3-4 floor and there is a nice entrance.
+[-0.058135986328125] Only negative, which is not fault of Hilton was road construction on Biscayne blvd.
+[-0.056542396545410156] A design genius put this hotel together clearly.
+[-0.03189849853515625] Ä±t has an interesting entrance you take a lift to 3 floor above to enter the lobby from the valet service but still not tiring.
+
+**********
+
+Some guests noted that housekeeping did a poor job.
+Keywords: 
+     [0.4623917427763772]  guests
+     [0.4623917427763772]  job
+     [0.4199527845971448]  some
+     [0.38984186457578734]  housekeeping
+     [0.3664860205023613]  did
+
+Top 5 statements based on keywords:
+1:  They also did an extremely lousy job in cleaning the room.
+2:  The only negative would be that they didn't come to make our beds or clean the room, but that didn't ruin our stay at the Hilton.
+3:  VALET: I must say the only friendly people at this hotel were the actually valet driversâ€¦those in the Valet booth were extremely rude and will forget to give your keys to a driver to get your car (happened to several guests) RENOVATIONS: Drilling started at 7am right outside our window.
+4:  One or two issues during our stay included :- Housekeeping - at least 2 days out of the 5 our room was not made up and we had to chase housekeeping.
+5:  But, there were no sheets available and we had to call down to housekeeping at 2am (when we arrived) to get sheets.
+
+----- Supporting -----
+
+[0.010099411010742188] not a good way to start New Years eve having to share towels.
+[0.0067310333251953125] HOUSEKEEPING: Never understood that there were 4 people in the room (room can hold 5) and choose to only put towels for 3 each day we were day (4 days) despite many calls to the front desk.
+[0.006649017333984375] The only negative would be that they didn't come to make our beds or clean the room, but that didn't ruin our stay at the Hilton.
+[0.0051860809326171875] Room was very sub-standard for cleanliness...floor looked like it never gets vacuumed.
+[0.005126953125] One or two issues during our stay included :- Housekeeping - at least 2 days out of the 5 our room was not made up and we had to chase housekeeping.
+
+----- Weakening -----
+
+[-0.8830351829528809] It was very clean.
+[-0.5632648468017578] Some fun decor and some oldish.
+[-0.454437255859375] Great treatment of hhonors members.
+[-0.4449882507324219] Tropical theme, colorful decor.
+[-0.4079856872558594] They Aim to please and have true hospitality -
+
+**********
+
+Some found the location convenient.
+Keywords: 
+     [0.5834423042260732]  found
+     [0.522767246585179]  some
+     [0.48280160781975756]  convenient
+     [0.35231018209897513]  location
+
+Top 5 statements based on keywords:
+1:  Aside from the convenient location to the MetroMover, which was all we needed to get to the bayside station.
+2:  Im confident that given more time I could have found something more pleasing for the second half of our family vacation.
+3:  We found a great deal on Expedia and were excited to stay at the Hilton.
+4:  This was an expensive option, but it was convenient since neither of us in the party was familiar with Miami.
+5:  The hotel is not convenient to anything or anyplace.
+
+----- Supporting -----
+
+[0.6680526733398438] This was an expensive option, but it was convenient since neither of us in the party was familiar with Miami.
+[0.6311607360839844] My wife and our 2 kids stayed at the hotel after our cruise trip and one of the good, amoung others, is how close is the hotel from the miami port....it's just like 10 minutes!
+[0.469146728515625] Aside from the convenient location to the MetroMover, which was all we needed to get to the bayside station.
+[0.44659996032714844] That said we enjoyed our time Downtown and the location of the hotel is good especially for one/two night cruise passengers.
+[0.417327880859375] Location was great 200 yds from Omni station for free Metro Mover + local bus station ($2 one way anywhere on route).
+
+----- Weakening -----
+
+[-0.076873779296875] The Hotel is good - the location is not.
+[-0.05615234375] One of the downsides to this motel is the location.
+[-0.0442962646484375] The only downside is that it is a bit of a hassle to get to the beach compared to staying in South Beach, but I already knew that going into the stay.
+[-0.0417633056640625] Watch out at drive inn restaurant across street - kinda scary for families.
+[-0.03908538818359375] Location is a little awkward to enter due to road construction.
+
+**********
+
+The hotel has a great atmosphere.
+Keywords: 
+     [0.6570304362005635]  atmosphere
+     [0.6127085128414668]  has
+     [0.3323305306969523]  great
+     [0.23971128904227915]  hotel
+
+Top 5 statements based on keywords:
+1:  Overall, great place, great hotel, great staff.
+2:  This hotel is nice , but for a business traveller is far from ideal , i arrived with no sleep and had to pop a coupe of earplugs to be able to , the beds are great and rooms are spacious and beautiful view but the walls are paper thin and you can hear crystal clear conversation tvs sex ect coming from the other room ,you can also hear the hallway noise amplified times 4.. there is no minibar which is also quite annoying when u are in business as usually you need drinks and snaks at hand ,, room service was ok and inexpensive compared to other Hiltons I have been at ..had the Chicken quesadillas which where not bad but artificial cheese , beware ... this hotel is far from everywhere touritsy and you need a car or taxi to move around , this was not an issue for me as i only needed the room to sleep and eat and had a driver.. an Ok hotel but too noisy to book it again , probably best for a group and tourist trip, avoid if in Buisness and looking for peace
+3:  My husband and friends stayed at the Hilton Miami Downtown for a week.We really enjoy this hotel.Our room was clean and comfortable.The pool is great if you enjoy swimming great drinks at the pool bar.Driveway staff was very friendley and polite.
+4:  Excellent services clean and spacious rooms with great view of downtown Miami.Bar off lobby is a great hotel bar.We were given a bottle of champagne for our anniversary.The staff was very accommodating always smiling and engaging in conversation.
+5:  The hotel was full and jumping with lively but good natured Colts fans and had a fantastic atmosphere.
+
+----- Supporting -----
+
+[0.9799113273620605] The hotel was full and jumping with lively but good natured Colts fans and had a fantastic atmosphere.
+[0.7542285919189453] Nice, clean hotel with great view.
+[0.5335216522216797] i stayed at this hotel for 4 nights, found the hotel clean and friendly, good bar area and resturant...
+[0.4612703323364258] Overall, great place, great hotel, great staff.
+[0.453094482421875] The hotel seemed renovated and it was clean and beautiful.
+
+----- Weakening -----
+
+[-0.9939851760864258] However the Hotel has an old feel to it and the surrounding areas outside the hotel was a bit rundown and had a grimy feel.
+[-0.9897527694702148] Not the best area at night TV cable kept going out Conference rooms are cold Charge for WiFi unless you have an existing account like AT&T Overall very disappointed for a Hilton...the hotel seemed more like a hotel going out of business.
+[-0.9894495010375977] My opinion is that this motel was extremely unorganized during this time.
+[-0.9872283935546875] this is the worst joint ever.
+[-0.9753828048706055] Room was small and boring.
+
+**********
+
+The rooms are clean.
+Keywords: 
+     [0.6093110570866858]  are
+     [0.5426845660106705]  rooms
+     [0.5270230880753305]  clean
+
+Top 5 statements based on keywords:
+1:  This hotel is nice , but for a business traveller is far from ideal , i arrived with no sleep and had to pop a coupe of earplugs to be able to , the beds are great and rooms are spacious and beautiful view but the walls are paper thin and you can hear crystal clear conversation tvs sex ect coming from the other room ,you can also hear the hallway noise amplified times 4.. there is no minibar which is also quite annoying when u are in business as usually you need drinks and snaks at hand ,, room service was ok and inexpensive compared to other Hiltons I have been at ..had the Chicken quesadillas which where not bad but artificial cheese , beware ... this hotel is far from everywhere touritsy and you need a car or taxi to move around , this was not an issue for me as i only needed the room to sleep and eat and had a driver.. an Ok hotel but too noisy to book it again , probably best for a group and tourist trip, avoid if in Buisness and looking for peace
+2:  Pool area although at roof level and could be quite a haven staff appeared once again overwhelmed at busy times - could not keep on top of towel demand and allowed guests to bring bottles/glasses into the pool area.
+3:  First of all, this Hilton is OK as a hotel - rooms are all right, service is sort of all right, restaurant and bar are a bit gloomy but all right, and the location is grim but OK if you have to be away from Miami Beach for business.
+4:  Not the best area at night TV cable kept going out Conference rooms are cold Charge for WiFi unless you have an existing account like AT&T Overall very disappointed for a Hilton...the hotel seemed more like a hotel going out of business.
+5:  The rooms are really nice and clean and the staff is amazing.
+
+----- Supporting -----
+
+[0.9887232780456543] The rooms are clean and truly comfortable.
+[0.984738826751709] The rooms are really nice and clean and the staff is amazing.
+[0.9786758422851562] The rooms are ok. Clean, quiet at night and good beds.
+[0.9760370254516602] Rooms were clean and the staff was nice except for the front desk clerk who double-charged me and my friend's credit cards.
+[0.9582786560058594] Room is very clean overall.
+
+----- Weakening -----
+
+[-0.9933748245239258] On the way to my room someone had dropped 3 beers on the floor and it was wet and sticky with the cans still there and a wet floor sign in the middle.
+[-0.9929409027099609] The room was a bit dusty and the coffee station did not have stir sticks.
+[-0.9919567108154297] Tools and debris were lying on the balcony.
+[-0.9867420196533203] Our room could have been better, candy wrappers in the dresser drawers and a pair on men's underwear crumpled up by the picture window.
+[-0.9856271743774414] Upon inspecting our room, my wife found used empty shampoo bottles in the shower.
+
+**********
+
+Reviewers noted that the staff went above and beyond to make their stay enjoyable.
+Keywords: 
+     [0.5010799898246875]  went
+     [0.4376692130282134]  make
+     [0.4172555024587966]  stay
+     [0.4172555024587966]  their
+     [0.2904339488658484]  that
+     [0.22255973010959898]  staff
+     [0.17714448573659772]  to
+     [0.15699632662569826]  and
+
+Top 5 statements based on keywords:
+1:  I was not even offered anything to attempt to make the situation better, or even a complimentary night at ANOTHER Hilton (because I defiantly won't be going back to the Hilton Miami) to make up for the awful three harassment filled nights we spent at the Hilton Miami.
+2:  so I would like to say thx to all staff and especiall to fernando for this great service, that's one of the reason why we will come again soon... it was the first and definitely not the last time.
+3:  Everything there were great from the nice clean and comfortable room with the unbelievable pretty view until the good food, the great bar and pool etc and last but not least the helpful friendly and sympathetic staff especially the ladjh in the little shop and the men called fernando at the front desk, he'd done a well work, gave good advices and was very cordially,smart, professional with a nice charisma and left behind a positive impression!
+4:  I complained to the "manager" and she told me that it was "their culture".
+5:  The area is not safe to walk around with panhandlers lurking around, if the burger king needs security at night, this is a clear indication that you better stay inside and order in.
+
+----- Supporting -----
+
+[0.6722984313964844] so I would like to say thx to all staff and especiall to fernando for this great service, that's one of the reason why we will come again soon... it was the first and definitely not the last time.
+[0.29370880126953125] We asked for Towels - 5 minutes later they were there We had room service - said it would take 25 minutes - was there in 15 We needed more pillows - there in 10 minutes Housekeeping was a pleasure and our room was always made up early.
+[0.275299072265625] On the upside the manager bought us dinner and drinks at the restaurant for our inconvenience at check-in and he was very apologetic and nice.
+[0.2644004821777344] Everything there were great from the nice clean and comfortable room with the unbelievable pretty view until the good food, the great bar and pool etc and last but not least the helpful friendly and sympathetic staff especially the ladjh in the little shop and the men called fernando at the front desk, he'd done a well work, gave good advices and was very cordially,smart, professional with a nice charisma and left behind a positive impression!
+[0.22032546997070312] I used to live right next to this hotel and was very impressed with the service and the accommodations.
+
+----- Weakening -----
+
+[-0.99320387840271] The staff were unhelpful.
+[-0.9913291931152344] Then when I got my car 10 minutes later the attendent just handed me my keys and walked away...a total joke.
+[-0.9911770820617676] I called often and continued to get unsatisfactory answers.
+[-0.9881134033203125] FRONT DESK: Members of the front desk staff were extremely rude and condescending!!
+[-0.9873580932617188] Rates were too expensive and service was terrible.
+
+**********
+
+The view from the penthouse is mentioned as being great.
+Keywords: 
+     [0.4811955086470178]  penthouse
+     [0.4403160278883155]  from
+     [0.4113115747054315]  as
+     [0.38881397298838233]  view
+     [0.34142764076384524]  great
+     [0.28340137138808175]  the
+
+Top 5 statements based on keywords:
+1:  Until recently the center of Main Street in Dallas has not been the most amazing location in Dallas to stay, but the Joule is turning into an anchor location with the downtown Nieman Marcus a couple blocks in one direction and the JFK memorial a couple blocks in the other and about 6 or 7 popular restaurants surrounding the hotel.
+2:  The pool was nice as was the fitness center but with tiny cramped rooms, lack of customer service (I tried calling the desk 3 times and never go through) and the loading dock at the front of the building, I wouldn't recommend it.
+3:  Back to the Penthouse...what a view of Dallas, both at night with all the lights and then again in the morning when we met for breakfast.
+4:  The shower was GREAT, the beds were GREAT but the view was looking at airconditioners which didn't bother us because we weren't looking out that much.
+5:  I stopped into Charlie Palmer for dinner, had a fantastic time there, Tommy the bartender took great care of me and the food was out of this world.
+
+----- Supporting -----
+
+[0.903045654296875] Back to the Penthouse...what a view of Dallas, both at night with all the lights and then again in the morning when we met for breakfast.
+[0.12467193603515625] You can read more about it on my blog: http://travel.bauzas.com/2011/12/21/hotel-review-united-states-of-america-texas-dallas-the-joule/.
+[0.0119781494140625] We reserved a guest room which was beautiful and enjoyed a wonderful breakfast on the patio Saturday morning at Charlie Palmer's Restaurant.
+[0.0060443878173828125] Check out Iron Cactus for a drink - they have 3rd story rooftop bar that is really nice if weather is good.
+[0.003681182861328125] Good location and very helpful staff.
+
+----- Weakening -----
+
+[-0.8843288421630859] You get no view .
+[-0.8412208557128906] The view from the lower floors is kinda cruddy and the street noise might get loud on the weekend.
+[-0.6355476379394531] Location wasn't the best and looked a little scary out on the street at times, but no issues while out walking before dark.
+[-0.571441650390625] The shower was GREAT, the beds were GREAT but the view was looking at airconditioners which didn't bother us because we weren't looking out that much.
+[-0.17340087890625] So, one word of caution; empty your car entirely when parking in their valet lot.
+
+**********
+
+The reviews said that there were some errors made with the bill.
+Keywords: 
+     [0.40420884870683216]  bill
+     [0.40420884870683216]  errors
+     [0.37475479966106984]  reviews
+     [0.35385681928708196]  said
+     [0.28037147548934316]  some
+     [0.2740507408215695]  made
+     [0.26823622857273]  there
+     [0.2236987114018193]  were
+     [0.212500801659957]  that
+     [0.20995167613933158]  with
+
+Top 5 statements based on keywords:
+1:  She was very pleasant to work with and made sure my guest were comfortable throughout there stay.
+2:  Firstly our room smelt of smoke so they had to come spray the room, then there wasnt a hairdryer so they came and provided that, then the tv didn't work so they they had to come fix that, then we paid for valet at $27 for our car to be returned with bird droppings all over it.
+3:  I have read some of the reviews that spoke of bad service.
+4:  It was really disappointing to have not just one error but two errors on my bill.
+5:  After that was all said and done Rudy assisted me with my bags and was very thoughtful of coversation the entire way up!!!
+
+----- Supporting -----
+
+[0.257354736328125] Furthermore, room service was closed at 10 pm, front desk was unhelpful (in ordering a pizza nonetheless) and Charlie Palmer was a waste of time and energy (great staff, HORRIBLE management.)
+[0.19818878173828125] It was really disappointing to have not just one error but two errors on my bill.
+[0.196807861328125] I have read some of the reviews that spoke of bad service.
+[0.13131332397460938] Cons: Service is terrible!!
+[0.084991455078125] It was insulting that the doorman/management were so disrespectful and unwilling to take care of their guest.
+
+----- Weakening -----
+
+[-0.6251983642578125] I stayed with you all in May of this year and I must say you have some of the best staff ever...
+[-0.5380401611328125] I was treated wonderfully.
+[-0.5122756958007812] We were very impressed with the service and attention to detail.
+[-0.471923828125] The accomodations were wonderful, the canti-levered pool was gorgeous and the lobby ultra chiq...but the best attribute by far was the care and attention to detail given by Henry and the valet staff!
+[-0.4281272888183594] These folks go out of their way to make your stay enjoyable and hassle free.
+
+**********
+
+People found the staff to be helpful and accommodating.
+Keywords: 
+     [0.4783969603451922]  accommodating
+     [0.4783969603451922]  found
+     [0.4783969603451922]  people
+     [0.3318305922067539]  be
+     [0.31746805349311796]  helpful
+     [0.1966431906442445]  staff
+     [0.17778338770888083]  to
+     [0.13155158112314858]  and
+
+Top 5 statements based on keywords:
+1:  Then I went up to bar to close tab again just standing there it took ten mins, then the manager of the pool and club pm was there and was very friendly offered us free drinks and help but I rejected I no longer wanted to be around that.
+2:  Always curteous and extremely helpful, they went above and beyond in getting us where we nneded to go and on time!!
+3:  I will be staying at the Joule again thanks to Craig and his outstanding customer service and ample knowledge of Dallas and the metroplex.
+4:  From the bell staff, to the bar staff, everyone was friendly, welcoming and eager to help all the time.
+5:  After my first drink we had to flag down a girl to ask for another as the pool area was not busy maybe 6 other people so ni reason for service to be that bad.
+
+----- Supporting -----
+
+[0.9126138687133789] From the bell staff, to the bar staff, everyone was friendly, welcoming and eager to help all the time.
+[0.9047174453735352] The service at the Joule is great--everyone is also willing to help out and is very welcoming.
+[0.8913698196411133] Thanks to all the staff that helped us relax and enjoy ourselves!
+[0.8762836456298828] Their understanding of customer service, above and beyond attention to detail and courtesy have made this a repeat destination on the list.
+[0.8609933853149414] They upgraded us to a suite free of charge, brought in cupcakes, a special beer and were of ongoing assistance through out the stay, helping to make his birthday a great day and full of surprises.
+
+----- Weakening -----
+
+[-0.9966325759887695] It was insulting that the doorman/management were so disrespectful and unwilling to take care of their guest.
+[-0.9841346740722656] He did not offer to help in any way.
+[-0.9839191436767578] I have read some of the reviews that spoke of bad service.
+[-0.9813690185546875] The actual service at the front desk seemed a bit patchy, depending on who was there.
+[-0.9703073501586914] Cons: Service is terrible!!
+
+**********
+
+The furniture in the rooms is comfortable.
+Keywords: 
+     [0.48917696699140956]  comfortable
+     [0.48917696699140956]  furniture
+     [0.4509936837559811]  rooms
+     [0.358417619484089]  the
+     [0.32937682997371015]  in
+
+Top 5 statements based on keywords:
+1:  Some other minor issues were the desk chair in the room (it fell short of an appropriate working height of the desk and constantly fell down when your leg accidently hit the adjustment bar in front, poor choice of chairs), the elevator door was annoyingly slow to close (I was up and down several times per day), the exterior and lobby doors should be automatic and I noticed people struggling to open them and get their luggage through, they also were misaligned and did not open well.
+2:  Some other minor issues were the desk chair in the room (it fell short of an appropriate working height of the desk and constantly fell down when your leg accidently hit the adjustment bar in front, poor choice of chairs), the elevator door was annoyingly slow to close (I was up and down several times per day), the exterior and lobby doors should be automatic and I noticed people struggling to open them and get their luggage through, they also were misaligned and did not open well.
+3:  Some other minor issues were the desk chair in the room (it fell short of an appropriate working height of the desk and constantly fell down when your leg accidently hit the adjustment bar in front, poor choice of chairs), the elevator door was annoyingly slow to close (I was up and down several times per day), the exterior and lobby doors should be automatic and I noticed people struggling to open them and get their luggage through, they also were misaligned and did not open well.
+4:  Other than the thin wall between rooms, it was an excellent stay and we'd definitely stay there again.
+5:  Pine Street is much easier to walk down to the Market than some of the other downtown streets (less incline.)
+
+----- Supporting -----
+
+[0.5857448577880859] The lobby is warm and cozy with couches and a fireplace.
+[0.26926326751708984] The furniture was comfortable.
+[0.08609867095947266] The lobby is beautfully furnished and offers a great meeting place or somewhere to rest.
+[0.02331066131591797] The lobby has a nice little living room style waiting area but only takes 10 seconds to get through to the elevators.
+[0.013634681701660156] The lobby is small, but nice.
+
+----- Weakening -----
+
+[-0.7029953002929688] Some other minor issues were the desk chair in the room (it fell short of an appropriate working height of the desk and constantly fell down when your leg accidently hit the adjustment bar in front, poor choice of chairs), the elevator door was annoyingly slow to close (I was up and down several times per day), the exterior and lobby doors should be automatic and I noticed people struggling to open them and get their luggage through, they also were misaligned and did not open well.
+[-0.7029953002929688] Some other minor issues were the desk chair in the room (it fell short of an appropriate working height of the desk and constantly fell down when your leg accidently hit the adjustment bar in front, poor choice of chairs), the elevator door was annoyingly slow to close (I was up and down several times per day), the exterior and lobby doors should be automatic and I noticed people struggling to open them and get their luggage through, they also were misaligned and did not open well.
+[-0.7029953002929688] Some other minor issues were the desk chair in the room (it fell short of an appropriate working height of the desk and constantly fell down when your leg accidently hit the adjustment bar in front, poor choice of chairs), the elevator door was annoyingly slow to close (I was up and down several times per day), the exterior and lobby doors should be automatic and I noticed people struggling to open them and get their luggage through, they also were misaligned and did not open well.
+[-0.4862251281738281] It was dark, dirty, and noisy from the construction right outside my window.
+[-0.463470458984375] Did not want to leave our car there.
+
+**********
+
+There were some concerns about the sanitation of the shampoo and conditioner dispensers in the shower.
+Keywords: 
+     [0.3680089676471252]  conditioner
+     [0.3680089676471252]  shampoo
+     [0.35466967479797384]  the
+     [0.3344774590046822]  shower
+     [0.3344774590046822]  some
+     [0.3344774590046822]  were
+     [0.2922327541569317]  about
+     [0.27715496636437703]  there
+     [0.2270282167884548]  of
+     [0.1775877688763213]  in
+
+Top 5 statements based on keywords:
+1:  The hotel even allowed us to check in early (1:00) which was nice because we had just arrived back in Seattle from our Alaskan cruise (the only negative which is why I'm giving Service 4 stars instead of 5 was the girl at the front desk who offered another couple more options about checking in early--which floor and view they wanted, which was not offered to us...whatever...).
+2:  The maids had left the alarm on from the last guest (a major pet peeve of mine) and so we were awakened at 7 a.m. And, a large group of guests arrived in the room next door at 7:30 and the lack of soundproofing between connecting rooms became glaringly apparent.
+3:  Don't know the concierges name, it would be the older man in the morning but he had great recommendations for restaurants, each one excellent and was so knowledgeable about the city and when was the best times to go to events.
+4:  I don't like the shampoo and conditioner dispenser attached to the wall in the shower though.
+5:  - The housekeeper walked in on me without knocking at 9 a.m. in the morning when I was getting ready to go in the shower.
+
+----- Supporting -----
+
+[0.14660263061523438] I don't like the shampoo and conditioner dispenser attached to the wall in the shower though.
+[0.00180816650390625] They just seem unsanitary to me.
+[-0.0027065277099609375] It was a convenient location, but not a luxurious accomodation.
+[-0.002826690673828125] - The housekeeper walked in on me without knocking at 9 a.m. in the morning when I was getting ready to go in the shower.
+[-0.004797935485839844] Getting my car from the valet took less than three minutes... My stay at the Paramount was a very pleasant and positive experience.
+
+----- Weakening -----
+
+[-0.396087646484375] It's Asian inspired and they have some incredible little dishes of sushi and japanese type dishes.
+[-0.23589324951171875] The night before I needed to leave there was a big snowstorm in town, and I was worried the rail system would not be running the next morning.
+[-0.1847686767578125] The heater came off and on frequently and it made a jarring clicking noise each time...all night long.
+[-0.1710205078125] The best thing is they have an empty fridge so you can put all your goodies that you buy from pike place inside
+[-0.1490631103515625] A waiter showed up and took coffee orders.
+
+**********
+
+The only complaint was the cost of parking.
+Keywords: 
+     [0.5506328994461579]  cost
+     [0.5101197221753837]  complaint
+     [0.3562018590306012]  only
+     [0.3310910769187862]  parking
+     [0.27976694107879724]  the
+     [0.253835652519563]  of
+
+Top 5 statements based on keywords:
+1:  Our only complaint was the cost of parking our car.
+2:  When we talked to the front desk, they told us they contract out their parking (United Parking) and referred us to the supervisor of the company.
+3:  It is right in the heart of the Westlake shopping area, with the light rail station only a few blocks, and the market only 5 blocks.
+4:  It is on the edge of downtown, with parking lots and demolition going on across the street on one side and the Hyatt on the other.
+5:  Only two blocks to the front door of the convention center (under the canopy) and right in the heart of everything you need - Pacific Place Mall is two blocks, there are three - count 'em - three Starbucks within two blocks and a Barnes and Noble bookstore.
+
+----- Supporting -----
+
+[0.9944648742675781] Our only complaint was the cost of parking our car.
+[0.7677001953125] Only downside is the charge for parking, $27 a night, but that is now standard, if not low, for parking in Seattle.
+[0.22998046875] Only downside was the valet parking.
+[0.09393310546875] Parking was additional but there is a free computer for use.
+[0.0758056640625] The location is great (ten minute walk from Pike Place Market) but construction in and around the area means you're forced to use valet parking ($25/night).
+
+----- Weakening -----
+
+[-0.9959583282470703] My only complaint is that the ice machines are on every other floor.
+[-0.9902257919311523] Only negative was the attached restaurant for breakfast.
+[-0.984827995300293] The only minor thing that I did not like was that they ice machines are on every other floor and located next to the stairwell, so it was a little startling to my girlfriend when someone walked in unbeknownst to her while the machine was running.
+[-0.9775090217590332] First....location!
+[-0.9678330421447754] Things I don't love about the Paramount: The view isn't much --- the rooms look toward other high-rise buildings.
+
+**********
+
+There have been some issues with the fire alarm going off.
+Keywords: 
+     [0.3834816263859242]  off
+     [0.3834816263859242]  some
+     [0.34191651852095006]  been
+     [0.34191651852095006]  going
+     [0.31242560516450973]  alarm
+     [0.31242560516450973]  fire
+     [0.31242560516450973]  have
+     [0.31242560516450973]  with
+     [0.25505817668957115]  there
+
+Top 5 statements based on keywords:
+1:  The fire alarm went off in the ENTIRE hotel very early in the morning because someone burned toast.
+2:  How easy could it have been for someone else to leave with our truck if they could bring us the wrong car?
+3:  The lobby is a little spare, and the furnishings are going down that Hilton Garden Inn direction of "your room is your office", which I appreciate when I travel for, well, business, and which appeals less for when I'm there because it's down the street from the theatre.
+4:  My husband had to drive back following week to Toronto from US after having been on the road for work for four days, to get our car back, that had been sitting underground under the hotel.
+5:  The only bad things that i can mention are that during my stay another guest decided to set the fire alarm of at 04:30, not a wake up call I want to repeat.
+
+----- Supporting -----
+
+[0.8286933898925781] The only bad things that i can mention are that during my stay another guest decided to set the fire alarm of at 04:30, not a wake up call I want to repeat.
+[0.705841064453125] I was there the morning of the false fire alarm and although it was annoying I would rather it be false than for real!
+[0.66259765625] The fire alarm went off in the ENTIRE hotel very early in the morning because someone burned toast.
+[0.00203704833984375] There were weird grease marks on the wall as well.
+[0.00159454345703125] I did hear them but maybe I just expect that city hum, having grown up in NY.
+
+----- Weakening -----
+
+[-0.18932533264160156] The place is brand new so everything works just fine.
+[-0.11229324340820312] Nice lobby with fresh cookies in the evening.
+[-0.09923934936523438] The lobby has delicious cookies every afternoon.
+[-0.08349227905273438] Lobby is great for meeting friends and you can sit and chat there even if you don't want a drink.
+[-0.07685184478759766] The facilities are also better than I have encountered in any hotel.
+
+**********
+
+The food is reasonably priced.
+Keywords: 
+     [0.687751135413659]  is
+     [0.5976601408209928]  food
+
+Top 5 statements based on keywords:
+1:  I really don't have anything bad to say about this hotel, the price is a little steep per night but it is definitely worth it.
+2:  I found this hotel to have a better rate then others in downtown Toronto (which is not the same as saying it's cheap).
+3:  The price is very reasonabe and the quality of the food was great.
+4:  The dining option was reasonable and the food (dinner & breakfast) was ok. Actually, dinner was of better quality than I was expecting since this wasn't a full service Hilton.
+5:  The only thing i would not recommend is eating at the hotel; with as many restaurants nearby, go out.
+
+----- Supporting -----
+
+[0.895050048828125] The price is very reasonabe and the quality of the food was great.
+[0.357513427734375] So you can pack a couple of apples or muffins for later in the day and save yourself some more money on food!
+[0.34865570068359375] For a price of $10 we had a choice of hot and cold items, both ready made, and made to order.
+[0.1694488525390625] The dining option was reasonable and the food (dinner & breakfast) was ok. Actually, dinner was of better quality than I was expecting since this wasn't a full service Hilton.
+[0.07717323303222656] Price was good, too.
+
+----- Weakening -----
+
+[-0.04993629455566406] I really don't have anything bad to say about this hotel, the price is a little steep per night but it is definitely worth it.
+[-0.00975799560546875] It would be great to see more cream in the room in future.
+[-0.00313568115234375] I found this hotel to have a better rate then others in downtown Toronto (which is not the same as saying it's cheap).
+[0.0005130767822265625] Custom made omelets, with several side dishes and great selection of juice, milk, cereals and fruits.
+[0.0005664825439453125] The only thing i would not recommend is eating at the hotel; with as many restaurants nearby, go out.
+
+**********
+
+The food is of high quality.
+Keywords: 
+     [0.5698078131131707]  high
+     [0.4564731620560328]  quality
+     [0.4199875537564844]  is
+     [0.3649718736853715]  food
+     [0.3066529026993465]  of
+
+Top 5 statements based on keywords:
+1:  The food was of high quality and good variety.
+2:  The price is very reasonabe and the quality of the food was great.
+3:  The dining option was reasonable and the food (dinner & breakfast) was ok. Actually, dinner was of better quality than I was expecting since this wasn't a full service Hilton.
+4:  I really don't have anything bad to say about this hotel, the price is a little steep per night but it is definitely worth it.
+5:  I found this hotel to have a better rate then others in downtown Toronto (which is not the same as saying it's cheap).
+
+----- Supporting -----
+
+[0.984126091003418] The food was of high quality and good variety.
+[0.9632091522216797] The price is very reasonabe and the quality of the food was great.
+[0.4364356994628906] Fresh fruit and fruit juices, breads and pastries, and coffee brought to the table rather than stewed out of a communal urn.
+[0.4359302520751953] The food at dinner was very good and the breakfast that was included with the room package was excellent.
+[0.21502971649169922] Has a large variety of food and was very good.
+
+----- Weakening -----
+
+[-0.08935546875] The dining option was reasonable and the food (dinner & breakfast) was ok. Actually, dinner was of better quality than I was expecting since this wasn't a full service Hilton.
+[-0.0062255859375] It would be great to see more cream in the room in future.
+[-0.00313568115234375] The only thing i would not recommend is eating at the hotel; with as many restaurants nearby, go out.
+[0.001194000244140625] So you can pack a couple of apples or muffins for later in the day and save yourself some more money on food!
+[0.001499176025390625] It was so inexpensive for the area and amenities.
+
+**********
+
+The reviews said that the rooms were spacious.
+Keywords: 
+     [0.5219033521323476]  said
+     [0.49607102666211655]  reviews
+     [0.4137929750289313]  spacious
+     [0.2963116216288046]  that
+     [0.28492999021162235]  rooms
+     [0.26923155618406625]  the
+
+Top 5 statements based on keywords:
+1:  I have stayed at this Hilton Garden on Peter street on business many, many times-so when planning a weekend visit with the family I had no hesitation to book- Its well situated, clean and modern and generally a very good value and the Hhnonors perks are good- WOW what a difference during the weekend-instead of business folk and tourists-its packed with club kids and partyers-the staff do their best-but its noisy and the area around the hotel is pretty crazy late in the evening on weekends- I will stay again during the week-but never on a weekend
+2:  My only complaint is that I booked 5 rooms but when I checked in they had spread all the rooms across one floor and we all wanted the rooms side by side with some adjoining.
+3:  After 5 PM they still did not have two rooms available and suggested we go to dinner and then they'd be ready, Well, at 7:30, after dinner, they still did not have rooms ready (housekeeping still working on them!!!).
+4:  My fiance and I stayed at this hotel the last time we went to Toronto to see a jays ball game, located a few footsteps from the cn tower/rogers centre, very convenient location, very good price, clean room, friendly staff, but as other reviews say, and we were expecting it and didn't mind considering the price and location, this hotel is right next to a night club, so the music really boom booms until early morning, unless you are a light sleeper, I would recommend this hotel to you.
+5:  Say what you liked best & least - The best part in my opinion was the view of the CN Tower, but not every room will have that - other than that it would have to be the room size and beds.
+
+----- Supporting -----
+
+[0.8940277099609375] Tell us how you liked the room - Had a 2 queen bed room - very spacious and beds were extremely comfortable.
+[0.7740478515625] :-) Rooms VERY clean and were comfortable and roomy...sitting chairs and ottomans to put your feet up.
+[0.3525733947753906] Rooms are clean and spacious with your own refrigerator and microwave.
+[0.28447723388671875] The room was comfortable, clean and spacious and quiet.
+[0.258026123046875] The rooms are modern, very clean and have many more amenities than one expects, including fridge, microwave, large HDTV, adjustable bed, spacious bathroom and, if upgrading, a wonderful Jacuzzi.
+
+----- Weakening -----
+
+[-0.8808746337890625] the Pool, while not large, was comfortable and clean, and the workout facilities were excellent.
+[-0.8363075256347656] Pool is very small, and every time we stopped by there it was quite busy.
+[-0.8180084228515625] In the bathroom you feel like you are in a space capsule and these are a little cramped but lets face it how much time do you spend in a bathroom...in and out right!
+[-0.7694091796875] The week-end floozies everywhere and drunken partners are too much !
+[-0.70379638671875] Front desk person said we could get into two adjoining rooms right away, but each room only had a king bed and a pull-out couch.
+
+**********
+
+The reviewers noted that the staff were helpful.
+Keywords: 
+     [0.534511526022711]  helpful
+     [0.4632023570874865]  the
+     [0.4539018720159777]  that
+     [0.4286701435136301]  were
+
+Top 5 statements based on keywords:
+1:  Not a bad place for _recreational_ travelers But the desk clerks could not figure out that for business travel, two people might have two reservations to share one room -- not, as the clerks set it up, for one to be the guest of the other (which also means no "HHonors" points for the "guest).
+2:  We complained the next morning and they said we should have complained the night of ... but other people we talked to said that they did complain and nothing happened.
+3:  We spoke with the lady at the desk and all she had to say was "we have never had a Sunday like this... We have another valet employee coming in in an hour" Not helpful!
+4:  It was a pretty good deal but this experience left me feeling like they took advantage of me when they were supposed to be helpful.
+5:  Happily to get in the hotel at night you need to use your keycard and they ask you to confirm your room number and name at the front desk prior to accessing the elevator.
+
+----- Supporting -----
+
+[0.6726970672607422] Staff was helpful in helping us use mass transit and figure out what was open on Canadian Thanksgiving.
+[0.645263671875] The only thing we needed it for was looking up directions to places which we ended up just getting from hotel staff anyways and they were very friendly and helpful.
+[0.6434555053710938] Nice facilityin a convenient location, very useful business services room, friendly restaurant staff (though the honeydew melon in the salad bar was off).
+[0.6334114074707031] The staff was nice to us, and our demands were answered quickly.
+[0.6306915283203125] Describe the service you experienced - Front desk staff very polite and friendly.
+
+----- Weakening -----
+
+[-0.9930534362792969] We spoke with the lady at the desk and all she had to say was "we have never had a Sunday like this... We have another valet employee coming in in an hour" Not helpful!
+[-0.9828805923461914] Never in my life have I spent so much in one place and been treated so poorly.
+[-0.9507846832275391] They told us in a very rude tone and with attitude that our credit card had been declined over the last few days and that they had tried it several time so we would have to provide a cash deposit.
+[-0.8466682434082031] Also, the staff for some reason couldn't seem to do the sums right!
+[-0.839080810546875] I sent a hard copy letter to the general manager suggesting this was a problem and have not received even an acknowledgment after a month.
+
+**********
+
+The reviewers seemed happy with the service they received.
+Keywords: 
+     [0.5307510853021032]  happy
+     [0.5307510853021032]  received
+     [0.3588877554196797]  they
+     [0.3588877554196797]  with
+     [0.3021886835564615]  the
+
+Top 5 statements based on keywords:
+1:  We complained the next morning and they said we should have complained the night of ... but other people we talked to said that they did complain and nothing happened.
+2:  Not a bad place for _recreational_ travelers But the desk clerks could not figure out that for business travel, two people might have two reservations to share one room -- not, as the clerks set it up, for one to be the guest of the other (which also means no "HHonors" points for the "guest).
+3:  Happily to get in the hotel at night you need to use your keycard and they ask you to confirm your room number and name at the front desk prior to accessing the elevator.
+4:  staff was lovely except the lady who checked me in , wasnt a happy person , she didnt check me in until she make sure that i m a hilton employee , which i m not very happy about .
+5:  I spoke with the front desk and they gave me a room as far away as possible, I did have to do a little convincing but it was no problem to be moved.
+
+----- Supporting -----
+
+[0.3994331359863281] Overall a positive stay, staff were courteous & friendly and would comeback again.
+[0.10802078247070312] We needed a early check in and a late check-out - which we got with a smile - nothing was too much trouble for the staff of this hotel.
+[0.09370231628417969] Describe the service you experienced - Front desk staff very polite and friendly.
+[0.08607864379882812] Any time we were leaving they reversed the process with nary an unpleasant word and always smiling.
+[0.07765579223632812] Staff great, friendly and efficient.
+
+----- Weakening -----
+
+[-0.9613857269287109] They told us in a very rude tone and with attitude that our credit card had been declined over the last few days and that they had tried it several time so we would have to provide a cash deposit.
+[-0.9573974609375] Never in my life have I spent so much in one place and been treated so poorly.
+[-0.807276725769043] Never heard back.
+[-0.7985267639160156] It was a pretty good deal but this experience left me feeling like they took advantage of me when they were supposed to be helpful.
+[-0.7211132049560547] I would NOT recommend giving this hotel your business.
+
+**********
+
+The hotel shuttle bus was not necessary if you had a car.
+Keywords: 
+     [0.4277991891127419]  bus
+     [0.4277991891127419]  shuttle
+     [0.3714715588867881]  hotel
+     [0.3714715588867881]  was
+     [0.33150646922640437]  not
+     [0.33150646922640437]  you
+     [0.30050713736187334]  car
+
+Top 5 statements based on keywords:
+1:  A must is a car because travelling around on foot is hard the roads are really hard to cross you take your life into your own hands and wait up to 15 mins for the lights to change and watch the traffic from the right because while your crossing they are too.
+2:  We never used the hotel shuttle bus as we hired a car.
+3:  The furniture, i.e tv unit and clothes drawers seemed to be the only thing that seemed a little tired, but not so much that you would notice.
+4:  Ok so the furniture was a bit tired but stuff worked, plenty of hot water and there was a microwave and fridge in the room.
+5:  The property though was not nice at all.
+
+----- Supporting -----
+
+[0.217041015625] We never used the hotel shuttle bus as we hired a car.
+[-0.0029449462890625] A car will definitely be handy.
+[-0.017681121826171875] We would have struggled without the hire car so I would advise you to get one!
+[-0.018003463745117188] We have been to this complex a number of times.
+[-0.027801513671875] VERY cheap mall , we walked in and walked out right away.
+
+----- Weakening -----
+
+[-0.3730621337890625] The furniture, i.e tv unit and clothes drawers seemed to be the only thing that seemed a little tired, but not so much that you would notice.
+[-0.3458251953125] Small gift/corner shop, internet access.
+[-0.11910629272460938] Ok so the furniture was a bit tired but stuff worked, plenty of hot water and there was a microwave and fridge in the room.
+[-0.09943008422851562] Hotel shop is very expensive so be warned.
+[-0.0769805908203125] When we arrived, although the front desk staff could not find our reservation, I showed them my confirmation sheet and they fixed everything.
+
+**********
+
+The reviews said that the room was clean.
+Keywords: 
+     [0.49685735407101916]  reviews
+     [0.49685735407101916]  said
+     [0.3563714029918538]  that
+     [0.34525010423059704]  room
+     [0.32575734502437587]  clean
+     [0.30656910336344156]  the
+
+Top 5 statements based on keywords:
+1:  just got back from 2 weeks at Qi, we just used it as a base to plan our disney wedding, we have stayed at the other 2 Qi's on I drive and this was by far the best, it had everthing you need around i.e dennys, walgreens etc, we could see animal kingdom from hotel so that give you idea of how close to disney, room was clean and cleaned daily, no problem with anyhting apart from what previous guests have said about limited seating for breakfast but no prob as we took it back to room!!
+2:  I didn't appreciate the bedding at all - the blankets were old and pilled and therefore I could not trust the cleanliness of the room.
+3:  The pool was clean, the room was clean, the staff was friendly...I can't ask for anything more, and certainly not for the small amount I paid.
+4:  First off, the bathroom lights didn’t work, the carpet was filthy(soles of your feet will turn black..guaranteed) the AC unit didn’t work well, and to top that off, hotel is infested with cockroaches.
+5:  First off, the bathroom lights didn’t work, the carpet was filthy(soles of your feet will turn black..guaranteed) the AC unit didn’t work well, and to top that off, hotel is infested with cockroaches.
+
+----- Supporting -----
+
+[0.9393768310546875] just got back from 2 weeks at Qi, we just used it as a base to plan our disney wedding, we have stayed at the other 2 Qi's on I drive and this was by far the best, it had everthing you need around i.e dennys, walgreens etc, we could see animal kingdom from hotel so that give you idea of how close to disney, room was clean and cleaned daily, no problem with anyhting apart from what previous guests have said about limited seating for breakfast but no prob as we took it back to room!!
+[0.8923988342285156] The pool was clean, the room was clean, the staff was friendly...I can't ask for anything more, and certainly not for the small amount I paid.
+[0.663726806640625] ok alot of flies but they were everywhere (front of car was covered with flies) good and clean room maid service perfect.
+[0.3364067077636719] It was cleaned everyday, the safe was free (bonus) and the beds were the most comfortablist (?)
+[0.2924003601074219] The bed was clean and comfortable and the maid came 6 times a week.
+
+----- Weakening -----
+
+[-0.9968385696411133] The carpets were nasty, the bathroom was dirty and nasty, nold was growing on the desk chair, saw 3 bugs, the furniture was worn out, dirty behind the bed.
+[-0.9954900741577148] First off, the bathroom lights didn’t work, the carpet was filthy(soles of your feet will turn black..guaranteed) the AC unit didn’t work well, and to top that off, hotel is infested with cockroaches.
+[-0.9954900741577148] First off, the bathroom lights didn’t work, the carpet was filthy(soles of your feet will turn black..guaranteed) the AC unit didn’t work well, and to top that off, hotel is infested with cockroaches.
+[-0.9950923919677734] Other reviews indicate a terrible odor We experienced the same and it was so bad we were nausiated.
+[-0.9924955368041992] Very Dirty!
+
+**********
+
+The rooms are comfortable.
+Keywords: 
+     [0.6934085966665943]  comfortable
+     [0.5015097119119982]  are
+     [0.46690139674008785]  rooms
+
+Top 5 statements based on keywords:
+1:  All in all, most of the hotels/motels are much the same unless you are staying on Disney property, but then again you are paying for the name.
+2:  The breakfast is served in the lobby area and there are limited tables but you could always eat it in your room or if you don't like what's on offer there are numerous buffet restaurants nearby serving food at prices to suit all pockets.
+3:  There are dolphins swimming only few yards from the people but be careful because there are also sharks.
+4:  The rooms are cleaned spotlessly every day, fresh towels and linen are replaced daily.
+5:  The beds are VERY comfy and rooms are cleaned daily!!
+
+----- Supporting -----
+
+[0.9430150985717773] Room was clean and beds comfortable.
+[0.9379968643188477] The beds are VERY comfy and rooms are cleaned daily!!
+[0.932368278503418] The room was comfortable enough.
+[0.7793235778808594] If you want a cheap, comfortable and clean motel as a base to visit Disney and Universal this is first class.
+[0.7701301574707031] We booked with first choice and this seems to be there most budget hotel.............if you want better you'll have to pay for it i suppose, We wanted a cheap base to enjoy the local attractions but with that we also got a nice comfortable hotel room in a nice quiet area and everything was fineeeeeeeee.
+
+----- Weakening -----
+
+[-0.9866981506347656] The rooms were stuffy and disgusting.
+[-0.9759674072265625] Our Room was damp and slimy.
+[-0.9678230285644531] The rooms smell damp, musty, dark dingey look shabby and dirty.
+[-0.9640159606933594] This place needs a total refurb, the electrical plug sockets aren't fixed to the wall so plug in at your own risk, lasted only 3 nights(out of &) and had to move hotels, Our room 217 was dirty there was cobwebs on the ceiling and an iron mark in the floor, at first glance it didn't look too bad but look around and it's DIRTY.
+[-0.9559173583984375] We had a ground floor room on the opposite side from the pool, it smelled of damp and there was mold on the toilet wall.
+
+**********
+
+The shuttle service only ran a few times a day.
+Keywords: 
+     [0.6022960369242586]  day
+     [0.504252275790919]  only
+     [0.437771555894827]  service
+     [0.38643957253666916]  shuttle
+
+Top 5 statements based on keywords:
+1:  Hotel does supply free shuttle buses to all theme parks which go every day and you don't have to bye your tickets from the guest services at the front of the hotel happy holidays.
+2:  The hotel provides scheduled shuttle service to and from the major theme parks but the schedule is the problem, it leaves you little time to enjoy the sights and you probably won't finish any theme park if you were to follow the shuttle's sked.
+3:  Clean towels everyday, rooms & beds made everyday.
+4:  (the rep was unable to come around til 3 days into the holiday anyway!)
+5:  Maid service is brilliant clean towels everyday and beds made.
+
+----- Supporting -----
+
+[-0.0026624202728271484] We didn't have a car so it worked with the shuttle to the parks (although it took a really long time!)
+[-0.0026903152465820312] The staff were friendly and helpfull.
+[-0.0034646987915039062] Might have to wait for second bus.
+[-0.003696441650390625] The staff was friendly enough.
+[-0.004559993743896484] his hotel was had very disappointing customer service and staff.
+
+----- Weakening -----
+
+[-0.8097095489501953] Hotel does supply free shuttle buses to all theme parks which go every day and you don't have to bye your tickets from the guest services at the front of the hotel happy holidays.
+[-0.7770214080810547] Web site with photos, etc.
+[-0.7770214080810547] Web site with photos, etc.
+[-0.7020759582519531] Maid service is brilliant clean towels everyday and beds made.
+[-0.6287155151367188] Our rooms were cleaned daily and our sheets and towels were changed daily too.
+
+**********
+
+Complaints were made about the lack of internet access in rooms.
+Keywords: 
+     [0.4360397355070397]  lack
+     [0.4018716515823158]  access
+     [0.3776290102338801]  about
+     [0.34346092630915614]  made
+     [0.3304708236836401]  internet
+     [0.300414231452543]  rooms
+     [0.2508821171112725]  of
+     [0.2463259338121498]  in
+     [0.22319945267120586]  were
+
+Top 5 statements based on keywords:
+1:  I arrived in this hotel at 2am in the morning,went in to our room and the rooms i booked was not right and there was no kitchen,it stunk of mould,the carpet was dirty,had no wardrobe and no fridge.Went back to reception to complain and the man said there was no room to be moved to and no manager to talk to,i told him we would not be staying here as it is dirty and he offered me another room to look at(after telling me there was no other rooms avaliable),so at 2am we am looking at other rooms after a long journey there.The rooms were no different and we was so tired we said we would have to stay where we was and speak to the manager in the morning.In the morning we looked around the room and realised the sides of our beds were covered in mould,carpet was old,dirty and musty,coffee perculator did not work,a lamp did not work,our door when closed had a gap in it and did not feel safe,so had to take valuables out every day with us.Didnt even attempt to eat in the cafe area.WOULD NOT STAY HERE.DISGUSTING!!!!!
+2:  Internet access are only way at the hotel Lobby, theirs is NO internet access in the room at all , so..you have bring ur laptop to the lobby !!
+3:  My biggest complaint was the lack of internet service.
+4:  We definetely complained, but the counter staff gave us the choice of cleaning supplies to clean ourselves, because the cleaning staff is off at night time.
+5:  The staff were friendly and we were in our rooms within 10 minutes.
+
+----- Supporting -----
+
+[0.2303466796875] The wireless internet--somewhat annoying to have to go to the lobby, since it doesn't reach to the rooms.
+[0.1619720458984375] Be warned, I needed the internet for my school work, you must go to the lobby it is not available in the rooms.
+[0.03493690490722656] My biggest complaint was the lack of internet service.
+[0.0074310302734375] Internet access are only way at the hotel Lobby, theirs is NO internet access in the room at all , so..you have bring ur laptop to the lobby !!
+[-0.0025205612182617188] We complained to the manager and were promptly offered another room.
+
+----- Weakening -----
+
+[-0.9131698608398438] Web site with photos, etc.
+[-0.9131698608398438] Web site with photos, etc.
+[-0.8762950897216797] free internet access, etc etc.
+[-0.8611946105957031] I also examined their website which includes very little information.
+[-0.7838020324707031] if you want anymore information just E mail me!!
+
+**********
+
+Some complaints were made about the musty smell.
+Keywords: 
+     [0.42815469074472484]  complaints
+     [0.42815469074472484]  some
+     [0.3879149357175178]  made
+     [0.35936437516449793]  about
+     [0.35936437516449793]  musty
+     [0.35936437516449793]  smell
+     [0.2684285243428281]  were
+
+Top 5 statements based on keywords:
+1:  Heard several people at front desk complaining of hair in their bathtub upon arrival and general complaints about their room, our bathtub was never cleaned while we were there.
+2:  Management should really address the musty smell of the hotel.
+3:  The carpet was old and the building had a musty smell to it.
+4:  The hotel had a very musty smell as soon as you entered.
+5:  We made our own waffles which I like.
+
+----- Supporting -----
+
+[0.5928001403808594] Management should really address the musty smell of the hotel.
+[0.0279388427734375] The bedding felt nasty and we found hair.
+[0.02271270751953125] By the way, the smoke detectors did not work in our building.
+[0.01778411865234375] The blanket on the bed looked to be about 20 years old and pilling and I didn't feel comfortable using it.
+[0.010003089904785156] The hotel just did not seem clean at all.
+
+----- Weakening -----
+
+[-0.15906143188476562] Check in process was very pleasant, room was nice and CLEAN!!
+[-0.11837577819824219] Everything was clean and worked properly.
+[-0.096435546875] I asked her if the hotel was clean and she assured me it was.
+[-0.05374336242675781] The microwave and fridge came in very handy for the kids special snacks.
+[-0.0536041259765625] Nice TV; free WiFi.
+
+**********
+
+Some reviewers stated that the hotel was clean.
+Keywords: 
+     [0.562272892565132]  some
+     [0.47193421227534005]  that
+     [0.4428516530350088]  hotel
+     [0.3989988340911882]  clean
+     [0.25581541346723047]  was
+
+Top 5 statements based on keywords:
+1:  I asked her if the hotel was clean and she assured me it was.
+2:  The receptionist on duty even allowed us to look at one of their famous themed rooms, and that solidified our view that we would definitely be back!
+3:  However, we were told that one of the rooms had an older air conditioning unit and that it just wouldn't get as cool as the other.
+4:  Since the lighting was so bad, I couldn't really tell how clean it actually was.
+5:  The hotel just did not seem clean at all.
+
+----- Supporting -----
+
+[0.7982330322265625] I asked her if the hotel was clean and she assured me it was.
+[0.011088371276855469] Housekeeping was adequate.
+[0.005930900573730469] Check in process was very pleasant, room was nice and CLEAN!!
+[0.003116607666015625] Everything was clean and worked properly.
+[0.002918243408203125] The bedding was very nice (large throw pillows and upscale comforters).
+
+----- Weakening -----
+
+[-0.760955810546875] Heard several people at front desk complaining of hair in their bathtub upon arrival and general complaints about their room, our bathtub was never cleaned while we were there.
+[-0.6942214965820312] Management should really address the musty smell of the hotel.
+[-0.6291179656982422] The sheet on one of the beds had copper colored stains near the top and the pillows were stained really bad.
+[-0.5749492645263672] Later found large water spot with mildew on bathroom ceiling.
+[-0.498260498046875] It was kinda moldy around the bathtub.
+
+**********
+
+Some reviewers found the hotel to be unclean.
+Keywords: 
+     [0.5176695048197311]  some
+     [0.4690167760062999]  be
+     [0.4690167760062999]  found
+     [0.4077215867358866]  hotel
+     [0.30267199748305845]  to
+
+Top 5 statements based on keywords:
+1:  The blanket on the bed looked to be about 20 years old and pilling and I didn't feel comfortable using it.
+2:  I had lysol to clean before we touched anything.
+3:  The bedding felt nasty and we found hair.
+4:  My back was killing me from all of the walking and moving our stuff and I wanted to heat up my microwave heating pad, I had to walk down to the front desk, they unlocked a banquet room, the only microwave was in there.
+5:  They actually let us check in early which was nice because it was very hot during our time in Branson and we were ready to get in out of the heat and relax for awhile.
+
+----- Supporting -----
+
+[0.1562347412109375] Heard several people at front desk complaining of hair in their bathtub upon arrival and general complaints about their room, our bathtub was never cleaned while we were there.
+[0.042633056640625] Stayed here last week- Problems as follows: 1) Did not honor their OWN coupon.
+[0.03566741943359375] The hotel just did not seem clean at all.
+[0.03338623046875] The bedding felt nasty and we found hair.
+[0.0244598388671875] The blanket on the bed looked to be about 20 years old and pilling and I didn't feel comfortable using it.
+
+----- Weakening -----
+
+[-0.47841644287109375] Everything was clean and worked properly.
+[-0.37313079833984375] The beds were fine, and the decor was very nice.
+[-0.3412628173828125] We loved the decor and the large jacuzzi tub and private balcony.
+[-0.3037872314453125] Can't thank Rachael enough for all her help in making our family reunion one of best we have had.
+[-0.29489898681640625] The receptionist on duty even allowed us to look at one of their famous themed rooms, and that solidified our view that we would definitely be back!
+
+**********
+
+One of the complaints was about the general feeling that the hotel was not well-maintained.
+Keywords: 
+     [0.3687598146026599]  the
+     [0.3439935209568017]  complaints
+     [0.3439935209568017]  general
+     [0.3439935209568017]  well
+     [0.313011158664097]  was
+     [0.28872512526782296]  about
+     [0.28872512526782296]  that
+     [0.2709326759361891]  hotel
+     [0.2709326759361891]  one
+     [0.24410391397409867]  not
+
+Top 5 statements based on keywords:
+1:  My back was killing me from all of the walking and moving our stuff and I wanted to heat up my microwave heating pad, I had to walk down to the front desk, they unlocked a banquet room, the only microwave was in there.
+2:  Heard several people at front desk complaining of hair in their bathtub upon arrival and general complaints about their room, our bathtub was never cleaned while we were there.
+3:  The next day we left to see some sites, and when we returned the bathroom was still the same......MOLD still there.....and the bed was half made.
+4:  However, we were told that one of the rooms had an older air conditioning unit and that it just wouldn't get as cool as the other.
+5:  We went there for a timeshare thing and we ended up really loving it there and have had our grown kids/grandkids stay there, as well.
+
+----- Supporting -----
+
+[0.7438631057739258] The hotel just did not seem clean at all.
+[0.2823638916015625] Management should really address the musty smell of the hotel.
+[0.1271505355834961] The carpet was old and the building had a musty smell to it.
+[0.11440277099609375] Heard several people at front desk complaining of hair in their bathtub upon arrival and general complaints about their room, our bathtub was never cleaned while we were there.
+[0.10216522216796875] The hotel had a very musty smell as soon as you entered.
+
+----- Weakening -----
+
+[-0.5688152313232422] Everything was clean and worked properly.
+[-0.30922698974609375] Housekeeping was adequate.
+[-0.17237377166748047] We loved the decor and the large jacuzzi tub and private balcony.
+[-0.110107421875] Check in process was very pleasant, room was nice and CLEAN!!
+[-0.09930610656738281] Can't thank Rachael enough for all her help in making our family reunion one of best we have had.
+
+**********
+
+The pool and hot tub were said to be small.
+Keywords: 
+     [0.4766380103679066]  said
+     [0.38351827034328584]  tub
+     [0.3735732286320085]  be
+     [0.36898693023337503]  small
+     [0.32421100136291986]  hot
+     [0.3115967102161632]  pool
+     [0.24729764002980972]  were
+     [0.2165599212283883]  to
+     [0.156224058307478]  and
+
+Top 5 statements based on keywords:
+1:  at the stone castle hotel it is highly a must to see and stay at,from its three castles and two indoor heated pools and two spas it also is equipt with a family arcade,gift shop,laundry and a hot deliciuos breakfast each morning and if thats not enough it also has for your convience high speed internet and a computer for your use in the lobby.the rooms are newly remolded with pillow top beds,table and chairs,restroom etc needs,ironing board and iron,and a blow dryer.the tvs are meduim size and cable tv.this hotel is right smack in the heart of branson.
+2:  Everything was great---Front desk people were friendly and was always willing to help in anyway...Rooms were clean and fresh..Breakfast was good and good music to listen too....I would rate this hotel and one of the best Branson has to offer.
+3:  Rooms were nice in decor but there was dirt under the beds, TV was tiny, wireless internet was horrible, room was very small, pool and hot tub were tiny and full of rowdy kids with no one enforcing the rules of no jumping or horseplay, could not enjoy it at all.
+4:  My Son was very young at the time and wanted to stay there as he liked knights and horses and they have statues of them at the entrance and inside the building, We decided to humor ourselves and stop by and see how much a room would be and we found that it was quite affordable and had many extras to offer.
+5:  We went to the first pool room the hot tub was not hot at all it was very cold and it was blowing out cold water, the pool was alittle bit cold.
+
+----- Supporting -----
+
+[0.8428802490234375] Rooms were nice in decor but there was dirt under the beds, TV was tiny, wireless internet was horrible, room was very small, pool and hot tub were tiny and full of rowdy kids with no one enforcing the rules of no jumping or horseplay, could not enjoy it at all.
+[0.1875] The indoor pool/jacuzzi could really use some updating, ventilation, and bigger towels, but water was clean.
+[0.072021484375] the bathroom was very small with a tub/shower and comode.
+[0.009714126586914062] This place was just great - perfect for smaller kids.
+[0.002044677734375] Nothing fancy, just a good clean place to stay.
+
+----- Weakening -----
+
+[-0.9778337478637695] At first when I saw this big, magnificent hoteI that looked like a castle I thought that it would be way too much to stay there.
+[-0.9721870422363281] While the mom shops till she drops, the little girls and I always enjoy the huge indoor pool and hot tub no matter what the seasons brings outside.
+[-0.9528579711914062] The room they serve it in is huge.
+[-0.8459701538085938] There were all sorts of artifacts in the room from helmets to weapons and the waterfall jacuzzi was the most spectacular and ingenious piece.
+[-0.7880020141601562] The beds were very very nasty.
+
+**********
+
+There were some issues with the cleanliness of the rooms.
+Keywords: 
+     [0.49555218176610305]  some
+     [0.465148013765283]  rooms
+     [0.3918915777717895]  there
+     [0.3327476336000448]  with
+     [0.3186351417782961]  of
+     [0.29505183690067277]  were
+
+Top 5 statements based on keywords:
+1:  We stayed with a group recently and all had a good time....the group had experienced problems unrelated to the hotel but when we got there the treatment and service we received was wonderful.....we were made to feel right at home......I believe Joe was the gentleman who greeted us and was very kind and professional.....Maryann (I think that was her name) in the breakfast room was an absolute angel.....she went out of her way to make everyone feel special........this is an excellent choice for groups-affordable......receptive to needs.......Also the in charge cleaning lady was very professional and friendly.
+2:  Told hotel staff we would only be staying that night instead of the reserved two nights, they were ok with it and didn't charge me to cancel.
+3:  On the negative side: We were greeted by hotel staff that weren't familiar with which credit cards they accepted.
+4:  After looking at the website, we were cautiously optimistic that what we saw was a reality rather than some internet scam.
+5:  No Disney, no movies, no CMT, .... At the end of our hallway there was a window that was open with a screen that was popped loose to leave an opening that dropped 3 stories to the ground....safe?
+
+----- Supporting -----
+
+[0.9008235931396484] Dog was barking in room across the hall all day and night, one of us stepped in dog feces in the parking lot and tracked it into the room :( A group of ill guests vomited just outside the entry door, massive amounts, when we called to ask that it be cleaned up due to health hazards front desk staff was rude!
+[0.8874092102050781] Once inside the hotel it smelled so musty I opened the window in my room to discover it didn't even lock (we had a main floor room, so window locks are a MUST) Husband went to the front desk to complain, maintenance man was able to fix it after at least 45 minute wait.
+[0.7614803314208984] The staff was very helpful but could not find an unstained pilliow in the entire complex!
+[0.7253646850585938] The hotel messed up the Cocktail Hour suite for both nights, and when I called to complain they did NOTHING to make it right, it was so clear that they could actually care less that I was unhappy.
+[0.4368743896484375] The air conditioning in the buildings did not work properly.
+
+----- Weakening -----
+
+[-0.13401031494140625] The staff keeps everything full and clean.
+[-0.09418487548828125] Every requests is handled quickly and efficiently.
+[-0.09051895141601562] The staff was so nice and took very good care of us.
+[-0.08704757690429688] Between Joe and Marlene, they make sure we are treated like queens!
+[-0.06182861328125] We were a bit concerned about security in the hotel.
+
+**********
+
+The reviews said that the room was comfortable.
+Keywords: 
+     [0.569027498888309]  comfortable
+     [0.4703172301533386]  room
+     [0.44836481447859705]  that
+     [0.40030124166964876]  the
+
+Top 5 statements based on keywords:
+1:  I did speak to housekeeping and the reception but the somehow they managed not to get the room clean thoroughly.
+2:  The Wi-Fi service in the room was undependable, the 40+ kgb reception would suddenly drop to 1Kgb and unuseable, then it would flip up to perhaps 18 kbs and back to 1 kgb.
+3:  The parking attendant was pleasant, the check in went smoothly,the room and the view was terrific.
+4:  We are working people with three kids and we dont have a lot of quality time to spend together so when we get the chance we come to the Primrose and here is why: 1) Our favorite room is reserved without us having to ask for it.
+5:  When you turn it down and gradually goes up and if you can sleep only when it's a cool temperature you are going to have to wake up in the middle of the night to turn down the thermostat again.
+
+----- Supporting -----
+
+[0.19637298583984375] The parking attendant was pleasant, the check in went smoothly,the room and the view was terrific.
+[0.06303596496582031] Very clean and the beds were VERY comfortable.
+[0.04161262512207031] It was clean and comfortable.
+[0.0147552490234375] The lobby was clean, as was the elevator.
+[0.013047218322753906] This hotel was not bad at all, check-in was very quick.
+
+----- Weakening -----
+
+[-0.9224739074707031] Please see bedbugs: [--]
+[-0.9167938232421875] Sure enough, when we returned to Ottawa, a Google search revealed that they indeed they had bedbug problems years ago!!!
+[-0.8936367034912109] The dust built up in the bathroom and on the carpet was substantial, seriously dust bunnies.
+[-0.8809890747070312] Each time weâ€™ve stayed I have always had the impression that the place needs a good cleaning.
+[-0.8389129638671875] The laundry left something to be desired.
+
+**********
+
+There were complaints about the lack of amenities in the business center.
+Keywords: 
+     [0.5202877823966258]  complaints
+     [0.4509972333055236]  about
+     [0.36993248756017705]  business
+     [0.349872415089229]  there
+     [0.29010956066072113]  of
+     [0.2666053281368822]  the
+     [0.25647406926254346]  in
+
+Top 5 statements based on keywords:
+1:  When I complained about the elevators and wireless he just stood there with no apology or good explanation other than it would be too expensive to fix the elevators and it was all the guests' fault anyway for the elevator getting stuck since there were 8 people in the elevator (it's rated for 12 people).
+2:  I was also glad that the hotel had free internet access as I had to spend a great deal of time working, and not having to lug everything to a computer room instead of working from my bedroom was very convenient.
+3:  When we tried to call them asking for clarification as they had given us wrong directions, the women on the phone began yelling at us, denying that they gave us wrong directions and continuously transferred our call.
+4:  #6) they love running the vacuum cleaner by your room with a quiet sign up before 9:00 am.#7) They own the parking and they ding you for that extra as well and it is in their very own basement.
+5:  The staff member at the desk told us there were "other options" if we didnt want to pay the fee; but didnt let us in on the secret as to where they might be!
+
+----- Supporting -----
+
+[0.8803844451904297] #1) Business Centre: no paper in printer, no pens, no envelopes, wi-fi slow and potentially virused #2) Several of the desk staff were cold and flat in their behaviour.
+[0.04071044921875] But from the time they told us we had to go get public parking down the street, to mixed up room arrangement, through just rude service, and a tile falling from the bathroom wall, the price was not worth it.
+[0.0175933837890625] I had called down to front desk to ask for some extra towels and they were giving me a hard time.
+[0.0094451904296875] The front desk staff were very unfriendly and always seemed to make matters overly complicated.
+[0.00628662109375] hair bath front desk staff unhappy and helpless.
+
+----- Weakening -----
+
+[-0.7114782333374023] There was also a business room where you could enjoy free internet and use of the fax and printer.
+[-0.611907958984375] When I complained about the elevators and wireless he just stood there with no apology or good explanation other than it would be too expensive to fix the elevators and it was all the guests' fault anyway for the elevator getting stuck since there were 8 people in the elevator (it's rated for 12 people).
+[-0.5862998962402344] The staff were very friendly and cheery and the kids also liked the Tim Hortons in the lobby for the donuts.
+[-0.5047111511230469] Again, this is in no way to complain about the quality of service or Tim Hortons, just heads up for fellow travellers.
+[-0.47227001190185547] We were very pleased with the service and the meeting space.
+
+**********
+
+The reviewers appreciated the variety of food available.
+Keywords: 
+     [0.615716388751499]  the
+     [0.5921365671612684]  of
+
+Top 5 statements based on keywords:
+1:  By the time we got back to the mainland and back to the mall adjacent to the hotel- the shoppers was closed.
+2:  We had breakfast and lunch at the Parkside restaurant in the hotel, the food was of a very high standard, and children less than three eat free ( it costs $7.95 for children over three for the breakfast buffet).
+3:  I can't comment on the food or drinks offered at the hotel as we did not order anything at the restaurant or room service - it was pretty expensive.
+4:  When my husband's Cesar salad was served with chicken instead of salmon, he had to hunt down the waiter to point out the problem, and the waiter barely seemed to care.
+5:  It think it may also be the most expensive of all of the Toronto Marriott hotels.
+
+----- Supporting -----
+
+[0.027296066284179688] We had breakfast and lunch at the Parkside restaurant in the hotel, the food was of a very high standard, and children less than three eat free ( it costs $7.95 for children over three for the breakfast buffet).
+[0.015241146087646484] The rooms are large and the food in the dining room is decent enough.
+[0.014637947082519531] We never went hungry and the quality of the food was excellent.
+[0.012009143829345703] Food was good and service from all of the staff was extremely professional.
+[0.011027812957763672] Unlike many other hotel breakfasts, this one actually has good food!
+
+----- Weakening -----
+
+[-0.9590189456939697] We are NOT demanding restaurant a patrons, but both the food and the service was poor.
+[-0.9364662170410156] I can't comment on the food or drinks offered at the hotel as we did not order anything at the restaurant or room service - it was pretty expensive.
+[-0.8972048759460449] Don't eat at the hotel.
+[-0.8814201354980469] I had some fried rice that was much too gingery; my side dish of broccoli was overcooked; the key lime pie tasted as if it came from a mix - you get the idea.
+[-0.7907466888427734] Concierge lounge nibbles in the evening were a little disappointing, but the staff were friendly (I think this area used to be the old steak house).
+
+**********
+
+The location was praised for being in a convenient location for shopping.
+Keywords: 
+     [0.5123610804702899]  for
+     [0.47765697923530814]  location
+     [0.47537018974261946]  convenient
+     [0.32507747776288454]  shopping
+     [0.3031286215188567]  was
+     [0.25307968742630865]  in
+
+Top 5 statements based on keywords:
+1:  This makes it an ideal location for vacationers, but a bit far if you have meetings in the main business district in the downtown core (although it's not too bad for that).
+2:  The location was an excellent one for us because our event was just across the street, but we also walked to dinner on Queen Street, had many shopping choices (itâ€™s connected to the Eaton Centre, or you can meander along funky Queen West) and itâ€™s close to the subway.
+3:  The location is perfect, near everything one might need on a business trip and for doing some shopping.
+4:  It is in a great location - attached to the Eaton Centre for some last minute Christmas shopping, and close to Nathan Phillips Square and other Toronto sights.
+5:  It is adjacent to a large indoor shopping mall in Toronto, which would have been convenient in the winter.
+
+----- Supporting -----
+
+[0.8911819458007812] The location was an excellent one for us because our event was just across the street, but we also walked to dinner on Queen Street, had many shopping choices (itâ€™s connected to the Eaton Centre, or you can meander along funky Queen West) and itâ€™s close to the subway.
+[0.6890068054199219] Brilliant location if you like shopping!
+[0.4894428253173828] The location is perfect, near everything one might need on a business trip and for doing some shopping.
+[0.31172752380371094] The location of this hotel is excellent â€“ very central and close to public transport, shopping, restaurants, etc.
+[0.18287086486816406] Addtionally, there were pleny of wonderful restaurants, places to shop, the subway transit system, buses and taxes within a 1-5 mile radius of the hotel making it very convenient for just about everything!
+
+----- Weakening -----
+
+[-0.7913913726806641] My only negative comment about the room was the view - it looked straight into an adjacent office building.
+[-0.7098541259765625] But the parking attendants were telling us we couldn't leave our car there.
+[-0.542719841003418] We often used to go on massive shopping trips and had to transport many large boxes to and from our rooms.
+[-0.31014251708984375] If you have children under 8 they will love the fairground at centreville on the islands but avoid Wonderland unless you have teenage children who can go by themselves, the queues were over an hour long for many rides and it feels bleak and bland.
+[-0.22815322875976562] Expensive parking.
+
+**********
+
+The rooms were modern.
+Keywords: 
+     [0.7003151372894777]  modern
+     [0.49724975402042426]  rooms
+     [0.4731825262955814]  were
+
+Top 5 statements based on keywords:
+1:  The bathrooms were clean and the rooms have been updated.
+2:  The ballrooms and meeting rooms were well kept and allowed for great meetings by day and fun parties in the evening.
+3:  Not only that, but the rooms were spotlessly clean, the amenities were nice and our view was spectacular.
+4:  Clean modern rooms, reasonably good service, excellent concierge, good restaurant.
+5:  The rooms were Marriott quality with all the requisite amenities you would expect.
+
+----- Supporting -----
+
+[0.9470033645629883] Rooms were spacious and updated - flat screen tv, newer furniture.
+[0.92938232421875] The bathrooms were clean and the rooms have been updated.
+[0.9267024993896484] Clean modern rooms, reasonably good service, excellent concierge, good restaurant.
+[0.8856391906738281] The hotel was clean and modern and the King room was spacious, with the most comfortable bed (slept better than at home).
+[0.84381103515625] The rooms seem to have been recently updated and are well kept.
+
+----- Weakening -----
+
+[-0.9960384368896484] My basic perception was that the rooms had a dated, unclean vibe.
+[-0.994633674621582] my colleagues staying at the sheraton said their rooms were old and not maintained and in some cases dirty.
+[-0.9815902709960938] The bathroom was the highlight, fairly basic and clean but small with meagre towels and toiletries.
+[-0.9708404541015625] To start with the decor in the rooms is dreadful; mustard coloured walls, a mustard coloured 3D (dont ask) carpet, mustard cloured bed throws and an artexed ceiling only just over 7 feet over our heads.
+[-0.9703407287597656] However, the rooms are very average (no safe, mini-bar for example).
+
+**********
+
+They noted the knowledge of the concierges.
+Keywords: 
+     [0.7164581223029217]  concierges
+     [0.4572838852318562]  they
+     [0.37828487014740214]  of
+
+Top 5 statements based on keywords:
+1:  When I stay here, I generally take the shuttle to the Delta Chelsea, then walk the couple of blocks to this hotel (and enter off Bay).
+2:  Food was good and service from all of the staff was extremely professional.
+3:  I would often try to tip them, sometimes $20, but they always refused, stating that it was against hotel policy and that it was "part of the service".
+4:  My husband traveled to Toronto for business constantly for a few months this past summer and we made a vacation of a couple of weekends in the city.
+5:  I should note that the Airport Express bus does not list the Marriott as one of its downtown stops, however one of its stops (the Metropolitan Hotel) is only a block or so from the Marriott.
+
+----- Supporting -----
+
+[0.8279800415039062] And David and Paul the Concierges were very knowledgable and nothing was too much trouble..
+[0.3860321044921875] The front desk staff were also friendly and helpful with any requests.
+[0.36053466796875] The staff are incredible and don't accept tips, so if you are not from North America this is the place for you.
+[0.3353271484375] The front desk clerk told me about it, and said the hotel would pay for a calling card for me if I wished to make calls.
+[0.31845855712890625] Reception and checkin staff are flawless and will help you with anything youay need.
+
+----- Weakening -----
+
+[-0.8587646484375] The front desk girl didn't seem to understand the situation and said "oh there is a shoppers 2 blocks from here."
+[-0.856719970703125] I did however find the staff to be very indifferent, almost cold and the rooms to be on the smaller side.
+[-0.7939453125] Not very convenient to go down to lobby all the time...Staff was not at all helpful in this matter... A sidenote: the room when we arrived was not vacumed and was not clean.
+[-0.7051239013671875] Stay here if you can put up with bugs and indifferent staff.
+[-0.67535400390625] She still didn't get it- and said-"well I'll call to see if it is open".
+
+**********
+
+Overall, the reviewers thought the service was friendly and helpful.
+Keywords: 
+     [0.6380125873902053]  thought
+     [0.4072155311057634]  friendly
+     [0.3423471708896566]  helpful
+     [0.3265629466659029]  the
+     [0.3217490588368263]  service
+     [0.24615201696820418]  was
+
+Top 5 statements based on keywords:
+1:  I stayed in this hotel as part of a large family group who travelled from Ireland to Toronto for a wedding, the management and staff were wonderful, this was not only about the facilities of the hotel but they were very helpful in guiding us where to go in Toronto and how to get there.
+2:  I stayed in this hotel as part of a large family group who travelled from Ireland to Toronto for a wedding, the management and staff were wonderful, this was not only about the facilities of the hotel but they were very helpful in guiding us where to go in Toronto and how to get there.
+3:  I thought that the service response was great - I have never had someone come to my room to hand me another key.
+4:  I would often try to tip them, sometimes $20, but they always refused, stating that it was against hotel policy and that it was "part of the service".
+5:  Not very convenient to go down to lobby all the time...Staff was not at all helpful in this matter... A sidenote: the room when we arrived was not vacumed and was not clean.
+
+----- Supporting -----
+
+[0.8672904968261719] Every hotel worker we encountered was friendly and helpful.
+[0.8388557434082031] Great service, friendly staff, good food - pity the room wiater couldn't go further than the threshold !!!!
+[0.8327713012695312] The staff were courteous and helpful, and the sports bar on the first floor was a great place to hang out.
+[0.8128166198730469] All staff that we dealt with were courteous and professional.
+[0.8110580444335938] From the concierge and front desk staff, everyone was very nice and attentive during our stay.
+
+----- Weakening -----
+
+[-0.9827632904052734] I did however find the staff to be very indifferent, almost cold and the rooms to be on the smaller side.
+[-0.932093620300293] Not very convenient to go down to lobby all the time...Staff was not at all helpful in this matter... A sidenote: the room when we arrived was not vacumed and was not clean.
+[-0.7621307373046875] The gentleman was excessively rude, simply entered the room, removed the dead bug and looked VERY quickly over the rest of the room before saying "Looks like we got em all".
+[-0.7173042297363281] For business use the hotel gets a C, it was a poor service compared to the others.
+[-0.6858901977539062] Stay here if you can put up with bugs and indifferent staff.
+
+**********
+
+The elevator is scary.
+Keywords: 
+     [0.610055017992003]  elevator
+     [0.610055017992003]  scary
+     [0.4432614732450902]  is
+
+Top 5 statements based on keywords:
+1:  The public spaces are nicely decorated, but our room had a couple of sad "department store" prints on the walls - and considering Granville Island is a hub of artistic activity, I would have loved to see better art (why not link with the Emily Carr school of art across the street, and promote local artists?).
+2:  The elevator groaned when in use which was kind of scary.The pay per view movie was not working the first night, worked the second.
+3:  The rooms are small but nice, the lobby is modern and inviting and the staff is friendly.
+4:  granville island is a community in itself.
+5:  There is no easy chair.
+
+----- Supporting -----
+
+[0.7967605590820312] The elevator groaned when in use which was kind of scary.The pay per view movie was not working the first night, worked the second.
+[-0.05049705505371094] It was very tight on space for 2 adults and 2 adolescents and a little past its prime.
+[-0.0931854248046875] There is no easy chair.
+[-0.10390853881835938] You do have a art institute across the road.
+[-0.13588714599609375] Nothing a little renovation couldn't quickly take care of.
+
+----- Weakening -----
+
+[-0.8925857543945312] While we love trees, it always amazing to us why they are not more strategically placed!
+[-0.7224807739257812] I'd have given it 5 stars if only the desk chair hadn't had arms and been a royal pain to move around.
+[-0.5845470428466797] It was a fun, informative, and flexible way to view the entire city.
+[-0.5238838195800781] He was very impressed and requested a tour of the brewery, which the brew-master provided for him.
+[-0.5139617919921875] granville island is a community in itself.
+
+**********
+
+The reviews said that the hotel was clean.
+Keywords: 
+     [0.4960974551789474]  clean
+     [0.4960974551789474]  said
+     [0.4100384980720944]  that
+     [0.38572677587859555]  the
+     [0.3405583754647324]  hotel
+
+Top 5 statements based on keywords:
+1:  The valet will help you find a spot for your car and the hotel gives you the required window permit that will allow your car to remain parked for more than the 3 hours the law allows.
+2:  Visit all the amenities on Granville island and enjoy a meal at the hotel restaurant Dockside - especially on the waterside plaza in the summer!
+3:  I checked their website and discovered they allow pets, which explains the tile room in that room.
+4:  And the most annoying: the room lighting is poor, in particular the reading light.
+5:  We had in-room massages provided by the spa just down the road and there was plenty of space for side-by-side table setup.
+
+----- Supporting -----
+
+[0.006420135498046875] It is clean, just a little frumpy.
+[0.00023174285888671875] Check-in was friendly and efficient, and our room, although small, was fine.
+[-9.441375732421875e-05] Having just come off a very long flight from Australia I arrived well before regular check in time but was shown to my room straight away.
+[-0.0003948211669921875] A local B&B actually recommended your hotel and we had a lovely one night stay with you.
+[-0.00101470947265625] It was pure bliss.
+
+----- Weakening -----
+
+[-0.916778564453125] Otherwise, the decor and furnishings are a little tired and dated.
+[-0.7131986618041992] * Lamp had burnt out light bulb...not a big deal but these things should be checked upon cleaning.
+[-0.7002849578857422] Our only real disappontment was when we walked around Gastown, which really seems to have got shabby since our last visit.
+[-0.5313682556152344] *The shampoo was in a ridiculous size bottle and if anyone figures out how to get it out of the bottle I would love to know.
+[-0.3519706726074219] My husband tried removing the shade from the lamp, which only helped a tiny bit.
+
+**********
+
+They give you a parking permit to park on the island (normally there is a 3 hour maximum).
+Keywords: 
+     [0.37802390474505193]  maximum
+     [0.35100466833273714]  give
+     [0.35100466833273714]  normally
+     [0.33183421501450533]  permit
+     [0.316964456196112]  hour
+     [0.29454274166223493]  they
+     [0.25862528887164377]  park
+     [0.2316060524593289]  there
+     [0.22458507673501873]  parking
+     [0.19326514582286533]  you
+     [0.18181345090124015]  on
+     [0.1720441419056057]  island
+     [0.14110391365220165]  is
+     [0.12217187789174828]  to
+
+Top 5 statements based on keywords:
+1:  The location is excellent and they give you a parking permit to park on the island (normally there is a 3 hour maximum).
+2:  The front desk clerk suggested paying $16 for parking permit "to be safe" in a 3 hour parking zone enforced between the hours of 9pm to 7am, even though I was outside those hours.
+3:  This hotel is located close enough to downtown to walk to in 1/2 hour( using the aquabus to cross the channel) but also very close to local interesting sites on granville island and is a 15 min walk to Broadway St and 4th Ave where there are numerous placed to eat.
+4:  Although the hotel has parking for a daily fee, it is best not to bring your car as the island is definitely best seen on foot and driving on the island is difficult as pedestrians are everywhere.
+5:  Normally, you can only park for 3 hours on the island, which isn't nearly enough time to wander around and see everything, but the hotel offers free parking.
+
+----- Supporting -----
+
+[0.9944310188293457] The location is excellent and they give you a parking permit to park on the island (normally there is a 3 hour maximum).
+[0.9774513244628906] One of the drawbacks of staying on Granville Island is the parking - almost impossible at the weekend, even after paying the hotel $7 for a pass that allows you to park beyond the normal 3 hour limit.
+[0.1630859375] Normally, you can only park for 3 hours on the island, which isn't nearly enough time to wander around and see everything, but the hotel offers free parking.
+[0.11822509765625] The front desk clerk suggested paying $16 for parking permit "to be safe" in a 3 hour parking zone enforced between the hours of 9pm to 7am, even though I was outside those hours.
+[0.0907135009765625] The valet will help you find a spot for your car and the hotel gives you the required window permit that will allow your car to remain parked for more than the 3 hours the law allows.
+
+----- Weakening -----
+
+[-0.7567157745361328] Meaning you had to go out on to the balcony and look to your right to see water.
+[-0.5681066513061523] Do not hire a car and try to park it here.
+[-0.4498023986816406] We could not believe the view when we walked into our room.
+[-0.4462394714355469] And on the water, the ships gliding by, the water taxis, the sailboats, the seagulls, and the smells of the sea, all at your doorstep.
+[-0.41674041748046875] As it was misty and a bit rainy that day they offered us the use of an umbrella which made our walk around the area much more pleasant.
+
+**********
+
+The guests were described as being friendly.
+Keywords: 
+     [0.5905870691309298]  being
+     [0.5021481808793421]  guests
+     [0.4034966159007483]  as
+     [0.34230772089653255]  friendly
+     [0.30112495225874086]  were
+
+Top 5 statements based on keywords:
+1:  The room was beautiful, the staff were very pleasant and the food from the restiarant Downstairs was delicious.
+2:  My feeling was that they would never make me feel as though any question I asked were silly.
+3:  The staff welcomed us with great warmth and throughout our stay were genuinely pleased to offer help and advice on topics such as buses (including whether it was better to walk or take the ferry).
+4:  But the main high-light for us, as we are sick of being in our cars in Los Angeles, was the public transportation.
+5:  The entire staff could not have been more pleasant and accommodating and the food, beverages and waterfront setting were wonderful as well.
+
+----- Supporting -----
+
+[0.6871070861816406] ), pointing out attractions, giving you maps, friendly greetings every day.
+[0.5280475616455078] Friendly and informal.
+[0.4647216796875] The staff at the hotel were very friendly, helpful and cheerful.
+[0.4178466796875] The staff at the hotel were very friendly and accomodating, and we used the free internet and printer in the lobby to research the bus lines.
+[0.33868408203125] The hotel staff was friendly and helpful.
+
+----- Weakening -----
+
+[-0.43279266357421875] However, if problems arise, as they did on our night, do not expect the manage to be of any help.
+[-0.4062538146972656] The staff just seemed disinterested, especially at the bar and the front desk.
+[-0.34002685546875] Most of the staff was friendly.
+[-0.309417724609375] Initially they were less than courteous about it but i said if there is a charge of course i would play however it might be helpful for future guests to be escorted to the bike and given a brief safety instruction prior to giving someone a key.
+[-0.2347412109375] Now the traffic on the way to Kelowna was another thing altogether...we stayed too long and hit rush hour!
+
+**********
+
+The guests were described as being helpful.
+Keywords: 
+     [0.5905870691309298]  being
+     [0.5021481808793421]  guests
+     [0.4034966159007483]  as
+     [0.34230772089653255]  helpful
+     [0.30112495225874086]  were
+
+Top 5 statements based on keywords:
+1:  The room was beautiful, the staff were very pleasant and the food from the restiarant Downstairs was delicious.
+2:  My feeling was that they would never make me feel as though any question I asked were silly.
+3:  The staff welcomed us with great warmth and throughout our stay were genuinely pleased to offer help and advice on topics such as buses (including whether it was better to walk or take the ferry).
+4:  But the main high-light for us, as we are sick of being in our cars in Los Angeles, was the public transportation.
+5:  The staff was very helpful and attentive, the evening was seamless from appies to dinner to dessert....just ended too soon.
+
+----- Supporting -----
+
+[0.8443107604980469] They drew us a map to the airport at 5am and even went so far as to help me arrange secret surprises for my husband's birthday and sneakily orchestrate them!
+[0.8390216827392578] A special shout-out to Christine, AJ, Oleg Adam and Kim for their help.
+[0.722869873046875] Initially they were less than courteous about it but i said if there is a charge of course i would play however it might be helpful for future guests to be escorted to the bike and given a brief safety instruction prior to giving someone a key.
+[0.531524658203125] The staff welcomed us with great warmth and throughout our stay were genuinely pleased to offer help and advice on topics such as buses (including whether it was better to walk or take the ferry).
+[0.489227294921875] From the initial planning to the evening event, the staff went our of their way to make us feel special, and paid attention to every detail of our requests.
+
+----- Weakening -----
+
+[-0.9329299926757812] However, if problems arise, as they did on our night, do not expect the manage to be of any help.
+[-0.6117973327636719] Unfortunately they just don't have the level of service that would make them a great hotel.
+[-0.5477294921875] The staff was very helpful and attentive, the evening was seamless from appies to dinner to dessert....just ended too soon.
+[-0.52197265625] All staff at the hotel were very helpful and friendly.
+[-0.5089111328125] The desk staff would not look up on Hotels.ca the discrepancies we sited when checking out but they were very cheery and smiling the whole time while denying our information which was infuriating!
+
+**********

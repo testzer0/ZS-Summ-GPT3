@@ -1,0 +1,380 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.44586753845214844
+
+**********
+
+[0.39981842041015625] The hotel was clean.
+Parent: The reviews said that the hotel was clean and that the maids were attentive.
+
+----- Supporting -----
+
+[0.39981842041015625] All of the details from the lobby theme and decor to the functional and modern bathrooms have been impeccably taken care of.
+[0.09542083740234375] Even as we exited the elevator to our floor, a housekeeping staff member assisted immediately in locating our room.
+[0.05450439453125] The housekeeper knocked on each door and handed out complimentary chocolates and bags of ice.
+[0.04986572265625] And I canâ€™t wait to go back Good: â€¢ Amazing dÃ©cor throughout the hotel.
+[0.02994537353515625] The decorum was awesome.
+
+----- Weakening -----
+
+[-0.983607292175293] Also the maids probably need to consider dusting in the bathroom lights becuase they were covered in dust!
+[-0.555328369140625] Loved the rose prosecco too :-) the decor was really fun and innovative throughout, like the large moving cogs by the check-in desk or the chairs in the lobby with sliding silver tables attached, or the secret reading lamp on the guestrooms headboards.
+[-0.5464019775390625] The pool was nice as was the fitness center but with tiny cramped rooms, lack of customer service (I tried calling the desk 3 times and never go through) and the loading dock at the front of the building, I wouldn't recommend it.
+[-0.34212493896484375] I know this could happen anywhere but in years of valet parking it hasnt so this was quite annoying.
+[-0.32677459716796875] I had a rather loud banging on my door to find a maid who said (Who spoke little english) 'downturn you have ice".
+
+**********
+
+[0.59918212890625] The maids were attentive.
+Parent: The reviews said that the hotel was clean and that the maids were attentive.
+
+----- Supporting -----
+
+[0.59918212890625] The valet was very courteous (but very expensive at $27 a night) We had the King room on the 6th floor.
+[0.5039939880371094] The valet was wonderful, very helpful and polite.
+[0.4289436340332031] The housekeeper knocked on each door and handed out complimentary chocolates and bags of ice.
+[0.28871917724609375] The valet just stood right next to me while I struggled with my luggage.
+[0.219635009765625] Even as we exited the elevator to our floor, a housekeeping staff member assisted immediately in locating our room.
+
+----- Weakening -----
+
+[-0.9324922561645508] Once I was at the desk, I still was not offered any help with getting all my luggage to my room.
+[-0.9183502197265625] The bartenders were atttentive.
+[-0.9019393920898438] I'm a simple southern girl and don't like anything too 'frou frou', but the waiter was incredibly patient and courteous.
+[-0.8764781951904297] The doorman refused to allow us entry and we ended up waiting for almost an hour in the Texas heat while other folks would simply walk off the street and were immediately allowed in!
+[-0.733306884765625] it is always great when the doormen remember your name.
+
+**********
+
+[0.2889862060546875] The hotel was not clean.
+Parent: The reviews said that the hotel was not clean and that the staff was not helpful.
+
+----- Supporting -----
+
+[0.2889862060546875] Also the maids probably need to consider dusting in the bathroom lights becuase they were covered in dust!
+[0.17168426513671875] The pool was nice as was the fitness center but with tiny cramped rooms, lack of customer service (I tried calling the desk 3 times and never go through) and the loading dock at the front of the building, I wouldn't recommend it.
+[0.075042724609375] I had a rather loud banging on my door to find a maid who said (Who spoke little english) 'downturn you have ice".
+[0.068084716796875] So overall I would recommend the hotel but just double check EVERYTHING on your invoice.
+[0.025485992431640625] The valet just stood right next to me while I struggled with my luggage.
+
+----- Weakening -----
+
+[-0.9653759002685547] All of the details from the lobby theme and decor to the functional and modern bathrooms have been impeccably taken care of.
+[-0.9468002319335938] Everything was clean and well maintained.
+[-0.9320316314697266] High quality toiletries.
+[-0.8817138671875] And I canâ€™t wait to go back Good: â€¢ Amazing dÃ©cor throughout the hotel.
+[-0.8599491119384766] Darrell went out of his way to make our visit extra special!
+
+**********
+
+[0.65032958984375] The staff was not helpful.
+Parent: The reviews said that the hotel was not clean and that the staff was not helpful.
+
+----- Supporting -----
+
+[0.65032958984375] The pool was nice as was the fitness center but with tiny cramped rooms, lack of customer service (I tried calling the desk 3 times and never go through) and the loading dock at the front of the building, I wouldn't recommend it.
+[0.507171630859375] The doorman refused to allow us entry and we ended up waiting for almost an hour in the Texas heat while other folks would simply walk off the street and were immediately allowed in!
+[0.4118175506591797] Once I was at the desk, I still was not offered any help with getting all my luggage to my room.
+[0.367156982421875] The bartenders were atttentive.
+[0.0440673828125] Also the maids probably need to consider dusting in the bathroom lights becuase they were covered in dust!
+
+----- Weakening -----
+
+[-0.9973487854003906] The concierge was very helpful with organizing assistance and cars etc, by email before we arrived.
+[-0.9964842796325684] Even as we exited the elevator to our floor, a housekeeping staff member assisted immediately in locating our room.
+[-0.9962849617004395] The valet was wonderful, very helpful and polite.
+[-0.9961872100830078] The concierge is very helpful and knows his stuff.
+[-0.9950571060180664] We experienced true Southern hospitality from Todd and the rest of the incredible staff our entire trip.
+
+**********
+
+[0.0] The reviews did not mention the cleanliness of the hotel, but it was probably not clean.
+Parent: The reviews did not mention the cleanliness of the hotel.
+
+----- Supporting -----
+
+[0.0] Clean.
+[-0.00078582763671875] Also the maids probably need to consider dusting in the bathroom lights becuase they were covered in dust!
+[-0.0018520355224609375] Stayed at this property the day before Valentines with my wife.
+[-0.00275421142578125] The valet just stood right next to me while I struggled with my luggage.
+[-0.0029020309448242188] I recently stayed at the Joule with some colleagues of mine.
+
+----- Weakening -----
+
+[-0.8607912063598633] Everything was clean and well maintained.
+[-0.6716079711914062] There is a sustainable energy theme in the hotel and Jessica and Brandon gave us the background story.
+[-0.6347999572753906] All of the details from the lobby theme and decor to the functional and modern bathrooms have been impeccably taken care of.
+[-0.47396087646484375] High quality toiletries.
+[-0.41043853759765625] And I canâ€™t wait to go back Good: â€¢ Amazing dÃ©cor throughout the hotel.
+
+**********
+
+[0.33359527587890625] The rooms were clean.
+Parent: The rooms were clean and well decorated.
+
+----- Supporting -----
+
+[0.33359527587890625] All of the details from the lobby theme and decor to the functional and modern bathrooms have been impeccably taken care of.
+[0.1187744140625] High quality toiletries.
+[0.07467079162597656] Everything was clean and well maintained.
+[0.034915924072265625] Even as we exited the elevator to our floor, a housekeeping staff member assisted immediately in locating our room.
+[0.02138519287109375] They have the top of the line Beautyrest mattress which was really comfortable.
+
+----- Weakening -----
+
+[-0.9928874969482422] Also the maids probably need to consider dusting in the bathroom lights becuase they were covered in dust!
+[-0.6571044921875] The pool was nice as was the fitness center but with tiny cramped rooms, lack of customer service (I tried calling the desk 3 times and never go through) and the loading dock at the front of the building, I wouldn't recommend it.
+[-0.641998291015625] I had a rather loud banging on my door to find a maid who said (Who spoke little english) 'downturn you have ice".
+[-0.4843597412109375] Biggest issue was when we picked up our car from the valet parking.
+[-0.47802734375] Besides the carpet being a damp when we arrived it was perfect!
+
+**********
+
+[0.8335990905761719] The rooms were decorated well.
+Parent: The rooms were clean and well decorated.
+
+----- Supporting -----
+
+[0.8335990905761719] All of the details from the lobby theme and decor to the functional and modern bathrooms have been impeccably taken care of.
+[0.7207908630371094] Loved the rose prosecco too :-) the decor was really fun and innovative throughout, like the large moving cogs by the check-in desk or the chairs in the lobby with sliding silver tables attached, or the secret reading lamp on the guestrooms headboards.
+[0.647491455078125] The decor is unique and the room layouts take a little getting used to, but I would highly recommend this hotel for business or pleasure.
+[0.21554946899414062] The decor is artsy and modern, great location, in a historic building.
+[0.2135791778564453] The decor is exceptional and very modern.
+
+----- Weakening -----
+
+[-0.4473419189453125] Biggest issue was when we picked up our car from the valet parking.
+[-0.27778053283691406] The pool was nice as was the fitness center but with tiny cramped rooms, lack of customer service (I tried calling the desk 3 times and never go through) and the loading dock at the front of the building, I wouldn't recommend it.
+[-0.2576789855957031] Also the maids probably need to consider dusting in the bathroom lights becuase they were covered in dust!
+[-0.1811370849609375] Well let me start by stating, Tripadvisor isn't such a friendly review system.
+[-0.16983795166015625] I know this could happen anywhere but in years of valet parking it hasnt so this was quite annoying.
+
+**********
+
+[0.5072021484375] The hotel was eco-friendly.
+Parent: There was a sustainable energy theme in the hotel.
+
+----- Supporting -----
+
+[0.5072021484375] There is a sustainable energy theme in the hotel and Jessica and Brandon gave us the background story.
+[0.010875701904296875] Everything was clean and well maintained.
+[0.0004367828369140625] Stayed at this property the day before Valentines with my wife.
+[0.0] Clean.
+[-0.0001888275146484375] We considered Ritz and Mansion on Turtle Creek but happily choice Joule.
+
+----- Weakening -----
+
+[-0.7172470092773438] The decor is artsy and modern, great location, in a historic building.
+[-0.7088241577148438] The decor is exceptional and very modern.
+[-0.659332275390625] Well decorated, sleek and modern.
+[-0.5887908935546875] Also the maids probably need to consider dusting in the bathroom lights becuase they were covered in dust!
+[-0.5165252685546875] The fitness center again was as nice as I've ever seen.
+
+**********
+
+[0.33905792236328125] The maids did a good job.
+Parent: The maids were noted to be good at their job.
+
+----- Supporting -----
+
+[0.33905792236328125] The valet was wonderful, very helpful and polite.
+[0.21604156494140625] The valet was very courteous (but very expensive at $27 a night) We had the King room on the 6th floor.
+[0.08864212036132812] The housekeeper knocked on each door and handed out complimentary chocolates and bags of ice.
+[0.020704269409179688] Even as we exited the elevator to our floor, a housekeeping staff member assisted immediately in locating our room.
+[0.013074874877929688] We were treated like stars from the moment we pulled up to the valet.
+
+----- Weakening -----
+
+[-0.8713035583496094] The bartenders were atttentive.
+[-0.8331985473632812] Also the maids probably need to consider dusting in the bathroom lights becuase they were covered in dust!
+[-0.6206159591674805] Once I was at the desk, I still was not offered any help with getting all my luggage to my room.
+[-0.5200214385986328] The doorman refused to allow us entry and we ended up waiting for almost an hour in the Texas heat while other folks would simply walk off the street and were immediately allowed in!
+[-0.51934814453125] it is always great when the doormen remember your name.
+
+**********
+
+[0.33359527587890625] The rooms were clean.
+Parent: There were no complaints about the cleanliness of the rooms.
+
+----- Supporting -----
+
+[0.33359527587890625] All of the details from the lobby theme and decor to the functional and modern bathrooms have been impeccably taken care of.
+[0.1187744140625] High quality toiletries.
+[0.07467079162597656] Everything was clean and well maintained.
+[0.034915924072265625] Even as we exited the elevator to our floor, a housekeeping staff member assisted immediately in locating our room.
+[0.02138519287109375] They have the top of the line Beautyrest mattress which was really comfortable.
+
+----- Weakening -----
+
+[-0.9928874969482422] Also the maids probably need to consider dusting in the bathroom lights becuase they were covered in dust!
+[-0.6571044921875] The pool was nice as was the fitness center but with tiny cramped rooms, lack of customer service (I tried calling the desk 3 times and never go through) and the loading dock at the front of the building, I wouldn't recommend it.
+[-0.641998291015625] I had a rather loud banging on my door to find a maid who said (Who spoke little english) 'downturn you have ice".
+[-0.4843597412109375] Biggest issue was when we picked up our car from the valet parking.
+[-0.47802734375] Besides the carpet being a damp when we arrived it was perfect!
+
+**********
+
+[0.39981842041015625] The hotel was clean.
+Parent: The reviewers noted that the hotel was clean and well-maintained, with high-quality toiletries and modern, comfortable guestrooms.
+
+----- Supporting -----
+
+[0.39981842041015625] All of the details from the lobby theme and decor to the functional and modern bathrooms have been impeccably taken care of.
+[0.09542083740234375] Even as we exited the elevator to our floor, a housekeeping staff member assisted immediately in locating our room.
+[0.05450439453125] The housekeeper knocked on each door and handed out complimentary chocolates and bags of ice.
+[0.04986572265625] And I canâ€™t wait to go back Good: â€¢ Amazing dÃ©cor throughout the hotel.
+[0.02994537353515625] The decorum was awesome.
+
+----- Weakening -----
+
+[-0.983607292175293] Also the maids probably need to consider dusting in the bathroom lights becuase they were covered in dust!
+[-0.555328369140625] Loved the rose prosecco too :-) the decor was really fun and innovative throughout, like the large moving cogs by the check-in desk or the chairs in the lobby with sliding silver tables attached, or the secret reading lamp on the guestrooms headboards.
+[-0.5464019775390625] The pool was nice as was the fitness center but with tiny cramped rooms, lack of customer service (I tried calling the desk 3 times and never go through) and the loading dock at the front of the building, I wouldn't recommend it.
+[-0.34212493896484375] I know this could happen anywhere but in years of valet parking it hasnt so this was quite annoying.
+[-0.32677459716796875] I had a rather loud banging on my door to find a maid who said (Who spoke little english) 'downturn you have ice".
+
+**********
+
+[0.16621017456054688] The reviewers noted that the hotel was well-maintained.
+Parent: The reviewers noted that the hotel was clean and well-maintained, with high-quality toiletries and modern, comfortable guestrooms.
+
+----- Supporting -----
+
+[0.16621017456054688] And I canâ€™t wait to go back Good: â€¢ Amazing dÃ©cor throughout the hotel.
+[0.0455169677734375] Besides the carpet being a damp when we arrived it was perfect!
+[0.022165298461914062] All of the details from the lobby theme and decor to the functional and modern bathrooms have been impeccably taken care of.
+[0.0190582275390625] Other than that no complaints, beautiful pool on the 10th floor and up to date fitness center with bottles of water and fruit.
+[0.012052536010742188] The decorum was awesome.
+
+----- Weakening -----
+
+[-0.8301048278808594] The pool was nice as was the fitness center but with tiny cramped rooms, lack of customer service (I tried calling the desk 3 times and never go through) and the loading dock at the front of the building, I wouldn't recommend it.
+[-0.8067474365234375] Also the maids probably need to consider dusting in the bathroom lights becuase they were covered in dust!
+[-0.5327358245849609] I had two problems with this place, first when I arrived home the day of our last stay I reviewed the invoice which had been emailed to me and was charged $202.00 for a dinner at Charlie Palmers, but we never dined at Charlie Palmers.
+[-0.43654441833496094] Well let me start by stating, Tripadvisor isn't such a friendly review system.
+[-0.39989471435546875] The doorman refused to allow us entry and we ended up waiting for almost an hour in the Texas heat while other folks would simply walk off the street and were immediately allowed in!
+
+**********
+
+[0.9606304168701172] The toiletries were of high quality.
+Parent: The reviewers noted that the hotel was clean and well-maintained, with high-quality toiletries and modern, comfortable guestrooms.
+
+----- Supporting -----
+
+[0.9606304168701172] High quality toiletries.
+[0.45638275146484375] All of the details from the lobby theme and decor to the functional and modern bathrooms have been impeccably taken care of.
+[0.3155364990234375] They have the top of the line Beautyrest mattress which was really comfortable.
+[0.31158447265625] Besides the carpet being a damp when we arrived it was perfect!
+[0.105010986328125] The chef generously shared the granola recipe with my husband, who declared it the best granola he'd even eaten.
+
+----- Weakening -----
+
+[-0.6242713928222656] Also the maids probably need to consider dusting in the bathroom lights becuase they were covered in dust!
+[-0.3873558044433594] The pool was nice as was the fitness center but with tiny cramped rooms, lack of customer service (I tried calling the desk 3 times and never go through) and the loading dock at the front of the building, I wouldn't recommend it.
+[-0.30792236328125] Biggest issue was when we picked up our car from the valet parking.
+[-0.2389984130859375] Well let me start by stating, Tripadvisor isn't such a friendly review system.
+[-0.1953582763671875] My only issue I had with my trip was the Conceirge Katie.
+
+**********
+
+[0.9832420349121094] The guestrooms were modern and comfortable.
+Parent: The reviewers noted that the hotel was clean and well-maintained, with high-quality toiletries and modern, comfortable guestrooms.
+
+----- Supporting -----
+
+[0.9832420349121094] Modern and comfortable guestrooms.
+[0.29044342041015625] They have the top of the line Beautyrest mattress which was really comfortable.
+[0.222686767578125] Loved the rose prosecco too :-) the decor was really fun and innovative throughout, like the large moving cogs by the check-in desk or the chairs in the lobby with sliding silver tables attached, or the secret reading lamp on the guestrooms headboards.
+[0.13861083984375] All of the details from the lobby theme and decor to the functional and modern bathrooms have been impeccably taken care of.
+[0.06328868865966797] The decor is exceptional and very modern.
+
+----- Weakening -----
+
+[-0.9903955459594727] The pool was nice as was the fitness center but with tiny cramped rooms, lack of customer service (I tried calling the desk 3 times and never go through) and the loading dock at the front of the building, I wouldn't recommend it.
+[-0.9179611206054688] Also the maids probably need to consider dusting in the bathroom lights becuase they were covered in dust!
+[-0.32843017578125] The decor is unique and the room layouts take a little getting used to, but I would highly recommend this hotel for business or pleasure.
+[-0.304229736328125] Biggest issue was when we picked up our car from the valet parking.
+[-0.15972900390625] I had two problems with this place, first when I arrived home the day of our last stay I reviewed the invoice which had been emailed to me and was charged $202.00 for a dinner at Charlie Palmers, but we never dined at Charlie Palmers.
+
+**********
+
+[0.129241943359375] The fitness center is clean.
+Parent: The fitness center and pool were also clean and well-maintained.
+
+----- Supporting -----
+
+[0.129241943359375] All of the details from the lobby theme and decor to the functional and modern bathrooms have been impeccably taken care of.
+[0.1041727066040039] The fitness center again was as nice as I've ever seen.
+[0.0866546630859375] They have the top of the line Beautyrest mattress which was really comfortable.
+[0.04503631591796875] Even as we exited the elevator to our floor, a housekeeping staff member assisted immediately in locating our room.
+[0.0239715576171875] Other than that no complaints, beautiful pool on the 10th floor and up to date fitness center with bottles of water and fruit.
+
+----- Weakening -----
+
+[-0.8434371948242188] Also the maids probably need to consider dusting in the bathroom lights becuase they were covered in dust!
+[-0.6032867431640625] The bartenders were atttentive.
+[-0.587066650390625] Loved the rose prosecco too :-) the decor was really fun and innovative throughout, like the large moving cogs by the check-in desk or the chairs in the lobby with sliding silver tables attached, or the secret reading lamp on the guestrooms headboards.
+[-0.4947662353515625] The sommelier at Charlie Palmers, Brandon was awesome.
+[-0.4116363525390625] I know this could happen anywhere but in years of valet parking it hasnt so this was quite annoying.
+
+**********
+
+[0.6708641052246094] The fitness center is in good condition.
+Parent: The fitness center and pool were also clean and well-maintained.
+
+----- Supporting -----
+
+[0.6708641052246094] The fitness center again was as nice as I've ever seen.
+[0.6008186340332031] Other than that no complaints, beautiful pool on the 10th floor and up to date fitness center with bottles of water and fruit.
+[0.23370361328125] Their fitness facilities were nice with plenty of aerobic equipment and a enough weights to get in a nice workout.
+[0.114471435546875] All of the details from the lobby theme and decor to the functional and modern bathrooms have been impeccably taken care of.
+[0.105804443359375] They have the top of the line Beautyrest mattress which was really comfortable.
+
+----- Weakening -----
+
+[-0.8852157592773438] Also the maids probably need to consider dusting in the bathroom lights becuase they were covered in dust!
+[-0.5586166381835938] The pool was nice as was the fitness center but with tiny cramped rooms, lack of customer service (I tried calling the desk 3 times and never go through) and the loading dock at the front of the building, I wouldn't recommend it.
+[-0.4175262451171875] The doorman refused to allow us entry and we ended up waiting for almost an hour in the Texas heat while other folks would simply walk off the street and were immediately allowed in!
+[-0.34198760986328125] I had two problems with this place, first when I arrived home the day of our last stay I reviewed the invoice which had been emailed to me and was charged $202.00 for a dinner at Charlie Palmers, but we never dined at Charlie Palmers.
+[-0.2973480224609375] Biggest issue was when we picked up our car from the valet parking.
+
+**********
+
+[0.04105186462402344] The pool is clean.
+Parent: The fitness center and pool were also clean and well-maintained.
+
+----- Supporting -----
+
+[0.04105186462402344] Other than that no complaints, beautiful pool on the 10th floor and up to date fitness center with bottles of water and fruit.
+[0.01424407958984375] Also for the ladies one of Dallas' best spas (Sedona - lady's only) is across the street but make sure and get appointment in advance as my wife couldn't get same day appointment on Saturday.
+[0.010148048400878906] There are a lot of pluses - the feel, the location, the pool, Charlie Palmer, the service, the workout facilities.
+[0.0086822509765625] The fitness center again was as nice as I've ever seen.
+[0.007144927978515625] The concierge is very helpful and knows his stuff.
+
+----- Weakening -----
+
+[-0.8332958221435547] Also the maids probably need to consider dusting in the bathroom lights becuase they were covered in dust!
+[-0.6649169921875] Besides the carpet being a damp when we arrived it was perfect!
+[-0.59039306640625] Biggest issue was when we picked up our car from the valet parking.
+[-0.522491455078125] The sommelier at Charlie Palmers, Brandon was awesome.
+[-0.47135162353515625] I had a rather loud banging on my door to find a maid who said (Who spoke little english) 'downturn you have ice".
+
+**********
+
+[0.389190673828125] The pool is in good condition.
+Parent: The fitness center and pool were also clean and well-maintained.
+
+----- Supporting -----
+
+[0.389190673828125] Other than that no complaints, beautiful pool on the 10th floor and up to date fitness center with bottles of water and fruit.
+[0.018375396728515625] The fitness center again was as nice as I've ever seen.
+[0.011834144592285156] There are a lot of pluses - the feel, the location, the pool, Charlie Palmer, the service, the workout facilities.
+[0.0088348388671875] They have the top of the line Beautyrest mattress which was really comfortable.
+[0.0071964263916015625] 2) Visit the Poule at the Joule - Make sure to ask for Todd or Stephen & make sure to swim to the edge and overlook the city.
+
+----- Weakening -----
+
+[-0.6354026794433594] Also the maids probably need to consider dusting in the bathroom lights becuase they were covered in dust!
+[-0.5661773681640625] Biggest issue was when we picked up our car from the valet parking.
+[-0.34836578369140625] I know this could happen anywhere but in years of valet parking it hasnt so this was quite annoying.
+[-0.33965301513671875] The concierge drove us herself to the symphony when it was apparent that there was a traffic snafu that could render us late.
+[-0.2901763916015625] Well let me start by stating, Tripadvisor isn't such a friendly review system.

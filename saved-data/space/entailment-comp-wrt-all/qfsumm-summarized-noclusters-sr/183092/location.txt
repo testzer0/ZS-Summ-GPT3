@@ -1,0 +1,191 @@
+***** Aspect: location Model Type : zs *****
+Overall score: 0.7012324333190918
+
+**********
+
+[0.9714813232421875] The Marriott is a good hotel.
+Parent: I stayed at the Marriott in mid-June for one night on a business trip .
+
+----- Supporting -----
+
+[0.9714813232421875] It's not excellent, but it is a very good Marriott.
+[0.9546422958374023] This is a nice hotel, typical Marriott, with an excellent location.
+[0.8900680541992188] I loved that stay and I don't think there is a better hotel in Canada than that Marriott!
+[0.7136688232421875] Described as a business hotel the Eaton Centre Marriott is also well suited for leisure breaks, situated close to a range of attractions the hotel provides an ideal base to explore Toronto.
+[0.6865749359130859] Just came back from a four night stay at the Marriott Downtown Eaton Centre, and I was completely satisfied with this hotel.
+
+----- Weakening -----
+
+[-0.9698333740234375] It is probably the most depressing hotel I have ever stayed in.
+[-0.9521579742431641] The Eaton Centre is marvellous..
+[-0.9446611404418945] During our recent trip we stayed in 5 hotels in Canada and this was by far the worst.
+[-0.80474853515625] For business use the hotel gets a C, it was a poor service compared to the others.
+[-0.7660980224609375] The Eaton Centre is just steps away.
+
+**********
+
+[0.9958786964416504] I stayed at the Marriott in mid-June.
+Parent: I stayed at the Marriott in mid-June for one night on a business trip .
+
+----- Supporting -----
+
+[0.9958786964416504] I stayed at the Marriott in mid-June for one night on a business trip.
+[0.0904541015625] I stayed in this hotel on two occasions, first in June 2007 and then again in 2010.
+[0.02231597900390625] I recently attended an annual work conference from the 17th thru 19th and I have to say that I was very pleased with the hotel.
+[0.006342887878417969] The hotel was great.
+[0.00634002685546875] We had a great time.
+
+----- Weakening -----
+
+[-0.9954757690429688] Hi, we stayed at Marriott in March with a four year old and a teenager.
+[-0.9909343719482422] We stayed at this hotel, with our 2 young children, at the start of April 2005.
+[-0.9901752471923828] My friend and I stayed at this hotel in September 2011 during the TIFF weekend.
+[-0.9785785675048828] We stayed in this hotel for the weekend (April 15-17, 2011).
+[-0.9748620986938477] Stayed from August 3rd to 5th with two friends for Caribana Weekend; booked on Expedia at the last minute so I was a bit worried, but the price was fair, so I figured I'd take what I got.
+
+**********
+
+[0.5732345581054688] The Marriott is a one-night stay.
+Parent: I stayed at the Marriott in mid-June for one night on a business trip .
+
+----- Supporting -----
+
+[0.5732345581054688] I stayed at the Marriott in mid-June for one night on a business trip.
+[0.40921783447265625] My spouse and I decided to spend one night at the Marriott Downtown as a pre-10 yr wedding anniversary.
+[0.0953521728515625] One night stay in a king size room, champagne, chocolate covered strawberries, valet parking, and the most amazing buffet breakfast are all included for $220-$250 depending on the time of year.
+[0.06304931640625] Excellent housekeeping and the usual amenities; plenty of room for one person.
+[0.056976318359375] No mini-bar.
+
+----- Weakening -----
+
+[-0.997159481048584] Just came back from a four night stay at the Marriott Downtown Eaton Centre, and I was completely satisfied with this hotel.
+[-0.9969515800476074] I stayed for three nights at the Marriott Eaton Centre, which I really enjoyed.
+[-0.9969310760498047] Stayed at the Marriott for three nights for a conference.
+[-0.9969310760498047] Stayed at the Marriott for three nights for a Conference.
+[-0.9963340759277344] We stayed three nights in this hotel and found it to be quite excellent.
+
+**********
+
+[0.8094482421875] The Marriott is a good hotel for business trips.
+Parent: I stayed at the Marriott in mid-June for one night on a business trip .
+
+----- Supporting -----
+
+[0.8094482421875] Described as a business hotel the Eaton Centre Marriott is also well suited for leisure breaks, situated close to a range of attractions the hotel provides an ideal base to explore Toronto.
+[0.698455810546875] All in all, a very successful business trip by day and very comfortable nights at the Marriott.
+[0.4681549072265625] The rest of my stay was great but definately need to get a new system in place for business travellers.. Id recommend Hilton Downtown or Marriott Airport Locations for Business Trips.
+[0.18668746948242188] I stayed at the Marriott for a conference and it was pretty good.
+[0.107025146484375] I'd highly recommend this hotel for people who plan to tour Toronto and are looking for a decent value.
+
+----- Weakening -----
+
+[-0.9090652465820312] For business use the hotel gets a C, it was a poor service compared to the others.
+[-0.8152885437011719] The Eaton Centre is marvellous..
+[-0.7442474365234375] Friday AM I had surgery.
+[-0.7220993041992188] A short walk, I found a small grocery store in the underground.
+[-0.7170219421386719] I stayed in this hotel as part of a large family group who travelled from Ireland to Toronto for a wedding, the management and staff were wonderful, this was not only about the facilities of the hotel but they were very helpful in guiding us where to go in Toronto and how to get there.
+
+**********
+
+[0.9826192855834961] The hotel is adjacent to the Eaton Centre mall.
+Parent: It is adjacent to the Eaton Centre mall , and across the street from the Toronto city hall .
+
+----- Supporting -----
+
+[0.9826192855834961] The hotel's downtown location is convenient for public transportation and adjacent to the Eaton Centre Mall.
+[0.9567832946777344] Not sure if that's a regular occurrence, but again, it's a nice hotel attached to the Eaton Center mall pretty close to the water (within walking distance).
+[0.9475250244140625] The hotel is wonderfully located to all metro hospitals and when some very important down time is needed the Eaton Center mall is attached so you do not have to worry about the weather or putting on a coat.
+[0.9419288635253906] This hotel is connected to Eaton Center, which is the biggest and best shopping mall downtown.
+[0.919529914855957] Really liked my stay, it's right next to Eaton Ctr, room was spacious and modern.
+
+----- Weakening -----
+
+[-0.9671726226806641] The hotel is located diagonally across from Nathan Phillips Square.
+[-0.9306793212890625] Yhis Marriott is located immediately next to the Trinity Church and the Waton Centre; immediately in the heart of downtown Toronto.
+[-0.9248409271240234] The beds were nice and we had a view of the church next door.
+[-0.9130611419677734] It is across the streets from both old and new City Hall.
+[-0.8603973388671875] It is also right beside Nathan Phillips Square, which has a skating rink all winter.
+
+**********
+
+[0.0947113037109375] The hotel is across the street from the Toronto city hall.
+Parent: It is adjacent to the Eaton Centre mall , and across the street from the Toronto city hall .
+
+----- Supporting -----
+
+[0.0947113037109375] It is adjacent to the Eaton Centre mall, and across the street from the Toronto city hall.
+[0.01396942138671875] It is across the streets from both old and new City Hall.
+[0.000949859619140625] We had a great time.
+[0.0008068084716796875] The location couldn't be better.
+[0.000797271728515625] Had a great stay and would come back again!
+
+----- Weakening -----
+
+[-0.9735393524169922] The best thing about this hotel is its location next to Eaton Centre.
+[-0.9678096771240234] The hotel is located diagonally across from Nathan Phillips Square.
+[-0.9657421112060547] There is a beautiful courtyard with cobblestones and a church between the outside of the Marriott and the Eaton center.
+[-0.951904296875] The location, right next to the Eaton Centre, is ideal and makes it easy to take in all of the traditional tourist sights and access the subway.
+[-0.9508743286132812] One of the best features of this hotel is its proximity to the Eaton Centre as it is connected with a walkway so you can leave your coats in your room and shop all day.
+
+**********
+
+[0.9841136932373047] This location is ideal for vacationers.
+Parent: This makes it an ideal location for vacationers , but a bit far if you have meetings in the main business district in the downtown core ( although it 's not too bad for that ) .
+
+----- Supporting -----
+
+[0.9841136932373047] This makes it an ideal location for vacationers, but a bit far if you have meetings in the main business district in the downtown core (although it's not too bad for that).
+[0.9646987915039062] The central location was perfect for us as tourists.
+[0.7924461364746094] Described as a business hotel the Eaton Centre Marriott is also well suited for leisure breaks, situated close to a range of attractions the hotel provides an ideal base to explore Toronto.
+[0.6270751953125] I managed to get a good deal via tripadvisor and hotels.com and I'm glad that I chose this hotel because its location was ideal.
+[0.3437919616699219] Would highly recommend it to anyone looking for a great hotel in a central location for shopping/entertainment.
+
+----- Weakening -----
+
+[-0.9466056823730469] During our recent trip we stayed in 5 hotels in Canada and this was by far the worst.
+[-0.919830322265625] We were working on an important project.
+[-0.7276573181152344] The rest of my stay was great but definately need to get a new system in place for business travellers.. Id recommend Hilton Downtown or Marriott Airport Locations for Business Trips.
+[-0.713348388671875] Friday AM I had surgery.
+[-0.583343505859375] I was so frustrated.
+
+**********
+
+[0.0] The hotel is too far from the downtown business district for guests who have meetings there.
+Parent: This makes it an ideal location for vacationers , but a bit far if you have meetings in the main business district in the downtown core ( although it 's not too bad for that ) .
+
+----- Supporting -----
+
+[0.0] Dean
+[0.0] Really?
+[0.0] !
+[0.0] !
+[-0.0013093948364257812] I will not stay there again.
+
+----- Weakening -----
+
+[-0.9978711605072021] The hotel is located at the heart of downtown Toronto and very close to where my conference was.
+[-0.9973928928375244] Yhis Marriott is located immediately next to the Trinity Church and the Waton Centre; immediately in the heart of downtown Toronto.
+[-0.9968298673629761] Stayed for three nights as a family, couldn't be more central for all the downtown attractions, everything's within walking distance and the hotel is connected by a walkway to the Eaton Centre.
+[-0.9958878755569458] It is right downtown and shares the bluck with the eaton Centre.
+[-0.9954203367233276] The location of this hotel is excellent â€“ very central and close to public transport, shopping, restaurants, etc.
+
+**********
+
+[0.8996047973632812] This is not too bad.
+Parent: This makes it an ideal location for vacationers , but a bit far if you have meetings in the main business district in the downtown core ( although it 's not too bad for that ) .
+
+----- Supporting -----
+
+[0.8996047973632812] This makes it an ideal location for vacationers, but a bit far if you have meetings in the main business district in the downtown core (although it's not too bad for that).
+[0.8924942016601562] Meal at the hotel restaurant was not bad, apple crumble with ice cream and creme brulee was pretty tasty.
+[0.8874015808105469] This is an excellent hotel.
+[0.8813552856445312] This hotel was okay, nothing special.
+[0.8659782409667969] This is a nice hotel with average amenities.
+
+----- Weakening -----
+
+[-0.9902858734130859] This was incredibly annoying and extremely loud in our room.
+[-0.9853858947753906] This really annoys me, enough that I will not stay there again in spite of the excellent service.
+[-0.9814491271972656] It is probably the most depressing hotel I have ever stayed in.
+[-0.9742813110351562] During our recent trip we stayed in 5 hotels in Canada and this was by far the worst.
+[-0.9551200866699219] I was so frustrated.

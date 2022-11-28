@@ -1,0 +1,128 @@
+***** Aspect: service Model Type : zs *****
+Overall score: 0.9708918730417887
+
+**********
+
+[0.9930524826049805] The hotel staff was friendly.
+Parent: The hotel staff was friendly and accommodating.
+
+----- Supporting -----
+
+[0.9930524826049805] The hotel staff was friendly and accomodating.
+[0.9737906455993652] The hotel employees were very polite and most efficient: we were on our way to our room within 30 seconds, warm cookies in hand.
+[0.9465188980102539] For an airport hotel, it was surprisingly quiet, rooms were extremely comfortable and well prepared, and the staff were all extremely helpful and courteous.
+[0.9406356811523438] The hotel staff was courteous and very helpful with our questions.
+[0.9311246871948242] Pros - Very close to airport, very quiet rooms (you cant hear the airplanes taking off even though it is right across from the airport), friendly staff, VERY comfortable beds with lots of pillows, large rooms, ice and vending machines close to all rooms, nicely appointed bathrooms, free shuttle (runs every 20 min, no reservation needed), convenience store on site, ATM, warm cookies on check in.
+
+----- Weakening -----
+
+[-0.9933815002441406] We experienced this poor attitude with a few other staff members within the hotel.
+[-0.9921846389770508] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+[-0.9595661163330078] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[-0.9000072479248047] It must be an unhappy place to work because it sure comes through to the customer.
+[-0.8534717559814453] Coffee shop service was horrible.
+
+**********
+
+[0.9903116226196289] The hotel staff was accommodating.
+Parent: The hotel staff was friendly and accommodating.
+
+----- Supporting -----
+
+[0.9903116226196289] The hotel staff was friendly and accomodating.
+[0.9766011238098145] The hotel staff was courteous and very helpful with our questions.
+[0.9738297462463379] For an airport hotel, it was surprisingly quiet, rooms were extremely comfortable and well prepared, and the staff were all extremely helpful and courteous.
+[0.9603967666625977] The hotel employees were very polite and most efficient: we were on our way to our room within 30 seconds, warm cookies in hand.
+[0.9440798759460449] Staff are friendly and helpful, the rooms are decent, and it's very close to the airport.
+
+----- Weakening -----
+
+[-0.9907293319702148] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+[-0.9899969100952148] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[-0.9773788452148438] We experienced this poor attitude with a few other staff members within the hotel.
+[-0.9753646850585938] Waitress never brought the items we requested and the order was askew.
+[-0.9611024856567383] Coffee shop service was horrible.
+
+**********
+
+[0.9896502494812012] The hotel was clean.
+Parent: The hotel was clean and comfortable.
+
+----- Supporting -----
+
+[0.9896502494812012] The hotel was clean, beds were fine, hotel is located across the street from the air port, was within walking distance to a Denny's, Jack in the Box, and a steak place.
+[0.9872698783874512] The Hotel was clean, great staff, was greeted with hot fresh cookies at the check-in counter.
+[0.9832820892333984] The hotel was nice; good clean rooms.
+[0.9815225601196289] This hotel is clean, neat and offers good value for the money.
+[0.9575014114379883] My room and bathroom were both very clean and the service at the hotel was friendly, The check in process could be slow and it would be helpful if the airline crews were not given first priority to jump in front of everyone waiting.
+
+----- Weakening -----
+
+[-0.996180534362793] When we found our room we discovered that the bathroom hadn't been cleaned and there were dirty towels lying around.
+[-0.9951038360595703] The bathroom was dirty and stained.
+[-0.9944906234741211] This property is a mess.
+[-0.9943456649780273] Upon further inspection of the room, the older bathroom wood doors were dirty from years of use-these "Hilton Honors" rooms really need refurbishing.
+[-0.9941530227661133] It was so liquified that it spilled all over my hand and burned me terribly.
+
+**********
+
+[0.992218017578125] The hotel was comfortable.
+Parent: The hotel was clean and comfortable.
+
+----- Supporting -----
+
+[0.992218017578125] this hotel was so comfortable.
+[0.9683351516723633] For an airport hotel, it was surprisingly quiet, rooms were extremely comfortable and well prepared, and the staff were all extremely helpful and courteous.
+[0.9611353874206543] Hotel is very close the the airport and room was comfortable.
+[0.9567022323608398] The hotel it's self was huge, but yet it still felt very comfortable.
+[0.9375638961791992] Beds are SO comfortable and the best sleep I have gotten at a hotel.
+
+----- Weakening -----
+
+[-0.9680213928222656] This property is a mess.
+[-0.9603462219238281] This hotel disappointed.
+[-0.9589462280273438] Room was highly run down.
+[-0.9554023742675781] The shuttle was hot and smelly again and people were mad.
+[-0.9525680541992188] Anyway, I requested a non-smoking room but the floor smelled like the stench of smoke.
+
+**********
+
+[0.9307918548583984] The location was convenient.
+Parent: The location was convenient, with easy access to public transportation.
+
+----- Supporting -----
+
+[0.9307918548583984] --Location is very convenient to the airport, and pretty quick access to I-5.
+[0.8972501754760742] The hotel is conveniently located, just across the street from the airport entrance with a free shuttle that runs every 20 minutes.
+[0.8925704956054688] Having the printer in the lobby to print your boarding pass was really convenient.
+[0.8478460311889648] It has a convenient location and a shuttle service that runs every 15 minutes for 24 hours.
+[0.8138389587402344] The DoubleTree was convenient to the airport, even though we were part of group travel, the DoubleTree had an airport shuttle.
+
+----- Weakening -----
+
+[-0.9896888732910156] Our room was in the farthest section of the hotel, and tedious to get into to, and by the time we got settled it was too much trouble to go out to eat.
+[-0.9448413848876953] Cons - Hotel is spread out so pay attention to how to get to your room as you may get lost, Feather pillows (synthetic available on request), Pay parking ($16 self/day $20 valet/day), warm cookies on check in.
+[-0.944488525390625] It is laid out in wings that make carrying your bags a nightmare, up elevators and down again.
+[-0.9166164398193359] Parts of the hotel are laid-out such that it can be difficult to find your room.
+[-0.8613662719726562] Confusing layout.
+
+**********
+
+[0.9293270111083984] The location had easy access to public transportation.
+Parent: The location was convenient, with easy access to public transportation.
+
+----- Supporting -----
+
+[0.9293270111083984] It had easy access to the light rail located at the airport (we took the DT shuttle over), and was next to an Enterprise car rental.
+[0.8924283981323242] The hotel is conveniently located, just across the street from the airport entrance with a free shuttle that runs every 20 minutes.
+[0.8774147033691406] It has a convenient location and a shuttle service that runs every 15 minutes for 24 hours.
+[0.8406009674072266] Very nice hotel, very close to the airport, walkable in fact to the terminals in less than 10 minutes or one can take a free shuttle bus.
+[0.7988548278808594] I didn't have a car so Airport, Light Rail and many restaurants are in walking distance.
+
+----- Weakening -----
+
+[-0.9846978187561035] Our room was in the farthest section of the hotel, and tedious to get into to, and by the time we got settled it was too much trouble to go out to eat.
+[-0.9628448486328125] --The doubletree is not just a hotel, its like a little village of condo buildings too, which makes it very crowded and hard to get around the property.
+[-0.9590802192687988] Getting to the room was a fun adventure in itself.
+[-0.9451522827148438] The shuttle will drop you at the airport train station if you are going to Seattle, but on your way back you must walk from the station to the shuttle bus pick up area at the airport(about a 5 to 10 minute walk).
+[-0.9441947937011719] We got lost as did lots of people we met along the way!

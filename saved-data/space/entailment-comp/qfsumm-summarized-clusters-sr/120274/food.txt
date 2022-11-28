@@ -1,0 +1,233 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.7643654996698553
+
+**********
+
+[0.003322601318359375] The hotel was too expensive.
+Parent: The hotel stay cost about $ 100.00 to stay 4 nights through a promotion for free nights so I was impressed with the price !
+
+----- Supporting -----
+
+[0.003322601318359375] it cost £530 for both of us.
+[-0.005995750427246094] No in-room coffee makers, either.
+[-0.014516830444335938] We found old, moldy juice bottles under our beds.
+[-0.01831340789794922] When we went to the front desk they told us it was because of us having sweets in room of which we had none.
+[-0.022861480712890625] At the end of the day you only get what you pay for.
+
+----- Weakening -----
+
+[-0.9959015846252441] I booked this hotel as it was cheapest available.
+[-0.9888613224029541] You get what you pay for, and it was cheap but that's just about it.
+[-0.9682855606079102] The hotel stay cost about $100.00 to stay 4 nights through a promotion for free nights so I was impressed with the price!
+[-0.9566278457641602] We were on a budget so this place was perfect for the price.
+[-0.9485068321228027] I guess as the saying goes you get what you pay for as we didn't pay much for the 4 of us we were pleased and surprised.
+
+**********
+
+[0.9872360229492188] The hotel offered a promotion for free nights.
+Parent: The hotel stay cost about $ 100.00 to stay 4 nights through a promotion for free nights so I was impressed with the price !
+
+----- Supporting -----
+
+[0.9872360229492188] The hotel stay cost about $100.00 to stay 4 nights through a promotion for free nights so I was impressed with the price!
+[0.00318145751953125] It WAS free, and we DID pay $25.00 per night, so I can't complain too much.
+[-0.007170200347900391] If we wanted more we would go to the Ponderosa just down the road.
+[-0.024837493896484375] I didn't try it myself.
+[-0.02761554718017578] We were on a budget so this place was perfect for the price.
+
+----- Weakening -----
+
+[-0.9518871307373047] there's a product called [--].
+[-0.6507415771484375] I paid $25.00/night after a good deal I found on Hotels.com!!!
+[-0.6323394775390625] As a canadian , i am not used to eating in food chains and steakhouses all the time , and felt a great need to go buy fruit and salad at the market , to get my daily greens in.
+[-0.6068878173828125] They offered Frosted Flakes, and Wheat Bread (with a toaster) as our choices.
+[-0.531463623046875] it cost £530 for both of us.
+
+**********
+
+[0.8893814086914062] The price was good.
+Parent: The hotel stay cost about $ 100.00 to stay 4 nights through a promotion for free nights so I was impressed with the price !
+
+----- Supporting -----
+
+[0.8893814086914062] The price is right, and the location is super!
+[0.6821861267089844] The hotel stay cost about $100.00 to stay 4 nights through a promotion for free nights so I was impressed with the price!
+[0.5981979370117188] We were on a budget so this place was perfect for the price.
+[0.541107177734375] I paid $25.00/night after a good deal I found on Hotels.com!!!
+[0.476806640625] For the price we paid, what more could you ask for?
+
+----- Weakening -----
+
+[-0.4068603515625] You get what you pay for, and it was cheap but that's just about it.
+[-0.1200714111328125] Coffee was bad.
+[-0.115142822265625] every park, disney or not, will do this for free and water tastes MUCH better.
+[-0.08826828002929688] Sick of fatty junk food after the second day, and despite our quest to eat in a half respectable fashion, no luck was had.
+[-0.061717987060546875] I didn't try it myself.
+
+**********
+
+[0.9916839599609375] There are a lot of places to eat along the 192.
+Parent: There are a zillion places to eat along the 192 , Ponderosa is great for it 's huge buffet breakfast and filling up before a day at the parks .
+
+----- Supporting -----
+
+[0.9916839599609375] There are a zillion places to eat along the 192, Ponderosa is great for it's huge buffet breakfast and filling up before a day at the parks.
+[0.15020751953125] There are countless places to eat around the hotel & there's an all you can eat chinese buffet next door that's good.
+[0.06284332275390625] There are loads of places to eat locally, although you will have trouble if you want 5% healthy food 5% of the time.
+[0.06273269653320312] Area around isn't bad we had a different restaurant every night of our 14night stay, try the corral more than you can eat for $6.99 and I mean more than you can eat food was really nice, red lobster was good so was the minning company.
+[0.0275726318359375] (especially because the Shoneys and Denny's nearby are NIGHTMARES!)
+
+----- Weakening -----
+
+[-0.9021940231323242] Sick of fatty junk food after the second day, and despite our quest to eat in a half respectable fashion, no luck was had.
+[-0.7459735870361328] There was only coffee, juice, toast and cerial.
+[-0.6564254760742188] there's a product called [--].
+[-0.3167247772216797] You get what you pay for, and it was cheap but that's just about it.
+[-0.280670166015625] They come off very easy and the bugs are easy to see.
+
+**********
+
+[0.9874262809753418] Ponderosa has a great buffet breakfast.
+Parent: There are a zillion places to eat along the 192 , Ponderosa is great for it 's huge buffet breakfast and filling up before a day at the parks .
+
+----- Supporting -----
+
+[0.9874262809753418] There are a zillion places to eat along the 192, Ponderosa is great for it's huge buffet breakfast and filling up before a day at the parks.
+[0.035320281982421875] Often all the tables would be full and the bread was often finished before the breakfast session finished.
+[0.0061893463134765625] The price is right, and the location is super!
+[0.002960205078125] They offered Frosted Flakes, and Wheat Bread (with a toaster) as our choices.
+[0.00213623046875] For the price we paid, what more could you ask for?
+
+----- Weakening -----
+
+[-0.9099359512329102] There was only coffee, juice, toast and cerial.
+[-0.7450408935546875] there's a product called [--].
+[-0.7076759338378906] Sick of fatty junk food after the second day, and despite our quest to eat in a half respectable fashion, no luck was had.
+[-0.6262931823730469] Coffee was bad.
+[-0.4634666442871094] I 'm not a huge eater so I did'nt need a nasty greasy morning breakfast.
+
+**********
+
+[0.9865331649780273] Ponderosa is a great place to eat before going to the park.
+Parent: There are a zillion places to eat along the 192 , Ponderosa is great for it 's huge buffet breakfast and filling up before a day at the parks .
+
+----- Supporting -----
+
+[0.9865331649780273] There are a zillion places to eat along the 192, Ponderosa is great for it's huge buffet breakfast and filling up before a day at the parks.
+[0.006447792053222656] A good place to fuel up for the long days at the parks.
+[0.0028438568115234375] The price is right, and the location is super!
+[-0.0012073516845703125] There are countless places to eat around the hotel & there's an all you can eat chinese buffet next door that's good.
+[-0.0016937255859375] They offered Frosted Flakes, and Wheat Bread (with a toaster) as our choices.
+
+----- Weakening -----
+
+[-0.9088420867919922] there's a product called [--].
+[-0.6710195541381836] Sick of fatty junk food after the second day, and despite our quest to eat in a half respectable fashion, no luck was had.
+[-0.5520687103271484] Coffee was bad.
+[-0.40573883056640625] Water tastes like sulfur or burnt hair.
+[-0.38167476654052734] There was only coffee, juice, toast and cerial.
+
+**********
+
+[0.46022796630859375] The area around the hotel is not bad.
+Parent: Area around is n't bad we had a different restaurant every night of our 14night stay , try the corral more than you can eat for $ 6.99 and I mean more than you can eat food was really nice , red lobster was good so was the minning company .
+
+----- Supporting -----
+
+[0.46022796630859375] The price is right, and the location is super!
+[0.33994293212890625] There are countless places to eat around the hotel & there's an all you can eat chinese buffet next door that's good.
+[0.1586456298828125] A good place to fuel up for the long days at the parks.
+[0.1336517333984375] There are a zillion places to eat along the 192, Ponderosa is great for it's huge buffet breakfast and filling up before a day at the parks.
+[0.11644935607910156] Area around isn't bad we had a different restaurant every night of our 14night stay, try the corral more than you can eat for $6.99 and I mean more than you can eat food was really nice, red lobster was good so was the minning company.
+
+----- Weakening -----
+
+[-0.6791534423828125] (especially because the Shoneys and Denny's nearby are NIGHTMARES!)
+[-0.4984130859375] there's a product called [--].
+[-0.19956207275390625] We found old, moldy juice bottles under our beds.
+[-0.1937255859375] Coffee was bad.
+[-0.1574249267578125] Water tastes like sulfur or burnt hair.
+
+**********
+
+[0.9862966537475586] We had a different restaurant every night of our stay.
+Parent: Area around is n't bad we had a different restaurant every night of our 14night stay , try the corral more than you can eat for $ 6.99 and I mean more than you can eat food was really nice , red lobster was good so was the minning company .
+
+----- Supporting -----
+
+[0.9862966537475586] Area around isn't bad we had a different restaurant every night of our 14night stay, try the corral more than you can eat for $6.99 and I mean more than you can eat food was really nice, red lobster was good so was the minning company.
+[0.0029125213623046875] There are countless places to eat around the hotel & there's an all you can eat chinese buffet next door that's good.
+[-0.0016956329345703125] The price is right, and the location is super!
+[-0.00379180908203125] There are loads of places to eat locally, although you will have trouble if you want 5% healthy food 5% of the time.
+[-0.0045871734619140625] I paid $25.00/night after a good deal I found on Hotels.com!!!
+
+----- Weakening -----
+
+[-0.9928576946258545] There was only coffee, juice, toast and cerial.
+[-0.9419503211975098] Sick of fatty junk food after the second day, and despite our quest to eat in a half respectable fashion, no luck was had.
+[-0.8902091979980469] there's a product called [--].
+[-0.7638578414916992] I didn't try it myself.
+[-0.7537288665771484] Coffee was bad.
+
+**********
+
+[0.8362312316894531] The corral is a good value for $6.99.
+Parent: Area around is n't bad we had a different restaurant every night of our 14night stay , try the corral more than you can eat for $ 6.99 and I mean more than you can eat food was really nice , red lobster was good so was the minning company .
+
+----- Supporting -----
+
+[0.8362312316894531] Area around isn't bad we had a different restaurant every night of our 14night stay, try the corral more than you can eat for $6.99 and I mean more than you can eat food was really nice, red lobster was good so was the minning company.
+[0.00357818603515625] We were on a budget so this place was perfect for the price.
+[0.0018310546875] The price is right, and the location is super!
+[-0.0038242340087890625] I guess as the saying goes you get what you pay for as we didn't pay much for the 4 of us we were pleased and surprised.
+[-0.00388336181640625] They offered Frosted Flakes, and Wheat Bread (with a toaster) as our choices.
+
+----- Weakening -----
+
+[-0.59912109375] The hotel stay cost about $100.00 to stay 4 nights through a promotion for free nights so I was impressed with the price!
+[-0.511077880859375] it cost £530 for both of us.
+[-0.3820686340332031] Sick of fatty junk food after the second day, and despite our quest to eat in a half respectable fashion, no luck was had.
+[-0.3435173034667969] every park, disney or not, will do this for free and water tastes MUCH better.
+[-0.33710289001464844] There was only coffee, juice, toast and cerial.
+
+**********
+
+[0.780853271484375] The food was really nice.
+Parent: Area around is n't bad we had a different restaurant every night of our 14night stay , try the corral more than you can eat for $ 6.99 and I mean more than you can eat food was really nice , red lobster was good so was the minning company .
+
+----- Supporting -----
+
+[0.780853271484375] Area around isn't bad we had a different restaurant every night of our 14night stay, try the corral more than you can eat for $6.99 and I mean more than you can eat food was really nice, red lobster was good so was the minning company.
+[0.04227638244628906] We were not being overly fussy, the chinese eat as much as you can next door is highly recommended.
+[0.035475730895996094] There are countless places to eat around the hotel & there's an all you can eat chinese buffet next door that's good.
+[0.024641990661621094] There are a zillion places to eat along the 192, Ponderosa is great for it's huge buffet breakfast and filling up before a day at the parks.
+[0.023090362548828125] For the price we paid, what more could you ask for?
+
+----- Weakening -----
+
+[-0.9786243438720703] Sick of fatty junk food after the second day, and despite our quest to eat in a half respectable fashion, no luck was had.
+[-0.9308624267578125] The orange juiced was bad & watered down, but I only drank coffee which was good.
+[-0.9242153167724609] Coffee was bad.
+[-0.7086639404296875] (especially because the Shoneys and Denny's nearby are NIGHTMARES!)
+[-0.6068801879882812] I 'm not a huge eater so I did'nt need a nasty greasy morning breakfast.
+
+**********
+
+[0.4988279342651367] Red lobster was good. The mining company was good.
+Parent: Area around is n't bad we had a different restaurant every night of our 14night stay , try the corral more than you can eat for $ 6.99 and I mean more than you can eat food was really nice , red lobster was good so was the minning company .
+
+----- Supporting -----
+
+[0.4988279342651367] Area around isn't bad we had a different restaurant every night of our 14night stay, try the corral more than you can eat for $6.99 and I mean more than you can eat food was really nice, red lobster was good so was the minning company.
+[0.045787811279296875] The price is right, and the location is super!
+[0.01102447509765625] For the price we paid, what more could you ask for?
+[0.008602142333984375] it cost £530 for both of us.
+[-0.00032806396484375] A good place to fuel up for the long days at the parks.
+
+----- Weakening -----
+
+[-0.8832583427429199] Coffee was bad.
+[-0.4892692565917969] The orange juiced was bad & watered down, but I only drank coffee which was good.
+[-0.4625406265258789] There was only coffee, juice, toast and cerial.
+[-0.4232521057128906] every park, disney or not, will do this for free and water tastes MUCH better.
+[-0.3990936279296875] there's a product called [--].

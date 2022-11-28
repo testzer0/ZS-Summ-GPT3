@@ -1,0 +1,107 @@
+***** Aspect: location Model Type : zs *****
+Overall score: 0.8318035125732421
+
+**********
+
+[0.9758195877075195] The location is central.
+Parent: The location was praised by most reviewers for being central and close to many attractions.
+
+----- Supporting -----
+
+[0.9758195877075195] Great location, very central.
+[0.9733433723449707] The location of this hotel is excellent â€“ very central and close to public transport, shopping, restaurants, etc.
+[0.9545888900756836] location very central for downtown.
+[0.9325523376464844] The location is in downtown, so it's in the heart of things, but you have a fair number of homeless people and transients around.
+[0.9272212982177734] The hotel is centrally located - just a block from Junge St. and a short walk to University.
+
+----- Weakening -----
+
+[-0.9818840026855469] The location is reasonable but quite a long way from the waterfront.
+[-0.70697021484375] It was a nice hotel, but I would recommend staying closer to the center of activities.
+[-0.5725173950195312] My only negative comment about the room was the view - it looked straight into an adjacent office building.
+[-0.5701904296875] Some of the rooms can be far from the elevators.
+[-0.5565185546875] This makes it an ideal location for vacationers, but a bit far if you have meetings in the main business district in the downtown core (although it's not too bad for that).
+
+**********
+
+[0.8940467834472656] The location is convenient.
+Parent: The location was praised by most reviewers for being central and close to many attractions.
+
+----- Supporting -----
+
+[0.8940467834472656] The location is perfect, near everything one might need on a business trip and for doing some shopping.
+[0.8454189300537109] Perfect location close to everything.
+[0.8274383544921875] The location is reasonable but quite a long way from the waterfront.
+[0.816248893737793] The hotel's downtown location is convenient for public transportation and adjacent to the Eaton Centre Mall.
+[0.7809162139892578] The location, right next to the Eaton Centre, is ideal and makes it easy to take in all of the traditional tourist sights and access the subway.
+
+----- Weakening -----
+
+[-0.673893928527832] We often used to go on massive shopping trips and had to transport many large boxes to and from our rooms.
+[-0.5109100341796875] My only negative comment about the room was the view - it looked straight into an adjacent office building.
+[-0.3964385986328125] Expensive to park, $25 per day and daily rates are high.
+[-0.31363677978515625] Beware of tight turns in for parking garage under facility.
+[-0.1635284423828125] It was a nice hotel, but I would recommend staying closer to the center of activities.
+
+**********
+
+[0.9891748428344727] There were homeless people and transients around.
+Parent: Some reviewers mentioned that there were homeless people and transients around, but overall the location was good.
+
+----- Supporting -----
+
+[0.9891748428344727] The location is in downtown, so it's in the heart of things, but you have a fair number of homeless people and transients around.
+[0.00347900390625] This happened all the time, and still did on this last trip.
+[0.002643585205078125] Great place to hang out on a hot afternoon, which is what I did.
+[0.00150299072265625] We didn't rent a car and walked everywhere, including the Bata Shoe Museum, Royal Ontario Museum, Chinatown, Kensington Market, St. Lawrence Market, and the Brewery District.
+[0.0011157989501953125] The location is also perfect for us: next to the Eaton Centre and walking distance to Chinatown and Queen Street.
+
+----- Weakening -----
+
+[-0.7980079650878906] The restaurant always has plenty of fresh fruit and a great selection for breakfast.
+[-0.6387557983398438] Made Christmas shopping an absolute treat!!
+[-0.5227031707763672] Lots of stores and restaurants in the area.
+[-0.5204734802246094] You have easy access to everything you might want: Yonge Street, Eaton Centre, China Town, Financial District, Entertainment District etc.
+[-0.4966850280761719] It is a little expensive, but they offer a great variety.
+
+**********
+
+[0.9728755950927734] The location was good.
+Parent: Some reviewers mentioned that there were homeless people and transients around, but overall the location was good.
+
+----- Supporting -----
+
+[0.9728755950927734] The location couldn't have been better.
+[0.9662876129150391] The location couldn't be better.
+[0.963714599609375] Location is good and the hotel is quiet.
+[0.9611368179321289] The location was perfect!
+[0.9593715667724609] The location was an excellent one for us because our event was just across the street, but we also walked to dinner on Queen Street, had many shopping choices (itâ€™s connected to the Eaton Centre, or you can meander along funky Queen West) and itâ€™s close to the subway.
+
+----- Weakening -----
+
+[-0.553436279296875] My only negative comment about the room was the view - it looked straight into an adjacent office building.
+[-0.0618743896484375] Some of the rooms can be far from the elevators.
+[-0.043792724609375] Beware of tight turns in for parking garage under facility.
+[-0.038055419921875] Restaurant OK but slow; nothing special.
+[-0.0334320068359375] It looked like we were lucky to get a parking spot.
+
+**********
+
+[0.3271007537841797] The cost of parking was too high.
+Parent: The parking was expensive.
+
+----- Supporting -----
+
+[0.3271007537841797] Expensive parking.
+[0.28147125244140625] The parking was very expensive, the cost was $25 a day.
+[0.1324939727783203] Expensive to park, $25 per day and daily rates are high.
+[0.098541259765625] Parking expensive but what isn't in Toronto?
+[0.03716850280761719] Parking is also expensive at $18 per day and the garage was small.
+
+----- Weakening -----
+
+[-0.9343132972717285] We were to get a "cars eat free" weekend, as well as free parking.
+[-0.9027595520019531] Parking at the hotel's underground lot was easy and efficient... No worries if you're planning a stay at this downtown Toronto hotel!
+[-0.8899221420288086] Addtionally, there were pleny of wonderful restaurants, places to shop, the subway transit system, buses and taxes within a 1-5 mile radius of the hotel making it very convenient for just about everything!
+[-0.8498563766479492] Made Christmas shopping an absolute treat!!
+[-0.8166713714599609] You can also sit there at night and have an pricey martini or other drink.

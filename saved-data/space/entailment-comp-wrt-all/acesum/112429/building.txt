@@ -1,0 +1,23 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.9906554222106934
+
+**********
+
+[0.9906554222106934] The hotel is located in the downtown area.
+Parent: The hotel is located in the downtown area.
+
+----- Supporting -----
+
+[0.9906554222106934] The hotel is in the downtown area and we were able to take the light rail from the airport, which was very helpful.
+[0.9862031936645508] The hotel is in downtown Seattle right in the middle of it all.
+[0.9833507537841797] The hotel it in plain downtown - 10min.
+[0.977135181427002] This hotel is conveniently located in downtown Seattle.
+[0.9743237495422363] This hotel is 4 stars all the way, and in a fantastic location downtown.
+
+----- Weakening -----
+
+[-0.9467806816101074] The location isn't even that good, a little to far north for me.
+[-0.8835735321044922] It's a Coast Hotel and the service standards are higher than most hotels.
+[-0.79974365234375] The best thing about the Paramount Hotel is it's location and price compared to other downtown hotels.
+[-0.7442913055419922] We had a view of the hillsides from our room, it was just amazing.
+[-0.639251708984375] Bartell's drugstore with trial size toiletries next to Nordstroms.

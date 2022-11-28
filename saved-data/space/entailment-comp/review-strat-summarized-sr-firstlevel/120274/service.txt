@@ -1,0 +1,653 @@
+***** Aspect: service Model Type : zs *****
+Overall score: 0.7569673599735383
+
+**********
+
+[0.923548698425293] The service was poor.
+Parent: The reviews said that the service was poor, with the staff being unhelpful and rude.
+
+----- Supporting -----
+
+[0.923548698425293] his hotel was had very disappointing customer service and staff.
+[0.7262420654296875] The hotel refused to match multiple lower rates I had found elsewhere, so I decided to cancel due to unhelpful reservation services and reserve a hotel I KNOW has superior customer service.
+[0.5914688110351562] The staff was exteremly rude, rooms out dated and smelled!
+[0.36153411865234375] My biggest complaint was the lack of internet service.
+[0.26532745361328125] I arrived in this hotel at 2am in the morning,went in to our room and the rooms i booked was not right and there was no kitchen,it stunk of mould,the carpet was dirty,had no wardrobe and no fridge.Went back to reception to complain and the man said there was no room to be moved to and no manager to talk to,i told him we would not be staying here as it is dirty and he offered me another room to look at(after telling me there was no other rooms avaliable),so at 2am we am looking at other rooms after a long journey there.The rooms were no different and we was so tired we said we would have to stay where we was and speak to the manager in the morning.In the morning we looked around the room and realised the sides of our beds were covered in mould,carpet was old,dirty and musty,coffee perculator did not work,a lamp did not work,our door when closed had a gap in it and did not feel safe,so had to take valuables out every day with us.Didnt even attempt to eat in the cafe area.WOULD NOT STAY HERE.DISGUSTING!!!!!
+
+----- Weakening -----
+
+[-0.9974641799926758] The reception staff, housekeeping and ticket agents were the best!
+[-0.9972848892211914] Maid service is brilliant clean towels everyday and beds made.
+[-0.9971168041229248] This hotel was great, if you phoned or reported a problem to the front desk someone turned up in under ten minutes to fix it.
+[-0.9970154762268066] Staff pleasant and helpfull.
+[-0.9966244697570801] All the staff were extremely helpful, friendly and approachable.
+
+**********
+
+[0.73541259765625] The staff were unhelpful.
+Parent: The reviews said that the service was poor, with the staff being unhelpful and rude.
+
+----- Supporting -----
+
+[0.73541259765625] The staff was exteremly rude, rooms out dated and smelled!
+[0.6941375732421875] The hotel refused to match multiple lower rates I had found elsewhere, so I decided to cancel due to unhelpful reservation services and reserve a hotel I KNOW has superior customer service.
+[0.656341552734375] Reception staff were not the friendliest but did suggest having 3rd (top) floor room to prevent any noise from above.
+[0.455078125] Front desk polite , but not eager to help.
+[0.27606964111328125] Complained to head office and they didn't even respond.
+
+----- Weakening -----
+
+[-0.9977283477783203] The staff were always friendly and helpful.
+[-0.997711181640625] Staff are helpful and generally friendly.
+[-0.9976997375488281] The staff were friendly and helpfull.
+[-0.9976596832275391] staff on the front desk very helpful.
+[-0.9976491928100586] All the staff were extremely helpful, friendly and approachable.
+
+**********
+
+[0.9849286079406738] The staff were rude.
+Parent: The reviews said that the service was poor, with the staff being unhelpful and rude.
+
+----- Supporting -----
+
+[0.9849286079406738] The staff was exteremly rude, rooms out dated and smelled!
+[0.42242431640625] Reception staff were not the friendliest but did suggest having 3rd (top) floor room to prevent any noise from above.
+[0.150054931640625] I have never met a manager who actually YELLED at a customer till i met her.
+[0.04449462890625] Instead of listening to what we had to say, she continually interuppted us mid-sentence and told us we were wrong.
+[0.03554534912109375] The hotel refused to match multiple lower rates I had found elsewhere, so I decided to cancel due to unhelpful reservation services and reserve a hotel I KNOW has superior customer service.
+
+----- Weakening -----
+
+[-0.9980363845825195] The staff were always friendly and helpful.
+[-0.998009204864502] Once we arrived, the staff was friendly and welcoming with a guest service stand willing to help.
+[-0.9977860450744629] All staff (maids, grounds and desk) were cheery and polite.
+[-0.99755859375] All the staff were extremely helpful, friendly and approachable.
+[-0.9975261688232422] The staff are pleasant and if there is a technical problem, maintenance arrives promptly.
+
+**********
+
+[0.9425296783447266] The rooms were not clean.
+Parent: There were also complaints about the cleanliness of the rooms and the lack of amenities.
+
+----- Supporting -----
+
+[0.9425296783447266] I arrived in this hotel at 2am in the morning,went in to our room and the rooms i booked was not right and there was no kitchen,it stunk of mould,the carpet was dirty,had no wardrobe and no fridge.Went back to reception to complain and the man said there was no room to be moved to and no manager to talk to,i told him we would not be staying here as it is dirty and he offered me another room to look at(after telling me there was no other rooms avaliable),so at 2am we am looking at other rooms after a long journey there.The rooms were no different and we was so tired we said we would have to stay where we was and speak to the manager in the morning.In the morning we looked around the room and realised the sides of our beds were covered in mould,carpet was old,dirty and musty,coffee perculator did not work,a lamp did not work,our door when closed had a gap in it and did not feel safe,so had to take valuables out every day with us.Didnt even attempt to eat in the cafe area.WOULD NOT STAY HERE.DISGUSTING!!!!!
+[0.9315242767333984] Landscaping was terrible,elevators were dirty and anywhere outside of the room was not well maintained.
+[0.888153076171875] The staff was exteremly rude, rooms out dated and smelled!
+[0.78204345703125] Maintenace came and sprayed floor and when we woke the next morning there were ants on nightstand, dresser, bathroom walls and shower.
+[0.3199920654296875] We definetely complained, but the counter staff gave us the choice of cleaning supplies to clean ourselves, because the cleaning staff is off at night time.
+
+----- Weakening -----
+
+[-0.9881343841552734] Our rooms were cleaned daily and our sheets and towels were changed daily too.
+[-0.9843959808349609] Rooms were clean, grounds were clean, staff was friendly.
+[-0.9822292327880859] Pros: - The room was spacy & clean - The pool was warm and fun to swim in - Friendly staff - Good location (next to some great shops!)
+[-0.9723548889160156] Maid service is brilliant clean towels everyday and beds made.
+[-0.9554405212402344] The reception staff, housekeeping and ticket agents were the best!
+
+**********
+
+[0.8123779296875] The amenities were lacking.
+Parent: There were also complaints about the cleanliness of the rooms and the lack of amenities.
+
+----- Supporting -----
+
+[0.8123779296875] I arrived in this hotel at 2am in the morning,went in to our room and the rooms i booked was not right and there was no kitchen,it stunk of mould,the carpet was dirty,had no wardrobe and no fridge.Went back to reception to complain and the man said there was no room to be moved to and no manager to talk to,i told him we would not be staying here as it is dirty and he offered me another room to look at(after telling me there was no other rooms avaliable),so at 2am we am looking at other rooms after a long journey there.The rooms were no different and we was so tired we said we would have to stay where we was and speak to the manager in the morning.In the morning we looked around the room and realised the sides of our beds were covered in mould,carpet was old,dirty and musty,coffee perculator did not work,a lamp did not work,our door when closed had a gap in it and did not feel safe,so had to take valuables out every day with us.Didnt even attempt to eat in the cafe area.WOULD NOT STAY HERE.DISGUSTING!!!!!
+[0.6701774597167969] Landscaping was terrible,elevators were dirty and anywhere outside of the room was not well maintained.
+[0.5244903564453125] My biggest complaint was the lack of internet service.
+[0.137725830078125] Be warned, I needed the internet for my school work, you must go to the lobby it is not available in the rooms.
+[0.1257476806640625] The staff was exteremly rude, rooms out dated and smelled!
+
+----- Weakening -----
+
+[-0.9952301979064941] The reception staff, housekeeping and ticket agents were the best!
+[-0.9936656951904297] The bonus was that there was a FREE digital safe which is a must any where to travel.
+[-0.993438720703125] there are FREE shuttle rides to the outlets which are very fun to visit.
+[-0.992030143737793] Maid service is brilliant clean towels everyday and beds made.
+[-0.9917492866516113] Hotel does supply free shuttle buses to all theme parks which go every day and you don't have to bye your tickets from the guest services at the front of the hotel happy holidays.
+
+**********
+
+[0.3709564208984375] The reviews for this hotel were mostly negative.
+Parent: The reviews for this hotel were mostly negative, with guests citing issues with hidden fees, poor communication from staff, and an inconvenient shuttle schedule.
+
+----- Supporting -----
+
+[0.3709564208984375] I arrived in this hotel at 2am in the morning,went in to our room and the rooms i booked was not right and there was no kitchen,it stunk of mould,the carpet was dirty,had no wardrobe and no fridge.Went back to reception to complain and the man said there was no room to be moved to and no manager to talk to,i told him we would not be staying here as it is dirty and he offered me another room to look at(after telling me there was no other rooms avaliable),so at 2am we am looking at other rooms after a long journey there.The rooms were no different and we was so tired we said we would have to stay where we was and speak to the manager in the morning.In the morning we looked around the room and realised the sides of our beds were covered in mould,carpet was old,dirty and musty,coffee perculator did not work,a lamp did not work,our door when closed had a gap in it and did not feel safe,so had to take valuables out every day with us.Didnt even attempt to eat in the cafe area.WOULD NOT STAY HERE.DISGUSTING!!!!!
+[0.05625152587890625] The staff was exteremly rude, rooms out dated and smelled!
+[0.024921417236328125] his hotel was had very disappointing customer service and staff.
+[0.01506805419921875] Landscaping was terrible,elevators were dirty and anywhere outside of the room was not well maintained.
+[0.0028629302978515625] Won't stay there again!
+
+----- Weakening -----
+
+[-0.9902901649475098] This hotel was great, if you phoned or reported a problem to the front desk someone turned up in under ten minutes to fix it.
+[-0.9852209091186523] Pros: - The room was spacy & clean - The pool was warm and fun to swim in - Friendly staff - Good location (next to some great shops!)
+[-0.9162325859069824] Maid service is brilliant clean towels everyday and beds made.
+[-0.915492057800293] Everyone at the hotel was pleasant and helpful.
+[-0.9108281135559082] The reception staff, housekeeping and ticket agents were the best!
+
+**********
+
+[0.027984619140625] The guests were unhappy with the hidden fees.
+Parent: The reviews for this hotel were mostly negative, with guests citing issues with hidden fees, poor communication from staff, and an inconvenient shuttle schedule.
+
+----- Supporting -----
+
+[0.027984619140625] I arrived in this hotel at 2am in the morning,went in to our room and the rooms i booked was not right and there was no kitchen,it stunk of mould,the carpet was dirty,had no wardrobe and no fridge.Went back to reception to complain and the man said there was no room to be moved to and no manager to talk to,i told him we would not be staying here as it is dirty and he offered me another room to look at(after telling me there was no other rooms avaliable),so at 2am we am looking at other rooms after a long journey there.The rooms were no different and we was so tired we said we would have to stay where we was and speak to the manager in the morning.In the morning we looked around the room and realised the sides of our beds were covered in mould,carpet was old,dirty and musty,coffee perculator did not work,a lamp did not work,our door when closed had a gap in it and did not feel safe,so had to take valuables out every day with us.Didnt even attempt to eat in the cafe area.WOULD NOT STAY HERE.DISGUSTING!!!!!
+[0.00566864013671875] The hotel refused to match multiple lower rates I had found elsewhere, so I decided to cancel due to unhelpful reservation services and reserve a hotel I KNOW has superior customer service.
+[0.000640869140625] over $12.00 was added to our room bill due to the "free local calls".
+[-0.0017242431640625] Complained to head office and they didn't even respond.
+[-0.0028791427612304688] The evening clerk was a little weak in communicating in English so I really didn't get an adequate explanation of the charge.
+
+----- Weakening -----
+
+[-0.6731643676757812] there are FREE shuttle rides to the outlets which are very fun to visit.
+[-0.5517292022705078] The shuttle service (free) was on time (give or take 10 mins) to the theme parks.
+[-0.5123920440673828] It is just a free service.
+[-0.4521331787109375] Hospitality can't fault clean sheets and towels daily also complimentry shampoo and soap.
+[-0.38231658935546875] Staff pleasant and helpfull.
+
+**********
+
+[0.6743850708007812] The staff did not communicate well with guests.
+Parent: The reviews for this hotel were mostly negative, with guests citing issues with hidden fees, poor communication from staff, and an inconvenient shuttle schedule.
+
+----- Supporting -----
+
+[0.6743850708007812] The evening clerk was a little weak in communicating in English so I really didn't get an adequate explanation of the charge.
+[0.6641921997070312] Reception staff were not the friendliest but did suggest having 3rd (top) floor room to prevent any noise from above.
+[0.6410369873046875] I arrived in this hotel at 2am in the morning,went in to our room and the rooms i booked was not right and there was no kitchen,it stunk of mould,the carpet was dirty,had no wardrobe and no fridge.Went back to reception to complain and the man said there was no room to be moved to and no manager to talk to,i told him we would not be staying here as it is dirty and he offered me another room to look at(after telling me there was no other rooms avaliable),so at 2am we am looking at other rooms after a long journey there.The rooms were no different and we was so tired we said we would have to stay where we was and speak to the manager in the morning.In the morning we looked around the room and realised the sides of our beds were covered in mould,carpet was old,dirty and musty,coffee perculator did not work,a lamp did not work,our door when closed had a gap in it and did not feel safe,so had to take valuables out every day with us.Didnt even attempt to eat in the cafe area.WOULD NOT STAY HERE.DISGUSTING!!!!!
+[0.624969482421875] The staff was exteremly rude, rooms out dated and smelled!
+[0.35003662109375] I have never met a manager who actually YELLED at a customer till i met her.
+
+----- Weakening -----
+
+[-0.9804964065551758] All the staff were extremely helpful, friendly and approachable.
+[-0.9793539047241211] The staff were friendly and we were in our rooms within 10 minutes.
+[-0.9700803756713867] This hotel was great, if you phoned or reported a problem to the front desk someone turned up in under ten minutes to fix it.
+[-0.9669094085693359] They made me feel very welcome and more to the point I felt safe.
+[-0.9657554626464844] Everyone at the hotel was pleasant and helpful.
+
+**********
+
+[0.8916893005371094] The shuttle schedule was inconvenient.
+Parent: The reviews for this hotel were mostly negative, with guests citing issues with hidden fees, poor communication from staff, and an inconvenient shuttle schedule.
+
+----- Supporting -----
+
+[0.8916893005371094] The hotel provides scheduled shuttle service to and from the major theme parks but the schedule is the problem, it leaves you little time to enjoy the sights and you probably won't finish any theme park if you were to follow the shuttle's sked.
+[0.2085113525390625] The shuttle was rarely late and if you want to go home a bit earlier from the parks, ask for a taxi from Animal Kingdom which will cost about 12 dollars.
+[0.14995574951171875] Don't take the free shuttle to Disney though as this is the first hotel on the pick up route and you'll spend an hour going round the other hotels picking people up only to drive past this hotel again on the way to Disney!
+[0.1374053955078125] It was very clean and our room was ok. the staff were very freindly and the only bad report that we have is with the shuttle busses.
+[0.11136627197265625] The 9:00 PM shuttle did not show up so we waited till 10:40 for the 10:30 bus to show up.
+
+----- Weakening -----
+
+[-0.8962497711181641] The shuttle service (free) was on time (give or take 10 mins) to the theme parks.
+[-0.8791885375976562] The transportation to the parks was a plus too, but there is only 2 trips to disney and 1 to universal and sea world, which is great if you dont have a car, but i recommend driving... there should be more... Also... there are plenty restaurants accross form the hotel to dine inn for a whole week....
+[-0.72747802734375] there are FREE shuttle rides to the outlets which are very fun to visit.
+[-0.6823148727416992] This hotel was great, if you phoned or reported a problem to the front desk someone turned up in under ten minutes to fix it.
+[-0.5818214416503906] free internet access, etc etc.
+
+**********
+
+[0.9548397064208984] The rooms were clean.
+Parent: Some guests did appreciate the cleanliness of the rooms and friendly staff, however.
+
+----- Supporting -----
+
+[0.9548397064208984] Pros: - The room was spacy & clean - The pool was warm and fun to swim in - Friendly staff - Good location (next to some great shops!)
+[0.9536314010620117] Rooms were clean, grounds were clean, staff was friendly.
+[0.9207267761230469] It was very clean and our room was ok. the staff were very freindly and the only bad report that we have is with the shuttle busses.
+[0.9186573028564453] Our rooms were cleaned daily and our sheets and towels were changed daily too.
+[0.67510986328125] Clean towels everyday, rooms & beds made everyday.
+
+----- Weakening -----
+
+[-0.997373104095459] Maintenace came and sprayed floor and when we woke the next morning there were ants on nightstand, dresser, bathroom walls and shower.
+[-0.9959993362426758] I arrived in this hotel at 2am in the morning,went in to our room and the rooms i booked was not right and there was no kitchen,it stunk of mould,the carpet was dirty,had no wardrobe and no fridge.Went back to reception to complain and the man said there was no room to be moved to and no manager to talk to,i told him we would not be staying here as it is dirty and he offered me another room to look at(after telling me there was no other rooms avaliable),so at 2am we am looking at other rooms after a long journey there.The rooms were no different and we was so tired we said we would have to stay where we was and speak to the manager in the morning.In the morning we looked around the room and realised the sides of our beds were covered in mould,carpet was old,dirty and musty,coffee perculator did not work,a lamp did not work,our door when closed had a gap in it and did not feel safe,so had to take valuables out every day with us.Didnt even attempt to eat in the cafe area.WOULD NOT STAY HERE.DISGUSTING!!!!!
+[-0.9950237274169922] Landscaping was terrible,elevators were dirty and anywhere outside of the room was not well maintained.
+[-0.9912376403808594] The staff was exteremly rude, rooms out dated and smelled!
+[-0.9396991729736328] I booked this hotel online for dirt cheap...and that's what I got...dirt and the bugs that go alone with it!
+
+**********
+
+[0.9910001754760742] The staff was friendly.
+Parent: Some guests did appreciate the cleanliness of the rooms and friendly staff, however.
+
+----- Supporting -----
+
+[0.9910001754760742] The staff were friendly and helpfull.
+[0.9888343811035156] The staff were always friendly and helpful.
+[0.9855766296386719] The staff are friendly as well.
+[0.9827480316162109] The staff was friendly enough.
+[0.9792428016662598] The staff were friendly and we were in our rooms within 10 minutes.
+
+----- Weakening -----
+
+[-0.9952831268310547] The staff was exteremly rude, rooms out dated and smelled!
+[-0.9762802124023438] Reception staff were not the friendliest but did suggest having 3rd (top) floor room to prevent any noise from above.
+[-0.9661245346069336] I have never met a manager who actually YELLED at a customer till i met her.
+[-0.9619922637939453] Instead of listening to what we had to say, she continually interuppted us mid-sentence and told us we were wrong.
+[-0.9161186218261719] I arrived in this hotel at 2am in the morning,went in to our room and the rooms i booked was not right and there was no kitchen,it stunk of mould,the carpet was dirty,had no wardrobe and no fridge.Went back to reception to complain and the man said there was no room to be moved to and no manager to talk to,i told him we would not be staying here as it is dirty and he offered me another room to look at(after telling me there was no other rooms avaliable),so at 2am we am looking at other rooms after a long journey there.The rooms were no different and we was so tired we said we would have to stay where we was and speak to the manager in the morning.In the morning we looked around the room and realised the sides of our beds were covered in mould,carpet was old,dirty and musty,coffee perculator did not work,a lamp did not work,our door when closed had a gap in it and did not feel safe,so had to take valuables out every day with us.Didnt even attempt to eat in the cafe area.WOULD NOT STAY HERE.DISGUSTING!!!!!
+
+**********
+
+[0.8137054443359375] The rooms were not clean enough.
+Parent: Some guests did appreciate the cleanliness of the rooms and friendly staff, however.
+
+----- Supporting -----
+
+[0.8137054443359375] I arrived in this hotel at 2am in the morning,went in to our room and the rooms i booked was not right and there was no kitchen,it stunk of mould,the carpet was dirty,had no wardrobe and no fridge.Went back to reception to complain and the man said there was no room to be moved to and no manager to talk to,i told him we would not be staying here as it is dirty and he offered me another room to look at(after telling me there was no other rooms avaliable),so at 2am we am looking at other rooms after a long journey there.The rooms were no different and we was so tired we said we would have to stay where we was and speak to the manager in the morning.In the morning we looked around the room and realised the sides of our beds were covered in mould,carpet was old,dirty and musty,coffee perculator did not work,a lamp did not work,our door when closed had a gap in it and did not feel safe,so had to take valuables out every day with us.Didnt even attempt to eat in the cafe area.WOULD NOT STAY HERE.DISGUSTING!!!!!
+[0.7622718811035156] Landscaping was terrible,elevators were dirty and anywhere outside of the room was not well maintained.
+[0.5778274536132812] The staff was exteremly rude, rooms out dated and smelled!
+[0.144317626953125] Maintenace came and sprayed floor and when we woke the next morning there were ants on nightstand, dresser, bathroom walls and shower.
+[0.07328033447265625] We definetely complained, but the counter staff gave us the choice of cleaning supplies to clean ourselves, because the cleaning staff is off at night time.
+
+----- Weakening -----
+
+[-0.9215087890625] Maid service is brilliant clean towels everyday and beds made.
+[-0.8639488220214844] The reception staff, housekeeping and ticket agents were the best!
+[-0.854827880859375] Pros: - The room was spacy & clean - The pool was warm and fun to swim in - Friendly staff - Good location (next to some great shops!)
+[-0.7856502532958984] Our rooms were cleaned daily and our sheets and towels were changed daily too.
+[-0.7594375610351562] Hospitality can't fault clean sheets and towels daily also complimentry shampoo and soap.
+
+**********
+
+[0.963836669921875] The staff were not friendly.
+Parent: Some guests did appreciate the cleanliness of the rooms and friendly staff, however.
+
+----- Supporting -----
+
+[0.963836669921875] Reception staff were not the friendliest but did suggest having 3rd (top) floor room to prevent any noise from above.
+[0.9491233825683594] The staff was exteremly rude, rooms out dated and smelled!
+[0.34406280517578125] I have never met a manager who actually YELLED at a customer till i met her.
+[0.31582069396972656] The hotel refused to match multiple lower rates I had found elsewhere, so I decided to cancel due to unhelpful reservation services and reserve a hotel I KNOW has superior customer service.
+[0.11467742919921875] I arrived in this hotel at 2am in the morning,went in to our room and the rooms i booked was not right and there was no kitchen,it stunk of mould,the carpet was dirty,had no wardrobe and no fridge.Went back to reception to complain and the man said there was no room to be moved to and no manager to talk to,i told him we would not be staying here as it is dirty and he offered me another room to look at(after telling me there was no other rooms avaliable),so at 2am we am looking at other rooms after a long journey there.The rooms were no different and we was so tired we said we would have to stay where we was and speak to the manager in the morning.In the morning we looked around the room and realised the sides of our beds were covered in mould,carpet was old,dirty and musty,coffee perculator did not work,a lamp did not work,our door when closed had a gap in it and did not feel safe,so had to take valuables out every day with us.Didnt even attempt to eat in the cafe area.WOULD NOT STAY HERE.DISGUSTING!!!!!
+
+----- Weakening -----
+
+[-0.9966034889221191] All the staff were extremely helpful, friendly and approachable.
+[-0.9959774017333984] The staff were always friendly and helpful.
+[-0.9959497451782227] The staff were friendly and helpfull.
+[-0.9955196380615234] Staff are helpful and generally friendly.
+[-0.9955177307128906] Once we arrived, the staff was friendly and welcoming with a guest service stand willing to help.
+
+**********
+
+[0.8045158386230469] The service was good.
+Parent: Overall, reviewers thought that the service was good.
+
+----- Supporting -----
+
+[0.8045158386230469] Maid service is brilliant clean towels everyday and beds made.
+[0.7760276794433594] The staff was great, the cost reasonable, you could do worse.
+[0.7720851898193359] The reception staff, housekeeping and ticket agents were the best!
+[0.7118186950683594] Staff pleasant and helpfull.
+[0.6942596435546875] Apart from this initial hickup our stay was uneventful, the staff was friendly and helpful.
+
+----- Weakening -----
+
+[-0.9928150177001953] his hotel was had very disappointing customer service and staff.
+[-0.9666156768798828] Complained to head office and they didn't even respond.
+[-0.9606285095214844] My biggest complaint was the lack of internet service.
+[-0.9543800354003906] The hotel refused to match multiple lower rates I had found elsewhere, so I decided to cancel due to unhelpful reservation services and reserve a hotel I KNOW has superior customer service.
+[-0.9530181884765625] The staff was exteremly rude, rooms out dated and smelled!
+
+**********
+
+[0.9548397064208984] The rooms were clean.
+Parent: Compliments were given for the cleanliness of the rooms and the helpfulness of the staff.
+
+----- Supporting -----
+
+[0.9548397064208984] Pros: - The room was spacy & clean - The pool was warm and fun to swim in - Friendly staff - Good location (next to some great shops!)
+[0.9536314010620117] Rooms were clean, grounds were clean, staff was friendly.
+[0.9207267761230469] It was very clean and our room was ok. the staff were very freindly and the only bad report that we have is with the shuttle busses.
+[0.9186573028564453] Our rooms were cleaned daily and our sheets and towels were changed daily too.
+[0.67510986328125] Clean towels everyday, rooms & beds made everyday.
+
+----- Weakening -----
+
+[-0.997373104095459] Maintenace came and sprayed floor and when we woke the next morning there were ants on nightstand, dresser, bathroom walls and shower.
+[-0.9959993362426758] I arrived in this hotel at 2am in the morning,went in to our room and the rooms i booked was not right and there was no kitchen,it stunk of mould,the carpet was dirty,had no wardrobe and no fridge.Went back to reception to complain and the man said there was no room to be moved to and no manager to talk to,i told him we would not be staying here as it is dirty and he offered me another room to look at(after telling me there was no other rooms avaliable),so at 2am we am looking at other rooms after a long journey there.The rooms were no different and we was so tired we said we would have to stay where we was and speak to the manager in the morning.In the morning we looked around the room and realised the sides of our beds were covered in mould,carpet was old,dirty and musty,coffee perculator did not work,a lamp did not work,our door when closed had a gap in it and did not feel safe,so had to take valuables out every day with us.Didnt even attempt to eat in the cafe area.WOULD NOT STAY HERE.DISGUSTING!!!!!
+[-0.9950237274169922] Landscaping was terrible,elevators were dirty and anywhere outside of the room was not well maintained.
+[-0.9912376403808594] The staff was exteremly rude, rooms out dated and smelled!
+[-0.9396991729736328] I booked this hotel online for dirt cheap...and that's what I got...dirt and the bugs that go alone with it!
+
+**********
+
+[0.9921350479125977] The staff were helpful.
+Parent: Compliments were given for the cleanliness of the rooms and the helpfulness of the staff.
+
+----- Supporting -----
+
+[0.9921350479125977] The staff were very helpful.
+[0.988947868347168] The staff were friendly and helpfull.
+[0.9839291572570801] The staff were always friendly and helpful.
+[0.983494758605957] All the staff were extremely helpful, friendly and approachable.
+[0.9792132377624512] Staff are helpful and generally friendly.
+
+----- Weakening -----
+
+[-0.9903411865234375] Front desk polite , but not eager to help.
+[-0.9892902374267578] The staff was exteremly rude, rooms out dated and smelled!
+[-0.9853610992431641] The hotel refused to match multiple lower rates I had found elsewhere, so I decided to cancel due to unhelpful reservation services and reserve a hotel I KNOW has superior customer service.
+[-0.9767074584960938] Complained to head office and they didn't even respond.
+[-0.9674854278564453] After the sherrif arrived nobody even made it to our room to check on us or offer a different room.
+
+**********
+
+[0.8942356109619141] The internet service was not good.
+Parent: However, some reviewers found the internet service to be lacking, and others thought that the shuttle service could be improved.
+
+----- Supporting -----
+
+[0.8942356109619141] My biggest complaint was the lack of internet service.
+[0.51483154296875] The wireless internet--somewhat annoying to have to go to the lobby, since it doesn't reach to the rooms.
+[0.11444091796875] If it is this hard to get something accomplished over the phone its obvious customer service is not a priority at this property and i will be too tired to deal with anything less than quality customer service upon my arrival.
+[0.071014404296875] Be warned, I needed the internet for my school work, you must go to the lobby it is not available in the rooms.
+[0.06818008422851562] this was not true as you needed to dial the area code just to make a local call.
+
+----- Weakening -----
+
+[-0.8898391723632812] Maid service is brilliant clean towels everyday and beds made.
+[-0.6866455078125] The bonus was that there was a FREE digital safe which is a must any where to travel.
+[-0.6030998229980469] Web site with photos, etc.
+[-0.6030998229980469] Web site with photos, etc.
+[-0.541473388671875] The air con.
+
+**********
+
+[0.310302734375] The shuttle service could be improved.
+Parent: However, some reviewers found the internet service to be lacking, and others thought that the shuttle service could be improved.
+
+----- Supporting -----
+
+[0.310302734375] The hotel provides scheduled shuttle service to and from the major theme parks but the schedule is the problem, it leaves you little time to enjoy the sights and you probably won't finish any theme park if you were to follow the shuttle's sked.
+[0.2484283447265625] The transportation to the parks was a plus too, but there is only 2 trips to disney and 1 to universal and sea world, which is great if you dont have a car, but i recommend driving... there should be more... Also... there are plenty restaurants accross form the hotel to dine inn for a whole week....
+[0.08246231079101562] The shuttle was rarely late and if you want to go home a bit earlier from the parks, ask for a taxi from Animal Kingdom which will cost about 12 dollars.
+[0.0816192626953125] It was very clean and our room was ok. the staff were very freindly and the only bad report that we have is with the shuttle busses.
+[0.038806915283203125] First, the shuttle service they offered took us to the wrong theme park 40 minutes late without any explanation.
+
+----- Weakening -----
+
+[-0.330230712890625] The shuttle service (free) was on time (give or take 10 mins) to the theme parks.
+[-0.29399871826171875] Web site with photos, etc.
+[-0.29399871826171875] Web site with photos, etc.
+[-0.13779830932617188] Maid service is brilliant clean towels everyday and beds made.
+[-0.119384765625] Maintenace came and sprayed floor and when we woke the next morning there were ants on nightstand, dresser, bathroom walls and shower.
+
+**********
+
+[0.9910030364990234] The staff were friendly.
+Parent: The reviews said that the staff were friendly, helpful, and efficient.
+
+----- Supporting -----
+
+[0.9910030364990234] The staff were friendly and helpfull.
+[0.9888696670532227] The staff were always friendly and helpful.
+[0.9875917434692383] The staff are friendly as well.
+[0.981837272644043] The staff was friendly enough.
+[0.9764652252197266] All the staff were extremely helpful, friendly and approachable.
+
+----- Weakening -----
+
+[-0.9952831268310547] The staff was exteremly rude, rooms out dated and smelled!
+[-0.9781494140625] Reception staff were not the friendliest but did suggest having 3rd (top) floor room to prevent any noise from above.
+[-0.9681835174560547] I have never met a manager who actually YELLED at a customer till i met her.
+[-0.9496097564697266] Instead of listening to what we had to say, she continually interuppted us mid-sentence and told us we were wrong.
+[-0.9162254333496094] I arrived in this hotel at 2am in the morning,went in to our room and the rooms i booked was not right and there was no kitchen,it stunk of mould,the carpet was dirty,had no wardrobe and no fridge.Went back to reception to complain and the man said there was no room to be moved to and no manager to talk to,i told him we would not be staying here as it is dirty and he offered me another room to look at(after telling me there was no other rooms avaliable),so at 2am we am looking at other rooms after a long journey there.The rooms were no different and we was so tired we said we would have to stay where we was and speak to the manager in the morning.In the morning we looked around the room and realised the sides of our beds were covered in mould,carpet was old,dirty and musty,coffee perculator did not work,a lamp did not work,our door when closed had a gap in it and did not feel safe,so had to take valuables out every day with us.Didnt even attempt to eat in the cafe area.WOULD NOT STAY HERE.DISGUSTING!!!!!
+
+**********
+
+[0.9921350479125977] The staff were helpful.
+Parent: The reviews said that the staff were friendly, helpful, and efficient.
+
+----- Supporting -----
+
+[0.9921350479125977] The staff were very helpful.
+[0.988947868347168] The staff were friendly and helpfull.
+[0.9839291572570801] The staff were always friendly and helpful.
+[0.983494758605957] All the staff were extremely helpful, friendly and approachable.
+[0.9792132377624512] Staff are helpful and generally friendly.
+
+----- Weakening -----
+
+[-0.9903411865234375] Front desk polite , but not eager to help.
+[-0.9892902374267578] The staff was exteremly rude, rooms out dated and smelled!
+[-0.9853610992431641] The hotel refused to match multiple lower rates I had found elsewhere, so I decided to cancel due to unhelpful reservation services and reserve a hotel I KNOW has superior customer service.
+[-0.9767074584960938] Complained to head office and they didn't even respond.
+[-0.9674854278564453] After the sherrif arrived nobody even made it to our room to check on us or offer a different room.
+
+**********
+
+[0.9744873046875] The staff were efficient.
+Parent: The reviews said that the staff were friendly, helpful, and efficient.
+
+----- Supporting -----
+
+[0.9744873046875] hotel staff is fast,efficiant,& most of all friendly, i would not recommend this hotel to a friend,but i would recommend to all my friends thankyou Eugene V .
+[0.5934581756591797] staff on the front desk very helpful.
+[0.5918540954589844] The staff were very helpful.
+[0.5718002319335938] The staff were friendly and we were in our rooms within 10 minutes.
+[0.5625457763671875] The staff are pleasant and if there is a technical problem, maintenance arrives promptly.
+
+----- Weakening -----
+
+[-0.9627571105957031] Complained to head office and they didn't even respond.
+[-0.9585971832275391] The staff was exteremly rude, rooms out dated and smelled!
+[-0.9577999114990234] The hotel refused to match multiple lower rates I had found elsewhere, so I decided to cancel due to unhelpful reservation services and reserve a hotel I KNOW has superior customer service.
+[-0.9504890441894531] I arrived in this hotel at 2am in the morning,went in to our room and the rooms i booked was not right and there was no kitchen,it stunk of mould,the carpet was dirty,had no wardrobe and no fridge.Went back to reception to complain and the man said there was no room to be moved to and no manager to talk to,i told him we would not be staying here as it is dirty and he offered me another room to look at(after telling me there was no other rooms avaliable),so at 2am we am looking at other rooms after a long journey there.The rooms were no different and we was so tired we said we would have to stay where we was and speak to the manager in the morning.In the morning we looked around the room and realised the sides of our beds were covered in mould,carpet was old,dirty and musty,coffee perculator did not work,a lamp did not work,our door when closed had a gap in it and did not feel safe,so had to take valuables out every day with us.Didnt even attempt to eat in the cafe area.WOULD NOT STAY HERE.DISGUSTING!!!!!
+[-0.9359397888183594] his hotel was had very disappointing customer service and staff.
+
+**********
+
+[0.5468788146972656] The shuttle service is reliable.
+Parent: They also said that the shuttle service was reliable and the rooms were clean and spacious.
+
+----- Supporting -----
+
+[0.5468788146972656] The shuttle service (free) was on time (give or take 10 mins) to the theme parks.
+[0.45233154296875] The shuttle was rarely late and if you want to go home a bit earlier from the parks, ask for a taxi from Animal Kingdom which will cost about 12 dollars.
+[0.093597412109375] We didn't want to drive so we relied on these and they took ages and were in a very bed condition.
+[0.04543304443359375] The transportation to the parks was a plus too, but there is only 2 trips to disney and 1 to universal and sea world, which is great if you dont have a car, but i recommend driving... there should be more... Also... there are plenty restaurants accross form the hotel to dine inn for a whole week....
+[0.034648895263671875] The staff are pleasant and if there is a technical problem, maintenance arrives promptly.
+
+----- Weakening -----
+
+[-0.8957290649414062] It was very clean and our room was ok. the staff were very freindly and the only bad report that we have is with the shuttle busses.
+[-0.8819122314453125] Don't take the free shuttle to Disney though as this is the first hotel on the pick up route and you'll spend an hour going round the other hotels picking people up only to drive past this hotel again on the way to Disney!
+[-0.7544879913330078] Never ever use them again!
+[-0.7490158081054688] The hotel provides scheduled shuttle service to and from the major theme parks but the schedule is the problem, it leaves you little time to enjoy the sights and you probably won't finish any theme park if you were to follow the shuttle's sked.
+[-0.5878448486328125] One day, the bus was so overcrowded that i would say it was very dangerous (approx 40 people standing in the centre isle).
+
+**********
+
+[0.9343643188476562] The rooms are clean.
+Parent: They also said that the shuttle service was reliable and the rooms were clean and spacious.
+
+----- Supporting -----
+
+[0.9343643188476562] Rooms were clean, grounds were clean, staff was friendly.
+[0.9112319946289062] Pros: - The room was spacy & clean - The pool was warm and fun to swim in - Friendly staff - Good location (next to some great shops!)
+[0.8700027465820312] It was very clean and our room was ok. the staff were very freindly and the only bad report that we have is with the shuttle busses.
+[0.838470458984375] Our rooms were cleaned daily and our sheets and towels were changed daily too.
+[0.7065582275390625] Clean towels everyday, rooms & beds made everyday.
+
+----- Weakening -----
+
+[-0.9968132972717285] Maintenace came and sprayed floor and when we woke the next morning there were ants on nightstand, dresser, bathroom walls and shower.
+[-0.9950218200683594] I arrived in this hotel at 2am in the morning,went in to our room and the rooms i booked was not right and there was no kitchen,it stunk of mould,the carpet was dirty,had no wardrobe and no fridge.Went back to reception to complain and the man said there was no room to be moved to and no manager to talk to,i told him we would not be staying here as it is dirty and he offered me another room to look at(after telling me there was no other rooms avaliable),so at 2am we am looking at other rooms after a long journey there.The rooms were no different and we was so tired we said we would have to stay where we was and speak to the manager in the morning.In the morning we looked around the room and realised the sides of our beds were covered in mould,carpet was old,dirty and musty,coffee perculator did not work,a lamp did not work,our door when closed had a gap in it and did not feel safe,so had to take valuables out every day with us.Didnt even attempt to eat in the cafe area.WOULD NOT STAY HERE.DISGUSTING!!!!!
+[-0.9921150207519531] Landscaping was terrible,elevators were dirty and anywhere outside of the room was not well maintained.
+[-0.9874820709228516] The staff was exteremly rude, rooms out dated and smelled!
+[-0.9157524108886719] I booked this hotel online for dirt cheap...and that's what I got...dirt and the bugs that go alone with it!
+
+**********
+
+[0.1440582275390625] The rooms are spacious.
+Parent: They also said that the shuttle service was reliable and the rooms were clean and spacious.
+
+----- Supporting -----
+
+[0.1440582275390625] If your phone charger does not work (like mine) go to the reception and say that you left your charger the last time you stayed any they will be more than happy to take you to a room full to the roof of 2 pin phone chargers, it may take you hrs.
+[0.042591094970703125] Beware the hotel's own website which says "All guestrooms are handsomely and newly furnished with Refrigerator, microwave....".
+[0.02295684814453125] Hospitality can't fault clean sheets and towels daily also complimentry shampoo and soap.
+[0.017669677734375] free ice is available from the corridor and laundry is available.
+[0.014232635498046875] The staff are friendly as well.
+
+----- Weakening -----
+
+[-0.91265869140625] I arrived in this hotel at 2am in the morning,went in to our room and the rooms i booked was not right and there was no kitchen,it stunk of mould,the carpet was dirty,had no wardrobe and no fridge.Went back to reception to complain and the man said there was no room to be moved to and no manager to talk to,i told him we would not be staying here as it is dirty and he offered me another room to look at(after telling me there was no other rooms avaliable),so at 2am we am looking at other rooms after a long journey there.The rooms were no different and we was so tired we said we would have to stay where we was and speak to the manager in the morning.In the morning we looked around the room and realised the sides of our beds were covered in mould,carpet was old,dirty and musty,coffee perculator did not work,a lamp did not work,our door when closed had a gap in it and did not feel safe,so had to take valuables out every day with us.Didnt even attempt to eat in the cafe area.WOULD NOT STAY HERE.DISGUSTING!!!!!
+[-0.865509033203125] One day, the bus was so overcrowded that i would say it was very dangerous (approx 40 people standing in the centre isle).
+[-0.8037567138671875] There is also free shuttle buses to the parks but can get full as they pick up from several places.
+[-0.7053298950195312] A free bus was provided to the parks but we just used our car.
+[-0.650054931640625] Web site with photos, etc.
+
+**********
+
+[0.9916319847106934] The staff was helpful.
+Parent: The staff at the hotel were helpful, friendly, and efficient.
+
+----- Supporting -----
+
+[0.9916319847106934] The staff were very helpful.
+[0.9879579544067383] The staff were friendly and helpfull.
+[0.9829592704772949] All the staff were extremely helpful, friendly and approachable.
+[0.9828996658325195] The staff were always friendly and helpful.
+[0.9766139984130859] Staff are helpful and generally friendly.
+
+----- Weakening -----
+
+[-0.99090576171875] Front desk polite , but not eager to help.
+[-0.9876985549926758] The staff was exteremly rude, rooms out dated and smelled!
+[-0.9852104187011719] The hotel refused to match multiple lower rates I had found elsewhere, so I decided to cancel due to unhelpful reservation services and reserve a hotel I KNOW has superior customer service.
+[-0.970703125] Complained to head office and they didn't even respond.
+[-0.9540004730224609] his hotel was had very disappointing customer service and staff.
+
+**********
+
+[0.9910001754760742] The staff was friendly.
+Parent: The staff at the hotel were helpful, friendly, and efficient.
+
+----- Supporting -----
+
+[0.9910001754760742] The staff were friendly and helpfull.
+[0.9888343811035156] The staff were always friendly and helpful.
+[0.9855766296386719] The staff are friendly as well.
+[0.9827480316162109] The staff was friendly enough.
+[0.9792428016662598] The staff were friendly and we were in our rooms within 10 minutes.
+
+----- Weakening -----
+
+[-0.9952831268310547] The staff was exteremly rude, rooms out dated and smelled!
+[-0.9762802124023438] Reception staff were not the friendliest but did suggest having 3rd (top) floor room to prevent any noise from above.
+[-0.9661245346069336] I have never met a manager who actually YELLED at a customer till i met her.
+[-0.9619922637939453] Instead of listening to what we had to say, she continually interuppted us mid-sentence and told us we were wrong.
+[-0.9161186218261719] I arrived in this hotel at 2am in the morning,went in to our room and the rooms i booked was not right and there was no kitchen,it stunk of mould,the carpet was dirty,had no wardrobe and no fridge.Went back to reception to complain and the man said there was no room to be moved to and no manager to talk to,i told him we would not be staying here as it is dirty and he offered me another room to look at(after telling me there was no other rooms avaliable),so at 2am we am looking at other rooms after a long journey there.The rooms were no different and we was so tired we said we would have to stay where we was and speak to the manager in the morning.In the morning we looked around the room and realised the sides of our beds were covered in mould,carpet was old,dirty and musty,coffee perculator did not work,a lamp did not work,our door when closed had a gap in it and did not feel safe,so had to take valuables out every day with us.Didnt even attempt to eat in the cafe area.WOULD NOT STAY HERE.DISGUSTING!!!!!
+
+**********
+
+[0.9867143630981445] The staff at the hotel was efficient.
+Parent: The staff at the hotel were helpful, friendly, and efficient.
+
+----- Supporting -----
+
+[0.9867143630981445] hotel staff is fast,efficiant,& most of all friendly, i would not recommend this hotel to a friend,but i would recommend to all my friends thankyou Eugene V .
+[0.7584381103515625] This hotel was great, if you phoned or reported a problem to the front desk someone turned up in under ten minutes to fix it.
+[0.38348388671875] Everyone at the hotel was pleasant and helpful.
+[0.34728050231933594] Apart from this initial hickup our stay was uneventful, the staff was friendly and helpful.
+[0.3402976989746094] It was very clean and our room was ok. the staff were very freindly and the only bad report that we have is with the shuttle busses.
+
+----- Weakening -----
+
+[-0.9727458953857422] his hotel was had very disappointing customer service and staff.
+[-0.9588890075683594] The staff was exteremly rude, rooms out dated and smelled!
+[-0.9529647827148438] The hotel refused to match multiple lower rates I had found elsewhere, so I decided to cancel due to unhelpful reservation services and reserve a hotel I KNOW has superior customer service.
+[-0.94464111328125] I arrived in this hotel at 2am in the morning,went in to our room and the rooms i booked was not right and there was no kitchen,it stunk of mould,the carpet was dirty,had no wardrobe and no fridge.Went back to reception to complain and the man said there was no room to be moved to and no manager to talk to,i told him we would not be staying here as it is dirty and he offered me another room to look at(after telling me there was no other rooms avaliable),so at 2am we am looking at other rooms after a long journey there.The rooms were no different and we was so tired we said we would have to stay where we was and speak to the manager in the morning.In the morning we looked around the room and realised the sides of our beds were covered in mould,carpet was old,dirty and musty,coffee perculator did not work,a lamp did not work,our door when closed had a gap in it and did not feel safe,so had to take valuables out every day with us.Didnt even attempt to eat in the cafe area.WOULD NOT STAY HERE.DISGUSTING!!!!!
+[-0.8850975036621094] After the sherrif arrived nobody even made it to our room to check on us or offer a different room.
+
+**********
+
+[0.22348785400390625] The hotel was safe.
+Parent: Guests felt safe and welcome at the hotel.
+
+----- Supporting -----
+
+[0.22348785400390625] The bonus was that there was a FREE digital safe which is a must any where to travel.
+[0.0964813232421875] I needed some help with the in room safe and someone arrived seconds after I put down the phone.
+[0.09009933471679688] Rooms were clean, grounds were clean, staff was friendly.
+[0.08762359619140625] This hotel was great, if you phoned or reported a problem to the front desk someone turned up in under ten minutes to fix it.
+[0.06282806396484375] It was very clean and our room was ok. the staff were very freindly and the only bad report that we have is with the shuttle busses.
+
+----- Weakening -----
+
+[-0.9937324523925781] I arrived in this hotel at 2am in the morning,went in to our room and the rooms i booked was not right and there was no kitchen,it stunk of mould,the carpet was dirty,had no wardrobe and no fridge.Went back to reception to complain and the man said there was no room to be moved to and no manager to talk to,i told him we would not be staying here as it is dirty and he offered me another room to look at(after telling me there was no other rooms avaliable),so at 2am we am looking at other rooms after a long journey there.The rooms were no different and we was so tired we said we would have to stay where we was and speak to the manager in the morning.In the morning we looked around the room and realised the sides of our beds were covered in mould,carpet was old,dirty and musty,coffee perculator did not work,a lamp did not work,our door when closed had a gap in it and did not feel safe,so had to take valuables out every day with us.Didnt even attempt to eat in the cafe area.WOULD NOT STAY HERE.DISGUSTING!!!!!
+[-0.9631052017211914] Maintenace came and sprayed floor and when we woke the next morning there were ants on nightstand, dresser, bathroom walls and shower.
+[-0.9467239379882812] One day, the bus was so overcrowded that i would say it was very dangerous (approx 40 people standing in the centre isle).
+[-0.8948097229003906] I did not feel safe here at all.
+[-0.8704872131347656] I have never met a manager who actually YELLED at a customer till i met her.
+
+**********
+
+[0.7708778381347656] The hotel made guests feel welcome.
+Parent: Guests felt safe and welcome at the hotel.
+
+----- Supporting -----
+
+[0.7708778381347656] Once we arrived, the staff was friendly and welcoming with a guest service stand willing to help.
+[0.351165771484375] Hospitality can't fault clean sheets and towels daily also complimentry shampoo and soap.
+[0.3202838897705078] The staff were friendly and we were in our rooms within 10 minutes.
+[0.2942180633544922] Everyone at the hotel was pleasant and helpful.
+[0.2615966796875] hotel staff is fast,efficiant,& most of all friendly, i would not recommend this hotel to a friend,but i would recommend to all my friends thankyou Eugene V .
+
+----- Weakening -----
+
+[-0.97857666015625] I arrived in this hotel at 2am in the morning,went in to our room and the rooms i booked was not right and there was no kitchen,it stunk of mould,the carpet was dirty,had no wardrobe and no fridge.Went back to reception to complain and the man said there was no room to be moved to and no manager to talk to,i told him we would not be staying here as it is dirty and he offered me another room to look at(after telling me there was no other rooms avaliable),so at 2am we am looking at other rooms after a long journey there.The rooms were no different and we was so tired we said we would have to stay where we was and speak to the manager in the morning.In the morning we looked around the room and realised the sides of our beds were covered in mould,carpet was old,dirty and musty,coffee perculator did not work,a lamp did not work,our door when closed had a gap in it and did not feel safe,so had to take valuables out every day with us.Didnt even attempt to eat in the cafe area.WOULD NOT STAY HERE.DISGUSTING!!!!!
+[-0.9738616943359375] The staff was exteremly rude, rooms out dated and smelled!
+[-0.9488067626953125] Reception staff were not the friendliest but did suggest having 3rd (top) floor room to prevent any noise from above.
+[-0.931304931640625] I have never met a manager who actually YELLED at a customer till i met her.
+[-0.8583450317382812] After the sherrif arrived nobody even made it to our room to check on us or offer a different room.
+
+**********
+
+[0.829437255859375] The shuttle service was reliable.
+Parent: The shuttle service was reliable, and the air conditioning was effective.
+
+----- Supporting -----
+
+[0.829437255859375] The shuttle was rarely late and if you want to go home a bit earlier from the parks, ask for a taxi from Animal Kingdom which will cost about 12 dollars.
+[0.7798690795898438] The shuttle service (free) was on time (give or take 10 mins) to the theme parks.
+[0.217742919921875] We didn't want to drive so we relied on these and they took ages and were in a very bed condition.
+[0.09099197387695312] The transportation to the parks was a plus too, but there is only 2 trips to disney and 1 to universal and sea world, which is great if you dont have a car, but i recommend driving... there should be more... Also... there are plenty restaurants accross form the hotel to dine inn for a whole week....
+[0.025318145751953125] All the staff were extremely helpful, friendly and approachable.
+
+----- Weakening -----
+
+[-0.8770523071289062] It was very clean and our room was ok. the staff were very freindly and the only bad report that we have is with the shuttle busses.
+[-0.827362060546875] Don't take the free shuttle to Disney though as this is the first hotel on the pick up route and you'll spend an hour going round the other hotels picking people up only to drive past this hotel again on the way to Disney!
+[-0.7191619873046875] First, the shuttle service they offered took us to the wrong theme park 40 minutes late without any explanation.
+[-0.696746826171875] The hotel provides scheduled shuttle service to and from the major theme parks but the schedule is the problem, it leaves you little time to enjoy the sights and you probably won't finish any theme park if you were to follow the shuttle's sked.
+[-0.6780414581298828] Never ever use them again!
+
+**********
+
+[0.046688079833984375] The air conditioning worked well.
+Parent: The shuttle service was reliable, and the air conditioning was effective.
+
+----- Supporting -----
+
+[0.046688079833984375] The air con.
+[0.01743316650390625] Maintainance too was super quick.
+[0.011865615844726562] Flights great - would quite happily fly long haul with First Choice/Thomson Airways again.
+[0.008417129516601562] This hotel was great, if you phoned or reported a problem to the front desk someone turned up in under ten minutes to fix it.
+[0.005390167236328125] Rooms were clean, grounds were clean, staff was friendly.
+
+----- Weakening -----
+
+[-0.9571523666381836] I arrived in this hotel at 2am in the morning,went in to our room and the rooms i booked was not right and there was no kitchen,it stunk of mould,the carpet was dirty,had no wardrobe and no fridge.Went back to reception to complain and the man said there was no room to be moved to and no manager to talk to,i told him we would not be staying here as it is dirty and he offered me another room to look at(after telling me there was no other rooms avaliable),so at 2am we am looking at other rooms after a long journey there.The rooms were no different and we was so tired we said we would have to stay where we was and speak to the manager in the morning.In the morning we looked around the room and realised the sides of our beds were covered in mould,carpet was old,dirty and musty,coffee perculator did not work,a lamp did not work,our door when closed had a gap in it and did not feel safe,so had to take valuables out every day with us.Didnt even attempt to eat in the cafe area.WOULD NOT STAY HERE.DISGUSTING!!!!!
+[-0.8087921142578125] Never ever use them again!
+[-0.7964468002319336] Maintenace came and sprayed floor and when we woke the next morning there were ants on nightstand, dresser, bathroom walls and shower.
+[-0.74371337890625] STEER CLEAR!!
+[-0.6565818786621094] Won't stay there again!

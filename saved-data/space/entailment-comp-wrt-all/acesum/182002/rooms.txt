@@ -1,0 +1,23 @@
+***** Aspect: rooms Model Type : zs *****
+Overall score: 0.9865870475769043
+
+**********
+
+[0.9865870475769043] The room was spacious.
+Parent: The room was spacious.
+
+----- Supporting -----
+
+[0.9865870475769043] The room was spacious and clean with an extremely comfortable bed.
+[0.9856953620910645] The room itself was very spacious and clean.
+[0.9845890998840332] The room itself was spacious with a king size bed, a sofa, desk, coffee maker (which I did not use), and a chair.
+[0.9820446968078613] Room was spacious, spotlessly clean and I had a great view of the Toronto skyline from the 19th floor.
+[0.980952262878418] The rooms were spacious with queen sized beds, nice bathrooms, the view was decent out of our 5th floor rooms, and we had no real issues at all as far as the hotel went.
+
+----- Weakening -----
+
+[-0.9955883026123047] A few very minor complaints - the bathroom was very small and a bit cold, since the only heat was from a small baseboard heater.
+[-0.9948978424072266] The ramps are very steep, the spots are narrow and the driving room is almost non-existent.
+[-0.9948740005493164] The elevators are very small, it is cramped with 4 people with luggage.
+[-0.9943923950195312] It was small and not very clean.
+[-0.9930744171142578] The elevators are very small, so getting a cart and two bodies into the tight space was a difficult.

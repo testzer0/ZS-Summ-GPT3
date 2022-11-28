@@ -1,0 +1,170 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.6705658435821533
+
+**********
+
+[0.395294189453125] The building is in a safe neighborhood.
+Parent: The building was said to be in a safe neighborhood, close to the Eaton Center, and with several churches nearby.
+
+----- Supporting -----
+
+[0.395294189453125] Relatively safe neighborhood in the "gay" area, but there were a few crazies walking the streets and some just high on drugs.
+[0.0451202392578125] Several churches of different denominations are dotted around Allan Park that is across the street.
+[0.02735137939453125] It appears this hotel also serves as a university residence, but there was no noise issue with that.
+[0.016937255859375] There were lots of restaurants around, and found the area and city in general to be very family friendly.
+[0.01396942138671875] I saw some work being done in the lobby and wonder if they also did the rooms as our furniture looked to be new and had no damage or wear you normally see.
+
+----- Weakening -----
+
+[-0.8705558776855469] (Coming off the street, the turns were tight and narrow.)
+[-0.7678337097167969] You might also get stuck in the elevator, though the manager said that it happens all the time.
+[-0.7400436401367188] We were lost in a city we HAD never been in for 10 mintues during the night.
+[-0.6612472534179688] Our car was broken into.
+[-0.62481689453125] If you get on an elevator that is packed, forget about getting to the card reader.
+
+**********
+
+[0.5026092529296875] The building is close to the Eaton Center.
+Parent: The building was said to be in a safe neighborhood, close to the Eaton Center, and with several churches nearby.
+
+----- Supporting -----
+
+[0.5026092529296875] Several blocks walking to Eaton Center, the shopping mall nearby.
+[0.0007772445678710938] The property was much better then I expected.
+[-0.0012664794921875] You should also be aware that there are no fire sprinklers in the guest areas of the hotel.
+[-0.001277923583984375] I saw some work being done in the lobby and wonder if they also did the rooms as our furniture looked to be new and had no damage or wear you normally see.
+[-0.0014066696166992188] You might also get stuck in the elevator, though the manager said that it happens all the time.
+
+----- Weakening -----
+
+[-0.7108993530273438] Several churches of different denominations are dotted around Allan Park that is across the street.
+[-0.22008514404296875] the subway is just up the street .
+[-0.13669586181640625] Our car was broken into.
+[-0.08530426025390625] We were lost in a city we HAD never been in for 10 mintues during the night.
+[-0.05804443359375] Relatively safe neighborhood in the "gay" area, but there were a few crazies walking the streets and some just high on drugs.
+
+**********
+
+[0.5640869140625] The building is close to several churches.
+Parent: The building was said to be in a safe neighborhood, close to the Eaton Center, and with several churches nearby.
+
+----- Supporting -----
+
+[0.5640869140625] Several churches of different denominations are dotted around Allan Park that is across the street.
+[-4.76837158203125e-05] The property was much better then I expected.
+[-0.00057220458984375] I saw some work being done in the lobby and wonder if they also did the rooms as our furniture looked to be new and had no damage or wear you normally see.
+[-0.00084686279296875] Nice lobby.
+[-0.0010242462158203125] They have done some renovations to the lobby area which is now a nice granite counter and some darker woods which look very warm and inviting.
+
+----- Weakening -----
+
+[-0.4781494140625] Several blocks walking to Eaton Center, the shopping mall nearby.
+[-0.12320709228515625] Our car was broken into.
+[-0.05781364440917969] Relatively safe neighborhood in the "gay" area, but there were a few crazies walking the streets and some just high on drugs.
+[-0.051242828369140625] There were lots of restaurants around, and found the area and city in general to be very family friendly.
+[-0.04329681396484375] #1) Business Centre: no paper in printer, no pens, no envelopes, wi-fi slow and potentially virused #2) Several of the desk staff were cold and flat in their behaviour.
+
+**********
+
+[0.5181655883789062] The business center was not good.
+Parent: The business center was lacking, but the staff were friendly.
+
+----- Supporting -----
+
+[0.5181655883789062] #1) Business Centre: no paper in printer, no pens, no envelopes, wi-fi slow and potentially virused #2) Several of the desk staff were cold and flat in their behaviour.
+[0.028667449951171875] Be prepared to wait at least five minutes, and the doors sensors do not work, which was very annoying.
+[0.01804351806640625] There aren't many facilities and the internet in my room cut out once in a while.
+[0.0023193359375] The beds were comfortable and the sheets good quality but the furniture is pretty dated and the bathroom very tired looking.
+[-0.0017547607421875] We waited 25 minutes for a car to move and had to find management to clear it so we could proceed!
+
+----- Weakening -----
+
+[-0.9876537322998047] Nice lobby.
+[-0.969573974609375] Lobby seemed nice, there's a restaurant right off the lobby that is also very nice and the Tim Horton's attached to the hotel is a great perk for me (I need my Tim's coffee in the AM!).
+[-0.9397716522216797] The property was much better then I expected.
+[-0.9094009399414062] They have done some renovations to the lobby area which is now a nice granite counter and some darker woods which look very warm and inviting.
+[-0.8951797485351562] Tim Hortons right in the lobby which was very convenient.
+
+**********
+
+[0.9597625732421875] The staff was friendly.
+Parent: The business center was lacking, but the staff were friendly.
+
+----- Supporting -----
+
+[0.9597625732421875] However the staff were very pleasant and helpful, and the grand piano in the lobby was attractive but never played!
+[0.02929210662841797] It was quickley rectified and someone brought me a new iron within minuets.
+[0.01761341094970703] Nice lobby.
+[0.008388519287109375] There were lots of restaurants around, and found the area and city in general to be very family friendly.
+[0.007938385009765625] The property was much better then I expected.
+
+----- Weakening -----
+
+[-0.9808692932128906] #1) Business Centre: no paper in printer, no pens, no envelopes, wi-fi slow and potentially virused #2) Several of the desk staff were cold and flat in their behaviour.
+[-0.7378368377685547] Our car was broken into.
+[-0.20702743530273438] We were beside the elevator and at one point someone in the elevator kept hitting the alarm button and we could hear it.
+[-0.1809406280517578] Be prepared to wait at least five minutes, and the doors sensors do not work, which was very annoying.
+[-0.1447601318359375] On the way up to my room - I got stuck in an elevator.
+
+**********
+
+[0.5812091827392578] There were noise issues.
+Parent: There were some noise issues reported, but overall the building was family friendly and easy to get around.
+
+----- Supporting -----
+
+[0.5812091827392578] We were beside the elevator and at one point someone in the elevator kept hitting the alarm button and we could hear it.
+[0.216705322265625] We had many people coming for this conference that had scratched their cars or some that cracked their exhaust pipe.
+[0.10369873046875] You might also get stuck in the elevator, though the manager said that it happens all the time.
+[0.07614517211914062] It wasn't obvious and I only noticed it because I was accessing a wall plug behind the bedside table.
+[0.04504203796386719] We waited 25 minutes for a car to move and had to find management to clear it so we could proceed!
+
+----- Weakening -----
+
+[-0.857879638671875] It appears this hotel also serves as a university residence, but there was no noise issue with that.
+[-0.421356201171875] Only small issue was when I went to iron my pants the iron was broken.
+[-0.077301025390625] You should also be aware that there are no fire sprinklers in the guest areas of the hotel.
+[-0.0684356689453125] Which made it easy to stumble through the lobby drunk and singing at 1:00 a.m.
+[-0.06826400756835938] Nice lobby.
+
+**********
+
+[0.9039764404296875] The building was family friendly.
+Parent: There were some noise issues reported, but overall the building was family friendly and easy to get around.
+
+----- Supporting -----
+
+[0.9039764404296875] There were lots of restaurants around, and found the area and city in general to be very family friendly.
+[0.004955291748046875] The property was much better then I expected.
+[-0.0041046142578125] Several blocks walking to Eaton Center, the shopping mall nearby.
+[-0.0066986083984375] Tim Hortons right in the lobby which was very convenient.
+[-0.0075836181640625] Nice lobby.
+
+----- Weakening -----
+
+[-0.7687301635742188] #1) Business Centre: no paper in printer, no pens, no envelopes, wi-fi slow and potentially virused #2) Several of the desk staff were cold and flat in their behaviour.
+[-0.7502593994140625] Our car was broken into.
+[-0.6134262084960938] We had many people coming for this conference that had scratched their cars or some that cracked their exhaust pipe.
+[-0.5579757690429688] You have to drive very slow and carefully to make sure you don't damage your car.
+[-0.5485458374023438] If you get on an elevator that is packed, forget about getting to the card reader.
+
+**********
+
+[0.939422607421875] The building was easy to navigate.
+Parent: There were some noise issues reported, but overall the building was family friendly and easy to get around.
+
+----- Supporting -----
+
+[0.939422607421875] We also experienced the subway and found it was very easy to get around.
+[0.66607666015625] Which made it easy to stumble through the lobby drunk and singing at 1:00 a.m.
+[0.08301544189453125] Tim Hortons right in the lobby which was very convenient.
+[0.009674072265625] It was quickley rectified and someone brought me a new iron within minuets.
+[0.007701873779296875] the subway is just up the street .
+
+----- Weakening -----
+
+[-0.9946651458740234] We were lost in a city we HAD never been in for 10 mintues during the night.
+[-0.9940295219421387] On the way up to my room - I got stuck in an elevator.
+[-0.9922881126403809] You might also get stuck in the elevator, though the manager said that it happens all the time.
+[-0.9916114807128906] (Coming off the street, the turns were tight and narrow.)
+[-0.9906902313232422] You have to drive very slow and carefully to make sure you don't damage your car.

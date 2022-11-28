@@ -1,0 +1,42 @@
+***** Aspect: location Model Type : simcse *****
+Overall score: 0.7184505760669708
+
+**********
+
+[0.9896048903465271] The location of the hotel is good, with access to some great restaurants.
+
+----- Supporting -----
+
+[0.9896048903465271] The hotel is in a nice location with good access to some great restaurants.
+[0.7899020910263062] the hotel has an excellent in house restaurant with plenty on the menu and delectable choices.
+[0.7672233581542969] Location is good, there are lots of restaurant options nearby.
+[0.6465244293212891] The hotel is located in the heart of downtown Dallas near several shops and restaurants.
+[0.6299639940261841] The area around the hotel isn't exactly swanky.
+
+----- Weakening -----
+
+[-0.06453780084848404] You get no view .
+[0.0018516108393669128] The guest who remained were forced to go across the street to a dive bar where the b-day girl began to cry uncontrollably over her ruined special evening.
+[0.0029604588635265827] All in all... we will be back just the two of us for anniversary.
+[0.025425491854548454] The only downside was that I was there in January, and the Poule was not open.
+[0.03755440190434456] In less than 30 seconds we were unloaded, vehicle whisked away for parking.
+
+**********
+
+[0.44729626178741455] However, it is also in a somewhat cramped area with a loading dock at the front of the building.
+
+----- Supporting -----
+
+[0.44729626178741455] There is a Neiman Marcus and a decent Mexican restaurant next door, but there's also a boarded up building.
+[0.4289088249206543] This hotel has a very cramped feel.
+[0.4200843572616577] The pool was nice as was the fitness center but with tiny cramped rooms, lack of customer service (I tried calling the desk 3 times and never go through) and the loading dock at the front of the building, I wouldn't recommend it.
+[0.3920111656188965] parking is a bit expensive but what do you expect in downtown... we did find a parking garage a couple of blocks on elm street.
+[0.38282647728919983] The view from the lower floors is kinda cruddy and the street noise might get loud on the weekend.
+
+----- Weakening -----
+
+[-0.12527893483638763] I could not have had a more relaxing anniversary weekend.
+[-0.0945621132850647] our names, what we liked, everyone congratulated us on our anniversary!
+[-0.09204627573490143] We had dinner and breakfast at the hotel restaurant Charlie Palmers and it was excellent.
+[-0.09183451533317566] Dinner at Charlie Palmer's was terrific and it finished with an anniversary card of sorts with a message spelled in chocolate at the top of our unbelievably rich Peanut Butter Bar - which btw, was practically a religious experience!
+[-0.0690416619181633] We went to the Rangers game and when we came back to the hotel, there was a complimentary bottle of champagne and two glasses for our anniversary.

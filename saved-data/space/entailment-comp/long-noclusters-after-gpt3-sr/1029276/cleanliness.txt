@@ -1,0 +1,23 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.0501708984375
+
+**********
+
+[0.0501708984375] The hotel was clean.
+Parent: The reviews said that the cleanliness of the hotel was fine.
+
+----- Supporting -----
+
+[0.0501708984375] Room was very sub-standard for cleanliness...floor looked like it never gets vacuumed.
+[0.025316238403320312] It was very clean.
+[0.02266693115234375] The valet employees are very quick and nice.
+[0.007110595703125] The valet was efficient and always had our car available when we exited the elevator.
+[0.00630950927734375] Concierge desk was extremely helpful (leave a tip).
+
+----- Weakening -----
+
+[-0.9857444763183594] They also did an extremely lousy job in cleaning the room.
+[-0.9765682220458984] The toaster was broken as well, with burned out elements.
+[-0.9724750518798828] One or two issues during our stay included :- Housekeeping - at least 2 days out of the 5 our room was not made up and we had to chase housekeeping.
+[-0.9609775543212891] Too many hobos and drug addicts!!!
+[-0.9155693054199219] called hotel reception 3 times and no towels were ever delivered.

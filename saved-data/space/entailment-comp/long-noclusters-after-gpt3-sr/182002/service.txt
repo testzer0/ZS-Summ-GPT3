@@ -1,0 +1,128 @@
+***** Aspect: service Model Type : zs *****
+Overall score: 0.49585191408793133
+
+**********
+
+[0.9915609359741211] The staff was friendly.
+Parent: Overall, reviewers found the staff friendly and helpful, and the hotel clean and modern.
+
+----- Supporting -----
+
+[0.9915609359741211] The staff were friendly and helpful.
+[0.9901242256164551] The staff was friendly.
+[0.9894251823425293] The staff were friendly and efficient.
+[0.9866700172424316] The staff were very friendly and cheery and the kids also liked the Tim Hortons in the lobby for the donuts.
+[0.9865131378173828] Staff were very helpful and friendly.
+
+----- Weakening -----
+
+[-0.9966096878051758] The staff were rude and quite useless, they just seemed annoyed and unwilling to help no matter how polite we were.
+[-0.9956388473510742] The front desk person was very abrupt and had a serious attitude problem.
+[-0.9953594207763672] The front desk staff were very unfriendly and always seemed to make matters overly complicated.
+[-0.995025634765625] Looks very disgruntled employees they have got.
+[-0.9917526245117188] Rude appearing staff.
+
+**********
+
+[0.9900565147399902] The staff were helpful.
+Parent: Overall, reviewers found the staff friendly and helpful, and the hotel clean and modern.
+
+----- Supporting -----
+
+[0.9900565147399902] The staff were nice and helpful.
+[0.9895486831665039] The staff were friendly and helpful.
+[0.9871835708618164] Staff were very helpful and friendly.
+[0.9781570434570312] The staff were friendly, helpful and the view of the Toronto skyline I had from my room was great.
+[0.9781355857849121] I found the staff to be helpful and courteous as well.
+
+----- Weakening -----
+
+[-0.9976210594177246] The staff were rude and quite useless, they just seemed annoyed and unwilling to help no matter how polite we were.
+[-0.9966344833374023] The front desk staff were very unfriendly and always seemed to make matters overly complicated.
+[-0.9911842346191406] One front desk was outright rude and unhelpful for several requests which had to be handled by a morning person who was confused why the evening staff wouldn't help me until I told her the staff name and she rolled her eyes and suggested I speak with management.
+[-0.987823486328125] hair bath front desk staff unhappy and helpless.
+[-0.9742889404296875] Looks very disgruntled employees they have got.
+
+**********
+
+[0.2904224395751953] The hotel was clean.
+Parent: Overall, reviewers found the staff friendly and helpful, and the hotel clean and modern.
+
+----- Supporting -----
+
+[0.2904224395751953] Everyday Our bed was made up with fresh sheets ,the was rubbish emptied and clean towels were provided.
+[0.22683143615722656] Everything was spotlessly clean and comfortable and the staff were very helpful and polite.
+[0.11151123046875] The front desk staff were superb and went out of their way to help with one girl at the front desk loaning me her personal umbrella so I could go to the shops without getting soaked.
+[0.1099395751953125] Housekeeping and front desk staff were all very nice and friendly.
+[0.08392333984375] Spend the extra money and stay somewhere clean with friendly service.
+
+----- Weakening -----
+
+[-0.9529953002929688] But from the time they told us we had to go get public parking down the street, to mixed up room arrangement, through just rude service, and a tile falling from the bathroom wall, the price was not worth it.
+[-0.9516105651855469] #1) Business Centre: no paper in printer, no pens, no envelopes, wi-fi slow and potentially virused #2) Several of the desk staff were cold and flat in their behaviour.
+[-0.9162311553955078] In my entire life, I have never been treated in such a rude, disrespecting manner.
+[-0.89813232421875] I had called down to front desk to ask for some extra towels and they were giving me a hard time.
+[-0.8944892883300781] i did not feel threatened at all because of the 'shady area' which was mentioned in some reviews.
+
+**********
+
+[0.08988189697265625] The hotel is modern.
+Parent: Overall, reviewers found the staff friendly and helpful, and the hotel clean and modern.
+
+----- Supporting -----
+
+[0.08988189697265625] The staff at checkin was quick to notice our children were a little fussy and provided crayons and coloring books that calmed them right down, The room was huge complete with microwave and small fridge so we could warm up left over which is always important travelling with kids.
+[0.05015754699707031] My other reason for choosing this hotel was the fact that they have free wireless internet access which was much needed.
+[0.032115936279296875] There was also a business room where you could enjoy free internet and use of the fax and printer.
+[0.03200531005859375] Great wi-fi service too.
+[0.027925491333007812] Hotel has free wireless internet that I used in my room and in the Lobby that worked well.
+
+----- Weakening -----
+
+[-0.7690200805664062] #1) Business Centre: no paper in printer, no pens, no envelopes, wi-fi slow and potentially virused #2) Several of the desk staff were cold and flat in their behaviour.
+[-0.44122314453125] But from the time they told us we had to go get public parking down the street, to mixed up room arrangement, through just rude service, and a tile falling from the bathroom wall, the price was not worth it.
+[-0.40839385986328125] It was so slow it was practically useless.
+[-0.407470703125] It was built using cheap consumer-grade access points instead of business grade ones that are more reliable and can be centrally managed.
+[-0.35547637939453125] In my entire life, I have never been treated in such a rude, disrespecting manner.
+
+**********
+
+[0.59490966796875] The parking was too expensive.
+Parent: Some reviewers found the parking to be a bit expensive, but others appreciated its convenience.
+
+----- Supporting -----
+
+[0.59490966796875] But from the time they told us we had to go get public parking down the street, to mixed up room arrangement, through just rude service, and a tile falling from the bathroom wall, the price was not worth it.
+[-0.012385368347167969] I was just on a business trip and because of circumstances had to stay at the Primrose for one night before I came back to the States.
+[-0.013222694396972656] From the time we got our parking permit until the time we checked out we had nothing but polite staff.
+[-0.015924453735351562] After doing much research, I found this to be an acceptable hotel.
+[-0.017353057861328125] Well I was wrong.
+
+----- Weakening -----
+
+[-0.8924646377563477] We got an excellent rate because we were doing business in the hotel.
+[-0.8444747924804688] Many places I visit charge ridicules rates for internet so the fact it was free was great.
+[-0.786865234375] The wireless Internet, while free, is not even worth that price.
+[-0.5986404418945312] When I complained about the elevators and wireless he just stood there with no apology or good explanation other than it would be too expensive to fix the elevators and it was all the guests' fault anyway for the elevator getting stuck since there were 8 people in the elevator (it's rated for 12 people).
+[-0.5922508239746094] Everyday Our bed was made up with fresh sheets ,the was rubbish emptied and clean towels were provided.
+
+**********
+
+[0.018280029296875] The parking was convenient.
+Parent: Some reviewers found the parking to be a bit expensive, but others appreciated its convenience.
+
+----- Supporting -----
+
+[0.018280029296875] From the time we got our parking permit until the time we checked out we had nothing but polite staff.
+[0.00305938720703125] The staff was friendly.
+[0.002445220947265625] The staff were nice and helpful.
+[0.0022373199462890625] The staff were really cool and the place was in a good location.
+[0.001934051513671875] The staff were friendly and helpful.
+
+----- Weakening -----
+
+[-0.9108161926269531] The hotel books a lot of bus tours, and some mornings it can take a very long time to get an elevator, because they are being monopolized by the bus tourists, who are all trying to leave at once.
+[-0.8488731384277344] You'll get on for a couple minutes and then it will flake out and you'll spend the next 10 minutes trying to reconnect.
+[-0.7713851928710938] In my entire life, I have never been treated in such a rude, disrespecting manner.
+[-0.609954833984375] The problem is you do not see where your box is being placed and how it is secured.
+[-0.5823211669921875] It was so slow it was practically useless.

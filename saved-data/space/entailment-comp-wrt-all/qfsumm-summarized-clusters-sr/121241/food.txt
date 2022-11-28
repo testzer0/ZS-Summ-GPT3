@@ -1,0 +1,233 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.8171231963417747
+
+**********
+
+[0.9322967529296875] We had dinner at Montana Mikes.
+Parent: The places we had dinner " Montana Mikes " and " Florentina 's " were both really good food and great service .
+
+----- Supporting -----
+
+[0.9322967529296875] The places we had dinner "Montana Mikes" and " Florentina's" were both really good food and great service.
+[0.005218505859375] It was great!
+[0.003452301025390625] It was wonderful!
+[0.001674652099609375] The service was great.
+[0.00109100341796875] The service was great!
+
+----- Weakening -----
+
+[-0.9865865707397461] There was no restaurant, bar and the ATM did not work.
+[-0.9865779876708984] An excellent breakfast buffet (coffee, orange juice, donuts, 2 large containers of scrambled eggs, same with biscuits and same with 2 sausage gravy containers…as one went close to empty, it was removed and refilled.
+[-0.9850406646728516] The breakfast offered cereal, doughnuts, toast, eggs, biscuits and gravy, fresh waffles, fruit, juices, milk and coffee.
+[-0.980565071105957] Their hot breakfast was included and was excellent with eggs, sauage, biscuits and gravey, and french toast as well as cereal and youart.
+[-0.9766159057617188] The breakfast (free & hot) was perfect and the staff was very accommodating.
+
+**********
+
+[0.8073081970214844] Florentina's is a great place to have dinner.
+Parent: The places we had dinner " Montana Mikes " and " Florentina 's " were both really good food and great service .
+
+----- Supporting -----
+
+[0.8073081970214844] The places we had dinner "Montana Mikes" and " Florentina's" were both really good food and great service.
+[0.04666900634765625] Our package included Belgian waffles and biscuits and gravy the next morning with a breathtaking view out the widespread windows in the dining room of the Ozark mountains on a crisp sunny morning.
+[0.025007247924804688] the staff and mangement are great.
+[0.024532318115234375] The room they serve it in is huge.
+[0.02386474609375] Overall, we were very pleased with our stay at the Stone Castle and would definitely stay there again, especiall for the great rate that we got!
+
+----- Weakening -----
+
+[-0.9704685211181641] The breakfast offered cereal, doughnuts, toast, eggs, biscuits and gravy, fresh waffles, fruit, juices, milk and coffee.
+[-0.9683837890625] An excellent breakfast buffet (coffee, orange juice, donuts, 2 large containers of scrambled eggs, same with biscuits and same with 2 sausage gravy containers…as one went close to empty, it was removed and refilled.
+[-0.9662971496582031] Their hot breakfast was included and was excellent with eggs, sauage, biscuits and gravey, and french toast as well as cereal and youart.
+[-0.9593381881713867] The breakfast is great!
+[-0.9575881958007812] They have an excellent continental breakfast.
+
+**********
+
+[0.8711729049682617] The food was good.
+Parent: The places we had dinner " Montana Mikes " and " Florentina 's " were both really good food and great service .
+
+----- Supporting -----
+
+[0.8711729049682617] The places we had dinner "Montana Mikes" and " Florentina's" were both really good food and great service.
+[0.8309059143066406] The breakfast was very good.
+[0.7717704772949219] Breakfast was very good; I am a relatively picky eater and I don't understand why other reviews complain about the breakfast, especially given the cost of this hotel.
+[0.7696170806884766] The breakfast was excellent.
+[0.7413444519042969] The breakfast was good and the breakfast entertainment was a nice touch.
+
+----- Weakening -----
+
+[-0.9577827453613281] There was no restaurant, bar and the ATM did not work.
+[-0.763519287109375] The first time the hot tub was a little dirty and the breakfast not so great.
+[-0.7560577392578125] They do not have room service, restaurant or bar.
+[-0.7401046752929688] That is when we noticed the sign-no beverages or food allowed in pool room.
+[-0.7394647598266602] The room was filthy and disgusting!
+
+**********
+
+[0.9474868774414062] The food at Florentina's was good.
+Parent: The places we had dinner " Montana Mikes " and " Florentina 's " were both really good food and great service .
+
+----- Supporting -----
+
+[0.9474868774414062] The places we had dinner "Montana Mikes" and " Florentina's" were both really good food and great service.
+[0.32087135314941406] The price was unbeatable, the staff was helpful, and the breakfast (Which was included) was fantastic!
+[0.20773887634277344] Their hot breakfast was included and was excellent with eggs, sauage, biscuits and gravey, and french toast as well as cereal and youart.
+[0.16124534606933594] An excellent breakfast buffet (coffee, orange juice, donuts, 2 large containers of scrambled eggs, same with biscuits and same with 2 sausage gravy containers…as one went close to empty, it was removed and refilled.
+[0.1443023681640625] The breakfast is great and the pool and hot-tub an added plus.
+
+----- Weakening -----
+
+[-0.7912168502807617] The room was filthy and disgusting!
+[-0.7862186431884766] The breakfast was very bland and the music show wasn't that great either.
+[-0.7700614929199219] There was no restaurant, bar and the ATM did not work.
+[-0.7341117858886719] They do not have room service, restaurant or bar.
+[-0.6242465972900391] Still nothing.
+
+**********
+
+[0.8341293334960938] The service at Montana Mikes was great.
+Parent: The places we had dinner " Montana Mikes " and " Florentina 's " were both really good food and great service .
+
+----- Supporting -----
+
+[0.8341293334960938] The places we had dinner "Montana Mikes" and " Florentina's" were both really good food and great service.
+[0.27423858642578125] We stayed with a group recently and all had a good time....the group had experienced problems unrelated to the hotel but when we got there the treatment and service we received was wonderful.....we were made to feel right at home......I believe Joe was the gentleman who greeted us and was very kind and professional.....Maryann (I think that was her name) in the breakfast room was an absolute angel.....she went out of her way to make everyone feel special........this is an excellent choice for groups-affordable......receptive to needs.......Also the in charge cleaning lady was very professional and friendly.
+[0.26848411560058594] The price was unbeatable, the staff was helpful, and the breakfast (Which was included) was fantastic!
+[0.246429443359375] Overall, we were very pleased with our stay at the Stone Castle and would definitely stay there again, especiall for the great rate that we got!
+[0.21549224853515625] Everything was great---Front desk people were friendly and was always willing to help in anyway...Rooms were clean and fresh..Breakfast was good and good music to listen too....I would rate this hotel and one of the best Branson has to offer.
+
+----- Weakening -----
+
+[-0.9911174774169922] Dog was barking in room across the hall all day and night, one of us stepped in dog feces in the parking lot and tracked it into the room :( A group of ill guests vomited just outside the entry door, massive amounts, when we called to ask that it be cleaned up due to health hazards front desk staff was rude!
+[-0.9879755973815918] We got bad reception and approx 15 channels - most of which were news or informational.
+[-0.9870328903198242] They did not give one person a packet, the Front Desk staff was downright snarky, as if I was asking them to do to much.
+[-0.981170654296875] The hotel messed up the Cocktail Hour suite for both nights, and when I called to complain they did NOTHING to make it right, it was so clear that they could actually care less that I was unhappy.
+[-0.9804134368896484] There was no restaurant, bar and the ATM did not work.
+
+**********
+
+[0.9363002777099609] The service at Florentina's was great.
+Parent: The places we had dinner " Montana Mikes " and " Florentina 's " were both really good food and great service .
+
+----- Supporting -----
+
+[0.9363002777099609] The places we had dinner "Montana Mikes" and " Florentina's" were both really good food and great service.
+[0.500030517578125] We stayed with a group recently and all had a good time....the group had experienced problems unrelated to the hotel but when we got there the treatment and service we received was wonderful.....we were made to feel right at home......I believe Joe was the gentleman who greeted us and was very kind and professional.....Maryann (I think that was her name) in the breakfast room was an absolute angel.....she went out of her way to make everyone feel special........this is an excellent choice for groups-affordable......receptive to needs.......Also the in charge cleaning lady was very professional and friendly.
+[0.334197998046875] I just spent 4 days in Branson on business and found the Stone Castle to be both a convienient location and a great value with a staff that amied to please.
+[0.21332931518554688] Overall, we were very pleased with our stay at the Stone Castle and would definitely stay there again, especiall for the great rate that we got!
+[0.1814727783203125] Everything was great---Front desk people were friendly and was always willing to help in anyway...Rooms were clean and fresh..Breakfast was good and good music to listen too....I would rate this hotel and one of the best Branson has to offer.
+
+----- Weakening -----
+
+[-0.9866914749145508] Dog was barking in room across the hall all day and night, one of us stepped in dog feces in the parking lot and tracked it into the room :( A group of ill guests vomited just outside the entry door, massive amounts, when we called to ask that it be cleaned up due to health hazards front desk staff was rude!
+[-0.980137825012207] We got bad reception and approx 15 channels - most of which were news or informational.
+[-0.9798984527587891] We would never go back to this property again, because of the condition of the property, and the bad oders.
+[-0.9766716957092285] Nasty staff.
+[-0.9756808280944824] They were very rude!
+
+**********
+
+[0.983487606048584] There was food on the floor.
+Parent: my wife found some food on the floor from the previous occupants while trying to plug in the computer .
+
+----- Supporting -----
+
+[0.983487606048584] my wife found some food on the floor from the previous occupants while trying to plug in the computer.
+[0.9605484008789062] Breakfast was on our floor and smelled the hallway up a little, so much so that we weren't interested in eating it.
+[0.70947265625] The breakfast offered cereal, doughnuts, toast, eggs, biscuits and gravy, fresh waffles, fruit, juices, milk and coffee.
+[0.63714599609375] An excellent breakfast buffet (coffee, orange juice, donuts, 2 large containers of scrambled eggs, same with biscuits and same with 2 sausage gravy containers…as one went close to empty, it was removed and refilled.
+[0.635650634765625] They offered breakfast and it was much more than your average cereal and donuts.
+
+----- Weakening -----
+
+[-0.9329452514648438] I used the iron and when I pressed the steam button rusty water sprayed all over the shirt I was ironing.
+[-0.9176864624023438] They do not have room service, restaurant or bar.
+[-0.89971923828125] There were dead bugs floating in the water, a hole in the wall under the window, a piece of wood holding a slide glass door open, chains on other doors that said "this entrance is in need of repairs, sorry for any inconvenience" or something to that affect.
+[-0.8967323303222656] Two swimming pools for the kids.
+[-0.8878707885742188] There are a couple of swimming pools and hot tubs available that are open early in the morning to very late at night.
+
+**********
+
+[0.3248291015625] The food was old.
+Parent: my wife found some food on the floor from the previous occupants while trying to plug in the computer .
+
+----- Supporting -----
+
+[0.3248291015625] never saw it...oh unless they mean the old fruit on the table with the juice.
+[0.104034423828125] The breakfast was very bland and the music show wasn't that great either.
+[0.05303955078125] It was kinda moldy around the bathtub.
+[0.03249359130859375] As for the hotel itself, it is old and outdated.
+[0.0272674560546875] However, it too had a dirty feel to it.
+
+----- Weakening -----
+
+[-0.9952473640441895] Breakfast was warm and fresh, the people were all very friendly.
+[-0.9855880737304688] He appreciated the staff that continuously kept everything filled and fresh.
+[-0.9821128845214844] You can see the new renovation and it is very nice.
+[-0.981255054473877] I have to give a shout out for Mary Ann and Tammy, who make our dining experiences, which is 3 times a day for 4 days, absolutely amazing!
+[-0.9812164306640625] the beds are so fresh and smell good.so close to sleeping in my own beds.
+
+**********
+
+[0.9880342483520508] My wife was trying to plug in the computer.
+Parent: my wife found some food on the floor from the previous occupants while trying to plug in the computer .
+
+----- Supporting -----
+
+[0.9880342483520508] my wife found some food on the floor from the previous occupants while trying to plug in the computer.
+[0.1449127197265625] I had to go out to my laptop and bring it in to show her both conformations for our rooms and she finally found it.
+[0.0] !
+[0.0] love them.
+[0.0] very nice.
+
+----- Weakening -----
+
+[-0.9044933319091797] My husband ended up standing by the window and picking up wireless from a nearby business.
+[-0.8346290588378906] The staff who was very friendly tried cleaning the AC unit, however it didn't help.
+[-0.774810791015625] The man that took the reservation was very helpful.
+[-0.7123146057128906] My son found a long hair in his pancake.
+[-0.6936988830566406] When my wife and I were trying to find a hotel to stay in for a weekend family vacation, we came across this hotel.
+
+**********
+
+[0.9699993133544922] The price was reduced.
+Parent: they did reduce it to $ 98.00 difference in priginal price .
+
+----- Supporting -----
+
+[0.9699993133544922] they did reduce it to $98.00 difference in priginal price.
+[0.9524755477905273] We also got a reduced rate through another booking event, but I was already intrigued with the idea of the themed rooms.
+[0.9027366638183594] My Son was very young at the time and wanted to stay there as he liked knights and horses and they have statues of them at the entrance and inside the building, We decided to humor ourselves and stop by and see how much a room would be and we found that it was quite affordable and had many extras to offer.
+[0.87030029296875] We stayed with a group recently and all had a good time....the group had experienced problems unrelated to the hotel but when we got there the treatment and service we received was wonderful.....we were made to feel right at home......I believe Joe was the gentleman who greeted us and was very kind and professional.....Maryann (I think that was her name) in the breakfast room was an absolute angel.....she went out of her way to make everyone feel special........this is an excellent choice for groups-affordable......receptive to needs.......Also the in charge cleaning lady was very professional and friendly.
+[0.7868270874023438] The other hotel was less expensive and much better.
+
+----- Weakening -----
+
+[-0.8250732421875] I don't mind paying more money for a nice place to stay but when the motel is in the shape of the Stone Castle Motel, I would not reccommend it to anyone.
+[-0.822662353515625] The price was unbeatable, the staff was helpful, and the breakfast (Which was included) was fantastic!
+[-0.807525634765625] For the great deal we got on this place, we were well pleased.
+[-0.7789230346679688] The price was great.
+[-0.76763916015625] Stay away at all costs.
+
+**********
+
+[0.393310546875] The new price is cheaper than the original price.
+Parent: they did reduce it to $ 98.00 difference in priginal price .
+
+----- Supporting -----
+
+[0.393310546875] they did reduce it to $98.00 difference in priginal price.
+[0.326934814453125] We also got a reduced rate through another booking event, but I was already intrigued with the idea of the themed rooms.
+[0.067962646484375] They offer a good discount for Silver Dollar City season ticket holders.
+[0.0382080078125] Rates were very affordable.
+[0.0374908447265625] My Son was very young at the time and wanted to stay there as he liked knights and horses and they have statues of them at the entrance and inside the building, We decided to humor ourselves and stop by and see how much a room would be and we found that it was quite affordable and had many extras to offer.
+
+----- Weakening -----
+
+[-0.77545166015625] i requesded a room w/o the oder, they were more than ready to accomidate my repuest, and gave us a theam room for $50.00 a night more than we were paying.
+[-0.3855438232421875] I give this Hotel the highest available.
+[-0.3774566650390625] Overall, we were very pleased with our stay at the Stone Castle and would definitely stay there again, especiall for the great rate that we got!
+[-0.37545013427734375] On day 2, we found a bug in bed, checked out.
+[-0.3306121826171875] The price was unbeatable, the staff was helpful, and the breakfast (Which was included) was fantastic!

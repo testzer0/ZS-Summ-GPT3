@@ -1,0 +1,170 @@
+***** Aspect: rooms Model Type : zs *****
+Overall score: 0.8147609233856201
+
+**********
+
+[0.9863133430480957] The rooms at the hotel are clean.
+Parent: The rooms at the hotel are generally clean, spacious, and comfortable, although some guests have complained about the smell.
+
+----- Supporting -----
+
+[0.9863133430480957] The hotel was nice; good clean rooms.
+[0.9696359634399414] My room and bathroom were both very clean and the service at the hotel was friendly, The check in process could be slow and it would be helpful if the airline crews were not given first priority to jump in front of everyone waiting.
+[0.9609336853027344] The hotel was clean, beds were fine, hotel is located across the street from the air port, was within walking distance to a Denny's, Jack in the Box, and a steak place.
+[0.807586669921875] Yes, the hotel is large and somewhat dated - but the cleanliness and service is very goo d. My only blip was with a faulty magnetic door reader that prevented us from gaining access to our room.
+[0.7591915130615234] This hotel is clean, neat and offers good value for the money.
+
+----- Weakening -----
+
+[-0.9835963249206543] This property is a mess.
+[-0.9808616638183594] Upon further inspection of the room, the older bathroom wood doors were dirty from years of use-these "Hilton Honors" rooms really need refurbishing.
+[-0.9769496917724609] It was so liquified that it spilled all over my hand and burned me terribly.
+[-0.9762630462646484] The bathroom was dirty and stained.
+[-0.9745779037475586] When we found our room we discovered that the bathroom hadn't been cleaned and there were dirty towels lying around.
+
+**********
+
+[0.9901914596557617] The rooms are spacious.
+Parent: The rooms at the hotel are generally clean, spacious, and comfortable, although some guests have complained about the smell.
+
+----- Supporting -----
+
+[0.9901914596557617] The rooms are very spacious and very nice.
+[0.9629535675048828] The rooms were gorgeous and spacious and comfortable.
+[0.9565305709838867] The rooms were very spacious, modern and clean.
+[0.9553489685058594] Spacious room and very comfortable bedding.
+[0.9442539215087891] The rooms are relatively spacious, our kids love the pool, and the breakfast buffet isn't a bad deal for what you get.
+
+----- Weakening -----
+
+[-0.9747467041015625] Rooms are not particularly posh or large.
+[-0.9698867797851562] The fitness room is small but the bedrooms are standard.
+[-0.959747314453125] Room was highly run down.
+[-0.9325046539306641] There were also 2 cigarette butts on the small patio.
+[-0.9286766052246094] Complimentary shuttle nice although couldn't fit everyone on a Sunday mid-AM!
+
+**********
+
+[0.9793376922607422] The rooms at the hotel are comfortable.
+Parent: The rooms at the hotel are generally clean, spacious, and comfortable, although some guests have complained about the smell.
+
+----- Supporting -----
+
+[0.9793376922607422] Too bad considering the hotel facilities are lovely and the rooms are comfortable and spacious.
+[0.971796989440918] Pros: - cookies upon check-in - one of my favorite things about the Doubletrees - complimentary airport shuttle every 15 mins - nice pools, rooms are very comfortable with excellent beds and Neutrogena toiletries and Wolfgang Puck coffee - nice food selection in hotel Cons: - parking is expensive - $16/night.
+[0.9715785980224609] Hotel is very close the the airport and room was comfortable.
+[0.9673380851745605] For an airport hotel, it was surprisingly quiet, rooms were extremely comfortable and well prepared, and the staff were all extremely helpful and courteous.
+[0.8685684204101562] Beds are SO comfortable and the best sleep I have gotten at a hotel.
+
+----- Weakening -----
+
+[-0.9086074829101562] It was so liquified that it spilled all over my hand and burned me terribly.
+[-0.8790473937988281] When you finally reach your room the heaters all make tremendous noise, rattle, rumble.
+[-0.8258132934570312] The crappy wings are old and the rooms smell musty.
+[-0.823516845703125] Have stayed at cheaper hotels with park n fly and they are always scary!
+[-0.8147048950195312] Anyway, I requested a non-smoking room but the floor smelled like the stench of smoke.
+
+**********
+
+[0.5490779876708984] The guests are unhappy with the smell.
+Parent: The rooms at the hotel are generally clean, spacious, and comfortable, although some guests have complained about the smell.
+
+----- Supporting -----
+
+[0.5490779876708984] The shuttle was hot and smelly again and people were mad.
+[0.104095458984375] We wanted to carry our own luggage and got tired of the bell hops asking if they could take it for us.
+[0.021087646484375] Also, charge for parking for overnight quests leaves a sour taste.
+[0.0033473968505859375] Very conveinient for early morning flights.
+[0.002582550048828125] It must be an unhappy place to work because it sure comes through to the customer.
+
+----- Weakening -----
+
+[-0.8993501663208008] :) The only complaint is - parking for overnight cost $16, and on top of that, we had $1.40 of tax!!!
+[-0.8689098358154297] On check in, the warm chocolate chip cookies were a lovely touch.
+[-0.8549346923828125] We really liked the Doubletree Sea-Tac.
+[-0.837554931640625] The hotel reception had a lovely smell of freshly baked cookies which were given out at check in and were delicious.
+[-0.7847442626953125] Breakfast was delicious in the coffee shop, hot scones with jam and coffee.
+
+**********
+
+[0.9834027290344238] The beds are comfortable.
+Parent: The beds are comfortable, and the hotel is quiet overall.
+
+----- Supporting -----
+
+[0.9834027290344238] Beds are SO comfortable and the best sleep I have gotten at a hotel.
+[0.9802923202514648] The beds were comfortable and the room was very clean.
+[0.9782886505126953] Beds were very comfortble .
+[0.9669761657714844] Beds are comfy, showers are great - the floors are marble which made going to the bathroom a little painful on the feet (COLD FLOORS!).
+[0.9583578109741211] The beds were very comfortable, room large enough for wheelchair, and bathroom clean.
+
+----- Weakening -----
+
+[-0.9548454284667969] It was so liquified that it spilled all over my hand and burned me terribly.
+[-0.8298110961914062] Whenever my husband moved, I felt like we were on a boat in rough water.
+[-0.8109817504882812] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+[-0.8084030151367188] Keep your children away from these set ups, they are going to injure someone terribly!
+[-0.7934722900390625] The chocolate chip cookies are always a treat.
+
+**********
+
+[0.9554386138916016] The hotel is quiet.
+Parent: The beds are comfortable, and the hotel is quiet overall.
+
+----- Supporting -----
+
+[0.9554386138916016] For an airport hotel, it was surprisingly quiet, rooms were extremely comfortable and well prepared, and the staff were all extremely helpful and courteous.
+[0.9447669982910156] Even though the hotel was close to the airport, you couldn't haer the planes taking off, it was quiet and very relaxing.
+[0.8890495300292969] Pros - Very close to airport, very quiet rooms (you cant hear the airplanes taking off even though it is right across from the airport), friendly staff, VERY comfortable beds with lots of pillows, large rooms, ice and vending machines close to all rooms, nicely appointed bathrooms, free shuttle (runs every 20 min, no reservation needed), convenience store on site, ATM, warm cookies on check in.
+[0.7520160675048828] It may cost a little more to stay here, but we feel it is worth it for the quiet rooms and the very comfortable beds.
+[0.6881103515625] OUR overall stay was great, would have been nice to have no feathered pillows , not having a MICROWAVE,REFRIDG not cool, they charge each day for a roll away bed they said they would accomumdate for up to five in one room stayed three days so used blankets on the floor for the two boys I requested four blanket but had to go down to argue after only getting one they charge for wi-fi in room, LOBBY FREE- charge for daily parking no continuial breakfast without charging all these should change I called on phone for the entertainment book checking in nope they dont take it close to many places to eat,bank and even small cascino the airport close yes somewhat noisy but hey what one is not only during day time night time very quiet staff quiet friendly HOUSEKEEPING WONDERFUL yes i would recommend this hotel to others it'sa nice place is great for summer as with pool only on outsde .
+
+----- Weakening -----
+
+[-0.9976372718811035] We couldn't hear them in our room (thankfully), but they were pretty loud throughout the hotel.
+[-0.997227668762207] I changed rooms six times before deciding that all the wings were the same with traffic noise, heater noise, and all the hiking and dragging bags from room to room.
+[-0.995844841003418] When you finally reach your room the heaters all make tremendous noise, rattle, rumble.
+[-0.9948759078979492] Princess has the contract for cruise passengers so you'll meet a lot of people coming and going on trips in the lobby or restaurant.
+[-0.9946918487548828] The hotel is big and busy, so it always feels like there is some commotion going on in the common areas.
+
+**********
+
+[0.837615966796875] The food prices are too high.
+Parent: However, some guests have complained about the food prices and overall cost of the hotel.
+
+----- Supporting -----
+
+[0.837615966796875] Food was good, but a bit overpriced.
+[0.6513519287109375] With the $20 a night parking, internet fees, and insane food pricing I would expect a much more modern, bigger, and clean room.
+[0.6351470947265625] The room service was horribly overpriced-- not only do they charge 18% more than listed price, the listed prices in the rooms are ALREADY higher than in the restaurant ($2 more on soups and $3-$8 more on entrees/burgers).
+[0.47442626953125] Food was very expensive in restaurant and just okay.
+[0.061248779296875] That worked well for me since the food at the hotel is fairly pricey.
+
+----- Weakening -----
+
+[-0.997699499130249] Restaurant food was excellent and reasonably priced and breakfast was good.
+[-0.9782505035400391] The rooms are relatively spacious, our kids love the pool, and the breakfast buffet isn't a bad deal for what you get.
+[-0.9674496650695801] Cheap toiletries, few towels.
+[-0.9589133262634277] I was able to purchase a reasonably priced bottle of Oregon pinot noir for in-room consumption.
+[-0.9466285705566406] (For the discounted price) The room was very large, faced the airport, but was still quiet.
+
+**********
+
+[0.2367095947265625] The overall cost of the hotel was too high.
+Parent: However, some guests have complained about the food prices and overall cost of the hotel.
+
+----- Supporting -----
+
+[0.2367095947265625] The room service was horribly overpriced-- not only do they charge 18% more than listed price, the listed prices in the rooms are ALREADY higher than in the restaurant ($2 more on soups and $3-$8 more on entrees/burgers).
+[0.09441375732421875] With the $20 a night parking, internet fees, and insane food pricing I would expect a much more modern, bigger, and clean room.
+[0.0738372802734375] I thought it was a little expensive for a hotel not located in the center of the city to charge $15 per day to park a car.
+[0.06539154052734375] Priceline should be ASHAMED of rating it up with the Hilton SEATAC, where I was placed on the first night.
+[0.040859222412109375] If I had transportation and didn't have events at the hotel, I would look a few miles away for a better buy for the money.
+
+----- Weakening -----
+
+[-0.9888896942138672] Very big, spread out hotel with very reasonable rates and nice rooms, although some are a bit of a convoluted walk from reception.
+[-0.9664287567138672] The room was a bit basic and dated but it was inexpensive and we could leave our car in their car park while we were on holiday.
+[-0.9593329429626465] Overall it was still a reasonable deal though.
+[-0.9527573585510254] It's a solid 3* hotel and good value.
+[-0.9378151893615723] Overall I was quite pleased as we paid only $50 through Priceline.

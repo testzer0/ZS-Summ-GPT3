@@ -1,0 +1,275 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.8293650700495794
+
+**********
+
+[0.009204864501953125] The hotel is far from DFW airport.
+Parent: The hotel is around 40 minutes from DFW airport in downtown Dallas.
+
+----- Supporting -----
+
+[0.009204864501953125] I would highly recommend this hotel as a great place to get away and enjoy downtown Dallas.
+[0.0091552734375] This hotel is wonderful, business traveler or just getting away.
+[0.00339508056640625] It might be where the young people of Texas go to spend their money on dinner and drinks in the bar but its not the place to stay overnight.
+[0.0033245086669921875] Stayed here for a leisure weekend.
+[0.00312042236328125] Great room for a relaxing weekend getaway.
+
+----- Weakening -----
+
+[-0.9629135131835938] The hotel is about 40 minutes from DFW airport in downtown Dallas.
+[-0.746185302734375] I will hopefully be back -- as the revitalized Main St. has a lot of action on the weekends and this hotel sits right in the middle!
+[-0.620391845703125] As an order of french toast was around $20 I decided to walk down the street (out the front, down one block to left, take a left and Seven Eleven was on the right) and get a donut and some milk.
+[-0.600982666015625] The location in the heart of Dallas offers easy access to everything that the city has to offer.
+[-0.53643798828125] Location is in middle of downtown but lots of activities close by.
+
+**********
+
+[0.9867563247680664] The hotel is in downtown Dallas.
+Parent: The hotel is around 40 minutes from DFW airport in downtown Dallas.
+
+----- Supporting -----
+
+[0.9867563247680664] The hotel is located in the heart of downtown Dallas near several shops and restaurants.
+[0.9588642120361328] The Joule is one of the best hotels in downtown Dallas, the interior of the hotel is gorgeous as are the rooms.
+[0.928741455078125] The hotel is about 40 minutes from DFW airport in downtown Dallas.
+[0.9052810668945312] The hotel sits in the heart of Dallas.
+[0.8782577514648438] I would highly recommend this hotel as a great place to get away and enjoy downtown Dallas.
+
+----- Weakening -----
+
+[-0.6297760009765625] We had dinner at Nobu which is in Crescent Court which was really good too.
+[-0.597259521484375] Went to Joule for anniversary get-away.
+[-0.5916595458984375] In a New York minute.
+[-0.43170166015625] Need a ride to the State Fair?
+[-0.4241943359375] Also for the ladies one of Dallas' best spas (Sedona - lady's only) is across the street but make sure and get appointment in advance as my wife couldn't get same day appointment on Saturday.
+
+**********
+
+[0.432861328125] The front desks are small.
+Parent: The front desks are not huge, but has a fairly open seating and meeting place.
+
+----- Supporting -----
+
+[0.432861328125] The front deks area is not huge, but has a farily open seating and meeting place.
+[0.12459564208984375] They had free bottle of wine and chocolates in our room for our anniversary which was nice but I had to ask 3 times for ice bucket (it is small hotel so there are no ice machines on the floors).
+[0.069580078125] The rooms are tiny and open like most W's and the focus on being trendy, not on customer service nor amenities.
+[0.0419769287109375] This hotel has a very cramped feel.
+[0.0248870849609375] 2 - We stayed in the Demi-Joule room and it was very small.
+
+----- Weakening -----
+
+[-0.9134883880615234] Large, quiet, excellent!
+[-0.758758544921875] The pool is small but they keep it very cool and refreshing.
+[-0.6729736328125] The adults at the pool were making out to the point a few of the couples should have went back to their rooms, needless to say we didn't stay at the pool long.
+[-0.67010498046875] The roof top pool was like a spa and even though it was 102 degrees, it felt very comfortable because of the fans and the misting system.
+[-0.66156005859375] The pool (or Poule as they call it) is as nice as any you will find, glass on the end which extends out at 10 stories high.
+
+**********
+
+[0.9824447631835938] The front desk has an open seating and meeting place.
+Parent: The front desks are not huge, but has a fairly open seating and meeting place.
+
+----- Supporting -----
+
+[0.9824447631835938] The front deks area is not huge, but has a farily open seating and meeting place.
+[0.74163818359375] BTW, the pool and PM Lounge are really cool!
+[0.3513031005859375] That night we visited the PM Lounge that's located in the basement of the hotel.
+[0.05364990234375] The staff made us feel welcome and relaxed from the minute we pulled up to the valet stand.
+[0.048553466796875] I'm a simple southern girl and don't like anything too 'frou frou', but the waiter was incredibly patient and courteous.
+
+----- Weakening -----
+
+[-0.7731409072875977] The pool was nice as was the fitness center but with tiny cramped rooms, lack of customer service (I tried calling the desk 3 times and never go through) and the loading dock at the front of the building, I wouldn't recommend it.
+[-0.76629638671875] The adults at the pool were making out to the point a few of the couples should have went back to their rooms, needless to say we didn't stay at the pool long.
+[-0.752197265625] Admittedly the open bathroom concept may not suit a lot of people so be aware â€¢ Food â€“ Charlie Palmer is a very very good restaurant.
+[-0.7498321533203125] Well it started off BAD within 10 mins we had went to the pool where we find about 5 young ladies workin and just stood there looking like we where not even there, so I was like excuse me can I get a drink.
+[-0.727081298828125] The pool was completely packed with drunk, tattooed twenty-somethings like spring break in Daytona.
+
+**********
+
+[0.9895281791687012] The room was spacious.
+Parent: The room was spacious enough, with a big glass wall on the outside, a 42" flat screen TV, and terrific lighting arrangements that allowed you to adjust the brightness in various parts of the room.
+
+----- Supporting -----
+
+[0.9895281791687012] The room was spacious enough, with a big glass wall on the outside, a 42" flat screen TV, and terrific lighting arrangements that allowed you to adjust the brightness in various parts of the room.
+[0.9650516510009766] The Joule Suite was classy, comfortable and spacious.
+[0.9318618774414062] absolutely beautiful property, rooms are spacious and modern, roof-top pool area is excellent, and restaurant is 5-star.
+[0.8318023681640625] The beds were comfortable, the bathrooms are spacious and luxurious with all the amenities you could ask for.
+[0.717620849609375] Having said at, the bathroom was big, and really nice.
+
+----- Weakening -----
+
+[-0.9961414337158203] The pool was nice as was the fitness center but with tiny cramped rooms, lack of customer service (I tried calling the desk 3 times and never go through) and the loading dock at the front of the building, I wouldn't recommend it.
+[-0.9951753616333008] The rooms are tiny and open like most W's and the focus on being trendy, not on customer service nor amenities.
+[-0.9947872161865234] Only little tiny thing is the location ...
+[-0.994598388671875] This hotel has a very cramped feel.
+[-0.9940643310546875] The room was surprisingly small and the bed was terrible, i liked the idea of a round bed as it is unique but it was very awkward and felt cheap..not a luxury collection standard.
+
+**********
+
+[0.9878392219543457] The room had a big glass wall.
+Parent: The room was spacious enough, with a big glass wall on the outside, a 42" flat screen TV, and terrific lighting arrangements that allowed you to adjust the brightness in various parts of the room.
+
+----- Supporting -----
+
+[0.9878392219543457] The room was spacious enough, with a big glass wall on the outside, a 42" flat screen TV, and terrific lighting arrangements that allowed you to adjust the brightness in various parts of the room.
+[0.74066162109375] The pool (or Poule as they call it) is as nice as any you will find, glass on the end which extends out at 10 stories high.
+[0.002849578857421875] This is the Perfect Hotel!!!
+[0.0024318695068359375] Having said at, the bathroom was big, and really nice.
+[0.002044677734375] It was so nice!!!
+
+----- Weakening -----
+
+[-0.9618873596191406] My kids especially liked the drapes the separated the bedroom from the bathroom area.
+[-0.9157638549804688] We loved the auto curtains and bathroom facilities.
+[-0.833953857421875] Two balconies offer two views.
+[-0.8076019287109375] I opened my curtains to a view of the construction site.
+[-0.7358322143554688] There is a giant gear in the lobby (floor to ceiling, turning another gear in the ceiling - just have to see it).
+
+**********
+
+[0.9934549331665039] The room had a 42" flat screen TV.
+Parent: The room was spacious enough, with a big glass wall on the outside, a 42" flat screen TV, and terrific lighting arrangements that allowed you to adjust the brightness in various parts of the room.
+
+----- Supporting -----
+
+[0.9934549331665039] The room was spacious enough, with a big glass wall on the outside, a 42" flat screen TV, and terrific lighting arrangements that allowed you to adjust the brightness in various parts of the room.
+[0.00096893310546875] It was so nice!!!
+[0.00034809112548828125] We stayed in a Junior Suite and it was well equipped.
+[0.0002880096435546875] Not only was the hotel incredible with an amazing room, but the service and amenities are top notch.
+[0.0002689361572265625] I know that from Jennifer that checked us in with her welcoming smile we would have a good time.
+
+----- Weakening -----
+
+[-0.9092721939086914] It was a salt water pool on the 12th floor that juts out over Main Street in Dallas.
+[-0.8442840576171875] The pool is small but they keep it very cool and refreshing.
+[-0.8176651000976562] We used the house car, a Cadillac Escalade which took us around, nice touch but the car wasnt as clean as it should have been and the driver didnt seem like he wanted to take us.
+[-0.7995758056640625] We both loved the shower.
+[-0.7237548828125] Biggest issue was when we picked up our car from the valet parking.
+
+**********
+
+[0.9808034896850586] The room had great lighting.
+Parent: The room was spacious enough, with a big glass wall on the outside, a 42" flat screen TV, and terrific lighting arrangements that allowed you to adjust the brightness in various parts of the room.
+
+----- Supporting -----
+
+[0.9808034896850586] The room was spacious enough, with a big glass wall on the outside, a 42" flat screen TV, and terrific lighting arrangements that allowed you to adjust the brightness in various parts of the room.
+[0.9748806953430176] The bathroom was beautiful with a large soaking tub, a shower room and excellent lighting.
+[0.9297518730163574] The furniture was nice, the bed was extremely comfortable, and I loved the lighting system.
+[0.8803443908691406] The rooms are astonishing, my favorite detail in the entire room was the lights that are built into the headboard.
+[0.7581443786621094] Back to the Penthouse...what a view of Dallas, both at night with all the lights and then again in the morning when we met for breakfast.
+
+----- Weakening -----
+
+[-0.9968242645263672] I do think it is a lovely hotel but I would like to mention the lighting in the rooms was terrible.
+[-0.9909963607788086] Dark and moody still.
+[-0.9731559753417969] Lobby is very nice, if a bit "tries to hard" and dark.
+[-0.9478416442871094] Also the maids probably need to consider dusting in the bathroom lights becuase they were covered in dust!
+[-0.8748397827148438] Great hotel interiors, dark moody decor in rooms.
+
+**********
+
+[0.9798741340637207] The pool was crowded.
+Parent: The pool was completely packed with drunk, tattooed twenty-somethings like spring break in Daytona.
+
+----- Supporting -----
+
+[0.9798741340637207] The pool was completely packed with drunk, tattooed twenty-somethings like spring break in Daytona.
+[0.9758110046386719] The pool area was packed and we had a cabana reserved for us.
+[0.5590457916259766] When the elevator opened on the floor of the pool, we could already hear and feel the bass from the LOUD music and crowd.
+[0.4597129821777344] The adults at the pool were making out to the point a few of the couples should have went back to their rooms, needless to say we didn't stay at the pool long.
+[0.2587890625] Well it started off BAD within 10 mins we had went to the pool where we find about 5 young ladies workin and just stood there looking like we where not even there, so I was like excuse me can I get a drink.
+
+----- Weakening -----
+
+[-0.996119499206543] Not only was no one swimming in the pool - but all of the "beautiful people" - I assume from the evening's party - were still hanging around in cocktail dresses and sportcoats.
+[-0.977264404296875] After my first drink we had to flag down a girl to ask for another as the pool area was not busy maybe 6 other people so ni reason for service to be that bad.
+[-0.9508895874023438] The pool was amazing as well, met a lot of nice couples on my stay, everyone was very laid back and had a great time!
+[-0.8958301544189453] The bed was very comfy.
+[-0.8731002807617188] AND the pool was closed for a "photo shoot" that took up the whole pool for a majority of the afternoon.
+
+**********
+
+[0.9737544059753418] The people in the pool were drunk.
+Parent: The pool was completely packed with drunk, tattooed twenty-somethings like spring break in Daytona.
+
+----- Supporting -----
+
+[0.9737544059753418] The pool was completely packed with drunk, tattooed twenty-somethings like spring break in Daytona.
+[0.09979248046875] The roof top pool area is so romatic and the bartenders keep your glasses full.
+[0.032623291015625] It had a mini-Vegas poolside vibe.
+[0.0283660888671875] The adults at the pool were making out to the point a few of the couples should have went back to their rooms, needless to say we didn't stay at the pool long.
+[0.0168609619140625] It was very crowded, you could barely move, but the drinks were very good.
+
+----- Weakening -----
+
+[-0.9609098434448242] The pool was amazing as well, met a lot of nice couples on my stay, everyone was very laid back and had a great time!
+[-0.8539524078369141] The front desk staff was very nice and smiled.
+[-0.8158493041992188] The actual service at the front desk seemed a bit patchy, depending on who was there.
+[-0.808837890625] The Staff went above and beyond.
+[-0.7998561859130859] She was so friendly and attentive!
+
+**********
+
+[0.970515251159668] The people in the pool were tattooed.
+Parent: The pool was completely packed with drunk, tattooed twenty-somethings like spring break in Daytona.
+
+----- Supporting -----
+
+[0.970515251159668] The pool was completely packed with drunk, tattooed twenty-somethings like spring break in Daytona.
+[0.0] The pool!
+[0.0] jackpot.
+[0.0] !
+[0.0] !
+
+----- Weakening -----
+
+[-0.9111156463623047] Everything was clean and well maintained.
+[-0.8990821838378906] The front desk staff was very nice and smiled.
+[-0.8975296020507812] The big white dress later that night was a dead giveaway.
+[-0.8819084167480469] The bartenders were atttentive.
+[-0.881103515625] The actual service at the front desk seemed a bit patchy, depending on who was there.
+
+**********
+
+[0.828857421875] The people in the pool were young adults.
+Parent: The pool was completely packed with drunk, tattooed twenty-somethings like spring break in Daytona.
+
+----- Supporting -----
+
+[0.828857421875] The pool was completely packed with drunk, tattooed twenty-somethings like spring break in Daytona.
+[0.57122802734375] Well it started off BAD within 10 mins we had went to the pool where we find about 5 young ladies workin and just stood there looking like we where not even there, so I was like excuse me can I get a drink.
+[0.1160888671875] The staff are all young and good looking with little knowledge of service expectations.
+[0.10595703125] Bryce, Bryson & Nikki, they should recieve and outstanding service award.
+[0.0543212890625] 2) Visit the Poule at the Joule - Make sure to ask for Todd or Stephen & make sure to swim to the edge and overlook the city.
+
+----- Weakening -----
+
+[-0.9766998291015625] Our tweens loved the salt water heated infinity pool, the Charlie Palmer bar, awesome room service and gorgeous room......we live in Carrollton, but felt we had traveled to another luxurious country!
+[-0.9418716430664062] The pool was too chilly for the kids to spend much time in it, but that isn't surprising for this time of year.
+[-0.8415985107421875] My kids especially liked the drapes the separated the bedroom from the bathroom area.
+[-0.834197998046875] A friend and I decided to have a fun girls weekend away in Dallas and one of the hotels we'd heard was great was the Joule.
+[-0.8316726684570312] We stayed in a Junior Suite and it was well equipped.
+
+**********
+
+[0.6658515930175781] The pool was too crowded.
+Parent: The pool was completely packed with drunk, tattooed twenty-somethings like spring break in Daytona.
+
+----- Supporting -----
+
+[0.6658515930175781] The pool was completely packed with drunk, tattooed twenty-somethings like spring break in Daytona.
+[0.33316612243652344] The adults at the pool were making out to the point a few of the couples should have went back to their rooms, needless to say we didn't stay at the pool long.
+[0.09430885314941406] The pool area was packed and we had a cabana reserved for us.
+[0.016468048095703125] When the elevator opened on the floor of the pool, we could already hear and feel the bass from the LOUD music and crowd.
+[0.00624847412109375] The guest who remained were forced to go across the street to a dive bar where the b-day girl began to cry uncontrollably over her ruined special evening.
+
+----- Weakening -----
+
+[-0.9978015422821045] The pool was amazing as well, met a lot of nice couples on my stay, everyone was very laid back and had a great time!
+[-0.9964957237243652] Not only was no one swimming in the pool - but all of the "beautiful people" - I assume from the evening's party - were still hanging around in cocktail dresses and sportcoats.
+[-0.9946928024291992] After my first drink we had to flag down a girl to ask for another as the pool area was not busy maybe 6 other people so ni reason for service to be that bad.
+[-0.9726600646972656] Large, quiet, excellent!
+[-0.9716334342956543] The staff made us feel welcome and relaxed from the minute we pulled up to the valet stand.

@@ -1,0 +1,149 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.47839573451450895
+
+**********
+
+[0.7334704399108887] The food at the hotel is good.
+Parent: The food at the hotel is good, with some people finding it excellent.
+
+----- Supporting -----
+
+[0.7334704399108887] The food is excellent ( both room service and in the resto) and they have a micro brewery on site.
+[0.6049613952636719] The room was beautiful, the staff were very pleasant and the food from the restiarant Downstairs was delicious.
+[0.40311717987060547] The in room breakfast was exceptional and reasonably priced as were the items in the mini-bar.
+[0.25382328033447266] Our evening snack on the patio was delicious, relaxing and we had a lovely server...again most helpful and obliging...and the view!
+[0.12763404846191406] The event I attended had a lunch and reception in the restaurant and the food was fantastic.
+
+----- Weakening -----
+
+[-0.823333740234375] The public market was amazing in the variety and quality of the food - nothing at all like the sad collection of vegetable stalls that you find at most UK town markets.
+[-0.7910919189453125] Food isnt great but you are right by the market.
+[-0.6866664886474609] I didn't have any meals at the hotel so can't comment on that.
+[-0.48270416259765625] The food market made me wish I was cooking and not eating out at restaurants!
+[-0.42742919921875] so that when we bought food to bring back to the room, we had nothing to eat it with.
+
+**********
+
+[0.6983456611633301] The food at the hotel is excellent.
+Parent: The food at the hotel is good, with some people finding it excellent.
+
+----- Supporting -----
+
+[0.6983456611633301] The food is excellent ( both room service and in the resto) and they have a micro brewery on site.
+[0.5783290863037109] The room was beautiful, the staff were very pleasant and the food from the restiarant Downstairs was delicious.
+[0.3886299133300781] The in room breakfast was exceptional and reasonably priced as were the items in the mini-bar.
+[0.21848201751708984] Our evening snack on the patio was delicious, relaxing and we had a lovely server...again most helpful and obliging...and the view!
+[0.13629436492919922] The event I attended had a lunch and reception in the restaurant and the food was fantastic.
+
+----- Weakening -----
+
+[-0.9838237762451172] Food isnt great but you are right by the market.
+[-0.9528908729553223] I didn't have any meals at the hotel so can't comment on that.
+[-0.9350194931030273] so that when we bought food to bring back to the room, we had nothing to eat it with.
+[-0.8636322021484375] The public market was amazing in the variety and quality of the food - nothing at all like the sad collection of vegetable stalls that you find at most UK town markets.
+[-0.6676101684570312] The food market made me wish I was cooking and not eating out at restaurants!
+
+**********
+
+[0.00620269775390625] The portions are too small.
+Parent: However, there are complaints about the small portions, high prices, and slow service.
+
+----- Supporting -----
+
+[0.00620269775390625] Food isnt great but you are right by the market.
+[0.0041351318359375] * Way over priced and not the price I had booked online Overall this is a good choice for the location and if it is within your budget, just don't expect too much.
+[-0.0023670196533203125] For old times sake, we even had lunch at the Old Spaghetti Factory, but the food wasn't very good, so we decided to give the city a miss and pootle around the Island instead .
+[-0.00457763671875] We needed to be able to provide some of our own food, so asked to have the mini bar emptied so we could use the fridge, and for a microwave, although it wasn't a regular part of the room.
+[-0.00653839111328125] The food market made me wish I was cooking and not eating out at restaurants!
+
+----- Weakening -----
+
+[-0.9022941589355469] However the soap was a good and generous size.
+[-0.6343212127685547] Food/service was faultless.
+[-0.5600643157958984] The event I attended had a lunch and reception in the restaurant and the food was fantastic.
+[-0.5599775314331055] They served everything from made-to-order Eggs Benedict to fruit and pastries to salmon and bacon and fresh-made waffles and...
+[-0.5112600326538086] There are a variety of options at a reasonable price.
+
+**********
+
+[0.70965576171875] The prices are too high.
+Parent: However, there are complaints about the small portions, high prices, and slow service.
+
+----- Supporting -----
+
+[0.70965576171875] * Way over priced and not the price I had booked online Overall this is a good choice for the location and if it is within your budget, just don't expect too much.
+[0.09723091125488281] In this day with gas prices so high and people not traveling as much, they seriously need a reality check or else this place will close down because of all the negative reviews.
+[0.084381103515625] I probably wouldn't eat there though if I was paying for it myself as the menu was pretty expensive and there are several great places to eat elsewhere on the Island.
+[0.006626129150390625] I expect more considering the price.
+[0.002475738525390625] The food market made me wish I was cooking and not eating out at restaurants!
+
+----- Weakening -----
+
+[-0.9963176250457764] The in room breakfast was exceptional and reasonably priced as were the items in the mini-bar.
+[-0.9957947731018066] There are a variety of options at a reasonable price.
+[-0.994708776473999] If you want to visit downtown just take the water taxi or "aqua bus" these little boats are fun, not very expensive and the quickest way to gt there.
+[-0.6619482040405273] I thought the penthouse was well worth the money for a romantic stay compared to the other hotels we considered.
+[-0.5701532363891602] They asked me if I wouldn’t mind waiting as they offered to make it from scratch… highly worth the wait.
+
+**********
+
+[0.0082855224609375] The service is slow.
+Parent: However, there are complaints about the small portions, high prices, and slow service.
+
+----- Supporting -----
+
+[0.0082855224609375] In this day with gas prices so high and people not traveling as much, they seriously need a reality check or else this place will close down because of all the negative reviews.
+[0.000545501708984375] I didn't have any meals at the hotel so can't comment on that.
+[-0.00075531005859375] For old times sake, we even had lunch at the Old Spaghetti Factory, but the food wasn't very good, so we decided to give the city a miss and pootle around the Island instead .
+[-0.001682281494140625] Water Taxi's and walking paths are right there if you want to head out to English Bay or Yaletown.
+[-0.00202178955078125] so that when we bought food to bring back to the room, we had nothing to eat it with.
+
+----- Weakening -----
+
+[-0.9477939605712891] Right on the water.
+[-0.8504505157470703] Great food and great service.
+[-0.6687488555908203] Awesome food, service and view!
+[-0.6164588928222656] If you want to visit downtown just take the water taxi or "aqua bus" these little boats are fun, not very expensive and the quickest way to gt there.
+[-0.5752849578857422] They served everything from made-to-order Eggs Benedict to fruit and pastries to salmon and bacon and fresh-made waffles and...
+
+**********
+
+[0.2858314514160156] The hotel is conveniently located near the Public Market.
+Parent: The hotel is conveniently located near the Public Market, where there are a variety of food options.
+
+----- Supporting -----
+
+[0.2858314514160156] Food isnt great but you are right by the market.
+[0.046184539794921875] The two water taxis companies serving Granville Island make it very accessible to downtown as well.
+[0.01651763916015625] There are several shops and plenty of excellent places to eat FRESH seafood, including the Dockside Restaurant and pub (microbrew).
+[0.0131378173828125] The market is a must go too.
+[0.00811004638671875] The market itself is so interesting and the food is wonderful.
+
+----- Weakening -----
+
+[-0.37807655334472656] Really rocking and that's not a bad thing eh :) But chasing down something to eat this late on the island was hopeless.
+[-0.32001304626464844] so that when we bought food to bring back to the room, we had nothing to eat it with.
+[-0.217987060546875] Right on the water.
+[-0.08383941650390625] It was a bottle of wine with a miniature tuxedo jacket around the bottle.
+[-0.07692718505859375] In this day with gas prices so high and people not traveling as much, they seriously need a reality check or else this place will close down because of all the negative reviews.
+
+**********
+
+[0.9069786071777344] The food options near the Public Market are varied.
+Parent: The hotel is conveniently located near the Public Market, where there are a variety of food options.
+
+----- Supporting -----
+
+[0.9069786071777344] The public market was amazing in the variety and quality of the food - nothing at all like the sad collection of vegetable stalls that you find at most UK town markets.
+[0.5551910400390625] you could easily spend most of your time there since there are lots of restaurants and a fantastic public market featuring lots of food.
+[0.45371150970458984] The market itself is so interesting and the food is wonderful.
+[0.10036659240722656] The food is excellent ( both room service and in the resto) and they have a micro brewery on site.
+[0.09327125549316406] There are several shops and plenty of excellent places to eat FRESH seafood, including the Dockside Restaurant and pub (microbrew).
+
+----- Weakening -----
+
+[-0.5210170745849609] so that when we bought food to bring back to the room, we had nothing to eat it with.
+[-0.23041534423828125] Really rocking and that's not a bad thing eh :) But chasing down something to eat this late on the island was hopeless.
+[-0.0638580322265625] I thought the penthouse was well worth the money for a romantic stay compared to the other hotels we considered.
+[-0.0589752197265625] It was a bottle of wine with a miniature tuxedo jacket around the bottle.
+[-0.0507049560546875] I disagree: the beers are lightweight.

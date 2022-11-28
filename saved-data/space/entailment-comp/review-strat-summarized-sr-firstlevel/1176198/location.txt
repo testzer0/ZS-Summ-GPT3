@@ -1,0 +1,401 @@
+***** Aspect: location Model Type : zs *****
+Overall score: 0.7934440060665733
+
+**********
+
+[0.7827377319335938] The location is not close.
+Parent: The first review said that the location was not as close as the rental agency said it would be, and that the reviewer's back got worse as a result.
+
+----- Supporting -----
+
+[0.7827377319335938] Not near a subway, but no need, we walked everywhere.
+[0.4852294921875] The rental agency was farther than they said, and my back got worse.
+[0.4449462890625] Convenient location, quiet and large room (mine was very quiet, while some rooms are not because of the proximity of night clubs), wonderful breakfast, free Internet.
+[0.159912109375] While it is a few blocks from the subway, there are streetcar stops at the end of the street.
+[0.09429931640625] The location was good for us but it is definitely not the nicest area of town.
+
+----- Weakening -----
+
+[-0.9918174743652344] This place is very close to the Toronto Domino Bank office which is located in Royal Trust Tower 77 King Street West.
+[-0.9898281097412109] Close to everything downtown and the shops and restaurants of Queen St. & King St. W.... within easy walk distance of the theater district as well.
+[-0.98876953125] Talk about the location & amenities - Location is very central with all major attractions close by - walked everywhere.
+[-0.9880619049072266] It's right in the middle of the entertainment district which means you are near everything.
+[-0.9878063201904297] Close to lots of restaurants, a Whole Foods and two streetcar lines making it easy to get around.
+
+**********
+
+[0.6805877685546875] The rental agency was not accurate.
+Parent: The first review said that the location was not as close as the rental agency said it would be, and that the reviewer's back got worse as a result.
+
+----- Supporting -----
+
+[0.6805877685546875] The rental agency was farther than they said, and my back got worse.
+[0.0843963623046875] When we asked where the nearest self park ramp was, no one had a clue!
+[0.01263427734375] It's pretty clear that this hotel did not train the staff before opening: You can only valet park your car for $35.
+[-0.0068511962890625] I was able to jerk the system a bit by parking elsewhere and walking a couple blocks.
+[-0.0091400146484375] So it would have been much safer and cheaper to park the car at the hotel.
+
+----- Weakening -----
+
+[-0.8971176147460938] Well done Hilton!
+[-0.8610191345214844] Great rates, Great location, friendly staff.
+[-0.7619171142578125] The restaurant food was excellent-we had chicken stir fry and shrimp pasta.
+[-0.72613525390625] My girlfriend and I stayed at the Hilton Garden Inn over the July-August long weekend and had a great time!
+[-0.7056045532226562] Great Location , great price.
+
+**********
+
+[0.1923828125] The first review said that the reviewer's back got worse.
+Parent: The first review said that the location was not as close as the rental agency said it would be, and that the reviewer's back got worse as a result.
+
+----- Supporting -----
+
+[0.1923828125] The rental agency was farther than they said, and my back got worse.
+[-0.009220123291015625] Three of us stayed for two nights on a hectic trip, arriving on an overnight flight from the States.
+[-0.013820648193359375] It's pretty clear that this hotel did not train the staff before opening: You can only valet park your car for $35.
+[-0.019043922424316406] However, it's right next to a really noisy nightclub.
+[-0.027673721313476562] I would avoid the restaurant in the hotel as the service is slow and inconsistent.
+
+----- Weakening -----
+
+[-0.8823623657226562] We had no trouble getting there - handy to Lakeshore Blvd.
+[-0.8714447021484375] My girlfriend and I stayed at the Hilton Garden Inn over the July-August long weekend and had a great time!
+[-0.8585128784179688] GOOD: Location is awesome!!!
+[-0.8044700622558594] Excellent location!
+[-0.7648277282714844] Great rates, Great location, friendly staff.
+
+**********
+
+[0.27313232421875] The second review mentioned the location.
+Parent: The second review said that the location was good.
+
+----- Supporting -----
+
+[0.27313232421875] Great rates, Great location, friendly staff.
+[0.1282196044921875] We really enjoyed our stay here, it is in good location in the Entertainment district, and though we didn't try the restauant or breakfast it looked very good!
+[0.106201171875] The only 2 things I didn't appreciate were out of the control of the hotel: first there is a club right next to the hotel and we could hear the loud music coming from the club late at night (being on the 3rd and 15th floor).
+[0.073486328125] Say what you liked best & least - The best part in my opinion was the view of the CN Tower, but not every room will have that - other than that it would have to be the room size and beds.
+[0.014007568359375] Talk about the location & amenities - Location is very central with all major attractions close by - walked everywhere.
+
+----- Weakening -----
+
+[-0.1622600555419922] When we asked where the nearest self park ramp was, no one had a clue!
+[-0.113311767578125] If you have a car, consider the cost of parking.
+[-0.1116180419921875] I was sick the last day and my husband and son ditched me to tour around.
+[-0.075042724609375] my wife and i were on vacay.
+[-0.07482147216796875] The rental agency was farther than they said, and my back got worse.
+
+**********
+
+[0.9701042175292969] The location was good.
+Parent: The second review said that the location was good.
+
+----- Supporting -----
+
+[0.9701042175292969] The location was excellent, right across the street really from Theatres and Second City Comedy club.
+[0.9694156646728516] Location was fantastic.
+[0.9536952972412109] The location was wonderful, a stones throw from King Street which is the entertainment district area.
+[0.9521150588989258] Location is good, close to nightlife, shopping, restaurants and Chinatown.
+[0.9472274780273438] Excellent location!
+
+----- Weakening -----
+
+[-0.1309967041015625] The rental agency was farther than they said, and my back got worse.
+[-0.09228515625] Another thing is try to avoid the public parking across the hotel.
+[-0.046478271484375] When we asked where the nearest self park ramp was, no one had a clue!
+[-0.0328369140625] The only 2 things I didn't appreciate were out of the control of the hotel: first there is a club right next to the hotel and we could hear the loud music coming from the club late at night (being on the 3rd and 15th floor).
+[-0.029022216796875] So it would have been much safer and cheaper to park the car at the hotel.
+
+**********
+
+[0.212860107421875] The location was not ideal.
+Parent: The reviewers said that the location was not that great because it was hard to find a parking spot and the staff was not very helpful.
+
+----- Supporting -----
+
+[0.212860107421875] You can self-park but being right downtown I figured it wasn't worth the hassle to save a few bucks.
+[0.105194091796875] The rental agency was farther than they said, and my back got worse.
+[0.0809326171875] The 20 minute wait the following morning for the car wasn't good either especially as I could have parked across the street for $15 dollars rather than the $36 the hotel charge, Overall recommended
+[0.076019287109375] We were on the 9th floor facing West and the view was so-so, but to be honest I wasn't there for the view anyway.
+[0.07073974609375] Searching around for alternate parking in the area is a crapshoot, as much parking in the area [only a few blocks from the Rogers Centre/Skydome and inside the Entertainment District] is outdoors and prices are jacked up for events and weekends.
+
+----- Weakening -----
+
+[-0.9955253601074219] Excellent location!
+[-0.9945087432861328] Perfect location (CN tower and Rogers Centre just a short walk from the hotel).
+[-0.9942798614501953] Perfect location for getting about town and a short walk to the CN tower and Rogers Centre.
+[-0.9938459396362305] Location was fantastic.
+[-0.9938449859619141] GOOD: Location is awesome!!!
+
+**********
+
+[0.8922576904296875] It is hard to find a parking spot.
+Parent: The reviewers said that the location was not that great because it was hard to find a parking spot and the staff was not very helpful.
+
+----- Supporting -----
+
+[0.8922576904296875] Very easy to get to - but parking is an issue and the rate of $35.00 / day is very steep.
+[0.8242874145507812] Searching around for alternate parking in the area is a crapshoot, as much parking in the area [only a few blocks from the Rogers Centre/Skydome and inside the Entertainment District] is outdoors and prices are jacked up for events and weekends.
+[0.2038726806640625] The lobby is quite lovely, the parking is expensive.
+[0.1981658935546875] Also, if you are planning on parking your car there is only valet parking available which at $35 per day is quite pricey.
+[0.163482666015625] Valet parking was expensive, but this is expected in a city like Toronto with limited downtown space.
+
+----- Weakening -----
+
+[-0.9802699089050293] There are lots of parking lots near by that look cheaper than the hotel valet system (one right across the road).
+[-0.7229194641113281] I think the valet parking at the hotel is around the same amount and you can take your car in and out as needed.
+[-0.7183265686035156] We parked our car and never looked back because everything was within walking distance.
+[-0.7084178924560547] We had no trouble getting there - handy to Lakeshore Blvd.
+[-0.6541290283203125] It is not that hard to match up numbers on tickets to find a vehicle.
+
+**********
+
+[0.7909660339355469] The staff was not very helpful.
+Parent: The reviewers said that the location was not that great because it was hard to find a parking spot and the staff was not very helpful.
+
+----- Supporting -----
+
+[0.7909660339355469] There was a slight mix up with our booking but no fuss was made although I did find the reception staff a little disinterested but nothing to spoil my stay.
+[0.25060462951660156] When we asked where the nearest self park ramp was, no one had a clue!
+[0.13982009887695312] I would avoid the restaurant in the hotel as the service is slow and inconsistent.
+[0.09920120239257812] It's pretty clear that this hotel did not train the staff before opening: You can only valet park your car for $35.
+[0.06467819213867188] The rental agency was farther than they said, and my back got worse.
+
+----- Weakening -----
+
+[-0.980402946472168] It was worth the cost of the parking just to have their assistance.
+[-0.9618539810180664] Restaurant was really good too with great service!
+[-0.9580707550048828] The rooms are equal to anything Hilton offers, the fitness facility is first rate and the restaurant staff are friendly and attentive - to the right degree.
+[-0.9399847984313965] The second floor restaurant area was lovely and the service at breakfast could not have been better.
+[-0.926116943359375] Great rates, Great location, friendly staff.
+
+**********
+
+[0.970973014831543] The location is good for some attractions.
+Parent: The location is good for some attractions, but it is not the nicest area of town and it is next to a noisy nightclub.
+
+----- Supporting -----
+
+[0.970973014831543] The location of the hotel is excellent for these attractions.
+[0.9367656707763672] Location is good, close to nightlife, shopping, restaurants and Chinatown.
+[0.9211750030517578] The hotel location is ideal for a visitor to the city, within easy walking distance of the entertainment district, the business district, and great shopping and dining.
+[0.8889217376708984] Great location for CN Tower/Blue Jays with plenty of local bars and restaurants, and easy access to tramcars.
+[0.8659553527832031] Perfect location for getting about town and a short walk to the CN tower and Rogers Centre.
+
+----- Weakening -----
+
+[-0.0005855560302734375] The rental agency was farther than they said, and my back got worse.
+[0.00122833251953125] Didn't try the restaurant.
+[0.0020885467529296875] Parking is valet only (would prefer the option to self park).
+[0.0021333694458007812] I was able to jerk the system a bit by parking elsewhere and walking a couple blocks.
+[0.002536773681640625] If you have a car, consider the cost of parking.
+
+**********
+
+[0.976140022277832] The location is not the best area of town.
+Parent: The location is good for some attractions, but it is not the nicest area of town and it is next to a noisy nightclub.
+
+----- Supporting -----
+
+[0.976140022277832] The location was good for us but it is definitely not the nicest area of town.
+[0.01177978515625] Valet parking was expensive, but this is expected in a city like Toronto with limited downtown space.
+[0.007845878601074219] Another thing is try to avoid the public parking across the hotel.
+[0.00687408447265625] Searching around for alternate parking in the area is a crapshoot, as much parking in the area [only a few blocks from the Rogers Centre/Skydome and inside the Entertainment District] is outdoors and prices are jacked up for events and weekends.
+[0.0047760009765625] Not near a subway, but no need, we walked everywhere.
+
+----- Weakening -----
+
+[-0.9658079147338867] Great location for CN Tower/Blue Jays with plenty of local bars and restaurants, and easy access to tramcars.
+[-0.9647922515869141] Fantastic location (OK they are renewing the old fashion district in the downtown core) but this hotel is quite wonderful !
+[-0.9635453224182129] The hotel location is ideal for a visitor to the city, within easy walking distance of the entertainment district, the business district, and great shopping and dining.
+[-0.9606723785400391] GOOD: Location is awesome!!!
+[-0.9524593353271484] Excellent location!
+
+**********
+
+[0.6566276550292969] The location is too noisy because of the nightclub.
+Parent: The location is good for some attractions, but it is not the nicest area of town and it is next to a noisy nightclub.
+
+----- Supporting -----
+
+[0.6566276550292969] Being in the heart of the entertainment district may be a plus for some but for me it means that you can't leave your window open at night for fresh air because of all the noise from the late night revellers.
+[0.5635223388671875] The Hilton Garden Inn is in a great location within walking distance of C.N.Tower and Rogers Stadium and next to a wide selection of restaurants,bars,shops etc There are fresh apples to help yourself each morning and cookies at night,also complimentary drinks on some days ?The rooms are spacious and clean BUT if you are stayingThursday through until Sunday there is a club with a patio next door and the noise is terrific until around three in the morning so if your not out yourself you will not sleep.We only had this experience on the Sat night the rest of our stay was perfect through until the following Wednesday.Fridge,microwave abd coffe maker in room really useful.Go to the italian quarter for some really great little restaurants and bars.Toronto is a terrific city ENJOY!
+[0.220855712890625] BUT ..... there is a new night club beside the hotel called "Tryst" .... needless to say it is techno music and it is all you can hear until about 3:00 in the morning ... especially in the summer when they have their patio open and are projecting video's on the side of the building.
+[0.082855224609375] The only 2 things I didn't appreciate were out of the control of the hotel: first there is a club right next to the hotel and we could hear the loud music coming from the club late at night (being on the 3rd and 15th floor).
+[0.030012130737304688] as most reviewers said, the nightclub is loud.
+
+----- Weakening -----
+
+[-0.9971237182617188] Convenient location, quiet and large room (mine was very quiet, while some rooms are not because of the proximity of night clubs), wonderful breakfast, free Internet.
+[-0.9943451881408691] There was an event on at the nightclub one night and I never heard anything.
+[-0.9933996200561523] The hotel is close enough to the big attractions to be convenient but still is not in an overly busy/loud part of town which was nice.
+[-0.9774389266967773] Also it is conveniently located near a Shoppers which, with the in room microwave and fridge it makes it easy to have a quick snack in the room.
+[-0.9677305221557617] Close to lots of restaurants, a Whole Foods and two streetcar lines making it easy to get around.
+
+**********
+
+[0.9833073616027832] The hotel is in a convenient location.
+Parent: The hotel is centrally located and easy to walk to many attractions.
+
+----- Supporting -----
+
+[0.9833073616027832] The hotel is very conveniently located to the nearby entertainment district, and 20 min walk to the island ferries, and is convenient to the Queen and King Streetcar lines if you wish to go further.
+[0.9722976684570312] The hotel was conveniently located close to most sights in the city.
+[0.9665813446044922] The hotel is close enough to the big attractions to be convenient but still is not in an overly busy/loud part of town which was nice.
+[0.936488151550293] The hotel is in a good location, central and easy to walk from - the Art Gallery of Ontario is well worth a visit.
+[0.9281492233276367] The hotel location is ideal for a visitor to the city, within easy walking distance of the entertainment district, the business district, and great shopping and dining.
+
+----- Weakening -----
+
+[-0.44753265380859375] The rental agency was farther than they said, and my back got worse.
+[-0.4145393371582031] Searching around for alternate parking in the area is a crapshoot, as much parking in the area [only a few blocks from the Rogers Centre/Skydome and inside the Entertainment District] is outdoors and prices are jacked up for events and weekends.
+[-0.2451171875] The lobby is quite lovely, the parking is expensive.
+[-0.1629638671875] Very easy to get to - but parking is an issue and the rate of $35.00 / day is very steep.
+[-0.15528106689453125] And they did seem to have some issues with their parking being full; several people were being directed to other parking garages, etc.
+
+**********
+
+[0.969609260559082] The hotel is conveniently located near many attractions.
+Parent: The hotel is centrally located and easy to walk to many attractions.
+
+----- Supporting -----
+
+[0.969609260559082] The hotel was conveniently located close to most sights in the city.
+[0.969296932220459] The hotel is close enough to the big attractions to be convenient but still is not in an overly busy/loud part of town which was nice.
+[0.9338650703430176] The hotel location is ideal for a visitor to the city, within easy walking distance of the entertainment district, the business district, and great shopping and dining.
+[0.9291844367980957] This hotel is a convenient walk to Rogers Centre, China Town, and some of the theaters.
+[0.9168024063110352] If you are looking for a hotel that is within walking distance of many things to do....this is the place.
+
+----- Weakening -----
+
+[-0.5784568786621094] Searching around for alternate parking in the area is a crapshoot, as much parking in the area [only a few blocks from the Rogers Centre/Skydome and inside the Entertainment District] is outdoors and prices are jacked up for events and weekends.
+[-0.38995361328125] The location was good for us but it is definitely not the nicest area of town.
+[-0.1734619140625] The rental agency was farther than they said, and my back got worse.
+[-0.10201263427734375] When we asked where the nearest self park ramp was, no one had a clue!
+[-0.08768463134765625] Valet parking was expensive, but this is expected in a city like Toronto with limited downtown space.
+
+**********
+
+[0.9762873649597168] The location is excellent.
+Parent: The location is excellent, very central and within walking distance of many attractions.
+
+----- Supporting -----
+
+[0.9762873649597168] Location was fantastic.
+[0.9569845199584961] The location was excellent, right across the street really from Theatres and Second City Comedy club.
+[0.9501638412475586] GOOD: Location is awesome!!!
+[0.9436874389648438] The location of the hotel is excellent for these attractions.
+[0.9432430267333984] Excellent location!
+
+----- Weakening -----
+
+[-0.769073486328125] The only 2 things I didn't appreciate were out of the control of the hotel: first there is a club right next to the hotel and we could hear the loud music coming from the club late at night (being on the 3rd and 15th floor).
+[-0.6998748779296875] We were on the 9th floor facing West and the view was so-so, but to be honest I wasn't there for the view anyway.
+[-0.5555496215820312] The rental agency was farther than they said, and my back got worse.
+[-0.298583984375] Not near a subway, but no need, we walked everywhere.
+[-0.1613311767578125] When we asked where the nearest self park ramp was, no one had a clue!
+
+**********
+
+[0.9757719039916992] The location is central.
+Parent: The location is excellent, very central and within walking distance of many attractions.
+
+----- Supporting -----
+
+[0.9757719039916992] Talk about the location & amenities - Location is very central with all major attractions close by - walked everywhere.
+[0.9284591674804688] The hotel is in a good location, central and easy to walk from - the Art Gallery of Ontario is well worth a visit.
+[0.9221124649047852] Located close to Downtown this place is on the city center.
+[0.8096923828125] It's right in the middle of the entertainment district which means you are near everything.
+[0.7757644653320312] We were visiting our children in Toronto and found the Garden Inn Downtown centrally located for every place we needed to be.
+
+----- Weakening -----
+
+[-0.8963623046875] Not near a subway, but no need, we walked everywhere.
+[-0.6117591857910156] The rental agency was farther than they said, and my back got worse.
+[-0.5013427734375] The hotel is close enough to the big attractions to be convenient but still is not in an overly busy/loud part of town which was nice.
+[-0.2960968017578125] my wife and i were on vacay.
+[-0.26389312744140625] We were on the 9th floor facing West and the view was so-so, but to be honest I wasn't there for the view anyway.
+
+**********
+
+[0.9508037567138672] The location is convenient.
+Parent: The location is excellent, very central and within walking distance of many attractions.
+
+----- Supporting -----
+
+[0.9508037567138672] Convenient location, quiet and large room (mine was very quiet, while some rooms are not because of the proximity of night clubs), wonderful breakfast, free Internet.
+[0.9147720336914062] The hotel is very conveniently located to the nearby entertainment district, and 20 min walk to the island ferries, and is convenient to the Queen and King Streetcar lines if you wish to go further.
+[0.8635177612304688] The hotel is close enough to the big attractions to be convenient but still is not in an overly busy/loud part of town which was nice.
+[0.8358650207519531] It is convenient to a nearby Shopper's Drug Mart (to pick up some in room snacks) and a large LCBO with a rather big Vintages section for some excellent wine for the room.
+[0.8173389434814453] The location is perfect for getting around on foot.
+
+----- Weakening -----
+
+[-0.6331329345703125] Searching around for alternate parking in the area is a crapshoot, as much parking in the area [only a few blocks from the Rogers Centre/Skydome and inside the Entertainment District] is outdoors and prices are jacked up for events and weekends.
+[-0.4893646240234375] The rental agency was farther than they said, and my back got worse.
+[-0.38805389404296875] I was able to jerk the system a bit by parking elsewhere and walking a couple blocks.
+[-0.1385498046875] The only 2 things I didn't appreciate were out of the control of the hotel: first there is a club right next to the hotel and we could hear the loud music coming from the club late at night (being on the 3rd and 15th floor).
+[-0.12200927734375] The lobby is quite lovely, the parking is expensive.
+
+**********
+
+[0.9787964820861816] The nightclub next door is noisy.
+Parent: There is a nightclub next door which can be noisy at night.
+
+----- Supporting -----
+
+[0.9787964820861816] However, it's right next to a really noisy nightclub.
+[0.9425640106201172] The Hilton Garden Inn is in a great location within walking distance of C.N.Tower and Rogers Stadium and next to a wide selection of restaurants,bars,shops etc There are fresh apples to help yourself each morning and cookies at night,also complimentary drinks on some days ?The rooms are spacious and clean BUT if you are stayingThursday through until Sunday there is a club with a patio next door and the noise is terrific until around three in the morning so if your not out yourself you will not sleep.We only had this experience on the Sat night the rest of our stay was perfect through until the following Wednesday.Fridge,microwave abd coffe maker in room really useful.Go to the italian quarter for some really great little restaurants and bars.Toronto is a terrific city ENJOY!
+[0.8513851165771484] The only 2 things I didn't appreciate were out of the control of the hotel: first there is a club right next to the hotel and we could hear the loud music coming from the club late at night (being on the 3rd and 15th floor).
+[0.7391128540039062] BUT ..... there is a new night club beside the hotel called "Tryst" .... needless to say it is techno music and it is all you can hear until about 3:00 in the morning ... especially in the summer when they have their patio open and are projecting video's on the side of the building.
+[0.08230209350585938] as most reviewers said, the nightclub is loud.
+
+----- Weakening -----
+
+[-0.841954231262207] There was an event on at the nightclub one night and I never heard anything.
+[-0.5168857574462891] Also it is conveniently located near a Shoppers which, with the in room microwave and fridge it makes it easy to have a quick snack in the room.
+[-0.33745574951171875] It is convenient to a nearby Shopper's Drug Mart (to pick up some in room snacks) and a large LCBO with a rather big Vintages section for some excellent wine for the room.
+[-0.2433624267578125] They don't keep change in the restaurant!!!
+[-0.2171344757080078] Close to lots of restaurants, a Whole Foods and two streetcar lines making it easy to get around.
+
+**********
+
+[0.8810691833496094] The nightclub is noisy at night.
+Parent: There is a nightclub next door which can be noisy at night.
+
+----- Supporting -----
+
+[0.8810691833496094] The only 2 things I didn't appreciate were out of the control of the hotel: first there is a club right next to the hotel and we could hear the loud music coming from the club late at night (being on the 3rd and 15th floor).
+[0.73590087890625] The Hilton Garden Inn is in a great location within walking distance of C.N.Tower and Rogers Stadium and next to a wide selection of restaurants,bars,shops etc There are fresh apples to help yourself each morning and cookies at night,also complimentary drinks on some days ?The rooms are spacious and clean BUT if you are stayingThursday through until Sunday there is a club with a patio next door and the noise is terrific until around three in the morning so if your not out yourself you will not sleep.We only had this experience on the Sat night the rest of our stay was perfect through until the following Wednesday.Fridge,microwave abd coffe maker in room really useful.Go to the italian quarter for some really great little restaurants and bars.Toronto is a terrific city ENJOY!
+[0.724853515625] BUT ..... there is a new night club beside the hotel called "Tryst" .... needless to say it is techno music and it is all you can hear until about 3:00 in the morning ... especially in the summer when they have their patio open and are projecting video's on the side of the building.
+[0.7121467590332031] Being in the heart of the entertainment district may be a plus for some but for me it means that you can't leave your window open at night for fresh air because of all the noise from the late night revellers.
+[0.00899505615234375] Three of us stayed for two nights on a hectic trip, arriving on an overnight flight from the States.
+
+----- Weakening -----
+
+[-0.9653377532958984] There was an event on at the nightclub one night and I never heard anything.
+[-0.36591339111328125] Shopping district for shoppers out there.
+[-0.32340240478515625] Had breakfast in the hotel restaurant this morning.
+[-0.308319091796875] Convenient location, quiet and large room (mine was very quiet, while some rooms are not because of the proximity of night clubs), wonderful breakfast, free Internet.
+[-0.274322509765625] They don't keep change in the restaurant!!!
+
+**********
+
+[0.9610214233398438] Parking is expensive.
+Parent: Parking is expensive.
+
+----- Supporting -----
+
+[0.9610214233398438] The lobby is quite lovely, the parking is expensive.
+[0.9555997848510742] Parking rates are high as you will find in all major cities around the world.
+[0.933837890625] Valet parking was expensive, but this is expected in a city like Toronto with limited downtown space.
+[0.8350334167480469] It was worth the cost of the parking just to have their assistance.
+[0.8265781402587891] Searching around for alternate parking in the area is a crapshoot, as much parking in the area [only a few blocks from the Rogers Centre/Skydome and inside the Entertainment District] is outdoors and prices are jacked up for events and weekends.
+
+----- Weakening -----
+
+[-0.5274505615234375] The Only drawback of this hotel is that usage of Business Center is a bit expensive and so is the Restauant in the hotel for the qulaity of food.
+[-0.5197677612304688] Great rates, Great location, friendly staff.
+[-0.4421710968017578] The 15-minute walk to Union Station is very easy and convenient.
+[-0.4326171875] Took about 5 minutes to walk.
+[-0.42627716064453125] The accessible room was just that - very accessible.

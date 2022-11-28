@@ -1,0 +1,128 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.8756101131439209
+
+**********
+
+[0.9628190994262695] The building was clean.
+Parent: The building was generally found to be clean and well-kept, though in need of some updating.
+
+----- Supporting -----
+
+[0.9628190994262695] The hotel was very clean and centrally located.
+[0.9616460800170898] It was very clean and comfortable and had very nice artwork on the walls.
+[0.9510650634765625] The hotel was clean, modern and the only concern that I had was the limited parking in the hotel garage.
+[0.9371328353881836] It was really clean, and the housekeeping lady was very friendly and always asking if I needed any additional toiletries or coffee.
+[0.9117031097412109] It was clean, and the housekeeper who came the next morning was friendly.
+
+----- Weakening -----
+
+[-0.9976916313171387] The shower was disgusting and there were marks all over the walls and carpet.
+[-0.9970970153808594] There was brown stuff on the walls of the bathroom, and the room was very shabby.
+[-0.9969892501831055] The room was so filthy, we decided to leave, and find another hotel.
+[-0.9968247413635254] Exhausted, we walked into our room, and experienced the most overwhelming foul smells, I canâ€™t even describe!
+[-0.9967336654663086] The dust built up in the bathroom and on the carpet was substantial, seriously dust bunnies.
+
+**********
+
+[0.5556182861328125] The building was well-kept.
+Parent: The building was generally found to be clean and well-kept, though in need of some updating.
+
+----- Supporting -----
+
+[0.5556182861328125] The hotel was very clean and centrally located.
+[0.5515594482421875] Found my room and the hotel in general very clean and well kept.
+[0.37934112548828125] The front desk staff were superb and went out of their way to help with one girl at the front desk loaning me her personal umbrella so I could go to the shops without getting soaked.
+[0.3722686767578125] It was really clean, and the housekeeping lady was very friendly and always asking if I needed any additional toiletries or coffee.
+[0.32451629638671875] Clean accomodations, location was less than 10 minute walk to subway station.
+
+----- Weakening -----
+
+[-0.9907879829406738] The room was so filthy, we decided to leave, and find another hotel.
+[-0.9884567260742188] The hotel was dirty.
+[-0.9810066223144531] Hallways dingy, but staff is nice and helpful.
+[-0.9775314331054688] A bathtub so filthy I wouldnâ€™t dare stand to take a shower.
+[-0.9760246276855469] The shower was disgusting and there were marks all over the walls and carpet.
+
+**********
+
+[0.9107284545898438] The building needs to be updated.
+Parent: The building was generally found to be clean and well-kept, though in need of some updating.
+
+----- Supporting -----
+
+[0.9107284545898438] The price is very good and the rooms are large, the only issue with the hotel is its very dated and could do with a revamp.
+[0.8908758163452148] As other reviewers are saying, the place needs a facelift fast.
+[0.6828422546386719] Although most of the staff were nice, the rooms were dated and could use some renovation.
+[0.6555519104003906] The rooms are in need of a remodel.
+[0.577606201171875] I did notice the elevators seemed dated and in need of an update, but given that I was on high alert, this wasn't a big deal.
+
+----- Weakening -----
+
+[-0.8301601409912109] The rooms were very updated and the beds were very comfortable!
+[-0.8063764572143555] Everything was spotlessly clean and comfortable and the staff were very helpful and polite.
+[-0.7560539245605469] I was pleased with the hotel in general and it had all the amenities I needed.
+[-0.679774284362793] Found my room and the hotel in general very clean and well kept.
+[-0.6697454452514648] Room and furnishings were in good shape and overall I was very impressed given I was expecting a horror show.
+
+**********
+
+[0.9172306060791016] The hotel was large.
+Parent: It was large, and guests found the location to be good, though there were some reports of homeless people nearby.
+
+----- Supporting -----
+
+[0.9172306060791016] The room was alot bigger then most hotels i have stayed in and I liked the fact that they had duvets instead of the typical stiff sheets most places do.
+[0.9137477874755859] The hotel is older but the room was huge and had a view all the way to the lake.
+[0.8955554962158203] Luckily it wasn't like any Best Western I had ever been to - this is a large full service hotel.
+[0.8650150299072266] Large room, with really nice and comfy duvets, and overall much nicer than I've seen from most hotels in Toronto in this price range.
+[0.843353271484375] Simply put Its a clean, well run hotel, with excellent service at the front desk and very large rooms that look great.
+
+----- Weakening -----
+
+[-0.9845218658447266] It was small and not very clean.
+[-0.9756879806518555] It is a small, friendly, family own/operated business.
+[-0.8165130615234375] Only problem was the carpark was too small.
+[-0.7304534912109375] The elevators are very small, it is cramped with 4 people with luggage.
+[-0.658111572265625] The parking garage was a tight squeeze if you were driving anything bigger than a four door car.
+
+**********
+
+[0.9714245796203613] The hotel's location was good.
+Parent: It was large, and guests found the location to be good, though there were some reports of homeless people nearby.
+
+----- Supporting -----
+
+[0.9714245796203613] The hotel itself is in a good location.
+[0.9700756072998047] Also the hotel was in a very good location for all attractions.
+[0.9543838500976562] I thought the hotel was in a good location and I found it was easy to walk to restaurants at night.
+[0.9515066146850586] The hotel was in a good location and was close to restaurants and a wonderful greenhouse which I toured for an entire afternoon.
+[0.9509148597717285] The hotel was in a great location and we walked to a charming area called Yorkville.
+
+----- Weakening -----
+
+[-0.92462158203125] The hotel is not in a nice area of the city and you will notice a great deal of sketchy personalities roaming the streets around the area.
+[-0.890045166015625] It is very worn and in a terrible area of town.
+[-0.8491439819335938] I could not believe what they charged for a room at this hell-hole, and it is funny just around the corner from the building is a "back-packer's hostel which I thought would have been much better than this dump.
+[-0.7498741149902344] The underground parking is horribly laid out.
+[-0.5342445373535156] We arrived at 3:00 in the morning, and drove through the night to arrive to the filthiest hotel we have ever seen!
+
+**********
+
+[0.9358396530151367] There were homeless people nearby.
+Parent: It was large, and guests found the location to be good, though there were some reports of homeless people nearby.
+
+----- Supporting -----
+
+[0.9358396530151367] we did see a couple of homeless guys but they did not bother us.
+[0.6839065551757812] After circling the hotel trying to find a parking spot which I eventually did about 1/4 mile from the hotel (on the street), a bum waited in front of my car asking for money.
+[0.2053375244140625] I do not recomemnd taking the elevators in the morning if you are only a few flights from the main floor because people are sardined in the elevator please take the stairs.
+[0.14727783203125] The downside is outside the area it is a bit rough with people standing about smoking and hanging out.
+[0.0705718994140625] The hotel is not in a nice area of the city and you will notice a great deal of sketchy personalities roaming the streets around the area.
+
+----- Weakening -----
+
+[-0.8553352355957031] Great beef swarma pita sandwiches nearby esp.
+[-0.8083381652832031] This restaurant has a loyal group of customers.
+[-0.7742843627929688] Close to good restaurants.
+[-0.69610595703125] The hotel books a lot of bus tours, and some mornings it can take a very long time to get an elevator, because they are being monopolized by the bus tourists, who are all trying to leave at once.
+[-0.68341064453125] Finally, we came back to the hotel at around midnight after seeing the tennis match and having dinner and come to find out that there were hookers on almost every corner surrounding the hotel.

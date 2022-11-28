@@ -1,0 +1,71 @@
+***** service : Sentiments for original sentences *****
+air conditioning vent : + 0     - 1
+front staff : + 1     - 1
+bell man : + 1     - 0
+front desk staff : + 1     - 1
+bellman : + 2     - 1
+Food : + 1     - 0
+service : + 7     - 1
+Front desk : + 1     - 0
+town : + 2     - 0
+taxis : + 0     - 1
+customer service : + 2     - 0
+employee : + 1     - 0
+staff : + 24     - 4
+attitude : + 0     - 1
+service standards : + 1     - 0
+Rooms : + 1     - 0
+baggage staff : + 0     - 1
+choice of channels : + 0     - 1
+water pressure : + 1     - 0
+- service : + 0     - 1
+food : + 0     - 1
+Front desk personnel : + 0     - 1
+internet : + 3     - 1
+location : + 3     - 0
+beds : + 1     - 0
+services : + 1     - 0
+rooms : + 6     - 0
+directions : + 1     - 0
+Staff : + 3     - 1
+concierge / bell desk / : + 1     - 0
+Everyone : + 1     - 0
+restaurant : + 1     - 0
+person cleaning : + 1     - 0
+room : + 1     - 0
+wireless : + 0     - 1
+staff waiting : + 1     - 0
+traffic : + 0     - 1
+bed : + 1     - 0
+lobby staff : + 1     - 0
+room service : + 0     - 1
+- Fi : + 1     - 0
+Service : + 1     - 0
+desk staff : + 1     - 0
+hotels : + 1     - 0
+value : + 1     - 0
+bell captain : + 1     - 0
+room service order - : + 1     - 0
+delivery person : + 1     - 0
+menu options : + 0     - 1
+cleaning staff : + 1     - 0
+cleaning staff person : + 0     - 1
+floor : + 0     - 1
+manager : + 0     - 1
+attendant : + 0     - 1
+corner king executive : + 1     - 0
+Internet access : + 1     - 0
+use : + 1     - 0
+sushi : + 2     - 0
+pan - Asian food : + 2     - 0
+concierge : + 1     - 0
+personnel : + 1     - 0
+clerk : + 1     - 1
+knob : + 0     - 1
+desk : + 1     - 0
+***** service : Sentiments for raw summaries *****
+service : + 2     - 2
+staff : + 2     - 2
+baggage service : + 0     - 1
+rooms : + 1     - 0
+***** service : Sentiments for final summary *****

@@ -1,0 +1,107 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.2891651153564453
+
+**********
+
+[0.2628593444824219] The hotel was conveniently located.
+Parent: The hotel was very well positioned, clean, comfortable, and had an excellent king bed.
+
+----- Supporting -----
+
+[0.2628593444824219] Small lobby very intimate but best of all was location.
+[0.20635986328125] The lobby has a nice little living room style waiting area but only takes 10 seconds to get through to the elevators.
+[0.10208892822265625] Portland is a great city to visit, and I would recommend this hotel to anyone.
+[0.06626129150390625] The lobby is beautfully furnished and offers a great meeting place or somewhere to rest.
+[0.061618804931640625] It was within walking distance to shopping and entertainment in Capitol Hill.
+
+----- Weakening -----
+
+[-0.5066299438476562] We nearly thought our car was stolen!
+[-0.3575897216796875] Did not want to leave our car there.
+[-0.3319587707519531] They could not find our car for about an hour!
+[-0.327850341796875] There's a lot of construction going on around the hotel so make sure you get a room that is high up and that does not overlook the construction site (ask for a room overlooking Pine St) and you'll be fine.
+[-0.2745323181152344] It was dark, dirty, and noisy from the construction right outside my window.
+
+**********
+
+[0.6943855285644531] The hotel was clean.
+Parent: The hotel was very well positioned, clean, comfortable, and had an excellent king bed.
+
+----- Supporting -----
+
+[0.6943855285644531] the lobby is sort of lackluster but the rooms were tasfully updated and very clean.
+[0.1213531494140625] Other than the thin wall between rooms, it was an excellent stay and we'd definitely stay there again.
+[0.0927581787109375] The hotel itself is in an older building, but renovations have obviously kept it up to modern standards.
+[0.032596588134765625] The furniture was comfortable.
+[0.013458251953125] The lobby is warm and cozy with couches and a fireplace.
+
+----- Weakening -----
+
+[-0.9922299385070801] It was dark, dirty, and noisy from the construction right outside my window.
+[-0.96331787109375] The elevator was marked and scuffed.
+[-0.9569473266601562] There's a lot of construction going on around the hotel so make sure you get a room that is high up and that does not overlook the construction site (ask for a room overlooking Pine St) and you'll be fine.
+[-0.93646240234375] The only thing was that there was construction going on right across the street that woke us up before 9am on a Monday morning.
+[-0.8768768310546875] We nearly thought our car was stolen!
+
+**********
+
+[0.47003173828125] The hotel was comfortable.
+Parent: The hotel was very well positioned, clean, comfortable, and had an excellent king bed.
+
+----- Supporting -----
+
+[0.47003173828125] Other than the thin wall between rooms, it was an excellent stay and we'd definitely stay there again.
+[0.3069610595703125] The lobby is warm and cozy with couches and a fireplace.
+[0.216400146484375] the lobby is sort of lackluster but the rooms were tasfully updated and very clean.
+[0.21222686767578125] Small lobby very intimate but best of all was location.
+[0.1488189697265625] The furniture was comfortable.
+
+----- Weakening -----
+
+[-0.9274673461914062] It was dark, dirty, and noisy from the construction right outside my window.
+[-0.7193832397460938] We nearly thought our car was stolen!
+[-0.6906013488769531] Some other minor issues were the desk chair in the room (it fell short of an appropriate working height of the desk and constantly fell down when your leg accidently hit the adjustment bar in front, poor choice of chairs), the elevator door was annoyingly slow to close (I was up and down several times per day), the exterior and lobby doors should be automatic and I noticed people struggling to open them and get their luggage through, they also were misaligned and did not open well.
+[-0.6906013488769531] Some other minor issues were the desk chair in the room (it fell short of an appropriate working height of the desk and constantly fell down when your leg accidently hit the adjustment bar in front, poor choice of chairs), the elevator door was annoyingly slow to close (I was up and down several times per day), the exterior and lobby doors should be automatic and I noticed people struggling to open them and get their luggage through, they also were misaligned and did not open well.
+[-0.6906013488769531] Some other minor issues were the desk chair in the room (it fell short of an appropriate working height of the desk and constantly fell down when your leg accidently hit the adjustment bar in front, poor choice of chairs), the elevator door was annoyingly slow to close (I was up and down several times per day), the exterior and lobby doors should be automatic and I noticed people struggling to open them and get their luggage through, they also were misaligned and did not open well.
+
+**********
+
+[0.01873779296875] The king bed was excellent.
+Parent: The hotel was very well positioned, clean, comfortable, and had an excellent king bed.
+
+----- Supporting -----
+
+[0.01873779296875] The hotel was well designed and tastefully decorated.
+[0.0007953643798828125] The furniture was comfortable.
+[-0.001331329345703125] Portland is a great city to visit, and I would recommend this hotel to anyone.
+[-0.001995086669921875] Other than the thin wall between rooms, it was an excellent stay and we'd definitely stay there again.
+[-0.0064258575439453125] the lobby is sort of lackluster but the rooms were tasfully updated and very clean.
+
+----- Weakening -----
+
+[-0.9125404357910156] We nearly thought our car was stolen!
+[-0.8182506561279297] It was dark, dirty, and noisy from the construction right outside my window.
+[-0.7132911682128906] The elevator was marked and scuffed.
+[-0.6891632080078125] My desk chair was broken and I asked for it to be replaced or fixed.
+[-0.67840576171875] Still not sure why our car could not be found for that time.
+
+**********
+
+[-0.0001888275146484375] The hotel was clean and quiet during the entire week stay there.
+Parent: There were no significant complaints with the hotel during the entire week stay there.
+
+----- Supporting -----
+
+[-0.0001888275146484375] Portland is a great city to visit, and I would recommend this hotel to anyone.
+[-0.017486572265625] The lobby has a nice little living room style waiting area but only takes 10 seconds to get through to the elevators.
+[-0.02100372314453125] The neighborhood feels comfortable and safe to me, which is important as a female traveling alone.
+[-0.023838043212890625] The furniture was comfortable.
+[-0.04567527770996094] Small lobby very intimate but best of all was location.
+
+----- Weakening -----
+
+[-0.99871826171875] It was dark, dirty, and noisy from the construction right outside my window.
+[-0.9976508617401123] The only thing was that there was construction going on right across the street that woke us up before 9am on a Monday morning.
+[-0.9973678588867188] There's a lot of construction going on around the hotel so make sure you get a room that is high up and that does not overlook the construction site (ask for a room overlooking Pine St) and you'll be fine.
+[-0.9972918033599854] The man who was working at the front desk looked very gruff and mean, when I would ask something he made me feel like I was putting him out.
+[-0.9968051910400391] Lots of daytime noise due to the construction.

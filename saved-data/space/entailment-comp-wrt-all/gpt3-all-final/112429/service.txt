@@ -1,0 +1,65 @@
+***** Aspect: service Model Type : zs *****
+Overall score: 0.7445756594340006
+
+**********
+
+[0.26859092712402344] The service at the Paramount Hotel was good.
+Parent: The service at the Paramount Hotel was praised by reviewers for being friendly and helpful, with some mentioning that the staff went above and beyond to accommodate their needs.
+
+----- Supporting -----
+
+[0.26859092712402344] Getting my car from the valet took less than three minutes... My stay at the Paramount was a very pleasant and positive experience.
+[0.20946502685546875] I am writing this review from my room at the Paramount, actually, and I have been very pleased with the hotel during my stay this week.
+[0.1615900993347168] I was very pleased with my stay at the Paramount.
+[0.1100759506225586] The Paramount was a lovely hotel.
+[0.08900260925292969] The hotel continues to impress and deliver an experience that is in-line with other major downtown Seattle chain hotels that charge a room rate that can be up to double what I pay at the Paramount.
+
+----- Weakening -----
+
+[-0.9269371032714844] Restaurant staff was also very poor
+[-0.918644905090332] He was very rude and would not let me use the phone to call other hotels for vacancies.
+[-0.8436317443847656] Staff was rude and impatient.
+[-0.8360443115234375] The Happy Hour at the Dragonfish was exceptional - great prices, great food, great service.
+[-0.7798290252685547] The man who was working at the front desk looked very gruff and mean, when I would ask something he made me feel like I was putting him out.
+
+**********
+
+[0.9821481704711914] The service was friendly and helpful.
+Parent: The service at the Paramount Hotel was praised by reviewers for being friendly and helpful, with some mentioning that the staff went above and beyond to accommodate their needs.
+
+----- Supporting -----
+
+[0.9821481704711914] The staff is friendly and super helpful (ie: tourist questions, room questions etc), the rooms are neat and clean and comfortable, the location is perfect and close to everything you need downtown including transit to anything outside of downtown (monorail, bus stops, lightrail).
+[0.9800395965576172] The staff was friendly, helpful, and prompt, and the hotel's restaurant is good.
+[0.9717674255371094] With the exception of one clerk who wasn't a lot of help advising me on finding a cheap nearby breakfast (" I don't know--this IS Seattle...") the staff was unusually friendly and helpful, always welcoming me back when I came in.
+[0.9705886840820312] The room was cosy, the free WiFi was a godsend, the staff was courteous and helpful.
+[0.9701681137084961] Very friendly and helpful staff, especially the Concierges.
+
+----- Weakening -----
+
+[-0.9972758293151855] Staff was rude and impatient.
+[-0.9965837001800537] The man who was working at the front desk looked very gruff and mean, when I would ask something he made me feel like I was putting him out.
+[-0.9949641227722168] He was very rude and would not let me use the phone to call other hotels for vacancies.
+[-0.9930071830749512] But I thought the staff were unprofessional and I was uncomfortable with the men at the desk.
+[-0.9878301620483398] The baggage staff was very slow and had no sense of urgency to help us with our bags.
+
+**********
+
+[0.9829878807067871] The staff was accommodating.
+Parent: The service at the Paramount Hotel was praised by reviewers for being friendly and helpful, with some mentioning that the staff went above and beyond to accommodate their needs.
+
+----- Supporting -----
+
+[0.9829878807067871] The personnel were very helpful and pleasant.
+[0.9823579788208008] Staff was very courteous and helpful.
+[0.9809823036193848] The staff was very nice and helpful.
+[0.9804964065551758] The staff is very friendly and catered to my needs.
+[0.9784002304077148] The staff is friendly and very helpful.
+
+----- Weakening -----
+
+[-0.9933013916015625] Staff was rude and impatient.
+[-0.9892349243164062] He was very rude and would not let me use the phone to call other hotels for vacancies.
+[-0.9883041381835938] The man who was working at the front desk looked very gruff and mean, when I would ask something he made me feel like I was putting him out.
+[-0.9742794036865234] But I thought the staff were unprofessional and I was uncomfortable with the men at the desk.
+[-0.9489479064941406] Restaurant staff was also very poor

@@ -1,0 +1,122 @@
+***** Aspect: food Model Type : simcse *****
+Overall score: 0.8360602955023447
+
+**********
+
+[0.7074697017669678] The coffee shop in the lobby has wonderful baked goods.
+
+----- Supporting -----
+
+[0.7074697017669678] The coffee shop Tim Hortons in the lobby has wonderful baked goods not good for the wasteline buttasted great, Thanks Primrose.
+[0.6770817041397095] There is also a coffee shop in the lobby which was open late so that was convenient.
+[0.6562907695770264] The `Tim Horton`s` coffee shop in the reception was a bonus.
+[0.6348996162414551] great coffee & doughnuts in the mornings!
+[0.6036585569381714] The Tim Hortons in the lobby was also convenient for a late night coffee.
+
+----- Weakening -----
+
+[-0.0019362075254321098] we did see a couple of homeless guys but they did not bother us.
+[0.041369110345840454] I was given a discount as I was a senior so the price ended up being very reasonable.
+[0.05126598849892616] It was close to the theatre we were going to and the price was affordable.
+[0.05696540325880051] The price was amazing ($90 CAD) and parking was typical at $23/day/in & out privileges.
+[0.08907108753919601] The price was also quite reasonable.
+
+**********
+
+[1.000000238418579] The food they serve is good as well.
+
+----- Supporting -----
+
+[1.000000238418579] The food they serve is good as well.
+[0.5974549055099487] The food was good and arrived on time and hot.
+[0.56988126039505] There is a decent diner to the left of the hotel and a great little Thai restaurant on the other side and around the corner.
+[0.5691144466400146] We did order food and beverage and were pleased with the variety of choices available for lunches.
+[0.5557788014411926] Great beef swarma pita sandwiches nearby esp.
+
+----- Weakening -----
+
+[0.0386473685503006] Although it would have been more convenient for me to stay at the hotel the meeting was in, their prices were far too expensive for my budget.
+[0.0530228465795517] I used the sales department at the hotel to make a booking for a block of rooms coming to Toronto for a family wedding.
+[0.09205420315265656] For $10 extra I could have stayed at the Sheraton!
+[0.09771162271499634] we did see a couple of homeless guys but they did not bother us.
+[0.13661669194698334] I was given a discount as I was a senior so the price ended up being very reasonable.
+
+**********
+
+[0.7201225161552429] The food at the hotel is good, but it is very expensive.
+
+----- Supporting -----
+
+[0.7201225161552429] Great hotel and great price.
+[0.7192407846450806] for what this place costs I definitely recommend this hotel.
+[0.6481719613075256] The price is very good and the rooms are large, the only issue with the hotel is its very dated and could do with a revamp.
+[0.6236640214920044] If you are looking for an expensive four or five star hotel, don't stay here.
+[0.5522139668464661] Although it would have been more convenient for me to stay at the hotel the meeting was in, their prices were far too expensive for my budget.
+
+----- Weakening -----
+
+[-0.063995361328125] we did see a couple of homeless guys but they did not bother us.
+[0.061683911830186844] A four cup coffee maker and supplies and complementary wi-fi were useful.
+[0.11705194413661957] Or grab a coffee and bagel at the Tim Hortons right next door.
+[0.12120562791824341] I was given a discount as I was a senior so the price ended up being very reasonable.
+[0.19335737824440002] great coffee & doughnuts in the mornings!
+
+**********
+
+[0.8780605792999268] The Tim Hortons in the lobby is convenient for coffee.
+
+----- Supporting -----
+
+[0.8780605792999268] The Tim Hortons in the lobby was also convenient for a late night coffee.
+[0.7596742510795593] Or grab a coffee and bagel at the Tim Hortons right next door.
+[0.7229329347610474] The coffee shop Tim Hortons in the lobby has wonderful baked goods not good for the wasteline buttasted great, Thanks Primrose.
+[0.7217311859130859] There is also a coffee shop in the lobby which was open late so that was convenient.
+[0.7044006586074829] The `Tim Horton`s` coffee shop in the reception was a bonus.
+
+----- Weakening -----
+
+[0.011946831829845905] we did see a couple of homeless guys but they did not bother us.
+[0.016559284180402756] I was given a discount as I was a senior so the price ended up being very reasonable.
+[0.04243682697415352] The price was also quite reasonable.
+[0.04607678949832916] Highly recommended for the price!
+[0.0832955464720726] The food is god awful, my stomach had to get used to it.
+
+**********
+
+[1.0000001192092896] There is a decent diner to the left of the hotel and a great little Thai restaurant on the other side and around the corner.
+
+----- Supporting -----
+
+[1.0000001192092896] There is a decent diner to the left of the hotel and a great little Thai restaurant on the other side and around the corner.
+[0.56988126039505] The food they serve is good as well.
+[0.5208210349082947] There is also a coffee shop in the lobby which was open late so that was convenient.
+[0.46952512860298157] The price is very good and the rooms are large, the only issue with the hotel is its very dated and could do with a revamp.
+[0.42397111654281616] Great beef swarma pita sandwiches nearby esp.
+
+----- Weakening -----
+
+[0.11746293306350708] Highly recommended for the price!
+[0.11786598712205887] The price was amazing ($90 CAD) and parking was typical at $23/day/in & out privileges.
+[0.12259489297866821] I was given a discount as I was a senior so the price ended up being very reasonable.
+[0.1296059936285019] There was also always plenty of hot water for Baths/showers.
+[0.16595745086669922] we did see a couple of homeless guys but they did not bother us.
+
+**********
+
+[0.7107086181640625] The food at the hotel was good.
+
+----- Supporting -----
+
+[0.7107086181640625] Great hotel and great price.
+[0.6529068946838379] for what this place costs I definitely recommend this hotel.
+[0.6224162578582764] The price is very good and the rooms are large, the only issue with the hotel is its very dated and could do with a revamp.
+[0.6001182198524475] The food they serve is good as well.
+[0.5996384620666504] There is a decent diner to the left of the hotel and a great little Thai restaurant on the other side and around the corner.
+
+----- Weakening -----
+
+[0.14049842953681946] we did see a couple of homeless guys but they did not bother us.
+[0.19288140535354614] Or grab a coffee and bagel at the Tim Hortons right next door.
+[0.19326040148735046] I was given a discount as I was a senior so the price ended up being very reasonable.
+[0.21185261011123657] The food is god awful, my stomach had to get used to it.
+[0.2394835650920868] A four cup coffee maker and supplies and complementary wi-fi were useful.

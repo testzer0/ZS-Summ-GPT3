@@ -1,0 +1,362 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.7668357425265842
+
+**********
+
+[0.9900379180908203] The building is older, but has been kept up to modern standards .
+
+----- Supporting -----
+
+[0.9900379180908203] The hotel itself is in an older building, but renovations have obviously kept it up to modern standards.
+[0.6548004150390625] the lobby is sort of lackluster but the rooms were tasfully updated and very clean.
+[0.0491485595703125] The hotel was under exterior renovations, but that worked out for me as I was out of my room for most of the day.
+[0.0087890625] That could be nice but the new furniture is really over-sized and makes the small rooms even smaller and doesn't allow for a body to move around the room.
+[0.0055675506591796875] The lobby of the hotel is quite small, but well-appointed.
+
+----- Weakening -----
+
+[-0.35085487365722656] It was dark, dirty, and noisy from the construction right outside my window.
+[-0.12737274169921875] We nearly thought our car was stolen!
+[-0.0731048583984375] They could not find our car for about an hour!
+[-0.0464324951171875] Still not sure why our car could not be found for that time.
+[-0.04010009765625] Did not want to leave our car there.
+
+**********
+
+[0.9617843627929688] It has been renovated .
+
+----- Supporting -----
+
+[0.9617843627929688] The hotel itself is in an older building, but renovations have obviously kept it up to modern standards.
+[0.906982421875] The hotel was under exterior renovations, but that worked out for me as I was out of my room for most of the day.
+[0.4706878662109375] That could be nice but the new furniture is really over-sized and makes the small rooms even smaller and doesn't allow for a body to move around the room.
+[0.318145751953125] the lobby is sort of lackluster but the rooms were tasfully updated and very clean.
+[0.00665283203125] Lots of daytime noise due to the construction.
+
+----- Weakening -----
+
+[-0.35709381103515625] My desk chair was broken and I asked for it to be replaced or fixed.
+[-0.355712890625] The only thing was that there was construction going on right across the street that woke us up before 9am on a Monday morning.
+[-0.22829437255859375] We nearly thought our car was stolen!
+[-0.2122802734375] It was dark, dirty, and noisy from the construction right outside my window.
+[-0.2110137939453125] They could not find our car for about an hour!
+
+**********
+
+[0.9513168334960938] There is construction going on nearby .
+
+----- Supporting -----
+
+[0.9513168334960938] There's a lot of construction going on around the hotel so make sure you get a room that is high up and that does not overlook the construction site (ask for a room overlooking Pine St) and you'll be fine.
+[0.9223175048828125] Tons of construction in the neighborhood which starts at 6:30 am.
+[0.8934326171875] The only thing was that there was construction going on right across the street that woke us up before 9am on a Monday morning.
+[0.840911865234375] It was dark, dirty, and noisy from the construction right outside my window.
+[0.6969070434570312] Lots of daytime noise due to the construction.
+
+----- Weakening -----
+
+[-0.0514373779296875] The hotel itself is in an older building, but renovations have obviously kept it up to modern standards.
+[-0.045169830322265625] We nearly thought our car was stolen!
+[-0.041820526123046875] There is a great coffee shop across the street and the stunning Paramount Theater down the block.
+[-0.0400543212890625] There is BTW always only one person at front desk, so you can find yourself lining up to get even the simplest things done, like getting a demagnetized card reprogrammed.
+[-0.0394134521484375] My desk chair was broken and I asked for it to be replaced or fixed.
+
+**********
+
+[0.8918800354003906] It can be noisy .
+
+----- Supporting -----
+
+[0.8918800354003906] It was dark, dirty, and noisy from the construction right outside my window.
+[0.8894233703613281] Lots of daytime noise due to the construction.
+[0.5344924926757812] The only thing was that there was construction going on right across the street that woke us up before 9am on a Monday morning.
+[0.0296783447265625] The elevator was marked and scuffed.
+[0.02025604248046875] Tons of construction in the neighborhood which starts at 6:30 am.
+
+----- Weakening -----
+
+[-0.33856201171875] There is BTW always only one person at front desk, so you can find yourself lining up to get even the simplest things done, like getting a demagnetized card reprogrammed.
+[-0.057281494140625] The neighborhood feels comfortable and safe to me, which is important as a female traveling alone.
+[-0.0259552001953125] The furniture was comfortable.
+[-0.025470733642578125] the lobby is sort of lackluster but the rooms were tasfully updated and very clean.
+[-0.0175933837890625] The don't match the soft coziness of the bedding or mattress.
+
+**********
+
+[0.99542236328125] The lobby is small but nice .
+
+----- Supporting -----
+
+[0.99542236328125] The lobby is small, but nice.
+[0.9886054992675781] The lobby of the hotel is quite small, but well-appointed.
+[0.9600372314453125] Small lobby very intimate but best of all was location.
+[0.7210674285888672] The lobby has a nice little living room style waiting area but only takes 10 seconds to get through to the elevators.
+[0.364013671875] the lobby is sort of lackluster but the rooms were tasfully updated and very clean.
+
+----- Weakening -----
+
+[-0.569915771484375] It was dark, dirty, and noisy from the construction right outside my window.
+[-0.2251739501953125] We nearly thought our car was stolen!
+[-0.20496368408203125] The man who was working at the front desk looked very gruff and mean, when I would ask something he made me feel like I was putting him out.
+[-0.085174560546875] They could not find our car for about an hour!
+[-0.0610504150390625] Still not sure why our car could not be found for that time.
+
+**********
+
+[0.7360725402832031] And the furniture in the rooms is comfortable .
+
+----- Supporting -----
+
+[0.7360725402832031] The lobby is warm and cozy with couches and a fireplace.
+[0.7090377807617188] The furniture was comfortable.
+[0.06060791015625] The lobby is beautfully furnished and offers a great meeting place or somewhere to rest.
+[0.0248870849609375] The lobby has a nice little living room style waiting area but only takes 10 seconds to get through to the elevators.
+[0.005702018737792969] The hotel was well designed and tastefully decorated.
+
+----- Weakening -----
+
+[-0.6191444396972656] It was dark, dirty, and noisy from the construction right outside my window.
+[-0.4213714599609375] We nearly thought our car was stolen!
+[-0.410400390625] Did not want to leave our car there.
+[-0.3602142333984375] Some other minor issues were the desk chair in the room (it fell short of an appropriate working height of the desk and constantly fell down when your leg accidently hit the adjustment bar in front, poor choice of chairs), the elevator door was annoyingly slow to close (I was up and down several times per day), the exterior and lobby doors should be automatic and I noticed people struggling to open them and get their luggage through, they also were misaligned and did not open well.
+[-0.3602142333984375] Some other minor issues were the desk chair in the room (it fell short of an appropriate working height of the desk and constantly fell down when your leg accidently hit the adjustment bar in front, poor choice of chairs), the elevator door was annoyingly slow to close (I was up and down several times per day), the exterior and lobby doors should be automatic and I noticed people struggling to open them and get their luggage through, they also were misaligned and did not open well.
+
+**********
+
+[0.9491806030273438] There are some issues with the desk chairs in the rooms and the elevators .
+
+----- Supporting -----
+
+[0.9491806030273438] Some other minor issues were the desk chair in the room (it fell short of an appropriate working height of the desk and constantly fell down when your leg accidently hit the adjustment bar in front, poor choice of chairs), the elevator door was annoyingly slow to close (I was up and down several times per day), the exterior and lobby doors should be automatic and I noticed people struggling to open them and get their luggage through, they also were misaligned and did not open well.
+[0.9491806030273438] Some other minor issues were the desk chair in the room (it fell short of an appropriate working height of the desk and constantly fell down when your leg accidently hit the adjustment bar in front, poor choice of chairs), the elevator door was annoyingly slow to close (I was up and down several times per day), the exterior and lobby doors should be automatic and I noticed people struggling to open them and get their luggage through, they also were misaligned and did not open well.
+[0.9491806030273438] Some other minor issues were the desk chair in the room (it fell short of an appropriate working height of the desk and constantly fell down when your leg accidently hit the adjustment bar in front, poor choice of chairs), the elevator door was annoyingly slow to close (I was up and down several times per day), the exterior and lobby doors should be automatic and I noticed people struggling to open them and get their luggage through, they also were misaligned and did not open well.
+[0.0144805908203125] My desk chair was broken and I asked for it to be replaced or fixed.
+[0.0071258544921875] The elevator was marked and scuffed.
+
+----- Weakening -----
+
+[-0.21221160888671875] We nearly thought our car was stolen!
+[-0.1036529541015625] They could not find our car for about an hour!
+[-0.08493804931640625] Did not want to leave our car there.
+[-0.08283233642578125] That was my only real complaint, that weird gappy window/air thing.
+[-0.07496261596679688] The furniture was comfortable.
+
+**********
+
+[0.024387359619140625] But overall people seem to be happy with their stay .
+
+----- Supporting -----
+
+[0.024387359619140625] Other than the thin wall between rooms, it was an excellent stay and we'd definitely stay there again.
+[0.018178939819335938] The lobby is beautfully furnished and offers a great meeting place or somewhere to rest.
+[0.01644134521484375] The lobby is small, but nice.
+[0.015752792358398438] Portland is a great city to visit, and I would recommend this hotel to anyone.
+[0.015201568603515625] Nice lobby.
+
+----- Weakening -----
+
+[-0.04330635070800781] We nearly thought our car was stolen!
+[-0.0249176025390625] The man who was working at the front desk looked very gruff and mean, when I would ask something he made me feel like I was putting him out.
+[-0.007781982421875] They could not find our car for about an hour!
+[-0.004383087158203125] The elevator was marked and scuffed.
+[-0.003910064697265625] It was dark, dirty, and noisy from the construction right outside my window.
+
+**********
+
+[0.9405670166015625] The building is well-designed and tastefully decorated .
+
+----- Supporting -----
+
+[0.9405670166015625] The hotel was well designed and tastefully decorated.
+[0.5851974487304688] The lobby of the hotel is quite small, but well-appointed.
+[0.4410400390625] Nicely appointed lobby.
+[0.16424560546875] The lobby is beautfully furnished and offers a great meeting place or somewhere to rest.
+[0.027807235717773438] Nice lobby.
+
+----- Weakening -----
+
+[-0.9533138275146484] It was dark, dirty, and noisy from the construction right outside my window.
+[-0.7450332641601562] You donâ€™t walk in to a fancy lobby, but you also donâ€™t have to pay for it.
+[-0.42768096923828125] We nearly thought our car was stolen!
+[-0.3243293762207031] Some other minor issues were the desk chair in the room (it fell short of an appropriate working height of the desk and constantly fell down when your leg accidently hit the adjustment bar in front, poor choice of chairs), the elevator door was annoyingly slow to close (I was up and down several times per day), the exterior and lobby doors should be automatic and I noticed people struggling to open them and get their luggage through, they also were misaligned and did not open well.
+[-0.3243293762207031] Some other minor issues were the desk chair in the room (it fell short of an appropriate working height of the desk and constantly fell down when your leg accidently hit the adjustment bar in front, poor choice of chairs), the elevator door was annoyingly slow to close (I was up and down several times per day), the exterior and lobby doors should be automatic and I noticed people struggling to open them and get their luggage through, they also were misaligned and did not open well.
+
+**********
+
+[0.971588134765625] But there are some minor issues with the desk chairs and elevators .
+
+----- Supporting -----
+
+[0.971588134765625] Some other minor issues were the desk chair in the room (it fell short of an appropriate working height of the desk and constantly fell down when your leg accidently hit the adjustment bar in front, poor choice of chairs), the elevator door was annoyingly slow to close (I was up and down several times per day), the exterior and lobby doors should be automatic and I noticed people struggling to open them and get their luggage through, they also were misaligned and did not open well.
+[0.971588134765625] Some other minor issues were the desk chair in the room (it fell short of an appropriate working height of the desk and constantly fell down when your leg accidently hit the adjustment bar in front, poor choice of chairs), the elevator door was annoyingly slow to close (I was up and down several times per day), the exterior and lobby doors should be automatic and I noticed people struggling to open them and get their luggage through, they also were misaligned and did not open well.
+[0.971588134765625] Some other minor issues were the desk chair in the room (it fell short of an appropriate working height of the desk and constantly fell down when your leg accidently hit the adjustment bar in front, poor choice of chairs), the elevator door was annoyingly slow to close (I was up and down several times per day), the exterior and lobby doors should be automatic and I noticed people struggling to open them and get their luggage through, they also were misaligned and did not open well.
+[0.00914764404296875] My desk chair was broken and I asked for it to be replaced or fixed.
+[0.003448486328125] The elevator was marked and scuffed.
+
+----- Weakening -----
+
+[-0.200714111328125] We nearly thought our car was stolen!
+[-0.0939178466796875] They could not find our car for about an hour!
+[-0.050811767578125] Did not want to leave our car there.
+[-0.04889678955078125] The only thing was that there was construction going on right across the street that woke us up before 9am on a Monday morning.
+[-0.039730072021484375] Still not sure why our car could not be found for that time.
+
+**********
+
+[0.9513168334960938] There is construction going on nearby .
+
+----- Supporting -----
+
+[0.9513168334960938] There's a lot of construction going on around the hotel so make sure you get a room that is high up and that does not overlook the construction site (ask for a room overlooking Pine St) and you'll be fine.
+[0.9223175048828125] Tons of construction in the neighborhood which starts at 6:30 am.
+[0.8934326171875] The only thing was that there was construction going on right across the street that woke us up before 9am on a Monday morning.
+[0.840911865234375] It was dark, dirty, and noisy from the construction right outside my window.
+[0.6969070434570312] Lots of daytime noise due to the construction.
+
+----- Weakening -----
+
+[-0.0514373779296875] The hotel itself is in an older building, but renovations have obviously kept it up to modern standards.
+[-0.045169830322265625] We nearly thought our car was stolen!
+[-0.041820526123046875] There is a great coffee shop across the street and the stunning Paramount Theater down the block.
+[-0.0400543212890625] There is BTW always only one person at front desk, so you can find yourself lining up to get even the simplest things done, like getting a demagnetized card reprogrammed.
+[-0.0394134521484375] My desk chair was broken and I asked for it to be replaced or fixed.
+
+**********
+
+[0.8918800354003906] It can be noisy .
+
+----- Supporting -----
+
+[0.8918800354003906] It was dark, dirty, and noisy from the construction right outside my window.
+[0.8894233703613281] Lots of daytime noise due to the construction.
+[0.5344924926757812] The only thing was that there was construction going on right across the street that woke us up before 9am on a Monday morning.
+[0.0296783447265625] The elevator was marked and scuffed.
+[0.02025604248046875] Tons of construction in the neighborhood which starts at 6:30 am.
+
+----- Weakening -----
+
+[-0.33856201171875] There is BTW always only one person at front desk, so you can find yourself lining up to get even the simplest things done, like getting a demagnetized card reprogrammed.
+[-0.057281494140625] The neighborhood feels comfortable and safe to me, which is important as a female traveling alone.
+[-0.0259552001953125] The furniture was comfortable.
+[-0.025470733642578125] the lobby is sort of lackluster but the rooms were tasfully updated and very clean.
+[-0.0175933837890625] The don't match the soft coziness of the bedding or mattress.
+
+**********
+
+[0.9904384613037109] The lobby is small .
+
+----- Supporting -----
+
+[0.9904384613037109] The lobby is small, but nice.
+[0.9848175048828125] The lobby of the hotel is quite small, but well-appointed.
+[0.9832973480224609] Small lobby very intimate but best of all was location.
+[0.628204345703125] The lobby has a nice little living room style waiting area but only takes 10 seconds to get through to the elevators.
+[0.357330322265625] There is BTW always only one person at front desk, so you can find yourself lining up to get even the simplest things done, like getting a demagnetized card reprogrammed.
+
+----- Weakening -----
+
+[-0.1378173828125] We nearly thought our car was stolen!
+[-0.080780029296875] Still not sure why our car could not be found for that time.
+[-0.0674285888671875] It was dark, dirty, and noisy from the construction right outside my window.
+[-0.06561279296875] They could not find our car for about an hour!
+[-0.0517578125] My desk chair was broken and I asked for it to be replaced or fixed.
+
+**********
+
+[0.9621086120605469] It is well appointed .
+
+----- Supporting -----
+
+[0.9621086120605469] The lobby of the hotel is quite small, but well-appointed.
+[0.9415321350097656] Nicely appointed lobby.
+[0.8871994018554688] The hotel was well designed and tastefully decorated.
+[0.7705307006835938] The lobby is beautfully furnished and offers a great meeting place or somewhere to rest.
+[0.1945343017578125] We were impressed with the lobby and had high hopes for the room.
+
+----- Weakening -----
+
+[-0.6212234497070312] It was dark, dirty, and noisy from the construction right outside my window.
+[-0.29592132568359375] That could be nice but the new furniture is really over-sized and makes the small rooms even smaller and doesn't allow for a body to move around the room.
+[-0.28497314453125] We nearly thought our car was stolen!
+[-0.2389984130859375] Some other minor issues were the desk chair in the room (it fell short of an appropriate working height of the desk and constantly fell down when your leg accidently hit the adjustment bar in front, poor choice of chairs), the elevator door was annoyingly slow to close (I was up and down several times per day), the exterior and lobby doors should be automatic and I noticed people struggling to open them and get their luggage through, they also were misaligned and did not open well.
+[-0.2389984130859375] Some other minor issues were the desk chair in the room (it fell short of an appropriate working height of the desk and constantly fell down when your leg accidently hit the adjustment bar in front, poor choice of chairs), the elevator door was annoyingly slow to close (I was up and down several times per day), the exterior and lobby doors should be automatic and I noticed people struggling to open them and get their luggage through, they also were misaligned and did not open well.
+
+**********
+
+[0.7362060546875] The building was said to be old .
+
+----- Supporting -----
+
+[0.7362060546875] The hotel itself is in an older building, but renovations have obviously kept it up to modern standards.
+[0.0004444122314453125] The lobby is warm and cozy with couches and a fireplace.
+[-0.0002288818359375] The elevator was marked and scuffed.
+[-0.000335693359375] The lobby has a nice little living room style waiting area but only takes 10 seconds to get through to the elevators.
+[-0.000675201416015625] Nice lobby.
+
+----- Weakening -----
+
+[-0.9077377319335938] That could be nice but the new furniture is really over-sized and makes the small rooms even smaller and doesn't allow for a body to move around the room.
+[-0.761016845703125] the lobby is sort of lackluster but the rooms were tasfully updated and very clean.
+[-0.3055267333984375] We nearly thought our car was stolen!
+[-0.19854736328125] They could not find our car for about an hour!
+[-0.1136322021484375] Still not sure why our car could not be found for that time.
+
+**********
+
+[0.669219970703125] It needs repair .
+
+----- Supporting -----
+
+[0.669219970703125] My desk chair was broken and I asked for it to be replaced or fixed.
+[0.51708984375] The hotel was under exterior renovations, but that worked out for me as I was out of my room for most of the day.
+[0.1709747314453125] the lobby is sort of lackluster but the rooms were tasfully updated and very clean.
+[0.16632080078125] Some other minor issues were the desk chair in the room (it fell short of an appropriate working height of the desk and constantly fell down when your leg accidently hit the adjustment bar in front, poor choice of chairs), the elevator door was annoyingly slow to close (I was up and down several times per day), the exterior and lobby doors should be automatic and I noticed people struggling to open them and get their luggage through, they also were misaligned and did not open well.
+[0.16632080078125] Some other minor issues were the desk chair in the room (it fell short of an appropriate working height of the desk and constantly fell down when your leg accidently hit the adjustment bar in front, poor choice of chairs), the elevator door was annoyingly slow to close (I was up and down several times per day), the exterior and lobby doors should be automatic and I noticed people struggling to open them and get their luggage through, they also were misaligned and did not open well.
+
+----- Weakening -----
+
+[-0.23486328125] The hotel itself is in an older building, but renovations have obviously kept it up to modern standards.
+[-0.1896209716796875] I talked to the front desk and they painlessly arranged for a hotel town car to take me in so I could make my flight on time.
+[-0.1577472686767578] There is a great coffee shop across the street and the stunning Paramount Theater down the block.
+[-0.12793445587158203] The lobby is beautfully furnished and offers a great meeting place or somewhere to rest.
+[-0.1105804443359375] The man who was working at the front desk looked very gruff and mean, when I would ask something he made me feel like I was putting him out.
+
+**********
+
+[0.24505615234375] The staff was said to be rude .
+
+----- Supporting -----
+
+[0.24505615234375] The man who was working at the front desk looked very gruff and mean, when I would ask something he made me feel like I was putting him out.
+[-0.004250526428222656] You donâ€™t walk in to a fancy lobby, but you also donâ€™t have to pay for it.
+[-0.004700183868408203] The hotel was under exterior renovations, but that worked out for me as I was out of my room for most of the day.
+[-0.0052547454833984375] There's a lot of construction going on around the hotel so make sure you get a room that is high up and that does not overlook the construction site (ask for a room overlooking Pine St) and you'll be fine.
+[-0.006037235260009766] Small lobby very intimate but best of all was location.
+
+----- Weakening -----
+
+[-0.4407806396484375] The furniture was comfortable.
+[-0.20441436767578125] We nearly thought our car was stolen!
+[-0.1006011962890625] That was my only real complaint, that weird gappy window/air thing.
+[-0.10041427612304688] The neighborhood feels comfortable and safe to me, which is important as a female traveling alone.
+[-0.09899139404296875] The don't match the soft coziness of the bedding or mattress.
+
+**********
+
+[-0.055419921875] He said he was unhelpful .
+
+----- Supporting -----
+
+[-0.055419921875] The man who was working at the front desk looked very gruff and mean, when I would ask something he made me feel like I was putting him out.
+[-0.11233139038085938] The elevator was marked and scuffed.
+[-0.11504364013671875] They could not find our car for about an hour!
+[-0.17044830322265625] Still not sure why our car could not be found for that time.
+[-0.171844482421875] Did not want to leave our car there.
+
+----- Weakening -----
+
+[-0.8336257934570312] We were impressed with the lobby and had high hopes for the room.
+[-0.8008575439453125] I talked to the front desk and they painlessly arranged for a hotel town car to take me in so I could make my flight on time.
+[-0.77178955078125] The lobby is small, but nice.
+[-0.7666244506835938] My desk chair was broken and I asked for it to be replaced or fixed.
+[-0.7584152221679688] The lobby is beautfully furnished and offers a great meeting place or somewhere to rest.

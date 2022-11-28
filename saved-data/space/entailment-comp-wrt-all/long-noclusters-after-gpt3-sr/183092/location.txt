@@ -1,0 +1,149 @@
+***** Aspect: location Model Type : zs *****
+Overall score: 0.9530918257577079
+
+**********
+
+[0.9728755950927734] The location was good.
+Parent: Overall, reviewers thought the location was good.
+
+----- Supporting -----
+
+[0.9728755950927734] The location couldn't have been better.
+[0.9662876129150391] The location couldn't be better.
+[0.963714599609375] Location is good and the hotel is quiet.
+[0.9611368179321289] The location was perfect!
+[0.9593715667724609] The location was an excellent one for us because our event was just across the street, but we also walked to dinner on Queen Street, had many shopping choices (itâ€™s connected to the Eaton Centre, or you can meander along funky Queen West) and itâ€™s close to the subway.
+
+----- Weakening -----
+
+[-0.553436279296875] My only negative comment about the room was the view - it looked straight into an adjacent office building.
+[-0.49875640869140625] The hotel is connected to the Eaton center = dangerous!!!
+[-0.3350868225097656] It is probably the most depressing hotel I have ever stayed in.
+[-0.3191947937011719] During our recent trip we stayed in 5 hotels in Canada and this was by far the worst.
+[-0.293609619140625] Poor QC here.
+
+**********
+
+[0.9826192855834961] The hotel is adjacent to the Eaton Centre mall.
+Parent: It is adjacent to the Eaton Centre mall and across the street from Toronto city hall.
+
+----- Supporting -----
+
+[0.9826192855834961] The hotel's downtown location is convenient for public transportation and adjacent to the Eaton Centre Mall.
+[0.9567832946777344] Not sure if that's a regular occurrence, but again, it's a nice hotel attached to the Eaton Center mall pretty close to the water (within walking distance).
+[0.9475250244140625] The hotel is wonderfully located to all metro hospitals and when some very important down time is needed the Eaton Center mall is attached so you do not have to worry about the weather or putting on a coat.
+[0.9419288635253906] This hotel is connected to Eaton Center, which is the biggest and best shopping mall downtown.
+[0.919529914855957] Really liked my stay, it's right next to Eaton Ctr, room was spacious and modern.
+
+----- Weakening -----
+
+[-0.9671726226806641] The hotel is located diagonally across from Nathan Phillips Square.
+[-0.9306793212890625] Yhis Marriott is located immediately next to the Trinity Church and the Waton Centre; immediately in the heart of downtown Toronto.
+[-0.9248409271240234] The beds were nice and we had a view of the church next door.
+[-0.9130611419677734] It is across the streets from both old and new City Hall.
+[-0.8603973388671875] It is also right beside Nathan Phillips Square, which has a skating rink all winter.
+
+**********
+
+[0.9893240928649902] It is across the street from Toronto city hall.
+Parent: It is adjacent to the Eaton Centre mall and across the street from Toronto city hall.
+
+----- Supporting -----
+
+[0.9893240928649902] It is adjacent to the Eaton Centre mall, and across the street from the Toronto city hall.
+[0.060272216796875] It is across the streets from both old and new City Hall.
+[0.0003681182861328125] The location couldn't be better.
+[0.0002288818359375] The location can't be beat.
+[4.1961669921875e-05] The location couldn't have been better.
+
+----- Weakening -----
+
+[-0.9812107086181641] The hotel is located diagonally across from Nathan Phillips Square.
+[-0.9757843017578125] The best thing about this hotel is its location next to Eaton Centre.
+[-0.9240684509277344] Needless to say, the Eaton Centre is practically next door to the hotel.
+[-0.911041259765625] One of the best features of this hotel is its proximity to the Eaton Centre as it is connected with a walkway so you can leave your coats in your room and shop all day.
+[-0.9015884399414062] The beds were nice and we had a view of the church next door.
+
+**********
+
+[0.9854764938354492] Check-in was easy.
+Parent: Check-in was smooth, and the hotel honored a request for a high floor room.
+
+----- Supporting -----
+
+[0.9854764938354492] Check in was quick, easy, and again the staff were very helpful.
+[0.983769416809082] Check-in was smooth and the hotel had received my on-line request for a high floor and honored it.
+[0.9806022644042969] Check-in was a breeze.
+[0.9748039245605469] Check-in smooth.
+[0.973541259765625] Book-in online was quick and easy, check-in was a breeze and they even gave us a free upgrade to a bedroom suite to celebrate the occassion.
+
+----- Weakening -----
+
+[-0.9966559410095215] We also experienced a false fire alarm which was disconcerting as it took quite some time for us to get through to the receptionist to see whether we should proceed down the fire stairs or stay put..
+[-0.9904708862304688] The gentleman was excessively rude, simply entered the room, removed the dead bug and looked VERY quickly over the rest of the room before saying "Looks like we got em all".
+[-0.9881610870361328] Beware of tight turns in for parking garage under facility.
+[-0.9869670867919922] Not very convenient to go down to lobby all the time...Staff was not at all helpful in this matter... A sidenote: the room when we arrived was not vacumed and was not clean.
+[-0.9850888252258301] I was on the 10th floor, it took forever for the shower to get hot and when it did the temperature fluctuated radically from luke warm to scalding.
+
+**********
+
+[0.8149871826171875] The hotel gave the guests a high floor room.
+Parent: Check-in was smooth, and the hotel honored a request for a high floor room.
+
+----- Supporting -----
+
+[0.8149871826171875] Check-in was smooth and the hotel had received my on-line request for a high floor and honored it.
+[0.5859375] Nice and clean gym on the top, typical hotel breakfast available downstairs.
+[0.4725189208984375] The check went smoothly and we got a room on the 5th floor.
+[0.3832244873046875] We were assigned a room on the 15th floor, which was beautiful.
+[0.37896728515625] Getting to our room was fine as there are many elevators that access the guest room floors.
+
+----- Weakening -----
+
+[-0.965057373046875] After checking with the manager, they gave us one night of free parking, so we chose valet.
+[-0.9568557739257812] As an elite member, I had access to the ground floor concierge lounge and the complementary buffet breakfast each morning.
+[-0.9516220092773438] During the conference, the food/service department did a fantastic job with meals.
+[-0.92254638671875] Expensive parking.
+[-0.8986282348632812] Work out room is past the pool, seems to have quite a few good machines, small room though.
+
+**********
+
+[0.938990592956543] The phone system was not working properly.
+Parent: There were some issues with the phone system in some of the rooms not working when guests checked in.
+
+----- Supporting -----
+
+[0.938990592956543] The issue I had is that the phone system in some of the rooms was not functioning when I checked in.
+[0.6310672760009766] I tried to hook up my computer to the internet in the room afterwards, but I found that this was not working either because of the phone line issue.
+[0.4134521484375] Only hangup was the boarding pass console was not working for Porter.
+[0.1420440673828125] Great service, friendly staff, good food - pity the room wiater couldn't go further than the threshold !!!!
+[0.05453681945800781] and said that I really needed to do some work on my computer and I asked whether they could not speed up the repair on the line.
+
+----- Weakening -----
+
+[-0.9541072845458984] Amazing service between the front desk, bell hops, and valet workers.
+[-0.9091033935546875] Reception and checkin staff are flawless and will help you with anything youay need.
+[-0.8501062393188477] The service has always been excellent.
+[-0.8065948486328125] The maid service was excellent and very prompt.
+[-0.770111083984375] Our in-room safe wasn't working properly, but that was corrected while we went out for an afternoon exploration of Toronto.
+
+**********
+
+[0.9873695373535156] Some of the rooms did not have working phones when guests checked in.
+Parent: There were some issues with the phone system in some of the rooms not working when guests checked in.
+
+----- Supporting -----
+
+[0.9873695373535156] The issue I had is that the phone system in some of the rooms was not functioning when I checked in.
+[0.157867431640625] A few minutes later this person came to my room and handed me a key to another room that happened to have its line fixed already for that night.
+[0.15261077880859375] Only hangup was the boarding pass console was not working for Porter.
+[0.12042236328125] Our in-room safe wasn't working properly, but that was corrected while we went out for an afternoon exploration of Toronto.
+[0.11019134521484375] We also experienced a false fire alarm which was disconcerting as it took quite some time for us to get through to the receptionist to see whether we should proceed down the fire stairs or stay put..
+
+----- Weakening -----
+
+[-0.3232879638671875] Amazing service between the front desk, bell hops, and valet workers.
+[-0.2826652526855469] Every interaction I had with the staff was perfect.
+[-0.259796142578125] We were working on an important project.
+[-0.22405433654785156] The service has always been excellent.
+[-0.217132568359375] of a Sears store, which is a little weird...but other than that, it was handy.

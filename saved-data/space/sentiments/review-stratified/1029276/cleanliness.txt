@@ -1,0 +1,50 @@
+***** cleanliness : Sentiments for original sentences *****
+HOUSEKEEPING : + 0     - 1
+Valet booth : + 0     - 1
+Housekeeping : + 0     - 1
+room : + 0     - 2
+noise : + 0     - 1
+Concierge desk : + 1     - 0
+bellman : + 1     - 0
+valet employees : + 1     - 0
+waitress : + 1     - 0
+ventilation system : + 0     - 1
+Check : + 1     - 0
+wifi : + 1     - 0
+fitmess : + 1     - 0
+airconditioning : + 0     - 1
+minibar : + 1     - 0
+bath towels : + 0     - 1
+signage : + 0     - 1
+theme : + 1     - 0
+decor : + 2     - 0
+ceviche : + 1     - 0
+Conciere : + 1     - 0
+Valet service : + 1     - 0
+food : + 1     - 0
+view : + 1     - 0
+Pool area : + 0     - 1
+Room : + 0     - 1
+floor : + 0     - 1
+sheets : + 0     - 1
+breakfast : + 0     - 1
+valet : + 1     - 0
+guards : + 0     - 1
+A / C : + 0     - 1
+Check - in : + 1     - 0
+towels : + 0     - 1
+valet guys : + 0     - 1
+***** cleanliness : Sentiments for raw summaries *****
+security guards : + 0     - 1
+valet guys : + 0     - 1
+room : + 0     - 1
+towels : + 0     - 1
+rooms : + 0     - 1
+floor : + 0     - 1
+toaster : + 0     - 1
+sheets : + 0     - 1
+housekeeping : + 0     - 1
+valet employees : + 1     - 0
+A / C : + 0     - 1
+Check - in : + 1     - 0
+***** cleanliness : Sentiments for final summary *****

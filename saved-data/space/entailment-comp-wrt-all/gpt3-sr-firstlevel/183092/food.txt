@@ -1,0 +1,296 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.8823368208748954
+
+**********
+
+[0.9211692810058594] The food was disappointing.
+Parent: Some reviews said that the food was disappointing, while others said that it was excellent.
+
+----- Supporting -----
+
+[0.9211692810058594] Concierge lounge nibbles in the evening were a little disappointing, but the staff were friendly (I think this area used to be the old steak house).
+[0.8994464874267578] We are NOT demanding restaurant a patrons, but both the food and the service was poor.
+[0.8365821838378906] Food presentation was fancy, but the food didn't taste very good.
+[0.411651611328125] I had some fried rice that was much too gingery; my side dish of broccoli was overcooked; the key lime pie tasted as if it came from a mix - you get the idea.
+[0.385894775390625] The restaurant is not very good, so I would not eat in the restaurant unless you have to.
+
+----- Weakening -----
+
+[-0.9979166984558105] Our dinner was memorable with a nice atmosphere, delicious food and the service friendly and helpful.
+[-0.9978451728820801] Breakfast arrived right on time and was delicious (scrambled egs, well done bacon, juice and tea...perfect!).
+[-0.9977359771728516] We never went hungry and the quality of the food was excellent.
+[-0.9977145195007324] The meal itself was extremely good, it is well worth your money to have a meal there, you won't be disappointed.
+[-0.9975953102111816] The breakfast was top-notch including a wide variety of fresh produce.
+
+**********
+
+[0.9881863594055176] The food was excellent.
+Parent: Some reviews said that the food was disappointing, while others said that it was excellent.
+
+----- Supporting -----
+
+[0.9881863594055176] The food was excellent.
+[0.9639906883239746] We never went hungry and the quality of the food was excellent.
+[0.9487361907958984] Food was good and service from all of the staff was extremely professional.
+[0.9468741416931152] The food quality in the restaurant was very good.
+[0.9355440139770508] The meal itself was extremely good, it is well worth your money to have a meal there, you won't be disappointed.
+
+----- Weakening -----
+
+[-0.9973726272583008] Food presentation was fancy, but the food didn't taste very good.
+[-0.9968085289001465] We are NOT demanding restaurant a patrons, but both the food and the service was poor.
+[-0.9964466094970703] The restaurant is not very good, so I would not eat in the restaurant unless you have to.
+[-0.9932217597961426] Restaurant OK but slow; nothing special.
+[-0.9895401000976562] Concierge lounge nibbles in the evening were a little disappointing, but the staff were friendly (I think this area used to be the old steak house).
+
+**********
+
+[0.6605491638183594] The hotel's food is not good.
+Parent: It is recommended that you do not eat at the hotel due to the high prices.
+
+----- Supporting -----
+
+[0.6605491638183594] Concierge lounge nibbles in the evening were a little disappointing, but the staff were friendly (I think this area used to be the old steak house).
+[0.39389705657958984] Food presentation was fancy, but the food didn't taste very good.
+[0.2579936981201172] The restaurant is not very good, so I would not eat in the restaurant unless you have to.
+[0.2545166015625] There were only 3 minor disappointments -- the concierge lounge was full of families with kids so breakfast was a bit noisy and crowded, the rooftop pool was small and also full of kids, and food at the hotel was pricey -- we got better quality food at more reasonable prices at nearby restaurants.
+[0.20092010498046875] We are NOT demanding restaurant a patrons, but both the food and the service was poor.
+
+----- Weakening -----
+
+[-0.9948525428771973] The meal itself was extremely good, it is well worth your money to have a meal there, you won't be disappointed.
+[-0.9946994781494141] The food was excellent.
+[-0.994692325592041] We never went hungry and the quality of the food was excellent.
+[-0.9944801330566406] It might have been one of the best ones I had so far with its wide selection of pretty much anything you would want for breakfast.
+[-0.9943885803222656] We had breakfast and lunch at the Parkside restaurant in the hotel, the food was of a very high standard, and children less than three eat free ( it costs $7.95 for children over three for the breakfast buffet).
+
+**********
+
+[0.9415664672851562] The hotel is expensive.
+Parent: It is recommended that you do not eat at the hotel due to the high prices.
+
+----- Supporting -----
+
+[0.9415664672851562] They do have a restaurant inside but of course is pricey like most hotels.
+[0.9235801696777344] It think it may also be the most expensive of all of the Toronto Marriott hotels.
+[0.8257980346679688] You are paying a premium price for being in the centre of the city and staying in a well maintained hotel, but I thought it was worth it.
+[0.7662239074707031] I can't comment on the food or drinks offered at the hotel as we did not order anything at the restaurant or room service - it was pretty expensive.
+[0.7213211059570312] One of the things that make people willing to pay a lot of money for this place is because the hotel has a walkway that goes right into the eaton centre mall.
+
+----- Weakening -----
+
+[-0.92840576171875] In light of the strength of the Canadian dollar and on shopping for rates we were able to stay here for under 100 dollars a night inculding a made to order breakfast served in a very pleasant restaurant.
+[-0.9271097183227539] They arranged rental car service for us as well as airport transport.. All very reasonably priced and on time.
+[-0.9262619018554688] The restaurant was very good and reasonably priced for a hotel restaurant.
+[-0.913909912109375] (1) Location of the hotel is ideal , my wife was thrilled as it was within short walling distance to the Eaton center one of the largest shopping centers in Toronto (2) Room is spacious compared to other 4 star hotels, good furniture, clean and neat (3) Good entertainment with LCD 37 inch TV with on demand movies and more (4) Staff are friendly and professional, good staffing numbers very adequate (5) Breakfast was great and included in the price of around US$ 200 per night , very fair price for this hotel, the breakfast included fresh fruits (Produce of Canada) and eggs and an egg station and many other delights
+[-0.913330078125] The hotel is very clean, the rooms were a good price for the quality received, and, best of all, the location can't be beat.
+
+**********
+
+[0.9833207130432129] The food was good.
+Parent: The reviewers generally thought that the food was good, although they thought it was expensive.
+
+----- Supporting -----
+
+[0.9833207130432129] The food was excellent.
+[0.9718503952026367] Food was good and service from all of the staff was extremely professional.
+[0.9661850929260254] The food quality in the restaurant was very good.
+[0.9551897048950195] The meal itself was extremely good, it is well worth your money to have a meal there, you won't be disappointed.
+[0.9322152137756348] We never went hungry and the quality of the food was excellent.
+
+----- Weakening -----
+
+[-0.9843788146972656] We are NOT demanding restaurant a patrons, but both the food and the service was poor.
+[-0.9813728332519531] Food presentation was fancy, but the food didn't taste very good.
+[-0.9768619537353516] The restaurant is not very good, so I would not eat in the restaurant unless you have to.
+[-0.9202079772949219] Concierge lounge nibbles in the evening were a little disappointing, but the staff were friendly (I think this area used to be the old steak house).
+[-0.8643379211425781] I can't comment on the food or drinks offered at the hotel as we did not order anything at the restaurant or room service - it was pretty expensive.
+
+**********
+
+[0.989079475402832] The food was expensive.
+Parent: The reviewers generally thought that the food was good, although they thought it was expensive.
+
+----- Supporting -----
+
+[0.989079475402832] The meal was pricey, but well worth it.
+[0.9380893707275391] There were only 3 minor disappointments -- the concierge lounge was full of families with kids so breakfast was a bit noisy and crowded, the rooftop pool was small and also full of kids, and food at the hotel was pricey -- we got better quality food at more reasonable prices at nearby restaurants.
+[0.9201812744140625] (see photo) The breakfast buffet was a little expensive but the food and service were both very good.
+[0.9049568176269531] I can't comment on the food or drinks offered at the hotel as we did not order anything at the restaurant or room service - it was pretty expensive.
+[0.8510208129882812] The pool area is quite small, and elevators, lobby is packed by noon, and there seem to be a lot of kids running around everytime im there, and the giftshop and cafe were very overpriced.
+
+----- Weakening -----
+
+[-0.9910106658935547] The restaurant was very good and reasonably priced for a hotel restaurant.
+[-0.9244842529296875] (1) Location of the hotel is ideal , my wife was thrilled as it was within short walling distance to the Eaton center one of the largest shopping centers in Toronto (2) Room is spacious compared to other 4 star hotels, good furniture, clean and neat (3) Good entertainment with LCD 37 inch TV with on demand movies and more (4) Staff are friendly and professional, good staffing numbers very adequate (5) Breakfast was great and included in the price of around US$ 200 per night , very fair price for this hotel, the breakfast included fresh fruits (Produce of Canada) and eggs and an egg station and many other delights
+[-0.88824462890625] Room service was not over-priced and it took about half an hour for our dinner to arrive on the Saturday evening, when we were too lazy to venture out for a meal.
+[-0.8452301025390625] A very friendly owner and you can get three eggs, two toasts, bacon and coffee for $3.99, so we became regulars for four days.
+[-0.8151168823242188] Expensive parking.
+
+**********
+
+[0.7364711761474609] The food was varied and good.
+Parent: They appreciated the variety of food available, and thought that the quality was good.
+
+----- Supporting -----
+
+[0.7364711761474609] The restaurant ,Trios, has a menu with a variety of items (crabcakes, scallops, meatloaf, salmon and short ribs were amazing).
+[0.6218900680541992] The breakfast was top-notch including a wide variety of fresh produce.
+[0.4438304901123047] We never went hungry and the quality of the food was excellent.
+[0.4091167449951172] Breakfast arrived right on time and was delicious (scrambled egs, well done bacon, juice and tea...perfect!).
+[0.25946998596191406] (see photo) The breakfast buffet was a little expensive but the food and service were both very good.
+
+----- Weakening -----
+
+[-0.9806885719299316] We are NOT demanding restaurant a patrons, but both the food and the service was poor.
+[-0.9660215377807617] Room service breakfast was $20 for nothing too special.
+[-0.9622764587402344] Food presentation was fancy, but the food didn't taste very good.
+[-0.9591598510742188] The restaurant is not very good, so I would not eat in the restaurant unless you have to.
+[-0.9456663131713867] Didn't eat there.
+
+**********
+
+[0.9804472923278809] The quality of the food was good.
+Parent: They appreciated the variety of food available, and thought that the quality was good.
+
+----- Supporting -----
+
+[0.9804472923278809] The food quality in the restaurant was very good.
+[0.9700984954833984] We never went hungry and the quality of the food was excellent.
+[0.9190115928649902] We had breakfast and lunch at the Parkside restaurant in the hotel, the food was of a very high standard, and children less than three eat free ( it costs $7.95 for children over three for the breakfast buffet).
+[0.9179067611694336] Food was good and service from all of the staff was extremely professional.
+[0.8576784133911133] The food was excellent.
+
+----- Weakening -----
+
+[-0.9514636993408203] We are NOT demanding restaurant a patrons, but both the food and the service was poor.
+[-0.9502449035644531] Concierge lounge nibbles in the evening were a little disappointing, but the staff were friendly (I think this area used to be the old steak house).
+[-0.9461688995361328] The restaurant is not very good, so I would not eat in the restaurant unless you have to.
+[-0.7013397216796875] I had some fried rice that was much too gingery; my side dish of broccoli was overcooked; the key lime pie tasted as if it came from a mix - you get the idea.
+[-0.6920719146728516] Poor QC here.
+
+**********
+
+[0.9554843902587891] The food was not good.
+Parent: However, they did note that there were some problems with the food, such as the wrong dish being served, or the food not tasting very good.
+
+----- Supporting -----
+
+[0.9554843902587891] We are NOT demanding restaurant a patrons, but both the food and the service was poor.
+[0.935760498046875] Food presentation was fancy, but the food didn't taste very good.
+[0.8773117065429688] The restaurant is not very good, so I would not eat in the restaurant unless you have to.
+[0.8286514282226562] Concierge lounge nibbles in the evening were a little disappointing, but the staff were friendly (I think this area used to be the old steak house).
+[0.4567718505859375] Breakfast was reasonable but unremarkable and the service very hit and miss.
+
+----- Weakening -----
+
+[-0.9947223663330078] Breakfast arrived right on time and was delicious (scrambled egs, well done bacon, juice and tea...perfect!).
+[-0.9946918487548828] We never went hungry and the quality of the food was excellent.
+[-0.9945030212402344] The meal itself was extremely good, it is well worth your money to have a meal there, you won't be disappointed.
+[-0.993927001953125] The breakfast was top-notch including a wide variety of fresh produce.
+[-0.9938640594482422] The breakfast was awesome !
+
+**********
+
+[0.817230224609375] The dish served was wrong.
+Parent: However, they did note that there were some problems with the food, such as the wrong dish being served, or the food not tasting very good.
+
+----- Supporting -----
+
+[0.817230224609375] When my husband's Cesar salad was served with chicken instead of salmon, he had to hunt down the waiter to point out the problem, and the waiter barely seemed to care.
+[0.6723785400390625] We are NOT demanding restaurant a patrons, but both the food and the service was poor.
+[0.6021728515625] I had some fried rice that was much too gingery; my side dish of broccoli was overcooked; the key lime pie tasted as if it came from a mix - you get the idea.
+[0.488739013671875] Food presentation was fancy, but the food didn't taste very good.
+[0.4329071044921875] Concierge lounge nibbles in the evening were a little disappointing, but the staff were friendly (I think this area used to be the old steak house).
+
+----- Weakening -----
+
+[-0.9961323738098145] We never went hungry and the quality of the food was excellent.
+[-0.9953947067260742] The food was excellent.
+[-0.9943761825561523] The restaurant ,Trios, has a menu with a variety of items (crabcakes, scallops, meatloaf, salmon and short ribs were amazing).
+[-0.9937820434570312] The breakfast was awesome !
+[-0.9936766624450684] Food was good and service from all of the staff was extremely professional.
+
+**********
+
+[0.9614400863647461] The food wasn't very good.
+Parent: However, they did note that there were some problems with the food, such as the wrong dish being served, or the food not tasting very good.
+
+----- Supporting -----
+
+[0.9614400863647461] Food presentation was fancy, but the food didn't taste very good.
+[0.9176263809204102] The restaurant is not very good, so I would not eat in the restaurant unless you have to.
+[0.8990154266357422] We are NOT demanding restaurant a patrons, but both the food and the service was poor.
+[0.888519287109375] Concierge lounge nibbles in the evening were a little disappointing, but the staff were friendly (I think this area used to be the old steak house).
+[0.7012252807617188] Breakfast was reasonable but unremarkable and the service very hit and miss.
+
+----- Weakening -----
+
+[-0.9931583404541016] We never went hungry and the quality of the food was excellent.
+[-0.9926891326904297] Breakfast arrived right on time and was delicious (scrambled egs, well done bacon, juice and tea...perfect!).
+[-0.9923305511474609] The food was excellent.
+[-0.9916534423828125] The meal itself was extremely good, it is well worth your money to have a meal there, you won't be disappointed.
+[-0.9909934997558594] The breakfast was top-notch including a wide variety of fresh produce.
+
+**********
+
+[0.9833207130432129] The food was good.
+Parent: Some reviewers found the food to be good, while others found it to be average.
+
+----- Supporting -----
+
+[0.9833207130432129] The food was excellent.
+[0.9718503952026367] Food was good and service from all of the staff was extremely professional.
+[0.9661850929260254] The food quality in the restaurant was very good.
+[0.9551897048950195] The meal itself was extremely good, it is well worth your money to have a meal there, you won't be disappointed.
+[0.9322152137756348] We never went hungry and the quality of the food was excellent.
+
+----- Weakening -----
+
+[-0.9843788146972656] We are NOT demanding restaurant a patrons, but both the food and the service was poor.
+[-0.9813728332519531] Food presentation was fancy, but the food didn't taste very good.
+[-0.9768619537353516] The restaurant is not very good, so I would not eat in the restaurant unless you have to.
+[-0.9202079772949219] Concierge lounge nibbles in the evening were a little disappointing, but the staff were friendly (I think this area used to be the old steak house).
+[-0.8643379211425781] I can't comment on the food or drinks offered at the hotel as we did not order anything at the restaurant or room service - it was pretty expensive.
+
+**********
+
+[0.4849090576171875] The food was average.
+Parent: Some reviewers found the food to be good, while others found it to be average.
+
+----- Supporting -----
+
+[0.4849090576171875] Breakfast was reasonable but unremarkable and the service very hit and miss.
+[0.43170166015625] Food presentation was fancy, but the food didn't taste very good.
+[0.06282806396484375] Room service breakfast was $20 for nothing too special.
+[0.0382080078125] Only had a drink in the bar, which was average hotel lobby bar.
+[0.028472900390625] Restaurant OK but slow; nothing special.
+
+----- Weakening -----
+
+[-0.9950437545776367] The breakfast was top-notch including a wide variety of fresh produce.
+[-0.9948587417602539] The breakfast was awesome !
+[-0.9947185516357422] The restaurant ,Trios, has a menu with a variety of items (crabcakes, scallops, meatloaf, salmon and short ribs were amazing).
+[-0.9937782287597656] The hotel staff may act like they don't know where it is... but it's on Queen St. For some reason, when we asked about it, they acted like they never heard of it - but it was packed, and they have awesome food!
+[-0.9932641983032227] The meal itself was extremely good, it is well worth your money to have a meal there, you won't be disappointed.
+
+**********
+
+[0.9495410919189453] The breakfast was good.
+Parent: Some reviewers specifically mentioned that the breakfast was good.
+
+----- Supporting -----
+
+[0.9495410919189453] The breakfast was awesome !
+[0.9458584785461426] The buffett breakfast which was included with our rate was good every morning and better than most hotels.
+[0.941462516784668] Breakfast arrived right on time and was delicious (scrambled egs, well done bacon, juice and tea...perfect!).
+[0.8910064697265625] The breakfast was top-notch including a wide variety of fresh produce.
+[0.8850173950195312] The breakfast that is served at the hotel is wonderful!!
+
+----- Weakening -----
+
+[-0.9523162841796875] Hot Tub was good.
+[-0.9313240051269531] Room service breakfast was $20 for nothing too special.
+[-0.9265074729919434] Didn't eat there.
+[-0.7858314514160156] Poor QC here.
+[-0.7695236206054688] I appreciated the restaurant/bar which served up a good meal after a long day of travel.

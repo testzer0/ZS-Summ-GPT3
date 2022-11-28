@@ -1,0 +1,632 @@
+***** Aspect: service Model Type : zs *****
+Overall score: 0.9191044012705485
+
+**********
+
+[0.9665980339050293] The service at this hotel was excellent.
+Parent: The service at this hotel was generally praised by reviewers.
+
+----- Supporting -----
+
+[0.9665980339050293] Simply put Its a clean, well run hotel, with excellent service at the front desk and very large rooms that look great.
+[0.9345746040344238] We were extremely impressed with both the hotel and the service.
+[0.9019269943237305] Overall we were very pleased with the quality of the hotel and the service.
+[0.8971381187438965] The hotel was great and the people at the front desk were awesome.
+[0.8881559371948242] I was pleased with service of the hotel and appreciated the free internet connection.
+
+----- Weakening -----
+
+[-0.9978327751159668] My experience at this hotel was the worst I've ever experience within the service industry.
+[-0.997687578201294] The staff were rude and quite useless, they just seemed annoyed and unwilling to help no matter how polite we were.
+[-0.9970512390136719] The front desk staff were very unfriendly and always seemed to make matters overly complicated.
+[-0.9962444305419922] 1) Rude staff at the front desk (only one of the employees we dealt with were nice); 2) Restaurant only open part of the time; 3) They DID give us a bigger and cheaper parking space out behind the building because our SUV wouldn't fit in the underground parking, but there were junkies hanging around at that parking lot; 3) FOUND A BEDBUG IN THE BATHROOM SINK (ALIVE) -- 'NUFF SAID!
+[-0.9960050582885742] But from the time they told us we had to go get public parking down the street, to mixed up room arrangement, through just rude service, and a tile falling from the bathroom wall, the price was not worth it.
+
+**********
+
+[0.993131160736084] The staff were friendly and helpful.
+Parent: Some said that the staff were friendly and helpful, while others said that the view from their room was great.
+
+----- Supporting -----
+
+[0.993131160736084] Staff were very helpful and friendly.
+[0.9926304817199707] The staff were friendly and helpful.
+[0.9881339073181152] The staff were friendly, helpful and the view of the Toronto skyline I had from my room was great.
+[0.9870195388793945] All the staff I encountered were friendly and couldn't have been more helpful, which I found very reassuring as a lone female traveller on her first trip to Canada.
+[0.9851870536804199] However the staff were very pleasant and helpful, and the grand piano in the lobby was attractive but never played!
+
+----- Weakening -----
+
+[-0.9983072280883789] The staff were rude and quite useless, they just seemed annoyed and unwilling to help no matter how polite we were.
+[-0.998295783996582] The front desk staff were very unfriendly and always seemed to make matters overly complicated.
+[-0.9971365928649902] 1) Rude staff at the front desk (only one of the employees we dealt with were nice); 2) Restaurant only open part of the time; 3) They DID give us a bigger and cheaper parking space out behind the building because our SUV wouldn't fit in the underground parking, but there were junkies hanging around at that parking lot; 3) FOUND A BEDBUG IN THE BATHROOM SINK (ALIVE) -- 'NUFF SAID!
+[-0.9970130920410156] The front desk person was very abrupt and had a serious attitude problem.
+[-0.9969973564147949] Before checking in, they rudely told us that the parking space we had requested had been given to someone else and that we were to go down the street to public parking lot.
+
+**********
+
+[0.9795022010803223] The view from the room was great.
+Parent: Some said that the staff were friendly and helpful, while others said that the view from their room was great.
+
+----- Supporting -----
+
+[0.9795022010803223] The room was clean, and had a great view.
+[0.9760541915893555] The room was good and had a nice view.
+[0.9607143402099609] The room was great, and I was given room 1705 which had a king bed and a fantastic view.
+[0.9551029205322266] The parking attendant was pleasant, the check in went smoothly,the room and the view was terrific.
+[0.9479193687438965] The best thing about the room was its view.
+
+----- Weakening -----
+
+[-0.9267463684082031] The problem is you do not see where your box is being placed and how it is secured.
+[-0.8979148864746094] The downside is outside the area it is a bit rough with people standing about smoking and hanging out.
+[-0.8680133819580078] Gloomy room.
+[-0.8646984100341797] Weâ€™ve travelled to some very poor countries in our lives, but weâ€™ve never seen such dirty conditions!
+[-0.8173542022705078] Heed this warning stay away from this crappy place, you'll be glad you did.
+
+**********
+
+[0.9510631561279297] The reviewer's experience at the hotel was the worst they had ever had.
+Parent: However, one reviewer said that their experience at the hotel was the worst they had ever had, and that customer service was not a priority for the hotel.
+
+----- Supporting -----
+
+[0.9510631561279297] My experience at this hotel was the worst I've ever experience within the service industry.
+[0.86590576171875] This was one of the worst experiences I have ever with a hotel room that cost $160 a night.
+[0.5917205810546875] We arrived at 3:00 in the morning, and drove through the night to arrive to the filthiest hotel we have ever seen!
+[0.5719146728515625] This was certainly not the greatest hotel I have ever stayed in.
+[0.14413070678710938] I've stayed in many places around the world but this was the worst.
+
+----- Weakening -----
+
+[-0.9978336095809937] We really liked this hotel!
+[-0.9978315830230713] We were extremely impressed with both the hotel and the service.
+[-0.9978113174438477] We've stayed at the Primrose several times over the last few months, and have had generally good experiences.
+[-0.9977340698242188] I can honestly say the Best Western Primrose Hotel, Toronto Downtown was one of the very best I have had the pleasure of staying in.
+[-0.9973641633987427] Overall we were very pleased with the quality of the hotel and the service.
+
+**********
+
+[0.9799165725708008] The hotel did not prioritize customer service.
+Parent: However, one reviewer said that their experience at the hotel was the worst they had ever had, and that customer service was not a priority for the hotel.
+
+----- Supporting -----
+
+[0.9799165725708008] It is obvious that Customer Service is not a priority for this hotel.
+[0.2650146484375] The Primrose is a dated property offering only basic levels of service.
+[0.24269676208496094] The staff made no effort to give guests priority on them, either.
+[0.20306396484375] Don't stay at this hotel unless you like slow (and possibly unsafe) elevators, flaky wireless Internet, and poor customer service.
+[0.17653656005859375] The front desk staff were very unfriendly and always seemed to make matters overly complicated.
+
+----- Weakening -----
+
+[-0.9879193305969238] The front desk staff were superb and went out of their way to help with one girl at the front desk loaning me her personal umbrella so I could go to the shops without getting soaked.
+[-0.9859762191772461] The staff at checkin was quick to notice our children were a little fussy and provided crayons and coloring books that calmed them right down, The room was huge complete with microwave and small fridge so we could warm up left over which is always important travelling with kids.
+[-0.9857892990112305] 2) Our favorite bottle of wine is waiting for us in the room 3) Reservations are made at our favorite restauraunt 4) Staff know us by our first names 5) My wife gets a birthday email on her birthday 6) The staff truly feels like family TRY THIS hOTEL you wont be disapointed!
+[-0.9842138290405273] The staff were friendly and helpful in arranging for taxiâ€™s for me, and always greeted me with a smile.
+[-0.9829998016357422] Ultra friendly staff at the desk - they let me check in a couple of hours early.
+
+**********
+
+[0.9904632568359375] The staff member at the desk was very abrupt.
+Parent: Another reviewer said that the staff member at the desk was very abrupt and had a serious attitude problem.
+
+----- Supporting -----
+
+[0.9904632568359375] The front desk person was very abrupt and had a serious attitude problem.
+[0.9079055786132812] A woman at the front desk is the rudest person i have ever met.
+[0.7001953125] The front desk staff were very unfriendly and always seemed to make matters overly complicated.
+[0.61602783203125] One front desk was outright rude and unhelpful for several requests which had to be handled by a morning person who was confused why the evening staff wouldn't help me until I told her the staff name and she rolled her eyes and suggested I speak with management.
+[0.5615997314453125] 1) Rude staff at the front desk (only one of the employees we dealt with were nice); 2) Restaurant only open part of the time; 3) They DID give us a bigger and cheaper parking space out behind the building because our SUV wouldn't fit in the underground parking, but there were junkies hanging around at that parking lot; 3) FOUND A BEDBUG IN THE BATHROOM SINK (ALIVE) -- 'NUFF SAID!
+
+----- Weakening -----
+
+[-0.9970383644104004] The ladies at the reception desk were very pleasant and always smiling and very helpful in giving us directions.
+[-0.995582103729248] Ultra friendly staff at the desk - they let me check in a couple of hours early.
+[-0.9951262474060059] Housekeeping and front desk staff were all very nice and friendly.
+[-0.9942479133605957] Vicky at the front desk was very nice and made us feel welcome.
+[-0.9940357208251953] At check out the couple ahead of me had a bad experience with the management but the young fellow at the desk handled it with such grace that I wanted to applaud him.
+
+**********
+
+[0.9772229194641113] The staff member at the desk was rude.
+Parent: Another reviewer said that the staff member at the desk was very abrupt and had a serious attitude problem.
+
+----- Supporting -----
+
+[0.9772229194641113] A woman at the front desk is the rudest person i have ever met.
+[0.971592903137207] One front desk was outright rude and unhelpful for several requests which had to be handled by a morning person who was confused why the evening staff wouldn't help me until I told her the staff name and she rolled her eyes and suggested I speak with management.
+[0.9685802459716797] 1) Rude staff at the front desk (only one of the employees we dealt with were nice); 2) Restaurant only open part of the time; 3) They DID give us a bigger and cheaper parking space out behind the building because our SUV wouldn't fit in the underground parking, but there were junkies hanging around at that parking lot; 3) FOUND A BEDBUG IN THE BATHROOM SINK (ALIVE) -- 'NUFF SAID!
+[0.9448356628417969] The front desk staff were very unfriendly and always seemed to make matters overly complicated.
+[0.9445114135742188] The front desk person was very abrupt and had a serious attitude problem.
+
+----- Weakening -----
+
+[-0.9975242614746094] The ladies at the reception desk were very pleasant and always smiling and very helpful in giving us directions.
+[-0.9973602294921875] Ultra friendly staff at the desk - they let me check in a couple of hours early.
+[-0.9970521926879883] Housekeeping and front desk staff were all very nice and friendly.
+[-0.9969735145568848] Vicky at the front desk was very nice and made us feel welcome.
+[-0.9957246780395508] The lady in reception was very helpful and kind, she got us a very good room at a reasonable price.
+
+**********
+
+[0.958796501159668] The service at this hotel was good.
+Parent: The service at this hotel was generally praised by reviewers.
+
+----- Supporting -----
+
+[0.958796501159668] Simply put Its a clean, well run hotel, with excellent service at the front desk and very large rooms that look great.
+[0.9494080543518066] I was pleased with service of the hotel and appreciated the free internet connection.
+[0.9215679168701172] Overall we were very pleased with the quality of the hotel and the service.
+[0.9077835083007812] We were extremely impressed with both the hotel and the service.
+[0.9003877639770508] I found the hotel staff very friendly and accomodating.
+
+----- Weakening -----
+
+[-0.9957704544067383] My experience at this hotel was the worst I've ever experience within the service industry.
+[-0.9909167289733887] The staff were rude and quite useless, they just seemed annoyed and unwilling to help no matter how polite we were.
+[-0.9856128692626953] There was a 'restaurant' that never did open the three days, two nights we stayed and no room service.
+[-0.9837932586669922] But from the time they told us we had to go get public parking down the street, to mixed up room arrangement, through just rude service, and a tile falling from the bathroom wall, the price was not worth it.
+[-0.9795980453491211] The front desk staff were very unfriendly and always seemed to make matters overly complicated.
+
+**********
+
+[0.8582077026367188] Some staff members were not up to par.
+Parent: There were a few complaints about specific staff members, but overall the service was seen as helpful and friendly.
+
+----- Supporting -----
+
+[0.8582077026367188] The staff were rude and quite useless, they just seemed annoyed and unwilling to help no matter how polite we were.
+[0.8318347930908203] #1) Business Centre: no paper in printer, no pens, no envelopes, wi-fi slow and potentially virused #2) Several of the desk staff were cold and flat in their behaviour.
+[0.8298206329345703] 1) Rude staff at the front desk (only one of the employees we dealt with were nice); 2) Restaurant only open part of the time; 3) They DID give us a bigger and cheaper parking space out behind the building because our SUV wouldn't fit in the underground parking, but there were junkies hanging around at that parking lot; 3) FOUND A BEDBUG IN THE BATHROOM SINK (ALIVE) -- 'NUFF SAID!
+[0.7757120132446289] The front desk person was very abrupt and had a serious attitude problem.
+[0.7698440551757812] One front desk was outright rude and unhelpful for several requests which had to be handled by a morning person who was confused why the evening staff wouldn't help me until I told her the staff name and she rolled her eyes and suggested I speak with management.
+
+----- Weakening -----
+
+[-0.6181793212890625] All the staff I encountered were friendly and couldn't have been more helpful, which I found very reassuring as a lone female traveller on her first trip to Canada.
+[-0.5882949829101562] The staff were very pleasant and we had no issues with them.
+[-0.46379852294921875] Went to Toronto for a buyers show and stayed at this Primrose Hotel because there was a dinner function there for us.Â  Booked on bestwestern.com as I found the rate was pretty much the same on all the websites I checked.Â  Lobby was ok, nothing too fancy.Â  I was checked in by the manager who seemed very nice and told me he upgraded my room - thanks!Â  Room was HUGE!Â  Great view of the city, very comfortable bed, I slept well.Â  Bathroom was ok, kinda like the lobby.Â  All the staff were very friendly and the breakfast buffet was good but overpriced compared to the Golden Greek restaurant next door that I found on my next morning.Â  For the price I paid I would stay again.
+[-0.46010589599609375] The front desk staff were superb and went out of their way to help with one girl at the front desk loaning me her personal umbrella so I could go to the shops without getting soaked.
+[-0.451141357421875] Ultra friendly staff at the desk - they let me check in a couple of hours early.
+
+**********
+
+[0.9761838912963867] The service was helpful and friendly.
+Parent: There were a few complaints about specific staff members, but overall the service was seen as helpful and friendly.
+
+----- Supporting -----
+
+[0.9761838912963867] However the staff were very pleasant and helpful, and the grand piano in the lobby was attractive but never played!
+[0.9698777198791504] The staff were friendly and helpful in arranging my daily taxis to the convention centre.
+[0.9696502685546875] I found the hotel staff very friendly and accomodating.
+[0.9684476852416992] Everything was spotlessly clean and comfortable and the staff were very helpful and polite.
+[0.9680190086364746] The staff were friendly and helpful in arranging for taxiâ€™s for me, and always greeted me with a smile.
+
+----- Weakening -----
+
+[-0.9983425140380859] The front desk staff were very unfriendly and always seemed to make matters overly complicated.
+[-0.9983115196228027] The staff were rude and quite useless, they just seemed annoyed and unwilling to help no matter how polite we were.
+[-0.9968690872192383] One front desk was outright rude and unhelpful for several requests which had to be handled by a morning person who was confused why the evening staff wouldn't help me until I told her the staff name and she rolled her eyes and suggested I speak with management.
+[-0.9959836006164551] The front desk person was very abrupt and had a serious attitude problem.
+[-0.9950466156005859] The front desk is rude and inexperienced.
+
+**********
+
+[0.7328662872314453] The business amenities were well-received.
+Parent: Additionally, the hotel's business amenities were well-received.
+
+----- Supporting -----
+
+[0.7328662872314453] Housekeeping and front desk staff were all very nice and friendly.
+[0.6852550506591797] We were very pleased with the service and the meeting space.
+[0.4072761535644531] The front desk staff were superb and went out of their way to help with one girl at the front desk loaning me her personal umbrella so I could go to the shops without getting soaked.
+[0.3988189697265625] Everything was spotlessly clean and comfortable and the staff were very helpful and polite.
+[0.3863964080810547] The hotel was great and the people at the front desk were awesome.
+
+----- Weakening -----
+
+[-0.9637069702148438] I had called down to front desk to ask for some extra towels and they were giving me a hard time.
+[-0.961883544921875] But we didnt realise they were as bad as they were, on the 3rd time of using them we got stuck!!
+[-0.9475421905517578] In my entire life, I have never been treated in such a rude, disrespecting manner.
+[-0.9442481994628906] My experience at this hotel was the worst I've ever experience within the service industry.
+[-0.9432315826416016] The staff were rude and quite useless, they just seemed annoyed and unwilling to help no matter how polite we were.
+
+**********
+
+[0.9915728569030762] The staff were friendly.
+Parent: Overall, reviewers thought the staff were friendly and helpful.
+
+----- Supporting -----
+
+[0.9915728569030762] The staff were friendly and helpful.
+[0.9900894165039062] The staff was friendly.
+[0.9889664649963379] The staff were friendly and efficient.
+[0.9866714477539062] The staff were very friendly and cheery and the kids also liked the Tim Hortons in the lobby for the donuts.
+[0.986546516418457] Staff were very helpful and friendly.
+
+----- Weakening -----
+
+[-0.996098518371582] The staff were rude and quite useless, they just seemed annoyed and unwilling to help no matter how polite we were.
+[-0.9953746795654297] The front desk staff were very unfriendly and always seemed to make matters overly complicated.
+[-0.9946370124816895] The front desk person was very abrupt and had a serious attitude problem.
+[-0.9944801330566406] Looks very disgruntled employees they have got.
+[-0.9929466247558594] Before checking in, they rudely told us that the parking space we had requested had been given to someone else and that we were to go down the street to public parking lot.
+
+**********
+
+[0.9368915557861328] overall, reviewers thought the staff were helpful.
+Parent: Overall, reviewers thought the staff were friendly and helpful.
+
+----- Supporting -----
+
+[0.9368915557861328] Overall, a great place to stay because the rooms were clean, staff was friendly and helpful, many attractions and great restaurants are walking distance from the hotel.
+[0.9156684875488281] The rooms are reasonably clean, the beds fairly comfortable, and the staff mostly helpful.
+[0.7355365753173828] The service was good and everyone seemed very friendly and helpful.
+[0.7070465087890625] 2) Our favorite bottle of wine is waiting for us in the room 3) Reservations are made at our favorite restauraunt 4) Staff know us by our first names 5) My wife gets a birthday email on her birthday 6) The staff truly feels like family TRY THIS hOTEL you wont be disapointed!
+[0.6968860626220703] Overall we were very pleased with the quality of the hotel and the service.
+
+----- Weakening -----
+
+[-0.9916906356811523] The staff were rude and quite useless, they just seemed annoyed and unwilling to help no matter how polite we were.
+[-0.9687023162841797] The front desk staff were very unfriendly and always seemed to make matters overly complicated.
+[-0.9432468414306641] But from the time they told us we had to go get public parking down the street, to mixed up room arrangement, through just rude service, and a tile falling from the bathroom wall, the price was not worth it.
+[-0.8969364166259766] The general feeling of this hotel was tired and run down.
+[-0.8930044174194336] Looks very disgruntled employees they have got.
+
+**********
+
+[0.9933743476867676] The staff were rude.
+Parent: Some reviewers thought the staff were rude or useless, but this was not a widespread view.
+
+----- Supporting -----
+
+[0.9933743476867676] The staff were rude and quite useless, they just seemed annoyed and unwilling to help no matter how polite we were.
+[0.9530487060546875] 1) Rude staff at the front desk (only one of the employees we dealt with were nice); 2) Restaurant only open part of the time; 3) They DID give us a bigger and cheaper parking space out behind the building because our SUV wouldn't fit in the underground parking, but there were junkies hanging around at that parking lot; 3) FOUND A BEDBUG IN THE BATHROOM SINK (ALIVE) -- 'NUFF SAID!
+[0.9379291534423828] The front desk is rude and inexperienced.
+[0.9236049652099609] The front desk staff were very unfriendly and always seemed to make matters overly complicated.
+[0.8903770446777344] One front desk was outright rude and unhelpful for several requests which had to be handled by a morning person who was confused why the evening staff wouldn't help me until I told her the staff name and she rolled her eyes and suggested I speak with management.
+
+----- Weakening -----
+
+[-0.9981482028961182] It was really clean, and the housekeeping lady was very friendly and always asking if I needed any additional toiletries or coffee.
+[-0.9981000423431396] The ladies at the reception desk were very pleasant and always smiling and very helpful in giving us directions.
+[-0.9980354309082031] I found the hotel staff very friendly and accomodating.
+[-0.9980254173278809] All the staff I encountered were friendly and couldn't have been more helpful, which I found very reassuring as a lone female traveller on her first trip to Canada.
+[-0.9979891777038574] Ultra friendly staff at the desk - they let me check in a couple of hours early.
+
+**********
+
+[0.9599380493164062] The staff were useless.
+Parent: Some reviewers thought the staff were rude or useless, but this was not a widespread view.
+
+----- Supporting -----
+
+[0.9599380493164062] The staff were rude and quite useless, they just seemed annoyed and unwilling to help no matter how polite we were.
+[0.54486083984375] hair bath front desk staff unhappy and helpless.
+[0.104248046875] But from the time they told us we had to go get public parking down the street, to mixed up room arrangement, through just rude service, and a tile falling from the bathroom wall, the price was not worth it.
+[0.09271240234375] The front desk staff were very unfriendly and always seemed to make matters overly complicated.
+[0.0350341796875] But we didnt realise they were as bad as they were, on the 3rd time of using them we got stuck!!
+
+----- Weakening -----
+
+[-0.9986317157745361] The staff was really nice and helpful and directed me to the nearest tourist attractions.
+[-0.9986286163330078] The front desk staff were superb and went out of their way to help with one girl at the front desk loaning me her personal umbrella so I could go to the shops without getting soaked.
+[-0.9985966682434082] All the staff I encountered were friendly and couldn't have been more helpful, which I found very reassuring as a lone female traveller on her first trip to Canada.
+[-0.9982035160064697] The lady at the front desk was amazing and not only gave me free maps, but also spent a lot of time giving us tips on where the best clubs / bars etc were and even told us how to get on list so we didnâ€™t have to wait in line.
+[-0.998199462890625] The ladies at the reception desk were very pleasant and always smiling and very helpful in giving us directions.
+
+**********
+
+[0.3461265563964844] This view was not shared by many people.
+Parent: Some reviewers thought the staff were rude or useless, but this was not a widespread view.
+
+----- Supporting -----
+
+[0.3461265563964844] They also didn't all have the same procedures.
+[0.1779022216796875] Despite our best efforts to convey how irreplaceable it was, housekeeping claimed not to have seen it.
+[0.138031005859375] They weren't that friendly.
+[0.1153717041015625] In my entire life, I have never been treated in such a rude, disrespecting manner.
+[0.11074066162109375] Considering that a lot of rooms are let out to students, it was pretty quiet.
+
+----- Weakening -----
+
+[-0.9153480529785156] The group in general was pleased with the rooms.
+[-0.8801231384277344] It was full when I got there and had to get a "pass" to park in the employees parking lot in the back alley!
+[-0.8504791259765625] There were several `ladies of indeterminate occupation` on duty outside the front door most of the day & night.
+[-0.8441982269287109] We picked a non smoking room with two double beds.There are several restaurants in this area.
+[-0.7994575500488281] There are a lot of students there so it made the elevators very slow at meal times.
+
+**********
+
+[0.9329433441162109] The rooms were not up to par.
+Parent: Some guests had problems with their room or with the hotel's amenities, but most found the staff to be accommodating.
+
+----- Supporting -----
+
+[0.9329433441162109] Although most of the staff were nice, the rooms were dated and could use some renovation.
+[0.8633804321289062] The laundry facilitys are in poor quality.
+[0.8510303497314453] The rooms are in need of a remodel.
+[0.8081741333007812] The rooms are tired with many defects (both my rooms had faults including bulbs out, loose headboard and loose bathroom fittings.
+[0.6142654418945312] Â The carpet wasn't as well vacuumed as one would expect with the corners and edges not done for a while.
+
+----- Weakening -----
+
+[-0.991398811340332] The rooms were very updated and the beds were very comfortable!
+[-0.9913716316223145] When I got to my room I was impressed.
+[-0.9900083541870117] Room and furnishings were in good shape and overall I was very impressed given I was expecting a horror show.
+[-0.9859232902526855] The room was great, and I was given room 1705 which had a king bed and a fantastic view.
+[-0.9856472015380859] The room was perfect for us, and had 2 queen beds and a great view of the lake (we were on the 20th floor).
+
+**********
+
+[0.7689018249511719] The hotel's amenities were not up to par.
+Parent: Some guests had problems with their room or with the hotel's amenities, but most found the staff to be accommodating.
+
+----- Supporting -----
+
+[0.7689018249511719] None of the 'perks' of the hotel were available-pool, steam room, gym, and the TV was old and hardly worked.
+[0.6569442749023438] The hotel however seems to be ageing with the air con unit making a loud grinding noise and shower water sometimes talking hours to drain from the bath tub due to a blockage.
+[0.6284599304199219] The Primrose is a dated property offering only basic levels of service.
+[0.5869731903076172] The rooms are old, the bathroom smelled, we had a view of air conditioners and the gym was a joke.
+[0.5711803436279297] Although most of the staff were nice, the rooms were dated and could use some renovation.
+
+----- Weakening -----
+
+[-0.9868879318237305] I was pleased with the hotel in general and it had all the amenities I needed.
+[-0.986546516418457] Also to our delight there was a fitness centre, swimming pool and a sauna.
+[-0.9859166145324707] The hotel has everything we needed and the room was clean and large for the family.
+[-0.9854798316955566] Everything was spotlessly clean and comfortable and the staff were very helpful and polite.
+[-0.9850931167602539] I was pleased with service of the hotel and appreciated the free internet connection.
+
+**********
+
+[0.9809226989746094] The staff was accommodating.
+Parent: Some guests had problems with their room or with the hotel's amenities, but most found the staff to be accommodating.
+
+----- Supporting -----
+
+[0.9809226989746094] Hotel staff were very friendly and accomadating.
+[0.9793472290039062] The staff were nice and helpful.
+[0.9757890701293945] I found the hotel staff very friendly and accomodating.
+[0.9748020172119141] Staff were very helpful and friendly.
+[0.9743814468383789] However the staff were very pleasant and helpful, and the grand piano in the lobby was attractive but never played!
+
+----- Weakening -----
+
+[-0.9967565536499023] The staff were rude and quite useless, they just seemed annoyed and unwilling to help no matter how polite we were.
+[-0.9958105087280273] The front desk staff were very unfriendly and always seemed to make matters overly complicated.
+[-0.9923572540283203] Before checking in, they rudely told us that the parking space we had requested had been given to someone else and that we were to go down the street to public parking lot.
+[-0.9914150238037109] The front desk person was very abrupt and had a serious attitude problem.
+[-0.9908905029296875] One front desk was outright rude and unhelpful for several requests which had to be handled by a morning person who was confused why the evening staff wouldn't help me until I told her the staff name and she rolled her eyes and suggested I speak with management.
+
+**********
+
+[0.9477977752685547] The reviews were not all positive.
+Parent: The reviews were mixed, with some people finding the staff to be friendly and helpful, and others finding them to be rude and unhelpful.
+
+----- Supporting -----
+
+[0.9477977752685547] Overall, not perfect but good value for money.
+[0.9457206726074219] The biggest disappointments were: -Elevators (being "updated", bumpy ride, not reliable-ended up on a floor we didn't know we could access!)
+[0.8970470428466797] 1) Rude staff at the front desk (only one of the employees we dealt with were nice); 2) Restaurant only open part of the time; 3) They DID give us a bigger and cheaper parking space out behind the building because our SUV wouldn't fit in the underground parking, but there were junkies hanging around at that parking lot; 3) FOUND A BEDBUG IN THE BATHROOM SINK (ALIVE) -- 'NUFF SAID!
+[0.8749179840087891] But from the time they told us we had to go get public parking down the street, to mixed up room arrangement, through just rude service, and a tile falling from the bathroom wall, the price was not worth it.
+[0.8446559906005859] A few very minor complaints - the bathroom was very small and a bit cold, since the only heat was from a small baseboard heater.
+
+----- Weakening -----
+
+[-0.8345050811767578] We all really enjoyed our stay, and hope that sometime in the future, we will be able to return to Toronto and explore the city more since we really didnâ€™t get much time to look around.
+[-0.8217811584472656] All the staff I encountered were friendly and couldn't have been more helpful, which I found very reassuring as a lone female traveller on her first trip to Canada.
+[-0.8074150085449219] We were very pleased with the service and the meeting space.
+[-0.8027381896972656] We had an absolutely fabulous time.
+[-0.7557945251464844] We were very pleased with our choice.
+
+**********
+
+[0.9936251640319824] The staff was friendly and helpful.
+Parent: The reviews were mixed, with some people finding the staff to be friendly and helpful, and others finding them to be rude and unhelpful.
+
+----- Supporting -----
+
+[0.9936251640319824] Staff were very helpful and friendly.
+[0.9936208724975586] The staff were friendly and helpful.
+[0.9886341094970703] The staff were friendly, helpful and the view of the Toronto skyline I had from my room was great.
+[0.986546516418457] All the staff I encountered were friendly and couldn't have been more helpful, which I found very reassuring as a lone female traveller on her first trip to Canada.
+[0.9856915473937988] However the staff were very pleasant and helpful, and the grand piano in the lobby was attractive but never played!
+
+----- Weakening -----
+
+[-0.9983081817626953] The staff were rude and quite useless, they just seemed annoyed and unwilling to help no matter how polite we were.
+[-0.9982638359069824] The front desk staff were very unfriendly and always seemed to make matters overly complicated.
+[-0.9975180625915527] The front desk person was very abrupt and had a serious attitude problem.
+[-0.9970855712890625] 1) Rude staff at the front desk (only one of the employees we dealt with were nice); 2) Restaurant only open part of the time; 3) They DID give us a bigger and cheaper parking space out behind the building because our SUV wouldn't fit in the underground parking, but there were junkies hanging around at that parking lot; 3) FOUND A BEDBUG IN THE BATHROOM SINK (ALIVE) -- 'NUFF SAID!
+[-0.9970197677612305] Before checking in, they rudely told us that the parking space we had requested had been given to someone else and that we were to go down the street to public parking lot.
+
+**********
+
+[0.9945459365844727] The staff was rude and unhelpful.
+Parent: The reviews were mixed, with some people finding the staff to be friendly and helpful, and others finding them to be rude and unhelpful.
+
+----- Supporting -----
+
+[0.9945459365844727] The staff were rude and quite useless, they just seemed annoyed and unwilling to help no matter how polite we were.
+[0.9627170562744141] One front desk was outright rude and unhelpful for several requests which had to be handled by a morning person who was confused why the evening staff wouldn't help me until I told her the staff name and she rolled her eyes and suggested I speak with management.
+[0.9299287796020508] The front desk staff were very unfriendly and always seemed to make matters overly complicated.
+[0.87103271484375] The front desk is rude and inexperienced.
+[0.78790283203125] #1) Business Centre: no paper in printer, no pens, no envelopes, wi-fi slow and potentially virused #2) Several of the desk staff were cold and flat in their behaviour.
+
+----- Weakening -----
+
+[-0.9987380504608154] The lady at the front desk was amazing and not only gave me free maps, but also spent a lot of time giving us tips on where the best clubs / bars etc were and even told us how to get on list so we didnâ€™t have to wait in line.
+[-0.9986889362335205] Very helpful at the front desk.
+[-0.9986693859100342] The front desk staff were superb and went out of their way to help with one girl at the front desk loaning me her personal umbrella so I could go to the shops without getting soaked.
+[-0.9986517429351807] It was really clean, and the housekeeping lady was very friendly and always asking if I needed any additional toiletries or coffee.
+[-0.9986517429351807] The lady in reception was very helpful and kind, she got us a very good room at a reasonable price.
+
+**********
+
+[0.5555038452148438] The internet speed was too slow.
+Parent: There were also complaints about the slow internet speed and the lack of amenities in the business center.
+
+----- Supporting -----
+
+[0.5555038452148438] #1) Business Centre: no paper in printer, no pens, no envelopes, wi-fi slow and potentially virused #2) Several of the desk staff were cold and flat in their behaviour.
+[0.1441650390625] Free internet access worked fine, but not fast.
+[0.13421630859375] Don't stay at this hotel unless you like slow (and possibly unsafe) elevators, flaky wireless Internet, and poor customer service.
+[0.0996856689453125] You'll get on for a couple minutes and then it will flake out and you'll spend the next 10 minutes trying to reconnect.
+[0.0488128662109375] My only real complaint is that the elevators were very slow and the computers in the business centre were slow as well.
+
+----- Weakening -----
+
+[-0.997241735458374] Connection was fast and I had no issues.
+[-0.9950017929077148] Room was BIG, bed was comfy, had an a good size fridge in it too and it's the first hotel I've been to in a while where the internet was free and fast.
+[-0.9943618774414062] Checking in and out was very quick.
+[-0.9908244609832764] Check-in was fast and friendly.
+[-0.983483076095581] Everything went very smoothly.
+
+**********
+
+[0.9044656753540039] The business center was lacking in amenities.
+Parent: There were also complaints about the slow internet speed and the lack of amenities in the business center.
+
+----- Supporting -----
+
+[0.9044656753540039] #1) Business Centre: no paper in printer, no pens, no envelopes, wi-fi slow and potentially virused #2) Several of the desk staff were cold and flat in their behaviour.
+[0.6825103759765625] The Primrose is a dated property offering only basic levels of service.
+[0.258575439453125] Went to Toronto for a buyers show and stayed at this Primrose Hotel because there was a dinner function there for us.Â  Booked on bestwestern.com as I found the rate was pretty much the same on all the websites I checked.Â  Lobby was ok, nothing too fancy.Â  I was checked in by the manager who seemed very nice and told me he upgraded my room - thanks!Â  Room was HUGE!Â  Great view of the city, very comfortable bed, I slept well.Â  Bathroom was ok, kinda like the lobby.Â  All the staff were very friendly and the breakfast buffet was good but overpriced compared to the Golden Greek restaurant next door that I found on my next morning.Â  For the price I paid I would stay again.
+[0.213134765625] 1) Rude staff at the front desk (only one of the employees we dealt with were nice); 2) Restaurant only open part of the time; 3) They DID give us a bigger and cheaper parking space out behind the building because our SUV wouldn't fit in the underground parking, but there were junkies hanging around at that parking lot; 3) FOUND A BEDBUG IN THE BATHROOM SINK (ALIVE) -- 'NUFF SAID!
+[0.12432861328125] The general feeling of this hotel was tired and run down.
+
+----- Weakening -----
+
+[-0.9949502944946289] There was also a business room where you could enjoy free internet and use of the fax and printer.
+[-0.9933111667633057] Lots of good restaurants in the area too.
+[-0.9921331405639648] Staff was extra friendly, room was large and clean, had a great view of the city and we were walking distance to just about everything.
+[-0.9912729263305664] There was a nice sitting area and free wireless access.
+[-0.9911580085754395] surrounded by great restauants and a healthy walking distance to shops, Air Canada Centre, CN Tower.
+
+**********
+
+[0.9709129333496094] The service was good.
+Parent: The reviews said that the service was good and that the staff were friendly and helpful.
+
+----- Supporting -----
+
+[0.9709129333496094] The service was good and everyone seemed very friendly and helpful.
+[0.9684176445007324] The service was excellent and the session went without a hitch.
+[0.9506626129150391] The service was great and we had a breakfast arranged in a private dining room which everyone enjoyed.
+[0.9153547286987305] The staff treatment was alright.
+[0.909092903137207] We were pleased with the service we received.
+
+----- Weakening -----
+
+[-0.9957079887390137] The staff were rude and quite useless, they just seemed annoyed and unwilling to help no matter how polite we were.
+[-0.9931097030639648] My experience at this hotel was the worst I've ever experience within the service industry.
+[-0.9884490966796875] The front desk staff were very unfriendly and always seemed to make matters overly complicated.
+[-0.9785385131835938] But we didnt realise they were as bad as they were, on the 3rd time of using them we got stuck!!
+[-0.9718837738037109] In my entire life, I have never been treated in such a rude, disrespecting manner.
+
+**********
+
+[0.9915728569030762] The staff were friendly.
+Parent: The reviews said that the service was good and that the staff were friendly and helpful.
+
+----- Supporting -----
+
+[0.9915728569030762] The staff were friendly and helpful.
+[0.9900894165039062] The staff was friendly.
+[0.9889664649963379] The staff were friendly and efficient.
+[0.9866714477539062] The staff were very friendly and cheery and the kids also liked the Tim Hortons in the lobby for the donuts.
+[0.986546516418457] Staff were very helpful and friendly.
+
+----- Weakening -----
+
+[-0.996098518371582] The staff were rude and quite useless, they just seemed annoyed and unwilling to help no matter how polite we were.
+[-0.9953746795654297] The front desk staff were very unfriendly and always seemed to make matters overly complicated.
+[-0.9946370124816895] The front desk person was very abrupt and had a serious attitude problem.
+[-0.9944801330566406] Looks very disgruntled employees they have got.
+[-0.9929466247558594] Before checking in, they rudely told us that the parking space we had requested had been given to someone else and that we were to go down the street to public parking lot.
+
+**********
+
+[0.9900565147399902] The staff were helpful.
+Parent: The reviews said that the service was good and that the staff were friendly and helpful.
+
+----- Supporting -----
+
+[0.9900565147399902] The staff were nice and helpful.
+[0.9895486831665039] The staff were friendly and helpful.
+[0.9871835708618164] Staff were very helpful and friendly.
+[0.9781570434570312] The staff were friendly, helpful and the view of the Toronto skyline I had from my room was great.
+[0.9781355857849121] I found the staff to be helpful and courteous as well.
+
+----- Weakening -----
+
+[-0.9976210594177246] The staff were rude and quite useless, they just seemed annoyed and unwilling to help no matter how polite we were.
+[-0.9966344833374023] The front desk staff were very unfriendly and always seemed to make matters overly complicated.
+[-0.9911842346191406] One front desk was outright rude and unhelpful for several requests which had to be handled by a morning person who was confused why the evening staff wouldn't help me until I told her the staff name and she rolled her eyes and suggested I speak with management.
+[-0.987823486328125] hair bath front desk staff unhappy and helpless.
+[-0.9785728454589844] Before checking in, they rudely told us that the parking space we had requested had been given to someone else and that we were to go down the street to public parking lot.
+
+**********
+
+[0.9896283149719238] The staff was pleasant.
+Parent: Overall, the reviewers found the staff to be pleasant and accommodating.
+
+----- Supporting -----
+
+[0.9896283149719238] The staff were very pleasant and we had no issues with them.
+[0.9778561592102051] The staff were pleasant and assisted in getting taxis for me when needed.
+[0.9750175476074219] However the staff were very pleasant and helpful, and the grand piano in the lobby was attractive but never played!
+[0.9741911888122559] The staff was very polite, rooms were clean, and the hotel has a great location.
+[0.9737257957458496] The staff were very friendly and cheery and the kids also liked the Tim Hortons in the lobby for the donuts.
+
+----- Weakening -----
+
+[-0.9966630935668945] The staff were rude and quite useless, they just seemed annoyed and unwilling to help no matter how polite we were.
+[-0.9965295791625977] The front desk person was very abrupt and had a serious attitude problem.
+[-0.9957046508789062] The front desk staff were very unfriendly and always seemed to make matters overly complicated.
+[-0.9940414428710938] Before checking in, they rudely told us that the parking space we had requested had been given to someone else and that we were to go down the street to public parking lot.
+[-0.9939031600952148] A woman at the front desk is the rudest person i have ever met.
+
+**********
+
+[0.9809226989746094] The staff was accommodating.
+Parent: Overall, the reviewers found the staff to be pleasant and accommodating.
+
+----- Supporting -----
+
+[0.9809226989746094] Hotel staff were very friendly and accomadating.
+[0.9793472290039062] The staff were nice and helpful.
+[0.9757890701293945] I found the hotel staff very friendly and accomodating.
+[0.9748020172119141] Staff were very helpful and friendly.
+[0.9743814468383789] However the staff were very pleasant and helpful, and the grand piano in the lobby was attractive but never played!
+
+----- Weakening -----
+
+[-0.9967565536499023] The staff were rude and quite useless, they just seemed annoyed and unwilling to help no matter how polite we were.
+[-0.9958105087280273] The front desk staff were very unfriendly and always seemed to make matters overly complicated.
+[-0.9923572540283203] Before checking in, they rudely told us that the parking space we had requested had been given to someone else and that we were to go down the street to public parking lot.
+[-0.9914150238037109] The front desk person was very abrupt and had a serious attitude problem.
+[-0.9908905029296875] One front desk was outright rude and unhelpful for several requests which had to be handled by a morning person who was confused why the evening staff wouldn't help me until I told her the staff name and she rolled her eyes and suggested I speak with management.
+
+**********
+
+[0.9794774055480957] Vicky was nice.
+Parent: Vicky at the front desk was especially praised for her friendliness.
+
+----- Supporting -----
+
+[0.9794774055480957] Vicky at the front desk was very nice and made us feel welcome.
+[0.4149169921875] The hotel was very nice, and looks like they are doing renovations.
+[0.372772216796875] Room was large and clean, bathroom was nice, looks like it was newly renovated.
+[0.328948974609375] Lobby seemed nice, there's a restaurant right off the lobby that is also very nice and the Tim Horton's attached to the hotel is a great perk for me (I need my Tim's coffee in the AM!).
+[0.308929443359375] The hotel was totally cool.
+
+----- Weakening -----
+
+[-0.975311279296875] A woman at the front desk is the rudest person i have ever met.
+[-0.9715061187744141] Very frustrating.
+[-0.9694747924804688] The front desk person was very abrupt and had a serious attitude problem.
+[-0.9656486511230469] An annoyance rather than trouble really.
+[-0.9598979949951172] A couple of my friends and I stayed there for a weekend of fun and it was awful from the start.

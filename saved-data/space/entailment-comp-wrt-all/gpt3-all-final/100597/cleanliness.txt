@@ -1,0 +1,86 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.9306787252426147
+
+**********
+
+[0.9276237487792969] The hotel was not clean.
+Parent: Overall, the reviewers were divided on the cleanliness of the hotel, with some finding it to be clean and comfortable and others finding it old and in need of renovation.
+
+----- Supporting -----
+
+[0.9276237487792969] But the bathroom was not so clean and it's a huge let-down for a hotel like this to be so neglected.
+[0.8844451904296875] This is a pretty rundown hotel.
+[0.824920654296875] The shuttle was hot and smelly again and people were mad.
+[0.813201904296875] The hotel has seen its newer days: the carpets are threadbare in some spots and the cement balconies are noticeably empty of furniture.
+[0.7483367919921875] I was informed that entire floor was currently being re-furbished and there were no rooms of that quality available.
+
+----- Weakening -----
+
+[-0.9885177612304688] This hotel is clean, neat and offers good value for the money.
+[-0.9868583679199219] The Hotel was clean, great staff, was greeted with hot fresh cookies at the check-in counter.
+[-0.9849700927734375] The hotel was clean, beds were fine, hotel is located across the street from the air port, was within walking distance to a Denny's, Jack in the Box, and a steak place.
+[-0.9840850830078125] Easy to reach, very clean and well-appointed rooms.
+[-0.9832706451416016] My room and bathroom were both very clean and the service at the hotel was friendly, The check in process could be slow and it would be helpful if the airline crews were not given first priority to jump in front of everyone waiting.
+
+**********
+
+[0.9714603424072266] The hotel was clean and comfortable.
+Parent: Overall, the reviewers were divided on the cleanliness of the hotel, with some finding it to be clean and comfortable and others finding it old and in need of renovation.
+
+----- Supporting -----
+
+[0.9714603424072266] For an airport hotel, it was surprisingly quiet, rooms were extremely comfortable and well prepared, and the staff were all extremely helpful and courteous.
+[0.9415583610534668] The hotel was clean, beds were fine, hotel is located across the street from the air port, was within walking distance to a Denny's, Jack in the Box, and a steak place.
+[0.8948898315429688] Well appointed, clean, convenient to airport and travels south of Seattle However, we were not informed by Priceline when we made resesrvations that hotel guests are charged $16/day +tax of $1.52 to park in the HUGE hotel parking lot.
+[0.8376064300537109] My room and bathroom were both very clean and the service at the hotel was friendly, The check in process could be slow and it would be helpful if the airline crews were not given first priority to jump in front of everyone waiting.
+[0.8204803466796875] This hotel is clean, neat and offers good value for the money.
+
+----- Weakening -----
+
+[-0.9979977607727051] This property is a mess.
+[-0.9978690147399902] The bathroom was dirty and stained.
+[-0.9974627494812012] When we found our room we discovered that the bathroom hadn't been cleaned and there were dirty towels lying around.
+[-0.9974594116210938] Room was highly run down.
+[-0.9972639083862305] The crappy wings are old and the rooms smell musty.
+
+**********
+
+[0.8294754028320312] The hotel is old and in need of renovation.
+Parent: Overall, the reviewers were divided on the cleanliness of the hotel, with some finding it to be clean and comfortable and others finding it old and in need of renovation.
+
+----- Supporting -----
+
+[0.8294754028320312] The hotel is clearly old but Hilton has gone to some lengths to make it feel more up-to-date.
+[0.6355056762695312] Upon further inspection of the room, the older bathroom wood doors were dirty from years of use-these "Hilton Honors" rooms really need refurbishing.
+[0.537628173828125] While renovations appear to be underway according to signs, the hotel infrastructure shows its age.
+[0.3731346130371094] This is a pretty rundown hotel.
+[0.195526123046875] Staff wise, this hotel also needs renovation.
+
+----- Weakening -----
+
+[-0.9908466339111328] The hotel has seen its newer days: the carpets are threadbare in some spots and the cement balconies are noticeably empty of furniture.
+[-0.9324274063110352] Newer furniture, very comfortable bed with nice linens, two large sink areas and super clean.
+[-0.9309711456298828] The rooms were very spacious, modern and clean.
+[-0.8761410713195801] This hotel is clean, neat and offers good value for the money.
+[-0.81268310546875] I can't imagine those rooms would need refurbishing!
+
+**********
+
+[0.9941554069519043] The bathroom was dirty.
+Parent: The bathroom was specifically mentioned as being dirty by some reviewers.
+
+----- Supporting -----
+
+[0.9941554069519043] The bathroom was dirty and stained.
+[0.9427947998046875] But the bathroom was not so clean and it's a huge let-down for a hotel like this to be so neglected.
+[0.9400968551635742] Bathroom floors seems dirty and needed to be regrouted.
+[0.9171361923217773] When we found our room we discovered that the bathroom hadn't been cleaned and there were dirty towels lying around.
+[0.8816070556640625] Upon further inspection of the room, the older bathroom wood doors were dirty from years of use-these "Hilton Honors" rooms really need refurbishing.
+
+----- Weakening -----
+
+[-0.9943761825561523] My room and bathroom were both very clean and the service at the hotel was friendly, The check in process could be slow and it would be helpful if the airline crews were not given first priority to jump in front of everyone waiting.
+[-0.990325927734375] Plenty big, nicely kept bathrooms, bed was fairly comfy.
+[-0.9896683692932129] There was a good TV, and nice bathroom with thick towels and plenty of hot water.
+[-0.9887104034423828] The beds were very comfortable, room large enough for wheelchair, and bathroom clean.
+[-0.979560375213623] Pros - Very close to airport, very quiet rooms (you cant hear the airplanes taking off even though it is right across from the airport), friendly staff, VERY comfortable beds with lots of pillows, large rooms, ice and vending machines close to all rooms, nicely appointed bathrooms, free shuttle (runs every 20 min, no reservation needed), convenience store on site, ATM, warm cookies on check in.

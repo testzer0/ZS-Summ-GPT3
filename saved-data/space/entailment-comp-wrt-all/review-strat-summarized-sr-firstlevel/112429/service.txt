@@ -1,0 +1,548 @@
+***** Aspect: service Model Type : zs *****
+Overall score: 0.8128024064577543
+
+**********
+
+[0.389129638671875] The service was terrible.
+Parent: The reviews said that the service was terrible and that the hotel was dirty and rude.
+
+----- Supporting -----
+
+[0.389129638671875] Valet parking was terrible.
+[0.29135894775390625] Restaurant staff was also very poor
+[0.22919464111328125] Staff was rude and impatient.
+[0.1146240234375] Unfortunately, room service wasn't as good.
+[0.103759765625] PLEASE don't give this awful chain your business!
+
+----- Weakening -----
+
+[-0.9985294342041016] A nice and elegant no frills hotel with great personal service, I have and always will recommend this hotel.
+[-0.9984846115112305] The Happy Hour at the Dragonfish was exceptional - great prices, great food, great service.
+[-0.9982016086578369] The personnel were very helpful and pleasant.
+[-0.998173713684082] Finally, the staff is spectacular: extremely friendly and helpful.
+[-0.9981679916381836] The staff is very friendly and catered to my needs.
+
+**********
+
+[0.6365203857421875] The hotel was dirty.
+Parent: The reviews said that the service was terrible and that the hotel was dirty and rude.
+
+----- Supporting -----
+
+[0.6365203857421875] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[0.2274932861328125] The room is shabby, the shower made a horrible noise whenever the water was running.
+[0.189361572265625] The air conditioning vent had so much filthy residue trapped inside that it could not possibly pass a health audit.
+[0.1665802001953125] The not so good: The hotel had touted a 2 person tub - and while it was a soaking tub - it wasn't comfortable for two.
+[0.14774322509765625] Don't take a room on the inside unless you want to be awakened by the garbage trucks at 5am.
+
+----- Weakening -----
+
+[-0.9966042041778564] Beautiful, clean, wonderful bathrooms and polite staff.
+[-0.9964866638183594] Friendly welcoming staff, clean, one of the best hotels I've stayed at in a long time!
+[-0.9964065551757812] Hotel is extremely clean and quiet, and the staff is very helpful.
+[-0.9962649345397949] Rooms are very clean, and modern and the service was excellent.
+[-0.9961957931518555] Hotel was very clean, very quiet, great for a business trip.
+
+**********
+
+[0.36590576171875] The hotel was rude.
+Parent: The reviews said that the service was terrible and that the hotel was dirty and rude.
+
+----- Supporting -----
+
+[0.36590576171875] He was very rude and would not let me use the phone to call other hotels for vacancies.
+[0.16141510009765625] The man who was working at the front desk looked very gruff and mean, when I would ask something he made me feel like I was putting him out.
+[0.14198684692382812] Not to mention when I checked in they yelled my room number out to me, not a good idea as a female travelling alone...
+[0.05908203125] Staff was rude and impatient.
+[0.055633544921875] I do think this hotel is going to raise their rates and won't be worth it unless they pay attention to what guests on here are saying.
+
+----- Weakening -----
+
+[-0.9980063438415527] Friendly welcoming staff, clean, one of the best hotels I've stayed at in a long time!
+[-0.9975645542144775] Very friendly and helpful staff, especially the Concierges.
+[-0.997495174407959] Our room was very clean and the service was very friendly.
+[-0.997490406036377] The staff is gracious and welcoming, responds to requests and questions in a helpful manner, and seem to genuinely care that you enjoy your stay in their hotel and your visit to the city.
+[-0.997469425201416] The staff was friendly, helpful, and prompt, and the hotel's restaurant is good.
+
+**********
+
+[0.5219879150390625] The reviews were mixed.
+Parent: The reviews were mixed, but overall it seems that the service was not up to par.
+
+----- Supporting -----
+
+[0.5219879150390625] It was a wonderful hotel, but not intimidating or snobbish.
+[0.4719696044921875] It was a convenient location, but not a luxurious accomodation.
+[0.31500244140625] The treadmills were ok but the ellyptical machines were bad.
+[0.303955078125] My pancakes were delicious, but I was a little disappointed with the "hash brows" because they were really only cubed potatoes.
+[0.254730224609375] On this last stay, I was assigned a corner room which had great views but, because of having two windows and being on the corner of a busy street, was also a bit noisier (sirens, etc.)
+
+----- Weakening -----
+
+[-0.9950642585754395] We were very pleased when we got to our room- quite spacious with a king bed that honestly gave us such a great sleep that we meant to ask the front desk about the mattress brand and bedding.
+[-0.994638204574585] We were impressed with the lobby and had high hopes for the room.
+[-0.993192195892334] The Happy Hour at the Dragonfish was exceptional - great prices, great food, great service.
+[-0.9917325973510742] We were very impressed with what we got for the price we paid.
+[-0.9916858673095703] Don't know the concierges name, it would be the older man in the morning but he had great recommendations for restaurants, each one excellent and was so knowledgeable about the city and when was the best times to go to events.
+
+**********
+
+[0.5422286987304688] The reviews were not up to par.
+Parent: The reviews were mixed, but overall it seems that the service was not up to par.
+
+----- Supporting -----
+
+[0.5422286987304688] The in-house restaurant is mediocre but not too pricey.
+[0.47824859619140625] My pancakes were delicious, but I was a little disappointed with the "hash brows" because they were really only cubed potatoes.
+[0.47374725341796875] The not so good: The hotel had touted a 2 person tub - and while it was a soaking tub - it wasn't comfortable for two.
+[0.46988677978515625] hotel restaurant isn't very good, try others like palace kitchen, wild ginger, le pitchet.
+[0.2996063232421875] The choice of channels for the tv is terrible....for the amount you pay this place you should get more than 20 channels....the only thing great about this place is the water pressure.
+
+----- Weakening -----
+
+[-0.9943056106567383] We were very impressed with what we got for the price we paid.
+[-0.9933104515075684] We were impressed with the lobby and had high hopes for the room.
+[-0.9929113388061523] It was fantastic and has great deals and specials.
+[-0.9920740127563477] The staff is friendly and super helpful (ie: tourist questions, room questions etc), the rooms are neat and clean and comfortable, the location is perfect and close to everything you need downtown including transit to anything outside of downtown (monorail, bus stops, lightrail).
+[-0.9918322563171387] Amazing motel, amazing staff.
+
+**********
+
+[0.9908533096313477] The staff were rude.
+Parent: Many guests felt that the staff were rude and unprofessional, and that they did not do a good job of cleaning the rooms or providing room service.
+
+----- Supporting -----
+
+[0.9908533096313477] Staff was rude and impatient.
+[0.27783203125] The man who was working at the front desk looked very gruff and mean, when I would ask something he made me feel like I was putting him out.
+[0.2287445068359375] Their tone of voice was no better than a 13 year old with a bad attitude!
+[0.21282196044921875] Not to mention when I checked in they yelled my room number out to me, not a good idea as a female travelling alone...
+[0.11487579345703125] But I thought the staff were unprofessional and I was uncomfortable with the men at the desk.
+
+----- Weakening -----
+
+[-0.9980173110961914] The staff was very nice and helpful.
+[-0.9980063438415527] The personnel were very helpful and pleasant.
+[-0.9979805946350098] Finally, the staff is spectacular: extremely friendly and helpful.
+[-0.9979763031005859] Very friendly and helpful staff, especially the Concierges.
+[-0.9979710578918457] The staff was friendly and helpful.
+
+**********
+
+[0.9733133316040039] The staff were unprofessional.
+Parent: Many guests felt that the staff were rude and unprofessional, and that they did not do a good job of cleaning the rooms or providing room service.
+
+----- Supporting -----
+
+[0.9733133316040039] But I thought the staff were unprofessional and I was uncomfortable with the men at the desk.
+[0.46685791015625] Staff was rude and impatient.
+[0.44677734375] but the staff are a bit clueless.
+[0.32964324951171875] Restaurant staff was also very poor
+[0.1710205078125] The baggage staff was very slow and had no sense of urgency to help us with our bags.
+
+----- Weakening -----
+
+[-0.994537353515625] The room service order-taker and delivery person were both very nice and professional, but it would be wonderful to have a wider range of menu options to select from.
+[-0.9939365386962891] Finally, the staff is spectacular: extremely friendly and helpful.
+[-0.9933037757873535] Staff was very courteous and helpful.
+[-0.9914979934692383] Very friendly and helpful staff, especially the Concierges.
+[-0.9910955429077148] Service from the desk staff and the bellman was totally helpful, anything we asked was "no problem."
+
+**********
+
+[0.2645683288574219] The staff did not do a good job of cleaning the rooms.
+Parent: Many guests felt that the staff were rude and unprofessional, and that they did not do a good job of cleaning the rooms or providing room service.
+
+----- Supporting -----
+
+[0.2645683288574219] My gripe was that housekeeping must have noticed this when they changed the sheets, but made no attempt at cleaning the mattress and simply covered it back up.
+[0.16913604736328125] The maids had left the alarm on from the last guest (a major pet peeve of mine) and so we were awakened at 7 a.m. And, a large group of guests arrived in the room next door at 7:30 and the lack of soundproofing between connecting rooms became glaringly apparent.
+[0.13336181640625] This time a real maintenance person came and fixed it, but noone came to clean the floor like we requested.
+[0.09047889709472656] When I had got back to my room the first day I was there housekeeping had still not been to my room, I had left at 9am and it was then 3:30.
+[0.07920074462890625] We had some issues with hot water and the in-room hairdryer was small and weak (not a big deal, but most hotels now provide the full-size kind).
+
+----- Weakening -----
+
+[-0.9905672073364258] The room was meticulously cleaned including plenty of soft linins and offers one of the most comfortable beds I have ever slept on.
+[-0.9723730087280273] 3 nites of good beds, clean room/bathroom, good staff, went for gift show in nearby convention ctr.
+[-0.9617176055908203] Our room was very clean and the service was very friendly.
+[-0.9607877731323242] the lobby is sort of lackluster but the rooms were tasfully updated and very clean.
+[-0.9574012756347656] Clean rooms, pleasant staff with good restaurant recommendations, and fast, free internet.
+
+**********
+
+[0.5426254272460938] The staff did not provide good room service.
+Parent: Many guests felt that the staff were rude and unprofessional, and that they did not do a good job of cleaning the rooms or providing room service.
+
+----- Supporting -----
+
+[0.5426254272460938] Not to mention when I checked in they yelled my room number out to me, not a good idea as a female travelling alone...
+[0.4878654479980469] The maids had left the alarm on from the last guest (a major pet peeve of mine) and so we were awakened at 7 a.m. And, a large group of guests arrived in the room next door at 7:30 and the lack of soundproofing between connecting rooms became glaringly apparent.
+[0.440948486328125] Restaurant staff was also very poor
+[0.3889732360839844] Unfortunately, room service wasn't as good.
+[0.38826751708984375] The room-service was way overpriced for mediocre food though.
+
+----- Weakening -----
+
+[-0.9901704788208008] Service from the desk staff and the bellman was totally helpful, anything we asked was "no problem."
+[-0.985072135925293] Rooms are very clean, and modern and the service was excellent.
+[-0.9845771789550781] The customer service is top notch, the location is perfect, and the rooms are very comfortable.
+[-0.9833946228027344] Great hotel, great service.
+[-0.9808406829833984] The room was cosy, the free WiFi was a godsend, the staff was courteous and helpful.
+
+**********
+
+[0.9530963897705078] The service was helpful.
+Parent: Overall, reviewers thought that the service was helpful and friendly, although some felt that the staff could be more knowledgeable about the local area.
+
+----- Supporting -----
+
+[0.9530963897705078] Service from the desk staff and the bellman was totally helpful, anything we asked was "no problem."
+[0.9504947662353516] The front desk was quick and helpful.
+[0.9352827072143555] The staff was friendly, helpful, and prompt, and the hotel's restaurant is good.
+[0.928400993347168] The staff is friendly and super helpful (ie: tourist questions, room questions etc), the rooms are neat and clean and comfortable, the location is perfect and close to everything you need downtown including transit to anything outside of downtown (monorail, bus stops, lightrail).
+[0.9190101623535156] Hotel is extremely clean and quiet, and the staff is very helpful.
+
+----- Weakening -----
+
+[-0.921234130859375] Staff was rude and impatient.
+[-0.8248367309570312] Restaurant staff was also very poor
+[-0.8111801147460938] PLEASE don't give this awful chain your business!
+[-0.7372970581054688] They just seem unsanitary to me.
+[-0.7071876525878906] The man who was working at the front desk looked very gruff and mean, when I would ask something he made me feel like I was putting him out.
+
+**********
+
+[0.9721903800964355] The service was friendly.
+Parent: Overall, reviewers thought that the service was helpful and friendly, although some felt that the staff could be more knowledgeable about the local area.
+
+----- Supporting -----
+
+[0.9721903800964355] Our room was very clean and the service was very friendly.
+[0.9697513580322266] Friendly service, clean, a very good option in the Emerald City.
+[0.9655442237854004] The staff is very friendly and catered to my needs.
+[0.9595012664794922] The staff was friendly, helpful, and prompt, and the hotel's restaurant is good.
+[0.9540195465087891] The staff is friendly and super helpful (ie: tourist questions, room questions etc), the rooms are neat and clean and comfortable, the location is perfect and close to everything you need downtown including transit to anything outside of downtown (monorail, bus stops, lightrail).
+
+----- Weakening -----
+
+[-0.994593620300293] Staff was rude and impatient.
+[-0.9912395477294922] The man who was working at the front desk looked very gruff and mean, when I would ask something he made me feel like I was putting him out.
+[-0.9866361618041992] He was very rude and would not let me use the phone to call other hotels for vacancies.
+[-0.9779367446899414] But I thought the staff were unprofessional and I was uncomfortable with the men at the desk.
+[-0.9525661468505859] PLEASE don't give this awful chain your business!
+
+**********
+
+[0.7312660217285156] The staff could be more knowledgeable about the local area.
+Parent: Overall, reviewers thought that the service was helpful and friendly, although some felt that the staff could be more knowledgeable about the local area.
+
+----- Supporting -----
+
+[0.7312660217285156] The front staff were not well versed in the local area.
+[0.07711982727050781] Reading some reviews after staying for a week in late September prompted me to add my review; I think some of the unhappy reviewers need to do their research better before booking a hotel so as not to blame the hotel for their own lack of knowledge.
+[0.0534515380859375] I do think this hotel is going to raise their rates and won't be worth it unless they pay attention to what guests on here are saying.
+[0.035114288330078125] The parking is $27 a night, info they seem to forget to tell you about.
+[0.02252960205078125] Pretty basic information for a concierge to screw up on!
+
+----- Weakening -----
+
+[-0.6674575805664062] The staff is friendly and super helpful (ie: tourist questions, room questions etc), the rooms are neat and clean and comfortable, the location is perfect and close to everything you need downtown including transit to anything outside of downtown (monorail, bus stops, lightrail).
+[-0.5130081176757812] The staff was very helpful with advice, directions and maps.
+[-0.471466064453125] Don't know the concierges name, it would be the older man in the morning but he had great recommendations for restaurants, each one excellent and was so knowledgeable about the city and when was the best times to go to events.
+[-0.4607963562011719] The hotel was very helpful with directions, coupons and town car service to the airport.
+[-0.4420051574707031] Front desk was very helpful at recommending places and setting up car for pick up to airport, their town cars are cheaper than the taxis.
+
+**********
+
+[0.9910502433776855] The baggage service was slow.
+Parent: There were also complaints about the slow baggage service and the lack of channels on the TV.
+
+----- Supporting -----
+
+[0.9910502433776855] The baggage staff was very slow and had no sense of urgency to help us with our bags.
+[0.3380889892578125] Some other minor issues were the desk chair in the room (it fell short of an appropriate working height of the desk and constantly fell down when your leg accidently hit the adjustment bar in front, poor choice of chairs), the elevator door was annoyingly slow to close (I was up and down several times per day), the exterior and lobby doors should be automatic and I noticed people struggling to open them and get their luggage through, they also were misaligned and did not open well.
+[0.02642822265625] One morning, it took us 45 minutes to get silverware to go with our breakfast.
+[0.0175933837890625] When he saw I was getting no where with the front staff he came over and helped us out.
+[0.007633209228515625] They could not find our car for about an hour!
+
+----- Weakening -----
+
+[-0.8568840026855469] This is a small place and they react quickly.
+[-0.7643394470214844] Pros: 1- Quick service.
+[-0.7494640350341797] The valet man was excellent.
+[-0.7334823608398438] Everything is at your doorstep.
+[-0.7213134765625] Internet access was high-speed and easy to use.
+
+**********
+
+[0.869415283203125] The TV had too few channels.
+Parent: There were also complaints about the slow baggage service and the lack of channels on the TV.
+
+----- Supporting -----
+
+[0.869415283203125] The choice of channels for the tv is terrible....for the amount you pay this place you should get more than 20 channels....the only thing great about this place is the water pressure.
+[0.0] :)
+[0.0] Not cool!
+[0.0] walk.
+[-0.0012683868408203125] Might be great for a single person but definitely not for a family
+
+----- Weakening -----
+
+[-0.9675383567810059] It was fantastic and has great deals and specials.
+[-0.8925695419311523] There was also free wifi in the room and the cable package included HBO, which we love.
+[-0.8629865646362305] Easy access to everything.
+[-0.83953857421875] The restaurant is excellent - with 7 hours of happy hour specials a day - who could argue?!
+[-0.83184814453125] But the service I got from the staff at different times of the day was like day and night.
+
+**********
+
+[0.9793663024902344] The service at this hotel is excellent.
+Parent: The service at this hotel is excellent.
+
+----- Supporting -----
+
+[0.9793663024902344] Great hotel, great service.
+[0.9144086837768555] A nice and elegant no frills hotel with great personal service, I have and always will recommend this hotel.
+[0.8655996322631836] It's a Coast Hotel and the service standards are higher than most hotels.
+[0.8522987365722656] Hotel is extremely clean and quiet, and the staff is very helpful.
+[0.83599853515625] Amazing motel, amazing staff.
+
+----- Weakening -----
+
+[-0.9934773445129395] But I thought the staff were unprofessional and I was uncomfortable with the men at the desk.
+[-0.9900379180908203] Staff was rude and impatient.
+[-0.9883289337158203] Restaurant staff was also very poor
+[-0.98773193359375] Unfortunately, room service wasn't as good.
+[-0.986626148223877] He was very rude and would not let me use the phone to call other hotels for vacancies.
+
+**********
+
+[0.9940600395202637] The staff is friendly and helpful.
+Parent: The staff are friendly and helpful, and they go out of their way to make sure guests are comfortable and have everything they need.
+
+----- Supporting -----
+
+[0.9940600395202637] The staff is friendly and very helpful.
+[0.9911212921142578] The staff was friendly and helpful.
+[0.9898011684417725] Very friendly and helpful staff, especially the Concierges.
+[0.989654541015625] The staff is friendly and super helpful (ie: tourist questions, room questions etc), the rooms are neat and clean and comfortable, the location is perfect and close to everything you need downtown including transit to anything outside of downtown (monorail, bus stops, lightrail).
+[0.9896526336669922] The staff were helpful and friendly, and the services fine, although I was disappointed they have no gift shop to buy a magazine or other small items.
+
+----- Weakening -----
+
+[-0.9977803230285645] Staff was rude and impatient.
+[-0.9976136684417725] The man who was working at the front desk looked very gruff and mean, when I would ask something he made me feel like I was putting him out.
+[-0.9951725006103516] He was very rude and would not let me use the phone to call other hotels for vacancies.
+[-0.9943795204162598] But I thought the staff were unprofessional and I was uncomfortable with the men at the desk.
+[-0.9936227798461914] Restaurant staff was also very poor
+
+**********
+
+[0.9174509048461914] The staff are attentive and make sure guests are comfortable.
+Parent: The staff are friendly and helpful, and they go out of their way to make sure guests are comfortable and have everything they need.
+
+----- Supporting -----
+
+[0.9174509048461914] The staff is gracious and welcoming, responds to requests and questions in a helpful manner, and seem to genuinely care that you enjoy your stay in their hotel and your visit to the city.
+[0.9017934799194336] The staff is friendly and super helpful (ie: tourist questions, room questions etc), the rooms are neat and clean and comfortable, the location is perfect and close to everything you need downtown including transit to anything outside of downtown (monorail, bus stops, lightrail).
+[0.8205537796020508] The room was cosy, the free WiFi was a godsend, the staff was courteous and helpful.
+[0.7804603576660156] The staff at the desk are pleasant and so is the concierge , they make you feel like a person...not just another guest.
+[0.7788152694702148] The hotel staff went out of their way to make me comfortable an darrange accommodations for my transportation back to the airport.
+
+----- Weakening -----
+
+[-0.9969453811645508] Staff was rude and impatient.
+[-0.9934911727905273] But I thought the staff were unprofessional and I was uncomfortable with the men at the desk.
+[-0.9919295310974121] The man who was working at the front desk looked very gruff and mean, when I would ask something he made me feel like I was putting him out.
+[-0.9899282455444336] The baggage staff was very slow and had no sense of urgency to help us with our bags.
+[-0.988286018371582] Restaurant staff was also very poor
+
+**********
+
+[0.8082218170166016] The staff is attentive and ensures guests have everything they need.
+Parent: The staff are friendly and helpful, and they go out of their way to make sure guests are comfortable and have everything they need.
+
+----- Supporting -----
+
+[0.8082218170166016] The staff is friendly and super helpful (ie: tourist questions, room questions etc), the rooms are neat and clean and comfortable, the location is perfect and close to everything you need downtown including transit to anything outside of downtown (monorail, bus stops, lightrail).
+[0.5472030639648438] During the morning Tom is more than willing to the extra mile to make sure you ready for your travels around the city, Jerry who works at the front desk also very helpful, nice and courteous.
+[0.4919548034667969] The staff is very friendly and catered to my needs.
+[0.4724388122558594] The room was cosy, the free WiFi was a godsend, the staff was courteous and helpful.
+[0.34337615966796875] Very friendly and helpful staff, especially the Concierges.
+
+----- Weakening -----
+
+[-0.9976246356964111] Staff was rude and impatient.
+[-0.9965200424194336] Front desk could only ask me if I had the privacy card on the door (I did not) and then shrug.
+[-0.9961557388305664] The baggage staff was very slow and had no sense of urgency to help us with our bags.
+[-0.9957208633422852] He was very rude and would not let me use the phone to call other hotels for vacancies.
+[-0.9956579208374023] But I thought the staff were unprofessional and I was uncomfortable with the men at the desk.
+
+**********
+
+[0.986699104309082] The hotel is clean.
+Parent: The hotel is also clean and well-maintained.
+
+----- Supporting -----
+
+[0.986699104309082] Hotel is extremely clean and quiet, and the staff is very helpful.
+[0.9812335968017578] Hotel was very clean, very quiet, great for a business trip.
+[0.9615330696105957] Highly recommend this hotel rooms, they were nice and clean and very comfortable.
+[0.946876049041748] Friendly welcoming staff, clean, one of the best hotels I've stayed at in a long time!
+[0.922938346862793] The hotel is recently remodeled and the rooms are very clean and modern as is the hotel lobby.
+
+----- Weakening -----
+
+[-0.9969172477722168] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[-0.9887886047363281] The air conditioning vent had so much filthy residue trapped inside that it could not possibly pass a health audit.
+[-0.9876413345336914] Don't take a room on the inside unless you want to be awakened by the garbage trucks at 5am.
+[-0.986457347869873] The biggest issue is that upon going to bed the first night, I noticed an overpowering smell of urine in my bed.
+[-0.9832925796508789] Our toliet overflowed at 11pm resulting in a flood in our bathroom.
+
+**********
+
+[0.9882030487060547] The hotel is well-maintained.
+Parent: The hotel is also clean and well-maintained.
+
+----- Supporting -----
+
+[0.9882030487060547] The hotel is very well kept and modern.
+[0.8432579040527344] Hotel is extremely clean and quiet, and the staff is very helpful.
+[0.7908096313476562] Friendly welcoming staff, clean, one of the best hotels I've stayed at in a long time!
+[0.7238082885742188] Hotel was very clean, very quiet, great for a business trip.
+[0.6466484069824219] Highly recommend this hotel rooms, they were nice and clean and very comfortable.
+
+----- Weakening -----
+
+[-0.967987060546875] Don't take a room on the inside unless you want to be awakened by the garbage trucks at 5am.
+[-0.9508914947509766] The air conditioning vent had so much filthy residue trapped inside that it could not possibly pass a health audit.
+[-0.9496707916259766] Compared to the Portland location, the Seattle Paramount needs some sprucing up.
+[-0.948944091796875] The room is shabby, the shower made a horrible noise whenever the water was running.
+[-0.9404067993164062] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+
+**********
+
+[0.9572920799255371] The staff at this hotel is excellent.
+Parent: The staff at this hotel is excellent.
+
+----- Supporting -----
+
+[0.9572920799255371] Amazing motel, amazing staff.
+[0.8986339569091797] Hotel is extremely clean and quiet, and the staff is very helpful.
+[0.8854780197143555] The staff is gracious and welcoming, responds to requests and questions in a helpful manner, and seem to genuinely care that you enjoy your stay in their hotel and your visit to the city.
+[0.8822946548461914] Friendly welcoming staff, clean, one of the best hotels I've stayed at in a long time!
+[0.8384990692138672] The hotel is conveniently located, has a helpful and friendly staff, and is within walking distance to PPM, Capitol Hill, Belltown, and the Space Needle.
+
+----- Weakening -----
+
+[-0.9959659576416016] But I thought the staff were unprofessional and I was uncomfortable with the men at the desk.
+[-0.9930896759033203] Staff was rude and impatient.
+[-0.991948127746582] Restaurant staff was also very poor
+[-0.9830408096313477] The man who was working at the front desk looked very gruff and mean, when I would ask something he made me feel like I was putting him out.
+[-0.9772891998291016] Now on to the bad, the other staff.
+
+**********
+
+[0.9457254409790039] They are friendly.
+Parent: They are friendly, helpful, and accommodating.
+
+----- Supporting -----
+
+[0.9457254409790039] The staff is very friendly and catered to my needs.
+[0.9429912567138672] The staff is friendly and very helpful.
+[0.9063472747802734] Finally, the staff is spectacular: extremely friendly and helpful.
+[0.9037494659423828] The staff is friendly and super helpful (ie: tourist questions, room questions etc), the rooms are neat and clean and comfortable, the location is perfect and close to everything you need downtown including transit to anything outside of downtown (monorail, bus stops, lightrail).
+[0.8975696563720703] Very friendly and helpful staff, especially the Concierges.
+
+----- Weakening -----
+
+[-0.9948229789733887] The man who was working at the front desk looked very gruff and mean, when I would ask something he made me feel like I was putting him out.
+[-0.9922513961791992] Staff was rude and impatient.
+[-0.9907608032226562] He was very rude and would not let me use the phone to call other hotels for vacancies.
+[-0.9901266098022461] Very annoying.
+[-0.9854059219360352] They just seem unsanitary to me.
+
+**********
+
+[0.8901081085205078] They are helpful.
+Parent: They are friendly, helpful, and accommodating.
+
+----- Supporting -----
+
+[0.8901081085205078] The staff is friendly and very helpful.
+[0.8849124908447266] The staff is friendly and super helpful (ie: tourist questions, room questions etc), the rooms are neat and clean and comfortable, the location is perfect and close to everything you need downtown including transit to anything outside of downtown (monorail, bus stops, lightrail).
+[0.8799953460693359] The personnel were very helpful and pleasant.
+[0.8475799560546875] The staff were helpful and friendly, and the services fine, although I was disappointed they have no gift shop to buy a magazine or other small items.
+[0.8301029205322266] Staff were really helpful.
+
+----- Weakening -----
+
+[-0.9374370574951172] Very annoying.
+[-0.9261875152587891] They just seem unsanitary to me.
+[-0.8726158142089844] But I thought the staff were unprofessional and I was uncomfortable with the men at the desk.
+[-0.8617935180664062] Staff was rude and impatient.
+[-0.8303985595703125] Ok, it is bad.
+
+**********
+
+[0.9492588043212891] They are accommodating.
+Parent: They are friendly, helpful, and accommodating.
+
+----- Supporting -----
+
+[0.9492588043212891] The staff is very friendly and catered to my needs.
+[0.9469966888427734] The staff is gracious and welcoming, responds to requests and questions in a helpful manner, and seem to genuinely care that you enjoy your stay in their hotel and your visit to the city.
+[0.9161148071289062] The staff was very friendly and we're very accommodating.
+[0.9111928939819336] The rooms are comfortable.
+[0.8896465301513672] Very comfortable.
+
+----- Weakening -----
+
+[-0.9781761169433594] Very annoying.
+[-0.9636344909667969] They just seem unsanitary to me.
+[-0.950836181640625] PLEASE don't give this awful chain your business!
+[-0.9412155151367188] The weight machines are so packed together that you can't really move the weights.
+[-0.9405479431152344] He was very rude and would not let me use the phone to call other hotels for vacancies.
+
+**********
+
+[0.9852194786071777] The rooms are clean.
+Parent: The rooms are also clean and modern.
+
+----- Supporting -----
+
+[0.9852194786071777] The rooms are clean and neat, and the staff is friendly.
+[0.9817037582397461] Rooms are very clean, and modern and the service was excellent.
+[0.9815855026245117] The rooms are spacious, clean and well maintained.
+[0.9790477752685547] The rooms were clean and I forgot an item and was able to get it back from the front desk staff.
+[0.977935791015625] The rooms are modern and clean.
+
+----- Weakening -----
+
+[-0.9973297119140625] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[-0.9940071105957031] Our toliet overflowed at 11pm resulting in a flood in our bathroom.
+[-0.9930925369262695] It was dark, dirty, and noisy from the construction right outside my window.
+[-0.9924764633178711] The air conditioning vent had so much filthy residue trapped inside that it could not possibly pass a health audit.
+[-0.9915132522583008] Stripping the sheets, I found a fairly fresh urine stain that made me want to vomit.
+
+**********
+
+[0.9871063232421875] The rooms are modern.
+Parent: The rooms are also clean and modern.
+
+----- Supporting -----
+
+[0.9871063232421875] The rooms are modern and clean.
+[0.9787116050720215] The rooms are clean and modern and the beds are extremely comfortable.
+[0.9755458831787109] Rooms are very clean, and modern and the service was excellent.
+[0.931304931640625] The hotel is recently remodeled and the rooms are very clean and modern as is the hotel lobby.
+[0.9157524108886719] the lobby is sort of lackluster but the rooms were tasfully updated and very clean.
+
+----- Weakening -----
+
+[-0.9943838119506836] The furnishings were pretty old.
+[-0.9941482543945312] The room is shabby, the shower made a horrible noise whenever the water was running.
+[-0.9870815277099609] The room was plain and average-szed, but clean and comfortable.
+[-0.984074592590332] It was dark, dirty, and noisy from the construction right outside my window.
+[-0.9763460159301758] I believe we had a basic room with 2 queen beds and it was really lovely.

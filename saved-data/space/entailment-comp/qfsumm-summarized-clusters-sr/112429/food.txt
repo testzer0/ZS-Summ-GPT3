@@ -1,0 +1,107 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.9122831344604492
+
+**********
+
+[0.93035888671875] There is no breakfast restaurant.
+Parent: No breakfast no restaurant except an attached Asian food restaurant .
+
+----- Supporting -----
+
+[0.93035888671875] No breakfast no restaurant except an attached Asian food restaurant.
+[0.2655029296875] Instead of a mini-bar, there's a small refrigerator with two bottles of $2.50 water--drink from the tap instead.
+[-0.030517578125] The only food available is from a Chinese restaurant that is in the hotel.
+[-0.0310211181640625] A decent price for a room in downtown Seattle in the summer.
+[-0.04203033447265625] It seemed like an upscale hotel, but without an overly upscale price.
+
+----- Weakening -----
+
+[-0.9872121810913086] My pancakes were delicious, but I was a little disappointed with the "hash brows" because they were really only cubed potatoes.
+[-0.9811739921569824] The food was awesome and the prices are pretty good.
+[-0.9612178802490234] Food and service were very good.
+[-0.9396247863769531] It only cost me $2.75 each way.
+[-0.9206314086914062] I didn't try it, but it doesn't look appetizing.
+
+**********
+
+[0.741668701171875] The hotel has an attached Asian food restaurant.
+Parent: No breakfast no restaurant except an attached Asian food restaurant .
+
+----- Supporting -----
+
+[0.741668701171875] The only food available is from a Chinese restaurant that is in the hotel.
+[0.09146976470947266] No breakfast no restaurant except an attached Asian food restaurant.
+[0.037006378173828125] The sushi was good and the drink selection interesting and yummy .
+[0.00699615478515625] My pancakes were delicious, but I was a little disappointed with the "hash brows" because they were really only cubed potatoes.
+[0.004322052001953125] The food was awesome and the prices are pretty good.
+
+----- Weakening -----
+
+[-0.467041015625] I far rather prefer the individual bottles.
+[-0.13338279724121094] Instead of a mini-bar, there's a small refrigerator with two bottles of $2.50 water--drink from the tap instead.
+[-0.125274658203125] Coffee in the morning.
+[-0.10540771484375] He quickly retuned with coffee but not my requested milk.
+[-0.08682632446289062] It'll cost you $3.50, they don't bring sugar or cream, and you can get the same bag of tea in the little coffee maker kit in the bathroom for free.
+
+**********
+
+[0.9718046188354492] The food was great.
+Parent: The food was awesome and the prices are pretty good .
+
+----- Supporting -----
+
+[0.9718046188354492] The food was awesome and the prices are pretty good.
+[0.9284782409667969] Food and service were very good.
+[0.7437629699707031] The Dragonfish has great food, and they have a LATE happy hour for the food and select drinks that can't be beat!
+[0.4980792999267578] The hotel has gone through some renovations which make it look nice, Dragonfish changed their menu a bit but their food is still good.
+[0.1865997314453125] The sushi was good and the drink selection interesting and yummy .
+
+----- Weakening -----
+
+[-0.9529266357421875] I didn't try it, but it doesn't look appetizing.
+[-0.683197021484375] By the time someone came back up with it, the food was cold.
+[-0.65582275390625] My pancakes were delicious, but I was a little disappointed with the "hash brows" because they were really only cubed potatoes.
+[-0.4511566162109375] The choice of channels for the tv is terrible....for the amount you pay this place you should get more than 20 channels....the only thing great about this place is the water pressure.
+[-0.26678466796875] Coffee in the morning.
+
+**********
+
+[0.9358329772949219] The prices are good.
+Parent: The food was awesome and the prices are pretty good .
+
+----- Supporting -----
+
+[0.9358329772949219] The food was awesome and the prices are pretty good.
+[0.8316154479980469] Good price point for such a prime location.
+[0.7108650207519531] Price was pretty good for downtown Seattle (I paid $145/nt for two doubles) parking was extra $27/nt, and all the usual heap of taxes.
+[0.6898555755615234] A decent price for a room in downtown Seattle in the summer.
+[0.628509521484375] Overall, great experience at a way better price than other downtown hotels.
+
+----- Weakening -----
+
+[-0.9624786376953125] And the price was too high for the quality of hotel and service.
+[-0.867279052734375] Overpriced though.
+[-0.639251708984375] And don't pay more than $129/night for a room, there are better deals out there in the higher price range.
+[-0.4781494140625] I would stay here again if the price was cheaper than other hotels in the area.
+[-0.1546630859375] It seemed like an upscale hotel, but without an overly upscale price.
+
+**********
+
+[0.98175048828125] It cost $2.75 each way.
+Parent: It only cost me $ 2.75 each way .
+
+----- Supporting -----
+
+[0.98175048828125] It only cost me $2.75 each way.
+[0.0284423828125] At $24 a night it seemed a bit pricey, but all in all we thoroughly enjoyed ourselves.
+[-0.0011501312255859375] Overpriced though.
+[-0.001728057861328125] When we first got there, I was really surprised at how nice it was for the price.
+[-0.0023012161254882812] The sushi was good and the drink selection interesting and yummy .
+
+----- Weakening -----
+
+[-0.7664604187011719] And don't pay more than $129/night for a room, there are better deals out there in the higher price range.
+[-0.61578369140625] Instead of a mini-bar, there's a small refrigerator with two bottles of $2.50 water--drink from the tap instead.
+[-0.50689697265625] Price was pretty good for downtown Seattle (I paid $145/nt for two doubles) parking was extra $27/nt, and all the usual heap of taxes.
+[-0.38641357421875] It'll cost you $3.50, they don't bring sugar or cream, and you can get the same bag of tea in the little coffee maker kit in the bathroom for free.
+[-0.2216949462890625] I snagged a great deal at the Paramount for $116 a night for a standard 2 double bedroom.

@@ -1,0 +1,191 @@
+***** Aspect: rooms Model Type : zs *****
+Overall score: 0.9766554302639432
+
+**********
+
+[0.987757682800293] The rooms were clean.
+Parent: The rooms at the hotel were clean and comfortable, with fine beds.
+
+----- Supporting -----
+
+[0.987757682800293] The rooms were very clean and the staff was very nice.
+[0.9852638244628906] The rooms are clean and nicely appointed.
+[0.9797172546386719] The room was very clean and comfortable.
+[0.9754848480224609] The beds were comfortable and the room was very clean.
+[0.9740681648254395] The hotel was nice; good clean rooms.
+
+----- Weakening -----
+
+[-0.996891975402832] The bathroom was dirty and stained.
+[-0.9968481063842773] When we found our room we discovered that the bathroom hadn't been cleaned and there were dirty towels lying around.
+[-0.9963274002075195] Room was highly run down.
+[-0.9960699081420898] Upon further inspection of the room, the older bathroom wood doors were dirty from years of use-these "Hilton Honors" rooms really need refurbishing.
+[-0.995699405670166] It was so liquified that it spilled all over my hand and burned me terribly.
+
+**********
+
+[0.975581169128418] The rooms were comfortable.
+Parent: The rooms at the hotel were clean and comfortable, with fine beds.
+
+----- Supporting -----
+
+[0.975581169128418] The rooms were gorgeous and spacious and comfortable.
+[0.9728050231933594] The room was very clean and comfortable.
+[0.9727401733398438] The rooms are comfortable and the cookies are great but getting smaller.
+[0.9644112586975098] The room was clean and bed comfortable.
+[0.9615178108215332] Hotel is very close the the airport and room was comfortable.
+
+----- Weakening -----
+
+[-0.9712867736816406] Room was highly run down.
+[-0.96429443359375] It was so liquified that it spilled all over my hand and burned me terribly.
+[-0.9597148895263672] Anyway, I requested a non-smoking room but the floor smelled like the stench of smoke.
+[-0.941497802734375] The wing hallways had a damp smell.
+[-0.9268093109130859] When you finally reach your room the heaters all make tremendous noise, rattle, rumble.
+
+**********
+
+[0.9662256240844727] The beds were fine.
+Parent: The rooms at the hotel were clean and comfortable, with fine beds.
+
+----- Supporting -----
+
+[0.9662256240844727] The hotel was clean, beds were fine, hotel is located across the street from the air port, was within walking distance to a Denny's, Jack in the Box, and a steak place.
+[0.8956565856933594] Slept like a baby...very comfortable beds.
+[0.8928508758544922] The beds were comfortable and the room was very clean.
+[0.887298583984375] The beds were very comfortable, room large enough for wheelchair, and bathroom clean.
+[0.8628120422363281] The rooms are always clean, the beds great, bedding and bath linens top notch.
+
+----- Weakening -----
+
+[-0.9894237518310547] It was so liquified that it spilled all over my hand and burned me terribly.
+[-0.9785213470458984] Keep your children away from these set ups, they are going to injure someone terribly!
+[-0.9782752990722656] Then there was this set-up for the syrup which was under a sterno can and full flame, the syrup was boiling.
+[-0.9745092391967773] other bugs every where.
+[-0.9655055999755859] Robert immediately stepped in front of my husband and folded his arms and gave my husband many excuses why it was our fault we didn't have the bed yet.
+
+**********
+
+[0.9890079498291016] The hotel was across the street from the airport.
+Parent: The hotel was located across the street from the airport, and within walking distance of a Denny's, Jack in the Box, and a steak place.
+
+----- Supporting -----
+
+[0.9890079498291016] The hotel is conveniently located, just across the street from the airport entrance with a free shuttle that runs every 20 minutes.
+[0.9734268188476562] The hotel was clean, beds were fine, hotel is located across the street from the air port, was within walking distance to a Denny's, Jack in the Box, and a steak place.
+[0.6802215576171875] Pros - Very close to airport, very quiet rooms (you cant hear the airplanes taking off even though it is right across from the airport), friendly staff, VERY comfortable beds with lots of pillows, large rooms, ice and vending machines close to all rooms, nicely appointed bathrooms, free shuttle (runs every 20 min, no reservation needed), convenience store on site, ATM, warm cookies on check in.
+[0.24920654296875] On the incoming leg earlier, we stayed across the street at the Hampton for about the same price, wireless internet, free parking and free breakfast.
+[0.035839080810546875] This hotel is a nice size and is convenient to the airport and restaurants.
+
+----- Weakening -----
+
+[-0.9902455806732178] This hotel is by a small lake and at dusk there are misquitos and misc.
+[-0.9644927978515625] I have stayed at many hotels at the airport, and this one beats them all!!!
+[-0.9512710571289062] Had a room that faced away from the airport so that helped with the noise.
+[-0.9384174346923828] The neighborhood has mostly fast-food or 'greasy-spoon' joints except for a nice looking Thai restaurant across the street.
+[-0.9207229614257812] (For the discounted price) The room was very large, faced the airport, but was still quiet.
+
+**********
+
+[0.9553031921386719] The hotel is near a Denny's.
+Parent: The hotel was located across the street from the airport, and within walking distance of a Denny's, Jack in the Box, and a steak place.
+
+----- Supporting -----
+
+[0.9553031921386719] The hotel was clean, beds were fine, hotel is located across the street from the air port, was within walking distance to a Denny's, Jack in the Box, and a steak place.
+[0.77496337890625] If you don't want to eat breakfast at the hotel, there is a Denny's across the street and an IHOP 2mile down the street.
+[0.0302734375] There is a Jack in the Box and Denny's across the street as well as a Subway, Thai restaurant and a BBQ restaurant nearby.
+[0.000675201416015625] Will stay there again in the future.
+[0.00023651123046875] Great place and would definately stay again.
+
+----- Weakening -----
+
+[-0.9827561378479004] This hotel is by a small lake and at dusk there are misquitos and misc.
+[-0.9797654151916504] The hotel was fine- a big hotel by the airport.
+[-0.9767794609069824] The hotel is pretty big but the location next to the airport is great.
+[-0.9714698791503906] Despite its proximity to the airport, the room was surprisingly quiet.
+[-0.9701099395751953] It is on a busy street and I didn't see a restaurant within walking distance so I ate in the lobby.
+
+**********
+
+[0.9635848999023438] The hotel was close to a Jack in the Box.
+Parent: The hotel was located across the street from the airport, and within walking distance of a Denny's, Jack in the Box, and a steak place.
+
+----- Supporting -----
+
+[0.9635848999023438] The hotel was clean, beds were fine, hotel is located across the street from the air port, was within walking distance to a Denny's, Jack in the Box, and a steak place.
+[0.32354736328125] Unfortunately, there was nothing memorable about the hotel itself; it was a huge place, reminiscent of a rambling casino hotel (but without the lights or the casino), but just bland.
+[0.12109375] But the bathroom was not so clean and it's a huge let-down for a hotel like this to be so neglected.
+[0.10406494140625] The room service was horribly overpriced-- not only do they charge 18% more than listed price, the listed prices in the rooms are ALREADY higher than in the restaurant ($2 more on soups and $3-$8 more on entrees/burgers).
+[0.0408782958984375] This hotel disappointed.
+
+----- Weakening -----
+
+[-0.9608001708984375] The hotel is very close to the airport and sometimes we walk.
+[-0.9581642150878906] The hotel is pretty big but the location next to the airport is great.
+[-0.9571533203125] Pros - Very close to airport, very quiet rooms (you cant hear the airplanes taking off even though it is right across from the airport), friendly staff, VERY comfortable beds with lots of pillows, large rooms, ice and vending machines close to all rooms, nicely appointed bathrooms, free shuttle (runs every 20 min, no reservation needed), convenience store on site, ATM, warm cookies on check in.
+[-0.9560394287109375] Hotel is very close the the airport and room was comfortable.
+[-0.9545516967773438] Even though the hotel was close to the airport, you couldn't haer the planes taking off, it was quiet and very relaxing.
+
+**********
+
+[0.9797372817993164] The hotel was located near a steak place.
+Parent: The hotel was located across the street from the airport, and within walking distance of a Denny's, Jack in the Box, and a steak place.
+
+----- Supporting -----
+
+[0.9797372817993164] The hotel was clean, beds were fine, hotel is located across the street from the air port, was within walking distance to a Denny's, Jack in the Box, and a steak place.
+[0.004718780517578125] Food was good, but a bit overpriced.
+[0.0045013427734375] The food was good although a bit pricey.
+[0.0011968612670898438] Great place and would definately stay again.
+[0.0005855560302734375] Will stay there again in the future.
+
+----- Weakening -----
+
+[-0.9861464500427246] The hotel is pretty big but the location next to the airport is great.
+[-0.9840536117553711] This hotel is by a small lake and at dusk there are misquitos and misc.
+[-0.9834311008453369] It is on a busy street and I didn't see a restaurant within walking distance so I ate in the lobby.
+[-0.9768056869506836] The hotel was fine- a big hotel by the airport.
+[-0.9584312438964844] If you don't want to wait, a good alternative is the nearby taxi stand; fare to the Doubletree should be less than $10 because of the hotel's proximity to the airport.
+
+**********
+
+[0.9861769676208496] The staff was friendly.
+Parent: The staff was friendly and helpful.
+
+----- Supporting -----
+
+[0.9861769676208496] The front desk staff was friendly and helpful.
+[0.9861221313476562] The hotel staff was friendly and accomodating.
+[0.9842438697814941] The staff was friendly and we appreciated the cookies after a long flight when we were waiting to check inn.
+[0.9829931259155273] Staff is very courteous and friendly.
+[0.9789009094238281] --Staff was friendly, both at the desk and in the restaurant.
+
+----- Weakening -----
+
+[-0.9966821670532227] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+[-0.994239330291748] We experienced this poor attitude with a few other staff members within the hotel.
+[-0.9735498428344727] When we were there, there were a bunch of real estate agents who were getting a bit rowdy.
+[-0.9617404937744141] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[-0.880645751953125] I took a taxi as everyone was trying to cram into the shuttle with no respect for first-come-first-served.
+
+**********
+
+[0.9865241050720215] The staff was helpful.
+Parent: The staff was friendly and helpful.
+
+----- Supporting -----
+
+[0.9865241050720215] The staff people were really helpful and nice.
+[0.9807133674621582] The front desk staff was friendly and helpful.
+[0.9791932106018066] Breakfast was good and the staff were very helpful.
+[0.9772539138793945] The staff was very helpful with all my business and pesonal needs.
+[0.9740104675292969] Staff are friendly and helpful, the rooms are decent, and it's very close to the airport.
+
+----- Weakening -----
+
+[-0.9965181350708008] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+[-0.9960832595825195] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[-0.9795770645141602] We experienced this poor attitude with a few other staff members within the hotel.
+[-0.9761104583740234] When we tried to leave, our paid parking pass wouldn't register to let us out of the parking lot, and there were no attendants handy, so we were late returning our rental car :( -- I'm thankful we didn't get dinged on that.
+[-0.9601364135742188] Waitress never brought the items we requested and the order was askew.

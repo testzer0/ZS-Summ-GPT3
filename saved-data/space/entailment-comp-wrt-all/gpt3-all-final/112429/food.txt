@@ -1,0 +1,149 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.6755046844482422
+
+**********
+
+[0.2137451171875] The food at the Paramount Hotel was good.
+Parent: The reviewers found the food at the Paramount Hotel to be good or excellent.
+
+----- Supporting -----
+
+[0.2137451171875] The hotel has gone through some renovations which make it look nice, Dragonfish changed their menu a bit but their food is still good.
+[0.105712890625] Dragonfish restaurant attached is not run by the hotel but lets you sign charges to your room, and is a very good place, if a bit pricey.
+[0.0422515869140625] The restaurant (Dragonfish) has amazing food, and a wonderful happy hour small plates menu, though it can get quite busy, the hostess just took our room number and called us when our reservation was ready.
+[0.04002571105957031] The Dragonfish Cafe in the hotel is simply awesome.
+[0.039989471435546875] This hotel is probably one of the best in terms of location for shopping and restaurant etc.
+
+----- Weakening -----
+
+[-0.8759918212890625] The Dragonfish has great food, and they have a LATE happy hour for the food and select drinks that can't be beat!
+[-0.8721714019775391] hotel restaurant isn't very good, try others like palace kitchen, wild ginger, le pitchet.
+[-0.85479736328125] The Happy Hour at the Dragonfish was exceptional - great prices, great food, great service.
+[-0.8428916931152344] The room-service was way overpriced for mediocre food though.
+[-0.7813949584960938] The in-house restaurant is mediocre but not too pricey.
+
+**********
+
+[0.1568603515625] The food at the Paramount Hotel was excellent.
+Parent: The reviewers found the food at the Paramount Hotel to be good or excellent.
+
+----- Supporting -----
+
+[0.1568603515625] The hotel has gone through some renovations which make it look nice, Dragonfish changed their menu a bit but their food is still good.
+[0.044666290283203125] The restaurant (Dragonfish) has amazing food, and a wonderful happy hour small plates menu, though it can get quite busy, the hostess just took our room number and called us when our reservation was ready.
+[0.04049491882324219] The Dragonfish Cafe in the hotel is simply awesome.
+[0.035368919372558594] This hotel is probably one of the best in terms of location for shopping and restaurant etc.
+[0.02965259552001953] Our room was beautiful-we still talk about the beds-and we couldn't get enough of the sushi restaurant downstairs!
+
+----- Weakening -----
+
+[-0.9864978790283203] The room-service was way overpriced for mediocre food though.
+[-0.9813985824584961] hotel restaurant isn't very good, try others like palace kitchen, wild ginger, le pitchet.
+[-0.9774007797241211] The in-house restaurant is mediocre but not too pricey.
+[-0.9409584999084473] PLEASE don't give this awful chain your business!
+[-0.9163436889648438] Only negative was the attached restaurant for breakfast.
+
+**********
+
+[0.9574298858642578] The food is great.
+Parent: They praised the food for being great and reasonably priced, and noted that there was a lot of it.
+
+----- Supporting -----
+
+[0.9574298858642578] The food was awesome and the prices are pretty good.
+[0.9142665863037109] The restaurant (Dragonfish) has amazing food, and a wonderful happy hour small plates menu, though it can get quite busy, the hostess just took our room number and called us when our reservation was ready.
+[0.8916187286376953] Food and service were very good.
+[0.8680992126464844] The Dragonfish has great food, and they have a LATE happy hour for the food and select drinks that can't be beat!
+[0.8349971771240234] The Happy Hour at the Dragonfish was exceptional - great prices, great food, great service.
+
+----- Weakening -----
+
+[-0.9958887100219727] The room-service was way overpriced for mediocre food though.
+[-0.9894027709960938] The in-house restaurant is mediocre but not too pricey.
+[-0.9841375350952148] hotel restaurant isn't very good, try others like palace kitchen, wild ginger, le pitchet.
+[-0.9651885032653809] PLEASE don't give this awful chain your business!
+[-0.9464302062988281] I didn't try it, but it doesn't look appetizing.
+
+**********
+
+[0.9306240081787109] The food is reasonably priced.
+Parent: They praised the food for being great and reasonably priced, and noted that there was a lot of it.
+
+----- Supporting -----
+
+[0.9306240081787109] We enjoyed dining at the Dragonfish restaurant for great food and reasonable pricing.
+[0.8998641967773438] The in-house restaurant is mediocre but not too pricey.
+[0.838104248046875] The food was awesome and the prices are pretty good.
+[0.8052864074707031] They are low priced and have and incredible late night happy hour.
+[0.80523681640625] The breakfast (paid separately) in the restaurant Dragonfish CafÃ© at the hotel is limit priceworthy.
+
+----- Weakening -----
+
+[-0.9801406860351562] The room-service was way overpriced for mediocre food though.
+[-0.97576904296875] Your only option for room service (aside from breakfast) is overpriced -- tasty, but overpriced -- Asian cuisine from Dragonfish.
+[-0.810150146484375] Dragonfish restaurant attached is not run by the hotel but lets you sign charges to your room, and is a very good place, if a bit pricey.
+[-0.6991729736328125] Overpriced though.
+[-0.6609020233154297] PLEASE don't give this awful chain your business!
+
+**********
+
+[0.5356788635253906] The food is plentiful.
+Parent: They praised the food for being great and reasonably priced, and noted that there was a lot of it.
+
+----- Supporting -----
+
+[0.5356788635253906] The restaurant (Dragonfish) has amazing food, and a wonderful happy hour small plates menu, though it can get quite busy, the hostess just took our room number and called us when our reservation was ready.
+[0.41945648193359375] The food was awesome and the prices are pretty good.
+[0.41245269775390625] The Happy Hour at the Dragonfish was exceptional - great prices, great food, great service.
+[0.3315162658691406] The Dragonfish has great food, and they have a LATE happy hour for the food and select drinks that can't be beat!
+[0.290618896484375] We enjoyed dining at the Dragonfish restaurant for great food and reasonable pricing.
+
+----- Weakening -----
+
+[-0.9459438323974609] The room-service was way overpriced for mediocre food though.
+[-0.8297824859619141] Ok, it is bad.
+[-0.8143272399902344] The room service order-taker and delivery person were both very nice and professional, but it would be wonderful to have a wider range of menu options to select from.
+[-0.8113803863525391] Stripping the sheets, I found a fairly fresh urine stain that made me want to vomit.
+[-0.8104515075683594] hotel restaurant isn't very good, try others like palace kitchen, wild ginger, le pitchet.
+
+**********
+
+[0.9774646759033203] Room service was not good.
+Parent: However, one guest reported that room service was not as good, taking 45 minutes to get silverware for their breakfast.
+
+----- Supporting -----
+
+[0.9774646759033203] Unfortunately, room service wasn't as good.
+[0.8664703369140625] The in-house restaurant is mediocre but not too pricey.
+[0.8491363525390625] The room-service was way overpriced for mediocre food though.
+[0.6272354125976562] hotel restaurant isn't very good, try others like palace kitchen, wild ginger, le pitchet.
+[0.5673370361328125] Restaurant staff was also very poor
+
+----- Weakening -----
+
+[-0.9931707382202148] Great hotel, great service.
+[-0.9924535751342773] The customer service is top notch, the location is perfect, and the rooms are very comfortable.
+[-0.9898891448974609] Rooms are very clean, and modern and the service was excellent.
+[-0.9898509979248047] Great room, helpful staff, just one block from the convention center.
+[-0.9889030456542969] Clean rooms, pleasant staff with good restaurant recommendations, and fast, free internet.
+
+**********
+
+[0.9567298889160156] The service was slow.
+Parent: However, one guest reported that room service was not as good, taking 45 minutes to get silverware for their breakfast.
+
+----- Supporting -----
+
+[0.9567298889160156] The baggage staff was very slow and had no sense of urgency to help us with our bags.
+[0.3903350830078125] Some other minor issues were the desk chair in the room (it fell short of an appropriate working height of the desk and constantly fell down when your leg accidently hit the adjustment bar in front, poor choice of chairs), the elevator door was annoyingly slow to close (I was up and down several times per day), the exterior and lobby doors should be automatic and I noticed people struggling to open them and get their luggage through, they also were misaligned and did not open well.
+[0.3778839111328125] It was very quiet.
+[0.1885223388671875] Wi-fi, however, was spotty in strength, and I frequently had difficulty maintaining a connection.
+[0.08666229248046875] Front desk could only ask me if I had the privacy card on the door (I did not) and then shrug.
+
+----- Weakening -----
+
+[-0.993560791015625] The front desk was quick and helpful.
+[-0.9913392066955566] The customer service is top notch, the location is perfect, and the rooms are very comfortable.
+[-0.9910488128662109] Pros: 1- Quick service.
+[-0.9867420196533203] He returned quickly with our breakfast.
+[-0.9852514266967773] Internet access was high-speed and easy to use.

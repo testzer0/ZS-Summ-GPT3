@@ -1,0 +1,23 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.989229679107666
+
+**********
+
+[0.989229679107666] The rooms were clean.
+Parent: The rooms were clean.
+
+----- Supporting -----
+
+[0.989229679107666] the rooms are so clean.
+[0.9882783889770508] The rooms were very clean and the beds were very comfortable.
+[0.9849328994750977] The rooms were clean and had nice furnishings.
+[0.984886646270752] The rooms were clean, bathroom is extremely small and crowded, barely enough room to turn around.
+[0.984734058380127] The rooms are very clean and have plenty of room with the most comfortable beds for a good night's sleep.
+
+----- Weakening -----
+
+[-0.998258113861084] The room was filthy and disgusting!
+[-0.9964914321899414] Bedspreads were messed up when we arrived.
+[-0.9962959289550781] Opening the door, our room was musty and it smelled horrible.
+[-0.9960989952087402] The sheet on one of the beds had copper colored stains near the top and the pillows were stained really bad.
+[-0.9957609176635742] The room was like being in a cave with a bad smell.

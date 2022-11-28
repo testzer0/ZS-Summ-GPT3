@@ -1,0 +1,212 @@
+***** Aspect: rooms Model Type : zs *****
+Overall score: 0.9408078193664551
+
+**********
+
+[0.9781398773193359] The rooms were small.
+Parent: The rooms were small, dirty, and poorly lit.
+
+----- Supporting -----
+
+[0.9781398773193359] The rooms are on the small side, but that didn't matter to us as we weren't in there very much.
+[0.9717159271240234] The rooms were dirty, small and the t.v.
+[0.9548416137695312] The room had one double bed and was extremely small.
+[0.9536056518554688] The bathrooms were so small you had to stand behind the door to close it.
+[0.9515037536621094] Then when we got to the room it was so small, and the bathroom had MOLD growing around the tile area.
+
+----- Weakening -----
+
+[-0.9967865943908691] The room was very large and comfortable, clean, quiet, great location.
+[-0.9959287643432617] The room they serve it in is huge.
+[-0.9913663864135742] The hotel in all is very clean and the standard rooms are very spacious.
+[-0.9881916046142578] The rooms are well maintained, clean, and spacious.
+[-0.9872970581054688] The suite was big enough for the kids to have space to play and not be on top of us.
+
+**********
+
+[0.9865212440490723] The rooms were dirty.
+Parent: The rooms were small, dirty, and poorly lit.
+
+----- Supporting -----
+
+[0.9865212440490723] The rooms were dirty, small and the t.v.
+[0.9806318283081055] The room was filthy and disgusting!
+[0.8885688781738281] The bathroom is so small & dirty you couldn't stand to touch anything in it.
+[0.8333854675292969] Opening the door, our room was musty and it smelled horrible.
+[0.8118896484375] Well room 506 was not clean and the hallway stunk and as we entered into the room the floor was wet from the sink leaking.
+
+----- Weakening -----
+
+[-0.9978933334350586] The room was very clean and decorated very nicely.
+[-0.997582197189331] They were clean and the furnishing were very nice.
+[-0.997337818145752] The rooms were neat, clean, and roomy!
+[-0.9972877502441406] Rooms and halls were clean and neat.
+[-0.997279167175293] Our room was clean as well as the hallways.
+
+**********
+
+[0.9941258430480957] The rooms were poorly lit.
+Parent: The rooms were small, dirty, and poorly lit.
+
+----- Supporting -----
+
+[0.9941258430480957] The rooms are very poorly lit.
+[0.9817295074462891] The standard rooms are cramped with very poor lighting.
+[0.9557790756225586] My room was very small, again very poor lighting.
+[0.7934684753417969] Rooms are dark and dingy (black carpet?)
+[0.6177825927734375] Very dark rooms and could hear every sound from the room next to us.
+
+----- Weakening -----
+
+[-0.9764337539672852] The continental breakfast was wonderful and well organized.
+[-0.9760627746582031] Nice TV; free WiFi.
+[-0.9744787216186523] They have a wonderful breakfast buffet with entertainment in the mornings (at no extra cost).
+[-0.9723300933837891] There was a gorgeous painting on the wall, the lovely arch made me feel like a real Geneviere of Camelot.
+[-0.9722185134887695] Every requests is handled quickly and efficiently.
+
+**********
+
+[0.725860595703125] The beds were uncomfortable.
+Parent: The beds were uncomfortable, and the pillows were stained.
+
+----- Supporting -----
+
+[0.725860595703125] The bedding felt nasty and we found hair.
+[0.6784877777099609] Beds could be softer.
+[0.5385894775390625] The beds were very very nasty.
+[0.2927131652832031] The blanket on the bed looked to be about 20 years old and pilling and I didn't feel comfortable using it.
+[0.272216796875] Pulled the blankets back on the bed was surprised to see there was a duvet that nobody uses because you know they don't wash them, the middle blanket was all ripped (on both beds), the sheets looked like they needed washed, anytime you move at all the bed continues to bounce for a while after.
+
+----- Weakening -----
+
+[-0.9946107864379883] Stone Castle is very convenient to the main strip in Branson, but is also accessible to the relief routes that avoid traffic The rooms were very clean and the beds were super comfortable.
+[-0.9946002960205078] The group just raves over the super comfy beds and overall cleanliness of everything.
+[-0.994145393371582] A very nice room, lovely decorations, and amazingly comfortable beds.
+[-0.9931392669677734] We go to Branson at least 3 times a year and we have stayed at many of the hotels and this one had the most comfortable beds and a great hot breakfast.
+[-0.9928703308105469] The rooms are very clean and have plenty of room with the most comfortable beds for a good night's sleep.
+
+**********
+
+[0.9839997291564941] The pillows were stained.
+Parent: The beds were uncomfortable, and the pillows were stained.
+
+----- Supporting -----
+
+[0.9839997291564941] The sheet on one of the beds had copper colored stains near the top and the pillows were stained really bad.
+[0.7912216186523438] The staff was very helpful but could not find an unstained pilliow in the entire complex!
+[0.09228515625] Bedspreads were messed up when we arrived.
+[0.0267333984375] The bedding felt nasty and we found hair.
+[0.014345169067382812] The rooms were dirty, small and the t.v.
+
+----- Weakening -----
+
+[-0.963801383972168] Rooms and halls were clean and neat.
+[-0.9618072509765625] the bathrooms are so clean.
+[-0.9571762084960938] the rooms are so clean.
+[-0.956059455871582] The room was clean too.
+[-0.9554557800292969] Everything was clean and worked properly.
+
+**********
+
+[0.9604835510253906] The bathroom was too small.
+Parent: The bathroom was extremely small, with an older bath/shower and toilet.
+
+----- Supporting -----
+
+[0.9604835510253906] The bathroom was so small you could barely shut the door and turn around to shower, etc.
+[0.9442424774169922] The bathroom is so small & dirty you couldn't stand to touch anything in it.
+[0.9360904693603516] The bathrooms were so small you had to stand behind the door to close it.
+[0.8300628662109375] The rooms were clean, bathroom is extremely small and crowded, barely enough room to turn around.
+[0.7800579071044922] The bathroom was very, very tiny.
+
+----- Weakening -----
+
+[-0.9838242530822754] The room was very large and comfortable, clean, quiet, great location.
+[-0.9764213562011719] We loved the decor and the large jacuzzi tub and private balcony.
+[-0.9758234024047852] The room they serve it in is huge.
+[-0.9735736846923828] A large armoire had a very small tv.
+[-0.9565877914428711] At first when I saw this big, magnificent hoteI that looked like a castle I thought that it would be way too much to stay there.
+
+**********
+
+[0.9922041893005371] The bathroom had an old bath/shower.
+Parent: The bathroom was extremely small, with an older bath/shower and toilet.
+
+----- Supporting -----
+
+[0.9922041893005371] The bathroom was extremely small, with an older bath/shower and toilet.
+[0.862152099609375] The indoor pool/jacuzzi could really use some updating, ventilation, and bigger towels, but water was clean.
+[0.756072998046875] We stayed in one of the regular rooms and toured the themed rooms ($50.00) more a night, I'm glad we did not pay extra for a room that was the same as ours except for murals on the walls and an old whirlpool tub, would never recommend a themed room.
+[0.4026641845703125] The room was clean but worn the AC/Heat was very noisy and the towels really needed to be replaced.
+[0.366607666015625] I had written a note to the maid to please spray bleach on the shower and tub, but this did not happen.
+
+----- Weakening -----
+
+[-0.8930206298828125] wonderful in door pool and hot tub/spa.
+[-0.8023567199707031] The tv was older, did not have many channels at all, mainly a news channel, tbs, a few others, No HBO or premium channels.
+[-0.7994117736816406] A large armoire had a very small tv.
+[-0.7751388549804688] there was one very small, round table and 2 small, straight back chairs.
+[-0.7742462158203125] There are a couple of swimming pools and hot tubs available that are open early in the morning to very late at night.
+
+**********
+
+[0.8122978210449219] The toilet in the bathroom was old.
+Parent: The bathroom was extremely small, with an older bath/shower and toilet.
+
+----- Supporting -----
+
+[0.8122978210449219] The bathroom was extremely small, with an older bath/shower and toilet.
+[0.25506591796875] The staff was very helpful but could not find an unstained pilliow in the entire complex!
+[0.136688232421875] The next day we left to see some sites, and when we returned the bathroom was still the same......MOLD still there.....and the bed was half made.
+[0.103271484375] We stayed in one of the regular rooms and toured the themed rooms ($50.00) more a night, I'm glad we did not pay extra for a room that was the same as ours except for murals on the walls and an old whirlpool tub, would never recommend a themed room.
+[0.078765869140625] It was kinda moldy around the bathtub.
+
+----- Weakening -----
+
+[-0.9102325439453125] The tv was older, did not have many channels at all, mainly a news channel, tbs, a few others, No HBO or premium channels.
+[-0.8662643432617188] The TV in the armoire was 19”.
+[-0.8436431884765625] never saw it...oh unless they mean the old fruit on the table with the juice.
+[-0.8358306884765625] the bathrooms are so clean.
+[-0.799163818359375] Every requests is handled quickly and efficiently.
+
+**********
+
+[0.9872665405273438] The room smelled bad.
+Parent: The room smelled musty.
+
+----- Supporting -----
+
+[0.9872665405273438] Opening the door, our room was musty and it smelled horrible.
+[0.9862422943115234] The room was like being in a cave with a bad smell.
+[0.945530891418457] The room smelled musty.
+[0.9069004058837891] I called the front desk and was told the maid would come clean the room plus it had a musty smell.
+[0.9053840637207031] The room smelled musty when we first walked in.
+
+----- Weakening -----
+
+[-0.996891975402832] the beds are so fresh and smell good.so close to sleeping in my own beds.
+[-0.9957065582275391] Everything was great---Front desk people were friendly and was always willing to help in anyway...Rooms were clean and fresh..Breakfast was good and good music to listen too....I would rate this hotel and one of the best Branson has to offer.
+[-0.9950852394104004] The room was nice and clean and the hotel staff was wonderful.
+[-0.994865894317627] Check in process was very pleasant, room was nice and CLEAN!!
+[-0.9948587417602539] The rooms are always nice and clean and the location is nice since it sits right on the Yellow Route.
+
+**********
+
+[0.9871788024902344] The room was musty.
+Parent: The room smelled musty.
+
+----- Supporting -----
+
+[0.9871788024902344] Opening the door, our room was musty and it smelled horrible.
+[0.9832401275634766] The room smelled musty.
+[0.9670162200927734] Stayed 2 nights, room was very small and was damp and musty.
+[0.9659585952758789] The room smelled musty when we first walked in.
+[0.9511356353759766] I called the front desk and was told the maid would come clean the room plus it had a musty smell.
+
+----- Weakening -----
+
+[-0.9964194297790527] The atmosphere was nice and friendly.
+[-0.9954185485839844] The room was very clean and decorated very nicely.
+[-0.9953508377075195] The rooms are very reasonable, clean and relaxing.
+[-0.9952068328857422] It's in a very quiet part of Branson, the rooms are super clean, the staff is very helpful and they have a great hot breakfast.
+[-0.9951815605163574] the rooms are so clean.

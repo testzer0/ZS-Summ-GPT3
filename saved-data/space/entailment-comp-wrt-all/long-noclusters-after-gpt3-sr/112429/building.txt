@@ -1,0 +1,107 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.7887744903564453
+
+**********
+
+[0.9856514930725098] The hotel was conveniently located.
+Parent: The hotel was very well positioned, clean, comfortable, and had an excellent king bed.
+
+----- Supporting -----
+
+[0.9856514930725098] The hotel is conveniently located, has a helpful and friendly staff, and is within walking distance to PPM, Capitol Hill, Belltown, and the Space Needle.
+[0.9760317802429199] The hotel is a perfect location -- a block from the Seattle Convention Center/Conference Center, which was very convenient.
+[0.9695067405700684] This hotel is conveniently located in downtown Seattle.
+[0.9468765258789062] And in a hotel that is very affordable and nicely located.
+[0.9387607574462891] The hotel was very well positioned to do that being central to all the major downtown stores and Pike Pklace Market.
+
+----- Weakening -----
+
+[-0.9510765075683594] The location isn't even that good, a little to far north for me.
+[-0.8834228515625] I guess that's standard practice in downtown hotels, but it really makes it cumbersome to get the car.
+[-0.8714828491210938] Valet parking was terrible.
+[-0.7610588073730469] It was rush hour, so the concierge had to stand out there quite a while to catch one that was empty.
+[-0.6064338684082031] Sounded like a jackhammer.
+
+**********
+
+[0.9907383918762207] The hotel was clean.
+Parent: The hotel was very well positioned, clean, comfortable, and had an excellent king bed.
+
+----- Supporting -----
+
+[0.9907383918762207] Hotel was very clean, very quiet, great for a business trip.
+[0.9830589294433594] Hotel is extremely clean and quiet, and the staff is very helpful.
+[0.977386474609375] Highly recommend this hotel rooms, they were nice and clean and very comfortable.
+[0.9651198387145996] Friendly welcoming staff, clean, one of the best hotels I've stayed at in a long time!
+[0.9134616851806641] The hotel is recently remodeled and the rooms are very clean and modern as is the hotel lobby.
+
+----- Weakening -----
+
+[-0.997502326965332] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[-0.9937038421630859] The air conditioning vent had so much filthy residue trapped inside that it could not possibly pass a health audit.
+[-0.9928450584411621] Our toliet overflowed at 11pm resulting in a flood in our bathroom.
+[-0.9922299385070801] It was dark, dirty, and noisy from the construction right outside my window.
+[-0.9894485473632812] Don't take a room on the inside unless you want to be awakened by the garbage trucks at 5am.
+
+**********
+
+[0.9739580154418945] The hotel was comfortable.
+Parent: The hotel was very well positioned, clean, comfortable, and had an excellent king bed.
+
+----- Supporting -----
+
+[0.9739580154418945] Highly recommend this hotel rooms, they were nice and clean and very comfortable.
+[0.9722743034362793] A functional hotel, comfortable, worth its price.
+[0.9258060455322266] Laid back, nonintrusive hotel suitable for business or vacation stays, centrally located on Pine--3 blocks from Westlake, a block from the bus terminal ($2.75 airport transfers), and a block from Von's Martini and Manhattan Shrine, never to be missed.
+[0.9055767059326172] The staff is friendly and super helpful (ie: tourist questions, room questions etc), the rooms are neat and clean and comfortable, the location is perfect and close to everything you need downtown including transit to anything outside of downtown (monorail, bus stops, lightrail).
+[0.8478145599365234] The hotel staff went out of their way to make me comfortable an darrange accommodations for my transportation back to the airport.
+
+----- Weakening -----
+
+[-0.9848442077636719] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[-0.9421234130859375] The not so good: The hotel had touted a 2 person tub - and while it was a soaking tub - it wasn't comfortable for two.
+[-0.9274673461914062] It was dark, dirty, and noisy from the construction right outside my window.
+[-0.9196929931640625] The room is shabby, the shower made a horrible noise whenever the water was running.
+[-0.8716926574707031] Don't take a room on the inside unless you want to be awakened by the garbage trucks at 5am.
+
+**********
+
+[0.9423618316650391] The king bed was excellent.
+Parent: The hotel was very well positioned, clean, comfortable, and had an excellent king bed.
+
+----- Supporting -----
+
+[0.9423618316650391] The best included the cleanliness, the attention to detail with lighting and electrical outlets, the comfortable furniture, the robes, the great shower, the refrigerator, the windows can open, the wide and well lit hallways (although too warm) and of course an excellent king bed.
+[0.9190664291381836] We were very pleased when we got to our room- quite spacious with a king bed that honestly gave us such a great sleep that we meant to ask the front desk about the mattress brand and bedding.
+[0.8945379257202148] Our king-size bed was very comfortable.
+[0.7170257568359375] Large room, with amazing king size bed, stunning bathroom, and a view.
+[0.40904998779296875] King sized bed (very comfortable), lounge chair and ottoman, large desk (with lots of electrical outlets!
+
+----- Weakening -----
+
+[-0.9875707626342773] The room was OK, typical hotel room with queen bed, desk, TV, clock radio, coffee maker.
+[-0.9682769775390625] Stripping the sheets, I found a fairly fresh urine stain that made me want to vomit.
+[-0.9642829895019531] Ok, it is bad.
+[-0.9533958435058594] Now on to the bad, the other staff.
+[-0.9533500671386719] PLEASE don't give this awful chain your business!
+
+**********
+
+[0.0511627197265625] The hotel was clean and quiet during the entire week stay there.
+Parent: There were no significant complaints with the hotel during the entire week stay there.
+
+----- Supporting -----
+
+[0.0511627197265625] Laid back, nonintrusive hotel suitable for business or vacation stays, centrally located on Pine--3 blocks from Westlake, a block from the bus terminal ($2.75 airport transfers), and a block from Von's Martini and Manhattan Shrine, never to be missed.
+[0.0439605712890625] Friendly welcoming staff, clean, one of the best hotels I've stayed at in a long time!
+[0.03179454803466797] Hotel was very clean, very quiet, great for a business trip.
+[0.019689559936523438] Only 200 or so rooms, so never crowded.
+[0.01627349853515625] Rooms aren't big, just enough room for two people, bathroom had smallish tub but everything was clean and worked.
+
+----- Weakening -----
+
+[-0.9992249011993408] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[-0.9988023042678833] Our toliet overflowed at 11pm resulting in a flood in our bathroom.
+[-0.9987983703613281] The biggest issue is that upon going to bed the first night, I noticed an overpowering smell of urine in my bed.
+[-0.9987844228744507] The heater came off and on frequently and it made a jarring clicking noise each time...all night long.
+[-0.99871826171875] It was dark, dirty, and noisy from the construction right outside my window.

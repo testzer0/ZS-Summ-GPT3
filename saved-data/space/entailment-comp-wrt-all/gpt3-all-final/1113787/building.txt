@@ -1,0 +1,128 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.9133742650349935
+
+**********
+
+[0.9442358016967773] The building is clean.
+Parent: The building was described as clean, well-maintained, and spacious.
+
+----- Supporting -----
+
+[0.9442358016967773] I would recommend this hotel to anyone; it is clean, luxurious and has out of this world service.
+[0.8910140991210938] The service there was exceptional, the area was very clean and very well maintained.
+[0.8001861572265625] The hotel room was pristine and beautiful, and the staff was extremely friendly and polite (not at all condescending which can sometimes occur in a high-end hotel like this).
+[0.7295875549316406] The room was immaculate - superbly decorated, super clean, and there was a complimentary bottle of champagne for us, with truffles and a lovely note from the manager.
+[0.7157936096191406] The clean lines and technically savvy components of the guest rooms ensure that you remain at ease and connected while you travel.
+
+----- Weakening -----
+
+[-0.9894924163818359] The only drawback was that the room faced a dilapidated building next door and they were doing construction on that side to extend the hotel (no construction noise on the weekend, just a view of the construction and rundown building!).
+[-0.9863138198852539] Also the maids probably need to consider dusting in the bathroom lights becuase they were covered in dust!
+[-0.9840507507324219] I was so amazed at the rust on the equipment.
+[-0.9757347106933594] It needs to be removed ASAP.
+[-0.9654159545898438] Firstly our room smelt of smoke so they had to come spray the room, then there wasnt a hairdryer so they came and provided that, then the tv didn't work so they they had to come fix that, then we paid for valet at $27 for our car to be returned with bird droppings all over it.
+
+**********
+
+[0.8797435760498047] The building is well-maintained.
+Parent: The building was described as clean, well-maintained, and spacious.
+
+----- Supporting -----
+
+[0.8797435760498047] The service there was exceptional, the area was very clean and very well maintained.
+[0.8474617004394531] Rooms also nice, well-maintained, if again trying a bit too hard - one almost feels like this hotel is screaming "yes, I know its Dallas, but Dallas can be trendy too!".
+[0.6508750915527344] The hotel room was pristine and beautiful, and the staff was extremely friendly and polite (not at all condescending which can sometimes occur in a high-end hotel like this).
+[0.5257377624511719] I would recommend this hotel to anyone; it is clean, luxurious and has out of this world service.
+[0.5205345153808594] All of the details from the lobby theme and decor to the functional and modern bathrooms have been impeccably taken care of.
+
+----- Weakening -----
+
+[-0.9901456832885742] The only drawback was that the room faced a dilapidated building next door and they were doing construction on that side to extend the hotel (no construction noise on the weekend, just a view of the construction and rundown building!).
+[-0.9856529235839844] The gym is in desperate need of an upgrade.
+[-0.9812650680541992] It needs to be removed ASAP.
+[-0.9618434906005859] I was so amazed at the rust on the equipment.
+[-0.9017372131347656] Also the maids probably need to consider dusting in the bathroom lights becuase they were covered in dust!
+
+**********
+
+[0.9455642700195312] The building is spacious.
+Parent: The building was described as clean, well-maintained, and spacious.
+
+----- Supporting -----
+
+[0.9455642700195312] absolutely beautiful property, rooms are spacious and modern, roof-top pool area is excellent, and restaurant is 5-star.
+[0.735687255859375] The room was spacious enough, with a big glass wall on the outside, a 42" flat screen TV, and terrific lighting arrangements that allowed you to adjust the brightness in various parts of the room.
+[0.6555328369140625] The Joule Suite was classy, comfortable and spacious.
+[0.5426025390625] The hotel and guest rooms are cozy without feeling too small.
+[0.4913787841796875] The inside is very modern and sleek.
+
+----- Weakening -----
+
+[-0.9944486618041992] This hotel has a very cramped feel.
+[-0.9918136596679688] The rooms are tiny and open like most W's and the focus on being trendy, not on customer service nor amenities.
+[-0.9916954040527344] Only little tiny thing is the location ...
+[-0.9896888732910156] The pool was nice as was the fitness center but with tiny cramped rooms, lack of customer service (I tried calling the desk 3 times and never go through) and the loading dock at the front of the building, I wouldn't recommend it.
+[-0.9858169555664062] They had free bottle of wine and chocolates in our room for our anniversary which was nice but I had to ask 3 times for ice bucket (it is small hotel so there are no ice machines on the floors).
+
+**********
+
+[0.969388484954834] The hotel was modern and stylish.
+Parent: Some guests found it modern and stylish, while others found it old and historic.
+
+----- Supporting -----
+
+[0.969388484954834] The hotel is very posh and modern.
+[0.9519557952880859] Very contemporary hotel but classy.
+[0.9111442565917969] The hotel is gorgeous and our room was clean, modern, and just as I expected a Luxury Starwood Hotel should be.
+[0.7859649658203125] The warm, modern feel of the hotel is a big hit with our guests!
+[0.7620258331298828] absolutely beautiful property, rooms are spacious and modern, roof-top pool area is excellent, and restaurant is 5-star.
+
+----- Weakening -----
+
+[-0.9745674133300781] The only drawback was that the room faced a dilapidated building next door and they were doing construction on that side to extend the hotel (no construction noise on the weekend, just a view of the construction and rundown building!).
+[-0.9741325378417969] I was so amazed at the rust on the equipment.
+[-0.9724025726318359] The room was surprisingly small and the bed was terrible, i liked the idea of a round bed as it is unique but it was very awkward and felt cheap..not a luxury collection standard.
+[-0.9722280502319336] Dark and moody still.
+[-0.9694089889526367] This hotel has a very cramped feel.
+
+**********
+
+[0.75372314453125] The hotel is old and historic.
+Parent: Some guests found it modern and stylish, while others found it old and historic.
+
+----- Supporting -----
+
+[0.75372314453125] Don't let the historic/old look of this hotels exterior fool you.
+[0.4212646484375] Downtown area around it is sort of dead... the structure itself is a period building, renovated into a boutique hotel.
+[0.24566650390625] We especially found the room service to be timely and tasty (yes, we even had breakfast by the pool one day!).
+[0.12528228759765625] I've already recommended the hotel to co-workers and friends that plan on celebrating their anniversaries at the Joule!!
+[0.034381866455078125] My guests were so intrigued by the history and architecture.
+
+----- Weakening -----
+
+[-0.9967985153198242] The hotel is very posh and modern.
+[-0.9965786933898926] When we got to our room it was very modern and high tech with all of the light switches and lamp knobs.
+[-0.9965081214904785] The inside is very modern and sleek.
+[-0.9963455200195312] Modern and comfortable guestrooms.
+[-0.9962377548217773] Very contemporary hotel but classy.
+
+**********
+
+[0.9875903129577637] The lighting in the rooms was not good.
+Parent: There were also some complaints about the lighting in the rooms.
+
+----- Supporting -----
+
+[0.9875903129577637] I do think it is a lovely hotel but I would like to mention the lighting in the rooms was terrible.
+[0.47942352294921875] Also the maids probably need to consider dusting in the bathroom lights becuase they were covered in dust!
+[0.36663818359375] Craig that helped bring my one bags and all of my wife bags up was so helpful, especially with help explain the lights in the room, couldn't the hotel have less complicated lighting arrangements?.
+[0.3351287841796875] Lobby is very nice, if a bit "tries to hard" and dark.
+[0.08624267578125] The view from the lower floors is kinda cruddy and the street noise might get loud on the weekend.
+
+----- Weakening -----
+
+[-0.9915304183959961] The room was spacious enough, with a big glass wall on the outside, a 42" flat screen TV, and terrific lighting arrangements that allowed you to adjust the brightness in various parts of the room.
+[-0.9901123046875] The bathroom was beautiful with a large soaking tub, a shower room and excellent lighting.
+[-0.9849948883056641] The rooms are astonishing, my favorite detail in the entire room was the lights that are built into the headboard.
+[-0.9801006317138672] The furniture was nice, the bed was extremely comfortable, and I loved the lighting system.
+[-0.9769916534423828] And I canâ€™t wait to go back Good: â€¢ Amazing dÃ©cor throughout the hotel.

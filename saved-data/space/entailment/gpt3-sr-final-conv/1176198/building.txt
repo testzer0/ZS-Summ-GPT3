@@ -1,0 +1,128 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.8287494977315267
+
+**********
+
+[0.9522180557250977] The building is new.
+Parent: The building is new and has a lovely lobby.
+
+----- Supporting -----
+
+[0.9522180557250977] The place is brand new so everything works just fine.
+[0.9458503723144531] The hotel is brand new, fantastic rooms and public areas.
+[0.9249973297119141] Hotel is brand new, with valet parking, service is exeptional with extra personal touches of the staff remembering you from check in.
+[0.9238681793212891] Hotel is new, everything was in good working order.
+[0.9204654693603516] A fairly small hotel for Toronto but modern (it is a pretty new property) and very, very clean.
+
+----- Weakening -----
+
+[-0.9010944366455078] Our original two rooms were finally clean but had already been given to someone else.
+[-0.8232955932617188] The room itself and the hotel were very nicely decorated, combining old and new accents.
+[-0.7935314178466797] The room was a fairly typical Hilton Garden Inn room, which I like, with great & free high speed access, a fridge that came in very handy and a solid shower and bed.
+[-0.6277618408203125] The week-end floozies everywhere and drunken partners are too much !
+[-0.6245479583740234] Excellent hotel that hides into an average gray downtown building, standing on an average not important street.
+
+**********
+
+[0.9622325897216797] The lobby is lovely.
+Parent: The building is new and has a lovely lobby.
+
+----- Supporting -----
+
+[0.9622325897216797] The lobby is quite lovely, the parking is expensive.
+[0.8359546661376953] Nice lobby with fresh cookies in the evening.
+[0.7843656539916992] Clean, shiny new hotel with spacious welcoming lobby and attractive decor.
+[0.3005180358886719] The rooms were warm and comfortable, and the hotel has a small but cozy lobby with a fireplace, business center and small market shop.
+[0.2369842529296875] The rooms are beautiful and spacious.
+
+----- Weakening -----
+
+[-0.9148139953613281] Hotel rooms and restaurant = great "Valet" = brutal and ruined the whole stay.
+[-0.9038810729980469] I truly disliked the bed.
+[-0.8998203277587891] That was a bit of a pain, but understandable, because it was getting extremely rowdy and it was clear people were bringing in about 10 people into one room.
+[-0.8882617950439453] This night was a bit of a mess; we would walk out to the hallway and smell weed, hear loud music blasting, etc.
+[-0.8789176940917969] I would NOT recommend giving this hotel your business.
+
+**********
+
+[0.9668169021606445] The walls are thin.
+Parent: However, the walls are thin and the parking is expensive.
+
+----- Supporting -----
+
+[0.9668169021606445] (once we figured out how to work all the shower heads) The walls were very thin though-we could really hear our neighbours mini party at 2AM in the morning.
+[0.94195556640625] There was a little noise in the adjacent rooms, walls are paper-thin as in most hotels.
+[0.03128814697265625] In the bathroom you feel like you are in a space capsule and these are a little cramped but lets face it how much time do you spend in a bathroom...in and out right!
+[0.028564453125] we were so tired and sore from bad sleep we went home early on monday without shopping or anything the room was kind of plain we had the room with a jacuzzi and fireplace but both nights when we were in bed sleeping the jacuzzi mysteriously turned on and woke us both up and we couldn't figure out how to turn it off.
+[0.0126800537109375] Quiet, comfortable and utilitarian.
+
+----- Weakening -----
+
+[-0.8992919921875] Also, tons of bars everywhere!!!
+[-0.769378662109375] The food was of high quality and good variety.
+[-0.6783599853515625] everything was super clean.
+[-0.6610870361328125] Lots of thought has gone in to making guests happy, with a huge flat screen TV, very comfy bed, noon check-out, blackout curtains, fridge and fab bathroom with the huge shower/jet enclosure and nice toiletries!
+[-0.6282806396484375] Clean as can be, great beds, patient staff everywhere, fast elevators, great food.
+
+**********
+
+[0.9596376419067383] The parking is expensive.
+Parent: However, the walls are thin and the parking is expensive.
+
+----- Supporting -----
+
+[0.9596376419067383] The lobby is quite lovely, the parking is expensive.
+[0.9362821578979492] Parking rates are high as you will find in all major cities around the world.
+[0.9063491821289062] Valet parking was expensive, but this is expected in a city like Toronto with limited downtown space.
+[0.8559036254882812] It was worth the cost of the parking just to have their assistance.
+[0.8418617248535156] Also, if you are planning on parking your car there is only valet parking available which at $35 per day is quite pricey.
+
+----- Weakening -----
+
+[-0.8164825439453125] For a price of $10 we had a choice of hot and cold items, both ready made, and made to order.
+[-0.7710113525390625] Great rates, Great location, friendly staff.
+[-0.7451171875] I truly disliked the bed.
+[-0.7330169677734375] There are lots of parking lots near by that look cheaper than the hotel valet system (one right across the road).
+[-0.7127723693847656] It was so inexpensive for the area and amenities.
+
+**********
+
+[0.33544921875] The fire alarm is not working properly.
+Parent: There have been some issues with the fire alarm going off.
+
+----- Supporting -----
+
+[0.33544921875] I was there the morning of the false fire alarm and although it was annoying I would rather it be false than for real!
+[0.07373046875] The only bad things that i can mention are that during my stay another guest decided to set the fire alarm of at 04:30, not a wake up call I want to repeat.
+[0.0054931640625] Clearly they need more than two valet guys working on a Sunday morning when everyone is checking out for the weekend There was a party going on at 1-2AM beside one of our rooms.
+[0.0008335113525390625] Had to spend much time fixing their error.
+[3.814697265625e-05] Spent all Sunday morning making phone calls to figure situation out.
+
+----- Weakening -----
+
+[-0.9638891220092773] Exceptional service!
+[-0.8986425399780273] They have great rates, and works good for all purposes.
+[-0.8658561706542969] The service was exceptional and went beyond the standard service.
+[-0.7327117919921875] The service was quite good.
+[-0.7297706604003906] Well done Hilton!
+
+**********
+
+[0.796142578125] The fire alarm is going off.
+Parent: There have been some issues with the fire alarm going off.
+
+----- Supporting -----
+
+[0.796142578125] The fire alarm went off in the ENTIRE hotel very early in the morning because someone burned toast.
+[0.3487548828125] The only bad things that i can mention are that during my stay another guest decided to set the fire alarm of at 04:30, not a wake up call I want to repeat.
+[0.004741668701171875] This is where the weekend turns for the worse....
+[0.002239227294921875] We asked to be assigned to a room far away from the elevator so we do not have to hear it all night long.
+[0.0] Horrible !
+
+----- Weakening -----
+
+[-0.9725399017333984] Exceptional service!
+[-0.9641284942626953] Free wi-fi!
+[-0.9628152847290039] Check in was very quick and easy.
+[-0.9617748260498047] Check-in was fast and friendly.
+[-0.9595737457275391] Just bass thump !

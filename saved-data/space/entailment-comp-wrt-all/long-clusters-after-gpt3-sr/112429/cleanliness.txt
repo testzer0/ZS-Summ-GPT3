@@ -1,0 +1,86 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.7544394731521606
+
+**********
+
+[0.9907383918762207] The hotel was clean.
+Parent: Some reviews mentioned that the hotel was clean, while others mentioned that housekeeping could improve.
+
+----- Supporting -----
+
+[0.9907383918762207] Hotel was very clean, very quiet, great for a business trip.
+[0.9830589294433594] Hotel is extremely clean and quiet, and the staff is very helpful.
+[0.977386474609375] Highly recommend this hotel rooms, they were nice and clean and very comfortable.
+[0.9651198387145996] Friendly welcoming staff, clean, one of the best hotels I've stayed at in a long time!
+[0.9134616851806641] The hotel is recently remodeled and the rooms are very clean and modern as is the hotel lobby.
+
+----- Weakening -----
+
+[-0.997502326965332] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[-0.9937038421630859] The air conditioning vent had so much filthy residue trapped inside that it could not possibly pass a health audit.
+[-0.9928450584411621] Our toliet overflowed at 11pm resulting in a flood in our bathroom.
+[-0.9922299385070801] It was dark, dirty, and noisy from the construction right outside my window.
+[-0.9894485473632812] Don't take a room on the inside unless you want to be awakened by the garbage trucks at 5am.
+
+**********
+
+[0.4145545959472656] Housekeeping could be better.
+Parent: Some reviews mentioned that the hotel was clean, while others mentioned that housekeeping could improve.
+
+----- Supporting -----
+
+[0.4145545959472656] Even though rates are half that of the Hyatt, maybe go to a better hotel with better service.
+[0.27880096435546875] Unfortunately, room service wasn't as good.
+[0.226226806640625] The room service order-taker and delivery person were both very nice and professional, but it would be wonderful to have a wider range of menu options to select from.
+[0.18868255615234375] Some other minor issues were the desk chair in the room (it fell short of an appropriate working height of the desk and constantly fell down when your leg accidently hit the adjustment bar in front, poor choice of chairs), the elevator door was annoyingly slow to close (I was up and down several times per day), the exterior and lobby doors should be automatic and I noticed people struggling to open them and get their luggage through, they also were misaligned and did not open well.
+[0.1422119140625] I didn't have any aches or pains from the beds, but I have definitely experienced better in other hotels.
+
+----- Weakening -----
+
+[-0.3994255065917969] Amazing motel, amazing staff.
+[-0.39125823974609375] The only aspect of the hotel that could be improved, in my opinion, is the fitness center -- it's in the basement and has older equipment.
+[-0.3687324523925781] The room was cosy, the free WiFi was a godsend, the staff was courteous and helpful.
+[-0.3626251220703125] Highly recommend this hotel rooms, they were nice and clean and very comfortable.
+[-0.3385009765625] What a wonderful surprise.
+
+**********
+
+[0.9514236450195312] The rooms were sanitary.
+Parent: Some guests also found the rooms to be unsanitary.
+
+----- Supporting -----
+
+[0.9514236450195312] The rooms were clean and I forgot an item and was able to get it back from the front desk staff.
+[0.9438648223876953] Our room was very clean and the service was very friendly.
+[0.9395942687988281] The rooms are pleasant and clean, with the baffling omission of a coffee maker or kettle--really a weird thing to forget.
+[0.9389066696166992] Clean rooms, pleasant staff with good restaurant recommendations, and fast, free internet.
+[0.9112415313720703] Rooms were very clean and comfortable.
+
+----- Weakening -----
+
+[-0.991114616394043] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[-0.9882316589355469] Stripping the sheets, I found a fairly fresh urine stain that made me want to vomit.
+[-0.9855327606201172] It was dark, dirty, and noisy from the construction right outside my window.
+[-0.9806842803955078] Our toliet overflowed at 11pm resulting in a flood in our bathroom.
+[-0.9802131652832031] The biggest issue is that upon going to bed the first night, I noticed an overpowering smell of urine in my bed.
+
+**********
+
+[0.661041259765625] The rooms were unsanitary.
+Parent: Some guests also found the rooms to be unsanitary.
+
+----- Supporting -----
+
+[0.661041259765625] The room is shabby, the shower made a horrible noise whenever the water was running.
+[0.6592559814453125] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[0.5942306518554688] It was dark, dirty, and noisy from the construction right outside my window.
+[0.35382080078125] The air conditioning vent had so much filthy residue trapped inside that it could not possibly pass a health audit.
+[0.218841552734375] When I had got back to my room the first day I was there housekeeping had still not been to my room, I had left at 9am and it was then 3:30.
+
+----- Weakening -----
+
+[-0.9959502220153809] The room was very clean and beautifully decorated.
+[-0.9957280158996582] The room was meticulously cleaned including plenty of soft linins and offers one of the most comfortable beds I have ever slept on.
+[-0.9956979751586914] The rooms are clean and neat, and the staff is friendly.
+[-0.9956870079040527] The hotel is recently remodeled and the rooms are very clean and modern as is the hotel lobby.
+[-0.9956607818603516] Rooms are very clean, and modern and the service was excellent.

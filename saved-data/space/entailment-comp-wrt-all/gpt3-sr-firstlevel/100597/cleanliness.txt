@@ -1,0 +1,281 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.6979599732619065
+
+**********
+
+[0.9881768226623535] The hotel is clean.
+Parent: The hotel is generally clean, with the exception of a stain on the carpet.
+
+----- Supporting -----
+
+[0.9881768226623535] This hotel is clean, neat and offers good value for the money.
+[0.9816269874572754] The hotel was clean, beds were fine, hotel is located across the street from the air port, was within walking distance to a Denny's, Jack in the Box, and a steak place.
+[0.9768252372741699] The Hotel was clean, great staff, was greeted with hot fresh cookies at the check-in counter.
+[0.9594392776489258] The hotel was nice; good clean rooms.
+[0.9295387268066406] Yes, the hotel is large and somewhat dated - but the cleanliness and service is very goo d. My only blip was with a faulty magnetic door reader that prevented us from gaining access to our room.
+
+----- Weakening -----
+
+[-0.9945964813232422] The crappy wings are old and the rooms smell musty.
+[-0.9944934844970703] This property is a mess.
+[-0.992060661315918] When we found our room we discovered that the bathroom hadn't been cleaned and there were dirty towels lying around.
+[-0.9918718338012695] It was so liquified that it spilled all over my hand and burned me terribly.
+[-0.9905405044555664] The bathroom was dirty and stained.
+
+**********
+
+[0.9924654960632324] There is a stain on the carpet.
+Parent: The hotel is generally clean, with the exception of a stain on the carpet.
+
+----- Supporting -----
+
+[0.9924654960632324] There was a stain on the carpet but otherwise it was clean and well maintained.
+[0.9828481674194336] Wall paper peeling off walls in different places, light bulb not replaced in room and carpet stained.
+[0.05623626708984375] Bathroom floors seems dirty and needed to be regrouted.
+[0.05062103271484375] Carpet was old as were the other furnishings.
+[0.04845428466796875] The bathroom was dirty and stained.
+
+----- Weakening -----
+
+[-0.7464065551757812] I reserved off Priceline and got a great rate.
+[-0.7400169372558594] Choice of food was excelent.
+[-0.7012710571289062] There are also other choices, with several restaurants and fast food places within a very short walk.
+[-0.688018798828125] If you use their free airport shuttle service, make sure you get on the right shuttle from the airport because there is another Double Tree with a separate shuttle.
+[-0.68035888671875] It was so liquified that it spilled all over my hand and burned me terribly.
+
+**********
+
+[0.15960693359375] The A/C was not working properly.
+Parent: There were also complaints about the A/C.
+
+----- Supporting -----
+
+[0.15960693359375] The A/C put out hot air.
+[0.143890380859375] They discovered faulty battery problem and reset.
+[0.04105377197265625] But the nightmare wasn't over, then it took three more tries to get a room with a non-rattling heater and sliding doors that sealed and did not let the traffic noise in.
+[0.0189208984375] When you finally reach your room the heaters all make tremendous noise, rattle, rumble.
+[0.005893707275390625] It was so liquified that it spilled all over my hand and burned me terribly.
+
+----- Weakening -----
+
+[-0.9886550903320312] The room room's AC was working fine and it was pretty quite.
+[-0.8483543395996094] It seemed to ALWAYS be running, and was very convenient.
+[-0.7325363159179688] I loved that the heating system was quiet.
+[-0.7111949920654297] Service is outstanding, there nightclub is always fun and classy.
+[-0.7101764678955078] Love the warm chocolate chips cookies and the service has always been outstanding.
+
+**********
+
+[0.7703399658203125] The reviews were mixed.
+Parent: The reviews were mixed on the cleanliness of the hotel.
+
+----- Supporting -----
+
+[0.7703399658203125] The hotel restaurant was nice enough, but again, bland; the food was nicely presented but had no taste.
+[0.44482421875] The good: large room, food at the restaurants (especially the clam chowder), bed, view from the elevators, service, shuttle every 20 minutes to and from the airport (5 minutes away) The bad: the insulation for the windows is awful, so the hotel is extremely noisy at night (at least if you are facing the airport): airplanes, busy airport boulevard, rooftop with furnaces/chillers etc.
+[0.4120941162109375] The room was okay, but not as clean as one would expect.
+[0.3802490234375] Front desk service can be a bit hit or miss, but the location, shuttle service, and stress-free park & fly service wins out.
+[0.3513031005859375] Hotel was fine for our purposes, but I wouldn't have wanted a longer stay there.
+
+----- Weakening -----
+
+[-0.9947383403778076] We were especially impressed with the staff at the hotel.
+[-0.9940924644470215] All the staff we interacted with were great.
+[-0.9922490119934082] We've stayed in this hotel three times in the past 2 years and overall we've been very satisfied.
+[-0.9911527633666992] We really liked the Doubletree Sea-Tac.
+[-0.9895725250244141] Overall,it was a very pleasant stay at a very nice property.
+
+**********
+
+[0.9276237487792969] The hotel was not clean.
+Parent: The reviews were mixed on the cleanliness of the hotel.
+
+----- Supporting -----
+
+[0.9276237487792969] But the bathroom was not so clean and it's a huge let-down for a hotel like this to be so neglected.
+[0.8844451904296875] This is a pretty rundown hotel.
+[0.824920654296875] The shuttle was hot and smelly again and people were mad.
+[0.813201904296875] The hotel has seen its newer days: the carpets are threadbare in some spots and the cement balconies are noticeably empty of furniture.
+[0.7483367919921875] I was informed that entire floor was currently being re-furbished and there were no rooms of that quality available.
+
+----- Weakening -----
+
+[-0.9885177612304688] This hotel is clean, neat and offers good value for the money.
+[-0.9868583679199219] The Hotel was clean, great staff, was greeted with hot fresh cookies at the check-in counter.
+[-0.9849700927734375] The hotel was clean, beds were fine, hotel is located across the street from the air port, was within walking distance to a Denny's, Jack in the Box, and a steak place.
+[-0.9840850830078125] Easy to reach, very clean and well-appointed rooms.
+[-0.9832706451416016] My room and bathroom were both very clean and the service at the hotel was friendly, The check in process could be slow and it would be helpful if the airline crews were not given first priority to jump in front of everyone waiting.
+
+**********
+
+[0.18340492248535156] The rooms were dusty.
+The heater did not function properly.
+There is a stain on the carpet.
+The cost of parking was too high.
+Parent: The reviews were mixed on the cleanliness of the hotel.
+
+----- Supporting -----
+
+[0.18340492248535156] Wall paper peeling off walls in different places, light bulb not replaced in room and carpet stained.
+[0.037097930908203125] I thought it was a little expensive for a hotel not located in the center of the city to charge $15 per day to park a car.
+[0.016506671905517578] Bathroom floors seems dirty and needed to be regrouted.
+[0.009564876556396484] But the bathroom was not so clean and it's a huge let-down for a hotel like this to be so neglected.
+[0.0019655227661132812] Room was highly run down.
+
+----- Weakening -----
+
+[-0.8171383142471313] It seemed to ALWAYS be running, and was very convenient.
+[-0.734635591506958] I reserved off Priceline and got a great rate.
+[-0.7313156127929688] I love the big warm cookies in the evening.
+[-0.7066339254379272] Lots of conveniences close by.
+[-0.7009625434875488] Shuttle service is very quick and so great!
+
+**********
+
+[0.259002685546875] The hotel's location is great, but the rooms are small.
+Parent: The reviews were mixed on the cleanliness of the hotel.
+
+----- Supporting -----
+
+[0.259002685546875] OUR overall stay was great, would have been nice to have no feathered pillows , not having a MICROWAVE,REFRIDG not cool, they charge each day for a roll away bed they said they would accomumdate for up to five in one room stayed three days so used blankets on the floor for the two boys I requested four blanket but had to go down to argue after only getting one they charge for wi-fi in room, LOBBY FREE- charge for daily parking no continuial breakfast without charging all these should change I called on phone for the entertainment book checking in nope they dont take it close to many places to eat,bank and even small cascino the airport close yes somewhat noisy but hey what one is not only during day time night time very quiet staff quiet friendly HOUSEKEEPING WONDERFUL yes i would recommend this hotel to others it'sa nice place is great for summer as with pool only on outsde .
+[0.1003570556640625] It was very suitable to the geography, and we did not have that feeling that we were just in any big hotel in any big city.
+[0.061767578125] --Rooms have a small deck, but the view is of the airport - nothing spectacular.
+[0.04413604736328125] The fitness room is small but the bedrooms are standard.
+[0.02587890625] With the $20 a night parking, internet fees, and insane food pricing I would expect a much more modern, bigger, and clean room.
+
+----- Weakening -----
+
+[-0.9813227653503418] The rooms were very spacious, modern and clean.
+[-0.9787487983703613] Rooms large and comfortable.
+[-0.9783139228820801] The rooms are very spacious and very nice.
+[-0.9774060249328613] We had a large room very clean and well furnished.
+[-0.9754524230957031] The good: large room, food at the restaurants (especially the clam chowder), bed, view from the elevators, service, shuttle every 20 minutes to and from the airport (5 minutes away) The bad: the insulation for the windows is awful, so the hotel is extremely noisy at night (at least if you are facing the airport): airplanes, busy airport boulevard, rooftop with furnaces/chillers etc.
+
+**********
+
+[0.18340492248535156] The rooms were dusty.
+    The heater did not function properly.
+    There is a stain on the carpet.
+    The cost of parking was too high.
+Parent: The reviews were mixed on the cleanliness of the hotel.
+
+----- Supporting -----
+
+[0.18340492248535156] Wall paper peeling off walls in different places, light bulb not replaced in room and carpet stained.
+[0.037097930908203125] I thought it was a little expensive for a hotel not located in the center of the city to charge $15 per day to park a car.
+[0.016506671905517578] Bathroom floors seems dirty and needed to be regrouted.
+[0.009564876556396484] But the bathroom was not so clean and it's a huge let-down for a hotel like this to be so neglected.
+[0.0019655227661132812] Room was highly run down.
+
+----- Weakening -----
+
+[-0.8171383142471313] It seemed to ALWAYS be running, and was very convenient.
+[-0.734635591506958] I reserved off Priceline and got a great rate.
+[-0.7313156127929688] I love the big warm cookies in the evening.
+[-0.7066339254379272] Lots of conveniences close by.
+[-0.7009625434875488] Shuttle service is very quick and so great!
+
+**********
+
+[0.9096775054931641] The hotel is in a good location.
+Parent: The reviews were mixed on the cleanliness of the hotel.
+
+----- Supporting -----
+
+[0.9096775054931641] The hotel is conveniently located, just across the street from the airport entrance with a free shuttle that runs every 20 minutes.
+[0.8881511688232422] The hotel couldn't be better placed for flying out of Seattle.
+[0.8456897735595703] This hotel was within a stone's throw of Sea-Tac airport and right next to the off-site Thrifty car rental lot, so for location, it was great.
+[0.7909145355224609] Very nice hotel, very close to the airport, walkable in fact to the terminals in less than 10 minutes or one can take a free shuttle bus.
+[0.7496776580810547] The good news - the hotel is very close to the airport with a 24hr shuttle to the airport.
+
+----- Weakening -----
+
+[-0.9330301284790039] This property is a mess.
+[-0.7508544921875] Cons - Hotel is spread out so pay attention to how to get to your room as you may get lost, Feather pillows (synthetic available on request), Pay parking ($16 self/day $20 valet/day), warm cookies on check in.
+[-0.7419471740722656] I would not recommend this hotel.
+[-0.6850070953369141] What I found was rather run down and shabby.
+[-0.6321640014648438] I could not recommend this hotel.
+
+**********
+
+[0.7714691162109375] The rooms are small.
+Parent: The reviews were mixed on the cleanliness of the hotel.
+
+----- Supporting -----
+
+[0.7714691162109375] Rooms are not particularly posh or large.
+[0.216583251953125] There were also 2 cigarette butts on the small patio.
+[0.21136474609375] Complimentary shuttle nice although couldn't fit everyone on a Sunday mid-AM!
+[0.2041015625] The fitness room is small but the bedrooms are standard.
+[0.197509765625] The wing hallways had a damp smell.
+
+----- Weakening -----
+
+[-0.9975013732910156] We had a large room very clean and well furnished.
+[-0.997248649597168] Room was enormous, with balcony and was spotlessly clean.
+[-0.9969220161437988] We had a large room with a balcony, comfortable beds, an easy chair and ottoman, and a coffee maker - all things we don't always find.
+[-0.9968690872192383] The room was large and clean.
+[-0.9968061447143555] Our room was large and very comfortable.
+
+**********
+
+[0.9921226501464844] The room was clean.
+Parent: Some reviewers said that the room was clean, while others said that there were cigarette butts on the patio and mildew in the room.
+
+----- Supporting -----
+
+[0.9921226501464844] The room was very clean and comfortable.
+[0.9891242980957031] The room was very clean, cozy and very quiet even though it was so close to the airport.
+[0.9874343872070312] The room was large and clean.
+[0.987128734588623] The room was spacious, clean and well appointed.
+[0.9871025085449219] The room was clean and bed comfortable.
+
+----- Weakening -----
+
+[-0.9971733093261719] It was so liquified that it spilled all over my hand and burned me terribly.
+[-0.9962444305419922] The bathroom was dirty and stained.
+[-0.9961051940917969] When we found our room we discovered that the bathroom hadn't been cleaned and there were dirty towels lying around.
+[-0.9960174560546875] Bathroom floors seems dirty and needed to be regrouted.
+[-0.9960050582885742] other bugs every where.
+
+**********
+
+[0.9925394058227539] There were cigarette butts on the patio.
+Parent: Some reviewers said that the room was clean, while others said that there were cigarette butts on the patio and mildew in the room.
+
+----- Supporting -----
+
+[0.9925394058227539] There were also 2 cigarette butts on the small patio.
+[0.0] All good!
+[0.0] Ripoff.
+[0.0] !
+[0.0] .
+
+----- Weakening -----
+
+[-0.9017333984375] Then there was this set-up for the syrup which was under a sterno can and full flame, the syrup was boiling.
+[-0.8948554992675781] Warm cookies when you arrive.
+[-0.8688430786132812] The cookies are a nice touch too.
+[-0.8549575805664062] Diamond members get a small gift...it was three pieces of fruit on a stick and two pieces of cheese...can you say cheesy!!
+[-0.8386688232421875] I love the big warm cookies in the evening.
+
+**********
+
+[0.9436454772949219] There was mildew in the room.
+Parent: Some reviewers said that the room was clean, while others said that there were cigarette butts on the patio and mildew in the room.
+
+----- Supporting -----
+
+[0.9436454772949219] The room was like staying in a basement, an old and mildew smell.
+[0.9430160522460938] There was mildew in the bathroom-cleanliness was fair.
+[0.6576900482177734] We would not stay here again because of the noise and mildew.
+[0.21331787109375] The wing hallways had a damp smell.
+[0.0340728759765625] Ours was kind of dingy, definitely in need of a remodeling.
+
+----- Weakening -----
+
+[-0.9260520935058594] There is an abundance of gardens in between the different buildings and all were very well maintained and tended.
+[-0.9097671508789062] The hotel reception had a lovely smell of freshly baked cookies which were given out at check in and were delicious.
+[-0.9045505523681641] I was surprised at how nice the rooms were!
+[-0.9015960693359375] The hotel is big and busy, so it always feels like there is some commotion going on in the common areas.
+[-0.8977241516113281] On check in, the warm chocolate chip cookies were a lovely touch.

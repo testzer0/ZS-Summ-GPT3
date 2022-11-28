@@ -1,0 +1,296 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.8499671050480434
+
+**********
+
+[0.7929267883300781] The food was average.
+Parent: The food at the hotel was mixed, with some people enjoying it and others finding it terrible.
+
+----- Supporting -----
+
+[0.7929267883300781] Breakfast was fairly average too.
+[0.022953033447265625] I would describe it as typical Best Western standard 3 star hotel quality, nothing special and no frills.
+[0.0211334228515625] The Primrose is a dated property offering only basic levels of service.
+[0.017547607421875] not a big deal.
+[0.01519775390625] We are huge fans of their breakfast menu but there were only a few choices available- very few muffins and bagels.
+
+----- Weakening -----
+
+[-0.9921245574951172] The food is god awful, my stomach had to get used to it.
+[-0.991093635559082] Excellent breakfast in the AM as well.
+[-0.98663330078125] The food they serve is good as well.
+[-0.9847564697265625] Great beef swarma pita sandwiches nearby esp.
+[-0.983001708984375] The food was good and arrived on time and hot.
+
+**********
+
+[0.74310302734375] The food at the hotel was good.
+Parent: The food at the hotel was mixed, with some people enjoying it and others finding it terrible.
+
+----- Supporting -----
+
+[0.74310302734375] Went to Toronto for a buyers show and stayed at this Primrose Hotel because there was a dinner function there for us.Â  Booked on bestwestern.com as I found the rate was pretty much the same on all the websites I checked.Â  Lobby was ok, nothing too fancy.Â  I was checked in by the manager who seemed very nice and told me he upgraded my room - thanks!Â  Room was HUGE!Â  Great view of the city, very comfortable bed, I slept well.Â  Bathroom was ok, kinda like the lobby.Â  All the staff were very friendly and the breakfast buffet was good but overpriced compared to the Golden Greek restaurant next door that I found on my next morning.Â  For the price I paid I would stay again.
+[0.25498008728027344] The service was great and we had a breakfast arranged in a private dining room which everyone enjoyed.
+[0.17612457275390625] Loved the Tim Hortons in the Lobby the next morning.
+[0.15871429443359375] Had daily continental or hot breakfast for an unreasonable cost for the 'menu' - try the local restaurants or delivery) Overall, reasonable cost for duration; comfortable, quiet, clean rooms; and you receive Best Western Club points or Airmiles for your stay.
+[0.15415000915527344] I did have breakfast in the morning in the restaurant beside the lobby area and was pleased with the level of service from the waiter and while he did make a small mistake on my order (he gave me potatoes when I asked for no potatoes), it was quickly rectified, and he continued to provide attentive service.
+
+----- Weakening -----
+
+[-0.9002456665039062] The food is god awful, my stomach had to get used to it.
+[-0.7045307159423828] There was a 'restaurant' that never did open the three days, two nights we stayed and no room service.
+[-0.6509456634521484] We arrived at 3:00 in the morning, and drove through the night to arrive to the filthiest hotel we have ever seen!
+[-0.6375293731689453] Heed this warning stay away from this crappy place, you'll be glad you did.
+[-0.5345840454101562] We did not use the restaurant in the hotel but did enjoy the Tim Hortons coffee shop beside the check in area.
+
+**********
+
+[0.0142669677734375] The food at the hotel was terrible.
+Parent: The food at the hotel was mixed, with some people enjoying it and others finding it terrible.
+
+----- Supporting -----
+
+[0.0142669677734375] When at the restaurant, they gave me catchup that was so rancid it bubbled.
+[0.012866973876953125] We arrived at 3:00 in the morning, and drove through the night to arrive to the filthiest hotel we have ever seen!
+[0.012806892395019531] The food is god awful, my stomach had to get used to it.
+[0.012622833251953125] I would not reccomend this place to even my worst ennemies.
+[0.012293815612792969] I cannot begin to explain how awful this hotel is.
+
+----- Weakening -----
+
+[-0.9967410564422607] The food was good and arrived on time and hot.
+[-0.9967100620269775] The food they serve is good as well.
+[-0.9962561130523682] The service was great and we had a breakfast arranged in a private dining room which everyone enjoyed.
+[-0.9952507019042969] Excellent breakfast in the AM as well.
+[-0.9948132038116455] We did order food and beverage and were pleased with the variety of choices available for lunches.
+
+**********
+
+[0.9139213562011719] The coffee shop in the lobby was good.
+Parent: The coffee shop in the lobby was praised by some reviewers.
+
+----- Supporting -----
+
+[0.9139213562011719] The `Tim Horton`s` coffee shop in the reception was a bonus.
+[0.9031314849853516] The coffee shop Tim Hortons in the lobby has wonderful baked goods not good for the wasteline buttasted great, Thanks Primrose.
+[0.8236503601074219] First thing I noticed was they had a Tim Horton's in the lobby, sweet!
+[0.8213768005371094] The Tim Hortons in the lobby was also convenient for a late night coffee.
+[0.7805099487304688] Loved the Tim Hortons in the Lobby the next morning.
+
+----- Weakening -----
+
+[-0.8938140869140625] The first impression we got from the Primrose Best Western was rudeness.
+[-0.6790199279785156] The one good thing that came about from our stays at this hotel was finding The Golden Greek Restaurant which is in the lower part of the building next door.
+[-0.66473388671875] When at the restaurant, they gave me catchup that was so rancid it bubbled.
+[-0.5771560668945312] And when you are at the park don't forget to visit the Greenhouse.
+[-0.5576400756835938] The restaurant buffet for breakfast was good, the wait staff was very pleasant.
+
+**********
+
+[0.9951324462890625] The lobby has a coffee shop.
+Parent: There is also a coffee shop in the lobby which was open late so that was convenient.
+
+----- Supporting -----
+
+[0.9951324462890625] The coffee shop Tim Hortons in the lobby has wonderful baked goods not good for the wasteline buttasted great, Thanks Primrose.
+[0.9934120178222656] There is also a coffee shop in the lobby which was open late so that was convenient.
+[0.9519996643066406] An added convenience is a Tim Hortonâ€™s in the lobby which opens an hour earlier than their restaurant.
+[0.9398841857910156] Tim Hortons right in the lobby which was very convenient.
+[0.9279632568359375] First thing I noticed was they had a Tim Horton's in the lobby, sweet!
+
+----- Weakening -----
+
+[-0.9384593963623047] The laundry facilitys are in poor quality.
+[-0.93817138671875] And when you are at the park don't forget to visit the Greenhouse.
+[-0.9304466247558594] The laundry left something to be desired.
+[-0.913726806640625] ), and the the bath towels had yellow stains and smelled "funky"!
+[-0.9047737121582031] My only complaint would have been that they have a lovely grand piano in the lobby and while I was trying to enjoy my breakfast there was a child playing around on it.
+
+**********
+
+[0.9803361892700195] The coffee shop was open late.
+Parent: There is also a coffee shop in the lobby which was open late so that was convenient.
+
+----- Supporting -----
+
+[0.9803361892700195] There is also a coffee shop in the lobby which was open late so that was convenient.
+[0.68304443359375] The Tim Hortons in the lobby was also convenient for a late night coffee.
+[0.06854248046875] There were several `ladies of indeterminate occupation` on duty outside the front door most of the day & night.
+[0.00673675537109375] I stayed at the Best Western Primrose for one night, mid-week.
+[0.003513336181640625] I stayed there for one night with three friends.
+
+----- Weakening -----
+
+[-0.9100761413574219] There was a 'restaurant' that never did open the three days, two nights we stayed and no room service.
+[-0.7878265380859375] When at the restaurant, they gave me catchup that was so rancid it bubbled.
+[-0.7784805297851562] Checked in early and a King room was not ready yet.
+[-0.7716445922851562] We are huge fans of their breakfast menu but there were only a few choices available- very few muffins and bagels.
+[-0.7494964599609375] The breakfast is $12.95 for pre cooked eggs, bacon,etc.
+
+**********
+
+[0.9495162963867188] The coffee shop was convenient.
+Parent: There is also a coffee shop in the lobby which was open late so that was convenient.
+
+----- Supporting -----
+
+[0.9495162963867188] The Tim Hortons in the lobby was also convenient for a late night coffee.
+[0.9365949630737305] There is also a coffee shop in the lobby which was open late so that was convenient.
+[0.9006118774414062] Tim Hortons right in the lobby which was very convenient.
+[0.7724227905273438] An added convenience is a Tim Hortonâ€™s in the lobby which opens an hour earlier than their restaurant.
+[0.40253448486328125] A four cup coffee maker and supplies and complementary wi-fi were useful.
+
+----- Weakening -----
+
+[-0.9714508056640625] The front desk staff were very unfriendly and always seemed to make matters overly complicated.
+[-0.9677619934082031] Another inconvenience to us was Tim Hortons located on the hotel premises.
+[-0.9388198852539062] But we didnt realise they were as bad as they were, on the 3rd time of using them we got stuck!!
+[-0.9231033325195312] Heed this warning stay away from this crappy place, you'll be glad you did.
+[-0.9198989868164062] When at the restaurant, they gave me catchup that was so rancid it bubbled.
+
+**********
+
+[0.8881378173828125] The `Tim Horton`s` coffee shop in the reception is a nice touch.
+Parent: The `Tim Horton`s` coffee shop in the reception was a bonus.
+
+----- Supporting -----
+
+[0.8881378173828125] An added convenience is a Tim Hortonâ€™s in the lobby which opens an hour earlier than their restaurant.
+[0.8782978057861328] The `Tim Horton`s` coffee shop in the reception was a bonus.
+[0.8367118835449219] The Tim Hortons in the lobby was also convenient for a late night coffee.
+[0.7999744415283203] Tim Hortons right in the lobby which was very convenient.
+[0.7971057891845703] First thing I noticed was they had a Tim Horton's in the lobby, sweet!
+
+----- Weakening -----
+
+[-0.8823528289794922] In my entire life, I have never been treated in such a rude, disrespecting manner.
+[-0.861539363861084] We are heartbroken and will never recommend this hotel to anyone.
+[-0.8411970138549805] Heed this warning stay away from this crappy place, you'll be glad you did.
+[-0.8296890258789062] Exhausted, we walked into our room, and experienced the most overwhelming foul smells, I canâ€™t even describe!
+[-0.8231735229492188] Another inconvenience to us was Tim Hortons located on the hotel premises.
+
+**********
+
+[0.9940090179443359] We were craving calamari at 12:30 at night.
+Parent: we did get a craving for some calamari at 12:30 at night so we went out for a walk and saw three girls of the night between our hotel over to Younge.
+
+----- Supporting -----
+
+[0.9940090179443359] we did get a craving for some calamari at 12:30 at night so we went out for a walk and saw three girls of the night between our hotel over to Younge.
+[0.0] All
+[0.0] Be warned.
+[0.0] Stan.
+[0.0] Good luck!
+
+----- Weakening -----
+
+[-0.929011344909668] Pool was good â€“ it was outside so able to get some sun tanning in too.
+[-0.9038486480712891] Oh I must also add that there is a Tim Horton's donut shop, second only to Dunkin Donuts in quality (although Canadians might argue that point), located right inside the front entrance, so that was a great option for breakfast!
+[-0.8989162445068359] Excellent breakfast in the AM as well.
+[-0.8988304138183594] We were on the 22nd floor and the view was to die for.
+[-0.8907432556152344] A bathtub so filthy I wouldnâ€™t dare stand to take a shower.
+
+**********
+
+[0.985835075378418] We went for a walk.
+Parent: we did get a craving for some calamari at 12:30 at night so we went out for a walk and saw three girls of the night between our hotel over to Younge.
+
+----- Supporting -----
+
+[0.985835075378418] we did get a craving for some calamari at 12:30 at night so we went out for a walk and saw three girls of the night between our hotel over to Younge.
+[0.9834156036376953] The hotel was in a great location and we walked to a charming area called Yorkville.
+[0.9792566299438477] It's close to the subway and one day we walked to the CN tower - didn't realize it was that close.
+[0.9349632263183594] The man at the desk even helped us plan out a walk to the Hockey Hall of Fame.
+[0.9306964874267578] Several blocks walking to Eaton Center, the shopping mall nearby.
+
+----- Weakening -----
+
+[-0.9921054840087891] I had a conference to go to that was in this hotel.
+[-0.9906129837036133] We stayed in their studio which consisted of 2 beds refrigeraror microwave eating area.
+[-0.9903039932250977] Played Hotwire roulette and thought that we lost when we were assigned to the Best Western.
+[-0.9897289276123047] The bed was extremely comfortable.
+[-0.9884634017944336] A bathtub so filthy I wouldnâ€™t dare stand to take a shower.
+
+**********
+
+[0.9791679382324219] There are prostitutes near the hotel.
+Parent: we did get a craving for some calamari at 12:30 at night so we went out for a walk and saw three girls of the night between our hotel over to Younge.
+
+----- Supporting -----
+
+[0.9791679382324219] One thing to mention - there are a number of prostitutes that work between the hotel and the subway station, so if you walk home at night you will run across them.
+[0.9790854454040527] Finally, we came back to the hotel at around midnight after seeing the tennis match and having dinner and come to find out that there were hookers on almost every corner surrounding the hotel.
+[0.9595012664794922] We didnâ€™t realize that the Primrose Best Western hotel was in the middle of a large prostitution area, until we left and noticed the building was surrounded by dozens of prostitutes.
+[0.9579343795776367] #8) Prostitution active within two block radius Positives: The guys on consierge are kind and most helpful and were the saving grace of this hotel.
+[0.8969879150390625] There were 'ladies of the night' out front of the hotel, but they were harmless and didn't hassle us at all.
+
+----- Weakening -----
+
+[-0.9306678771972656] Several churches of different denominations are dotted around Allan Park that is across the street.
+[-0.8270339965820312] Anyway, I saw a sign for a breakfast place right next door that said $4.99 bacon & eqqs - I'll know for next time.
+[-0.8164443969726562] And when you are at the park don't forget to visit the Greenhouse.
+[-0.7439346313476562] Across the street from the old Maple Leaf Gardens, and it looks like a new grocery store is about to open up there soon.
+[-0.6319999694824219] Oh I must also add that there is a Tim Horton's donut shop, second only to Dunkin Donuts in quality (although Canadians might argue that point), located right inside the front entrance, so that was a great option for breakfast!
+
+**********
+
+[0.9424471855163574] The diner to the left of the hotel is decent.
+Parent: There is a decent diner to the left of the hotel and a great little Thai restaurant on the other side and around the corner.
+
+----- Supporting -----
+
+[0.9424471855163574] There is a decent diner to the left of the hotel and a great little Thai restaurant on the other side and around the corner.
+[0.04418468475341797] The food they serve is good as well.
+[0.021183013916015625] great coffee & doughnuts in the mornings!
+[0.017480850219726562] This restaurant has a loyal group of customers.
+[0.016590118408203125] The restaurant buffet for breakfast was good, the wait staff was very pleasant.
+
+----- Weakening -----
+
+[-0.7576351165771484] The food is god awful, my stomach had to get used to it.
+[-0.6606311798095703] There was a 'restaurant' that never did open the three days, two nights we stayed and no room service.
+[-0.42235565185546875] I would not reccomend this place to even my worst ennemies.
+[-0.4092292785644531] The hotel had a restaurant but it looked to be closed when we went to eat.
+[-0.3625297546386719] Didn't try the restaurant....got there late!
+
+**********
+
+[0.7737865447998047] The Thai restaurant is great.
+Parent: There is a decent diner to the left of the hotel and a great little Thai restaurant on the other side and around the corner.
+
+----- Supporting -----
+
+[0.7737865447998047] Bankok Garden on Elm st. is wonderful for Thai.
+[0.6384201049804688] There was a great Thai restaurant too called Jasmine Gardenâ€™s if anyone out there is into Thai food.
+[0.5152969360351562] The location is good and it was close to a great Thai food restaurant which I would recommend if you like Thai.
+[0.5113525390625] There is a decent diner to the left of the hotel and a great little Thai restaurant on the other side and around the corner.
+[0.00829315185546875] This cost $15 a night!
+
+----- Weakening -----
+
+[-0.9799957275390625] The food is god awful, my stomach had to get used to it.
+[-0.9730019569396973] Heed this warning stay away from this crappy place, you'll be glad you did.
+[-0.9441156387329102] The non-free continental breakfast is a joke.
+[-0.9328842163085938] The one good thing that came about from our stays at this hotel was finding The Golden Greek Restaurant which is in the lower part of the building next door.
+[-0.918848991394043] The Primrose is a dated property offering only basic levels of service.
+
+**********
+
+[0.9469528198242188] The hotel is close by.
+Parent: There is a decent diner to the left of the hotel and a great little Thai restaurant on the other side and around the corner.
+
+----- Supporting -----
+
+[0.9469528198242188] This hotel is near everything; subway, restaurants, shopping.
+[0.9227752685546875] The hotel is within an easy walk to many attractions and shops, with a subway station close by for venturing further afield.
+[0.9165725708007812] The Hotel is located fairly close to the centre of Toronto.
+[0.9003391265869141] The hotel is in a nice location, within walking distance of everything touristy.
+[0.8767910003662109] The hotel was close to some of the places we visited (Hockey Hall of Fame the clear winner with the kids).
+
+----- Weakening -----
+
+[-0.6730384826660156] the subway is just up the street .
+[-0.6243057250976562] Several blocks walking to Eaton Center, the shopping mall nearby.
+[-0.4549713134765625] And when you are at the park don't forget to visit the Greenhouse.
+[-0.430938720703125] Subway is within walking distance.
+[-0.42823028564453125] Or grab a coffee and bagel at the Tim Hortons right next door.

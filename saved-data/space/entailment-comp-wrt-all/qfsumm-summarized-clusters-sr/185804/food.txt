@@ -1,0 +1,149 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.7814643723624093
+
+**********
+
+[0.9827461242675781] The market is interesting.
+Parent: The market itself is so interesting and the food is wonderful .
+
+----- Supporting -----
+
+[0.9827461242675781] The market itself is so interesting and the food is wonderful.
+[0.9057941436767578] It's a really cool market.
+[0.8954381942749023] Granville Island itself is fascinating - I could spend a fortune in the market, and the Kids Market is good for clothes and shoes as well as toys.
+[0.6187648773193359] Great public market, lots of artistic activity.
+[0.47956275939941406] The Granville Island Hotel is a great little place to stay if you don't want the big city experience, and you like walking out your door to the marketplace, coffee shops, galleries and outdoor spaces that surround you on this interesting island.
+
+----- Weakening -----
+
+[-0.6602516174316406] Just somewhere to sleep.
+[-0.4958992004394531] * The restaurant has a very limited and boring menu and the service is terrible.
+[-0.458892822265625] The bathroom was very nice.
+[-0.457000732421875] My wife and I had a bad experience at GIH.
+[-0.454376220703125] We were told none were available.
+
+**********
+
+[0.9577798843383789] The food is great.
+Parent: The market itself is so interesting and the food is wonderful .
+
+----- Supporting -----
+
+[0.9577798843383789] The food was superb, and the atmosphere is wonderful - right on the water.
+[0.9540777206420898] Food is fab too!
+[0.9530496597290039] The restaurant food was excellent.
+[0.9505672454833984] The food is excellent and the view is amazing.
+[0.9436206817626953] The food is excellent ( both room service and in the resto) and they have a micro brewery on site.
+
+----- Weakening -----
+
+[-0.9949197769165039] Food isnt great but you are right by the market.
+[-0.9948101043701172] For old times sake, we even had lunch at the Old Spaghetti Factory, but the food wasn't very good, so we decided to give the city a miss and pootle around the Island instead .
+[-0.9943575859069824] * The restaurant has a very limited and boring menu and the service is terrible.
+[-0.9766349792480469] The location is great, the waitstaff good and the food ok.
+[-0.9735374450683594] The hotel restaurant was fine, not great.
+
+**********
+
+[0.9733357429504395] The food is excellent.
+Parent: The food is excellent and the view is amazing .
+
+----- Supporting -----
+
+[0.9733357429504395] The restaurant food was excellent.
+[0.9704971313476562] The food was superb, and the atmosphere is wonderful - right on the water.
+[0.9668116569519043] The food is excellent ( both room service and in the resto) and they have a micro brewery on site.
+[0.9646148681640625] The food and service were outstanding.
+[0.9620685577392578] The food is excellent and the view is amazing.
+
+----- Weakening -----
+
+[-0.9969720840454102] Food isnt great but you are right by the market.
+[-0.9964513778686523] * The restaurant has a very limited and boring menu and the service is terrible.
+[-0.9958200454711914] For old times sake, we even had lunch at the Old Spaghetti Factory, but the food wasn't very good, so we decided to give the city a miss and pootle around the Island instead .
+[-0.9849643707275391] The location is great, the waitstaff good and the food ok.
+[-0.9592900276184082] I didn't have any meals at the hotel so can't comment on that.
+
+**********
+
+[0.9434795379638672] The view is amazing.
+Parent: The food is excellent and the view is amazing .
+
+----- Supporting -----
+
+[0.9434795379638672] The food is excellent and the view is amazing.
+[0.9202079772949219] The views of South Downtown are amazing (see pics).
+[0.8961296081542969] The area is amazing with lots of shopping, great food and beautiful views!
+[0.867340087890625] The service from employees is always professional and courteous, the room is extremely clean, the restaurant food is good and the view is impeccable.
+[0.8615341186523438] we have a superior room but the view and location can't be beat.
+
+----- Weakening -----
+
+[-0.9969453811645508] Also, in this room there was no view, which for a prairie girl was a bit disappointing.
+[-0.85369873046875] That view is killer, and with two decks with which to view it!
+[-0.8462457656860352] My wife and I had a bad experience at GIH.
+[-0.8337221145629883] I have to say I was disappointed with the hotel.
+[-0.8276824951171875] The only drawback could be room size as ours was only just adequate and the view was rather restricted.
+
+**********
+
+[0.0057220458984375] The Old Spaghetti Factory is a good place to have lunch.
+Parent: For old times sake , we even had lunch at the Old Spaghetti Factory , but the food was n't very good , so we decided to give the city a miss and pootle around the Island instead .
+
+----- Supporting -----
+
+[0.0057220458984375] The food is excellent and the view is amazing.
+[0.00241851806640625] Would definitely return!
+[0.002040863037109375] Would recommend to any traveller
+[0.0015869140625] Food is fab too!
+[0.001476287841796875] The location is great, the waitstaff good and the food ok.
+
+----- Weakening -----
+
+[-0.976222038269043] A beautiful large modern style room with lots of windows.
+[-0.9698257446289062] It was a bottle of wine with a miniature tuxedo jacket around the bottle.
+[-0.9564046859741211] We especially loved the modern shower with rainfall, massage, and regular options.
+[-0.9559507369995117] Very peacful at night and sitting by the fire in the bar prior to dinner was so relaxing.
+[-0.9413299560546875] Just somewhere to sleep.
+
+**********
+
+[0.6234588623046875] The food was bad.
+Parent: For old times sake , we even had lunch at the Old Spaghetti Factory , but the food was n't very good , so we decided to give the city a miss and pootle around the Island instead .
+
+----- Supporting -----
+
+[0.6234588623046875] Food isnt great but you are right by the market.
+[0.6013717651367188] For old times sake, we even had lunch at the Old Spaghetti Factory, but the food wasn't very good, so we decided to give the city a miss and pootle around the Island instead .
+[0.45101165771484375] * The restaurant has a very limited and boring menu and the service is terrible.
+[0.1483154296875] Chips and salsa *The restaurant deck is very nice and modern and quite a gem....too bad about the service and the food.
+[0.1466064453125] Oh, and the sauna was broken.
+
+----- Weakening -----
+
+[-0.997826099395752] The market itself is so interesting and the food is wonderful.
+[-0.9978160858154297] The food is excellent ( both room service and in the resto) and they have a micro brewery on site.
+[-0.9978008270263672] Great food and great service.
+[-0.9976997375488281] The food is excellent and the view is amazing.
+[-0.9974570274353027] It was all lovely, beautiful venue with the patio and city and water view, delicious food, all the guests and a great time!
+
+**********
+
+[0.9837284088134766] We decided to explore the Island instead of the city.
+Parent: For old times sake , we even had lunch at the Old Spaghetti Factory , but the food was n't very good , so we decided to give the city a miss and pootle around the Island instead .
+
+----- Supporting -----
+
+[0.9837284088134766] For old times sake, we even had lunch at the Old Spaghetti Factory, but the food wasn't very good, so we decided to give the city a miss and pootle around the Island instead .
+[0.30548095703125] We live on the North Shore and decided to have a down town holiday.
+[0.28851318359375] Our son and new daughter-in-law decided on the Dockside restaurant for their reception so we thought we would also stay the night at the hotel to extend the fun and relax.
+[0.048858642578125] We took a bus to Stanley Park, and then walked to the water ferry to come back to the island.
+[0.037750244140625] This time I planned ahead and we had an amazing time both at the hotel and enjoying all that Granville Island has to offer!
+
+----- Weakening -----
+
+[-0.9939600229263306] It was a fun, informative, and flexible way to view the entire city.
+[-0.9937248229980469] That took us to downtown, Yaletown, the Science centre, the Space museum... and then we just walked.
+[-0.9842891693115234] After living in Vancouver for several years, then coming back to visit, we found this hotel gave us an entirely different perspective of the city - one that we fully appreciated!
+[-0.983396053314209] A short seabus trip across to Hornby Street took us to downtown for $2.50pp.
+[-0.9769906997680664] Our only real disappontment was when we walked around Gastown, which really seems to have got shabby since our last visit.

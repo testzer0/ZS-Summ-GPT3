@@ -1,0 +1,149 @@
+***** Aspect: service Model Type : zs *****
+Overall score: 0.941352299281529
+
+**********
+
+[0.9841794967651367] The service in the casual restaurant at breakfast was efficient.
+Parent: The service in both the casual restaurant at breakfast and the dining room in the evening was efficient .
+
+----- Supporting -----
+
+[0.9841794967651367] The service in both the casual restaurant at breakfast and the dining room in the evening was efficient.
+[0.19582557678222656] We ate at both the lounge and the cafe and food was average at best, but the service VERY GOOD!
+[0.14812278747558594] The breakfast in the restaurant was amazing, and the staff was very attentive and friendly.
+[0.07878351211547852] Breakfast was good and the staff were very helpful.
+[0.0303192138671875] Restaurant food was excellent and reasonably priced and breakfast was good.
+
+----- Weakening -----
+
+[-0.9895668029785156] --Restaurant staff seemed to be overwhelmed during breakfast, so they fell behind a bit.
+[-0.9668431282043457] It was so liquified that it spilled all over my hand and burned me terribly.
+[-0.9654579162597656] Waitress never brought the items we requested and the order was askew.
+[-0.9571943283081055] Room was highly run down.
+[-0.9237384796142578] What I found was rather run down and shabby.
+
+**********
+
+[0.9882707595825195] The service in the dining room in the evening was efficient.
+Parent: The service in both the casual restaurant at breakfast and the dining room in the evening was efficient .
+
+----- Supporting -----
+
+[0.9882707595825195] The service in both the casual restaurant at breakfast and the dining room in the evening was efficient.
+[0.5780487060546875] We were pretty late 9.54pm but managed to get a decent meal in the bar, I will happily come back to this doubletrees.
+[0.042327880859375] We ate at both the lounge and the cafe and food was average at best, but the service VERY GOOD!
+[0.018541336059570312] We ate supper in their restaurant and I had an excellent salad (large enough to divide) and an exceptionally good Reuben sandwich.
+[0.014983654022216797] Service was great and bell person got ice for us and was very helpful.
+
+----- Weakening -----
+
+[-0.9216117858886719] Waitress never brought the items we requested and the order was askew.
+[-0.8286399841308594] Room was highly run down.
+[-0.7980461120605469] It was so liquified that it spilled all over my hand and burned me terribly.
+[-0.6289291381835938] The airport shuttle service was great, friendly and on-time.
+[-0.6266193389892578] All of this resulted in out take-out food getting cold plus I lost my scarf somewhere along the way.
+
+**********
+
+[0.9506607055664062] The service is small hotel service.
+Parent: It has " small hotel " service , meaning that you do n't feel lost and they treat you well .
+
+----- Supporting -----
+
+[0.9506607055664062] It has "small hotel" service, meaning that you don't feel lost and they treat you well.
+[0.152618408203125] This hotel is by a small lake and at dusk there are misquitos and misc.
+[0.10498046875] It is an average airport hotel.
+[0.102630615234375] This is a pretty rundown hotel.
+[0.091064453125] No frig or microwaves in Doubletree hotels, too many pillows on the bed.
+
+----- Weakening -----
+
+[-0.9923744201660156] Just be advised, this is a big conference service type hotel and they have many groups that use it....might not always be a quiet hotel, but for our trip it worked out great.
+[-0.9770393371582031] This is a large property with (I believe) five buildings.
+[-0.9661483764648438] Service in the more upscale of the two restaurants was almost unbearably slow and the food was cold when it finally arrived after over a hour at our table.
+[-0.9562187194824219] The hotel it's self was huge, but yet it still felt very comfortable.
+[-0.9497337341308594] But the rooms are a great size, and we noticed large groups of flight attendants from various airlines staying there as well.
+
+**********
+
+[0.6956405639648438] The hotel is easy to navigate.
+Parent: It has " small hotel " service , meaning that you do n't feel lost and they treat you well .
+
+----- Supporting -----
+
+[0.6956405639648438] The hotel is conveniently located, just across the street from the airport entrance with a free shuttle that runs every 20 minutes.
+[0.5639495849609375] It has "small hotel" service, meaning that you don't feel lost and they treat you well.
+[0.39675140380859375] Don't have to worry about drinking and driving, just a elevator ride to your room!
+[0.38336944580078125] This hotel is a nice size and is convenient to the airport and restaurants.
+[0.3517646789550781] Easy to reach, very clean and well-appointed rooms.
+
+----- Weakening -----
+
+[-0.9979262351989746] Our room was in the farthest section of the hotel, and tedious to get into to, and by the time we got settled it was too much trouble to go out to eat.
+[-0.9968595504760742] It is laid out in wings that make carrying your bags a nightmare, up elevators and down again.
+[-0.9962043762207031] Cons - Hotel is spread out so pay attention to how to get to your room as you may get lost, Feather pillows (synthetic available on request), Pay parking ($16 self/day $20 valet/day), warm cookies on check in.
+[-0.9958391189575195] This is a very large and confusingly laid out hotel.
+[-0.9947996139526367] --The doubletree is not just a hotel, its like a little village of condo buildings too, which makes it very crowded and hard to get around the property.
+
+**********
+
+[0.9939627647399902] The hotel staff were friendly and accommodating.
+Parent: It has " small hotel " service , meaning that you do n't feel lost and they treat you well .
+
+----- Supporting -----
+
+[0.9939627647399902] The hotel staff was friendly and accomodating.
+[0.9755268096923828] For an airport hotel, it was surprisingly quiet, rooms were extremely comfortable and well prepared, and the staff were all extremely helpful and courteous.
+[0.9737954139709473] The hotel employees were very polite and most efficient: we were on our way to our room within 30 seconds, warm cookies in hand.
+[0.9641385078430176] The hotel staff was courteous and very helpful with our questions.
+[0.9365053176879883] Staff are friendly and helpful, the rooms are decent, and it's very close to the airport.
+
+----- Weakening -----
+
+[-0.9963774681091309] We experienced this poor attitude with a few other staff members within the hotel.
+[-0.9960436820983887] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[-0.9939842224121094] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+[-0.9814720153808594] Waitress never brought the items we requested and the order was askew.
+[-0.9675331115722656] I took a taxi as everyone was trying to cram into the shuttle with no respect for first-come-first-served.
+
+**********
+
+[0.9860987663269043] The staff is friendly.
+Parent: Great friendly staff took the edge off our long day of intercontinental travel .
+
+----- Supporting -----
+
+[0.9860987663269043] Staff is very courteous and friendly.
+[0.9756579399108887] The front desk staff was friendly and helpful.
+[0.9748497009277344] The staff was friendly and we appreciated the cookies after a long flight when we were waiting to check inn.
+[0.974583625793457] The hotel staff was friendly and accomodating.
+[0.9732532501220703] Staff are friendly and helpful, the rooms are decent, and it's very close to the airport.
+
+----- Weakening -----
+
+[-0.9966268539428711] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+[-0.9922947883605957] We experienced this poor attitude with a few other staff members within the hotel.
+[-0.9697856903076172] When we were there, there were a bunch of real estate agents who were getting a bit rowdy.
+[-0.8739967346191406] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[-0.8393745422363281] I took a taxi as everyone was trying to cram into the shuttle with no respect for first-come-first-served.
+
+**********
+
+[0.9906530380249023] The staff were friendly and helpful.
+Parent: Great friendly staff took the edge off our long day of intercontinental travel .
+
+----- Supporting -----
+
+[0.9906530380249023] The front desk staff was friendly and helpful.
+[0.9872379302978516] Staff are friendly and helpful, the rooms are decent, and it's very close to the airport.
+[0.9832925796508789] The staff was friendly and helpful and we enjoyed the warm, chocolate chip cookie we were given at check-in.
+[0.9799995422363281] The hotel staff was friendly and accomodating.
+[0.9794278144836426] The Front staff were friendly and efficient in getting us checked in and taken care of.
+
+----- Weakening -----
+
+[-0.998344898223877] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+[-0.9965295791625977] We experienced this poor attitude with a few other staff members within the hotel.
+[-0.9959707260131836] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[-0.9782047271728516] When we tried to leave, our paid parking pass wouldn't register to let us out of the parking lot, and there were no attendants handy, so we were late returning our rental car :( -- I'm thankful we didn't get dinged on that.
+[-0.9720001220703125] Waitress never brought the items we requested and the order was askew.

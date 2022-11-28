@@ -1,0 +1,149 @@
+***** Aspect: location Model Type : zs *****
+Overall score: 0.9498094149998256
+
+**********
+
+[0.9258041381835938] Dragonfish is a good place to eat dinner.
+Parent: Ate dinner at Dragonfish , the restaurant that shares space with the hotel .
+
+----- Supporting -----
+
+[0.9258041381835938] We enjoyed dining at the Dragonfish restaurant for great food and reasonable pricing.
+[0.8480339050292969] The restaurant (Dragonfish) has amazing food, and a wonderful happy hour small plates menu, though it can get quite busy, the hostess just took our room number and called us when our reservation was ready.
+[0.7665615081787109] We dined at the Dragonfish there in the hotel and had a great meal.
+[0.7476692199707031] I especially like the Dragonfish Cafe restaurant - it is one of my favorite restaurants for Asian Fusion.
+[0.7417755126953125] The hotel restuarant, Dragonfish, was good.
+
+----- Weakening -----
+
+[-0.9331245422363281] Best of all, the bed was incredibly comfortable!
+[-0.8872604370117188] It was really one of the most comfortable beds I've encountered in my travels.
+[-0.880040168762207] PLEASE don't give this awful chain your business!
+[-0.8700218200683594] The curtains are almost black out, which is great for sleeping in.
+[-0.8527412414550781] The bed was very comfortable and hot water was plentiful.
+
+**********
+
+[0.9828052520751953] Dragonfish is in the hotel.
+Parent: Ate dinner at Dragonfish , the restaurant that shares space with the hotel .
+
+----- Supporting -----
+
+[0.9828052520751953] The Dragonfish Cafe in the hotel is simply awesome.
+[0.9805727005004883] We dined at the Dragonfish there in the hotel and had a great meal.
+[0.9568328857421875] The Dragonfish Sushi is right in the hotel downstairs.
+[0.9283981323242188] The hotel restuarant, Dragonfish, was good.
+[0.884796142578125] The breakfast (paid separately) in the restaurant Dragonfish CafÃ© at the hotel is limit priceworthy.
+
+----- Weakening -----
+
+[-0.9808597564697266] Check their website.
+[-0.9628429412841797] Off-lobby sushi restaurant also serves conventional breakfast, lively at night.
+[-0.9592304229736328] Bartell's drugstore with trial size toiletries next to Nordstroms.
+[-0.9588203430175781] The halls had a very odd smell, like a dental office.
+[-0.9484424591064453] Go "downhill" two blocks to get a great view of the space needle.
+
+**********
+
+[0.9812812805175781] The location is good for conventions.
+Parent: Great location for conventions and an easy walk into the heart of downtown .
+
+----- Supporting -----
+
+[0.9812812805175781] Great location for conventions and an easy walk into the heart of downtown.
+[0.9200210571289062] The hotel is particularly convenient for those attending events at the Convention Center.
+[0.9092235565185547] The hotel is wonderfully situated for that--two blocks from the convention center entrance and across the street from another hotel where some of the conv.
+[0.9071083068847656] The location is great, right close to the convention center but other than for the bell man I wouldn't recommend this place.
+[0.8421001434326172] The location of the hotel is great...close to the convention center, bus and light rail tunnel, Westlake Center as well as restaurants and shopping.
+
+----- Weakening -----
+
+[-0.7895889282226562] The location isn't even that good, a little to far north for me.
+[-0.7205619812011719] It's central location is ideal for shopping and eating in downtown Seattle.
+[-0.69317626953125] The flat screen television is perfect for a late night movie or watching the morning news.
+[-0.680816650390625] The location is excellent (especially if you like to shop!)
+[-0.591705322265625] The Paramount is in a great location for sightseeing and shopping.
+
+**********
+
+[0.9699606895446777] The location is easy to access downtown.
+Parent: Great location for conventions and an easy walk into the heart of downtown .
+
+----- Supporting -----
+
+[0.9699606895446777] Great location for conventions and an easy walk into the heart of downtown.
+[0.851710319519043] Hotel is a few blocks from the center of downtown and convenient to underground bus (1 block) and light rail station/monorail (2 blocks); easy walk (7 blocks) to Pike Place Market.
+[0.8394536972045898] Of course, walking downtown was easy.
+[0.8213348388671875] Pine Street is much easier to walk down to the Market than some of the other downtown streets (less incline.)
+[0.8137435913085938] The location was pretty good, we could walk to almost all the downtown sites we wanted to see.
+
+----- Weakening -----
+
+[-0.9895610809326172] I guess that's standard practice in downtown hotels, but it really makes it cumbersome to get the car.
+[-0.9585742950439453] A long walk back up hill from Pike Place Market to the hotel.
+[-0.8940486907958984] It was rush hour, so the concierge had to stand out there quite a while to catch one that was empty.
+[-0.87701416015625] The weight machines are so packed together that you can't really move the weights.
+[-0.8759918212890625] As always, parking in Seattle is a challenge, but worth putting up with for couple of nights to enjoy the holiday festivities.
+
+**********
+
+[0.9766263961791992] The location is great.
+Parent: The location is great , right close to the convention center but other than for the bell man I would n't recommend this place .
+
+----- Supporting -----
+
+[0.9766263961791992] first off, the location is stellar.
+[0.9754800796508789] Location is great, rooms are pretty nice for the price and the happy hour deals at Dragonfish are quite nice.
+[0.9754390716552734] The location was great.
+[0.9741859436035156] The location is EXCELLENT, the staff is friendly, welcoming, knowledgeable, and helpful, the beds are heavenly.
+[0.9741306304931641] The location is excellent (especially if you like to shop!)
+
+----- Weakening -----
+
+[-0.9966869354248047] The location isn't even that good, a little to far north for me.
+[-0.9232540130615234] Ok, it is bad.
+[-0.8816184997558594] PLEASE don't give this awful chain your business!
+[-0.8735694885253906] Now on to the bad, the other staff.
+[-0.8216819763183594] Cons 1- No view really.
+
+**********
+
+[0.9841127395629883] The location is close to the convention center.
+Parent: The location is great , right close to the convention center but other than for the bell man I would n't recommend this place .
+
+----- Supporting -----
+
+[0.9841127395629883] The location is great, right close to the convention center but other than for the bell man I wouldn't recommend this place.
+[0.980527400970459] The location of the hotel is great...close to the convention center, bus and light rail tunnel, Westlake Center as well as restaurants and shopping.
+[0.9612970352172852] Location wise it's brilliant, a block away from the convention centre, Pike's Market just 6 blocks away and Caffe Ladro just opposite the hotel!
+[0.9361286163330078] It is within walking distance of the convention centre, the Paramount theater, Pike's place market and all sorts of shops and restaurants.
+[0.900059700012207] The hotel is wonderfully situated for that--two blocks from the convention center entrance and across the street from another hotel where some of the conv.
+
+----- Weakening -----
+
+[-0.927490234375] REALLY close to Pike Market....a few blocks from the $2.50 train from the airport.
+[-0.895965576171875] The Public Market is only blocks away and a great place to start the day.
+[-0.8211135864257812] About 10 or 15 minute walk to Pike Market.
+[-0.685577392578125] It was just a short walk to the mall where we got to ride the monorail to the Seattle center.
+[-0.667724609375] It's also really close to Westlake Station (2 blocks), so if you fly in/out and don't want to rent a car, this is a great option--only $2.75 per person each way.
+
+**********
+
+[0.8280754089355469] The bell man is the only good thing about this place.
+Parent: The location is great , right close to the convention center but other than for the bell man I would n't recommend this place .
+
+----- Supporting -----
+
+[0.8280754089355469] The location is great, right close to the convention center but other than for the bell man I wouldn't recommend this place.
+[0.0528564453125] He is the soul of the hotel, which is not to take anything away from his colleague, Richard, or the elegant and helpful John Hiles at the front desk.
+[0.0] :)
+[0.0] Not cool!
+[0.0] walk.
+
+----- Weakening -----
+
+[-0.9874470233917236] The best included the cleanliness, the attention to detail with lighting and electrical outlets, the comfortable furniture, the robes, the great shower, the refrigerator, the windows can open, the wide and well lit hallways (although too warm) and of course an excellent king bed.
+[-0.982933521270752] The best part was the bed.
+[-0.9795682430267334] I especially liked the Japanese restaurant attached to this hotel (not sure if it is part of the hotel), but it is open late and has a very well priced happy hour and late night happy hour.
+[-0.9775376319885254] The staff at the desk are pleasant and so is the concierge , they make you feel like a person...not just another guest.
+[-0.9756240844726562] The fire place in the reception area was a nice touch since it was raining when I arrived at the hotel.

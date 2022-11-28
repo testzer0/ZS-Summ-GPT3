@@ -1,0 +1,86 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.7046351432800293
+
+**********
+
+[0.9682712554931641] The food at the hotel was good.
+Parent: The food at the hotel was good, with some reviewers finding it especially tasty.
+
+----- Supporting -----
+
+[0.9682712554931641] The good: Excellent Conciere and Valet service and their helpful tips The food was very good both in the restaurant and room service Nice view of the harbor and I was only on the 3rd floor Close to free tram Close to Downtown and Bayside Market area Pool area looked nice but did not use The bad: Room was in a block reserved by the Conference yet when checking in, there was no mention as to where the conference check-in was located and had to search the hotel over to find it.
+[0.9536576271057129] The hotel is very clean, the staff professional - and the food - simply amazing.
+[0.9471826553344727] I also had great meals in the restuarant with good quality and service delivered by the staff.
+[0.9423136711120605] The restaurant inside the hotel had delicious plates and the breakfast buffet was reasonably priced and delicious.
+[0.9094963073730469] The hotel restaurant was adequate; however, the staff here also strived to please.
+
+----- Weakening -----
+
+[-0.9776039123535156] Last, the food is mediocre at best and overpriced as all hotel food is.
+[-0.9759507179260254] There is no food or entertainment around.
+[-0.8716182708740234] Horrible club sandwich!
+[-0.8167858123779297] this is the worst joint ever.
+[-0.7901477813720703] It was NOT good.
+
+**********
+
+[0.6558952331542969] The food was especially tasty.
+Parent: The food at the hotel was good, with some reviewers finding it especially tasty.
+
+----- Supporting -----
+
+[0.6558952331542969] Also we tried the breakfast buffet, it was tastfull and complete (20 dollar p.p.)
+[0.3790397644042969] The hotel is very clean, the staff professional - and the food - simply amazing.
+[0.35146331787109375] Food: seriously excellent snapper, bomb key lime pie.
+[0.3354167938232422] Room service was great - they had great 24 hour food - try the conch chowder, the conch fritters, key lime pie - I could keep going, everything was delicious.
+[0.2746925354003906] The food at the restaurant was excellent and the service was great.
+
+----- Weakening -----
+
+[-0.9957785606384277] Horrible club sandwich!
+[-0.9955039024353027] There is no food or entertainment around.
+[-0.9929313659667969] Last, the food is mediocre at best and overpriced as all hotel food is.
+[-0.9915242195129395] There was one occasion in which we ordered from the menu, sadly it was a little disappointing because it was overcooked but we were taken care of almost immediately when we complained.
+[-0.988300085067749] It was NOT good.
+
+**********
+
+[0.2255401611328125] The continental breakfast was unsatisfactory.
+Parent: There were some complaints about the continental breakfast, but room service was generally good.
+
+----- Supporting -----
+
+[0.2255401611328125] Extremely runny, undercooked scrambled eggs, bacon, cheap bagels, yogurt, some cereal.
+[0.05780792236328125] I bit too much for the USA and the quality is mediocre at best.
+[0.0266571044921875] There was one occasion in which we ordered from the menu, sadly it was a little disappointing because it was overcooked but we were taken care of almost immediately when we complained.
+[0.00434112548828125] It was almost uneatable, but we were hungry.
+[0.0018129348754882812] It was NOT good.
+
+----- Weakening -----
+
+[-0.9927945137023926] Breakfast was typical continental, but good.
+[-0.9925379753112793] The breakfast buffet wasn't included in the price but we enjoyed continental breakfast.
+[-0.990574836730957] The restaurant inside the hotel had delicious plates and the breakfast buffet was reasonably priced and delicious.
+[-0.9900274276733398] As we had a car ,the location was not a problem.South Beach is just a short drive across the bridge and we took a taxi to Bayside.We ordered room service for breakfast and it was excellent.
+[-0.9869842529296875] The room was spacious and bathroom clean with great views over the bay and the breakfast was awesome, the staff throughout the hotel were very polite and helpful.
+
+**********
+
+[0.9688339233398438] Room service was good.
+Parent: There were some complaints about the continental breakfast, but room service was generally good.
+
+----- Supporting -----
+
+[0.9688339233398438] Room service was great - they had great 24 hour food - try the conch chowder, the conch fritters, key lime pie - I could keep going, everything was delicious.
+[0.9211177825927734] Wish to point out the excellent service I and my guests have enjoyed in the dining room from the manager in charge Mr Avi Zarchi and his team.
+[0.8987579345703125] The room was nice & we sort of had a view of the ocean - the staff was excellent - from the front desk to the valet!
+[0.8971452713012695] We found the hotel faultless, really clean, excellent service and really good value for money!
+[0.896087646484375] As we had a car ,the location was not a problem.South Beach is just a short drive across the bridge and we took a taxi to Bayside.We ordered room service for breakfast and it was excellent.
+
+----- Weakening -----
+
+[-0.9871025085449219] Valet service is god awful.
+[-0.9690876007080078] Rates were too expensive and service was terrible.
+[-0.9641990661621094] I feel the housekeeping staff is totaly at fault, and needs better supervision.
+[-0.9475784301757812] The poor gentleman who arrived with our sheets had NO idea how to make a bed, he started putting the blanket on the mattress (before the sheets) when I told him he could leave.
+[-0.9432239532470703] Horrible club sandwich!

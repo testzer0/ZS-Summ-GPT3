@@ -1,0 +1,27 @@
+***** building : Sentiments for original sentences *****
+lobby : + 10     - 2
+front desk staff : + 1     - 0
+staff : + 4     - 0
+beds : + 1     - 0
+linen : + 1     - 0
+doors : + 0     - 1
+seating : + 1     - 0
+facility : + 1     - 0
+room : + 3     - 0
+elevator : + 0     - 1
+wait : + 0     - 1
+window : + 0     - 1
+mall : + 1     - 0
+receptionist : + 0     - 1
+location : + 1     - 0
+lounge area : + 1     - 0
+***** building : Sentiments for raw summaries *****
+lobby : + 1     - 1
+rooms : + 1     - 0
+wait : + 0     - 1
+staff : + 2     - 0
+space : + 1     - 0
+***** building : Sentiments for final summary *****
+i l d : + 0     - 1
+n g : + 0     - 1
+i l d i n g : + 0     - 1

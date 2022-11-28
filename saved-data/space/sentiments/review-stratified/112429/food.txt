@@ -1,0 +1,31 @@
+***** food : Sentiments for original sentences *****
+Food : + 1     - 0
+service : + 2     - 0
+food : + 3     - 2
+prices : + 1     - 0
+choice of channels : + 0     - 1
+water pressure : + 1     - 0
+individual bottles : + 1     - 0
+price : + 9     - 2
+fare : + 0     - 1
+room : + 1     - 0
+milk : + 0     - 1
+location : + 1     - 0
+pancakes : + 1     - 0
+Public Market : + 1     - 0
+drinks : + 1     - 0
+Price : + 1     - 0
+parking : + 1     - 0
+sushi : + 1     - 0
+drink selection : + 1     - 0
+sugar : + 0     - 1
+cream : + 0     - 1
+***** food : Sentiments for raw summaries *****
+food : + 5     - 0
+service : + 1     - 0
+sushi : + 1     - 0
+drink selection : + 1     - 0
+Public Market : + 1     - 0
+priced : + 1     - 0
+hash brows : + 0     - 1
+***** food : Sentiments for final summary *****

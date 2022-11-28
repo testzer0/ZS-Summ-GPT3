@@ -1,0 +1,191 @@
+***** Aspect: location Model Type : zs *****
+Overall score: 0.3572651545206706
+
+**********
+
+[0.20861434936523438] The Marriott is a good hotel.
+Parent: I stayed at the Marriott in mid-June for one night on a business trip .
+
+----- Supporting -----
+
+[0.20861434936523438] The bar and main restaurant is on par with other Marriotts I've been to.
+[0.20861434936523438] The bar and main restaurant is on par with other Marriotts I've been to.
+[0.19458580017089844] The hotel is wonderfully located to all metro hospitals and when some very important down time is needed the Eaton Center mall is attached so you do not have to worry about the weather or putting on a coat.
+[0.1744403839111328] The hotel's downtown location is convenient for public transportation and adjacent to the Eaton Centre Mall.
+[0.13841629028320312] The best thing about this hotel is its location next to Eaton Centre.
+
+----- Weakening -----
+
+[-0.7397270202636719] A short walk, I found a small grocery store in the underground.
+[-0.6504669189453125] I could spend all day in a mall and just shop until I drop!
+[-0.57666015625] I do recommend dinner at the 360 resturant in the CN tower, a wonderful experience especially as the sun set.
+[-0.5351600646972656] For those looking for shopping, the Eaton Centre is literally next door.
+[-0.4532012939453125] CN Tower is not far from here.
+
+**********
+
+[0.001800537109375] I stayed at the Marriott in mid-June.
+Parent: I stayed at the Marriott in mid-June for one night on a business trip .
+
+----- Supporting -----
+
+[0.001800537109375] I was in town on business, and chose this hotel for its location.
+[0.0012750625610351562] The hotel is perfectly situated in the heart of Toronto.
+[0.001041412353515625] The hotel if ideally located right in the middle of the city.
+[0.00080108642578125] Location is good and the hotel is quiet.
+[0.00075531005859375] The restaurant was very good and reasonably priced for a hotel restaurant.
+
+----- Weakening -----
+
+[-0.8939743041992188] Made Christmas shopping an absolute treat!!
+[-0.8370151519775391] I made the mistake of chhosing the Eatons Center location over the Bloor or Airport locations I usually stay at.
+[-0.8122959136962891] A short walk, I found a small grocery store in the underground.
+[-0.7680244445800781] My husband and I had a mini-getaway the weekend of April 28/07.
+[-0.67523193359375] I could spend all day in a mall and just shop until I drop!
+
+**********
+
+[-0.014453887939453125] The Marriott is a one-night stay.
+Parent: I stayed at the Marriott in mid-June for one night on a business trip .
+
+----- Supporting -----
+
+[-0.014453887939453125] Only had a drink in the bar, which was average hotel lobby bar.
+[-0.017902374267578125] Yhis Marriott is located immediately next to the Trinity Church and the Waton Centre; immediately in the heart of downtown Toronto.
+[-0.02490234375] The restaurant was very good and reasonably priced for a hotel restaurant.
+[-0.025981903076171875] My husband and I had a mini-getaway the weekend of April 28/07.
+[-0.026189804077148438] The bar and main restaurant is on par with other Marriotts I've been to.
+
+----- Weakening -----
+
+[-0.9915280342102051] Stayed for three nights over (US) President's Day weekend-Friday to Monday.
+[-0.8676300048828125] A short walk, I found a small grocery store in the underground.
+[-0.8501777648925781] I could spend all day in a mall and just shop until I drop!
+[-0.82830810546875] Expensive to park, $25 per day and daily rates are high.
+[-0.8274993896484375] It enters sears, and on your way through this hallway there is a giftshop and a cafe down the stairs.
+
+**********
+
+[0.07930374145507812] The Marriott is a good hotel for business trips.
+Parent: I stayed at the Marriott in mid-June for one night on a business trip .
+
+----- Supporting -----
+
+[0.07930374145507812] I was in town on business, and chose this hotel for its location.
+[0.05217742919921875] Addtionally, there were pleny of wonderful restaurants, places to shop, the subway transit system, buses and taxes within a 1-5 mile radius of the hotel making it very convenient for just about everything!
+[0.0311431884765625] The hotel's downtown location is convenient for public transportation and adjacent to the Eaton Centre Mall.
+[0.030933380126953125] I managed to get a good deal via tripadvisor and hotels.com and I'm glad that I chose this hotel because its location was ideal.
+[0.01828765869140625] The location is perfect, near everything one might need on a business trip and for doing some shopping.
+
+----- Weakening -----
+
+[-0.7220993041992188] A short walk, I found a small grocery store in the underground.
+[-0.43758392333984375] I could spend all day in a mall and just shop until I drop!
+[-0.37579345703125] It enters sears, and on your way through this hallway there is a giftshop and a cafe down the stairs.
+[-0.33423614501953125] Brilliant location if you like shopping!
+[-0.33068084716796875] The central location was perfect for us as tourists.
+
+**********
+
+[0.9826192855834961] The hotel is adjacent to the Eaton Centre mall.
+Parent: It is adjacent to the Eaton Centre mall , and across the street from the Toronto city hall .
+
+----- Supporting -----
+
+[0.9826192855834961] The hotel's downtown location is convenient for public transportation and adjacent to the Eaton Centre Mall.
+[0.9475250244140625] The hotel is wonderfully located to all metro hospitals and when some very important down time is needed the Eaton Center mall is attached so you do not have to worry about the weather or putting on a coat.
+[0.7057037353515625] Needless to say, the Eaton Centre is practically next door to the hotel.
+[0.6915245056152344] One of the best features of this hotel is its proximity to the Eaton Centre as it is connected with a walkway so you can leave your coats in your room and shop all day.
+[0.6373653411865234] It is in a great location - attached to the Eaton Centre for some last minute Christmas shopping, and close to Nathan Phillips Square and other Toronto sights.
+
+----- Weakening -----
+
+[-0.9671726226806641] The hotel is located diagonally across from Nathan Phillips Square.
+[-0.9306793212890625] Yhis Marriott is located immediately next to the Trinity Church and the Waton Centre; immediately in the heart of downtown Toronto.
+[-0.9130611419677734] It is across the streets from both old and new City Hall.
+[-0.8603973388671875] It is also right beside Nathan Phillips Square, which has a skating rink all winter.
+[-0.7865257263183594] CN Tower is not far from here.
+
+**********
+
+[0.0947113037109375] The hotel is across the street from the Toronto city hall.
+Parent: It is adjacent to the Eaton Centre mall , and across the street from the Toronto city hall .
+
+----- Supporting -----
+
+[0.0947113037109375] It is adjacent to the Eaton Centre mall, and across the street from the Toronto city hall.
+[0.01396942138671875] It is across the streets from both old and new City Hall.
+[0.0008068084716796875] The location couldn't be better.
+[0.000606536865234375] The location can't be beat.
+[0.0005054473876953125] What a great location for a visit to Toronto!
+
+----- Weakening -----
+
+[-0.9735393524169922] The best thing about this hotel is its location next to Eaton Centre.
+[-0.9678096771240234] The hotel is located diagonally across from Nathan Phillips Square.
+[-0.951904296875] The location, right next to the Eaton Centre, is ideal and makes it easy to take in all of the traditional tourist sights and access the subway.
+[-0.9508743286132812] One of the best features of this hotel is its proximity to the Eaton Centre as it is connected with a walkway so you can leave your coats in your room and shop all day.
+[-0.9148635864257812] Needless to say, the Eaton Centre is practically next door to the hotel.
+
+**********
+
+[0.9841136932373047] This location is ideal for vacationers.
+Parent: This makes it an ideal location for vacationers , but a bit far if you have meetings in the main business district in the downtown core ( although it 's not too bad for that ) .
+
+----- Supporting -----
+
+[0.9841136932373047] This makes it an ideal location for vacationers, but a bit far if you have meetings in the main business district in the downtown core (although it's not too bad for that).
+[0.9646987915039062] The central location was perfect for us as tourists.
+[0.6270751953125] I managed to get a good deal via tripadvisor and hotels.com and I'm glad that I chose this hotel because its location was ideal.
+[0.3174858093261719] I did not have an opportunity to use the recreation facilities but the location of the hotel is ideal.
+[0.28363990783691406] The location, right next to the Eaton Centre, is ideal and makes it easy to take in all of the traditional tourist sights and access the subway.
+
+----- Weakening -----
+
+[-0.5645332336425781] It was a nice hotel, but I would recommend staying closer to the center of activities.
+[-0.22601318359375] If you have children under 8 they will love the fairground at centreville on the islands but avoid Wonderland unless you have teenage children who can go by themselves, the queues were over an hour long for many rides and it feels bleak and bland.
+[-0.18654251098632812] My sister and I were in Toronto for a family emergency.
+[-0.172607421875] Brilliant location if you like shopping!
+[-0.0984039306640625] If you are looking for central location, than this is a great place.
+
+**********
+
+[-0.02092742919921875] The hotel is too far from the downtown business district for guests who have meetings there.
+Parent: This makes it an ideal location for vacationers , but a bit far if you have meetings in the main business district in the downtown core ( although it 's not too bad for that ) .
+
+----- Supporting -----
+
+[-0.02092742919921875] It was a nice hotel, but I would recommend staying closer to the center of activities.
+[-0.026436805725097656] I book in advance so I don't get stuck at other hotels.
+[-0.03142738342285156] Parking is a whopping $26 per night ($36 with valet service).
+[-0.03623771667480469] It looked like we were lucky to get a parking spot.
+[-0.045215606689453125] The location is reasonable but quite a long way from the waterfront.
+
+----- Weakening -----
+
+[-0.9973928928375244] Yhis Marriott is located immediately next to the Trinity Church and the Waton Centre; immediately in the heart of downtown Toronto.
+[-0.9954203367233276] The location of this hotel is excellent â€“ very central and close to public transport, shopping, restaurants, etc.
+[-0.9953964948654175] The hotel if ideally located right in the middle of the city.
+[-0.9953963756561279] Perfect location close to everything.
+[-0.9953914880752563] The location is perfect, near everything one might need on a business trip and for doing some shopping.
+
+**********
+
+[0.8996047973632812] This is not too bad.
+Parent: This makes it an ideal location for vacationers , but a bit far if you have meetings in the main business district in the downtown core ( although it 's not too bad for that ) .
+
+----- Supporting -----
+
+[0.8996047973632812] This makes it an ideal location for vacationers, but a bit far if you have meetings in the main business district in the downtown core (although it's not too bad for that).
+[0.8924942016601562] Meal at the hotel restaurant was not bad, apple crumble with ice cream and creme brulee was pretty tasty.
+[0.812530517578125] No disappointments, location is absolutely perfect.
+[0.647369384765625] I must admit, the location is perfect!
+[0.6376991271972656] There is a roadhouse type bar on one side of hotel, went there for pitcher one night, seems alright.
+
+----- Weakening -----
+
+[-0.837493896484375] The location canâ€™t be beat, youâ€™re right in the heart of the city, right next to the Eaton Centre and steps away from the hive of Dundas Square.
+[-0.74859619140625] If you have children under 8 they will love the fairground at centreville on the islands but avoid Wonderland unless you have teenage children who can go by themselves, the queues were over an hour long for many rides and it feels bleak and bland.
+[-0.6383819580078125] Beware of tight turns in for parking garage under facility.
+[-0.585174560546875] One restaurant that you must visit - if you are interested in Italian food - is Terroni.
+[-0.53936767578125] Expensive to park, $25 per day and daily rates are high.

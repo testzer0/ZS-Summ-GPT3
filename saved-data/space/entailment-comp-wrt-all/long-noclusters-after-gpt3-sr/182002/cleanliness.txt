@@ -1,0 +1,65 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.9764432907104492
+
+**********
+
+[0.9871954917907715] The hotel was clean.
+Parent: The reviewers said that the hotel was clean, modern, and that the only concern they had was the limited parking in the hotel garage.
+
+----- Supporting -----
+
+[0.9871954917907715] The hotel was very clean and centrally located.
+[0.9804778099060059] The hotel was clean, modern and the only concern that I had was the limited parking in the hotel garage.
+[0.9668807983398438] However on arriving found the hotel room to be very spacious, clean and very comfortable.
+[0.9652562141418457] Found my room and the hotel in general very clean and well kept.
+[0.9640531539916992] The staff was very polite, rooms were clean, and the hotel has a great location.
+
+----- Weakening -----
+
+[-0.9968318939208984] The room was so filthy, we decided to leave, and find another hotel.
+[-0.996455192565918] Exhausted, we walked into our room, and experienced the most overwhelming foul smells, I canâ€™t even describe!
+[-0.9963035583496094] We arrived at 3:00 in the morning, and drove through the night to arrive to the filthiest hotel we have ever seen!
+[-0.9962940216064453] The shower was disgusting and there were marks all over the walls and carpet.
+[-0.9951190948486328] There was brown stuff on the walls of the bathroom, and the room was very shabby.
+
+**********
+
+[0.9564504623413086] The hotel is modern.
+Parent: The reviewers said that the hotel was clean, modern, and that the only concern they had was the limited parking in the hotel garage.
+
+----- Supporting -----
+
+[0.9564504623413086] The hotel was clean, modern and the only concern that I had was the limited parking in the hotel garage.
+[0.6040935516357422] The rooms were very updated and the beds were very comfortable!
+[0.34112548828125] The hotel was very nice, and looks like they are doing renovations.
+[0.3221244812011719] I thought the rooms were very well kept and the bedding looked new.
+[0.28278350830078125] Over all our hotel was clean and we had a newly renovated room.
+
+----- Weakening -----
+
+[-0.9963054656982422] The general feeling of this hotel was tired and run down.
+[-0.9949522018432617] The rooms are old, the bathroom smelled, we had a view of air conditioners and the gym was a joke.
+[-0.9946079254150391] The Primrose is a dated property offering only basic levels of service.
+[-0.9941463470458984] The hotel is older but the room was huge and had a view all the way to the lake.
+[-0.9927024841308594] Although most of the staff were nice, the rooms were dated and could use some renovation.
+
+**********
+
+[0.9856839179992676] The reviewers' only concern with the hotel was the limited parking in the hotel garage.
+Parent: The reviewers said that the hotel was clean, modern, and that the only concern they had was the limited parking in the hotel garage.
+
+----- Supporting -----
+
+[0.9856839179992676] The hotel was clean, modern and the only concern that I had was the limited parking in the hotel garage.
+[0.598297119140625] While I'd agree that the parking garage was hard to manoevre and the elevators were slow, that's as far as the negative experiences I had at this hotel went.
+[0.524383544921875] I guess the only thing I didnâ€™t really like was the cost of the parking which was $23 a day, but I guess after paying close to $40 for valet parking at the wedding venue and hearing that someone else at the wedding paid almost $30 for parking at their hotel, I canâ€™t really complain since it looks like Toronto in general is expensive for parking.
+[0.065887451171875] The parking garage was a little tight to drive around in, but other than that, I would definately go back for another weekend with the guys.
+[0.016198158264160156] Only problem was the carpark was too small.
+
+----- Weakening -----
+
+[-0.9929463863372803] Also which was bothersome was the wifi.
+[-0.9928336143493652] The biggest disappointments were: -Elevators (being "updated", bumpy ride, not reliable-ended up on a floor we didn't know we could access!)
+[-0.991919994354248] What did bother me though was the cleanliness.
+[-0.9918797016143799] A few very minor complaints - the bathroom was very small and a bit cold, since the only heat was from a small baseboard heater.
+[-0.9914922714233398] My only complaint would have been that they have a lovely grand piano in the lobby and while I was trying to enjoy my breakfast there was a child playing around on it.

@@ -1,0 +1,170 @@
+***** Aspect: rooms Model Type : zs *****
+Overall score: 0.9743057489395142
+
+**********
+
+[0.9944415092468262] I stayed for three days.
+Parent: My stay was for three days at the Primrose and I found it to be a fine hotel .
+
+----- Supporting -----
+
+[0.9944415092468262] My stay was for three days at the Primrose and I found it to be a fine hotel.
+[0.933868408203125] There was a 'restaurant' that never did open the three days, two nights we stayed and no room service.
+[0.3726806640625] My husband myself and 13 year old son stayed here June 10-13.
+[0.16748046875] Booked this Hotel for a three night stay at the beginning of my holiday to Canada, and was very pleased with my choice.
+[0.1442718505859375] A couple of my friends and I stayed there for a weekend of fun and it was awful from the start.
+
+----- Weakening -----
+
+[-0.9980182647705078] As Toronto was heavily booked up for the evening, I had to stay at the Best Western Primrose, and I was happy it was only for a single night.
+[-0.9957132339477539] Stayed here for one night on business.
+[-0.9953904151916504] I was just on a business trip and because of circumstances had to stay at the Primrose for one night before I came back to the States.
+[-0.9953665733337402] I stayed here for one night to watch the Rogers Cup.
+[-0.9925088882446289] I stayed at the Best Western Primrose for one night, mid-week.
+
+**********
+
+[0.9666299819946289] The Primrose is a fine hotel.
+Parent: My stay was for three days at the Primrose and I found it to be a fine hotel .
+
+----- Supporting -----
+
+[0.9666299819946289] My stay was for three days at the Primrose and I found it to be a fine hotel.
+[0.8264007568359375] The Primrose is a good hotel for people who plan on staying just a few dates in Toronto and plan on only sleeping there.
+[0.7470817565917969] We have never been to Canada before or to a huge city like Toronto, we found it very easy to get around, Primrose hotel is an excellent location as the subway is only 5min walk way .There is a lot of restaurants , bars, stores ,drugmarts and shops within walking distance also Dundas sq , Eaton centre &hockey Hall of Fame are close by.
+[0.7145614624023438] I can honestly say the Best Western Primrose Hotel, Toronto Downtown was one of the very best I have had the pleasure of staying in.
+[0.4409637451171875] The hotel was in a good location and was close to restaurants and a wonderful greenhouse which I toured for an entire afternoon.
+
+----- Weakening -----
+
+[-0.9927716255187988] We are heartbroken and will never recommend this hotel to anyone.
+[-0.9889540672302246] I would not recommend this hotel to anyone!
+[-0.9884185791015625] I cannot begin to explain how awful this hotel is.
+[-0.9833989143371582] I would never step into that hotel.
+[-0.9830203056335449] My husband and I stayed at this hotel for several nights in June, and were very disappointed.
+
+**********
+
+[0.9553580284118652] The Primrose is a good hotel.
+Parent: The Primrose is a good hotel for people who plan on staying just a few dates in Toronto and plan on only sleeping there .
+
+----- Supporting -----
+
+[0.9553580284118652] My stay was for three days at the Primrose and I found it to be a fine hotel.
+[0.9453201293945312] The Primrose is a good hotel for people who plan on staying just a few dates in Toronto and plan on only sleeping there.
+[0.9012069702148438] We have never been to Canada before or to a huge city like Toronto, we found it very easy to get around, Primrose hotel is an excellent location as the subway is only 5min walk way .There is a lot of restaurants , bars, stores ,drugmarts and shops within walking distance also Dundas sq , Eaton centre &hockey Hall of Fame are close by.
+[0.8028316497802734] I can honestly say the Best Western Primrose Hotel, Toronto Downtown was one of the very best I have had the pleasure of staying in.
+[0.6401920318603516] We had a good time in the city and would use the Primrose Hotel again.
+
+----- Weakening -----
+
+[-0.9802780151367188] We are heartbroken and will never recommend this hotel to anyone.
+[-0.9743318557739258] I cannot begin to explain how awful this hotel is.
+[-0.972752571105957] I would not recommend this hotel to anyone!
+[-0.9626674652099609] I would never step into that hotel.
+[-0.9512119293212891] My experience at this hotel was the worst I've ever experience within the service industry.
+
+**********
+
+[0.9862194061279297] The Primrose is a good hotel for people who plan on staying just a few dates in Toronto.
+Parent: The Primrose is a good hotel for people who plan on staying just a few dates in Toronto and plan on only sleeping there .
+
+----- Supporting -----
+
+[0.9862194061279297] The Primrose is a good hotel for people who plan on staying just a few dates in Toronto and plan on only sleeping there.
+[0.10128021240234375] Recently went to Toronto to meet up with some friends and got a room for cheap at the Primrose hotel.
+[0.081024169921875] So we went to Toronto for a girlâ€™s weekend out and booked 2 rooms at the Primrose Hotel online after finding a good deal on Hotwire.
+[0.071014404296875] In all, I would stay there again if I plan on going to Toronto to have fun.
+[0.058429718017578125] I was booked in here as part of a city break package, while visiting friends in the Toronto area.
+
+----- Weakening -----
+
+[-0.6838474273681641] I do not recommend staying here.
+[-0.6801109313964844] I would not recommend this hotel to anyone!
+[-0.6275043487548828] We are heartbroken and will never recommend this hotel to anyone.
+[-0.5851020812988281] I would never step into that hotel.
+[-0.5390472412109375] I wouldn't recommend this hotel to anyone who is looking for a nice weekend getaway or a family looking for a vacation.
+
+**********
+
+[0.9466400146484375] The Primrose is a good hotel for people who just want a place to sleep.
+Parent: The Primrose is a good hotel for people who plan on staying just a few dates in Toronto and plan on only sleeping there .
+
+----- Supporting -----
+
+[0.9466400146484375] The Primrose is a good hotel for people who plan on staying just a few dates in Toronto and plan on only sleeping there.
+[0.0590667724609375] This is a decent hotel, but factor in the low prices, great location and little perks like free wi-fi, and I'd say that it's one of the best I've stayed in.
+[0.0185546875] I would describe it as typical Best Western standard 3 star hotel quality, nothing special and no frills.
+[0.017498016357421875] Other than the hotel is OK, but far from great.
+[0.0159149169921875] The price is very good and the rooms are large, the only issue with the hotel is its very dated and could do with a revamp.
+
+----- Weakening -----
+
+[-0.9884848594665527] I guess this hotel would be ok for people who are looking to party.
+[-0.9883770942687988] This restaurant has a loyal group of customers.
+[-0.9780633449554443] great for shopping, dining & partying.
+[-0.9764933586120605] We did order food and beverage and were pleased with the variety of choices available for lunches.
+[-0.9723272323608398] We occupied the Starlight room on the 23rd floor and found the room to be ideal for our training sessions.
+
+**********
+
+[0.9871954917907715] The hotel was clean.
+Parent: The hotel was clean , modern and the only concern that I had was the limited parking in the hotel garage .
+
+----- Supporting -----
+
+[0.9871954917907715] The hotel was very clean and centrally located.
+[0.9804778099060059] The hotel was clean, modern and the only concern that I had was the limited parking in the hotel garage.
+[0.9668807983398438] However on arriving found the hotel room to be very spacious, clean and very comfortable.
+[0.9652562141418457] Found my room and the hotel in general very clean and well kept.
+[0.9640531539916992] The staff was very polite, rooms were clean, and the hotel has a great location.
+
+----- Weakening -----
+
+[-0.9968318939208984] The room was so filthy, we decided to leave, and find another hotel.
+[-0.996455192565918] Exhausted, we walked into our room, and experienced the most overwhelming foul smells, I canâ€™t even describe!
+[-0.9963035583496094] We arrived at 3:00 in the morning, and drove through the night to arrive to the filthiest hotel we have ever seen!
+[-0.9962940216064453] The shower was disgusting and there were marks all over the walls and carpet.
+[-0.9951190948486328] There was brown stuff on the walls of the bathroom, and the room was very shabby.
+
+**********
+
+[0.9826135635375977] The hotel was modern.
+Parent: The hotel was clean , modern and the only concern that I had was the limited parking in the hotel garage .
+
+----- Supporting -----
+
+[0.9826135635375977] The hotel was clean, modern and the only concern that I had was the limited parking in the hotel garage.
+[0.681640625] The rooms were very updated and the beds were very comfortable!
+[0.45956993103027344] I thought the rooms were very well kept and the bedding looked new.
+[0.4332427978515625] The hotel was very nice, and looks like they are doing renovations.
+[0.3856201171875] Over all our hotel was clean and we had a newly renovated room.
+
+----- Weakening -----
+
+[-0.9969425201416016] The general feeling of this hotel was tired and run down.
+[-0.9948644638061523] The rooms are old, the bathroom smelled, we had a view of air conditioners and the gym was a joke.
+[-0.9946584701538086] The Primrose is a dated property offering only basic levels of service.
+[-0.9939517974853516] The hotel is older but the room was huge and had a view all the way to the lake.
+[-0.9934320449829102] The room was dated and the bathroom was the same.
+
+**********
+
+[0.9753479957580566] I was only concerned about the limited parking in the hotel garage.
+Parent: The hotel was clean , modern and the only concern that I had was the limited parking in the hotel garage .
+
+----- Supporting -----
+
+[0.9753479957580566] The hotel was clean, modern and the only concern that I had was the limited parking in the hotel garage.
+[0.24365234375] While I'd agree that the parking garage was hard to manoevre and the elevators were slow, that's as far as the negative experiences I had at this hotel went.
+[0.1549072265625] I guess the only thing I didnâ€™t really like was the cost of the parking which was $23 a day, but I guess after paying close to $40 for valet parking at the wedding venue and hearing that someone else at the wedding paid almost $30 for parking at their hotel, I canâ€™t really complain since it looks like Toronto in general is expensive for parking.
+[0.1400146484375] The parking garage was a little tight to drive around in, but other than that, I would definately go back for another weekend with the guys.
+[0.01641845703125] Also, the hotel parking has a height limit of 6 feet, so, since we were driving a GMC Yukon, it was not available to us anyway.
+
+----- Weakening -----
+
+[-0.997808575630188] I also noticed lots of changes in the rooms.
+[-0.9972023963928223] Also which was bothersome was the wifi.
+[-0.9971485137939453] What did bother me though was the cleanliness.
+[-0.9963908195495605] We spent the whole weekend shopping, clubbing and eating.
+[-0.9953148365020752] The two main things I did apprieciate was, the free wireless internet, and the fact there was a Tim hortons right in the lobby.

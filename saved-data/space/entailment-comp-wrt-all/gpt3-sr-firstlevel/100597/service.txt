@@ -1,0 +1,695 @@
+***** Aspect: service Model Type : zs *****
+Overall score: 0.837255521254106
+
+**********
+
+[0.9942514896392822] The staff at the hotel were friendly.
+Parent: The staff at the hotel were friendly and helpful, and the shuttle service was convenient.
+
+----- Supporting -----
+
+[0.9942514896392822] The hotel staff was friendly and accomodating.
+[0.9823246002197266] The hotel employees were very polite and most efficient: we were on our way to our room within 30 seconds, warm cookies in hand.
+[0.9641823768615723] The hotel staff was courteous and very helpful with our questions.
+[0.9581165313720703] For an airport hotel, it was surprisingly quiet, rooms were extremely comfortable and well prepared, and the staff were all extremely helpful and courteous.
+[0.946563720703125] My room and bathroom were both very clean and the service at the hotel was friendly, The check in process could be slow and it would be helpful if the airline crews were not given first priority to jump in front of everyone waiting.
+
+----- Weakening -----
+
+[-0.9930620193481445] We experienced this poor attitude with a few other staff members within the hotel.
+[-0.9786162376403809] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+[-0.9446849822998047] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[-0.85528564453125] --Restaurant staff seemed to be overwhelmed during breakfast, so they fell behind a bit.
+[-0.7936935424804688] It must be an unhappy place to work because it sure comes through to the customer.
+
+**********
+
+[0.9890804290771484] The staff were helpful.
+Parent: The staff at the hotel were friendly and helpful, and the shuttle service was convenient.
+
+----- Supporting -----
+
+[0.9890804290771484] The staff people were really helpful and nice.
+[0.9821686744689941] The front desk staff was friendly and helpful.
+[0.9787459373474121] The staff was very helpful with all my business and pesonal needs.
+[0.9772601127624512] Breakfast was good and the staff were very helpful.
+[0.9739847183227539] All staff were very courteous and helpful.
+
+----- Weakening -----
+
+[-0.9966578483581543] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[-0.9960556030273438] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+[-0.9831142425537109] We experienced this poor attitude with a few other staff members within the hotel.
+[-0.9792232513427734] When we tried to leave, our paid parking pass wouldn't register to let us out of the parking lot, and there were no attendants handy, so we were late returning our rental car :( -- I'm thankful we didn't get dinged on that.
+[-0.9576683044433594] Waitress never brought the items we requested and the order was askew.
+
+**********
+
+[0.9861578941345215] The shuttle service was convenient.
+Parent: The staff at the hotel were friendly and helpful, and the shuttle service was convenient.
+
+----- Supporting -----
+
+[0.9861578941345215] The shuttle is convenient and reliable.
+[0.9856724739074707] The shuttle was an extremely convenient as well.
+[0.9827613830566406] The shuttle service to the airport ran frequently and was very convenient.
+[0.9803495407104492] Shuttle was convenient and would definitely stay here again.
+[0.8860454559326172] We utilized the free airport shuttle, which is handy, but did not use any other hotel service.
+
+----- Weakening -----
+
+[-0.9241628646850586] It is laid out in wings that make carrying your bags a nightmare, up elevators and down again.
+[-0.8963279724121094] But the nightmare wasn't over, then it took three more tries to get a room with a non-rattling heater and sliding doors that sealed and did not let the traffic noise in.
+[-0.8922195434570312] I took a taxi as everyone was trying to cram into the shuttle with no respect for first-come-first-served.
+[-0.8881936073303223] Our room was in the farthest section of the hotel, and tedious to get into to, and by the time we got settled it was too much trouble to go out to eat.
+[-0.8695487976074219] It was so liquified that it spilled all over my hand and burned me terribly.
+
+**********
+
+[0.22948837280273438] The cost of internet use in the rooms was too high.
+Parent: There were some complaints about the cost of internet use in the rooms, but overall the guests were happy with their stay.
+
+----- Supporting -----
+
+[0.22948837280273438] My only complaint is that they charge for the use of wifi in your room.
+[0.2253570556640625] With the $20 a night parking, internet fees, and insane food pricing I would expect a much more modern, bigger, and clean room.
+[0.16559600830078125] I was disappointed to learn there was a fee for parking ($16+tax), a fee for Internet ($5 for one hour), no simple breakfast included.
+[0.04425048828125] OUR overall stay was great, would have been nice to have no feathered pillows , not having a MICROWAVE,REFRIDG not cool, they charge each day for a roll away bed they said they would accomumdate for up to five in one room stayed three days so used blankets on the floor for the two boys I requested four blanket but had to go down to argue after only getting one they charge for wi-fi in room, LOBBY FREE- charge for daily parking no continuial breakfast without charging all these should change I called on phone for the entertainment book checking in nope they dont take it close to many places to eat,bank and even small cascino the airport close yes somewhat noisy but hey what one is not only during day time night time very quiet staff quiet friendly HOUSEKEEPING WONDERFUL yes i would recommend this hotel to others it'sa nice place is great for summer as with pool only on outsde .
+[0.042354583740234375] The internet fees are a HUGE scam-- $12-$15 for 24 hours.
+
+----- Weakening -----
+
+[-0.9798469543457031] I can walk down to the lobby and get free wifi or use their computers for no charge.
+[-0.9706206321716309] We enjoyed the spa/pool area and they have a nice lounge with free internet access terminals.
+[-0.967620849609375] Free internet usage in the lobby too!
+[-0.9558463096618652] Internet is free if you have HH Gold and works well.
+[-0.9087362289428711] Free internet access in the lobby only and open 24 hrs.
+
+**********
+
+[0.8915510177612305] The guests enjoyed their stay.
+Parent: There were some complaints about the cost of internet use in the rooms, but overall the guests were happy with their stay.
+
+----- Supporting -----
+
+[0.8915510177612305] We booked through a discount website and were completely satisfied with our stay.
+[0.7087917327880859] Great place and would definately stay again.
+[0.65509033203125] We just returned from a stay at the Doubletree Seattle Airport on both sides of our trip to Mexico and where nothing but pleased.
+[0.6161041259765625] OUR overall stay was great, would have been nice to have no feathered pillows , not having a MICROWAVE,REFRIDG not cool, they charge each day for a roll away bed they said they would accomumdate for up to five in one room stayed three days so used blankets on the floor for the two boys I requested four blanket but had to go down to argue after only getting one they charge for wi-fi in room, LOBBY FREE- charge for daily parking no continuial breakfast without charging all these should change I called on phone for the entertainment book checking in nope they dont take it close to many places to eat,bank and even small cascino the airport close yes somewhat noisy but hey what one is not only during day time night time very quiet staff quiet friendly HOUSEKEEPING WONDERFUL yes i would recommend this hotel to others it'sa nice place is great for summer as with pool only on outsde .
+[0.6139259338378906] We would gladly stay here again!
+
+----- Weakening -----
+
+[-0.9384803771972656] This hotel disappointed.
+[-0.8674163818359375] We would not stay here again because of the noise and mildew.
+[-0.8199615478515625] After reading the reviews here, my family was VERY disappointed with the hotel.
+[-0.8062362670898438] I will not stay in a Doubletree again.
+[-0.5965957641601562] It must be an unhappy place to work because it sure comes through to the customer.
+
+**********
+
+[0.12783050537109375] Some guests loved the hotel while others did not.
+Parent: The reviews were mixed, with some guests finding the service accommodating and others finding it lacking.
+
+----- Supporting -----
+
+[0.12783050537109375] My room was very easy to find, but I know others had some difficulties finding their rooms.
+[0.10552978515625] I'm surprised at the negative reviews, I'm a regular Priceline customer, staying at the Doubletree usually once a month and have never had a bad experience.
+[0.0970611572265625] We were quite surprised as this was the only hotel during our two week Washington State vacation that did not provide a fantastic experience.
+[0.06929779052734375] They never seem to slap my hand if I grab 2 or 3...recommendation goes to this hotel over others!
+[0.06362533569335938] The good: large room, food at the restaurants (especially the clam chowder), bed, view from the elevators, service, shuttle every 20 minutes to and from the airport (5 minutes away) The bad: the insulation for the windows is awful, so the hotel is extremely noisy at night (at least if you are facing the airport): airplanes, busy airport boulevard, rooftop with furnaces/chillers etc.
+
+----- Weakening -----
+
+[-0.10993194580078125] You can guarantee that we will be back soon, no doubt about it.
+[-0.0985870361328125] We would gladly stay here again!
+[-0.0853729248046875] We just returned from a stay at the Doubletree Seattle Airport on both sides of our trip to Mexico and where nothing but pleased.
+[-0.0748291015625] We've stayed in this hotel three times in the past 2 years and overall we've been very satisfied.
+[-0.06891632080078125] We've stayed at the Doubletree Seatac four or five times in the past few years, and we've always enjoyed our visits.
+
+**********
+
+[0.9673328399658203] The service was accommodating.
+Parent: The reviews were mixed, with some guests finding the service accommodating and others finding it lacking.
+
+----- Supporting -----
+
+[0.9673328399658203] The hotel staff was friendly and accomodating.
+[0.9600677490234375] The shuttle service to the airport ran frequently and was very convenient.
+[0.9590749740600586] The staff were very accomodating and I loved the chocolate chip cookie at check in.
+[0.9486351013183594] Breakfast was good and the staff were very helpful.
+[0.9257793426513672] The shuttle was an extremely convenient as well.
+
+----- Weakening -----
+
+[-0.9920082092285156] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+[-0.9898366928100586] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[-0.9845485687255859] The room service was horribly overpriced-- not only do they charge 18% more than listed price, the listed prices in the rooms are ALREADY higher than in the restaurant ($2 more on soups and $3-$8 more on entrees/burgers).
+[-0.9842948913574219] Coffee shop service was horrible.
+[-0.9829292297363281] Waitress never brought the items we requested and the order was askew.
+
+**********
+
+[0.9116973876953125] The service was lacking.
+Parent: The reviews were mixed, with some guests finding the service accommodating and others finding it lacking.
+
+----- Supporting -----
+
+[0.9116973876953125] Coffee shop service was horrible.
+[0.737060546875] The service at the hotel coffee shop was really slow and the waiter seemed really bothered by having to come to our table to see what we wanted.
+[0.71771240234375] Service in the more upscale of the two restaurants was almost unbearably slow and the food was cold when it finally arrived after over a hour at our table.
+[0.6271171569824219] Waitress never brought the items we requested and the order was askew.
+[0.5268630981445312] But the bathroom was not so clean and it's a huge let-down for a hotel like this to be so neglected.
+
+----- Weakening -----
+
+[-0.9978518486022949] Service is outstanding, there nightclub is always fun and classy.
+[-0.9977788925170898] Service was great and bell person got ice for us and was very helpful.
+[-0.9972968101501465] (Eben the bus boy made sure we were served well) The front desk staff was also very good!
+[-0.9972939491271973] Love the warm chocolate chips cookies and the service has always been outstanding.
+[-0.9968881607055664] Shuttle service is very quick and so great!
+
+**********
+
+[0.9830141067504883] The coffee shop service was poor.
+Parent: Some specific complaints were made about the coffee shop service, the business center computers, and the front desk staff.
+
+----- Supporting -----
+
+[0.9830141067504883] Coffee shop service was horrible.
+[0.808929443359375] The service at the hotel coffee shop was really slow and the waiter seemed really bothered by having to come to our table to see what we wanted.
+[0.07433700561523438] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+[0.054779052734375] I booked a post-cruise package and the staff did not know how that worked.
+[0.044925689697265625] Waitress never brought the items we requested and the order was askew.
+
+----- Weakening -----
+
+[-0.9974842071533203] Love the warm chocolate chips cookies and the service has always been outstanding.
+[-0.9965777397155762] Service was great and bell person got ice for us and was very helpful.
+[-0.992701530456543] The staff was very helpful with all my business and pesonal needs.
+[-0.9926328659057617] The staff were very accomodating and I loved the chocolate chip cookie at check in.
+[-0.9926190376281738] We were greeted by very nice front desk staff and were given the Doubletree warm welcome cookies...what a nice touch!
+
+**********
+
+[0.6781845092773438] The business center computers were not up to par.
+Parent: Some specific complaints were made about the coffee shop service, the business center computers, and the front desk staff.
+
+----- Supporting -----
+
+[0.6781845092773438] I also used the business center, but the computers were slow and ran an old version of software; one printer worked but the other didn't.
+[0.0428466796875] The Hilton is a great hotel, but the Doubletree is purely a nightmare.
+[0.019969940185546875] Unfortunately I hope front desk could have better communication.
+[0.0184173583984375] This Doubletree is very tired, and more like a 2 star property than a 3 star.
+[0.012725830078125] The shuttle was hot and smelly again and people were mad.
+
+----- Weakening -----
+
+[-0.9246387481689453] The bathrooms are worn and need updating.
+[-0.9100313186645508] The beds were amazing.
+[-0.9031925201416016] The staff are exceptional and the quality without question.
+[-0.8967876434326172] The bed was amazingly comfortable.
+[-0.8893222808837891] This is a multi story well thought out hotel.
+
+**********
+
+[0.9534225463867188] The front desk staff were rude.
+Parent: Some specific complaints were made about the coffee shop service, the business center computers, and the front desk staff.
+
+----- Supporting -----
+
+[0.9534225463867188] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+[0.019134521484375] When we were there, there were a bunch of real estate agents who were getting a bit rowdy.
+[0.015874862670898438] We experienced this poor attitude with a few other staff members within the hotel.
+[0.0029392242431640625] Staff wise, this hotel also needs renovation.
+[0.0009632110595703125] It must be an unhappy place to work because it sure comes through to the customer.
+
+----- Weakening -----
+
+[-0.9979720115661621] The front desk staff was friendly and helpful.
+[-0.9975855350494385] The staff was friendly and helpful and we enjoyed the warm, chocolate chip cookie we were given at check-in.
+[-0.9971809387207031] We were greeted by very nice front desk staff and were given the Doubletree warm welcome cookies...what a nice touch!
+[-0.9970877170562744] The staff was friendly and we appreciated the cookies after a long flight when we were waiting to check inn.
+[-0.99652099609375] The Front staff were friendly and efficient in getting us checked in and taken care of.
+
+**********
+
+[0.9464530944824219] The WiFi is not free.
+Parent: It was also noted that the hotel charges for WiFi and parking.
+
+----- Supporting -----
+
+[0.9464530944824219] If you're just crashing for the night, the hotel has 1 night hotel plus x days parking that's not a bad deal - no breakfast - no free wireless in the room - it's a fee - don't remember what it was since I've never used it - HUGE complex - both a plus and a minus - if you get one of the far wing rooms, you have a long way to walk after check-in Overall, I think it's a great value, especially if you get a Priceline rate.
+[0.9318923950195312] The internet fees are a HUGE scam-- $12-$15 for 24 hours.
+[0.9254150390625] My only complaint is that they charge for the use of wifi in your room.
+[0.8929901123046875] But still charging for the internet!!
+[0.8895034790039062] I think it is fair to mention it costs to use internet in your room but for business travlers I suppose that is an expected cost.
+
+----- Weakening -----
+
+[-0.9697074890136719] Free internet access in the lobby only and open 24 hrs.
+[-0.9599456787109375] I can walk down to the lobby and get free wifi or use their computers for no charge.
+[-0.94256591796875] Internet is free if you have HH Gold and works well.
+[-0.9407501220703125] Free internet usage in the lobby too!
+[-0.8720245361328125] The bed was quite comfortable and free of bed bugs.
+
+**********
+
+[0.9905738830566406] The hotel charges for parking.
+Parent: It was also noted that the hotel charges for WiFi and parking.
+
+----- Supporting -----
+
+[0.9905738830566406] My only complaint about this hotel was the charge for parking.
+[0.9675159454345703] Well appointed, clean, convenient to airport and travels south of Seattle However, we were not informed by Priceline when we made resesrvations that hotel guests are charged $16/day +tax of $1.52 to park in the HUGE hotel parking lot.
+[0.9577045440673828] I thought it was a little expensive for a hotel not located in the center of the city to charge $15 per day to park a car.
+[0.9479827880859375] Pros: - cookies upon check-in - one of my favorite things about the Doubletrees - complimentary airport shuttle every 15 mins - nice pools, rooms are very comfortable with excellent beds and Neutrogena toiletries and Wolfgang Puck coffee - nice food selection in hotel Cons: - parking is expensive - $16/night.
+[0.9249343872070312] Cons - Hotel is spread out so pay attention to how to get to your room as you may get lost, Feather pillows (synthetic available on request), Pay parking ($16 self/day $20 valet/day), warm cookies on check in.
+
+----- Weakening -----
+
+[-0.9904804229736328] On the incoming leg earlier, we stayed across the street at the Hampton for about the same price, wireless internet, free parking and free breakfast.
+[-0.9551506042480469] My only complaint is that they charge for the use of wifi in your room.
+[-0.9068870544433594] But still charging for the internet!!
+[-0.8924369812011719] Free shuttle to the airport got us to the terminal in about 3 minutes!
+[-0.8887481689453125] The internet fees are a HUGE scam-- $12-$15 for 24 hours.
+
+**********
+
+[0.8676528930664062] The housekeeping staff was good.
+Parent: Overall, guests seemed to be satisfied with the housekeeping staff.
+
+----- Supporting -----
+
+[0.8676528930664062] OUR overall stay was great, would have been nice to have no feathered pillows , not having a MICROWAVE,REFRIDG not cool, they charge each day for a roll away bed they said they would accomumdate for up to five in one room stayed three days so used blankets on the floor for the two boys I requested four blanket but had to go down to argue after only getting one they charge for wi-fi in room, LOBBY FREE- charge for daily parking no continuial breakfast without charging all these should change I called on phone for the entertainment book checking in nope they dont take it close to many places to eat,bank and even small cascino the airport close yes somewhat noisy but hey what one is not only during day time night time very quiet staff quiet friendly HOUSEKEEPING WONDERFUL yes i would recommend this hotel to others it'sa nice place is great for summer as with pool only on outsde .
+[0.716094970703125] The hotel staff was friendly and accomodating.
+[0.5942039489746094] The Hotel was clean, great staff, was greeted with hot fresh cookies at the check-in counter.
+[0.5542621612548828] The rooms were very clean and the staff was very nice.
+[0.529327392578125] Friendy waiter/waitress staff.
+
+----- Weakening -----
+
+[-0.9103775024414062] --Restaurant staff seemed to be overwhelmed during breakfast, so they fell behind a bit.
+[-0.8767852783203125] We experienced this poor attitude with a few other staff members within the hotel.
+[-0.862091064453125] When we tried to leave, our paid parking pass wouldn't register to let us out of the parking lot, and there were no attendants handy, so we were late returning our rental car :( -- I'm thankful we didn't get dinged on that.
+[-0.8358602523803711] When we found our room we discovered that the bathroom hadn't been cleaned and there were dirty towels lying around.
+[-0.7366867065429688] The room service was horribly overpriced-- not only do they charge 18% more than listed price, the listed prices in the rooms are ALREADY higher than in the restaurant ($2 more on soups and $3-$8 more on entrees/burgers).
+
+**********
+
+[0.9224567413330078] The service was good.
+Parent: Overall, reviewers thought the service was good, with helpful and friendly staff.
+
+----- Supporting -----
+
+[0.9224567413330078] We ate at both the lounge and the cafe and food was average at best, but the service VERY GOOD!
+[0.9211635589599609] Service was great and bell person got ice for us and was very helpful.
+[0.9102783203125] Service is outstanding, there nightclub is always fun and classy.
+[0.9059524536132812] Room service was good, however.
+[0.8917751312255859] The airport shuttle service was great, friendly and on-time.
+
+----- Weakening -----
+
+[-0.9959306716918945] Coffee shop service was horrible.
+[-0.9883260726928711] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+[-0.9756183624267578] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[-0.9729843139648438] Waitress never brought the items we requested and the order was askew.
+[-0.9498214721679688] When we tried to leave, our paid parking pass wouldn't register to let us out of the parking lot, and there were no attendants handy, so we were late returning our rental car :( -- I'm thankful we didn't get dinged on that.
+
+**********
+
+[0.9907355308532715] The staff was helpful and friendly.
+Parent: Overall, reviewers thought the service was good, with helpful and friendly staff.
+
+----- Supporting -----
+
+[0.9907355308532715] The front desk staff was friendly and helpful.
+[0.9892339706420898] Staff are friendly and helpful, the rooms are decent, and it's very close to the airport.
+[0.987389326095581] The staff people were really helpful and nice.
+[0.9862728118896484] The staff was friendly and helpful and we enjoyed the warm, chocolate chip cookie we were given at check-in.
+[0.9764385223388672] All staff were very courteous and helpful.
+
+----- Weakening -----
+
+[-0.9983696937561035] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+[-0.9969992637634277] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[-0.9949803352355957] We experienced this poor attitude with a few other staff members within the hotel.
+[-0.9886178970336914] When we tried to leave, our paid parking pass wouldn't register to let us out of the parking lot, and there were no attendants handy, so we were late returning our rental car :( -- I'm thankful we didn't get dinged on that.
+[-0.9838762283325195] Waitress never brought the items we requested and the order was askew.
+
+**********
+
+[0.9376039505004883] The shuttle service was not as frequent as it should be.
+Parent: However, some reviewers thought the shuttle service was not as frequent as it should be and that the coffee shop service was slow.
+
+----- Supporting -----
+
+[0.9376039505004883] The shuttle only runs on the hour, not every half an hour like you would assume from an airport hotel.
+[0.21990966796875] The service at the hotel coffee shop was really slow and the waiter seemed really bothered by having to come to our table to see what we wanted.
+[0.0534820556640625] By the time the shuttle was prepared to leave on the hour there were to many people to fit in the shuttle(they could have run there & back in that time ).
+[0.03961944580078125] We wanted to carry our own luggage and got tired of the bell hops asking if they could take it for us.
+[0.03789520263671875] Complimentary shuttle nice although couldn't fit everyone on a Sunday mid-AM!
+
+----- Weakening -----
+
+[-0.6923675537109375] The stay, park & fly packages are *usually* a good deal, and their airport shuttle service is fantastic - I believe it runs every 20 mins around the clock.
+[-0.45757293701171875] The van in the morning can be very crowded so get in line early.
+[-0.3741607666015625] It seemed to ALWAYS be running, and was very convenient.
+[-0.3626251220703125] The airport shuttle runs round the clock (every twenty minutes) and is very efficient.
+[-0.2907257080078125] Shuttle service is very quick and so great!
+
+**********
+
+[0.9925332069396973] The coffee shop service was slow.
+Parent: However, some reviewers thought the shuttle service was not as frequent as it should be and that the coffee shop service was slow.
+
+----- Supporting -----
+
+[0.9925332069396973] The service at the hotel coffee shop was really slow and the waiter seemed really bothered by having to come to our table to see what we wanted.
+[0.31854248046875] --Restaurant staff seemed to be overwhelmed during breakfast, so they fell behind a bit.
+[0.077484130859375] Coffee shop service was horrible.
+[0.0487060546875] Waitress never brought the items we requested and the order was askew.
+[0.0452117919921875] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+
+----- Weakening -----
+
+[-0.9589738845825195] Love the warm chocolate chips cookies and the service has always been outstanding.
+[-0.9459609985351562] Service is outstanding, there nightclub is always fun and classy.
+[-0.942530632019043] The Front staff were friendly and efficient in getting us checked in and taken care of.
+[-0.9374408721923828] Service was great and bell person got ice for us and was very helpful.
+[-0.9109230041503906] The breakfast in the restaurant was amazing, and the staff was very attentive and friendly.
+
+**********
+
+[0.9467573165893555] The service at the hotel was good.
+Parent: The service at this hotel was generally praised by reviewers.
+
+----- Supporting -----
+
+[0.9467573165893555] The check-in was wonderful, the staff great, and the hotel itself was nice.
+[0.9262275695800781] My room and bathroom were both very clean and the service at the hotel was friendly, The check in process could be slow and it would be helpful if the airline crews were not given first priority to jump in front of everyone waiting.
+[0.9205341339111328] Other than that issue, the hotel is nice and staff was great.
+[0.9121837615966797] The Hotel was clean, great staff, was greeted with hot fresh cookies at the check-in counter.
+[0.9048686027526855] The hotel staff was friendly and accomodating.
+
+----- Weakening -----
+
+[-0.9764366149902344] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+[-0.9527206420898438] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[-0.916748046875] I was disappointed to learn there was a fee for parking ($16+tax), a fee for Internet ($5 for one hour), no simple breakfast included.
+[-0.90655517578125] When we tried to leave, our paid parking pass wouldn't register to let us out of the parking lot, and there were no attendants handy, so we were late returning our rental car :( -- I'm thankful we didn't get dinged on that.
+[-0.8900146484375] The service at the hotel coffee shop was really slow and the waiter seemed really bothered by having to come to our table to see what we wanted.
+
+**********
+
+[0.987736701965332] The staff is friendly and helpful.
+Parent: Many noted the friendly and helpful staff, the convenient shuttle service to the airport, and the ability to print boarding passes in the lobby.
+
+----- Supporting -----
+
+[0.987736701965332] The front desk staff was friendly and helpful.
+[0.9862771034240723] Staff are friendly and helpful, the rooms are decent, and it's very close to the airport.
+[0.983818531036377] The staff was friendly and helpful and we enjoyed the warm, chocolate chip cookie we were given at check-in.
+[0.9799580574035645] The hotel staff was friendly and accomodating.
+[0.970491886138916] All staff were very courteous and helpful.
+
+----- Weakening -----
+
+[-0.9983181953430176] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+[-0.9939627647399902] We experienced this poor attitude with a few other staff members within the hotel.
+[-0.9891366958618164] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[-0.9702272415161133] Waitress never brought the items we requested and the order was askew.
+[-0.9584503173828125] When we were there, there were a bunch of real estate agents who were getting a bit rowdy.
+
+**********
+
+[0.9892401695251465] The shuttle service is convenient.
+Parent: Many noted the friendly and helpful staff, the convenient shuttle service to the airport, and the ability to print boarding passes in the lobby.
+
+----- Supporting -----
+
+[0.9892401695251465] The shuttle is convenient and reliable.
+[0.9700803756713867] The shuttle was an extremely convenient as well.
+[0.9657392501831055] The shuttle service to the airport ran frequently and was very convenient.
+[0.95550537109375] Shuttle was convenient and would definitely stay here again.
+[0.8565521240234375] We utilized the free airport shuttle, which is handy, but did not use any other hotel service.
+
+----- Weakening -----
+
+[-0.8745441436767578] Our room was in the farthest section of the hotel, and tedious to get into to, and by the time we got settled it was too much trouble to go out to eat.
+[-0.8637657165527344] It is laid out in wings that make carrying your bags a nightmare, up elevators and down again.
+[-0.8631668090820312] I took a taxi as everyone was trying to cram into the shuttle with no respect for first-come-first-served.
+[-0.8587646484375] It was so liquified that it spilled all over my hand and burned me terribly.
+[-0.8238258361816406] Whenever my husband moved, I felt like we were on a boat in rough water.
+
+**********
+
+[0.9710025787353516] Guests can print boarding passes in the lobby.
+Parent: Many noted the friendly and helpful staff, the convenient shuttle service to the airport, and the ability to print boarding passes in the lobby.
+
+----- Supporting -----
+
+[0.9710025787353516] Having the printer in the lobby to print your boarding pass was really convenient.
+[0.947113037109375] I went down to the lobby about 5:30 a.m. to print out our boarding passes, and a front desk employee came over to be sure everything was going well and I had what I needed - nice touch.
+[0.9445037841796875] Lobby has PC with printer to check in to airline and print boarding pass.
+[0.8674354553222656] I used the computer in the lobby to print my boarding pass.
+[0.1202392578125] For those using the hotel to fly there are shuttles, flight info, and a kiosk to print out boarding passes (although it did not work for me).
+
+----- Weakening -----
+
+[-0.59222412109375] other bugs every where.
+[-0.4265289306640625] ;) BAD: --YOU HAVE TO PAY TO PARK HERE.
+[-0.4145355224609375] The internet fees are a HUGE scam-- $12-$15 for 24 hours.
+[-0.4021148681640625] It takes a few trips to figure it out.
+[-0.3513832092285156] (and no in room wireless).
+
+**********
+
+[0.9342269897460938] The hotel charged for internet usage.
+Parent: However, some guests were disappointed that the hotel charged for internet usage, and one guest was dissatisfied with the response to a security issue in their room.
+
+----- Supporting -----
+
+[0.9342269897460938] OUR overall stay was great, would have been nice to have no feathered pillows , not having a MICROWAVE,REFRIDG not cool, they charge each day for a roll away bed they said they would accomumdate for up to five in one room stayed three days so used blankets on the floor for the two boys I requested four blanket but had to go down to argue after only getting one they charge for wi-fi in room, LOBBY FREE- charge for daily parking no continuial breakfast without charging all these should change I called on phone for the entertainment book checking in nope they dont take it close to many places to eat,bank and even small cascino the airport close yes somewhat noisy but hey what one is not only during day time night time very quiet staff quiet friendly HOUSEKEEPING WONDERFUL yes i would recommend this hotel to others it'sa nice place is great for summer as with pool only on outsde .
+[0.8877677917480469] With the $20 a night parking, internet fees, and insane food pricing I would expect a much more modern, bigger, and clean room.
+[0.8068466186523438] If you're just crashing for the night, the hotel has 1 night hotel plus x days parking that's not a bad deal - no breakfast - no free wireless in the room - it's a fee - don't remember what it was since I've never used it - HUGE complex - both a plus and a minus - if you get one of the far wing rooms, you have a long way to walk after check-in Overall, I think it's a great value, especially if you get a Priceline rate.
+[0.7956523895263672] I think it is fair to mention it costs to use internet in your room but for business travlers I suppose that is an expected cost.
+[0.7813949584960938] I was disappointed to learn there was a fee for parking ($16+tax), a fee for Internet ($5 for one hour), no simple breakfast included.
+
+----- Weakening -----
+
+[-0.9918069839477539] We enjoyed the spa/pool area and they have a nice lounge with free internet access terminals.
+[-0.9875221252441406] Free internet access in the lobby only and open 24 hrs.
+[-0.983673095703125] Free internet usage in the lobby too!
+[-0.9825630187988281] It may be a profit center, but when Best Western gives free internet, it is time to change the policy.
+[-0.9809799194335938] I can walk down to the lobby and get free wifi or use their computers for no charge.
+
+**********
+
+[0.432891845703125] The response to a security issue in the room was unsatisfactory.
+Parent: However, some guests were disappointed that the hotel charged for internet usage, and one guest was dissatisfied with the response to a security issue in their room.
+
+----- Supporting -----
+
+[0.432891845703125] I had to trek all the way to the front-desk from out tower location (to have key re-coded) only to f ind it did not resolve issue.
+[0.320220947265625] The manager comped our parking ($17/day) but he was supposed to let us know who the last person to open our room door was and they never told us.
+[0.14789581298828125] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[0.14771652221679688] Frustrated - we called front desk - who called security - who called maintenance.
+[0.0902252197265625] I took a taxi as everyone was trying to cram into the shuttle with no respect for first-come-first-served.
+
+----- Weakening -----
+
+[-0.9609146118164062] I went down to the lobby about 5:30 a.m. to print out our boarding passes, and a front desk employee came over to be sure everything was going well and I had what I needed - nice touch.
+[-0.9553976058959961] It was a great decision.
+[-0.9388599395751953] Service was great and bell person got ice for us and was very helpful.
+[-0.938018798828125] There's a concierge desk which I found to be very helpful with questions.
+[-0.9353256225585938] The views of the airplanes taking off was great!
+
+**********
+
+[0.9467573165893555] The service at the hotel was good.
+Parent: Overall, reviewers were happy with the service at the hotel.
+
+----- Supporting -----
+
+[0.9467573165893555] The check-in was wonderful, the staff great, and the hotel itself was nice.
+[0.9262275695800781] My room and bathroom were both very clean and the service at the hotel was friendly, The check in process could be slow and it would be helpful if the airline crews were not given first priority to jump in front of everyone waiting.
+[0.9205341339111328] Other than that issue, the hotel is nice and staff was great.
+[0.9121837615966797] The Hotel was clean, great staff, was greeted with hot fresh cookies at the check-in counter.
+[0.9048686027526855] The hotel staff was friendly and accomodating.
+
+----- Weakening -----
+
+[-0.9764366149902344] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+[-0.9527206420898438] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[-0.916748046875] I was disappointed to learn there was a fee for parking ($16+tax), a fee for Internet ($5 for one hour), no simple breakfast included.
+[-0.90655517578125] When we tried to leave, our paid parking pass wouldn't register to let us out of the parking lot, and there were no attendants handy, so we were late returning our rental car :( -- I'm thankful we didn't get dinged on that.
+[-0.8900146484375] The service at the hotel coffee shop was really slow and the waiter seemed really bothered by having to come to our table to see what we wanted.
+
+**********
+
+[0.9935951232910156] The front desk staff were friendly and helpful.
+Parent: Front desk staff were friendly and helpful, and the shuttle service was convenient.
+
+----- Supporting -----
+
+[0.9935951232910156] The front desk staff was friendly and helpful.
+[0.9683361053466797] The Front staff were friendly and efficient in getting us checked in and taken care of.
+[0.9408011436462402] The staff was friendly and helpful and we enjoyed the warm, chocolate chip cookie we were given at check-in.
+[0.8282680511474609] Our check-in and check-out were accomplished efficiently by pleasant and personable people.
+[0.7541160583496094] The check-in was a bit slow, but when our turn came, I could understood why because the desk staff was incredibly friendly and determined to answer all of our questions--she was a very nice person.
+
+----- Weakening -----
+
+[-0.9983315467834473] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+[-0.9787979125976562] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[-0.9714717864990234] We experienced this poor attitude with a few other staff members within the hotel.
+[-0.961400032043457] When we tried to leave, our paid parking pass wouldn't register to let us out of the parking lot, and there were no attendants handy, so we were late returning our rental car :( -- I'm thankful we didn't get dinged on that.
+[-0.90057373046875] I booked a post-cruise package and the staff did not know how that worked.
+
+**********
+
+[0.9861578941345215] The shuttle service was convenient.
+Parent: Front desk staff were friendly and helpful, and the shuttle service was convenient.
+
+----- Supporting -----
+
+[0.9861578941345215] The shuttle is convenient and reliable.
+[0.9856724739074707] The shuttle was an extremely convenient as well.
+[0.9827613830566406] The shuttle service to the airport ran frequently and was very convenient.
+[0.9803495407104492] Shuttle was convenient and would definitely stay here again.
+[0.8860454559326172] We utilized the free airport shuttle, which is handy, but did not use any other hotel service.
+
+----- Weakening -----
+
+[-0.9241628646850586] It is laid out in wings that make carrying your bags a nightmare, up elevators and down again.
+[-0.8963279724121094] But the nightmare wasn't over, then it took three more tries to get a room with a non-rattling heater and sliding doors that sealed and did not let the traffic noise in.
+[-0.8922195434570312] I took a taxi as everyone was trying to cram into the shuttle with no respect for first-come-first-served.
+[-0.8881936073303223] Our room was in the farthest section of the hotel, and tedious to get into to, and by the time we got settled it was too much trouble to go out to eat.
+[-0.8695487976074219] It was so liquified that it spilled all over my hand and burned me terribly.
+
+**********
+
+[0.20672225952148438] The fees for parking and Internet were too high.
+Parent: However, some reviewers were disappointed with the fees for parking and Internet, and the lack of a free breakfast.
+
+----- Supporting -----
+
+[0.20672225952148438] I was disappointed to learn there was a fee for parking ($16+tax), a fee for Internet ($5 for one hour), no simple breakfast included.
+[0.14390945434570312] With the $20 a night parking, internet fees, and insane food pricing I would expect a much more modern, bigger, and clean room.
+[0.08929443359375] Unfortunately there was no wifi and the parking was $16 per night - expensive for the area.
+[0.056549072265625] The internet fees are a HUGE scam-- $12-$15 for 24 hours.
+[0.05013275146484375] What they didn't tell us when booking on the website is that the parking is $16 per night and the internet in the rooms is not wireless.
+
+----- Weakening -----
+
+[-0.9855012893676758] We enjoyed the spa/pool area and they have a nice lounge with free internet access terminals.
+[-0.9726123809814453] Free internet usage in the lobby too!
+[-0.971867561340332] I can walk down to the lobby and get free wifi or use their computers for no charge.
+[-0.967987060546875] On the incoming leg earlier, we stayed across the street at the Hampton for about the same price, wireless internet, free parking and free breakfast.
+[-0.9644134044647217] The room was a bit basic and dated but it was inexpensive and we could leave our car in their car park while we were on holiday.
+
+**********
+
+[0.4943199157714844] The guests were disappointed with the lack of a free breakfast.
+Parent: However, some reviewers were disappointed with the fees for parking and Internet, and the lack of a free breakfast.
+
+----- Supporting -----
+
+[0.4943199157714844] I was disappointed to learn there was a fee for parking ($16+tax), a fee for Internet ($5 for one hour), no simple breakfast included.
+[0.0384521484375] Also, wished to have their shuttle drop us off @ transit terminal but we were told to wait - we decided to walk and it was rather cold.
+[0.0369873046875] OUR overall stay was great, would have been nice to have no feathered pillows , not having a MICROWAVE,REFRIDG not cool, they charge each day for a roll away bed they said they would accomumdate for up to five in one room stayed three days so used blankets on the floor for the two boys I requested four blanket but had to go down to argue after only getting one they charge for wi-fi in room, LOBBY FREE- charge for daily parking no continuial breakfast without charging all these should change I called on phone for the entertainment book checking in nope they dont take it close to many places to eat,bank and even small cascino the airport close yes somewhat noisy but hey what one is not only during day time night time very quiet staff quiet friendly HOUSEKEEPING WONDERFUL yes i would recommend this hotel to others it'sa nice place is great for summer as with pool only on outsde .
+[0.01739501953125] They were not too thrilled when we wanted to borrow their cart.
+[0.0027313232421875] Waitress never brought the items we requested and the order was askew.
+
+----- Weakening -----
+
+[-0.9920740127563477] We had a lovely buffet breakfast in the restaurant and sat by the outdoor pool in the morning while we waited for our transfer to the airport.
+[-0.9820413589477539] Breakfast was delicious in the coffee shop, hot scones with jam and coffee.
+[-0.9732484817504883] Service was great and bell person got ice for us and was very helpful.
+[-0.9663963317871094] On the incoming leg earlier, we stayed across the street at the Hampton for about the same price, wireless internet, free parking and free breakfast.
+[-0.9603710174560547] Excellent morning breakfasts and the airport shuttle runs every 15 minutes but we have made the 10 minute walk numerous times to the airport terminal.
+
+**********
+
+[0.6330642700195312] The guests were happy with the level of service they received from the hotel staff.
+Parent: The guests who left reviews seemed to be happy with the level of service they received from the hotel staff.
+
+----- Supporting -----
+
+[0.6330642700195312] We were especially impressed with the staff at the hotel.
+[0.4053945541381836] The staff was friendly and we appreciated the cookies after a long flight when we were waiting to check inn.
+[0.32208251953125] Great friendly staff took the edge off our long day of intercontinental travel.
+[0.31499195098876953] The staff was friendly and helpful and we enjoyed the warm, chocolate chip cookie we were given at check-in.
+[0.18152809143066406] I absolutely loved the warm cookies we were given at check in and the beds in our room were so incredibly soft.
+
+----- Weakening -----
+
+[-0.9392337799072266] Waitress never brought the items we requested and the order was askew.
+[-0.9087657928466797] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+[-0.8975543975830078] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[-0.8897418975830078] This hotel disappointed.
+[-0.8750438690185547] I was disappointed to learn there was a fee for parking ($16+tax), a fee for Internet ($5 for one hour), no simple breakfast included.
+
+**********
+
+[0.9897511005401611] The rooms are clean.
+Parent: Compliments were given for the cleanliness of the rooms and the friendliness of the staff.
+
+----- Supporting -----
+
+[0.9897511005401611] The rooms are clean and nicely appointed.
+[0.9835348129272461] The rooms are always clean, the beds great, bedding and bath linens top notch.
+[0.9802589416503906] The rooms were very clean and the staff was very nice.
+[0.9589881896972656] Easy to reach, very clean and well-appointed rooms.
+[0.9588909149169922] The room was very clean and comfortable.
+
+----- Weakening -----
+
+[-0.9961166381835938] The bathroom was dirty and stained.
+[-0.9956140518188477] Upon further inspection of the room, the older bathroom wood doors were dirty from years of use-these "Hilton Honors" rooms really need refurbishing.
+[-0.9955978393554688] Room was highly run down.
+[-0.9950838088989258] When we found our room we discovered that the bathroom hadn't been cleaned and there were dirty towels lying around.
+[-0.9947328567504883] Wall paper peeling off walls in different places, light bulb not replaced in room and carpet stained.
+
+**********
+
+[0.9860987663269043] The staff is friendly.
+Parent: Compliments were given for the cleanliness of the rooms and the friendliness of the staff.
+
+----- Supporting -----
+
+[0.9860987663269043] Staff is very courteous and friendly.
+[0.9756579399108887] The front desk staff was friendly and helpful.
+[0.9748497009277344] The staff was friendly and we appreciated the cookies after a long flight when we were waiting to check inn.
+[0.974583625793457] The hotel staff was friendly and accomodating.
+[0.9732532501220703] Staff are friendly and helpful, the rooms are decent, and it's very close to the airport.
+
+----- Weakening -----
+
+[-0.9966268539428711] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+[-0.9922947883605957] We experienced this poor attitude with a few other staff members within the hotel.
+[-0.9697856903076172] When we were there, there were a bunch of real estate agents who were getting a bit rowdy.
+[-0.8739967346191406] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[-0.8393745422363281] I took a taxi as everyone was trying to cram into the shuttle with no respect for first-come-first-served.
+
+**********
+
+[0.7710895538330078] The hotel shuttle was convenient.
+Parent: The hotel shuttle was also praised for its convenience.
+
+----- Supporting -----
+
+[0.7710895538330078] The hotel has a convenient airport shuttle that picks up guests on level 3 of the airport parking garage at stops #1 and 3.
+[0.6889572143554688] The hotel is conveniently located, just across the street from the airport entrance with a free shuttle that runs every 20 minutes.
+[0.6846742630004883] Shuttle was convenient and would definitely stay here again.
+[0.462158203125] The hotel's extended parking option provides great value.
+[0.44183349609375] The DoubleTree was convenient to the airport, even though we were part of group travel, the DoubleTree had an airport shuttle.
+
+----- Weakening -----
+
+[-0.9494609832763672] It is laid out in wings that make carrying your bags a nightmare, up elevators and down again.
+[-0.944758415222168] Our room was in the farthest section of the hotel, and tedious to get into to, and by the time we got settled it was too much trouble to go out to eat.
+[-0.9364738464355469] But the nightmare wasn't over, then it took three more tries to get a room with a non-rattling heater and sliding doors that sealed and did not let the traffic noise in.
+[-0.9146060943603516] The Hilton is a great hotel, but the Doubletree is purely a nightmare.
+[-0.910888671875] I changed rooms six times before deciding that all the wings were the same with traffic noise, heater noise, and all the hiking and dragging bags from room to room.

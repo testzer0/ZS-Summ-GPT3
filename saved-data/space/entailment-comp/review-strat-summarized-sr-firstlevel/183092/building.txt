@@ -1,0 +1,443 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.7493601526532855
+
+**********
+
+[0.8947982788085938] The building needs to be refurbished.
+Parent: The reviewers thought that the building was in need of refurbishment.
+
+----- Supporting -----
+
+[0.8947982788085938] The lobby of the hotel is currently undergoing renovation (as noted on their website) which made for an unexciting first impression, however the room (1112) was tastefully decorated and fairly spacious for a downtown hotel room.
+[0.8947982788085938] The lobby of the hotel is currently undergoing renovation (as noted on their website) which made for an unexciting first impression, however the room (1112) was tastefully decorated and fairly spacious for a downtown hotel room.
+[0.8406467437744141] Think it's in real need of refurbishment.
+[0.256683349609375] The lobby refurb looked great -- now they just need to tackle some of the older rooms.
+[0.072662353515625] They also really need more than 1 elevator to the parking garage.
+
+----- Weakening -----
+
+[-0.6315078735351562] The lobby was modern with a beautiful fireplace and a good breafast/coffee/drinks bar too.
+[-0.6056900024414062] Modern facility, quiet.
+[-0.28511905670166016] It has a lovely, light lobby filled with professionals who are friendly and helpful!
+[-0.28284263610839844] The lobby was nicely decorated and the staff were nice.
+[-0.28229427337646484] In addition to being spacious, the lobby was decorated in a modern fashion with booth-like check-in desk, complete with a very professional and courteous staff who checked us in promptly.
+
+**********
+
+[0.9583778381347656] The building is being renovated.
+Parent: The building is undergoing renovation, which has made the lobby unimpressive.
+
+----- Supporting -----
+
+[0.9583778381347656] The lobby of the hotel is currently undergoing renovation (as noted on their website) which made for an unexciting first impression, however the room (1112) was tastefully decorated and fairly spacious for a downtown hotel room.
+[0.9583778381347656] The lobby of the hotel is currently undergoing renovation (as noted on their website) which made for an unexciting first impression, however the room (1112) was tastefully decorated and fairly spacious for a downtown hotel room.
+[0.7812213897705078] Think it's in real need of refurbishment.
+[0.4538726806640625] The lobby refurb looked great -- now they just need to tackle some of the older rooms.
+[0.0224151611328125] My only advice is to ask for a room opposite the construction side...
+
+----- Weakening -----
+
+[-0.470916748046875] The only problem (and the reason for my rating of 4 rather than 5) for the entire weekend was that the fire alarm went off around 6:45 on Sunday morning and continued until about 7:15.
+[-0.2773017883300781] While there is a garbage strike going on, the city was still relatively clean and everyone we encountered was friendly and helpful.
+[-0.23647308349609375] Everything was as expected, good check in, great location, nice room, good staff, etc....then about 11:00pm the fire alarms went off.
+[-0.14165496826171875] Kensington Market and the Brewery District were the longest shlepps and those walks might not be for all, but we really enjoyed them and had fun detouring through the nearby neighborhoods.
+[-0.11500930786132812] Suprised a fellow traveller thought the fire alarm was a mark against the hotel!
+
+**********
+
+[0.8559646606445312] The lobby is unimpressive.
+Parent: The building is undergoing renovation, which has made the lobby unimpressive.
+
+----- Supporting -----
+
+[0.8559646606445312] The lobby of the hotel is currently undergoing renovation (as noted on their website) which made for an unexciting first impression, however the room (1112) was tastefully decorated and fairly spacious for a downtown hotel room.
+[0.8559646606445312] The lobby of the hotel is currently undergoing renovation (as noted on their website) which made for an unexciting first impression, however the room (1112) was tastefully decorated and fairly spacious for a downtown hotel room.
+[-0.03570556640625] Think it's in real need of refurbishment.
+[-0.059173583984375] They also really need more than 1 elevator to the parking garage.
+[-0.092315673828125] We also experienced a false fire alarm which was disconcerting as it took quite some time for us to get through to the receptionist to see whether we should proceed down the fire stairs or stay put..
+
+----- Weakening -----
+
+[-0.9963269233703613] Great lobby to hang out in.
+[-0.9952449798583984] The lobby is very appealing and the front desk staff were professional and polite.
+[-0.9943790435791016] It has a lovely, light lobby filled with professionals who are friendly and helpful!
+[-0.9943351745605469] The lobby was nice.
+[-0.9915561676025391] The lobby refurb looked great -- now they just need to tackle some of the older rooms.
+
+**********
+
+[0.8095550537109375] The rooms are spacious.
+Parent: The rooms are spacious and tastefully decorated, but there is only one elevator to the parking garage, which can cause long wait times.
+
+----- Supporting -----
+
+[0.8095550537109375] In addition to being spacious, the lobby was decorated in a modern fashion with booth-like check-in desk, complete with a very professional and courteous staff who checked us in promptly.
+[0.503753662109375] The lobby of the hotel is currently undergoing renovation (as noted on their website) which made for an unexciting first impression, however the room (1112) was tastefully decorated and fairly spacious for a downtown hotel room.
+[0.503753662109375] The lobby of the hotel is currently undergoing renovation (as noted on their website) which made for an unexciting first impression, however the room (1112) was tastefully decorated and fairly spacious for a downtown hotel room.
+[0.4921875] We love the lobby with the huge centered fireplace (OK, no true fire, just gas but still very cozy and close to the bar) and the beds are one of the best we've ever slept in - huge, comfortable, good linen and very clean.
+[0.2265625] The hotel lobby was very spacious, and well furnished with comfy seating for tired travellers to wait while checking-in.
+
+----- Weakening -----
+
+[-0.9496974945068359] One small window that didn't open.
+[-0.5550689697265625] They also really need more than 1 elevator to the parking garage.
+[-0.397552490234375] Kensington Market and the Brewery District were the longest shlepps and those walks might not be for all, but we really enjoyed them and had fun detouring through the nearby neighborhoods.
+[-0.30670166015625] Its a pretty cool thing to be able to walk right into torontos biggest mall in just two minutes.
+[-0.148590087890625] The wait for an elevator to the parking garage was quite long.
+
+**********
+
+[0.9316082000732422] The rooms are decorated tastefully.
+Parent: The rooms are spacious and tastefully decorated, but there is only one elevator to the parking garage, which can cause long wait times.
+
+----- Supporting -----
+
+[0.9316082000732422] The lobby of the hotel is currently undergoing renovation (as noted on their website) which made for an unexciting first impression, however the room (1112) was tastefully decorated and fairly spacious for a downtown hotel room.
+[0.9316082000732422] The lobby of the hotel is currently undergoing renovation (as noted on their website) which made for an unexciting first impression, however the room (1112) was tastefully decorated and fairly spacious for a downtown hotel room.
+[0.8044166564941406] The lobby was nicely decorated and the staff were nice.
+[0.6167449951171875] In addition to being spacious, the lobby was decorated in a modern fashion with booth-like check-in desk, complete with a very professional and courteous staff who checked us in promptly.
+[0.14693450927734375] The lobby was modern with a beautiful fireplace and a good breafast/coffee/drinks bar too.
+
+----- Weakening -----
+
+[-0.3485260009765625] The lobby refurb looked great -- now they just need to tackle some of the older rooms.
+[-0.155853271484375] They also really need more than 1 elevator to the parking garage.
+[-0.13232421875] Had some idiot pull fire alarm at 4 am on Sunday, but was resolved within 30 minutes and not having to evacuate.
+[-0.10480117797851562] While there is a garbage strike going on, the city was still relatively clean and everyone we encountered was friendly and helpful.
+[-0.0988616943359375] The wait for an elevator to the parking garage was quite long.
+
+**********
+
+[-0.03476715087890625] There is only one elevator to the parking garage.
+Parent: The rooms are spacious and tastefully decorated, but there is only one elevator to the parking garage, which can cause long wait times.
+
+----- Supporting -----
+
+[-0.03476715087890625] Modern facility, quiet.
+[-0.05631446838378906] I spent the better part of a week at this property.
+[-0.06653976440429688] The lobby is very appealing and the front desk staff were professional and polite.
+[-0.06944847106933594] The lobby of the hotel is currently undergoing renovation (as noted on their website) which made for an unexciting first impression, however the room (1112) was tastefully decorated and fairly spacious for a downtown hotel room.
+[-0.06944847106933594] The lobby of the hotel is currently undergoing renovation (as noted on their website) which made for an unexciting first impression, however the room (1112) was tastefully decorated and fairly spacious for a downtown hotel room.
+
+----- Weakening -----
+
+[-0.7259445190429688] One small window that didn't open.
+[-0.6918220520019531] Of course, when you arrive at the mall, you're in the ladies lingerie dept.
+[-0.634307861328125] Only downside was at 2am someone decided to light a cigarette in a stairwell and set off the smoke alarm causing all of the hotel guests to be evacuated.
+[-0.5714874267578125] Kensington Market and the Brewery District were the longest shlepps and those walks might not be for all, but we really enjoyed them and had fun detouring through the nearby neighborhoods.
+[-0.53582763671875] Sadly, we missed the reopening of the Art Gallery of Ontario by a week, but that's definitely within walking distance of the hotel.
+
+**********
+
+[0.6131706237792969] The wait times can be long.
+Parent: The rooms are spacious and tastefully decorated, but there is only one elevator to the parking garage, which can cause long wait times.
+
+----- Supporting -----
+
+[0.6131706237792969] The wait for an elevator to the parking garage was quite long.
+[0.23647689819335938] We also experienced a false fire alarm which was disconcerting as it took quite some time for us to get through to the receptionist to see whether we should proceed down the fire stairs or stay put..
+[0.22240447998046875] The only problem (and the reason for my rating of 4 rather than 5) for the entire weekend was that the fire alarm went off around 6:45 on Sunday morning and continued until about 7:15.
+[0.1891937255859375] Kensington Market and the Brewery District were the longest shlepps and those walks might not be for all, but we really enjoyed them and had fun detouring through the nearby neighborhoods.
+[0.0356903076171875] Six times the doors opened and closed packed to the gills.
+
+----- Weakening -----
+
+[-0.8758125305175781] Its a pretty cool thing to be able to walk right into torontos biggest mall in just two minutes.
+[-0.7261180877685547] Fire alarm at 5.20am and evacuation was well handled although muddled about the return to the rooms - no problems with that becuase the staff made sure you were out of the hotel and the Toronto Fire Brigade were there in an instant!
+[-0.5618057250976562] In addition to being spacious, the lobby was decorated in a modern fashion with booth-like check-in desk, complete with a very professional and courteous staff who checked us in promptly.
+[-0.3741302490234375] Had some idiot pull fire alarm at 4 am on Sunday, but was resolved within 30 minutes and not having to evacuate.
+[-0.24292564392089844] From the moment we walked in the door we felt welcomed and comfortable.
+
+**********
+
+[0.5453872680664062] The fire alarms have been going off falsely.
+Parent: There have also been false fire alarms, which are disconcerting.
+
+----- Supporting -----
+
+[0.5453872680664062] We also experienced a false fire alarm which was disconcerting as it took quite some time for us to get through to the receptionist to see whether we should proceed down the fire stairs or stay put..
+[0.045166015625] Had some idiot pull fire alarm at 4 am on Sunday, but was resolved within 30 minutes and not having to evacuate.
+[0.02276611328125] Suprised a fellow traveller thought the fire alarm was a mark against the hotel!
+[-0.0188751220703125] We love the lobby with the huge centered fireplace (OK, no true fire, just gas but still very cozy and close to the bar) and the beds are one of the best we've ever slept in - huge, comfortable, good linen and very clean.
+[-0.038848876953125] My only advice is to ask for a room opposite the construction side...
+
+----- Weakening -----
+
+[-0.831329345703125] It has a lovely, light lobby filled with professionals who are friendly and helpful!
+[-0.6669559478759766] The lobby is very appealing and the front desk staff were professional and polite.
+[-0.6434593200683594] The lobby was nicely decorated and the staff were nice.
+[-0.5789031982421875] The lobby was modern with a beautiful fireplace and a good breafast/coffee/drinks bar too.
+[-0.53662109375] Only downside was at 2am someone decided to light a cigarette in a stairwell and set off the smoke alarm causing all of the hotel guests to be evacuated.
+
+**********
+
+[0.2560844421386719] False fire alarms are bad.
+Parent: There have also been false fire alarms, which are disconcerting.
+
+----- Supporting -----
+
+[0.2560844421386719] We also experienced a false fire alarm which was disconcerting as it took quite some time for us to get through to the receptionist to see whether we should proceed down the fire stairs or stay put..
+[0.03741455078125] Only downside was at 2am someone decided to light a cigarette in a stairwell and set off the smoke alarm causing all of the hotel guests to be evacuated.
+[0.02429962158203125] We love the lobby with the huge centered fireplace (OK, no true fire, just gas but still very cozy and close to the bar) and the beds are one of the best we've ever slept in - huge, comfortable, good linen and very clean.
+[0.0111541748046875] Suprised a fellow traveller thought the fire alarm was a mark against the hotel!
+[0.0095977783203125] Had some idiot pull fire alarm at 4 am on Sunday, but was resolved within 30 minutes and not having to evacuate.
+
+----- Weakening -----
+
+[-0.57562255859375] Its a pretty cool thing to be able to walk right into torontos biggest mall in just two minutes.
+[-0.5728759765625] Great lobby to hang out in.
+[-0.425140380859375] It has a lovely, light lobby filled with professionals who are friendly and helpful!
+[-0.41455078125] The lobby was nicely decorated and the staff were nice.
+[-0.35888671875] Of course, when you arrive at the mall, you're in the ladies lingerie dept.
+
+**********
+
+[0.6282920837402344] The hotel is modern.
+Parent: Overall, reviewers thought the hotel was modern, clean, and conveniently located.
+
+----- Supporting -----
+
+[0.6282920837402344] In addition to being spacious, the lobby was decorated in a modern fashion with booth-like check-in desk, complete with a very professional and courteous staff who checked us in promptly.
+[0.3823966979980469] The lobby was modern with a beautiful fireplace and a good breafast/coffee/drinks bar too.
+[0.1330718994140625] It has a lovely, light lobby filled with professionals who are friendly and helpful!
+[0.12969970703125] The lobby of the hotel is currently undergoing renovation (as noted on their website) which made for an unexciting first impression, however the room (1112) was tastefully decorated and fairly spacious for a downtown hotel room.
+[0.12969970703125] The lobby of the hotel is currently undergoing renovation (as noted on their website) which made for an unexciting first impression, however the room (1112) was tastefully decorated and fairly spacious for a downtown hotel room.
+
+----- Weakening -----
+
+[-0.6802444458007812] Think it's in real need of refurbishment.
+[-0.389556884765625] Of course, when you arrive at the mall, you're in the ladies lingerie dept.
+[-0.2216796875] The lobby refurb looked great -- now they just need to tackle some of the older rooms.
+[-0.1243743896484375] They also really need more than 1 elevator to the parking garage.
+[-0.09857177734375] The only problem (and the reason for my rating of 4 rather than 5) for the entire weekend was that the fire alarm went off around 6:45 on Sunday morning and continued until about 7:15.
+
+**********
+
+[0.6025238037109375] The hotel is clean.
+Parent: Overall, reviewers thought the hotel was modern, clean, and conveniently located.
+
+----- Supporting -----
+
+[0.6025238037109375] We love the lobby with the huge centered fireplace (OK, no true fire, just gas but still very cozy and close to the bar) and the beds are one of the best we've ever slept in - huge, comfortable, good linen and very clean.
+[0.344085693359375] Bonus, no need to go out with a coat since the Marriott has indoor access to the Eaton Center...Shoppers Heaven for sure!!!
+[0.0402984619140625] The lobby was nicely decorated and the staff were nice.
+[0.03785133361816406] The lobby is very appealing and the front desk staff were professional and polite.
+[0.02105712890625] It has a lovely, light lobby filled with professionals who are friendly and helpful!
+
+----- Weakening -----
+
+[-0.9387931823730469] Think it's in real need of refurbishment.
+[-0.9346923828125] Only downside was at 2am someone decided to light a cigarette in a stairwell and set off the smoke alarm causing all of the hotel guests to be evacuated.
+[-0.9344863891601562] The only problem (and the reason for my rating of 4 rather than 5) for the entire weekend was that the fire alarm went off around 6:45 on Sunday morning and continued until about 7:15.
+[-0.8861579895019531] We also experienced a false fire alarm which was disconcerting as it took quite some time for us to get through to the receptionist to see whether we should proceed down the fire stairs or stay put..
+[-0.615509033203125] Suprised a fellow traveller thought the fire alarm was a mark against the hotel!
+
+**********
+
+[0.33037567138671875] The hotel is conveniently located.
+Parent: Overall, reviewers thought the hotel was modern, clean, and conveniently located.
+
+----- Supporting -----
+
+[0.33037567138671875] Everything was as expected, good check in, great location, nice room, good staff, etc....then about 11:00pm the fire alarms went off.
+[0.31740379333496094] The mall can be accessed through the hotel without going outside.
+[0.2402191162109375] Bonus, no need to go out with a coat since the Marriott has indoor access to the Eaton Center...Shoppers Heaven for sure!!!
+[0.15373611450195312] Sadly, we missed the reopening of the Art Gallery of Ontario by a week, but that's definitely within walking distance of the hotel.
+[0.06691551208496094] In the lobby there is a lounge area surrounding a free standing fireplace that is enjoyable to sit around and chat.
+
+----- Weakening -----
+
+[-0.7986526489257812] The wait for an elevator to the parking garage was quite long.
+[-0.42209625244140625] We also experienced a false fire alarm which was disconcerting as it took quite some time for us to get through to the receptionist to see whether we should proceed down the fire stairs or stay put..
+[-0.3939208984375] Under that mall is the subway station, so you can actually get on the subway without ever going outside.
+[-0.337890625] We were working on an important project.
+[-0.27215576171875] Of course, when you arrive at the mall, you're in the ladies lingerie dept.
+
+**********
+
+[0.6739349365234375] The fire alarm went off during some reviewers' stays.
+Parent: Some reviewers mentioned that the fire alarm went off during their stay, but others said that the staff handled the situation well.
+
+----- Supporting -----
+
+[0.6739349365234375] We also experienced a false fire alarm which was disconcerting as it took quite some time for us to get through to the receptionist to see whether we should proceed down the fire stairs or stay put..
+[0.6615219116210938] Suprised a fellow traveller thought the fire alarm was a mark against the hotel!
+[0.35053253173828125] Everything was as expected, good check in, great location, nice room, good staff, etc....then about 11:00pm the fire alarms went off.
+[0.2079315185546875] The only problem (and the reason for my rating of 4 rather than 5) for the entire weekend was that the fire alarm went off around 6:45 on Sunday morning and continued until about 7:15.
+[0.20632171630859375] Fire alarm at 5.20am and evacuation was well handled although muddled about the return to the rooms - no problems with that becuase the staff made sure you were out of the hotel and the Toronto Fire Brigade were there in an instant!
+
+----- Weakening -----
+
+[-0.4232616424560547] From the moment we walked in the door we felt welcomed and comfortable.
+[-0.4232177734375] Only downside was at 2am someone decided to light a cigarette in a stairwell and set off the smoke alarm causing all of the hotel guests to be evacuated.
+[-0.2828102111816406] While there is a garbage strike going on, the city was still relatively clean and everyone we encountered was friendly and helpful.
+[-0.2692432403564453] Modern facility, quiet.
+[-0.1945343017578125] It has a lovely, light lobby filled with professionals who are friendly and helpful!
+
+**********
+
+[0.9198360443115234] The staff handled the situation well.
+Parent: Some reviewers mentioned that the fire alarm went off during their stay, but others said that the staff handled the situation well.
+
+----- Supporting -----
+
+[0.9198360443115234] Fire alarm at 5.20am and evacuation was well handled although muddled about the return to the rooms - no problems with that becuase the staff made sure you were out of the hotel and the Toronto Fire Brigade were there in an instant!
+[0.6766471862792969] In addition to being spacious, the lobby was decorated in a modern fashion with booth-like check-in desk, complete with a very professional and courteous staff who checked us in promptly.
+[0.5731048583984375] The lobby is very appealing and the front desk staff were professional and polite.
+[0.41054439544677734] The lobby was nicely decorated and the staff were nice.
+[0.13937950134277344] While there is a garbage strike going on, the city was still relatively clean and everyone we encountered was friendly and helpful.
+
+----- Weakening -----
+
+[-0.21269989013671875] We also experienced a false fire alarm which was disconcerting as it took quite some time for us to get through to the receptionist to see whether we should proceed down the fire stairs or stay put..
+[-0.09763908386230469] Think it's in real need of refurbishment.
+[-0.07830047607421875] My only advice is to ask for a room opposite the construction side...
+[-0.055965423583984375] Only downside was at 2am someone decided to light a cigarette in a stairwell and set off the smoke alarm causing all of the hotel guests to be evacuated.
+[-0.05448341369628906] Suprised a fellow traveller thought the fire alarm was a mark against the hotel!
+
+**********
+
+[0.9872684478759766] The lobby is appealing.
+Parent: The lobby is appealing and the staff is professional and courteous.
+
+----- Supporting -----
+
+[0.9872684478759766] The lobby is very appealing and the front desk staff were professional and polite.
+[0.8760347366333008] The lobby was nice.
+[0.8168907165527344] We love the lobby with the huge centered fireplace (OK, no true fire, just gas but still very cozy and close to the bar) and the beds are one of the best we've ever slept in - huge, comfortable, good linen and very clean.
+[0.7104625701904297] Great lobby to hang out in.
+[0.6739883422851562] The lobby refurb looked great -- now they just need to tackle some of the older rooms.
+
+----- Weakening -----
+
+[-0.9703712463378906] The lobby of the hotel is currently undergoing renovation (as noted on their website) which made for an unexciting first impression, however the room (1112) was tastefully decorated and fairly spacious for a downtown hotel room.
+[-0.9703712463378906] The lobby of the hotel is currently undergoing renovation (as noted on their website) which made for an unexciting first impression, however the room (1112) was tastefully decorated and fairly spacious for a downtown hotel room.
+[-0.1298065185546875] They also really need more than 1 elevator to the parking garage.
+[-0.09039688110351562] Think it's in real need of refurbishment.
+[-0.089141845703125] Only downside was at 2am someone decided to light a cigarette in a stairwell and set off the smoke alarm causing all of the hotel guests to be evacuated.
+
+**********
+
+[0.9802727699279785] The staff is professional and courteous.
+Parent: The lobby is appealing and the staff is professional and courteous.
+
+----- Supporting -----
+
+[0.9802727699279785] The lobby is very appealing and the front desk staff were professional and polite.
+[0.9565401077270508] In addition to being spacious, the lobby was decorated in a modern fashion with booth-like check-in desk, complete with a very professional and courteous staff who checked us in promptly.
+[0.8224563598632812] It has a lovely, light lobby filled with professionals who are friendly and helpful!
+[0.4092731475830078] The lobby was nicely decorated and the staff were nice.
+[0.1951446533203125] While there is a garbage strike going on, the city was still relatively clean and everyone we encountered was friendly and helpful.
+
+----- Weakening -----
+
+[-0.6816024780273438] We also experienced a false fire alarm which was disconcerting as it took quite some time for us to get through to the receptionist to see whether we should proceed down the fire stairs or stay put..
+[-0.5777511596679688] Only downside was at 2am someone decided to light a cigarette in a stairwell and set off the smoke alarm causing all of the hotel guests to be evacuated.
+[-0.4478912353515625] The only problem (and the reason for my rating of 4 rather than 5) for the entire weekend was that the fire alarm went off around 6:45 on Sunday morning and continued until about 7:15.
+[-0.35228729248046875] One guest's inconsiderate action should not reflect upon the property.
+[-0.3205547332763672] Wanted to have a nice weekend before school, very expensive, again do not know how people manage in Toronto, perhaps they do not given the numerous homeless my daughter (age 6) began to identify.
+
+**********
+
+[0.9435386657714844] The staff are courteous.
+Parent: The lobby is appealing and the staff is professional and courteous.
+
+----- Supporting -----
+
+[0.9435386657714844] The lobby is very appealing and the front desk staff were professional and polite.
+[0.9261970520019531] In addition to being spacious, the lobby was decorated in a modern fashion with booth-like check-in desk, complete with a very professional and courteous staff who checked us in promptly.
+[0.7352638244628906] The lobby was nicely decorated and the staff were nice.
+[0.5435829162597656] It has a lovely, light lobby filled with professionals who are friendly and helpful!
+[0.35675048828125] Everything was as expected, good check in, great location, nice room, good staff, etc....then about 11:00pm the fire alarms went off.
+
+----- Weakening -----
+
+[-0.4748497009277344] We also experienced a false fire alarm which was disconcerting as it took quite some time for us to get through to the receptionist to see whether we should proceed down the fire stairs or stay put..
+[-0.4022064208984375] Only downside was at 2am someone decided to light a cigarette in a stairwell and set off the smoke alarm causing all of the hotel guests to be evacuated.
+[-0.4019775390625] The only problem (and the reason for my rating of 4 rather than 5) for the entire weekend was that the fire alarm went off around 6:45 on Sunday morning and continued until about 7:15.
+[-0.28284454345703125] One guest's inconsiderate action should not reflect upon the property.
+[-0.14369583129882812] Wanted to have a nice weekend before school, very expensive, again do not know how people manage in Toronto, perhaps they do not given the numerous homeless my daughter (age 6) began to identify.
+
+**********
+
+[0.9791045188903809] The lobby is spacious.
+Parent: There is a lot of space in the lobby and it is decorated in a modern fashion.
+
+----- Supporting -----
+
+[0.9791045188903809] In addition to being spacious, the lobby was decorated in a modern fashion with booth-like check-in desk, complete with a very professional and courteous staff who checked us in promptly.
+[0.9654073715209961] The hotel lobby was very spacious, and well furnished with comfy seating for tired travellers to wait while checking-in.
+[0.7953567504882812] The lobby of the hotel is currently undergoing renovation (as noted on their website) which made for an unexciting first impression, however the room (1112) was tastefully decorated and fairly spacious for a downtown hotel room.
+[0.7953567504882812] The lobby of the hotel is currently undergoing renovation (as noted on their website) which made for an unexciting first impression, however the room (1112) was tastefully decorated and fairly spacious for a downtown hotel room.
+[0.3946075439453125] We love the lobby with the huge centered fireplace (OK, no true fire, just gas but still very cozy and close to the bar) and the beds are one of the best we've ever slept in - huge, comfortable, good linen and very clean.
+
+----- Weakening -----
+
+[-0.9212741851806641] One small window that didn't open.
+[-0.533660888671875] The wait for an elevator to the parking garage was quite long.
+[-0.40875244140625] They also really need more than 1 elevator to the parking garage.
+[-0.289703369140625] Kensington Market and the Brewery District were the longest shlepps and those walks might not be for all, but we really enjoyed them and had fun detouring through the nearby neighborhoods.
+[-0.2369384765625] Only downside was at 2am someone decided to light a cigarette in a stairwell and set off the smoke alarm causing all of the hotel guests to be evacuated.
+
+**********
+
+[0.9925704002380371] The lobby is decorated in a modern fashion.
+Parent: There is a lot of space in the lobby and it is decorated in a modern fashion.
+
+----- Supporting -----
+
+[0.9925704002380371] In addition to being spacious, the lobby was decorated in a modern fashion with booth-like check-in desk, complete with a very professional and courteous staff who checked us in promptly.
+[0.90985107421875] The lobby was modern with a beautiful fireplace and a good breafast/coffee/drinks bar too.
+[0.436859130859375] The lobby of the hotel is currently undergoing renovation (as noted on their website) which made for an unexciting first impression, however the room (1112) was tastefully decorated and fairly spacious for a downtown hotel room.
+[0.436859130859375] The lobby of the hotel is currently undergoing renovation (as noted on their website) which made for an unexciting first impression, however the room (1112) was tastefully decorated and fairly spacious for a downtown hotel room.
+[0.19500732421875] The lobby refurb looked great -- now they just need to tackle some of the older rooms.
+
+----- Weakening -----
+
+[-0.2191314697265625] The only problem (and the reason for my rating of 4 rather than 5) for the entire weekend was that the fire alarm went off around 6:45 on Sunday morning and continued until about 7:15.
+[-0.17575836181640625] Of course, when you arrive at the mall, you're in the ladies lingerie dept.
+[-0.15583038330078125] Had some idiot pull fire alarm at 4 am on Sunday, but was resolved within 30 minutes and not having to evacuate.
+[-0.14218521118164062] Think it's in real need of refurbishment.
+[-0.07611083984375] and said that I really needed to do some work on my computer and I asked whether they could not speed up the repair on the line.
+
+**********
+
+[0.8770065307617188] The hotel is near the Eaton Center.
+Parent: The hotel has indoor access to the Eaton Center.
+
+----- Supporting -----
+
+[0.8770065307617188] Bonus, no need to go out with a coat since the Marriott has indoor access to the Eaton Center...Shoppers Heaven for sure!!!
+[0.119873046875] It is connected to the Eaton Centre and there is a subway station there.
+[0.00017547607421875] Everything was as expected, good check in, great location, nice room, good staff, etc....then about 11:00pm the fire alarms went off.
+[-0.0005245208740234375] Wanted to have a nice weekend before school, very expensive, again do not know how people manage in Toronto, perhaps they do not given the numerous homeless my daughter (age 6) began to identify.
+[-0.00064849853515625] I spent the better part of a week at this property.
+
+----- Weakening -----
+
+[-0.8855094909667969] The subway is about a block away in the basement of the mall.
+[-0.8054351806640625] Sadly, we missed the reopening of the Art Gallery of Ontario by a week, but that's definitely within walking distance of the hotel.
+[-0.7855758666992188] Under that mall is the subway station, so you can actually get on the subway without ever going outside.
+[-0.7245330810546875] The mall can be accessed through the hotel without going outside.
+[-0.4082489013671875] Of course, when you arrive at the mall, you're in the ladies lingerie dept.
+
+**********
+
+[0.9916601181030273] The hotel has indoor access to the Eaton Center.
+Parent: The hotel has indoor access to the Eaton Center.
+
+----- Supporting -----
+
+[0.9916601181030273] Bonus, no need to go out with a coat since the Marriott has indoor access to the Eaton Center...Shoppers Heaven for sure!!!
+[0.00408935546875] Six times the doors opened and closed packed to the gills.
+[-0.000225067138671875] I spent the better part of a week at this property.
+[-0.005619049072265625] Think it's in real need of refurbishment.
+[-0.005664825439453125] Wanted to have a nice weekend before school, very expensive, again do not know how people manage in Toronto, perhaps they do not given the numerous homeless my daughter (age 6) began to identify.
+
+----- Weakening -----
+
+[-0.807342529296875] The wait for an elevator to the parking garage was quite long.
+[-0.7992172241210938] Under that mall is the subway station, so you can actually get on the subway without ever going outside.
+[-0.7689361572265625] The mall can be accessed through the hotel without going outside.
+[-0.59429931640625] They also really need more than 1 elevator to the parking garage.
+[-0.46295166015625] Its a pretty cool thing to be able to walk right into torontos biggest mall in just two minutes.

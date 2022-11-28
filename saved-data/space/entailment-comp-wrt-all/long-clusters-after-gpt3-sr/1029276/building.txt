@@ -1,0 +1,170 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.707868754863739
+
+**********
+
+[0.9829516410827637] The hotel is currently under construction.
+Parent: The hotel is undergoing construction and renovation, which can be disruptive and inconvenient for guests.
+
+----- Supporting -----
+
+[0.9829516410827637] The ongoing construction and the strange location of the lobby doesn't give you the feeling that you're in a 4star hotel.
+[0.8477706909179688] Construction was happening on the exterior of the hotel.
+[0.6791229248046875] VALET: I must say the only friendly people at this hotel were the actually valet driversâ€¦those in the Valet booth were extremely rude and will forget to give your keys to a driver to get your car (happened to several guests) RENOVATIONS: Drilling started at 7am right outside our window.
+[0.5509738922119141] Our room had a balcony that we couldn't use because of all the construction going on.
+[0.49913787841796875] Due to on-site construction, elevator service was horrible.
+
+----- Weakening -----
+
+[-0.9353885650634766] This is an older hotel but seems to have been renovated fairly recently.
+[-0.9026031494140625] Conference setup is typical but decent.
+[-0.8908176422119141] The banquet food was fabulous and themed menus were creative and well presented.
+[-0.8887405395507812] The renovations that I have been reading about appear to be just about complete.
+[-0.8820667266845703] The rooms are pretty new or renovated recently .
+
+**********
+
+[0.8731575012207031] The hotel is being renovated.
+Parent: The hotel is undergoing construction and renovation, which can be disruptive and inconvenient for guests.
+
+----- Supporting -----
+
+[0.8731575012207031] VALET: I must say the only friendly people at this hotel were the actually valet driversâ€¦those in the Valet booth were extremely rude and will forget to give your keys to a driver to get your car (happened to several guests) RENOVATIONS: Drilling started at 7am right outside our window.
+[0.6166763305664062] The hotel is old and needs some updating in several areas.
+[0.5579376220703125] The hotel seemed renovated and it was clean and beautiful.
+[0.3456382751464844] The ongoing construction and the strange location of the lobby doesn't give you the feeling that you're in a 4star hotel.
+[0.3262939453125] Hotel could do with a refurbishment.
+
+----- Weakening -----
+
+[-0.7386627197265625] Too many hobos and drug addicts!!!
+[-0.7268161773681641] Conference setup is typical but decent.
+[-0.6437568664550781] Really abusive.
+[-0.5729579925537109] They just said they ran out.
+[-0.56646728515625] I was on a weeklong business trip and attended a training program.
+
+**********
+
+[0.26265716552734375] Construction and renovation can be disruptive.
+Parent: The hotel is undergoing construction and renovation, which can be disruptive and inconvenient for guests.
+
+----- Supporting -----
+
+[0.26265716552734375] The renovations were the least of our worries.
+[0.2582893371582031] VALET: I must say the only friendly people at this hotel were the actually valet driversâ€¦those in the Valet booth were extremely rude and will forget to give your keys to a driver to get your car (happened to several guests) RENOVATIONS: Drilling started at 7am right outside our window.
+[0.25768280029296875] Also lots of construction on the streets make sure you plan to leave a bit early especially on the weekend.
+[0.24773025512695312] Cons: hotel loud, construction going on outside, Internet is not free.
+[0.19071388244628906] We were near the lifts and they were noisy all night.
+
+----- Weakening -----
+
+[-0.2484130859375] They do nothing but assist in the situation.
+[-0.1964111328125] The hotel is very convenient to Enterprise Rental car and very easy to get to the airport and to the South Beach areas for business and fun.
+[-0.181640625] Check in was quick and our bags were brought to the room in a timely manner.
+[-0.16656494140625] $28 in this economy??
+[-0.1503143310546875] Checkout was quick.
+
+**********
+
+[0.3829917907714844] Construction and renovation can be inconvenient.
+Parent: The hotel is undergoing construction and renovation, which can be disruptive and inconvenient for guests.
+
+----- Supporting -----
+
+[0.3829917907714844] The renovations were the least of our worries.
+[0.24796485900878906] Also lots of construction on the streets make sure you plan to leave a bit early especially on the weekend.
+[0.221710205078125] Cons: hotel loud, construction going on outside, Internet is not free.
+[0.2206878662109375] VALET: I must say the only friendly people at this hotel were the actually valet driversâ€¦those in the Valet booth were extremely rude and will forget to give your keys to a driver to get your car (happened to several guests) RENOVATIONS: Drilling started at 7am right outside our window.
+[0.16997146606445312] 2 sets of elevators and 2nd floor lobby layout is confusing at first.
+
+----- Weakening -----
+
+[-0.177520751953125] Working with Domingo in sales was the best part about this.
+[-0.165069580078125] Thank you all for making our stay unique!!!
+[-0.1417236328125] Get out and see the beach and the nitelife!!!!
+[-0.12786865234375] All you need to do is hop on the bus or metromover which is almost outside the door!
+[-0.0906982421875] Nothing to complain.
+
+**********
+
+[0.7114410400390625] The lobby is in an inconvenient location.
+Parent: The lobby is in a strange location and is not very inviting.
+
+----- Supporting -----
+
+[0.7114410400390625] The ongoing construction and the strange location of the lobby doesn't give you the feeling that you're in a 4star hotel.
+[0.6744613647460938] The main lobby was not actually on the second floor - confusing.
+[0.352203369140625] The hotel is not convenient to anything or anyplace.
+[0.2939453125] When we finally got to the lobby (because it's a little bit tricky) it was full of people checking in, but everything ran just perfect thanks to the professionalism and friendly attitude of the front desk agents.
+[0.2857818603515625] 2 sets of elevators and 2nd floor lobby layout is confusing at first.
+
+----- Weakening -----
+
+[-0.9918017387390137] It is in downtown Miami, so it makes sales calls very convenient for me.
+[-0.9875192642211914] The staff were friendly and helpful, and the lobby and bars downstairs were very relaxing and we did spend alot of time there.
+[-0.9754281044006348] Beautiful lobby!
+[-0.9736504554748535] The location was good, very close to the Bayside area and just a $15 ride to Lincoln Rd/South Beach.
+[-0.9712076187133789] Location was great 200 yds from Omni station for free Metro Mover + local bus station ($2 one way anywhere on route).
+
+**********
+
+[0.5173797607421875] The lobby is not inviting.
+Parent: The lobby is in a strange location and is not very inviting.
+
+----- Supporting -----
+
+[0.5173797607421875] The ongoing construction and the strange location of the lobby doesn't give you the feeling that you're in a 4star hotel.
+[0.29632568359375] When we arrived for a one night stay, (we were catching a cruise ship the next morning) the one bell hop at the entrance did not greet us, or offer to help, or open a door.
+[0.23166656494140625] Room was small and boring.
+[0.2251129150390625] Not the best area at night TV cable kept going out Conference rooms are cold Charge for WiFi unless you have an existing account like AT&T Overall very disappointed for a Hilton...the hotel seemed more like a hotel going out of business.
+[0.223846435546875] But the lobby is on the 7th floor, and the signage to direct guests was lacking.
+
+----- Weakening -----
+
+[-0.9885129928588867] The room was very spacious and nicely put together.
+[-0.9867782592773438] Room was great, very large corner room, nice flat panel TV, fridge, the 2 outer walls were basically floor to ceiling windows with amazing views.
+[-0.9844608306884766] I found the hotel staff to be very welcoming and accommodating.
+[-0.9843511581420898] They Aim to please and have true hospitality -
+[-0.9840049743652344] Beautiful lobby!
+
+**********
+
+[0.9661731719970703] The elevators are slow.
+Parent: The elevators can be slow and noisy.
+
+----- Supporting -----
+
+[0.9661731719970703] Because you will complain that the elevators are slow....that the elevators are warm....It will always be something and frankly you would complain if you were given the room for free.
+[0.9510841369628906] Of course the downside was that the elevators were slow, depending on what time of the day it was ..but the way people complain on here, you would think it was the end of the world.
+[0.2831268310546875] The elevator can take 20-30 minutes to get to your floor and is often filled with people and luggage.
+[0.1982421875] Really have never been through a slower check in - problem was that I was behind about 25 foreign tourists, which is what appears to make up the majority of this hotel's clientel.
+[0.0811767578125] You almost fall off of the toilet trying to get it.
+
+----- Weakening -----
+
+[-0.97918701171875] I was skeptical of the quality because of the great rates.
+[-0.95556640625] We were near the lifts and they were noisy all night.
+[-0.831634521484375] The elevator dinged all night long keeping up the entire family.
+[-0.8144969940185547] We did valid parking (max 28 dollar a day), no problem checking in and out, they are fast.
+[-0.79998779296875] Heating quite noisy.
+
+**********
+
+[0.9661979675292969] The elevators were noisy.
+Parent: The elevators can be slow and noisy.
+
+----- Supporting -----
+
+[0.9661979675292969] The elevator dinged all night long keeping up the entire family.
+[0.9289321899414062] We were near the lifts and they were noisy all night.
+[0.8987884521484375] I was 5 rooms away from the elevator and the noise in the hall of just the elevator was annoying.
+[0.6817512512207031] A huge group of teenagers were staying in the hotel, and kids were all over the place until late at night...flooding the lobby, elevators, and public space.
+[0.13043212890625] The elevator can take 20-30 minutes to get to your floor and is often filled with people and luggage.
+
+----- Weakening -----
+
+[-0.9575510025024414] It tool almost 30 min to make some food an no one else was there other than the homeless people that kept asking to get their cup refilled for them.
+[-0.8767166137695312] Because you will complain that the elevators are slow....that the elevators are warm....It will always be something and frankly you would complain if you were given the room for free.
+[-0.8374862670898438] The room was large, clean and quiet.
+[-0.8333301544189453] When I got downstairs to the motor lobby there was no one at the transportation office.
+[-0.8288993835449219] We got there on Thursday night and didn't have to stand in any lines to check in.

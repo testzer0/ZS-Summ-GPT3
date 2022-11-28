@@ -1,0 +1,65 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.6751797993977865
+
+**********
+
+[0.4843940734863281] The hotel was clean.
+Parent: The reviewers said that the hotel was clean and that the beds were comfortable.
+
+----- Supporting -----
+
+[0.4843940734863281] Housekeeping was adequate.
+[0.3813619613647461] Check in process was very pleasant, room was nice and CLEAN!!
+[0.19780349731445312] I asked her if the hotel was clean and she assured me it was.
+[0.13439559936523438] The beds were fine, and the decor was very nice.
+[0.045562744140625] The bedding was very nice (large throw pillows and upscale comforters).
+
+----- Weakening -----
+
+[-0.9951152801513672] Bedspreads were messed up when we arrived.
+[-0.9937238693237305] The hotel had a very musty smell as soon as you entered.
+[-0.9927425384521484] The hotel just did not seem clean at all.
+[-0.9911022186279297] Management should really address the musty smell of the hotel.
+[-0.9906520843505859] The sheet on one of the beds had copper colored stains near the top and the pillows were stained really bad.
+
+**********
+
+[0.5868263244628906] The beds were comfortable.
+Parent: The reviewers said that the hotel was clean and that the beds were comfortable.
+
+----- Supporting -----
+
+[0.5868263244628906] The bedding was very nice (large throw pillows and upscale comforters).
+[0.49205970764160156] The beds were fine, and the decor was very nice.
+[0.0204010009765625] The kids loved this and so do we as we can use these after shows or before we start our day.
+[0.0164794921875] Housekeeping was adequate.
+[0.011559486389160156] We went there for a timeshare thing and we ended up really loving it there and have had our grown kids/grandkids stay there, as well.
+
+----- Weakening -----
+
+[-0.9681968688964844] The bedding felt nasty and we found hair.
+[-0.9525070190429688] The blanket on the bed looked to be about 20 years old and pilling and I didn't feel comfortable using it.
+[-0.8744392395019531] Bedspreads were messed up when we arrived.
+[-0.737548828125] It was kinda moldy around the bathtub.
+[-0.6659698486328125] My back was killing me from all of the walking and moving our stuff and I wanted to heat up my microwave heating pad, I had to walk down to the front desk, they unlocked a banquet room, the only microwave was in there.
+
+**********
+
+[0.9543190002441406] The wash was not clean.
+Parent: They also said that the wash
+
+----- Supporting -----
+
+[0.9543190002441406] The hotel just did not seem clean at all.
+[0.8554916381835938] The bedding felt nasty and we found hair.
+[0.8519496917724609] The carpet was old and the building had a musty smell to it.
+[0.8396224975585938] The blanket on the bed looked to be about 20 years old and pilling and I didn't feel comfortable using it.
+[0.8059921264648438] Bedspreads were messed up when we arrived.
+
+----- Weakening -----
+
+[-0.9142322540283203] Everything was clean and worked properly.
+[-0.8785247802734375] Check in process was very pleasant, room was nice and CLEAN!!
+[-0.6129074096679688] Check in was great.
+[-0.5964584350585938] Housekeeping was adequate.
+[-0.531982421875] Can't thank Rachael enough for all her help in making our family reunion one of best we have had.

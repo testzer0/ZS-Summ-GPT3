@@ -1,0 +1,128 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.8227926890055338
+
+**********
+
+[0.2047119140625] The building is located in an unknown city.
+Parent: The building is located in a city that is unknown to many people, has an elevator that often gets stuck, and is not well-maintained.
+
+----- Supporting -----
+
+[0.2047119140625] We were lost in a city we HAD never been in for 10 mintues during the night.
+[0.0] All
+[0.0] Be warned.
+[0.0] Stan.
+[0.0] Good luck!
+
+----- Weakening -----
+
+[-0.9939470291137695] The Hotel is located fairly close to the centre of Toronto.
+[-0.9814977645874023] My company recently booked a training session at the Primrose Hotel in Toronto.
+[-0.9809446334838867] After much searching for a decent hotel at a cheap rate in downtown Toronto, we finally settled on the Primrose Hotel.
+[-0.9806613922119141] The only thing I might mention is the fact that the hotel seems to be located right in the midst of a very prominent gay section of Toronto, and for 7 straight males, some of whom are not particularly tolerant, this could potentially have been problematic.
+[-0.9780101776123047] the concierge had little knowlege of the restaurants which should be a big part of his job but we made out ok. there are so many wonderful restaurants in toronto including a Korean Grill we went to where you bbq your own meat/fish.
+
+**********
+
+[0.8803138732910156] The elevator often gets stuck.
+Parent: The building is located in a city that is unknown to many people, has an elevator that often gets stuck, and is not well-maintained.
+
+----- Supporting -----
+
+[0.8803138732910156] You might also get stuck in the elevator, though the manager said that it happens all the time.
+[0.12258338928222656] On the way up to my room - I got stuck in an elevator.
+[0.07877349853515625] The biggest disappointments were: -Elevators (being "updated", bumpy ride, not reliable-ended up on a floor we didn't know we could access!)
+[0.06835174560546875] The elevators took forever!
+[0.0664520263671875] When I complained about the elevators and wireless he just stood there with no apology or good explanation other than it would be too expensive to fix the elevators and it was all the guests' fault anyway for the elevator getting stuck since there were 8 people in the elevator (it's rated for 12 people).
+
+----- Weakening -----
+
+[-0.667236328125] Our car was broken into.
+[-0.6527862548828125] Bath tub water kept leaking out when trying to have a bath.
+[-0.6049118041992188] This hotel was not bad at all, check-in was very quick.
+[-0.5114212036132812] No problems with check out and overall found it to be a nice place.
+[-0.5052566528320312] Great wi-fi service too.
+
+**********
+
+[0.9565505981445312] The building is not well-maintained.
+Parent: The building is located in a city that is unknown to many people, has an elevator that often gets stuck, and is not well-maintained.
+
+----- Supporting -----
+
+[0.9565505981445312] The laundry facilitys are in poor quality.
+[0.9338893890380859] It is very worn and in a terrible area of town.
+[0.8539581298828125] The Primrose is a dated property offering only basic levels of service.
+[0.7652664184570312] The price is very good and the rooms are large, the only issue with the hotel is its very dated and could do with a revamp.
+[0.7016716003417969] The hotel however seems to be ageing with the air con unit making a loud grinding noise and shower water sometimes talking hours to drain from the bath tub due to a blockage.
+
+----- Weakening -----
+
+[-0.9887514114379883] Found my room and the hotel in general very clean and well kept.
+[-0.9752998352050781] Simply put Its a clean, well run hotel, with excellent service at the front desk and very large rooms that look great.
+[-0.9708185195922852] I thought the rooms were very well kept and the bedding looked new.
+[-0.9690494537353516] It appeared to be a well managed facility.
+[-0.9512338638305664] Everything was spotlessly clean and comfortable and the staff were very helpful and polite.
+
+**********
+
+[0.9756126403808594] The staff is not friendly.
+Parent: The staff are not friendly or helpful, and there are few facilities.
+
+----- Supporting -----
+
+[0.9756126403808594] The staff while not rude are not as friendly as one would expect.
+[0.9715757369995117] The front desk staff were very unfriendly and always seemed to make matters overly complicated.
+[0.9553556442260742] The staff were rude and quite useless, they just seemed annoyed and unwilling to help no matter how polite we were.
+[0.9164657592773438] 1) Rude staff at the front desk (only one of the employees we dealt with were nice); 2) Restaurant only open part of the time; 3) They DID give us a bigger and cheaper parking space out behind the building because our SUV wouldn't fit in the underground parking, but there were junkies hanging around at that parking lot; 3) FOUND A BEDBUG IN THE BATHROOM SINK (ALIVE) -- 'NUFF SAID!
+[0.9129743576049805] The front desk is rude and inexperienced.
+
+----- Weakening -----
+
+[-0.9966182708740234] I found the hotel staff very friendly and accomodating.
+[-0.9964933395385742] Staff was extra friendly, room was large and clean, had a great view of the city and we were walking distance to just about everything.
+[-0.9964437484741211] Ultra friendly staff at the desk - they let me check in a couple of hours early.
+[-0.9964380264282227] Staff were very helpful and friendly.
+[-0.9964313507080078] The staff were very friendly and cheery and the kids also liked the Tim Hortons in the lobby for the donuts.
+
+**********
+
+[0.9510078430175781] The staff is not helpful.
+Parent: The staff are not friendly or helpful, and there are few facilities.
+
+----- Supporting -----
+
+[0.9510078430175781] The staff were rude and quite useless, they just seemed annoyed and unwilling to help no matter how polite we were.
+[0.8975734710693359] The front desk staff were very unfriendly and always seemed to make matters overly complicated.
+[0.7553253173828125] The staff while not rude are not as friendly as one would expect.
+[0.7288131713867188] One front desk was outright rude and unhelpful for several requests which had to be handled by a morning person who was confused why the evening staff wouldn't help me until I told her the staff name and she rolled her eyes and suggested I speak with management.
+[0.6608161926269531] The front desk is rude and inexperienced.
+
+----- Weakening -----
+
+[-0.9972701072692871] Very helpful at the front desk.
+[-0.9967222213745117] The staff were friendly and helpful in arranging my daily taxis to the convention centre.
+[-0.9967107772827148] The front desk staff were superb and went out of their way to help with one girl at the front desk loaning me her personal umbrella so I could go to the shops without getting soaked.
+[-0.9966111183166504] The staff were friendly and helpful in arranging for taxiâ€™s for me, and always greeted me with a smile.
+[-0.9965686798095703] The staff was really nice and helpful and directed me to the nearest tourist attractions.
+
+**********
+
+[0.9685592651367188] There are not many facilities.
+Parent: The staff are not friendly or helpful, and there are few facilities.
+
+----- Supporting -----
+
+[0.9685592651367188] There aren't many facilities and the internet in my room cut out once in a while.
+[0.6950531005859375] Also, the hotel is a high rise with only a few elevators which the staff also use.
+[0.6809349060058594] The Primrose is a dated property offering only basic levels of service.
+[0.6734771728515625] There are only four washers and one is always "out of service".
+[0.6472244262695312] The rest of the area I would not trust to walk alone at night and there is not a great deal to do other than take a taxi west where the true city begins.
+
+----- Weakening -----
+
+[-0.9969406127929688] There are all manner of things to do, within easy walking distance of Yonge St and the Eaton Centre, the subway is right there, and all kinds of bars and hotspots within easy reach.
+[-0.9960274696350098] This hotel is near everything; subway, restaurants, shopping.
+[-0.9950828552246094] the concierge had little knowlege of the restaurants which should be a big part of his job but we made out ok. there are so many wonderful restaurants in toronto including a Korean Grill we went to where you bbq your own meat/fish.
+[-0.9935755729675293] Lots of good restaurants in the area too.
+[-0.9919567108154297] We have never been to Canada before or to a huge city like Toronto, we found it very easy to get around, Primrose hotel is an excellent location as the subway is only 5min walk way .There is a lot of restaurants , bars, stores ,drugmarts and shops within walking distance also Dundas sq , Eaton centre &hockey Hall of Fame are close by.

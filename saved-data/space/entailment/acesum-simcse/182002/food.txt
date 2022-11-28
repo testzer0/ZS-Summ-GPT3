@@ -1,0 +1,82 @@
+***** Aspect: food Model Type : simcse *****
+Overall score: 0.5815065801143646
+
+**********
+
+[0.7004115581512451] the restaurant was very good.
+
+----- Supporting -----
+
+[0.7004115581512451] The food they serve is good as well.
+[0.6564162969589233] The food was good and arrived on time and hot.
+[0.5346182584762573] We did order food and beverage and were pleased with the variety of choices available for lunches.
+[0.5190117359161377] There is a decent diner to the left of the hotel and a great little Thai restaurant on the other side and around the corner.
+[0.5102352499961853] Would stay there again as price was great and location perfect.
+
+----- Weakening -----
+
+[0.09472618997097015] we did see a couple of homeless guys but they did not bother us.
+[0.13323312997817993] Or grab a coffee and bagel at the Tim Hortons right next door.
+[0.192209392786026] A four cup coffee maker and supplies and complementary wi-fi were useful.
+[0.2031630426645279] I used the sales department at the hotel to make a booking for a block of rooms coming to Toronto for a family wedding.
+[0.2112138718366623] I was given a discount as I was a senior so the price ended up being very reasonable.
+
+**********
+
+[0.41309016942977905] the staff was very friendly and helpful.
+
+----- Supporting -----
+
+[0.41309016942977905] The `Tim Horton`s` coffee shop in the reception was a bonus.
+[0.36827147006988525] The food they serve is good as well.
+[0.3677164912223816] The food was good and arrived on time and hot.
+[0.3339213728904724] We did order food and beverage and were pleased with the variety of choices available for lunches.
+[0.3215787410736084] There is also a coffee shop in the lobby which was open late so that was convenient.
+
+----- Weakening -----
+
+[0.06598405539989471] If you are looking for an expensive four or five star hotel, don't stay here.
+[0.07233529537916183] Or grab a coffee and bagel at the Tim Hortons right next door.
+[0.07551407814025879] The food is god awful, my stomach had to get used to it.
+[0.11313575506210327] we did get a craving for some calamari at 12:30 at night so we went out for a walk and saw three girls of the night between our hotel over to Younge.
+[0.1155935525894165] The price was amazing ($90 CAD) and parking was typical at $23/day/in & out privileges.
+
+**********
+
+[0.6247064471244812] it was a great place to eat thai food.
+
+----- Supporting -----
+
+[0.6247064471244812] There is a decent diner to the left of the hotel and a great little Thai restaurant on the other side and around the corner.
+[0.5392992496490479] The food they serve is good as well.
+[0.45259588956832886] Would stay there again as price was great and location perfect.
+[0.45116621255874634] The food was good and arrived on time and hot.
+[0.43117767572402954] Great beef swarma pita sandwiches nearby esp.
+
+----- Weakening -----
+
+[0.0782417580485344] we did see a couple of homeless guys but they did not bother us.
+[0.12076756358146667] I was given a discount as I was a senior so the price ended up being very reasonable.
+[0.13144804537296295] I used the sales department at the hotel to make a booking for a block of rooms coming to Toronto for a family wedding.
+[0.1623358279466629] Or grab a coffee and bagel at the Tim Hortons right next door.
+[0.16271594166755676] The price was amazing ($90 CAD) and parking was typical at $23/day/in & out privileges.
+
+**********
+
+[0.5878181457519531] there is a tim horton's donut shop, second only to dunkin donuts in quality.
+
+----- Supporting -----
+
+[0.5878181457519531] The coffee shop Tim Hortons in the lobby has wonderful baked goods not good for the wasteline buttasted great, Thanks Primrose.
+[0.5452800989151001] Or grab a coffee and bagel at the Tim Hortons right next door.
+[0.5227603316307068] there's an in-house tim hortons in case you don't want the very affordable breakfast buffet.
+[0.4917099177837372] great coffee & doughnuts in the mornings!
+[0.4779210686683655] The Tim Hortons in the lobby was also convenient for a late night coffee.
+
+----- Weakening -----
+
+[0.011738795787096024] I was given a discount as I was a senior so the price ended up being very reasonable.
+[0.029577702283859253] we did see a couple of homeless guys but they did not bother us.
+[0.030452292412519455] I used the sales department at the hotel to make a booking for a block of rooms coming to Toronto for a family wedding.
+[0.037214167416095734] Although it would have been more convenient for me to stay at the hotel the meeting was in, their prices were far too expensive for my budget.
+[0.04552134871482849] we did get a craving for some calamari at 12:30 at night so we went out for a walk and saw three girls of the night between our hotel over to Younge.

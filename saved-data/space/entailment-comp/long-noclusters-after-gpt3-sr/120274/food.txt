@@ -1,0 +1,548 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.18400758963364822
+
+**********
+
+[0.019195556640625] The food at the Rainforest Cafe was great.
+Parent: The food at the Rainforest Cafe was great, the Hardrock Cafe was also great, and Bennigan's was great.
+
+----- Supporting -----
+
+[0.019195556640625] Often all the tables would be full and the bread was often finished before the breakfast session finished.
+[0.011899948120117188] We were on a budget so this place was perfect for the price.
+[0.010005950927734375] They offered Frosted Flakes, and Wheat Bread (with a toaster) as our choices.
+[0.00983428955078125] For the price we paid, what more could you ask for?
+[0.007343292236328125] A good place to fuel up for the long days at the parks.
+
+----- Weakening -----
+
+[-0.9209794998168945] Sick of fatty junk food after the second day, and despite our quest to eat in a half respectable fashion, no luck was had.
+[-0.7211503982543945] Coffee was bad.
+[-0.6870613098144531] there's a product called [--].
+[-0.6125659942626953] The orange juiced was bad & watered down, but I only drank coffee which was good.
+[-0.5630264282226562] We were not being overly fussy, the chinese eat as much as you can next door is highly recommended.
+
+**********
+
+[0.027156829833984375] The food at the Hardrock Cafe was great.
+Parent: The food at the Rainforest Cafe was great, the Hardrock Cafe was also great, and Bennigan's was great.
+
+----- Supporting -----
+
+[0.027156829833984375] Often all the tables would be full and the bread was often finished before the breakfast session finished.
+[0.01735687255859375] For the price we paid, what more could you ask for?
+[0.012971878051757812] They offered Frosted Flakes, and Wheat Bread (with a toaster) as our choices.
+[0.01045989990234375] We were on a budget so this place was perfect for the price.
+[0.0064792633056640625] The price is right, and the location is super!
+
+----- Weakening -----
+
+[-0.9118309020996094] Sick of fatty junk food after the second day, and despite our quest to eat in a half respectable fashion, no luck was had.
+[-0.7666349411010742] There was only coffee, juice, toast and cerial.
+[-0.5854225158691406] there's a product called [--].
+[-0.5644969940185547] Coffee was bad.
+[-0.4999237060546875] We were not being overly fussy, the chinese eat as much as you can next door is highly recommended.
+
+**********
+
+[0.028133392333984375] The food at Bennigan's was great.
+Parent: The food at the Rainforest Cafe was great, the Hardrock Cafe was also great, and Bennigan's was great.
+
+----- Supporting -----
+
+[0.028133392333984375] For the price we paid, what more could you ask for?
+[0.025787353515625] Often all the tables would be full and the bread was often finished before the breakfast session finished.
+[0.01934814453125] We were on a budget so this place was perfect for the price.
+[0.012447357177734375] They offered Frosted Flakes, and Wheat Bread (with a toaster) as our choices.
+[0.007167816162109375] A good place to fuel up for the long days at the parks.
+
+----- Weakening -----
+
+[-0.9183206558227539] Sick of fatty junk food after the second day, and despite our quest to eat in a half respectable fashion, no luck was had.
+[-0.7130889892578125] There was only coffee, juice, toast and cerial.
+[-0.5383090972900391] Coffee was bad.
+[-0.5312595367431641] The orange juiced was bad & watered down, but I only drank coffee which was good.
+[-0.4957695007324219] there's a product called [--].
+
+**********
+
+[0.0009365081787109375] The location was a bit far from Universal Studios.
+Parent: The location was a little out of the way for Universal, but it was only 5 minutes from Disney.
+
+----- Supporting -----
+
+[0.0009365081787109375] I didn't try it myself.
+[-0.0008945465087890625] I booked this hotel as it was cheapest available.
+[-0.0015716552734375] We booked this trough expedia and only paid £19 a night.
+[-0.002193450927734375] we also brought food in a small cooler bag and saved a lot of money.
+[-0.0025787353515625] it cost £530 for both of us.
+
+----- Weakening -----
+
+[-0.473663330078125] there's a product called [--].
+[-0.19254302978515625] If we wanted more we would go to the Ponderosa just down the road.
+[-0.179443359375] (especially because the Shoneys and Denny's nearby are NIGHTMARES!)
+[-0.12609481811523438] The price is right, and the location is super!
+[-0.10381317138671875] There are loads of places to eat locally, although you will have trouble if you want 5% healthy food 5% of the time.
+
+**********
+
+[0.0011043548583984375] The hotel is conveniently located only 5 minutes from Disney.
+Parent: The location was a little out of the way for Universal, but it was only 5 minutes from Disney.
+
+----- Supporting -----
+
+[0.0011043548583984375] The price is right, and the location is super!
+[-0.001495361328125] For the price we paid, what more could you ask for?
+[-0.001926422119140625] I booked this hotel as it was cheapest available.
+[-0.0019292831420898438] The hotel stay cost about $100.00 to stay 4 nights through a promotion for free nights so I was impressed with the price!
+[-0.0023221969604492188] Was I really paying less than $ 20 a night?!!
+
+----- Weakening -----
+
+[-0.9462680816650391] there's a product called [--].
+[-0.40358734130859375] As a canadian , i am not used to eating in food chains and steakhouses all the time , and felt a great need to go buy fruit and salad at the market , to get my daily greens in.
+[-0.37606239318847656] There was only coffee, juice, toast and cerial.
+[-0.34820556640625] Water tastes like sulfur or burnt hair.
+[-0.1912994384765625] Sick of fatty junk food after the second day, and despite our quest to eat in a half respectable fashion, no luck was had.
+
+**********
+
+[-0.005837917327880859] This is our 5th time visiting Orlando.
+Parent: This was our 5th visit to Orlando and our first budget trip and we have to say that this little gem of a hotel is far superior to other more expensive ones in the area.
+
+----- Supporting -----
+
+[-0.005837917327880859] The price is right, and the location is super!
+[-0.006542205810546875] supermarket across the street , to fill up your hotel fridge with fruit and drinks.
+[-0.006594657897949219] There are countless places to eat around the hotel & there's an all you can eat chinese buffet next door that's good.
+[-0.010187625885009766] I booked this hotel as it was cheapest available.
+[-0.010413169860839844] we also brought food in a small cooler bag and saved a lot of money.
+
+----- Weakening -----
+
+[-0.8348712921142578] there's a product called [--].
+[-0.18698883056640625] I didn't try it myself.
+[-0.09364032745361328] There was only coffee, juice, toast and cerial.
+[-0.08246040344238281] Water tastes like sulfur or burnt hair.
+[-0.06517314910888672] As a canadian , i am not used to eating in food chains and steakhouses all the time , and felt a great need to go buy fruit and salad at the market , to get my daily greens in.
+
+**********
+
+[-0.0012540817260742188] This was our first budget trip.
+Parent: This was our 5th visit to Orlando and our first budget trip and we have to say that this little gem of a hotel is far superior to other more expensive ones in the area.
+
+----- Supporting -----
+
+[-0.0012540817260742188] We booked this trough expedia and only paid £19 a night.
+[-0.0029087066650390625] The hotel stay cost about $100.00 to stay 4 nights through a promotion for free nights so I was impressed with the price!
+[-0.004178047180175781] it cost £530 for both of us.
+[-0.0046291351318359375] I booked this hotel as it was cheapest available.
+[-0.004855632781982422] we also brought food in a small cooler bag and saved a lot of money.
+
+----- Weakening -----
+
+[-0.650665283203125] there's a product called [--].
+[-0.5723762512207031] I didn't try it myself.
+[-0.2912406921386719] every park, disney or not, will do this for free and water tastes MUCH better.
+[-0.2168426513671875] We were a little disappointed that the water did not seem as hot as in our previous visits, on our most recent visit - maybe we were just unlucky !
+[-0.12485122680664062] (especially because the Shoneys and Denny's nearby are NIGHTMARES!)
+
+**********
+
+[0.435333251953125] This hotel is better than other more expensive hotels in the area.
+Parent: This was our 5th visit to Orlando and our first budget trip and we have to say that this little gem of a hotel is far superior to other more expensive ones in the area.
+
+----- Supporting -----
+
+[0.435333251953125] I booked this hotel as it was cheapest available.
+[0.01630401611328125] We were on a budget so this place was perfect for the price.
+[0.010654449462890625] For the price we paid, what more could you ask for?
+[0.009674072265625] The hotel stay cost about $100.00 to stay 4 nights through a promotion for free nights so I was impressed with the price!
+[0.008056640625] The price is right, and the location is super!
+
+----- Weakening -----
+
+[-0.7828788757324219] there's a product called [--].
+[-0.1057586669921875] every park, disney or not, will do this for free and water tastes MUCH better.
+[-0.069427490234375] You get what you pay for, and it was cheap but that's just about it.
+[-0.06829643249511719] Sick of fatty junk food after the second day, and despite our quest to eat in a half respectable fashion, no luck was had.
+[-0.06665229797363281] There was only coffee, juice, toast and cerial.
+
+**********
+
+[-0.004519462585449219] The air conditioning unit in our room was new.
+Parent: Our room had a brand new air conditioning unit which was quite than the ones we are used to, a microwave, fridge, freezer, hair dryer, safe and TV.
+
+----- Supporting -----
+
+[-0.004519462585449219] I paid $25.00/night after a good deal I found on Hotels.com!!!
+[-0.004834175109863281] I booked this hotel as it was cheapest available.
+[-0.0049152374267578125] We booked this trough expedia and only paid £19 a night.
+[-0.007595062255859375] For the price we paid, what more could you ask for?
+[-0.0076045989990234375] I guess as the saying goes you get what you pay for as we didn't pay much for the 4 of us we were pleased and surprised.
+
+----- Weakening -----
+
+[-0.6062450408935547] We found old, moldy juice bottles under our beds.
+[-0.46096038818359375] there's a product called [--].
+[-0.4539012908935547] Water tastes like sulfur or burnt hair.
+[-0.320281982421875] They come off very easy and the bugs are easy to see.
+[-0.26756858825683594] Coffee was bad.
+
+**********
+
+[-0.0037059783935546875] Our room had a microwave.
+Parent: Our room had a brand new air conditioning unit which was quite than the ones we are used to, a microwave, fridge, freezer, hair dryer, safe and TV.
+
+----- Supporting -----
+
+[-0.0037059783935546875] The price is right, and the location is super!
+[-0.005167961120605469] I booked this hotel as it was cheapest available.
+[-0.0060405731201171875] I paid $25.00/night after a good deal I found on Hotels.com!!!
+[-0.006870269775390625] We booked this trough expedia and only paid £19 a night.
+[-0.007848739624023438] The hotel stay cost about $100.00 to stay 4 nights through a promotion for free nights so I was impressed with the price!
+
+----- Weakening -----
+
+[-0.8349952697753906] We found old, moldy juice bottles under our beds.
+[-0.8237152099609375] there's a product called [--].
+[-0.8160552978515625] Ask for cups of water from concession stands or to fill a water bottle.
+[-0.7426910400390625] we also brought food in a small cooler bag and saved a lot of money.
+[-0.7325782775878906] There was only coffee, juice, toast and cerial.
+
+**********
+
+[0.723876953125] The room had a fridge.
+Parent: Our room had a brand new air conditioning unit which was quite than the ones we are used to, a microwave, fridge, freezer, hair dryer, safe and TV.
+
+----- Supporting -----
+
+[0.723876953125] supermarket across the street , to fill up your hotel fridge with fruit and drinks.
+[0.002655029296875] A good place to fuel up for the long days at the parks.
+[-0.002002716064453125] We booked this trough expedia and only paid £19 a night.
+[-0.00336456298828125] I paid $25.00/night after a good deal I found on Hotels.com!!!
+[-0.0043163299560546875] I booked this hotel as it was cheapest available.
+
+----- Weakening -----
+
+[-0.8285484313964844] We found old, moldy juice bottles under our beds.
+[-0.807037353515625] every park, disney or not, will do this for free and water tastes MUCH better.
+[-0.8036041259765625] there's a product called [--].
+[-0.7689361572265625] we also brought food in a small cooler bag and saved a lot of money.
+[-0.7479248046875] As a canadian , i am not used to eating in food chains and steakhouses all the time , and felt a great need to go buy fruit and salad at the market , to get my daily greens in.
+
+**********
+
+[0.104736328125] The room was equipped with a freezer.
+Parent: Our room had a brand new air conditioning unit which was quite than the ones we are used to, a microwave, fridge, freezer, hair dryer, safe and TV.
+
+----- Supporting -----
+
+[0.104736328125] supermarket across the street , to fill up your hotel fridge with fruit and drinks.
+[-0.0026912689208984375] We booked this trough expedia and only paid £19 a night.
+[-0.004974365234375] I paid $25.00/night after a good deal I found on Hotels.com!!!
+[-0.0065555572509765625] I booked this hotel as it was cheapest available.
+[-0.0075531005859375] A good place to fuel up for the long days at the parks.
+
+----- Weakening -----
+
+[-0.9241466522216797] There was only coffee, juice, toast and cerial.
+[-0.915374755859375] Water tastes like sulfur or burnt hair.
+[-0.8775138854980469] We found old, moldy juice bottles under our beds.
+[-0.8516082763671875] We had to pay 25 cent for ice but you can't have every thing.
+[-0.7615966796875] Ask for cups of water from concession stands or to fill a water bottle.
+
+**********
+
+[-0.002880096435546875] The room had a hair dryer.
+Parent: Our room had a brand new air conditioning unit which was quite than the ones we are used to, a microwave, fridge, freezer, hair dryer, safe and TV.
+
+----- Supporting -----
+
+[-0.002880096435546875] We booked this trough expedia and only paid £19 a night.
+[-0.005146026611328125] I paid $25.00/night after a good deal I found on Hotels.com!!!
+[-0.006317138671875] I booked this hotel as it was cheapest available.
+[-0.0065860748291015625] Was I really paying less than $ 20 a night?!!
+[-0.00672149658203125] The hotel stay cost about $100.00 to stay 4 nights through a promotion for free nights so I was impressed with the price!
+
+----- Weakening -----
+
+[-0.9176483154296875] there's a product called [--].
+[-0.8107357025146484] There was only coffee, juice, toast and cerial.
+[-0.7409896850585938] to reheat a slice of pizza...
+[-0.7020721435546875] There are loads of places to eat locally, although you will have trouble if you want 5% healthy food 5% of the time.
+[-0.6258163452148438] Bring tupperware , to be able to eat in.
+
+**********
+
+[-0.0037784576416015625] The room had a safe.
+Parent: Our room had a brand new air conditioning unit which was quite than the ones we are used to, a microwave, fridge, freezer, hair dryer, safe and TV.
+
+----- Supporting -----
+
+[-0.0037784576416015625] I booked this hotel as it was cheapest available.
+[-0.0044994354248046875] We booked this trough expedia and only paid £19 a night.
+[-0.0053768157958984375] I paid $25.00/night after a good deal I found on Hotels.com!!!
+[-0.00589752197265625] The hotel stay cost about $100.00 to stay 4 nights through a promotion for free nights so I was impressed with the price!
+[-0.011577606201171875] Was I really paying less than $ 20 a night?!!
+
+----- Weakening -----
+
+[-0.9320831298828125] there's a product called [--].
+[-0.8445892333984375] There are a zillion places to eat along the 192, Ponderosa is great for it's huge buffet breakfast and filling up before a day at the parks.
+[-0.81719970703125] There are loads of places to eat locally, although you will have trouble if you want 5% healthy food 5% of the time.
+[-0.7967681884765625] supermarket across the street , to fill up your hotel fridge with fruit and drinks.
+[-0.7633266448974609] There was only coffee, juice, toast and cerial.
+
+**********
+
+[-3.814697265625e-06] Our room had a TV.
+Parent: Our room had a brand new air conditioning unit which was quite than the ones we are used to, a microwave, fridge, freezer, hair dryer, safe and TV.
+
+----- Supporting -----
+
+[-3.814697265625e-06] For the price we paid, what more could you ask for?
+[-0.00029754638671875] I paid $25.00/night after a good deal I found on Hotels.com!!!
+[-0.0006809234619140625] The price is right, and the location is super!
+[-0.001010894775390625] We booked this trough expedia and only paid £19 a night.
+[-0.00194549560546875] I booked this hotel as it was cheapest available.
+
+----- Weakening -----
+
+[-0.886871337890625] there's a product called [--].
+[-0.7578945159912109] There was only coffee, juice, toast and cerial.
+[-0.4810333251953125] As a canadian , i am not used to eating in food chains and steakhouses all the time , and felt a great need to go buy fruit and salad at the market , to get my daily greens in.
+[-0.35260009765625] Water tastes like sulfur or burnt hair.
+[-0.33354949951171875] to reheat a slice of pizza...
+
+**********
+
+[0.9901361465454102] There are many places to eat along the 192.
+Parent: There are a zillion places to eat along the 192, Ponderosa is great for its huge buffet breakfast and filling up before a day at the parks.
+
+----- Supporting -----
+
+[0.9901361465454102] There are a zillion places to eat along the 192, Ponderosa is great for it's huge buffet breakfast and filling up before a day at the parks.
+[0.117156982421875] There are countless places to eat around the hotel & there's an all you can eat chinese buffet next door that's good.
+[0.07088470458984375] Area around isn't bad we had a different restaurant every night of our 14night stay, try the corral more than you can eat for $6.99 and I mean more than you can eat food was really nice, red lobster was good so was the minning company.
+[0.059112548828125] There are loads of places to eat locally, although you will have trouble if you want 5% healthy food 5% of the time.
+[0.038970947265625] (especially because the Shoneys and Denny's nearby are NIGHTMARES!)
+
+----- Weakening -----
+
+[-0.8267650604248047] Sick of fatty junk food after the second day, and despite our quest to eat in a half respectable fashion, no luck was had.
+[-0.5269851684570312] there's a product called [--].
+[-0.46322059631347656] There was only coffee, juice, toast and cerial.
+[-0.221527099609375] You get what you pay for, and it was cheap but that's just about it.
+[-0.2202301025390625] They come off very easy and the bugs are easy to see.
+
+**********
+
+[0.9847822189331055] Ponderosa is great for its huge buffet breakfast.
+Parent: There are a zillion places to eat along the 192, Ponderosa is great for its huge buffet breakfast and filling up before a day at the parks.
+
+----- Supporting -----
+
+[0.9847822189331055] There are a zillion places to eat along the 192, Ponderosa is great for it's huge buffet breakfast and filling up before a day at the parks.
+[0.025089263916015625] Often all the tables would be full and the bread was often finished before the breakfast session finished.
+[0.00287628173828125] For the price we paid, what more could you ask for?
+[0.001956939697265625] The price is right, and the location is super!
+[-0.00139617919921875] If we wanted more we would go to the Ponderosa just down the road.
+
+----- Weakening -----
+
+[-0.9646205902099609] There was only coffee, juice, toast and cerial.
+[-0.927978515625] Coffee was bad.
+[-0.8221378326416016] Sick of fatty junk food after the second day, and despite our quest to eat in a half respectable fashion, no luck was had.
+[-0.8028030395507812] We found old, moldy juice bottles under our beds.
+[-0.7276582717895508] I 'm not a huge eater so I did'nt need a nasty greasy morning breakfast.
+
+**********
+
+[0.9875669479370117] Ponderosa is a great place to eat before going to the parks.
+Parent: There are a zillion places to eat along the 192, Ponderosa is great for its huge buffet breakfast and filling up before a day at the parks.
+
+----- Supporting -----
+
+[0.9875669479370117] There are a zillion places to eat along the 192, Ponderosa is great for it's huge buffet breakfast and filling up before a day at the parks.
+[0.008399009704589844] A good place to fuel up for the long days at the parks.
+[0.002468109130859375] The price is right, and the location is super!
+[0.0003490447998046875] There are countless places to eat around the hotel & there's an all you can eat chinese buffet next door that's good.
+[8.392333984375e-05] There are loads of places to eat locally, although you will have trouble if you want 5% healthy food 5% of the time.
+
+----- Weakening -----
+
+[-0.8646430969238281] there's a product called [--].
+[-0.6106796264648438] Sick of fatty junk food after the second day, and despite our quest to eat in a half respectable fashion, no luck was had.
+[-0.3987579345703125] Water tastes like sulfur or burnt hair.
+[-0.39736175537109375] Coffee was bad.
+[-0.3637981414794922] There was only coffee, juice, toast and cerial.
+
+**********
+
+[-0.002105712890625] The room we were upgraded to was a king size room.
+Parent: We were upgraded to a king size room without even asking and our checkout was extended to 1 pm without any problems.
+
+----- Supporting -----
+
+[-0.002105712890625] it cost £530 for both of us.
+[-0.0051364898681640625] There are countless places to eat around the hotel & there's an all you can eat chinese buffet next door that's good.
+[-0.006622314453125] For the price we paid, what more could you ask for?
+[-0.007714271545410156] The price is right, and the location is super!
+[-0.008045196533203125] We booked this trough expedia and only paid £19 a night.
+
+----- Weakening -----
+
+[-0.88482666015625] there's a product called [--].
+[-0.8112964630126953] There was only coffee, juice, toast and cerial.
+[-0.6988677978515625] Sick of fatty junk food after the second day, and despite our quest to eat in a half respectable fashion, no luck was had.
+[-0.5492324829101562] Coffee was bad.
+[-0.4422721862792969] every park, disney or not, will do this for free and water tastes MUCH better.
+
+**********
+
+[-0.0011272430419921875] We could checkout at 1 pm.
+Parent: We were upgraded to a king size room without even asking and our checkout was extended to 1 pm without any problems.
+
+----- Supporting -----
+
+[-0.0011272430419921875] We booked this trough expedia and only paid £19 a night.
+[-0.006836891174316406] I booked this hotel as it was cheapest available.
+[-0.007925033569335938] I paid $25.00/night after a good deal I found on Hotels.com!!!
+[-0.010473251342773438] it cost £530 for both of us.
+[-0.011829376220703125] The price is right, and the location is super!
+
+----- Weakening -----
+
+[-0.6388969421386719] Sick of fatty junk food after the second day, and despite our quest to eat in a half respectable fashion, no luck was had.
+[-0.613372802734375] Often all the tables would be full and the bread was often finished before the breakfast session finished.
+[-0.594390869140625] Coffee was bad.
+[-0.48101806640625] there's a product called [--].
+[-0.443328857421875] We found old, moldy juice bottles under our beds.
+
+**********
+
+[-0.001361846923828125] The TV has HBO premium channels.
+Parent: The TV had premium HBO channels (perfect for after a hectic day at the parks).
+
+----- Supporting -----
+
+[-0.001361846923828125] For the price we paid, what more could you ask for?
+[-0.0032482147216796875] it cost £530 for both of us.
+[-0.00449371337890625] The price is right, and the location is super!
+[-0.00843048095703125] I paid $25.00/night after a good deal I found on Hotels.com!!!
+[-0.0090484619140625] We were on a budget so this place was perfect for the price.
+
+----- Weakening -----
+
+[-0.9552669525146484] there's a product called [--].
+[-0.5477504730224609] There was only coffee, juice, toast and cerial.
+[-0.4214630126953125] They come off very easy and the bugs are easy to see.
+[-0.37744140625] As a canadian , i am not used to eating in food chains and steakhouses all the time , and felt a great need to go buy fruit and salad at the market , to get my daily greens in.
+[-0.363555908203125] They offered Frosted Flakes, and Wheat Bread (with a toaster) as our choices.
+
+**********
+
+[0.53594970703125] We arrived in town.
+Parent: We came into town to get an early start the next day at Disney.
+
+----- Supporting -----
+
+[0.53594970703125] As a canadian , i am not used to eating in food chains and steakhouses all the time , and felt a great need to go buy fruit and salad at the market , to get my daily greens in.
+[0.2469482421875] There are loads of places to eat locally, although you will have trouble if you want 5% healthy food 5% of the time.
+[0.23486328125] There are a zillion places to eat along the 192, Ponderosa is great for it's huge buffet breakfast and filling up before a day at the parks.
+[0.230224609375] We were not being overly fussy, the chinese eat as much as you can next door is highly recommended.
+[0.17657470703125] They offered Frosted Flakes, and Wheat Bread (with a toaster) as our choices.
+
+----- Weakening -----
+
+[-0.9448623657226562] We found old, moldy juice bottles under our beds.
+[-0.815826416015625] We were a little disappointed that the water did not seem as hot as in our previous visits, on our most recent visit - maybe we were just unlucky !
+[-0.811004638671875] there's a product called [--].
+[-0.64361572265625] every park, disney or not, will do this for free and water tastes MUCH better.
+[-0.5838623046875] A good place to fuel up for the long days at the parks.
+
+**********
+
+[-0.008246421813964844] We wanted to get an early start at Disney.
+Parent: We came into town to get an early start the next day at Disney.
+
+----- Supporting -----
+
+[-0.008246421813964844] I booked this hotel as it was cheapest available.
+[-0.009003639221191406] We had to pay 25 cent for ice but you can't have every thing.
+[-0.011335372924804688] We booked this trough expedia and only paid £19 a night.
+[-0.013281822204589844] I paid $25.00/night after a good deal I found on Hotels.com!!!
+[-0.014878273010253906] For the price we paid, what more could you ask for?
+
+----- Weakening -----
+
+[-0.8143291473388672] As a canadian , i am not used to eating in food chains and steakhouses all the time , and felt a great need to go buy fruit and salad at the market , to get my daily greens in.
+[-0.8094463348388672] there's a product called [--].
+[-0.4684333801269531] We were on a budget so this place was perfect for the price.
+[-0.46622276306152344] There are loads of places to eat locally, although you will have trouble if you want 5% healthy food 5% of the time.
+[-0.4168844223022461] to reheat a slice of pizza...
+
+**********
+
+[0.002101898193359375] The bed was clean.
+Parent: The bed was clean and comfortable and the maid came 6 times a week.
+
+----- Supporting -----
+
+[0.002101898193359375] I paid $25.00/night after a good deal I found on Hotels.com!!!
+[0.0017528533935546875] We booked this trough expedia and only paid £19 a night.
+[0.00164794921875] I booked this hotel as it was cheapest available.
+[0.000827789306640625] We were on a budget so this place was perfect for the price.
+[-0.0008716583251953125] It WAS free, and we DID pay $25.00 per night, so I can't complain too much.
+
+----- Weakening -----
+
+[-0.9944210052490234] We found old, moldy juice bottles under our beds.
+[-0.9466209411621094] Water tastes like sulfur or burnt hair.
+[-0.90478515625] Coffee was bad.
+[-0.8956222534179688] They come off very easy and the bugs are easy to see.
+[-0.838714599609375] there's a product called [--].
+
+**********
+
+[0.052215576171875] The bed was comfortable.
+Parent: The bed was clean and comfortable and the maid came 6 times a week.
+
+----- Supporting -----
+
+[0.052215576171875] A good place to fuel up for the long days at the parks.
+[0.005046844482421875] I booked this hotel as it was cheapest available.
+[0.00501251220703125] We were on a budget so this place was perfect for the price.
+[0.0038776397705078125] I paid $25.00/night after a good deal I found on Hotels.com!!!
+[0.003627777099609375] The price is right, and the location is super!
+
+----- Weakening -----
+
+[-0.8448410034179688] Coffee was bad.
+[-0.841949462890625] Water tastes like sulfur or burnt hair.
+[-0.83526611328125] (especially because the Shoneys and Denny's nearby are NIGHTMARES!)
+[-0.76409912109375] As a canadian , i am not used to eating in food chains and steakhouses all the time , and felt a great need to go buy fruit and salad at the market , to get my daily greens in.
+[-0.7305908203125] there's a product called [--].
+
+**********
+
+[-0.07420730590820312] The maid came every day.
+Parent: The bed was clean and comfortable and the maid came 6 times a week.
+
+----- Supporting -----
+
+[-0.07420730590820312] Water tastes like sulfur or burnt hair.
+[-0.08216094970703125] They offered Frosted Flakes, and Wheat Bread (with a toaster) as our choices.
+[-0.1078338623046875] Often all the tables would be full and the bread was often finished before the breakfast session finished.
+[-0.12621688842773438] No in-room coffee makers, either.
+[-0.1802539825439453] If we wanted more we would go to the Ponderosa just down the road.
+
+----- Weakening -----
+
+[-0.9573440551757812] there's a product called [--].
+[-0.8620223999023438] supermarket across the street , to fill up your hotel fridge with fruit and drinks.
+[-0.8607902526855469] There are countless places to eat around the hotel & there's an all you can eat chinese buffet next door that's good.
+[-0.8414230346679688] We booked this trough expedia and only paid £19 a night.
+[-0.8337173461914062] There are a zillion places to eat along the 192, Ponderosa is great for it's huge buffet breakfast and filling up before a day at the parks.

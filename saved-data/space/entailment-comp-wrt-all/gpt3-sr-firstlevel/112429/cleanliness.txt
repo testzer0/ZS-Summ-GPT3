@@ -1,0 +1,380 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.7392182350158691
+
+**********
+
+[0.9293441772460938] The room was not clean when the reviewer arrived.
+Parent: The room was not clean when the reviewer arrived, and housekeeping did not come by until later in the day.
+
+----- Supporting -----
+
+[0.9293441772460938] I was put in a room that just didn't have the feeling be being fresh and clean.
+[0.9204025268554688] When I had got back to my room the first day I was there housekeeping had still not been to my room, I had left at 9am and it was then 3:30.
+[0.8984470367431641] Then coming back to the room tonight after being away from 8:30am to 8:30pm, the room had not been cleaned.
+[0.8126907348632812] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[0.740936279296875] It was dark, dirty, and noisy from the construction right outside my window.
+
+----- Weakening -----
+
+[-0.9886465072631836] Our room was very clean and the service was very friendly.
+[-0.9855022430419922] The room was meticulously cleaned including plenty of soft linins and offers one of the most comfortable beds I have ever slept on.
+[-0.9745931625366211] The room was very clean.
+[-0.9701938629150391] The room was very clean and beautifully decorated.
+[-0.9657058715820312] The room was very clean and anything you may need was available in the room.
+
+**********
+
+[0.3055419921875] Housekeeping came by later in the day.
+Parent: The room was not clean when the reviewer arrived, and housekeeping did not come by until later in the day.
+
+----- Supporting -----
+
+[0.3055419921875] Their answer was they can come now or not at all as they leave at 5pm, how that was my problem I am not sure as they had all day to clean it...
+[0.2078857421875] At midnight the attendant could not find my reservation, even though I provided a confirmation number.
+[0.02203369140625] I called down to the front desk to find out what time housekeeping would be coming by as I wanted to have a nap before I went to the game.
+[0.004852294921875] When I had got back to my room the first day I was there housekeeping had still not been to my room, I had left at 9am and it was then 3:30.
+[0.0014495849609375] This is a well-run place.
+
+----- Weakening -----
+
+[-0.938446044921875] - The housekeeper walked in on me without knocking at 9 a.m. in the morning when I was getting ready to go in the shower.
+[-0.9324188232421875] I had a problem with the knob on my shower the first morning and I had maintenance at my door within 5 minutes to fix it so I could get on the move.
+[-0.9181861877441406] We asked for more towels and they arrived within minutes.
+[-0.591461181640625] During the morning Tom is more than willing to the extra mile to make sure you ready for your travels around the city, Jerry who works at the front desk also very helpful, nice and courteous.
+[-0.5778045654296875] Don't know the concierges name, it would be the older man in the morning but he had great recommendations for restaurants, each one excellent and was so knowledgeable about the city and when was the best times to go to events.
+
+**********
+
+[0.48574066162109375] The shampoo and conditioner dispensers in the shower were not clean.
+Parent: There were also some concerns about the sanitation of the shampoo and conditioner dispensers in the shower.
+
+----- Supporting -----
+
+[0.48574066162109375] I don't like the shampoo and conditioner dispenser attached to the wall in the shower though.
+[0.16811370849609375] We had some issues with hot water and the in-room hairdryer was small and weak (not a big deal, but most hotels now provide the full-size kind).
+[0.03704833984375] One had wobbly paddles and the other one squeaked when you paddle.
+[0.00678253173828125] The room is shabby, the shower made a horrible noise whenever the water was running.
+[0.00514984130859375] Stripping the sheets, I found a fairly fresh urine stain that made me want to vomit.
+
+----- Weakening -----
+
+[-0.7364883422851562] It was fantastic and has great deals and specials.
+[-0.6978912353515625] The restaurant downstairs has amazing happy hours with great food and drink specials.
+[-0.69744873046875] I really have nothing bad to say about the Paramount!
+[-0.6947174072265625] The in-house restaurant is mediocre but not too pricey.
+[-0.679718017578125] Dragonfish restaurant is attached and has great seafood and sushi.
+
+**********
+
+[0.9907383918762207] The hotel was clean.
+Parent: Some reviews said the hotel was clean, some said it was not.
+
+----- Supporting -----
+
+[0.9907383918762207] Hotel was very clean, very quiet, great for a business trip.
+[0.9830589294433594] Hotel is extremely clean and quiet, and the staff is very helpful.
+[0.977386474609375] Highly recommend this hotel rooms, they were nice and clean and very comfortable.
+[0.9651198387145996] Friendly welcoming staff, clean, one of the best hotels I've stayed at in a long time!
+[0.9134616851806641] The hotel is recently remodeled and the rooms are very clean and modern as is the hotel lobby.
+
+----- Weakening -----
+
+[-0.997502326965332] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[-0.9937038421630859] The air conditioning vent had so much filthy residue trapped inside that it could not possibly pass a health audit.
+[-0.9928450584411621] Our toliet overflowed at 11pm resulting in a flood in our bathroom.
+[-0.9922299385070801] It was dark, dirty, and noisy from the construction right outside my window.
+[-0.9894485473632812] Don't take a room on the inside unless you want to be awakened by the garbage trucks at 5am.
+
+**********
+
+[0.8563194274902344] The hotel was not clean.
+Parent: Some reviews said the hotel was clean, some said it was not.
+
+----- Supporting -----
+
+[0.8563194274902344] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[0.6217689514160156] The room is shabby, the shower made a horrible noise whenever the water was running.
+[0.445892333984375] We booked the Paramount with a little apprehension, since downtown hotels are often either industrial/impersonal or old school fusty.
+[0.42470550537109375] Compared to the Portland location, the Seattle Paramount needs some sprucing up.
+[0.4091796875] The hotel was under exterior renovations, but that worked out for me as I was out of my room for most of the day.
+
+----- Weakening -----
+
+[-0.9930591583251953] Hotel is extremely clean and quiet, and the staff is very helpful.
+[-0.9912490844726562] Hotel was very clean, very quiet, great for a business trip.
+[-0.9866561889648438] Friendly welcoming staff, clean, one of the best hotels I've stayed at in a long time!
+[-0.9865169525146484] The room was meticulously cleaned including plenty of soft linins and offers one of the most comfortable beds I have ever slept on.
+[-0.9840888977050781] Highly recommend this hotel rooms, they were nice and clean and very comfortable.
+
+**********
+
+[0.9912576675415039] The maids left the alarm on from the last guest.
+Parent: Some said the maids left the alarm on from the last guest, and some said there was a lack of soundproofing between connecting rooms.
+
+----- Supporting -----
+
+[0.9912576675415039] The maids had left the alarm on from the last guest (a major pet peeve of mine) and so we were awakened at 7 a.m. And, a large group of guests arrived in the room next door at 7:30 and the lack of soundproofing between connecting rooms became glaringly apparent.
+[0.0] :)
+[0.0] Not cool!
+[0.0] walk.
+[-0.0053081512451171875] Ok, it is bad.
+
+----- Weakening -----
+
+[-0.9099540710449219] and helped with our transportation needs.
+[-0.9025611877441406] However, I did have a unique and great customer service experience thanks to one particular employee.
+[-0.8907661437988281] The staff was very helpful with advice, directions and maps.
+[-0.8839740753173828] A waiter showed up and took coffee orders.
+[-0.8801765441894531] When was the the last time that someone arrived at your hotel door with water and chocolates to welcome you?
+
+**********
+
+[0.9066524505615234] The soundproofing was not good enough between connecting rooms.
+Parent: Some said the maids left the alarm on from the last guest, and some said there was a lack of soundproofing between connecting rooms.
+
+----- Supporting -----
+
+[0.9066524505615234] The maids had left the alarm on from the last guest (a major pet peeve of mine) and so we were awakened at 7 a.m. And, a large group of guests arrived in the room next door at 7:30 and the lack of soundproofing between connecting rooms became glaringly apparent.
+[0.07080078125] The only minor thing that I did not like was that they ice machines are on every other floor and located next to the stairwell, so it was a little startling to my girlfriend when someone walked in unbeknownst to her while the machine was running.
+[0.06884384155273438] The worst I can come up with is hearing the neighbors thru the adjoining door occasionally.
+[0.05704498291015625] The only thing keeping this from being a 5 star review all the way around is that we could hear the person in the next room peeing.
+[0.03931427001953125] One had wobbly paddles and the other one squeaked when you paddle.
+
+----- Weakening -----
+
+[-0.7509918212890625] What a wonderful surprise.
+[-0.6520614624023438] Everything is at your doorstep.
+[-0.6278152465820312] Assistance is all around w/ staff waiting to help on all levels.
+[-0.564666748046875] Right downtown could walk everywhere, didn't need a car.
+[-0.5193252563476562] Top notch location.
+
+**********
+
+[0.931549072265625] The housekeeper walked in on the reviewer without knocking.
+Parent: One reviewer said the housekeeper walked in on them without knocking.
+
+----- Supporting -----
+
+[0.931549072265625] - The housekeeper walked in on me without knocking at 9 a.m. in the morning when I was getting ready to go in the shower.
+[0.0] :)
+[0.0] Not cool!
+[0.0] walk.
+[-0.027498245239257812] What a wonderful surprise.
+
+----- Weakening -----
+
+[-0.9782829284667969] A waiter showed up and took coffee orders.
+[-0.9692153930664062] When he saw I was getting no where with the front staff he came over and helped us out.
+[-0.9619045257568359] The desk clerk was very friendly and efficient and was willing to help in answering any questions.
+[-0.9554033279418945] The front desk was quick and helpful.
+[-0.9477291107177734] He is nice and was very helpful.
+
+**********
+
+[0.2590827941894531] There was a stain on the mattress.
+Parent: Another reviewer said there was a stain on the mattress that was not cleaned.
+
+----- Supporting -----
+
+[0.2590827941894531] My gripe was that housekeeping must have noticed this when they changed the sheets, but made no attempt at cleaning the mattress and simply covered it back up.
+[0.0089111328125] There appeared to be some water damage in our bathroom.
+[0.0027313232421875] I notified the front desk to make sure it was cleaned at some point.
+[0.0017642974853515625] Their answer was they can come now or not at all as they leave at 5pm, how that was my problem I am not sure as they had all day to clean it...
+[0.00138092041015625] The cleaning staff is very friendly; the frontdesk staff and valets are OK.
+
+----- Weakening -----
+
+[-0.8920440673828125] It's Asian inspired and they have some incredible little dishes of sushi and japanese type dishes.
+[-0.82379150390625] The air conditioning vent had so much filthy residue trapped inside that it could not possibly pass a health audit.
+[-0.81463623046875] I especially like the Dragonfish Cafe restaurant - it is one of my favorite restaurants for Asian Fusion.
+[-0.8121528625488281] We enjoyed dining at the Dragonfish restaurant for great food and reasonable pricing.
+[-0.80706787109375] Dragonfish restaurant is attached and has great seafood and sushi.
+
+**********
+
+[0.909881591796875] The stain was not cleaned.
+Parent: Another reviewer said there was a stain on the mattress that was not cleaned.
+
+----- Supporting -----
+
+[0.909881591796875] Then coming back to the room tonight after being away from 8:30am to 8:30pm, the room had not been cleaned.
+[0.72216796875] My gripe was that housekeeping must have noticed this when they changed the sheets, but made no attempt at cleaning the mattress and simply covered it back up.
+[0.69281005859375] This time a real maintenance person came and fixed it, but noone came to clean the floor like we requested.
+[0.628570556640625] Stripping the sheets, I found a fairly fresh urine stain that made me want to vomit.
+[0.3275299072265625] We found out afterwards that the manager took off the second night room charge and parking from the bill, but the damage has been done.
+
+----- Weakening -----
+
+[-0.9881019592285156] The room was meticulously cleaned including plenty of soft linins and offers one of the most comfortable beds I have ever slept on.
+[-0.9594650268554688] The bellman made up for it, who gave us the idea of taking Light Rail to the airport, saving us about $35!
+[-0.9558944702148438] The problems were rectified immediately.
+[-0.9525604248046875] Our room was very clean and the service was very friendly.
+[-0.936737060546875] Rooms were very clean and comfortable.
+
+**********
+
+[0.22344970703125] The Paramount was clean.
+Parent: The Paramount was a clean and positive experience.
+
+----- Supporting -----
+
+[0.22344970703125] A lovely hotel with an updated room that was spotless.
+[0.1855316162109375] The hotel is recently remodeled and the rooms are very clean and modern as is the hotel lobby.
+[0.1346435546875] The cleaning staff is very friendly; the frontdesk staff and valets are OK.
+[0.123443603515625] The staff is friendly and super helpful (ie: tourist questions, room questions etc), the rooms are neat and clean and comfortable, the location is perfect and close to everything you need downtown including transit to anything outside of downtown (monorail, bus stops, lightrail).
+[0.1023712158203125] the lobby is sort of lackluster but the rooms were tasfully updated and very clean.
+
+----- Weakening -----
+
+[-0.9974684715270996] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[-0.9932880401611328] The air conditioning vent had so much filthy residue trapped inside that it could not possibly pass a health audit.
+[-0.9925422668457031] It was dark, dirty, and noisy from the construction right outside my window.
+[-0.9924068450927734] Stripping the sheets, I found a fairly fresh urine stain that made me want to vomit.
+[-0.978968620300293] Don't take a room on the inside unless you want to be awakened by the garbage trucks at 5am.
+
+**********
+
+[0.8843231201171875] The Paramount was a good experience.
+Parent: The Paramount was a clean and positive experience.
+
+----- Supporting -----
+
+[0.8843231201171875] Getting my car from the valet took less than three minutes... My stay at the Paramount was a very pleasant and positive experience.
+[0.7908744812011719] I was very pleased with my stay at the Paramount.
+[0.7260074615478516] The Paramount was a lovely hotel.
+[0.5728759765625] The valet man was excellent.
+[0.5609512329101562] We found the Paramount hotel an exceptional value for our purpose.
+
+----- Weakening -----
+
+[-0.9663314819335938] PLEASE don't give this awful chain your business!
+[-0.9600143432617188] I did not enjoy my stay here.
+[-0.9537105560302734] Based on my overall experience I could not recommend this hotel.
+[-0.9510698318481445] Ok, it is bad.
+[-0.9476966857910156] Cons 1- No view really.
+
+**********
+
+[0.9861531257629395] There were some drawbacks.
+Parent: There were a few drawbacks, however, including the fitness center which was in the basement and felt like a dungeon.
+
+----- Supporting -----
+
+[0.9861531257629395] Now, a few drawbacks - the hotel charges $9.95/day for wifi, does any other motel/hotel anywhere do that anymore?
+[0.9516563415527344] - Free coffee in the morning and apples in the afternoon - Beds are pretty comfy The cons: - The gym was a joke.
+[0.9475345611572266] Some other minor issues were the desk chair in the room (it fell short of an appropriate working height of the desk and constantly fell down when your leg accidently hit the adjustment bar in front, poor choice of chairs), the elevator door was annoyingly slow to close (I was up and down several times per day), the exterior and lobby doors should be automatic and I noticed people struggling to open them and get their luggage through, they also were misaligned and did not open well.
+[0.9249200820922852] We had some issues with hot water and the in-room hairdryer was small and weak (not a big deal, but most hotels now provide the full-size kind).
+[0.9242191314697266] Cons 1- No view really.
+
+----- Weakening -----
+
+[-0.118621826171875] There is no complimentary anything.
+[-0.07720947265625] The pros: - Convenient the location, walking distance to Pike Place Market (8 short blocks) and Bell Town.
+[-0.0678253173828125] We enjoyed the bustle and excitement of this area of downtown, and we have no complaints about the room or cleanliness or service or noise.
+[-0.06695556640625] Pros: 1- Quick service.
+[-0.05621337890625] The bathroom was indeed on the small side but it presented no problems.
+
+**********
+
+[0.9808616638183594] The fitness center was located in the basement.
+Parent: There were a few drawbacks, however, including the fitness center which was in the basement and felt like a dungeon.
+
+----- Supporting -----
+
+[0.9808616638183594] The only aspect of the hotel that could be improved, in my opinion, is the fitness center -- it's in the basement and has older equipment.
+[0.9779739379882812] The only thing I didn't care for was the fitness center, which was sort of a dungeon in the basement.
+[0.0] :)
+[0.0] Not cool!
+[0.0] walk.
+
+----- Weakening -----
+
+[-0.9898102283477783] It was quiet and is in a nice central location.
+[-0.9564399719238281] Had a room on the 8th floor facing The Grand Hyatt.
+[-0.9550132751464844] The restaurant downstairs has amazing happy hours with great food and drink specials.
+[-0.9531230926513672] I debated whether to stay here or the Hyatt which was right in front of it.
+[-0.9436874389648438] The corner rooms are the nicest and have nice city views.
+
+**********
+
+[0.22515869140625] The fitness center was not inviting.
+Parent: There were a few drawbacks, however, including the fitness center which was in the basement and felt like a dungeon.
+
+----- Supporting -----
+
+[0.22515869140625] - Free coffee in the morning and apples in the afternoon - Beds are pretty comfy The cons: - The gym was a joke.
+[0.221649169921875] The only thing I didn't care for was the fitness center, which was sort of a dungeon in the basement.
+[0.151123046875] There is no pool..the breakfast is in the restaurant and it starts at like $8, you can't put out a little fruit for your guests, the paper is 75 cents a day.
+[0.14844512939453125] The room is shabby, the shower made a horrible noise whenever the water was running.
+[0.096221923828125] The not so good: The hotel had touted a 2 person tub - and while it was a soaking tub - it wasn't comfortable for two.
+
+----- Weakening -----
+
+[-0.9852323532104492] We ate there very late one night and there was a good crowd and the place was very lively.
+[-0.9835329055786133] Large room, with amazing king size bed, stunning bathroom, and a view.
+[-0.9819927215576172] The lobby is beautfully furnished and offers a great meeting place or somewhere to rest.
+[-0.9805870056152344] The location is EXCELLENT, the staff is friendly, welcoming, knowledgeable, and helpful, the beds are heavenly.
+[-0.980560302734375] Nicely appointed lobby.
+
+**********
+
+[0.9897584915161133] The hotel charges for WiFi.
+Parent: Additionally, the hotel charges for WiFi, which is something that many other hotels do not do.
+
+----- Supporting -----
+
+[0.9897584915161133] Now, a few drawbacks - the hotel charges $9.95/day for wifi, does any other motel/hotel anywhere do that anymore?
+[0.9172210693359375] Excellent service from the restaurant, asinine charges from AT&T for the wireless, but what do you expect.
+[0.448089599609375] I recently booked a two-night stay in July on Hotwire for $123 a night, and I am looking forward to my next stay.
+[0.39818763732910156] Have to pay for internet, but there are 2 computers in the lobby for guest use.
+[0.3865318298339844] In room internet at $9.95/day.
+
+----- Weakening -----
+
+[-0.9904537200927734] Has fitness (I did not use it), free Wi-Fi and a desk where you can print e.g.
+[-0.9899272918701172] There was also free wifi in the room and the cable package included HBO, which we love.
+[-0.9869632720947266] Clean rooms, pleasant staff with good restaurant recommendations, and fast, free internet.
+[-0.9868392944335938] The room was cosy, the free WiFi was a godsend, the staff was courteous and helpful.
+[-0.984649658203125] Too many hotels now days are going to free wi-fi and we are starting to look for hotels that offer it.
+
+**********
+
+[0.8682861328125] Other hotels don't charge for WiFi.
+Parent: Additionally, the hotel charges for WiFi, which is something that many other hotels do not do.
+
+----- Supporting -----
+
+[0.8682861328125] Too many hotels now days are going to free wi-fi and we are starting to look for hotels that offer it.
+[0.073089599609375] Never ever seen this in any hotel I have ever stayed at.
+[0.0152435302734375] The convention hotel was full, so I took a chance on the Paramount, at half the price.
+[0.0097503662109375] Has fitness (I did not use it), free Wi-Fi and a desk where you can print e.g.
+[0.00846099853515625] The room was cosy, the free WiFi was a godsend, the staff was courteous and helpful.
+
+----- Weakening -----
+
+[-0.41583251953125] Restaurant staff was also very poor
+[-0.39019775390625] Only downside is the charge for parking, $27 a night, but that is now standard, if not low, for parking in Seattle.
+[-0.36175537109375] Their tone of voice was no better than a 13 year old with a bad attitude!
+[-0.351287841796875] Pine Street is much easier to walk down to the Market than some of the other downtown streets (less incline.)
+[-0.344573974609375] Some other restaurants in the area within two blocks (Vons, Cheesecake factory).
+
+**********
+
+[0.5818290710449219] The reviewers said that the hotels were clean.
+Parent: The reviewers said that the hotels were clean.
+
+----- Supporting -----
+
+[0.5818290710449219] Friendly welcoming staff, clean, one of the best hotels I've stayed at in a long time!
+[0.4696617126464844] The best included the cleanliness, the attention to detail with lighting and electrical outlets, the comfortable furniture, the robes, the great shower, the refrigerator, the windows can open, the wide and well lit hallways (although too warm) and of course an excellent king bed.
+[0.3174591064453125] Clean rooms, pleasant staff with good restaurant recommendations, and fast, free internet.
+[0.18748188018798828] Highly recommend this hotel rooms, they were nice and clean and very comfortable.
+[0.140960693359375] The rooms were clean and I forgot an item and was able to get it back from the front desk staff.
+
+----- Weakening -----
+
+[-0.9852867126464844] The air conditioning vent had so much filthy residue trapped inside that it could not possibly pass a health audit.
+[-0.9787893295288086] I stayed one night in the Paramount in room 315..Buyer beware, do not stay in this room as it overlooks the back parking lot over the Huge garbage dump..Also, faces the vents from the Chinese Restaurant attached to the hotel so the room is filled with the smell of frying foods(horrible) and garbage....Even if your window(small) is closed and the a/c on, the smell overwhelms !
+[-0.9624900817871094] The room is shabby, the shower made a horrible noise whenever the water was running.
+[-0.9538378715515137] Don't take a room on the inside unless you want to be awakened by the garbage trucks at 5am.
+[-0.9283733367919922] They just seem unsanitary to me.

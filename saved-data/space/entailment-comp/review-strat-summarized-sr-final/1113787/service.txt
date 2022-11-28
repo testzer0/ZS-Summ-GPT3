@@ -1,0 +1,107 @@
+***** Aspect: service Model Type : zs *****
+Overall score: 0.5583858489990234
+
+**********
+
+[0.9470129013061523] The service at the hotel is poor.
+Parent: The service at the hotel is poor, with long wait times, inexperienced staff, and little attention to detail.
+
+----- Supporting -----
+
+[0.9470129013061523] Maybe I'm just spoiled, but I travel frequently and I have never recieved such poor service from an "upscale" hotel.
+[0.9065628051757812] Absolutely ridiculous service for any hotel let alone one u pay $300+ a night for.
+[0.6052169799804688] to get ONE sandwhich I had to call and ck on it and there are slow and the service is so bad and the managers know which makes it WORSE...
+[0.25905609130859375] Furthermore, room service was closed at 10 pm, front desk was unhelpful (in ordering a pizza nonetheless) and Charlie Palmer was a waste of time and energy (great staff, HORRIBLE management.)
+[0.16586685180664062] After my first drink we had to flag down a girl to ask for another as the pool area was not busy maybe 6 other people so ni reason for service to be that bad.
+
+----- Weakening -----
+
+[-0.9979157447814941] The room service was wonderful - the food was great, and the service was, again, exceptional.
+[-0.9977269172668457] The staff is fantastic - Neil and Myron at the Front Desk always make me feel Welcome and Gus at the Valet provides a level of service rarely seen at any hotel.
+[-0.9976253509521484] The staff is excellent and did everything possible to ensure we had a wonderful stay.
+[-0.9975626468658447] Bryson also has great customer service and I enjoyed visiting with Bryson on the front sidewalk several times.
+[-0.997138500213623] From the minute I pulled into the hotel, it was nothing but first class service and a professional knowledgable staff.
+
+**********
+
+[0.2572212219238281] The service at the hotel has long wait times.
+Parent: The service at the hotel is poor, with long wait times, inexperienced staff, and little attention to detail.
+
+----- Supporting -----
+
+[0.2572212219238281] My patience was def tested at this hotel at the incompetence incurred.
+[0.062286376953125] Then Saturday evening after having night of fun on town came back to order room service it took 45 mins.
+[0.05455780029296875] My friend finally asked why we were waiting while everyone else was allowed in and the man very rudely announced that those folks were hotel guests.
+[0.047119140625] Then I went up to bar to close tab again just standing there it took ten mins, then the manager of the pool and club pm was there and was very friendly offered us free drinks and help but I rejected I no longer wanted to be around that.
+[0.0318450927734375] Still waiting for this latest issue to be resolved after being trf to 3 ppl at the hotel.
+
+----- Weakening -----
+
+[-0.9757699966430664] Even with it being first come, first serve, the service only had about a 10 minute wait on a Saturday night.
+[-0.9558911323547363] The Incredible Customer Service starts when you arrive at the door.
+[-0.9509334564208984] They upgraded us to a suite free of charge, brought in cupcakes, a special beer and were of ongoing assistance through out the stay, helping to make his birthday a great day and full of surprises.
+[-0.9505720138549805] We received prompt and courteous service at check-in, and arrived to find an extremely nice well appointed room.
+[-0.9408979415893555] These folks go out of their way to make your stay enjoyable and hassle free.
+
+**********
+
+[0.1080169677734375] The service at the hotel has staff that are inexperienced.
+Parent: The service at the hotel is poor, with long wait times, inexperienced staff, and little attention to detail.
+
+----- Supporting -----
+
+[0.1080169677734375] The staff are all young and good looking with little knowledge of service expectations.
+[0.09086990356445312] It seemed as if they had the "summer staff" on duty.
+[0.05886077880859375] Some of the younger front desk staff tend to be a little snooty.
+[0.049652099609375] My patience was def tested at this hotel at the incompetence incurred.
+[0.031497955322265625] It was insulting that the doorman/management were so disrespectful and unwilling to take care of their guest.
+
+----- Weakening -----
+
+[-0.9964761734008789] From the minute I pulled into the hotel, it was nothing but first class service and a professional knowledgable staff.
+[-0.9786500930786133] The staff is fantastic - Neil and Myron at the Front Desk always make me feel Welcome and Gus at the Valet provides a level of service rarely seen at any hotel.
+[-0.965418815612793] The staff is professional and accommodating of all needs.
+[-0.9594841003417969] I stayed with you all in May of this year and I must say you have some of the best staff ever...
+[-0.9571290016174316] The staff is truly extraordinary and made me feel at home.
+
+**********
+
+[0.9470129013061523] The service at the hotel is poor.
+Parent: The service at the hotel is poor, with long wait times, inexperienced staff, and little attention to detail.
+
+----- Supporting -----
+
+[0.9470129013061523] Maybe I'm just spoiled, but I travel frequently and I have never recieved such poor service from an "upscale" hotel.
+[0.9065628051757812] Absolutely ridiculous service for any hotel let alone one u pay $300+ a night for.
+[0.6052169799804688] to get ONE sandwhich I had to call and ck on it and there are slow and the service is so bad and the managers know which makes it WORSE...
+[0.25905609130859375] Furthermore, room service was closed at 10 pm, front desk was unhelpful (in ordering a pizza nonetheless) and Charlie Palmer was a waste of time and energy (great staff, HORRIBLE management.)
+[0.16586685180664062] After my first drink we had to flag down a girl to ask for another as the pool area was not busy maybe 6 other people so ni reason for service to be that bad.
+
+----- Weakening -----
+
+[-0.9979157447814941] The room service was wonderful - the food was great, and the service was, again, exceptional.
+[-0.9977269172668457] The staff is fantastic - Neil and Myron at the Front Desk always make me feel Welcome and Gus at the Valet provides a level of service rarely seen at any hotel.
+[-0.9976253509521484] The staff is excellent and did everything possible to ensure we had a wonderful stay.
+[-0.9975626468658447] Bryson also has great customer service and I enjoyed visiting with Bryson on the front sidewalk several times.
+[-0.997138500213623] From the minute I pulled into the hotel, it was nothing but first class service and a professional knowledgable staff.
+
+**********
+
+[0.5326652526855469] The hotel is not responsive to guests' complaints.
+Parent: Additionally, the hotel has been unresponsive to guests' complaints.
+
+----- Supporting -----
+
+[0.5326652526855469] It was insulting that the doorman/management were so disrespectful and unwilling to take care of their guest.
+[0.3303680419921875] My friend finally asked why we were waiting while everyone else was allowed in and the man very rudely announced that those folks were hotel guests.
+[0.14987945556640625] Furthermore, room service was closed at 10 pm, front desk was unhelpful (in ordering a pizza nonetheless) and Charlie Palmer was a waste of time and energy (great staff, HORRIBLE management.)
+[0.138885498046875] We were barked at by the manager twice for bringing in outside food eve though we were buying their pricey drinks and paying for rooms there.
+[0.13263607025146484] After calling down to the desk, they did not even give a simple apology.
+
+----- Weakening -----
+
+[-0.9962067604064941] Not only did the hotel help me find a local doctor, but the manager on duty checked on me and sent chicken soup to the room to help me feel better.
+[-0.9900298118591309] From the bell staff, to the bar staff, everyone was friendly, welcoming and eager to help all the time.
+[-0.9894313812255859] The staff is professional and accommodating of all needs.
+[-0.9883632659912109] Upon leaving the hotel I received a call that I left a very expensive watch in the room safe and it was returned with full communication.
+[-0.9872398376464844] Danielle and Gregory were always there for whatever we needed.

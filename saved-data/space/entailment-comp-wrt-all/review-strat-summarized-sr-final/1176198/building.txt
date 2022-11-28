@@ -1,0 +1,149 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.5986747060503278
+
+**********
+
+[0.32476806640625] The building was not liked by the reviewers.
+Parent: The building was not well-liked by the reviewers, with many finding it unclean and poorly managed.
+
+----- Supporting -----
+
+[0.32476806640625] I truly disliked the bed.
+[0.1550731658935547] I would NOT recommend giving this hotel your business.
+[0.10950088500976562] Never in my life have I spent so much in one place and been treated so poorly.
+[0.09244918823242188] Pool/Hot Tub isn't much to write home about.
+[0.09239959716796875] BAD: Make sure you request a room that is not above the nightclub downstairs on Peter St. We were on the 17th floor & we could still hear all the music, even with our windows shut.
+
+----- Weakening -----
+
+[-0.9957623481750488] I was there with three other couples and they also loved the hotel.
+[-0.9949665069580078] We were so pleased with this hotel that we stayed an extra night!
+[-0.9940862655639648] We were very pleased and this hotel will remain with our Toronto file for the next trip.
+[-0.9937272071838379] We love this hotel.It is clean and beautiful.The staff treat you like friends.It is so centrally located that you can access downtown Toronto at its best.You are in walking distance to everything.We will be staying here again for sure.
+[-0.9927895069122314] We would highly recommend it to everyone!
+
+**********
+
+[0.14794921875] The building was unclean.
+Parent: The building was not well-liked by the reviewers, with many finding it unclean and poorly managed.
+
+----- Supporting -----
+
+[0.14794921875] It was also VERY quiet.
+[0.05072784423828125] Never in my life have I spent so much in one place and been treated so poorly.
+[0.04608917236328125] Never again will I waste money at this property.
+[0.03000640869140625] I would NOT recommend giving this hotel your business.
+[0.01910400390625] The location was good for us but it is definitely not the nicest area of town.
+
+----- Weakening -----
+
+[-0.9974884986877441] Clean, shiny new hotel with spacious welcoming lobby and attractive decor.
+[-0.9954471588134766] We love this hotel.It is clean and beautiful.The staff treat you like friends.It is so centrally located that you can access downtown Toronto at its best.You are in walking distance to everything.We will be staying here again for sure.
+[-0.9950556755065918] I have nothing bad to say about this hotel, helpful staff, clean tidy room, comfy beds, great location, it was a perfect place to stay.
+[-0.9950394630432129] The staff was friendly and they did all they could to help us.
+[-0.9948830604553223] Great to stay in a new hotel, very clean, lovely furnishings and decor.
+
+**********
+
+[0.18614768981933594] The building was poorly managed.
+Parent: The building was not well-liked by the reviewers, with many finding it unclean and poorly managed.
+
+----- Supporting -----
+
+[0.18614768981933594] Never in my life have I spent so much in one place and been treated so poorly.
+[0.11029815673828125] I would not stay her again because of the rude front desk staff and the street noise.
+[0.07114791870117188] This night was a bit of a mess; we would walk out to the hallway and smell weed, hear loud music blasting, etc.
+[0.0625] Hotel rooms and restaurant = great "Valet" = brutal and ruined the whole stay.
+[0.04453277587890625] It's pretty clear that this hotel did not train the staff before opening: You can only valet park your car for $35.
+
+----- Weakening -----
+
+[-0.9975066184997559] This hotel was modern, clean and well maintained.
+[-0.9970877170562744] Lots of thought has gone in to making guests happy, with a huge flat screen TV, very comfy bed, noon check-out, blackout curtains, fridge and fab bathroom with the huge shower/jet enclosure and nice toiletries!
+[-0.9970641136169434] Staff at the complimentary breakfast were also superb,.
+[-0.9966866970062256] Everything looked brand new and it was extremely clean.
+[-0.9966323375701904] They have an incredible pool and gym that are both kept impeccably clean.
+
+**********
+
+[0.725555419921875] The fire alarm was disruptive and inconvenient.
+Parent: Additionally, the fire alarm going off was disruptive and inconvenient.
+
+----- Supporting -----
+
+[0.725555419921875] I was there the morning of the false fire alarm and although it was annoying I would rather it be false than for real!
+[0.22100830078125] We were on the fourteenth floor and though we couldn't hear the music (which lasted until around 4 A.M.) the beat of the base permeated through the walls and just couldn't be stopped.
+[0.079345703125] The only bad things that i can mention are that during my stay another guest decided to set the fire alarm of at 04:30, not a wake up call I want to repeat.
+[0.07173919677734375] Key cards kept deactivating so we had to go up and down elevator several times to have it reactivated.
+[0.04098701477050781] We were there for 4 days/3 nights and every day we had to track down a maid to request clean towels.
+
+----- Weakening -----
+
+[-0.979597806930542] Did not hear a thing the whole time we were there.
+[-0.9744000434875488] The staff was friendly, helpful and efficient.
+[-0.9586715698242188] The staff were very friendly and unintrusive, check in and check out were quick, under 5 mins.
+[-0.9323124885559082] all of the staff were super friendly.
+[-0.9315690994262695] Staff was friendly and helpful.
+
+**********
+
+[0.8801403045654297] The facilities were good.
+Parent: However, the building was praised for its facilities, thin walls, and convenient location.
+
+----- Supporting -----
+
+[0.8801403045654297] Nice facilityin a convenient location, very useful business services room, friendly restaurant staff (though the honeydew melon in the salad bar was off).
+[0.8763866424560547] The facilities are also better than I have encountered in any hotel.
+[0.8129644393920898] the Pool, while not large, was comfortable and clean, and the workout facilities were excellent.
+[0.8117561340332031] The rooms are equal to anything Hilton offers, the fitness facility is first rate and the restaurant staff are friendly and attentive - to the right degree.
+[0.7833042144775391] The rooms and staff are fine.
+
+----- Weakening -----
+
+[-0.93231201171875] Pool/Hot Tub isn't much to write home about.
+[-0.910430908203125] my boyfriend and i both went home sore and dead tired from trying to find a comfortable way to sleep tossing and turning all night but there was none.
+[-0.8789901733398438] BAD: Make sure you request a room that is not above the nightclub downstairs on Peter St. We were on the 17th floor & we could still hear all the music, even with our windows shut.
+[-0.8614063262939453] Never in my life have I spent so much in one place and been treated so poorly.
+[-0.8006134033203125] First, there was absolutely no housecleaning/maid service!
+
+**********
+
+[0.9664530754089355] The building had thin walls.
+Parent: However, the building was praised for its facilities, thin walls, and convenient location.
+
+----- Supporting -----
+
+[0.9664530754089355] (once we figured out how to work all the shower heads) The walls were very thin though-we could really hear our neighbours mini party at 2AM in the morning.
+[0.9315261840820312] There was a little noise in the adjacent rooms, walls are paper-thin as in most hotels.
+[0.02655029296875] we were so tired and sore from bad sleep we went home early on monday without shopping or anything the room was kind of plain we had the room with a jacuzzi and fireplace but both nights when we were in bed sleeping the jacuzzi mysteriously turned on and woke us both up and we couldn't figure out how to turn it off.
+[0.025970458984375] We went down 20 minutes later ready to go and the guy said it would be another 20 minutes!
+[0.0235595703125] We were on the fourteenth floor and though we couldn't hear the music (which lasted until around 4 A.M.) the beat of the base permeated through the walls and just couldn't be stopped.
+
+----- Weakening -----
+
+[-0.9553031921386719] Also, tons of bars everywhere!!!
+[-0.8031005859375] Lots of thought has gone in to making guests happy, with a huge flat screen TV, very comfy bed, noon check-out, blackout curtains, fridge and fab bathroom with the huge shower/jet enclosure and nice toiletries!
+[-0.746856689453125] Since we never walk bare feet on the carpet and the rest was clean, I assumed it had been cleaned but it didn't come off.
+[-0.735748291015625] A HUGE plus is that there's a microwave and mini-fridge in every room!
+[-0.7153472900390625] The Hilton Garden Inn is in a great location within walking distance of C.N.Tower and Rogers Stadium and next to a wide selection of restaurants,bars,shops etc There are fresh apples to help yourself each morning and cookies at night,also complimentary drinks on some days ?The rooms are spacious and clean BUT if you are stayingThursday through until Sunday there is a club with a patio next door and the noise is terrific until around three in the morning so if your not out yourself you will not sleep.We only had this experience on the Sat night the rest of our stay was perfect through until the following Wednesday.Fridge,microwave abd coffe maker in room really useful.Go to the italian quarter for some really great little restaurants and bars.Toronto is a terrific city ENJOY!
+
+**********
+
+[0.9597091674804688] The location was convenient.
+Parent: However, the building was praised for its facilities, thin walls, and convenient location.
+
+----- Supporting -----
+
+[0.9597091674804688] Convenient location, quiet and large room (mine was very quiet, while some rooms are not because of the proximity of night clubs), wonderful breakfast, free Internet.
+[0.9173517227172852] The rooms are in excellent condition, housekeeping is very good, and the location is very handy to everything downtown.
+[0.8956031799316406] The hotel is very conveniently located in downtown Toronto and overall the stay was very satisfactory for the price.
+[0.8914308547973633] My fiance and I stayed at this hotel the last time we went to Toronto to see a jays ball game, located a few footsteps from the cn tower/rogers centre, very convenient location, very good price, clean room, friendly staff, but as other reviews say, and we were expecting it and didn't mind considering the price and location, this hotel is right next to a night club, so the music really boom booms until early morning, unless you are a light sleeper, I would recommend this hotel to you.
+[0.8913345336914062] The hotel is close enough to the big attractions to be convenient but still is not in an overly busy/loud part of town which was nice.
+
+----- Weakening -----
+
+[-0.8868923187255859] We were extremely inconvenienced (mother in law in hospital).
+[-0.8386917114257812] Searching around for alternate parking in the area is a crapshoot, as much parking in the area [only a few blocks from the Rogers Centre/Skydome and inside the Entertainment District] is outdoors and prices are jacked up for events and weekends.
+[-0.8216133117675781] my boyfriend and i both went home sore and dead tired from trying to find a comfortable way to sleep tossing and turning all night but there was none.
+[-0.7565212249755859] Try not to get a room on that side, even high up.
+[-0.6659927368164062] That was a bit of a pain, but understandable, because it was getting extremely rowdy and it was clear people were bringing in about 10 people into one room.

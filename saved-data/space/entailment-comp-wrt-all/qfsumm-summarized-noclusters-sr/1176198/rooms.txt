@@ -1,0 +1,128 @@
+***** Aspect: rooms Model Type : zs *****
+Overall score: 0.6650189558664957
+
+**********
+
+[0.9945502281188965] After 11 pm you have to use your room card to get into the building.
+Parent: Second , after 11 pm you have to use your room card to get into the building .
+
+----- Supporting -----
+
+[0.9945502281188965] Second, after 11pm you have to use your room card to get into the building.
+[0.017978668212890625] Happily to get in the hotel at night you need to use your keycard and they ask you to confirm your room number and name at the front desk prior to accessing the elevator.
+[0.0] Horrible !
+[0.0] WOW !
+[0.0] Downfall ?
+
+----- Weakening -----
+
+[-0.8208942413330078] We were informed that we can get the cart and use it ourselves.
+[-0.7711648941040039] Free internet was nice too, and useful.
+[-0.7651844024658203] And the free internet is speedy.
+[-0.7649440765380859] It is not that hard to match up numbers on tickets to find a vehicle.
+[-0.7163238525390625] If you want to check in early (it's usually 3pm), call in advance and many times they have some rooms that are ready, and they'll let you in with no extra charge.
+
+**********
+
+[0.9838790893554688] We stayed for 4 days.
+Parent: We were there for 4 days / 3 nights and every day we had to track down a maid to request clean towels .
+
+----- Supporting -----
+
+[0.9838790893554688] We were there for 4 days/3 nights and every day we had to track down a maid to request clean towels.
+[0.73980712890625] Stayed there for 6 nights.
+[0.555877685546875] Stayed here for a week, the hotel is nice, rooms are nicely appointed.
+[0.51239013671875] Had been here for 6 night.
+[0.415283203125] My boyfriend and I stayed here this past weekend january 21-23 and the people were nice not that we were in the hotel to much other than to sleep but the bed was absolutely awful it was like sleeping on a board.
+
+----- Weakening -----
+
+[-0.9985165596008301] We took one of those hop on and off tour bus and there was a stop not that far from the hotel.. We only stayed there for 1 night but we made the most out of it.
+[-0.9980363845825195] I only stayed there for one night but the room was very comfortable and clean.
+[-0.9962143898010254] Stayed here for one night while in Toronto for the Manchester United vs. Celtic match.
+[-0.9951343536376953] Overall we had a fantastic 1 night stay especially since check out time was noon so we could sleep in.
+[-0.9924249649047852] My wife and I stayed at this hotel for one night last July.
+
+**********
+
+[0.119781494140625] The maid service was inadequate.
+Parent: We were there for 4 days / 3 nights and every day we had to track down a maid to request clean towels .
+
+----- Supporting -----
+
+[0.119781494140625] First, there was absolutely no housecleaning/maid service!
+[0.1063385009765625] We spoke with the lady at the desk and all she had to say was "we have never had a Sunday like this... We have another valet employee coming in in an hour" Not helpful!
+[0.066192626953125] Pool and hot tub clean, though bizarrly no changing room.
+[0.0591278076171875] Two nights we did have a guest, who had orginally intended to attend the conference: despite being assured on the phone that we could add a rollaway for him, when he arrived, we couldn't, and he and my colleague had to split a regular bed.
+[0.052001953125] We requested to have a maid clean our bathroom and take the trash out, no one ever came!
+
+----- Weakening -----
+
+[-0.9946589469909668] Exceptional service!
+[-0.994163990020752] The service is great and you must try a croissant - the best.
+[-0.9934930801391602] housekeeping was super here.
+[-0.9910788536071777] The rooms are in excellent condition, housekeeping is very good, and the location is very handy to everything downtown.
+[-0.9890742301940918] The service was quite good.
+
+**********
+
+[0.9172248840332031] The bathroom was not clean.
+Parent: We requested to have a maid clean our bathroom and take the trash out , no one ever came !
+
+----- Supporting -----
+
+[0.9172248840332031] The wallpaper in the bathroom and our room was warped, bubbled, etc.
+[0.71661376953125] We requested to have a maid clean our bathroom and take the trash out, no one ever came!
+[0.60858154296875] Plus the spa had too much chlorine in and that my eye's were stinging.
+[0.5687713623046875] We were there for 4 days/3 nights and every day we had to track down a maid to request clean towels.
+[0.5618667602539062] First, there was absolutely no housecleaning/maid service!
+
+----- Weakening -----
+
+[-0.9902744293212891] Bathroom very clean.
+[-0.9871902465820312] The bathroom was lovely and clean as well.
+[-0.9755840301513672] Super clean..i mean there wasn't any dust...dirt, smudges...The (glass or plexiglass) partition for whirpool was so clean that it positively sparkled.
+[-0.9718170166015625] All very clean, there was a couple of hairs in the tub but everything else was spotless.
+[-0.9695415496826172] It looked brand new and it was very clean, everything from room to washroom and public hotel spaces.
+
+**********
+
+[0.026882171630859375] The maid should have taken the trash out.
+Parent: We requested to have a maid clean our bathroom and take the trash out , no one ever came !
+
+----- Supporting -----
+
+[0.026882171630859375] We requested to have a maid clean our bathroom and take the trash out, no one ever came!
+[0.0024776458740234375] First, there was absolutely no housecleaning/maid service!
+[0.0] Horrible !
+[0.0] WOW !
+[0.0] Downfall ?
+
+----- Weakening -----
+
+[-0.9128322601318359] Free wi-fi!
+[-0.9122524261474609] GOOD: Location is awesome!!!
+[-0.9091529846191406] You could make your own waffles with delicious toppings, huge choice of cereals and pastries, cooked items are made to order so fresh and yummy!
+[-0.8925743103027344] The lobby has delicious cookies every afternoon.
+[-0.8842315673828125] Shop for deals on the rate.
+
+**********
+
+[0.9477958679199219] No one ever came.
+Parent: We requested to have a maid clean our bathroom and take the trash out , no one ever came !
+
+----- Supporting -----
+
+[0.9477958679199219] We requested to have a maid clean our bathroom and take the trash out, no one ever came!
+[0.1298065185546875] Gym is very good, and to my surprise, was empty the couple of times I went about.
+[0.06665420532226562] The indoor pool and hot tub are nice and we had the whole area to ourselves when we went.
+[0.036022186279296875] It was also VERY quiet.
+[0.021514892578125] Did not hear a thing the whole time we were there.
+
+----- Weakening -----
+
+[-0.9992551803588867] Our room also had 2 queens which was nice since I went with a bunch of dudes.
+[-0.9992470741271973] Caused a bit of noise and just a lot of people right outside the hotel entrance.
+[-0.999237060546875] It was a very noisy Saturday night as there was lots of partying going on in the streets till 3 or 4 in the morning and we could hear it loud and clear.
+[-0.9992265701293945] My husband is confined to a wheelchair and we really appreciated the extra effort the valets took helping us remove the chair from the car, assemble it, get my husband into it and get us into the hotel.
+[-0.9992105960845947] The lobby was packed with people waiting for their cars.

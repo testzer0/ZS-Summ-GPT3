@@ -1,0 +1,149 @@
+***** Aspect: service Model Type : zs *****
+Overall score: 0.8500956807817731
+
+**********
+
+[0.9611473083496094] The Marriott was a good hotel.
+Parent: I stayed at the Marriott in mid-June for one night on a business trip .
+
+----- Supporting -----
+
+[0.9611473083496094] It's not excellent, but it is a very good Marriott.
+[0.9392595291137695] This is a nice hotel, typical Marriott, with an excellent location.
+[0.9293289184570312] I loved that stay and I don't think there is a better hotel in Canada than that Marriott!
+[0.7632999420166016] Overall : The Marriott Hotel served a purpose and we had a comfortable stay.
+[0.7609596252441406] Just came back from a four night stay at the Marriott Downtown Eaton Centre, and I was completely satisfied with this hotel.
+
+----- Weakening -----
+
+[-0.9559383392333984] It is probably the most depressing hotel I have ever stayed in.
+[-0.9387569427490234] During our recent trip we stayed in 5 hotels in Canada and this was by far the worst.
+[-0.9306716918945312] The Eaton Centre is marvellous..
+[-0.8047332763671875] Excellent steakhouse two blocks away...easy to walk to...called Barberians...very expensive!
+[-0.79705810546875] For business use the hotel gets a C, it was a poor service compared to the others.
+
+**********
+
+[0.988616943359375] The hotel was just okay.
+Parent: I stayed at the Marriott in mid-June for one night on a business trip .
+
+----- Supporting -----
+
+[0.988616943359375] This hotel was okay, nothing special.
+[0.8883743286132812] All in all, I'd say this hotel is ok. Price needs to go down a bit and staff friendliness up some.
+[0.69464111328125] Clean hotel, well located.
+[0.6403045654296875] We experienced no problems in this area -- like we usually do in other hotels.
+[0.62005615234375] The Hotel itself is fine and we had no complaints about anything.
+
+----- Weakening -----
+
+[-0.9968338012695312] This hotel is awesome for several reasons.
+[-0.9967894554138184] This hotel was extremely luxurious and the view was fantastic.
+[-0.9963417053222656] This hotel is wonderful.
+[-0.9956512451171875] This is an excellent hotel.
+[-0.9955177307128906] The hotel is marvelous, their renovations are complete and they did a wonderful job, we had a room with king bed, great tv in the room and it was a very spacious room.
+
+**********
+
+[0.9843521118164062] I went on a business trip.
+Parent: I stayed at the Marriott in mid-June for one night on a business trip .
+
+----- Supporting -----
+
+[0.9843521118164062] I stayed at the Marriott in mid-June for one night on a business trip.
+[0.9768447875976562] All in all, a very successful business trip by day and very comfortable nights at the Marriott.
+[0.9762363433837891] I stayed here for one night during a business trip.
+[0.8909912109375] We spent four nights here in November as an add-on to a business trip.
+[0.8702545166015625] I am an avid business traveller and stop in Toronto quite often.
+
+----- Weakening -----
+
+[-0.9950695037841797] Friday AM I had surgery.
+[-0.9898438453674316] Decided to go shopping instead...hihi!
+[-0.9890294075012207] My sister and I were in Toronto for a family emergency.
+[-0.9872360229492188] I explained that I had just had surgery and needed assistance.
+[-0.9853553771972656] I stayed in this hotel as part of a large family group who travelled from Ireland to Toronto for a wedding, the management and staff were wonderful, this was not only about the facilities of the hotel but they were very helpful in guiding us where to go in Toronto and how to get there.
+
+**********
+
+[0.9943318367004395] The front desk clerk told me about it.
+Parent: The front desk clerk told me about it , and said the hotel would pay for a calling card for me if I wished to make calls .
+
+----- Supporting -----
+
+[0.9943318367004395] The front desk clerk told me about it, and said the hotel would pay for a calling card for me if I wished to make calls.
+[0.623779296875] Rochelle on the Concierge desk provided sound advice on transport, tickets and even where to find Ontario's best apple fritters at the St Jacobs farmers market!
+[0.404541015625] The customer service person was quite apologetic and told me that she would see what she could do.
+[0.2147216796875] The next day, we were talking to the concierge about places to see and where to get tickets for different attractions.
+[0.073211669921875] She told us that they were called by Marriott to remove the parking fees.
+
+----- Weakening -----
+
+[-0.9781036376953125] However the bus driver pointed out that the U. of Toronto Residence stop (the last stop) was much closer, just a very short walk between some buildings to arrive at the hotel.
+[-0.9275426864624023] One was dead and under the chair in the room, and the other my husband saw scurrying across the floor.
+[-0.9152374267578125] When I called to cancel, rather than just accept my cancellation request and take the money (I prepaid a nonrefunable sum for the room), they directed me to a manager person, who immediately heard my concerns and showed me objective evidence of what measures were taken to ensure that no bedbugs were in this hotel.
+[-0.9039192199707031] Our housekeeper was excellent and expressed her appreciation for the tip we left.
+[-0.9019393920898438] They quickly cancelled the 2nd reservation once they realised the situation, no questions asked.
+
+**********
+
+[0.9651107788085938] The front desk clerk offered to provide a calling card for making calls.
+Parent: The front desk clerk told me about it , and said the hotel would pay for a calling card for me if I wished to make calls .
+
+----- Supporting -----
+
+[0.9651107788085938] The front desk clerk told me about it, and said the hotel would pay for a calling card for me if I wished to make calls.
+[0.01300048828125] Sign up for points card.
+[0.001461029052734375] concierge was fairly helpful, front desk staff was prompt and helpful.
+[0.0009403228759765625] The staff is nice and helpful.
+[0.0008678436279296875] The Staff were great and very helpful.
+
+----- Weakening -----
+
+[-0.517669677734375] One was dead and under the chair in the room, and the other my husband saw scurrying across the floor.
+[-0.5148849487304688] The gentleman was excessively rude, simply entered the room, removed the dead bug and looked VERY quickly over the rest of the room before saying "Looks like we got em all".
+[-0.459320068359375] Our housekeeper was excellent and expressed her appreciation for the tip we left.
+[-0.43367767333984375] But the parking attendants were telling us we couldn't leave our car there.
+[-0.32070159912109375] Friday AM I had surgery.
+
+**********
+
+[0.9382143020629883] The customer service person was helpful.
+Parent: I called the customer service person ( with my cell phone ! )
+
+----- Supporting -----
+
+[0.9382143020629883] The front desk staff were also friendly and helpful with any requests.
+[0.9202690124511719] concierge was fairly helpful, front desk staff was prompt and helpful.
+[0.8181390762329102] The people at the front desk were more than willing to help us out with what we needed.
+[0.7342357635498047] Our dinner was memorable with a nice atmosphere, delicious food and the service friendly and helpful.
+[0.6526832580566406] Reception and checkin staff are flawless and will help you with anything youay need.
+
+----- Weakening -----
+
+[-0.9833774566650391] The gentleman was excessively rude, simply entered the room, removed the dead bug and looked VERY quickly over the rest of the room before saying "Looks like we got em all".
+[-0.9697341918945312] Front desk staff were not the friendliest...common to big cities perhaps?
+[-0.9465789794921875] The front desk girl didn't seem to understand the situation and said "oh there is a shoppers 2 blocks from here."
+[-0.8842544555664062] We declined, and he became very indignant.
+[-0.8309326171875] This time the clerk did manage a sorry, but it was forced.
+
+**********
+
+[0.118896484375] My cell phone worked.
+Parent: I called the customer service person ( with my cell phone ! )
+
+----- Supporting -----
+
+[0.118896484375] I called the customer service person (with my cell phone!)
+[0.055511474609375] The service has always been excellent.
+[0.04534912109375] Check-in was smooth and the hotel had received my on-line request for a high floor and honored it.
+[0.0421142578125] Finally I called at midnight to insist on another room which they gave me.
+[0.03448486328125] Reception and checkin staff are flawless and will help you with anything youay need.
+
+----- Weakening -----
+
+[-0.9046249389648438] Friday AM I had surgery.
+[-0.8884506225585938] Called down twice, still no cots, finally my husband had to go down to complain at desk, finally 20 minutes later got both of the cots.
+[-0.870025634765625] They got louder as the night progressed and started to smoke.
+[-0.8497314453125] He was sooo helpful and got my a few bandaids in less than a minute.
+[-0.8366470336914062] Only hangup was the boarding pass console was not working for Porter.

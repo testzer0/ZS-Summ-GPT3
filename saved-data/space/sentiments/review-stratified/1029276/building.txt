@@ -1,0 +1,24 @@
+***** building : Sentiments for original sentences *****
+shuttle : + 1     - 0
+Valet booth : + 0     - 1
+main lobby : + 0     - 1
+Rooms : + 1     - 0
+staff : + 1     - 0
+front desk clerk : + 0     - 1
+location : + 0     - 1
+front desk agents : + 1     - 0
+lobby : + 1     - 0
+entrance : + 1     - 0
+elevator : + 0     - 1
+signage : + 0     - 1
+***** building : Sentiments for raw summaries *****
+elevator : + 1     - 0
+noise level : + 0     - 1
+staff : + 1     - 1
+design : + 1     - 0
+building : + 0     - 1
+front desk clerk : + 0     - 1
+location : + 1     - 0
+lobby : + 1     - 0
+signage : + 0     - 1
+***** building : Sentiments for final summary *****

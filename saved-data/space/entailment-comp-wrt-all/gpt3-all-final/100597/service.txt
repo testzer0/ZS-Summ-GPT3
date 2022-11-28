@@ -1,0 +1,191 @@
+***** Aspect: service Model Type : zs *****
+Overall score: 0.9125794834560819
+
+**********
+
+[0.9888544082641602] The service at the hotel was friendly.
+Parent: The service at the hotel was friendly, efficient, and helpful, according to the accounts.
+
+----- Supporting -----
+
+[0.9888544082641602] The hotel staff was friendly and accomodating.
+[0.9828047752380371] My room and bathroom were both very clean and the service at the hotel was friendly, The check in process could be slow and it would be helpful if the airline crews were not given first priority to jump in front of everyone waiting.
+[0.9695596694946289] The hotel employees were very polite and most efficient: we were on our way to our room within 30 seconds, warm cookies in hand.
+[0.9448041915893555] For an airport hotel, it was surprisingly quiet, rooms were extremely comfortable and well prepared, and the staff were all extremely helpful and courteous.
+[0.9416303634643555] The hotel staff was courteous and very helpful with our questions.
+
+----- Weakening -----
+
+[-0.9906768798828125] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+[-0.9537029266357422] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[-0.9521369934082031] We experienced this poor attitude with a few other staff members within the hotel.
+[-0.9061164855957031] --Restaurant staff seemed to be overwhelmed during breakfast, so they fell behind a bit.
+[-0.861968994140625] The only downside is that the lady at the front desk gave us the weirdest directions to get to our hotel room.
+
+**********
+
+[0.9720902442932129] The service at the hotel was efficient.
+Parent: The service at the hotel was friendly, efficient, and helpful, according to the accounts.
+
+----- Supporting -----
+
+[0.9720902442932129] The hotel employees were very polite and most efficient: we were on our way to our room within 30 seconds, warm cookies in hand.
+[0.7319412231445312] For an airport hotel, it was surprisingly quiet, rooms were extremely comfortable and well prepared, and the staff were all extremely helpful and courteous.
+[0.7301673889160156] The hotel staff was friendly and accomodating.
+[0.6765079498291016] The check-in was wonderful, the staff great, and the hotel itself was nice.
+[0.6402854919433594] It has "small hotel" service, meaning that you don't feel lost and they treat you well.
+
+----- Weakening -----
+
+[-0.9890727996826172] --Restaurant staff seemed to be overwhelmed during breakfast, so they fell behind a bit.
+[-0.9824075698852539] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[-0.9783554077148438] The service at the hotel coffee shop was really slow and the waiter seemed really bothered by having to come to our table to see what we wanted.
+[-0.9721355438232422] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+[-0.9605636596679688] Our room was in the farthest section of the hotel, and tedious to get into to, and by the time we got settled it was too much trouble to go out to eat.
+
+**********
+
+[0.9612836837768555] The service at the hotel was helpful.
+Parent: The service at the hotel was friendly, efficient, and helpful, according to the accounts.
+
+----- Supporting -----
+
+[0.9612836837768555] The hotel staff was courteous and very helpful with our questions.
+[0.9610915184020996] For an airport hotel, it was surprisingly quiet, rooms were extremely comfortable and well prepared, and the staff were all extremely helpful and courteous.
+[0.9514851570129395] The hotel staff was friendly and accomodating.
+[0.8899974822998047] My room and bathroom were both very clean and the service at the hotel was friendly, The check in process could be slow and it would be helpful if the airline crews were not given first priority to jump in front of everyone waiting.
+[0.8748674392700195] The hotel employees were very polite and most efficient: we were on our way to our room within 30 seconds, warm cookies in hand.
+
+----- Weakening -----
+
+[-0.9844446182250977] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[-0.9749212265014648] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+[-0.92584228515625] --Restaurant staff seemed to be overwhelmed during breakfast, so they fell behind a bit.
+[-0.9012641906738281] We experienced this poor attitude with a few other staff members within the hotel.
+[-0.8735504150390625] The service at the hotel coffee shop was really slow and the waiter seemed really bothered by having to come to our table to see what we wanted.
+
+**********
+
+[0.9557642936706543] The service at the hotel was friendly, efficient, and helpful.
+Parent: The service at the hotel was friendly, efficient, and helpful, according to the accounts.
+
+----- Supporting -----
+
+[0.9557642936706543] The hotel staff was friendly and accomodating.
+[0.9511642456054688] For an airport hotel, it was surprisingly quiet, rooms were extremely comfortable and well prepared, and the staff were all extremely helpful and courteous.
+[0.9390449523925781] The hotel employees were very polite and most efficient: we were on our way to our room within 30 seconds, warm cookies in hand.
+[0.8561129570007324] Staff are friendly and helpful, the rooms are decent, and it's very close to the airport.
+[0.8291950225830078] The hotel staff was courteous and very helpful with our questions.
+
+----- Weakening -----
+
+[-0.9981303215026855] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+[-0.9970698356628418] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[-0.9955539703369141] The service at the hotel coffee shop was really slow and the waiter seemed really bothered by having to come to our table to see what we wanted.
+[-0.9937739372253418] --Restaurant staff seemed to be overwhelmed during breakfast, so they fell behind a bit.
+[-0.9925737380981445] We experienced this poor attitude with a few other staff members within the hotel.
+
+**********
+
+[0.9861578941345215] The shuttle service was convenient.
+Parent: The shuttle service was also convenient, and the staff were courteous.
+
+----- Supporting -----
+
+[0.9861578941345215] The shuttle is convenient and reliable.
+[0.9856724739074707] The shuttle was an extremely convenient as well.
+[0.9827613830566406] The shuttle service to the airport ran frequently and was very convenient.
+[0.9803495407104492] Shuttle was convenient and would definitely stay here again.
+[0.8860454559326172] We utilized the free airport shuttle, which is handy, but did not use any other hotel service.
+
+----- Weakening -----
+
+[-0.9241628646850586] It is laid out in wings that make carrying your bags a nightmare, up elevators and down again.
+[-0.8963279724121094] But the nightmare wasn't over, then it took three more tries to get a room with a non-rattling heater and sliding doors that sealed and did not let the traffic noise in.
+[-0.8922195434570312] I took a taxi as everyone was trying to cram into the shuttle with no respect for first-come-first-served.
+[-0.8881936073303223] Our room was in the farthest section of the hotel, and tedious to get into to, and by the time we got settled it was too much trouble to go out to eat.
+[-0.8695487976074219] It was so liquified that it spilled all over my hand and burned me terribly.
+
+**********
+
+[0.9890165328979492] The staff were courteous.
+Parent: The shuttle service was also convenient, and the staff were courteous.
+
+----- Supporting -----
+
+[0.9890165328979492] Staff is very courteous and friendly.
+[0.9843783378601074] All staff were very courteous and helpful.
+[0.981593132019043] The hotel staff was courteous and very helpful with our questions.
+[0.9720640182495117] The hotel staff was friendly and accomodating.
+[0.9667396545410156] The hotel employees were very polite and most efficient: we were on our way to our room within 30 seconds, warm cookies in hand.
+
+----- Weakening -----
+
+[-0.9965753555297852] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+[-0.9960699081420898] We experienced this poor attitude with a few other staff members within the hotel.
+[-0.9811434745788574] When we were there, there were a bunch of real estate agents who were getting a bit rowdy.
+[-0.9742622375488281] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[-0.9731817245483398] I talked to the manager on the phone at 1:30AM and he was still full of excuses why we didn't have the bed.
+
+**********
+
+[0.9759378433227539] The staff members were not friendly.
+Parent: There were some complaints about specific staff members and the check-in process, but most reviewers thought that the hotel was a good value overall.
+
+----- Supporting -----
+
+[0.9759378433227539] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+[0.6096172332763672] We experienced this poor attitude with a few other staff members within the hotel.
+[0.5797386169433594] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[0.5686492919921875] When we were there, there were a bunch of real estate agents who were getting a bit rowdy.
+[0.14970779418945312] I took a taxi as everyone was trying to cram into the shuttle with no respect for first-come-first-served.
+
+----- Weakening -----
+
+[-0.9961028099060059] Staff are friendly and helpful, the rooms are decent, and it's very close to the airport.
+[-0.9957284927368164] The staff was friendly and helpful and we enjoyed the warm, chocolate chip cookie we were given at check-in.
+[-0.995579719543457] The breakfast in the restaurant was amazing, and the staff was very attentive and friendly.
+[-0.9954795837402344] In fact every staff member that we encountered here was friendly.
+[-0.9951772689819336] Staff is very courteous and friendly.
+
+**********
+
+[0.40838623046875] The check-in process was inconvenient.
+Parent: There were some complaints about specific staff members and the check-in process, but most reviewers thought that the hotel was a good value overall.
+
+----- Supporting -----
+
+[0.40838623046875] My room and bathroom were both very clean and the service at the hotel was friendly, The check in process could be slow and it would be helpful if the airline crews were not given first priority to jump in front of everyone waiting.
+[0.16290283203125] I had to trek all the way to the front-desk from out tower location (to have key re-coded) only to f ind it did not resolve issue.
+[0.1553497314453125] We wanted to carry our own luggage and got tired of the bell hops asking if they could take it for us.
+[0.1205902099609375] The shuttle was hot and smelly again and people were mad.
+[0.11663055419921875] Our room was in the farthest section of the hotel, and tedious to get into to, and by the time we got settled it was too much trouble to go out to eat.
+
+----- Weakening -----
+
+[-0.9907913208007812] Check In went very smooth, and we were upgraded to a very large suite at that time!
+[-0.9893913269042969] The check-in process was courteous and smooth, and we were given a nice corner room with a balcony on the 9th floor (accompanied by the delicious chocolate chip cookies).
+[-0.988983154296875] Check in was easy and the cookies were nice.
+[-0.9883503913879395] Check in was very quick and was assigned a two queen room in the tower.
+[-0.9878263473510742] Check-in was friendly and quick, and one receives a nice warm chocolate chip cookie along with the room key.
+
+**********
+
+[0.9757242202758789] The hotel was a good value.
+Parent: There were some complaints about specific staff members and the check-in process, but most reviewers thought that the hotel was a good value overall.
+
+----- Supporting -----
+
+[0.9757242202758789] This hotel is clean, neat and offers good value for the money.
+[0.9530057907104492] It's a solid 3* hotel and good value.
+[0.8817977905273438] If you're just crashing for the night, the hotel has 1 night hotel plus x days parking that's not a bad deal - no breakfast - no free wireless in the room - it's a fee - don't remember what it was since I've never used it - HUGE complex - both a plus and a minus - if you get one of the far wing rooms, you have a long way to walk after check-in Overall, I think it's a great value, especially if you get a Priceline rate.
+[0.8749427795410156] Overall, it was a nice hotel, if you are prepared to pay for it.
+[0.8451728820800781] Very big, spread out hotel with very reasonable rates and nice rooms, although some are a bit of a convoluted walk from reception.
+
+----- Weakening -----
+
+[-0.9826278686523438] The room service was horribly overpriced-- not only do they charge 18% more than listed price, the listed prices in the rooms are ALREADY higher than in the restaurant ($2 more on soups and $3-$8 more on entrees/burgers).
+[-0.9336700439453125] I could not recommend this hotel.
+[-0.9310035705566406] I would not recommend this hotel.
+[-0.9255275726318359] This hotel disappointed.
+[-0.9138278961181641] This property is a mess.

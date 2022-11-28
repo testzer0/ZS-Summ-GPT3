@@ -1,0 +1,65 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.9767694473266602
+
+**********
+
+[0.9877262115478516] The hotel was clean.
+Parent: The reviewers said that the hotel was clean.
+
+----- Supporting -----
+
+[0.9877262115478516] Hotel is clean and nicely decorated.
+[0.9826736450195312] The hotel is very clean, the staff professional - and the food - simply amazing.
+[0.9809002876281738] The hotel seemed renovated and it was clean and beautiful.
+[0.9806256294250488] We found the hotel faultless, really clean, excellent service and really good value for money!
+[0.9734320640563965] Nice, clean hotel with great view.
+
+----- Weakening -----
+
+[-0.9955644607543945] On the way to my room someone had dropped 3 beers on the floor and it was wet and sticky with the cans still there and a wet floor sign in the middle.
+[-0.9947257041931152] Tools and debris were lying on the balcony.
+[-0.9916238784790039] A huge group of teenagers were staying in the hotel, and kids were all over the place until late at night...flooding the lobby, elevators, and public space.
+[-0.9880828857421875] The elevator dinged all night long keeping up the entire family.
+[-0.9875011444091797] My opinion is that this motel was extremely unorganized during this time.
+
+**********
+
+[0.9548559188842773] Some areas were not clean enough.
+Parent: There were some complaints about specific areas not being clean enough, but overall the hotel was found to be clean.
+
+----- Supporting -----
+
+[0.9548559188842773] Room was very sub-standard for cleanliness...floor looked like it never gets vacuumed.
+[0.9313249588012695] Our room could have been better, candy wrappers in the dresser drawers and a pair on men's underwear crumpled up by the picture window.
+[0.918426513671875] Don't really need this on holiday especially when you have been out really early say on an excursion and you return late afternoon/early evening to find room not cleaned or replenished.
+[0.8641262054443359] The room was a bit dusty and the coffee station did not have stir sticks.
+[0.8061618804931641] The only negative would be that they didn't come to make our beds or clean the room, but that didn't ruin our stay at the Hilton.
+
+----- Weakening -----
+
+[-0.12921142578125] What I got was beyond what I expected - I was stuffed to the brim.
+[-0.11590576171875] All was fresh & clean, and the view of the bay was an added perk.
+[-0.10797119140625] The room had two huge windows with a nice view and it was nice and cleanly decorated.
+[-0.10378265380859375] Also, the food was far above the standard conference selection.
+[-0.0933990478515625] Everything there were great from the nice clean and comfortable room with the unbelievable pretty view until the good food, the great bar and pool etc and last but not least the helpful friendly and sympathetic staff especially the ladjh in the little shop and the men called fernando at the front desk, he'd done a well work, gave good advices and was very cordially,smart, professional with a nice charisma and left behind a positive impression!
+
+**********
+
+[0.9877262115478516] The hotel was clean.
+Parent: There were some complaints about specific areas not being clean enough, but overall the hotel was found to be clean.
+
+----- Supporting -----
+
+[0.9877262115478516] Hotel is clean and nicely decorated.
+[0.9826736450195312] The hotel is very clean, the staff professional - and the food - simply amazing.
+[0.9809002876281738] The hotel seemed renovated and it was clean and beautiful.
+[0.9806256294250488] We found the hotel faultless, really clean, excellent service and really good value for money!
+[0.9734320640563965] Nice, clean hotel with great view.
+
+----- Weakening -----
+
+[-0.9955644607543945] On the way to my room someone had dropped 3 beers on the floor and it was wet and sticky with the cans still there and a wet floor sign in the middle.
+[-0.9947257041931152] Tools and debris were lying on the balcony.
+[-0.9916238784790039] A huge group of teenagers were staying in the hotel, and kids were all over the place until late at night...flooding the lobby, elevators, and public space.
+[-0.9880828857421875] The elevator dinged all night long keeping up the entire family.
+[-0.9875011444091797] My opinion is that this motel was extremely unorganized during this time.

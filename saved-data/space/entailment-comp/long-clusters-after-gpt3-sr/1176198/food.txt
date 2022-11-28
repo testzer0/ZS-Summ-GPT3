@@ -1,0 +1,170 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.6615099310874939
+
+**********
+
+[0.9880743026733398] The food was of good quality.
+Parent: Overall, reviewers thought the food was good quality and reasonably priced.
+
+----- Supporting -----
+
+[0.9880743026733398] The food was of high quality and good variety.
+[0.9743995666503906] The price is very reasonabe and the quality of the food was great.
+[0.8644886016845703] The food at dinner was very good and the breakfast that was included with the room package was excellent.
+[0.7473907470703125] The dining option was reasonable and the food (dinner & breakfast) was ok. Actually, dinner was of better quality than I was expecting since this wasn't a full service Hilton.
+[0.671356201171875] Has a large variety of food and was very good.
+
+----- Weakening -----
+
+[-0.04743194580078125] The only thing i would not recommend is eating at the hotel; with as many restaurants nearby, go out.
+[0.0026483535766601562] I found this hotel to have a better rate then others in downtown Toronto (which is not the same as saying it's cheap).
+[0.0027265548706054688] I really don't have anything bad to say about this hotel, the price is a little steep per night but it is definitely worth it.
+[0.0029964447021484375] It was so inexpensive for the area and amenities.
+[0.004852294921875] So you can pack a couple of apples or muffins for later in the day and save yourself some more money on food!
+
+**********
+
+[0.857666015625] The food was reasonably priced.
+Parent: Overall, reviewers thought the food was good quality and reasonably priced.
+
+----- Supporting -----
+
+[0.857666015625] The price is very reasonabe and the quality of the food was great.
+[0.49245452880859375] For a price of $10 we had a choice of hot and cold items, both ready made, and made to order.
+[0.343475341796875] So you can pack a couple of apples or muffins for later in the day and save yourself some more money on food!
+[0.2834663391113281] The dining option was reasonable and the food (dinner & breakfast) was ok. Actually, dinner was of better quality than I was expecting since this wasn't a full service Hilton.
+[0.1014404296875] At check in we got to help ourselves to the complimentary cookies which were very delicious.
+
+----- Weakening -----
+
+[-0.05785369873046875] I really don't have anything bad to say about this hotel, the price is a little steep per night but it is definitely worth it.
+[-0.02960968017578125] The only thing i would not recommend is eating at the hotel; with as many restaurants nearby, go out.
+[-0.00815582275390625] It would be great to see more cream in the room in future.
+[-0.0021514892578125] I found this hotel to have a better rate then others in downtown Toronto (which is not the same as saying it's cheap).
+[-0.000457763671875] Custom made omelets, with several side dishes and great selection of juice, milk, cereals and fruits.
+
+**********
+
+[0.6104011535644531] The dining options were plentiful.
+Parent: There were plenty of dining options available, and the breakfast included in the room package was excellent.
+
+----- Supporting -----
+
+[0.6104011535644531] Has a large variety of food and was very good.
+[0.5661735534667969] Tons of little restaurants, small shops (not big retail stores), kind of an artsy feel.
+[0.5660057067871094] The only thing i would not recommend is eating at the hotel; with as many restaurants nearby, go out.
+[0.5542488098144531] For a price of $10 we had a choice of hot and cold items, both ready made, and made to order.
+[0.4199333190917969] Custom made omelets, with several side dishes and great selection of juice, milk, cereals and fruits.
+
+----- Weakening -----
+
+[-0.8917083740234375] The dining option was reasonable and the food (dinner & breakfast) was ok. Actually, dinner was of better quality than I was expecting since this wasn't a full service Hilton.
+[-0.394805908203125] So you can pack a couple of apples or muffins for later in the day and save yourself some more money on food!
+[-0.124603271484375] There's good coffee nearby (I'm fairly sure that they didn't offer breakfast).
+[-0.05635833740234375] It would be great to see more cream in the room in future.
+[-0.050933837890625] At check in we got to help ourselves to the complimentary cookies which were very delicious.
+
+**********
+
+[0.9280681610107422] The breakfast was excellent.
+Parent: There were plenty of dining options available, and the breakfast included in the room package was excellent.
+
+----- Supporting -----
+
+[0.9280681610107422] The food at dinner was very good and the breakfast that was included with the room package was excellent.
+[0.34624671936035156] Custom made omelets, with several side dishes and great selection of juice, milk, cereals and fruits.
+[0.10430526733398438] Eggs are cooked to order and are really good.
+[0.07428169250488281] Fresh fruit and fruit juices, breads and pastries, and coffee brought to the table rather than stewed out of a communal urn.
+[0.033660888671875] Price was good, too.
+
+----- Weakening -----
+
+[-0.9404411315917969] There's good coffee nearby (I'm fairly sure that they didn't offer breakfast).
+[-0.6242942810058594] The dining option was reasonable and the food (dinner & breakfast) was ok. Actually, dinner was of better quality than I was expecting since this wasn't a full service Hilton.
+[-0.22473526000976562] The only thing i would not recommend is eating at the hotel; with as many restaurants nearby, go out.
+[-0.1136474609375] Even though we didn't buy them you could buy snacks 24 hours a day which was nice.
+[-0.10808563232421875] At check in we got to help ourselves to the complimentary cookies which were very delicious.
+
+**********
+
+[0.9423923492431641] The dinner was of better quality.
+Parent: Some reviewers thought the dinner was better quality than expected.
+
+----- Supporting -----
+
+[0.9423923492431641] The dining option was reasonable and the food (dinner & breakfast) was ok. Actually, dinner was of better quality than I was expecting since this wasn't a full service Hilton.
+[0.38491058349609375] The food was of high quality and good variety.
+[0.36297607421875] The price is very reasonabe and the quality of the food was great.
+[0.16211700439453125] Fresh fruit and fruit juices, breads and pastries, and coffee brought to the table rather than stewed out of a communal urn.
+[0.14520263671875] The food at dinner was very good and the breakfast that was included with the room package was excellent.
+
+----- Weakening -----
+
+[-0.091278076171875] At check in we got to help ourselves to the complimentary cookies which were very delicious.
+[-0.070281982421875] The only thing i would not recommend is eating at the hotel; with as many restaurants nearby, go out.
+[-0.050750732421875] It would be great to see more cream in the room in future.
+[-0.04676055908203125] My only complaint was that there were only two tiny creamers but enough coffee to make 4 cups.
+[-0.028564453125] So you can pack a couple of apples or muffins for later in the day and save yourself some more money on food!
+
+**********
+
+[-0.00412750244140625] The dinner was of poor quality.
+Parent: Some reviewers thought the dinner was better quality than expected.
+
+----- Supporting -----
+
+[-0.00412750244140625] The only thing i would not recommend is eating at the hotel; with as many restaurants nearby, go out.
+[-0.03753662109375] It would be great to see more cream in the room in future.
+[-0.09441375732421875] I found this hotel to have a better rate then others in downtown Toronto (which is not the same as saying it's cheap).
+[-0.1498260498046875] So you can pack a couple of apples or muffins for later in the day and save yourself some more money on food!
+[-0.17743873596191406] It was so inexpensive for the area and amenities.
+
+----- Weakening -----
+
+[-0.9971151351928711] The food was of high quality and good variety.
+[-0.9964466094970703] The food at dinner was very good and the breakfast that was included with the room package was excellent.
+[-0.9954423904418945] The price is very reasonabe and the quality of the food was great.
+[-0.9951090812683105] Has a large variety of food and was very good.
+[-0.9939522743225098] Custom made omelets, with several side dishes and great selection of juice, milk, cereals and fruits.
+
+**********
+
+[0.020374298095703125] There was not enough cream for coffee.
+Parent: There were a few complaints about the lack of cream for coffee, but otherwise reviewers were happy with the food options available.
+
+----- Supporting -----
+
+[0.020374298095703125] It would be great to see more cream in the room in future.
+[-0.0835113525390625] I found this hotel to have a better rate then others in downtown Toronto (which is not the same as saying it's cheap).
+[-0.10021209716796875] I really don't have anything bad to say about this hotel, the price is a little steep per night but it is definitely worth it.
+[-0.1363983154296875] The only thing i would not recommend is eating at the hotel; with as many restaurants nearby, go out.
+[-0.16281890869140625] The dining option was reasonable and the food (dinner & breakfast) was ok. Actually, dinner was of better quality than I was expecting since this wasn't a full service Hilton.
+
+----- Weakening -----
+
+[-0.80419921875] There was even a decent wine selction and a waiter that offered reliable advice.
+[-0.6994972229003906] The food was of high quality and good variety.
+[-0.6320381164550781] The price is very reasonabe and the quality of the food was great.
+[-0.6297416687011719] Has a large variety of food and was very good.
+[-0.5817947387695312] For a price of $10 we had a choice of hot and cold items, both ready made, and made to order.
+
+**********
+
+[0.9492306709289551] The food options were good.
+Parent: There were a few complaints about the lack of cream for coffee, but otherwise reviewers were happy with the food options available.
+
+----- Supporting -----
+
+[0.9492306709289551] The food was of high quality and good variety.
+[0.9454846382141113] Has a large variety of food and was very good.
+[0.9150676727294922] The food at dinner was very good and the breakfast that was included with the room package was excellent.
+[0.80523681640625] The dining option was reasonable and the food (dinner & breakfast) was ok. Actually, dinner was of better quality than I was expecting since this wasn't a full service Hilton.
+[0.7947711944580078] The price is very reasonabe and the quality of the food was great.
+
+----- Weakening -----
+
+[-0.001697540283203125] It was so inexpensive for the area and amenities.
+[-0.001224517822265625] I really don't have anything bad to say about this hotel, the price is a little steep per night but it is definitely worth it.
+[0.00101470947265625] I found this hotel to have a better rate then others in downtown Toronto (which is not the same as saying it's cheap).
+[0.006150245666503906] For the price we paid during our stay, it was really worth it.
+[0.01372528076171875] Tons of little restaurants, small shops (not big retail stores), kind of an artsy feel.

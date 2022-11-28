@@ -1,0 +1,254 @@
+***** Aspect: location Model Type : zs *****
+Overall score: 0.8377715349197388
+
+**********
+
+[0.995966911315918] The hotel has an airport shuttle.
+Parent: The hotel has a complimentary airport shuttle that runs every 15 minutes , 24 hours a day .
+
+----- Supporting -----
+
+[0.995966911315918] The hotel has a complimentary airport shuttle that runs every 15 minutes, 24 hours a day.
+[0.9944572448730469] The hotel has a convenient airport shuttle that picks up guests on level 3 of the airport parking garage at stops #1 and 3.
+[0.9787025451660156] Lots of air crews use this hotel which has a frequent free shuttle to airport.
+[0.9747829437255859] The hotel is conveniently located, just across the street from the airport entrance with a free shuttle that runs every 20 minutes.
+[0.973505973815918] The airport shuttle was very good- better than other hotels I have stayed in.
+
+----- Weakening -----
+
+[-0.8471298217773438] Even most motels give you a microwave.
+[-0.8420181274414062] other bugs every where.
+[-0.8015594482421875] Access to the tower is by external glass elevators.
+[-0.7634735107421875] The gift shop was well stocked and very reasonably priced.
+[-0.7514114379882812] The workout rooms are decent - especially the larger one in Building Five.
+
+**********
+
+[0.982940673828125] The shuttle runs every 15 minutes.
+Parent: The hotel has a complimentary airport shuttle that runs every 15 minutes , 24 hours a day .
+
+----- Supporting -----
+
+[0.982940673828125] The free airport shuttle runs every 15 mins or so and really helped us catch our flight the next morning.
+[0.9725418090820312] The hotel has a complimentary airport shuttle that runs every 15 minutes, 24 hours a day.
+[0.9714622497558594] It has a convenient location and a shuttle service that runs every 15 minutes for 24 hours.
+[0.9702568054199219] Pros: - cookies upon check-in - one of my favorite things about the Doubletrees - complimentary airport shuttle every 15 mins - nice pools, rooms are very comfortable with excellent beds and Neutrogena toiletries and Wolfgang Puck coffee - nice food selection in hotel Cons: - parking is expensive - $16/night.
+[0.9532623291015625] Excellent morning breakfasts and the airport shuttle runs every 15 minutes but we have made the 10 minute walk numerous times to the airport terminal.
+
+----- Weakening -----
+
+[-0.960723876953125] The airport shuttle runs round the clock (every twenty minutes) and is very efficient.
+[-0.959197998046875] Shuttle bus goes every 18 minutes and we walked out the front door just as one was leaving.
+[-0.940673828125] The hotel is conveniently located, just across the street from the airport entrance with a free shuttle that runs every 20 minutes.
+[-0.92706298828125] The good: large room, food at the restaurants (especially the clam chowder), bed, view from the elevators, service, shuttle every 20 minutes to and from the airport (5 minutes away) The bad: the insulation for the windows is awful, so the hotel is extremely noisy at night (at least if you are facing the airport): airplanes, busy airport boulevard, rooftop with furnaces/chillers etc.
+[-0.9129486083984375] Pros - Very close to airport, very quiet rooms (you cant hear the airplanes taking off even though it is right across from the airport), friendly staff, VERY comfortable beds with lots of pillows, large rooms, ice and vending machines close to all rooms, nicely appointed bathrooms, free shuttle (runs every 20 min, no reservation needed), convenience store on site, ATM, warm cookies on check in.
+
+**********
+
+[0.9921493530273438] The shuttle runs 24 hours a day.
+Parent: The hotel has a complimentary airport shuttle that runs every 15 minutes , 24 hours a day .
+
+----- Supporting -----
+
+[0.9921493530273438] The shuttle runs 24 hours per day, and it makes about three trips per hour (no phone call or reservation is needed).
+[0.9817085266113281] The hotel has a complimentary airport shuttle that runs every 15 minutes, 24 hours a day.
+[0.9538497924804688] Shuttle to the airport every 20 mins 24 hours.
+[0.9368629455566406] It has a convenient location and a shuttle service that runs every 15 minutes for 24 hours.
+[0.90814208984375] The good news - the hotel is very close to the airport with a 24hr shuttle to the airport.
+
+----- Weakening -----
+
+[-0.9942703247070312] The shuttle only runs on the hour, not every half an hour like you would assume from an airport hotel.
+[-0.9616451263427734] I actually miss the beds!
+[-0.9606342315673828] other bugs every where.
+[-0.948512077331543] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[-0.9447479248046875] We got lost as did lots of people we met along the way!
+
+**********
+
+[0.9330387115478516] The location is convenient.
+Parent: It has a convenient location and a shuttle service that runs every 15 minutes for 24 hours .
+
+----- Supporting -----
+
+[0.9330387115478516] --Location is very convenient to the airport, and pretty quick access to I-5.
+[0.9209480285644531] It has a convenient location and a shuttle service that runs every 15 minutes for 24 hours.
+[0.8871698379516602] The hotel is conveniently located, just across the street from the airport entrance with a free shuttle that runs every 20 minutes.
+[0.7701930999755859] Having the printer in the lobby to print your boarding pass was really convenient.
+[0.7373542785644531] Good jumping off spot for wherever you want to go.
+
+----- Weakening -----
+
+[-0.9896335601806641] Our room was in the farthest section of the hotel, and tedious to get into to, and by the time we got settled it was too much trouble to go out to eat.
+[-0.9509429931640625] It is laid out in wings that make carrying your bags a nightmare, up elevators and down again.
+[-0.9500236511230469] Cons - Hotel is spread out so pay attention to how to get to your room as you may get lost, Feather pillows (synthetic available on request), Pay parking ($16 self/day $20 valet/day), warm cookies on check in.
+[-0.9072589874267578] Parts of the hotel are laid-out such that it can be difficult to find your room.
+[-0.8475341796875] Confusing layout.
+
+**********
+
+[0.8747224807739258] The shuttle service is frequent.
+Parent: It has a convenient location and a shuttle service that runs every 15 minutes for 24 hours .
+
+----- Supporting -----
+
+[0.8747224807739258] Lots of air crews use this hotel which has a frequent free shuttle to airport.
+[0.8631916046142578] The airport shuttle runs round the clock (every twenty minutes) and is very efficient.
+[0.8104438781738281] The stay, park & fly packages are *usually* a good deal, and their airport shuttle service is fantastic - I believe it runs every 20 mins around the clock.
+[0.7546005249023438] The shuttle service to the airport ran frequently and was very convenient.
+[0.6848564147949219] Shuttle bus goes every 18 minutes and we walked out the front door just as one was leaving.
+
+----- Weakening -----
+
+[-0.954986572265625] The shuttle only runs on the hour, not every half an hour like you would assume from an airport hotel.
+[-0.8165245056152344] other bugs every where.
+[-0.5877437591552734] Coffee shop service was horrible.
+[-0.507354736328125] Keep your children away from these set ups, they are going to injure someone terribly!
+[-0.467437744140625] Don't expect a whole lot here.
+
+**********
+
+[0.9926095008850098] The shuttle service is available 24 hours a day.
+Parent: It has a convenient location and a shuttle service that runs every 15 minutes for 24 hours .
+
+----- Supporting -----
+
+[0.9926095008850098] The shuttle runs 24 hours per day, and it makes about three trips per hour (no phone call or reservation is needed).
+[0.9856452941894531] The hotel has a complimentary airport shuttle that runs every 15 minutes, 24 hours a day.
+[0.9719676971435547] Shuttle to the airport every 20 mins 24 hours.
+[0.9558248519897461] Room was quiet and the shuttle to the airport runs 24 hours.
+[0.9459190368652344] It has a convenient location and a shuttle service that runs every 15 minutes for 24 hours.
+
+----- Weakening -----
+
+[-0.9941682815551758] The shuttle only runs on the hour, not every half an hour like you would assume from an airport hotel.
+[-0.9649038314819336] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[-0.9598464965820312] other bugs every where.
+[-0.9436149597167969] I actually miss the beds!
+[-0.9152126312255859] Keep your children away from these set ups, they are going to injure someone terribly!
+
+**********
+
+[0.9601297378540039] The light rail was easily accessible.
+Parent: It had easy access to the light rail located at the airport ( we took the DT shuttle over ) , and was next to an Enterprise car rental .
+
+----- Supporting -----
+
+[0.9601297378540039] It had easy access to the light rail located at the airport (we took the DT shuttle over), and was next to an Enterprise car rental.
+[0.7040596008300781] I didn't have a car so Airport, Light Rail and many restaurants are in walking distance.
+[0.301483154296875] You could safely cross the street at the light and crosswalk and find your self at a diner or several other restaurants.
+[0.1991119384765625] No need for a car, I got around just fine on the busses and the Rail.
+[0.1012735366821289] It seemed to ALWAYS be running, and was very convenient.
+
+----- Weakening -----
+
+[-0.9681358337402344] Waited forever to be seated and there were only 3 others in the place.
+[-0.9679598808288574] We got lost as did lots of people we met along the way!
+[-0.9597530364990234] It was so liquified that it spilled all over my hand and burned me terribly.
+[-0.9590225219726562] Getting to the room was a fun adventure in itself.
+[-0.9585323333740234] But the nightmare wasn't over, then it took three more tries to get a room with a non-rattling heater and sliding doors that sealed and did not let the traffic noise in.
+
+**********
+
+[0.9809474945068359] The light rail was at the airport.
+Parent: It had easy access to the light rail located at the airport ( we took the DT shuttle over ) , and was next to an Enterprise car rental .
+
+----- Supporting -----
+
+[0.9809474945068359] It had easy access to the light rail located at the airport (we took the DT shuttle over), and was next to an Enterprise car rental.
+[0.42578125] Hotel shuttle picked us up at the airport and took us to the light rail station to go into Seattle the next day.
+[0.2960205078125] I didn't have a car so Airport, Light Rail and many restaurants are in walking distance.
+[0.0] All good!
+[0.0] Ripoff.
+
+----- Weakening -----
+
+[-0.9944438934326172] Had a huge mirror in the bathroom that was well light around the edges.
+[-0.9933319091796875] This is an older hotel that has gone through a recent renovation.
+[-0.9918537139892578] The pool was huge and gorgeous.
+[-0.9912405014038086] We stayed at the Double Tree for two nights in July.
+[-0.9905967712402344] This is a very large and confusingly laid out hotel.
+
+**********
+
+[0.06768798828125] The DT shuttle was the best way to get there.
+Parent: It had easy access to the light rail located at the airport ( we took the DT shuttle over ) , and was next to an Enterprise car rental .
+
+----- Supporting -----
+
+[0.06768798828125] The airport shuttle was very good- better than other hotels I have stayed in.
+[0.019840240478515625] Shuttle was convenient and would definitely stay here again.
+[0.0175323486328125] We LIKED the fact that it was close to new rapid transit terminal which we chose to take to stadium.
+[0.00992584228515625] The shuttle was an extremely convenient as well.
+[0.00508880615234375] The free airport shuttle runs every 15 mins or so and really helped us catch our flight the next morning.
+
+----- Weakening -----
+
+[-0.9882841110229492] I took a taxi as everyone was trying to cram into the shuttle with no respect for first-come-first-served.
+[-0.9561939239501953] t was a very long walk to get to the room.
+[-0.9037971496582031] The walk from that building to the lobby is about 2-3 minutes.
+[-0.8989458084106445] Our room was in the main tower, and was reached by an external elevator with glass walls.
+[-0.8966951370239258] It was a long ackward walk to our room.
+
+**********
+
+[0.4658203125] The hotel was next to an Enterprise car rental.
+Parent: It had easy access to the light rail located at the airport ( we took the DT shuttle over ) , and was next to an Enterprise car rental .
+
+----- Supporting -----
+
+[0.4658203125] This hotel was within a stone's throw of Sea-Tac airport and right next to the off-site Thrifty car rental lot, so for location, it was great.
+[0.3483123779296875] It had easy access to the light rail located at the airport (we took the DT shuttle over), and was next to an Enterprise car rental.
+[0.12548828125] All the other lodging options seemed to have dimly lit parking lots next to seedy businesses or something.
+[0.005889892578125] We parked our car there for a week, and were impressed with the service and rates compared with the airport.
+[0.0008544921875] The room was a bit basic and dated but it was inexpensive and we could leave our car in their car park while we were on holiday.
+
+----- Weakening -----
+
+[-0.9920473098754883] The hotel is pretty big but the location next to the airport is great.
+[-0.9786672592163086] The diner next door was good -- I think it's 'Dave's Diner'.
+[-0.9550714492797852] Despite its proximity to the airport, the room was surprisingly quiet.
+[-0.9354581832885742] This hotel is by a small lake and at dusk there are misquitos and misc.
+[-0.9311180114746094] Service in the more upscale of the two restaurants was almost unbearably slow and the food was cold when it finally arrived after over a hour at our table.
+
+**********
+
+[0.8531513214111328] I liked the location.
+Parent: For me the location worked well since I was attending events at the hotel and did n't have to rent a car to get there .
+
+----- Supporting -----
+
+[0.8531513214111328] Great location within view or shuttle ride from the airport.
+[0.8492507934570312] Saw shuttle pass us along the way ;-( Still, LIKE the location and the cookies ;-)
+[0.8222427368164062] This hotel was within a stone's throw of Sea-Tac airport and right next to the off-site Thrifty car rental lot, so for location, it was great.
+[0.7927360534667969] For me the location worked well since I was attending events at the hotel and didn't have to rent a car to get there.
+[0.7712554931640625] Front desk service can be a bit hit or miss, but the location, shuttle service, and stress-free park & fly service wins out.
+
+----- Weakening -----
+
+[-0.9194412231445312] But although the room was huge and lavish with two large queens, it was not a place I enjoyed.
+[-0.8216209411621094] This hotel disappointed.
+[-0.7609405517578125] I thought it was a little expensive for a hotel not located in the center of the city to charge $15 per day to park a car.
+[-0.7477188110351562] I could not recommend this hotel.
+[-0.7370567321777344] What I found was rather run down and shabby.
+
+**********
+
+[0.9540939331054688] The hotel was within walking distance.
+Parent: For me the location worked well since I was attending events at the hotel and did n't have to rent a car to get there .
+
+----- Supporting -----
+
+[0.9540939331054688] The hotel was clean, beds were fine, hotel is located across the street from the air port, was within walking distance to a Denny's, Jack in the Box, and a steak place.
+[0.881378173828125] Very nice hotel, very close to the airport, walkable in fact to the terminals in less than 10 minutes or one can take a free shuttle bus.
+[0.8234176635742188] The hotel is very close to the airport and sometimes we walk.
+[0.65789794921875] Other restaurants were withing walking distance of the hotel.
+[0.46942138671875] There are a few restaurants around the hotel area and you can also easily walk to the airport should you want to.
+
+----- Weakening -----
+
+[-0.9276199340820312] Our room was in the farthest section of the hotel, and tedious to get into to, and by the time we got settled it was too much trouble to go out to eat.
+[-0.88397216796875] Cons - Hotel is spread out so pay attention to how to get to your room as you may get lost, Feather pillows (synthetic available on request), Pay parking ($16 self/day $20 valet/day), warm cookies on check in.
+[-0.8762626647949219] The shuttle getting from the airport to the hotel was very croweded and hot (yes hot for Seattle) and smelled.
+[-0.864715576171875] --The doubletree is not just a hotel, its like a little village of condo buildings too, which makes it very crowded and hard to get around the property.
+[-0.8076171875] Parts of the hotel are laid-out such that it can be difficult to find your room.

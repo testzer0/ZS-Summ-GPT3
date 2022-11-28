@@ -1,0 +1,107 @@
+***** Aspect: location Model Type : zs *****
+Overall score: 0.8318035125732421
+
+**********
+
+[0.9758195877075195] The location is central.
+Parent: The location was praised by most reviewers for being central and close to many attractions.
+
+----- Supporting -----
+
+[0.9758195877075195] Great location, very central.
+[0.9733433723449707] The location of this hotel is excellent â€“ very central and close to public transport, shopping, restaurants, etc.
+[0.9545888900756836] location very central for downtown.
+[0.9345283508300781] Stayed for three nights as a family, couldn't be more central for all the downtown attractions, everything's within walking distance and the hotel is connected by a walkway to the Eaton Centre.
+[0.9325523376464844] The location is in downtown, so it's in the heart of things, but you have a fair number of homeless people and transients around.
+
+----- Weakening -----
+
+[-0.9818840026855469] The location is reasonable but quite a long way from the waterfront.
+[-0.70697021484375] It was a nice hotel, but I would recommend staying closer to the center of activities.
+[-0.5725173950195312] My only negative comment about the room was the view - it looked straight into an adjacent office building.
+[-0.5705642700195312] The room I had was at the end of the hall, so it was exceptionally quiet, and the bed was great.
+[-0.5701904296875] Some of the rooms can be far from the elevators.
+
+**********
+
+[0.8940467834472656] The location is convenient.
+Parent: The location was praised by most reviewers for being central and close to many attractions.
+
+----- Supporting -----
+
+[0.8940467834472656] The location is perfect, near everything one might need on a business trip and for doing some shopping.
+[0.8487367630004883] It is convenient to my office, but I am always impressed the friendly and professional staff, nice rooms and good food.
+[0.8454189300537109] Perfect location close to everything.
+[0.8274383544921875] The location is reasonable but quite a long way from the waterfront.
+[0.816248893737793] The hotel's downtown location is convenient for public transportation and adjacent to the Eaton Centre Mall.
+
+----- Weakening -----
+
+[-0.9555349349975586] The hotel is connected to the Eaton center = dangerous!!!
+[-0.9244384765625] Not very convenient to go down to lobby all the time...Staff was not at all helpful in this matter... A sidenote: the room when we arrived was not vacumed and was not clean.
+[-0.673893928527832] We often used to go on massive shopping trips and had to transport many large boxes to and from our rooms.
+[-0.5571365356445312] Then hard to get out as Mcguinty crew in town and elevators shut down once again.
+[-0.5381393432617188] I felt spoiled while I was there
+
+**********
+
+[0.9891748428344727] There were homeless people and transients around.
+Parent: Some reviewers mentioned that there were homeless people and transients around, but overall the location was good.
+
+----- Supporting -----
+
+[0.9891748428344727] The location is in downtown, so it's in the heart of things, but you have a fair number of homeless people and transients around.
+[0.24759292602539062] Wanted to have a nice weekend before school, very expensive, again do not know how people manage in Toronto, perhaps they do not given the numerous homeless my daughter (age 6) began to identify.
+[0.1858673095703125] One was dead and under the chair in the room, and the other my husband saw scurrying across the floor.
+[0.0717010498046875] I did spot a few dust bunnies.
+[0.027069091796875] Only downside was at 2am someone decided to light a cigarette in a stairwell and set off the smoke alarm causing all of the hotel guests to be evacuated.
+
+----- Weakening -----
+
+[-0.8763589859008789] It has a lovely, light lobby filled with professionals who are friendly and helpful!
+[-0.8651580810546875] Used the pool and whirlpool once; the area was clean and all the equipment in the adjacent fitness center in working order.
+[-0.8400297164916992] It's a nice clean, quiet hotel in a great area.
+[-0.8322925567626953] Quiet, clean, modern room.
+[-0.8034000396728516] It was neat and clean.
+
+**********
+
+[0.9728755950927734] The location was good.
+Parent: Some reviewers mentioned that there were homeless people and transients around, but overall the location was good.
+
+----- Supporting -----
+
+[0.9728755950927734] The location couldn't have been better.
+[0.9662876129150391] The location couldn't be better.
+[0.963714599609375] Location is good and the hotel is quiet.
+[0.9611368179321289] The location was perfect!
+[0.9593715667724609] The location was an excellent one for us because our event was just across the street, but we also walked to dinner on Queen Street, had many shopping choices (itâ€™s connected to the Eaton Centre, or you can meander along funky Queen West) and itâ€™s close to the subway.
+
+----- Weakening -----
+
+[-0.553436279296875] My only negative comment about the room was the view - it looked straight into an adjacent office building.
+[-0.49875640869140625] The hotel is connected to the Eaton center = dangerous!!!
+[-0.3350868225097656] It is probably the most depressing hotel I have ever stayed in.
+[-0.3191947937011719] During our recent trip we stayed in 5 hotels in Canada and this was by far the worst.
+[-0.293609619140625] Poor QC here.
+
+**********
+
+[0.3271007537841797] The cost of parking was too high.
+Parent: The parking was expensive.
+
+----- Supporting -----
+
+[0.3271007537841797] Expensive parking.
+[0.28147125244140625] The parking was very expensive, the cost was $25 a day.
+[0.1324939727783203] Expensive to park, $25 per day and daily rates are high.
+[0.098541259765625] Parking expensive but what isn't in Toronto?
+[0.03716850280761719] Parking is also expensive at $18 per day and the garage was small.
+
+----- Weakening -----
+
+[-0.9529304504394531] They arranged rental car service for us as well as airport transport.. All very reasonably priced and on time.
+[-0.9343132972717285] We were to get a "cars eat free" weekend, as well as free parking.
+[-0.9122958183288574] Our rate due to the conference was very reasonable so no complaints.
+[-0.9055137634277344] Convenient to transportation.
+[-0.9027595520019531] Parking at the hotel's underground lot was easy and efficient... No worries if you're planning a stay at this downtown Toronto hotel!

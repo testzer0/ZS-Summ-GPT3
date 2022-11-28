@@ -1,0 +1,65 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.7035767237345377
+
+**********
+
+[0.9497642517089844] The food was great.
+Parent: Some reviews said that the food was great, while others said that there was no housekeeping/maid service.
+
+----- Supporting -----
+
+[0.9497642517089844] Food great and the views spectacular especially at night and they have computers for easy access to the web and e-mail up there.
+[0.9188327789306641] We had bed and breakfast rate..food was really good.
+[0.9016666412353516] The price is very reasonabe and the quality of the food was great.
+[0.895442008972168] The food was of high quality and good variety.
+[0.8891220092773438] The food at dinner was very good and the breakfast that was included with the room package was excellent.
+
+----- Weakening -----
+
+[-0.9918441772460938] Breakfast is adequate, nothing impressive.
+[-0.97344970703125] The dining option was reasonable and the food (dinner & breakfast) was ok. Actually, dinner was of better quality than I was expecting since this wasn't a full service Hilton.
+[-0.9304122924804688] Comfortable bed, breakfast was ok. Nice view from upper floors.
+[-0.9246444702148438] Didn't try the restaurant.
+[-0.8931760787963867] I would avoid the restaurant in the hotel as the service is slow and inconsistent.
+
+**********
+
+[0.987004280090332] There was no housekeeping/maid service.
+Parent: Some reviews said that the food was great, while others said that there was no housekeeping/maid service.
+
+----- Supporting -----
+
+[0.987004280090332] First, there was absolutely no housecleaning/maid service!
+[0.66064453125] We requested to have a maid clean our bathroom and take the trash out, no one ever came!
+[0.35687255859375] Pool and hot tub clean, though bizarrly no changing room.
+[0.08730316162109375] my boyfriend and i both went home sore and dead tired from trying to find a comfortable way to sleep tossing and turning all night but there was none.
+[0.072784423828125] Gym is very good, and to my surprise, was empty the couple of times I went about.
+
+----- Weakening -----
+
+[-0.9980771541595459] If we call for extra towels/sheets/cups, it's all sent up very quickly by housekeeping staff.
+[-0.997889518737793] Housekeeping changed towels when not needed, and so on and so forth!
+[-0.9969892501831055] Housekeeping even stopped by to make sure we had everything we needed shortly after we arrived.
+[-0.996518611907959] The rooms are in excellent condition, housekeeping is very good, and the location is very handy to everything downtown.
+[-0.9959249496459961] housekeeping was super here.
+
+**********
+
+[0.17396163940429688] The maid service was poor.
+Parent: Some guests also said that they had to track down a maid to request clean towels.
+
+----- Supporting -----
+
+[0.17396163940429688] We spoke with the lady at the desk and all she had to say was "we have never had a Sunday like this... We have another valet employee coming in in an hour" Not helpful!
+[0.14215087890625] First, there was absolutely no housecleaning/maid service!
+[0.039886474609375] Two nights we did have a guest, who had orginally intended to attend the conference: despite being assured on the phone that we could add a rollaway for him, when he arrived, we couldn't, and he and my colleague had to split a regular bed.
+[0.0394287109375] Hotel rooms and restaurant = great "Valet" = brutal and ruined the whole stay.
+[0.0289764404296875] my boyfriend and i both went home sore and dead tired from trying to find a comfortable way to sleep tossing and turning all night but there was none.
+
+----- Weakening -----
+
+[-0.9946482181549072] Exceptional service!
+[-0.9945816993713379] The service is great and you must try a croissant - the best.
+[-0.9943795204162598] housekeeping was super here.
+[-0.9924721717834473] The rooms are in excellent condition, housekeeping is very good, and the location is very handy to everything downtown.
+[-0.9921321868896484] The service was exceptional and went beyond the standard service.

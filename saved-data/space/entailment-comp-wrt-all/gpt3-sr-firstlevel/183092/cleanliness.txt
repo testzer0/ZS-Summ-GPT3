@@ -1,0 +1,296 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.7044949190957206
+
+**********
+
+[0.985776424407959] The hotel is clean.
+Parent: The reviews said that the hotel is clean, but there are some dust bunnies.
+
+----- Supporting -----
+
+[0.985776424407959] The hotel is very clean, the rooms were a good price for the quality received, and, best of all, the location can't be beat.
+[0.9790992736816406] Hotel was extremely clean.
+[0.9782962799072266] It's a nice clean, quiet hotel in a great area.
+[0.9727921485900879] The hotel was very clean, the hotel staff were very friendly and information, and it was close to public transportation, which we used for our entire time in Toronto.
+[0.9721641540527344] However, we found this hotel to be pleasant and clean.
+
+----- Weakening -----
+
+[-0.9932155609130859] my colleagues staying at the sheraton said their rooms were old and not maintained and in some cases dirty.
+[-0.9843368530273438] My basic perception was that the rooms had a dated, unclean vibe.
+[-0.9732551574707031] We called reception at 3am to get them changed, they were apologetic and changed them immediately but even the 'new' sheets still had holes and looked worn!
+[-0.969202995300293] The worst part of the stay however was finding two LARGE insects or animals, something in the room!
+[-0.9680042266845703] I was on the 10th floor, it took forever for the shower to get hot and when it did the temperature fluctuated radically from luke warm to scalding.
+
+**********
+
+[0.32476234436035156] The reviews said that there are some dust bunnies.
+Parent: The reviews said that the hotel is clean, but there are some dust bunnies.
+
+----- Supporting -----
+
+[0.32476234436035156] my colleagues staying at the sheraton said their rooms were old and not maintained and in some cases dirty.
+[0.13623046875] However, we were very dissapointed when we checked in to find that our sheets had stains on them and looked worn.
+[0.041412353515625] The rooms were clean, but when you looked closely, you would feel it needed a deep clean.. Ie around baseboards, walls and ceiling in bath, etc.
+[0.0302734375] The gentleman was excessively rude, simply entered the room, removed the dead bug and looked VERY quickly over the rest of the room before saying "Looks like we got em all".
+[0.01634979248046875] other issues- bathroom really not that nice, concierge horrible at recommending things to do or good resutarants or giving directions.
+
+----- Weakening -----
+
+[-0.63037109375] There were only 3 minor disappointments -- the concierge lounge was full of families with kids so breakfast was a bit noisy and crowded, the rooftop pool was small and also full of kids, and food at the hotel was pricey -- we got better quality food at more reasonable prices at nearby restaurants.
+[-0.5450363159179688] It was neat and clean.
+[-0.531524658203125] Great service is offered without the expectation of a gratuity.
+[-0.5259170532226562] We've stayed here several times, and everytime the staff have been exceptionally warm and given us some special treatment.
+[-0.47509765625] Addtionally, there were pleny of wonderful restaurants, places to shop, the subway transit system, buses and taxes within a 1-5 mile radius of the hotel making it very convenient for just about everything!
+
+**********
+
+[0.9459457397460938] The housekeeping is good.
+Parent: The housekeeping is good, but there are some areas that could use a deep clean.
+
+----- Supporting -----
+
+[0.9459457397460938] Excellent housekeeping and the usual amenities; plenty of room for one person.
+[0.8773860931396484] We had connecting rooms, these were prepared to a very high standard, house keeping do a first class job in this hotel.
+[0.8749656677246094] The room service is always on time and tastey...I highly recommend this hotel.
+[0.85699462890625] The rooms seem to have been recently updated and are well kept.
+[0.8489303588867188] Our housekeeper was excellent and expressed her appreciation for the tip we left.
+
+----- Weakening -----
+
+[-0.9772300720214844] my colleagues staying at the sheraton said their rooms were old and not maintained and in some cases dirty.
+[-0.9741554260253906] To start with the decor in the rooms is dreadful; mustard coloured walls, a mustard coloured 3D (dont ask) carpet, mustard cloured bed throws and an artexed ceiling only just over 7 feet over our heads.
+[-0.9296073913574219] The toilet did not flush properly and the shower seemed to have only 2 temperatures: scalding hot or freezing cold.
+[-0.9272117614746094] I did however find the staff to be very indifferent, almost cold and the rooms to be on the smaller side.
+[-0.9192848205566406] However, we were very dissapointed when we checked in to find that our sheets had stains on them and looked worn.
+
+**********
+
+[0.4809560775756836] The hotel needs to be cleaned more thoroughly.
+Parent: The housekeeping is good, but there are some areas that could use a deep clean.
+
+----- Supporting -----
+
+[0.4809560775756836] The rooms were clean, but when you looked closely, you would feel it needed a deep clean.. Ie around baseboards, walls and ceiling in bath, etc.
+[0.2704963684082031] While the beds were comfy and we had plenty of room, the guest rooms are in need of a renovation.
+[0.064910888671875] The lobby refurb looked great -- now they just need to tackle some of the older rooms.
+[0.0208892822265625] The lobby of the hotel is currently undergoing renovation (as noted on their website) which made for an unexciting first impression, however the room (1112) was tastefully decorated and fairly spacious for a downtown hotel room.
+[0.01680755615234375] Obviously this hotel very rarely shampoos the carpets.
+
+----- Weakening -----
+
+[-0.9292731285095215] This place is very clean, its got THE MOST comfortable beds, and the location is great.
+[-0.9133281707763672] Hotel was extremely clean.
+[-0.8931550979614258] I have to admit that I am usually very worried about hotels and their cleanliness... but this hotel was extremely clean.
+[-0.8803129196166992] We had connecting rooms, these were prepared to a very high standard, house keeping do a first class job in this hotel.
+[-0.8750486373901367] The hotel is very clean, the rooms were a good price for the quality received, and, best of all, the location can't be beat.
+
+**********
+
+[0.9569740295410156] The towels are too starched.
+Parent: The towels are over-starched.
+
+----- Supporting -----
+
+[0.9569740295410156] My biggest negative would be the super thin, over starched towels.
+[0.0] Dean
+[0.0] Really?
+[0.0] !
+[0.0] !
+
+----- Weakening -----
+
+[-0.9878811836242676] Very clean, comfortable all over.
+[-0.9819507598876953] Hotel was extremely clean.
+[-0.9780755043029785] Nice plush chairs to relax and drink, and you can sign the drinks up to your room.
+[-0.9779324531555176] The fitness center is very nice and very clean.
+[-0.974858283996582] Clean, comfortable, new...will definitely stay again if the price is right!!
+
+**********
+
+[0.741241455078125] The reviews were mixed.
+Parent: The reviews were mixed on the cleanliness of the hotel.
+
+----- Supporting -----
+
+[0.741241455078125] Breakfast was reasonable but unremarkable and the service very hit and miss.
+[0.5595703125] The reason that I couldn't give a perfect score - in typical Marriott fashion everything is nickel-and-dime.
+[0.4580841064453125] The staff were welcoming, but not overly friendly.
+[0.4461669921875] I was surprised, after reading the reviews on this site, and visiting the hotel the disparity that exists between the two.
+[0.43426513671875] Food presentation was fancy, but the food didn't taste very good.
+
+----- Weakening -----
+
+[-0.9966003894805908] Every interaction I had with the staff was perfect.
+[-0.9956467151641846] I stayed at the hotel with my family of 4 and my mother last weekend and we were really pleased with the hotel.
+[-0.995229959487915] We stayed three nights in this hotel and found it to be quite excellent.
+[-0.9952166080474854] We had stayed in this hotel half-a-dozen times in the past and had been very impressed with it.
+[-0.9946553707122803] The service was superb, our waiter (Ralph) was very courteous and helpful and friendly also, we couldn't ask for much more.
+
+**********
+
+[0.5117530822753906] The hotel needs to be cleaned.
+Parent: The reviews were mixed on the cleanliness of the hotel.
+
+----- Supporting -----
+
+[0.5117530822753906] While the beds were comfy and we had plenty of room, the guest rooms are in need of a renovation.
+[0.2585153579711914] The rooms were clean, but when you looked closely, you would feel it needed a deep clean.. Ie around baseboards, walls and ceiling in bath, etc.
+[0.1490478515625] The lobby refurb looked great -- now they just need to tackle some of the older rooms.
+[0.0811767578125] The lobby of the hotel is currently undergoing renovation (as noted on their website) which made for an unexciting first impression, however the room (1112) was tastefully decorated and fairly spacious for a downtown hotel room.
+[0.058685302734375] Not very convenient to go down to lobby all the time...Staff was not at all helpful in this matter... A sidenote: the room when we arrived was not vacumed and was not clean.
+
+----- Weakening -----
+
+[-0.9621162414550781] This place is very clean, its got THE MOST comfortable beds, and the location is great.
+[-0.9485130310058594] The hotel is very clean, the rooms were a good price for the quality received, and, best of all, the location can't be beat.
+[-0.9299697875976562] Hotel was extremely clean.
+[-0.9196891784667969] The hotel was very clean, the hotel staff were very friendly and information, and it was close to public transportation, which we used for our entire time in Toronto.
+[-0.9007511138916016] The ballrooms and meeting rooms were well kept and allowed for great meetings by day and fun parties in the evening.
+
+**********
+
+[0.9916439056396484] The hotel was clean.
+Parent: Some said it was clean, while others said it was not as clean as they would have liked.
+
+----- Supporting -----
+
+[0.9916439056396484] Hotel was extremely clean.
+[0.9866857528686523] I have to admit that I am usually very worried about hotels and their cleanliness... but this hotel was extremely clean.
+[0.9861721992492676] The hotel is very clean, the rooms were a good price for the quality received, and, best of all, the location can't be beat.
+[0.9857335090637207] The hotel was very clean, the hotel staff were very friendly and information, and it was close to public transportation, which we used for our entire time in Toronto.
+[0.981961727142334] The hotel was clean and modern and the King room was spacious, with the most comfortable bed (slept better than at home).
+
+----- Weakening -----
+
+[-0.9955720901489258] my colleagues staying at the sheraton said their rooms were old and not maintained and in some cases dirty.
+[-0.9866170883178711] My basic perception was that the rooms had a dated, unclean vibe.
+[-0.9856195449829102] The worst part of the stay however was finding two LARGE insects or animals, something in the room!
+[-0.9855070114135742] We called reception at 3am to get them changed, they were apologetic and changed them immediately but even the 'new' sheets still had holes and looked worn!
+[-0.9795284271240234] I was on the 10th floor, it took forever for the shower to get hot and when it did the temperature fluctuated radically from luke warm to scalding.
+
+**********
+
+[0.8156700134277344] The rooms were not clean enough.
+Parent: Some said it was clean, while others said it was not as clean as they would have liked.
+
+----- Supporting -----
+
+[0.8156700134277344] Not very convenient to go down to lobby all the time...Staff was not at all helpful in this matter... A sidenote: the room when we arrived was not vacumed and was not clean.
+[0.654296875] The rooms were clean, but when you looked closely, you would feel it needed a deep clean.. Ie around baseboards, walls and ceiling in bath, etc.
+[0.5937347412109375] my colleagues staying at the sheraton said their rooms were old and not maintained and in some cases dirty.
+[0.46750640869140625] The toilet did not flush properly and the shower seemed to have only 2 temperatures: scalding hot or freezing cold.
+[0.273345947265625] To start with the decor in the rooms is dreadful; mustard coloured walls, a mustard coloured 3D (dont ask) carpet, mustard cloured bed throws and an artexed ceiling only just over 7 feet over our heads.
+
+----- Weakening -----
+
+[-0.9813060760498047] We had connecting rooms, these were prepared to a very high standard, house keeping do a first class job in this hotel.
+[-0.9692039489746094] Not only that, but the rooms were spotlessly clean, the amenities were nice and our view was spectacular.
+[-0.9676313400268555] Hotel was extremely clean.
+[-0.9627437591552734] This place is very clean, its got THE MOST comfortable beds, and the location is great.
+[-0.9607467651367188] The staff was outstanding, the rooms were a bit small but very clean and with the most comfortable beds.
+
+**********
+
+[0.9142684936523438] The fitness center had positive reviews.
+Parent: There were also mixed reviews on the fitness center and pool.
+
+----- Supporting -----
+
+[0.9142684936523438] The only positive thing I have to say would be that the exercise room was pretty good.
+[0.7116050720214844] The kids loved the pool and I loved the fitness center with its complimentary headphones, oxygenated water and fresh fruit!
+[0.5624427795410156] My wife enjoyed the gym which had new and excellent machines.
+[0.23315048217773438] The decor was tasteful, flat-screen tv, VERY soft King bed, marble counter in the bathroom...we were quite impressed.
+[0.232696533203125] Just came back from a four night stay at the Marriott Downtown Eaton Centre, and I was completely satisfied with this hotel.
+
+----- Weakening -----
+
+[-0.9840555191040039] my colleagues staying at the sheraton said their rooms were old and not maintained and in some cases dirty.
+[-0.959650993347168] Poor QC here.
+[-0.9583053588867188] However, we were very dissapointed when we checked in to find that our sheets had stains on them and looked worn.
+[-0.9572734832763672] My basic perception was that the rooms had a dated, unclean vibe.
+[-0.9405059814453125] The gentleman was excessively rude, simply entered the room, removed the dead bug and looked VERY quickly over the rest of the room before saying "Looks like we got em all".
+
+**********
+
+[0.2984619140625] The fitness center was not up to par.
+Parent: There were also mixed reviews on the fitness center and pool.
+
+----- Supporting -----
+
+[0.2984619140625] Great service, friendly staff, good food - pity the room wiater couldn't go further than the threshold !!!!
+[0.28572845458984375] Poor QC here.
+[0.2275848388671875] my colleagues staying at the sheraton said their rooms were old and not maintained and in some cases dirty.
+[0.2183380126953125] The pool was pleasant enough for our daughter to play in but would be much to small for exercising in.
+[0.1242218017578125] To start with the decor in the rooms is dreadful; mustard coloured walls, a mustard coloured 3D (dont ask) carpet, mustard cloured bed throws and an artexed ceiling only just over 7 feet over our heads.
+
+----- Weakening -----
+
+[-0.9907550811767578] The fitness center is very nice and very clean.
+[-0.9849748611450195] Gym is amazing, if you are so inclined, and so is the view...from 18th floor.
+[-0.9844989776611328] If you are looking to do it up right this is the place for you!
+[-0.9834909439086914] Used the pool and whirlpool once; the area was clean and all the equipment in the adjacent fitness center in working order.
+[-0.9831342697143555] The kids loved the pool and I loved the fitness center with its complimentary headphones, oxygenated water and fresh fruit!
+
+**********
+
+[0.8594226837158203] The pool was well-liked.
+Parent: There were also mixed reviews on the fitness center and pool.
+
+----- Supporting -----
+
+[0.8594226837158203] The kids loved the pool and I loved the fitness center with its complimentary headphones, oxygenated water and fresh fruit!
+[0.7172603607177734] Great pool (warm and clean) and hot tub (the cleaning guy let us stay late that evening - thank you!)
+[0.4322357177734375] Hot Tub was good.
+[0.1617412567138672] The pool on the top floor was perfect for a wee splash around and the room was clean, tidy and a decent size.
+[0.14324951171875] The pool was pleasant enough for our daughter to play in but would be much to small for exercising in.
+
+----- Weakening -----
+
+[-0.9218597412109375] There were only 3 minor disappointments -- the concierge lounge was full of families with kids so breakfast was a bit noisy and crowded, the rooftop pool was small and also full of kids, and food at the hotel was pricey -- we got better quality food at more reasonable prices at nearby restaurants.
+[-0.79962158203125] The gentleman was excessively rude, simply entered the room, removed the dead bug and looked VERY quickly over the rest of the room before saying "Looks like we got em all".
+[-0.7103004455566406] The shower however was very touchy and the water was either scalding hot or very cold.
+[-0.63604736328125] The king bed was super comfortable â€“ you literally just sink right in, it feels so delicious just lying down.
+[-0.6300086975097656] I was so frustrated.
+
+**********
+
+[0.2742919921875] The pool was not up to par.
+Parent: There were also mixed reviews on the fitness center and pool.
+
+----- Supporting -----
+
+[0.2742919921875] Great service, friendly staff, good food - pity the room wiater couldn't go further than the threshold !!!!
+[0.27239990234375] There were only 3 minor disappointments -- the concierge lounge was full of families with kids so breakfast was a bit noisy and crowded, the rooftop pool was small and also full of kids, and food at the hotel was pricey -- we got better quality food at more reasonable prices at nearby restaurants.
+[0.2225341796875] The pool was pleasant enough for our daughter to play in but would be much to small for exercising in.
+[0.0858917236328125] The pool didn't have a shallow end for small children, so if you have a younger child you have to hold them the whole time.
+[0.05884552001953125] Poor QC here.
+
+----- Weakening -----
+
+[-0.9890050888061523] Great pool (warm and clean) and hot tub (the cleaning guy let us stay late that evening - thank you!)
+[-0.9860782623291016] The pool on the top floor was perfect for a wee splash around and the room was clean, tidy and a decent size.
+[-0.9749064445495605] There is a lovely indoor pool and Jacuzzi on the roof as well.
+[-0.967381477355957] Hot Tub was good.
+[-0.9623212814331055] Used the pool and whirlpool once; the area was clean and all the equipment in the adjacent fitness center in working order.
+
+**********
+
+[0.7617607116699219] The cleanliness was good.
+Parent: The reviews said that the cleanliness was good.
+
+----- Supporting -----
+
+[0.7617607116699219] Not only that, but the rooms were spotlessly clean, the amenities were nice and our view was spectacular.
+[0.7560997009277344] Excellent housekeeping and the usual amenities; plenty of room for one person.
+[0.6934700012207031] Great pool (warm and clean) and hot tub (the cleaning guy let us stay late that evening - thank you!)
+[0.6866302490234375] The staff was outstanding, the rooms were a bit small but very clean and with the most comfortable beds.
+[0.6493644714355469] We love the lobby with the huge centered fireplace (OK, no true fire, just gas but still very cozy and close to the bar) and the beds are one of the best we've ever slept in - huge, comfortable, good linen and very clean.
+
+----- Weakening -----
+
+[-0.9880027770996094] However, we were very dissapointed when we checked in to find that our sheets had stains on them and looked worn.
+[-0.9845237731933594] I felt spoiled while I was there
+[-0.9835567474365234] The worst part of the stay however was finding two LARGE insects or animals, something in the room!
+[-0.9811487197875977] My basic perception was that the rooms had a dated, unclean vibe.
+[-0.9806785583496094] Not very convenient to go down to lobby all the time...Staff was not at all helpful in this matter... A sidenote: the room when we arrived was not vacumed and was not clean.

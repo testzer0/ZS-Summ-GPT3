@@ -1,0 +1,107 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.6288385391235352
+
+**********
+
+[0.8707962036132812] The reviews were positive.
+Parent: The reviews were generally positive, praising the design of the hotel and its convenient location.
+
+----- Supporting -----
+
+[0.8707962036132812] I stayed here after all the rave reviews.
+[0.8327960968017578] Feedback on the guest rooms from our out of town attendees was excellent.
+[0.7551536560058594] We appreciated the favourable room rate we got because of the course at Maiwa that my wife was taking.
+[0.6554679870605469] While at the hotel we hosted a dinner for 30 people in the Dockside and everybody that I spoke with raved about the dinner,even the locals who had never been there are very keen to come back.
+[0.6252212524414062] I have stayed here on business, with Family and with friends and no one has ever been anything but totally impressed.
+
+----- Weakening -----
+
+[-0.9966940879821777] In this day with gas prices so high and people not traveling as much, they seriously need a reality check or else this place will close down because of all the negative reviews.
+[-0.9947772026062012] We held our wedding reception at the Hotel's lounge and found that we were overall very disappointed.
+[-0.9941005706787109] We recently had an extremely bad stay at an American Sheraton hotel, and were a bit gunshy about staying in ANY hotel again...haha.
+[-0.9923028945922852] My wife and I had a bad experience at GIH.
+[-0.9727020263671875] They told us they thought it was a false alarm...Granville Island is a great place to visit w/kids - lots to do and a fun water park.
+
+**********
+
+[0.7541770935058594] The design of the hotel was praised.
+Parent: The reviews were generally positive, praising the design of the hotel and its convenient location.
+
+----- Supporting -----
+
+[0.7541770935058594] We find the hotel rooms well appointed and comfortable; the staff friendly and accomodating.
+[0.5998153686523438] The hotel was well appointed, our room comfortable and decorated in a traditional style.
+[0.40811920166015625] The hotel was cute, trendy and in an amazing location.
+[0.34711647033691406] This is a very well set up hotel.
+[0.32080078125] I love the setting of this hotel.
+
+----- Weakening -----
+
+[-0.9408245086669922] I have to say I was disappointed with the hotel.
+[-0.8845996856689453] I booked an upgraded King room with a view and ended up beside the elevator in a room that looked pretty dated and uninviting.
+[-0.8184318542480469] We held our wedding reception at the Hotel's lounge and found that we were overall very disappointed.
+[-0.7777328491210938] I think the bathroom was recently reno'd and it was great, but the rest of the room was pretty ho-hum, and even a little run-down/old looking.
+[-0.7403717041015625] * Small rooms * We had a small balcony but had plastic furniture and latice on the floor (not nice) * The dresser, desk and minibar are still the old furniture (too many pieces and old and ugly) It did however have a flat screen tv which should not require a piece a furniture to hold it as it should be wall mounted.
+
+**********
+
+[0.9544763565063477] The hotel is conveniently located.
+Parent: The reviews were generally positive, praising the design of the hotel and its convenient location.
+
+----- Supporting -----
+
+[0.9544763565063477] Loved how this hotel is centrally located within Granville Island which made it convenient to walk to nearby art galleries, restaurants, shops and the famous Public Market.
+[0.946378231048584] The hotel is well situated.
+[0.9310474395751953] The Hotel is easy to get to from the Airport, Check-in was smooth, and the staff was very helpful.
+[0.9276943206787109] To get there, we took the quick little ferry from downtown, and walked with our rolling suitcases to the hotel, conveniently located and yet away from any traffic.
+[0.8766937255859375] This is not a five star hotel but you are not paying five star prices and as stated above the location is awesome.
+
+----- Weakening -----
+
+[-0.9316463470458984] Granville Island is very busy, & I frequently could not find hotel parking.
+[-0.7953948974609375] I personally do not think the location is particularly good, you do get a nice view across False Creek, but the downside is that access to the city is difficult.
+[-0.7575531005859375] If you're looking to stay at a big hi-rise in the middle of the hustle and bustle of downtown, then this place is not for you.
+[-0.6982269287109375] There is no easy chair.
+[-0.6389236450195312] Parking is a problem, and you will probably need to use the valet parking available at the hotel which costs $7.
+
+**********
+
+[0.1051177978515625] The art in the public spaces is not good.
+Parent: However, some guests noted that the art in the public spaces could be improved, and that the hair dryers in the rooms were not very good.
+
+----- Supporting -----
+
+[0.1051177978515625] quiet at night without the often ugly street level scene you encounter at more glamorous high-rises (yes the high-rises can give you great views but coming out at street level you feel like you've walked into a seedy bus station environment).
+[0.0419921875] I booked an upgraded King room with a view and ended up beside the elevator in a room that looked pretty dated and uninviting.
+[0.036895751953125] * The doors, wallpaper and carpets need to be redone.
+[0.031940460205078125] The rooms are small and sparsely furnished.
+[0.020294189453125] * Small rooms * We had a small balcony but had plastic furniture and latice on the floor (not nice) * The dresser, desk and minibar are still the old furniture (too many pieces and old and ugly) It did however have a flat screen tv which should not require a piece a furniture to hold it as it should be wall mounted.
+
+----- Weakening -----
+
+[-0.9928860664367676] Great public market, lots of artistic activity.
+[-0.9845366477966309] It was amazing!
+[-0.9826507568359375] It was outstanding.
+[-0.9821405410766602] A beautiful large modern style room with lots of windows.
+[-0.9802007675170898] Also with the theatres, great restaurants , the artists studios/shops, the microbreweries etc it's a brilliant area .
+
+**********
+
+[0.459625244140625] The hair dryers in the rooms were not very good.
+Parent: However, some guests noted that the art in the public spaces could be improved, and that the hair dryers in the rooms were not very good.
+
+----- Supporting -----
+
+[0.459625244140625] A tiny problem, but big when you are in a hurry: offer better hair dryers than the low-powered one provided.
+[0.0653076171875] My husband tried removing the shade from the lamp, which only helped a tiny bit.
+[0.0156402587890625] Oh, and the sauna was broken.
+[0.01107025146484375] However, if problems arise, as they did on our night, do not expect the manage to be of any help.
+[0.0104217529296875] Initially ck'd into tiny dark room - no way!
+
+----- Weakening -----
+
+[-0.8837985992431641] Both were good.
+[-0.8543682098388672] The room service was great!
+[-0.8381862640380859] Highly recommended.
+[-0.8047714233398438] Would recommend to any traveller
+[-0.7986297607421875] Deserves a huge 5 stars.

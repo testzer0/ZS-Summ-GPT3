@@ -1,0 +1,149 @@
+***** Aspect: building Model Type : zs *****
+Overall score: 0.7739753723144531
+
+**********
+
+[0.496002197265625] Invalid input.
+Parent: Second , after 11 pm you have to use your room card to get into the building .
+
+----- Supporting -----
+
+[0.496002197265625] We spoke with the lady at the desk and all she had to say was "we have never had a Sunday like this... We have another valet employee coming in in an hour" Not helpful!
+[0.3753662109375] We trusted them to be honest and they were not.
+[0.356170654296875] OK, I love music, but this was no music !
+[0.3006591796875] My only complaint about the room was the Wi-Fi...terrible signal from it and half the time (at least) I couldn't even get on the internet.
+[0.2867431640625] I was there the morning of the false fire alarm and although it was annoying I would rather it be false than for real!
+
+----- Weakening -----
+
+[-0.9923019409179688] Exceptional service!
+[-0.9902153015136719] Good enough, as it was accurate information.
+[-0.9876327514648438] The service was exceptional and went beyond the standard service.
+[-0.987518310546875] Friendly and helpful staff.
+[-0.9840526580810547] A sincere smile and a really good attitude.
+
+**********
+
+[0.9885244369506836] You need a room card to get into the building after 11 pm.
+Parent: Second , after 11 pm you have to use your room card to get into the building .
+
+----- Supporting -----
+
+[0.9885244369506836] Second, after 11pm you have to use your room card to get into the building.
+[0.01296234130859375] Happily to get in the hotel at night you need to use your keycard and they ask you to confirm your room number and name at the front desk prior to accessing the elevator.
+[0.0] Horrible !
+[0.0] WOW !
+[0.0] Downfall ?
+
+----- Weakening -----
+
+[-0.6980581283569336] Free internet was nice too, and useful.
+[-0.6860332489013672] Even though we didn't buy them you could buy snacks 24 hours a day which was nice.
+[-0.672393798828125] Then we asked the hotel (after we parked our car in the public parking) and they said that we'd pay $35 until 3 pm!!
+[-0.656158447265625] It is not that hard to match up numbers on tickets to find a vehicle.
+[-0.5536165237426758] And the free internet is speedy.
+
+**********
+
+[0.615936279296875] We stayed at the hotel for 4 days.
+Parent: We were there for 4 days / 3 nights and every day we had to track down a maid to request clean towels .
+
+----- Supporting -----
+
+[0.615936279296875] My boyfriend and I stayed here this past weekend january 21-23 and the people were nice not that we were in the hotel to much other than to sleep but the bed was absolutely awful it was like sleeping on a board.
+[0.2518310546875] Stayed here for a week, the hotel is nice, rooms are nicely appointed.
+[0.23199462890625] The Hilton Garden Inn is in a great location within walking distance of C.N.Tower and Rogers Stadium and next to a wide selection of restaurants,bars,shops etc There are fresh apples to help yourself each morning and cookies at night,also complimentary drinks on some days ?The rooms are spacious and clean BUT if you are stayingThursday through until Sunday there is a club with a patio next door and the noise is terrific until around three in the morning so if your not out yourself you will not sleep.We only had this experience on the Sat night the rest of our stay was perfect through until the following Wednesday.Fridge,microwave abd coffe maker in room really useful.Go to the italian quarter for some really great little restaurants and bars.Toronto is a terrific city ENJOY!
+[0.1747283935546875] My girlfriend and I stayed at the Hilton Garden Inn over the July-August long weekend and had a great time!
+[0.11895751953125] Room was very comfortable, good location for sightseeing in Toronto, breakfasts cooked to order, and all went well until the third night when the nightclub next door went into action.
+
+----- Weakening -----
+
+[-0.9980173110961914] We took one of those hop on and off tour bus and there was a stop not that far from the hotel.. We only stayed there for 1 night but we made the most out of it.
+[-0.9970593452453613] I only stayed there for one night but the room was very comfortable and clean.
+[-0.9934134483337402] Overall we had a fantastic 1 night stay especially since check out time was noon so we could sleep in.
+[-0.9928102493286133] 40 minutes later we finally got our cars.
+[-0.9922056198120117] My wife and I stayed at this hotel for one night last July.
+
+**********
+
+[0.9573984146118164] We stayed at the hotel for 3 nights.
+Parent: We were there for 4 days / 3 nights and every day we had to track down a maid to request clean towels .
+
+----- Supporting -----
+
+[0.9573984146118164] Stayed at the Hilton Garden Inn for 3 nights in June.
+[0.938812255859375] Stayed here for our last night at end of two weeks in Canada, having stayed at the Marriot Residence Inn in the Entertainment district for the first 3 nights of our holiday, Whilst we got a good value deal there for a one bedroom suite, I have to say I preferred the Hilton.
+[0.52294921875] Room was very comfortable, good location for sightseeing in Toronto, breakfasts cooked to order, and all went well until the third night when the nightclub next door went into action.
+[0.1566162109375] Now, keep in mind that this is the third Hilton we had stayed at in three days and the other two had no issue and also my husband is a Gold member.
+[0.1086578369140625] I booked 3 rooms on short notice focusing on being in downtown Toronto.
+
+----- Weakening -----
+
+[-0.9977903366088867] We took one of those hop on and off tour bus and there was a stop not that far from the hotel.. We only stayed there for 1 night but we made the most out of it.
+[-0.9969344139099121] I only stayed there for one night but the room was very comfortable and clean.
+[-0.9943456649780273] My wife and I stayed at this hotel for one night last July.
+[-0.9938716888427734] Overall we had a fantastic 1 night stay especially since check out time was noon so we could sleep in.
+[-0.9934253692626953] I went to The Hilton Garden Inn on Peter Street for a one night stay with my BF to celebrate our Anniversary, we opted for the King Room with Jacuzzi and Fireplace.
+
+**********
+
+[0.45076751708984375] The maids were not attentive.
+Parent: We were there for 4 days / 3 nights and every day we had to track down a maid to request clean towels .
+
+----- Supporting -----
+
+[0.45076751708984375] We spoke with the lady at the desk and all she had to say was "we have never had a Sunday like this... We have another valet employee coming in in an hour" Not helpful!
+[0.219146728515625] We requested to have a maid clean our bathroom and take the trash out, no one ever came!
+[0.13774871826171875] There was a slight mix up with our booking but no fuss was made although I did find the reception staff a little disinterested but nothing to spoil my stay.
+[0.135498046875] Sometimes desk people can have an attitude, but not this woman.
+[0.128204345703125] Also, the staff for some reason couldn't seem to do the sums right!
+
+----- Weakening -----
+
+[-0.9839363098144531] Exceptional service!
+[-0.9823694229125977] My husband is confined to a wheelchair and we really appreciated the extra effort the valets took helping us remove the chair from the car, assemble it, get my husband into it and get us into the hotel.
+[-0.9766898155212402] The front desk staff and the parking valet were very friendly, and helpful.
+[-0.9687590599060059] The service was exceptional and went beyond the standard service.
+[-0.9681634902954102] If we call for extra towels/sheets/cups, it's all sent up very quickly by housekeeping staff.
+
+**********
+
+[0.9612464904785156] There was no housecleaning.
+Parent: First , there was absolutely no housecleaning / maid service !
+
+----- Supporting -----
+
+[0.9612464904785156] First, there was absolutely no housecleaning/maid service!
+[0.4521484375] We requested to have a maid clean our bathroom and take the trash out, no one ever came!
+[0.134124755859375] my boyfriend and i both went home sore and dead tired from trying to find a comfortable way to sleep tossing and turning all night but there was none.
+[0.124359130859375] Fifth, we were told there was 24 hour room service, when we inquired about room service we were told the kitchen was closed!
+[0.0740966796875] Gym is very good, and to my surprise, was empty the couple of times I went about.
+
+----- Weakening -----
+
+[-0.997520923614502] There was also a very much needed laundry!
+[-0.9967823028564453] The rooms are in excellent condition, housekeeping is very good, and the location is very handy to everything downtown.
+[-0.9967575073242188] Housekeeping changed towels when not needed, and so on and so forth!
+[-0.9966034889221191] Housekeeping even stopped by to make sure we had everything we needed shortly after we arrived.
+[-0.9959993362426758] housekeeping was super here.
+
+**********
+
+[0.9479522705078125] There was no maid service.
+Parent: First , there was absolutely no housecleaning / maid service !
+
+----- Supporting -----
+
+[0.9479522705078125] First, there was absolutely no housecleaning/maid service!
+[0.639617919921875] Pool and hot tub clean, though bizarrly no changing room.
+[0.5892333984375] We requested to have a maid clean our bathroom and take the trash out, no one ever came!
+[0.0914764404296875] Gym is very good, and to my surprise, was empty the couple of times I went about.
+[0.08538818359375] my boyfriend and i both went home sore and dead tired from trying to find a comfortable way to sleep tossing and turning all night but there was none.
+
+----- Weakening -----
+
+[-0.9964690208435059] Housekeeping even stopped by to make sure we had everything we needed shortly after we arrived.
+[-0.995821475982666] Housekeeping changed towels when not needed, and so on and so forth!
+[-0.9943881034851074] If we call for extra towels/sheets/cups, it's all sent up very quickly by housekeeping staff.
+[-0.9942288398742676] We were there for 4 days/3 nights and every day we had to track down a maid to request clean towels.
+[-0.9934291839599609] housekeeping was super here.

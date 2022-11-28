@@ -1,0 +1,359 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.9160299441393684
+
+**********
+
+[0.9644546508789062] The food was cold.
+Parent: Some reviewers thought the food was cold.
+
+----- Supporting -----
+
+[0.9644546508789062] The soup was brought to us pretty cold, but he seemed to vanish so we couldn't complain.
+[0.9642658233642578] All of this resulted in out take-out food getting cold plus I lost my scarf somewhere along the way.
+[0.9616117477416992] Service in the more upscale of the two restaurants was almost unbearably slow and the food was cold when it finally arrived after over a hour at our table.
+[0.9613819122314453] We ordered food and received ice cold food one hour later.
+[0.19873046875] If it wasn't for Pam the waitress quick actions and bringing me ice, I am sure it would have blistered terribly.
+
+----- Weakening -----
+
+[-0.9966325759887695] Breakfast was delicious in the coffee shop, hot scones with jam and coffee.
+[-0.9947299957275391] On check in, the warm chocolate chip cookies were a lovely touch.
+[-0.9942712783813477] The staff was friendly and helpful and we enjoyed the warm, chocolate chip cookie we were given at check-in.
+[-0.9941768646240234] I absolutely loved the warm cookies we were given at check in and the beds in our room were so incredibly soft.
+[-0.9937686920166016] I love the big warm cookies in the evening.
+
+**********
+
+[0.8073577880859375] The reviewers said that the food was good.
+Parent: The reviewers said that the food was good, but that it was a bit overpriced.
+
+----- Supporting -----
+
+[0.8073577880859375] Pros: - cookies upon check-in - one of my favorite things about the Doubletrees - complimentary airport shuttle every 15 mins - nice pools, rooms are very comfortable with excellent beds and Neutrogena toiletries and Wolfgang Puck coffee - nice food selection in hotel Cons: - parking is expensive - $16/night.
+[0.6330490112304688] We really liked the Doubletree Sea-Tac.
+[0.42543792724609375] The good: large room, food at the restaurants (especially the clam chowder), bed, view from the elevators, service, shuttle every 20 minutes to and from the airport (5 minutes away) The bad: the insulation for the windows is awful, so the hotel is extremely noisy at night (at least if you are facing the airport): airplanes, busy airport boulevard, rooftop with furnaces/chillers etc.
+[0.25659751892089844] Restaurant food was excellent and reasonably priced and breakfast was good.
+[0.22260475158691406] Food was good, but a bit overpriced.
+
+----- Weakening -----
+
+[-0.9189882278442383] I'm surprised at the negative reviews, I'm a regular Priceline customer, staying at the Doubletree usually once a month and have never had a bad experience.
+[-0.85858154296875] We ate at both the lounge and the cafe and food was average at best, but the service VERY GOOD!
+[-0.753997802734375] What I found was rather run down and shabby.
+[-0.7469272613525391] The crappy wings are old and the rooms smell musty.
+[-0.688690185546875] Service in the more upscale of the two restaurants was almost unbearably slow and the food was cold when it finally arrived after over a hour at our table.
+
+**********
+
+[0.9540138244628906] The food was overpriced.
+Parent: The reviewers said that the food was good, but that it was a bit overpriced.
+
+----- Supporting -----
+
+[0.9540138244628906] Food was good, but a bit overpriced.
+[0.9466400146484375] Food was very expensive in restaurant and just okay.
+[0.8971633911132812] The room service was horribly overpriced-- not only do they charge 18% more than listed price, the listed prices in the rooms are ALREADY higher than in the restaurant ($2 more on soups and $3-$8 more on entrees/burgers).
+[0.8260612487792969] With the $20 a night parking, internet fees, and insane food pricing I would expect a much more modern, bigger, and clean room.
+[0.7691612243652344] That worked well for me since the food at the hotel is fairly pricey.
+
+----- Weakening -----
+
+[-0.9922189712524414] Restaurant food was excellent and reasonably priced and breakfast was good.
+[-0.9743213653564453] The rooms are relatively spacious, our kids love the pool, and the breakfast buffet isn't a bad deal for what you get.
+[-0.9089860916137695] Cheap toiletries, few towels.
+[-0.9004268646240234] I was able to purchase a reasonably priced bottle of Oregon pinot noir for in-room consumption.
+[-0.8989524841308594] The gift shop was well stocked and very reasonably priced.
+
+**********
+
+[0.9737777709960938] The cookies were good.
+Parent: They also said that the cookies were good, as always.
+
+----- Supporting -----
+
+[0.9737777709960938] Cookies were good, as always.
+[0.9443082809448242] Check in was easy and the cookies were nice.
+[0.8597602844238281] The rooms are comfortable and the cookies are great but getting smaller.
+[0.8046951293945312] The hotel reception had a lovely smell of freshly baked cookies which were given out at check in and were delicious.
+[0.7975921630859375] The cookies are a nice touch too.
+
+----- Weakening -----
+
+[-0.8964462280273438] So a burger and soup were $32, and it was a very.
+[-0.8333206176757812] The beds were amazing.
+[-0.8005905151367188] Nice size bath.
+[-0.7450637817382812] The soup was brought to us pretty cold, but he seemed to vanish so we couldn't complain.
+[-0.6917877197265625] other bugs every where.
+
+**********
+
+[0.9366788864135742] The cookies were fine.
+Parent: They also said that the cookies were good, as always.
+
+----- Supporting -----
+
+[0.9366788864135742] Cookies were good, as always.
+[0.9122352600097656] Check in was easy and the cookies were nice.
+[0.6405715942382812] The cookies are a nice touch too.
+[0.5012969970703125] The chocolate chip cookies are always a treat.
+[0.50054931640625] On check in, the warm chocolate chip cookies were a lovely touch.
+
+----- Weakening -----
+
+[-0.9872236251831055] It was so liquified that it spilled all over my hand and burned me terribly.
+[-0.9633169174194336] Keep your children away from these set ups, they are going to injure someone terribly!
+[-0.9542322158813477] Big mistake.
+[-0.9413299560546875] Then there was this set-up for the syrup which was under a sterno can and full flame, the syrup was boiling.
+[-0.9311599731445312] other bugs every where.
+
+**********
+
+[0.9385032653808594] The food was average.
+Parent: The food was average at best, but the service was very good.
+
+----- Supporting -----
+
+[0.9385032653808594] We ate at both the lounge and the cafe and food was average at best, but the service VERY GOOD!
+[0.9118309020996094] VERY average burger.
+[0.86480712890625] Food was very expensive in restaurant and just okay.
+[0.736328125] The hotel restaurant was nice enough, but again, bland; the food was nicely presented but had no taste.
+[0.66302490234375] The not so good news - food at the hotel was OK.
+
+----- Weakening -----
+
+[-0.9935026168823242] Breakfast was delicious in the coffee shop, hot scones with jam and coffee.
+[-0.9933490753173828] We had dinner in the attached restaurant, and the food was absolutely delicious.
+[-0.9927706718444824] The breakfast in the restaurant was amazing, and the staff was very attentive and friendly.
+[-0.9925336837768555] We ate supper in their restaurant and I had an excellent salad (large enough to divide) and an exceptionally good Reuben sandwich.
+[-0.9895172119140625] Choice of food was excelent.
+
+**********
+
+[0.5480194091796875] The food was bad.
+Parent: The food was average at best, but the service was very good.
+
+----- Supporting -----
+
+[0.5480194091796875] Service in the more upscale of the two restaurants was almost unbearably slow and the food was cold when it finally arrived after over a hour at our table.
+[0.2786712646484375] We ordered food and received ice cold food one hour later.
+[0.11342620849609375] Coffee shop service was horrible.
+[0.07647705078125] It was so liquified that it spilled all over my hand and burned me terribly.
+[0.06951141357421875] The crappy wings are old and the rooms smell musty.
+
+----- Weakening -----
+
+[-0.9977240562438965] We had dinner in the attached restaurant, and the food was absolutely delicious.
+[-0.9975681304931641] Restaurant food was excellent and reasonably priced and breakfast was good.
+[-0.9973888397216797] We tried the hotel restaurants and the food was quite good.
+[-0.9972939491271973] The restaurant also had good food (we were given a $10 per person coupon to use in the restaurant from the hotel).
+[-0.9970855712890625] The food was decent as was the wine selection.
+
+**********
+
+[0.9224567413330078] The service was good.
+Parent: The food was average at best, but the service was very good.
+
+----- Supporting -----
+
+[0.9224567413330078] We ate at both the lounge and the cafe and food was average at best, but the service VERY GOOD!
+[0.9211635589599609] Service was great and bell person got ice for us and was very helpful.
+[0.9102783203125] Service is outstanding, there nightclub is always fun and classy.
+[0.9059524536132812] Room service was good, however.
+[0.8917751312255859] The airport shuttle service was great, friendly and on-time.
+
+----- Weakening -----
+
+[-0.9959306716918945] Coffee shop service was horrible.
+[-0.9883260726928711] The front desk staff were grouchy, uninterested and not pleasant to deal with.
+[-0.9756183624267578] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[-0.9729843139648438] Waitress never brought the items we requested and the order was askew.
+[-0.9498214721679688] When we tried to leave, our paid parking pass wouldn't register to let us out of the parking lot, and there were no attendants handy, so we were late returning our rental car :( -- I'm thankful we didn't get dinged on that.
+
+**********
+
+[0.9731259346008301] The food at the hotel is good.
+Parent: The food at the hotel is good, although it is a bit pricey.
+
+----- Supporting -----
+
+[0.9731259346008301] We tried the hotel restaurants and the food was quite good.
+[0.8970251083374023] The restaurant also had good food (we were given a $10 per person coupon to use in the restaurant from the hotel).
+[0.8916950225830078] Pros: - cookies upon check-in - one of my favorite things about the Doubletrees - complimentary airport shuttle every 15 mins - nice pools, rooms are very comfortable with excellent beds and Neutrogena toiletries and Wolfgang Puck coffee - nice food selection in hotel Cons: - parking is expensive - $16/night.
+[0.8462600708007812] The good: large room, food at the restaurants (especially the clam chowder), bed, view from the elevators, service, shuttle every 20 minutes to and from the airport (5 minutes away) The bad: the insulation for the windows is awful, so the hotel is extremely noisy at night (at least if you are facing the airport): airplanes, busy airport boulevard, rooftop with furnaces/chillers etc.
+[0.7330036163330078] Lovely spacious Doubletree, with gift shop and a very good restaurant inside it.
+
+----- Weakening -----
+
+[-0.9410247802734375] The not so good news - food at the hotel was OK.
+[-0.6446189880371094] I could not recommend this hotel.
+[-0.6094913482666016] I would not recommend this hotel.
+[-0.5304470062255859] This property is a mess.
+[-0.5208988189697266] What I found was rather run down and shabby.
+
+**********
+
+[0.89459228515625] The food at the hotel is overpriced.
+Parent: The food at the hotel is good, although it is a bit pricey.
+
+----- Supporting -----
+
+[0.89459228515625] That worked well for me since the food at the hotel is fairly pricey.
+[0.7202377319335938] The room service was horribly overpriced-- not only do they charge 18% more than listed price, the listed prices in the rooms are ALREADY higher than in the restaurant ($2 more on soups and $3-$8 more on entrees/burgers).
+[0.28400230407714844] With the $20 a night parking, internet fees, and insane food pricing I would expect a much more modern, bigger, and clean room.
+[0.0611572265625] We had a lovely buffet breakfast in the restaurant and sat by the outdoor pool in the morning while we waited for our transfer to the airport.
+[0.0592041015625] The only drawback was that the restaurant was a little on the pricey side for breakfast, but there are many places nearby to eat.
+
+----- Weakening -----
+
+[-0.9821367263793945] The rooms are relatively spacious, our kids love the pool, and the breakfast buffet isn't a bad deal for what you get.
+[-0.9447946548461914] Restaurant food was excellent and reasonably priced and breakfast was good.
+[-0.8573112487792969] I was able to purchase a reasonably priced bottle of Oregon pinot noir for in-room consumption.
+[-0.8188009262084961] At $65 plus the upgrade this was outstanding value, so much so we used it on our return journey too.
+[-0.6894359588623047] The gift shop was well stocked and very reasonably priced.
+
+**********
+
+[0.9941229820251465] There are eating places nearby.
+Parent: There are plenty of eating places nearby.
+
+----- Supporting -----
+
+[0.9941229820251465] Plenty of eating places nearby, and the bar in the hotel is fine also.
+[0.9828600883483887] There are restaurants all around, plus two in the hotel.
+[0.979992151260376] There is a Jack in the Box and Denny's across the street as well as a Subway, Thai restaurant and a BBQ restaurant nearby.
+[0.9654698371887207] The only drawback was that the restaurant was a little on the pricey side for breakfast, but there are many places nearby to eat.
+[0.9634928703308105] There are a few restaurants around the hotel area and you can also easily walk to the airport should you want to.
+
+----- Weakening -----
+
+[-0.759918212890625] It is on a busy street and I didn't see a restaurant within walking distance so I ate in the lobby.
+[-0.6889190673828125] other bugs every where.
+[-0.38408660888671875] It was so liquified that it spilled all over my hand and burned me terribly.
+[-0.2554168701171875] Total rip-off with the excess charges.
+[-0.235137939453125] The shuttle was hot and smelly again and people were mad.
+
+**********
+
+[0.9912216663360596] The coffee bar in the lobby is great.
+Parent: The coffee bar in the lobby is great.
+
+----- Supporting -----
+
+[0.9912216663360596] The coffee bar in the lobby is great and opens at 5.
+[0.6611480712890625] The coffee bar in the lobby was handy, too!
+[0.2161712646484375] We were able to grab a quick bite and coffee at the convenience Starbucks in the lobby on our way out to our flight.
+[0.01812744140625] Breakfast was delicious in the coffee shop, hot scones with jam and coffee.
+[0.01318359375] The room was spacious and had a coffee maker.
+
+----- Weakening -----
+
+[-0.9343128204345703] Coffee shop service was horrible.
+[-0.8426513671875] It was so liquified that it spilled all over my hand and burned me terribly.
+[-0.8002939224243164] This hotel disappointed.
+[-0.7507638931274414] I would not recommend this hotel.
+[-0.7344818115234375] What I found was rather run down and shabby.
+
+**********
+
+[0.9126691818237305] The chocolate chip cookies are delicious.
+Parent: The chocolate chip cookies are always a treat.
+
+----- Supporting -----
+
+[0.9126691818237305] The chocolate chip cookies are always a treat.
+[0.7847652435302734] Love the warm chocolate chips cookies and the service has always been outstanding.
+[0.5708541870117188] The check-in process was courteous and smooth, and we were given a nice corner room with a balcony on the 9th floor (accompanied by the delicious chocolate chip cookies).
+[0.49091339111328125] You absolutely cannot beat a Doubletree chocolate chip cookie as a welcome treat.
+[0.19667816162109375] On check in, the warm chocolate chip cookies were a lovely touch.
+
+----- Weakening -----
+
+[-0.9431734085083008] What I found was rather run down and shabby.
+[-0.9272346496582031] other bugs every where.
+[-0.9151554107666016] I would not recommend this hotel.
+[-0.9035863876342773] This hotel disappointed.
+[-0.8985576629638672] The beds were amazing.
+
+**********
+
+[0.9473638534545898] The food at the hotel is excellent.
+Parent: The food at the hotel is excellent, with a wide choice available.
+
+----- Supporting -----
+
+[0.9473638534545898] We tried the hotel restaurants and the food was quite good.
+[0.8262767791748047] The restaurant also had good food (we were given a $10 per person coupon to use in the restaurant from the hotel).
+[0.8186759948730469] Pros: - cookies upon check-in - one of my favorite things about the Doubletrees - complimentary airport shuttle every 15 mins - nice pools, rooms are very comfortable with excellent beds and Neutrogena toiletries and Wolfgang Puck coffee - nice food selection in hotel Cons: - parking is expensive - $16/night.
+[0.6604843139648438] The good: large room, food at the restaurants (especially the clam chowder), bed, view from the elevators, service, shuttle every 20 minutes to and from the airport (5 minutes away) The bad: the insulation for the windows is awful, so the hotel is extremely noisy at night (at least if you are facing the airport): airplanes, busy airport boulevard, rooftop with furnaces/chillers etc.
+[0.6192226409912109] Lovely spacious Doubletree, with gift shop and a very good restaurant inside it.
+
+----- Weakening -----
+
+[-0.9958133697509766] The not so good news - food at the hotel was OK.
+[-0.969019889831543] Food was very expensive in restaurant and just okay.
+[-0.9488983154296875] We ate at both the lounge and the cafe and food was average at best, but the service VERY GOOD!
+[-0.9410290718078613] I would not recommend this hotel.
+[-0.9361505508422852] This hotel disappointed.
+
+**********
+
+[0.8545455932617188] The hotel has a wide variety of food available.
+Parent: The food at the hotel is excellent, with a wide choice available.
+
+----- Supporting -----
+
+[0.8545455932617188] Pros: - cookies upon check-in - one of my favorite things about the Doubletrees - complimentary airport shuttle every 15 mins - nice pools, rooms are very comfortable with excellent beds and Neutrogena toiletries and Wolfgang Puck coffee - nice food selection in hotel Cons: - parking is expensive - $16/night.
+[0.32274627685546875] There are a few restaurants around the hotel area and you can also easily walk to the airport should you want to.
+[0.28049468994140625] There is no complimentary breakfast; there is a coffee shop and an espresso bar that also sells yogurt, bagels and pastries.
+[0.26876068115234375] The hotel was clean, beds were fine, hotel is located across the street from the air port, was within walking distance to a Denny's, Jack in the Box, and a steak place.
+[0.2478790283203125] The good: large room, food at the restaurants (especially the clam chowder), bed, view from the elevators, service, shuttle every 20 minutes to and from the airport (5 minutes away) The bad: the insulation for the windows is awful, so the hotel is extremely noisy at night (at least if you are facing the airport): airplanes, busy airport boulevard, rooftop with furnaces/chillers etc.
+
+----- Weakening -----
+
+[-0.9770514965057373] It is on a busy street and I didn't see a restaurant within walking distance so I ate in the lobby.
+[-0.8995504379272461] Don't expect a whole lot here.
+[-0.87945556640625] OUR overall stay was great, would have been nice to have no feathered pillows , not having a MICROWAVE,REFRIDG not cool, they charge each day for a roll away bed they said they would accomumdate for up to five in one room stayed three days so used blankets on the floor for the two boys I requested four blanket but had to go down to argue after only getting one they charge for wi-fi in room, LOBBY FREE- charge for daily parking no continuial breakfast without charging all these should change I called on phone for the entertainment book checking in nope they dont take it close to many places to eat,bank and even small cascino the airport close yes somewhat noisy but hey what one is not only during day time night time very quiet staff quiet friendly HOUSEKEEPING WONDERFUL yes i would recommend this hotel to others it'sa nice place is great for summer as with pool only on outsde .
+[-0.8538742065429688] What I found was rather run down and shabby.
+[-0.8317718505859375] I would not recommend this hotel.
+
+**********
+
+[0.9802861213684082] The cookies given out at check-in are a nice touch.
+Parent: The cookies given out at check-in are a nice touch, and the coffee bar in the lobby is handy.
+
+----- Supporting -----
+
+[0.9802861213684082] On check in, the warm chocolate chip cookies were a lovely touch.
+[0.915769100189209] Check in was easy and the cookies were nice.
+[0.8873996734619141] The staff was friendly and we appreciated the cookies after a long flight when we were waiting to check inn.
+[0.8090744018554688] I absolutely loved the warm cookies we were given at check in and the beds in our room were so incredibly soft.
+[0.7956066131591797] This plus we luv their complimentary cookies that they offer upon check-in.
+
+----- Weakening -----
+
+[-0.9145240783691406] It was so liquified that it spilled all over my hand and burned me terribly.
+[-0.8783302307128906] Whenever my husband moved, I felt like we were on a boat in rough water.
+[-0.8587417602539062] other bugs every where.
+[-0.7786846160888672] Big mistake.
+[-0.7705307006835938] The final straw was the morning we left.
+
+**********
+
+[0.9793190956115723] The coffee bar in the lobby is convenient.
+Parent: The cookies given out at check-in are a nice touch, and the coffee bar in the lobby is handy.
+
+----- Supporting -----
+
+[0.9793190956115723] The coffee bar in the lobby was handy, too!
+[0.9618377685546875] We were able to grab a quick bite and coffee at the convenience Starbucks in the lobby on our way out to our flight.
+[0.5442962646484375] The coffee bar in the lobby is great and opens at 5.
+[0.0170440673828125] The room was spacious and had a coffee maker.
+[0.014421463012695312] Located within a few miles of Sea-Tac this is a very large hotel with a Starbucks, gift shop, meeting rooms, breakfast room, bar and dining room.
+
+----- Weakening -----
+
+[-0.9315471649169922] Having the printer in the lobby to print your boarding pass was really convenient.
+[-0.8498992919921875] It was so liquified that it spilled all over my hand and burned me terribly.
+[-0.8382148742675781] Whenever my husband moved, I felt like we were on a boat in rough water.
+[-0.787567138671875] After commuting back and fort from florida if too tired to drive back to my destination i always stay at this dbl tree.
+[-0.7830123901367188] The shuttle is convenient and reliable.

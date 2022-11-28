@@ -1,0 +1,191 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.9699846373664008
+
+**********
+
+[0.978184700012207] The hotel restaurant was not good.
+Parent: The hotel restaurant was no great shakes but it is walking distance to some great eateries .
+
+----- Supporting -----
+
+[0.978184700012207] hotel restaurant isn't very good, try others like palace kitchen, wild ginger, le pitchet.
+[0.9111785888671875] The hotel restaurant was no great shakes but it is walking distance to some great eateries.
+[0.8834648132324219] The in-house restaurant is mediocre but not too pricey.
+[0.5201454162597656] The room-service was way overpriced for mediocre food though.
+[0.274871826171875] I like breakfast buffets, there isnâ€™t one in this hotel.
+
+----- Weakening -----
+
+[-0.9949827194213867] The Happy Hour at the Dragonfish was exceptional - great prices, great food, great service.
+[-0.9947185516357422] We enjoyed dining at the Dragonfish restaurant for great food and reasonable pricing.
+[-0.9943852424621582] I especially like the Dragonfish Cafe restaurant - it is one of my favorite restaurants for Asian Fusion.
+[-0.9941539764404297] The restaurant (Dragonfish) has amazing food, and a wonderful happy hour small plates menu, though it can get quite busy, the hostess just took our room number and called us when our reservation was ready.
+[-0.9941377639770508] The restaurant downstairs has amazing happy hours with great food and drink specials.
+
+**********
+
+[0.9698419570922852] The hotel restaurant is close to some great eateries.
+Parent: The hotel restaurant was no great shakes but it is walking distance to some great eateries .
+
+----- Supporting -----
+
+[0.9698419570922852] The hotel restaurant was no great shakes but it is walking distance to some great eateries.
+[0.7447433471679688] It is within easy walking distance of shopping, great restaurants and Pike's Place.
+[0.5289926528930664] Location is excellent; the hotel is within walking distance of a bunch of restaurants and the downtown shopping.
+[0.39963531494140625] This hotel is probably one of the best in terms of location for shopping and restaurant etc.
+[0.2914752960205078] The location of the hotel is great...close to the convention center, bus and light rail tunnel, Westlake Center as well as restaurants and shopping.
+
+----- Weakening -----
+
+[-0.6169395446777344] The location isn't even that good, a little to far north for me.
+[-0.5001583099365234] Based on my overall experience I could not recommend this hotel.
+[-0.45381927490234375] Ok, it is bad.
+[-0.3931159973144531] PLEASE don't give this awful chain your business!
+[-0.3643684387207031] Stripping the sheets, I found a fairly fresh urine stain that made me want to vomit.
+
+**********
+
+[0.9917755126953125] I read some reviews, which prompted me to add my own.
+Parent: Reading some reviews after staying for a week in late September prompted me to add my review ; I think some of the unhappy reviewers need to do their research better before booking a hotel so as not to blame the hotel for their own lack of knowledge .
+
+----- Supporting -----
+
+[0.9917755126953125] Reading some reviews after staying for a week in late September prompted me to add my review; I think some of the unhappy reviewers need to do their research better before booking a hotel so as not to blame the hotel for their own lack of knowledge.
+[0.26129150390625] For my first visit to Seattle I wanted to explore the downtown a bit and so I booked a couple of nights at the Paramount, based in part on reviews here.
+[0.0857391357421875] Their tone of voice was no better than a 13 year old with a bad attitude!
+[0.0772247314453125] The choice of channels for the tv is terrible....for the amount you pay this place you should get more than 20 channels....the only thing great about this place is the water pressure.
+[0.0752410888671875] hotel restaurant isn't very good, try others like palace kitchen, wild ginger, le pitchet.
+
+----- Weakening -----
+
+[-0.6506805419921875] Never got milk and felt it would be a waste of time to try getting anything corrected.
+[-0.636871337890625] Every time I called down to the Front Desk with questions it felt like I was putting them out.
+[-0.5717849731445312] I don't have much to add that other reviewers haven't already said.
+[-0.5136184692382812] The trade show arranged a negotiated rate so I did not compare rates with other hotels in advance.
+[-0.456939697265625] I was in a car accident while visiting the Seattle area.
+
+**********
+
+[0.969670295715332] I stayed in the hotel for a week in late September.
+Parent: Reading some reviews after staying for a week in late September prompted me to add my review ; I think some of the unhappy reviewers need to do their research better before booking a hotel so as not to blame the hotel for their own lack of knowledge .
+
+----- Supporting -----
+
+[0.969670295715332] Reading some reviews after staying for a week in late September prompted me to add my review; I think some of the unhappy reviewers need to do their research better before booking a hotel so as not to blame the hotel for their own lack of knowledge.
+[0.00028705596923828125] I must say I had no significant complaint at all with this hotel during the entire week staying there.
+[0.00012493133544921875] All in all a good stay.
+[0.0] :)
+[0.0] Not cool!
+
+----- Weakening -----
+
+[-0.9852962493896484] I stayed at the Paramount June 1-3 in conjunction with a trade show at the convention center.
+[-0.9752049446105957] I stayed at this hotel while I was attending an expo at the convention center in January.
+[-0.9750442504882812] Stayed at The Paramount in late September 2011 for one night before a cruise.
+[-0.9707460403442383] We only stayed one night but my husband and I really enjoyed our stay.
+[-0.9624347686767578] I recently booked a two-night stay in July on Hotwire for $123 a night, and I am looking forward to my next stay.
+
+**********
+
+[0.9820046424865723] Some reviewers were unhappy with the hotel.
+Parent: Reading some reviews after staying for a week in late September prompted me to add my review ; I think some of the unhappy reviewers need to do their research better before booking a hotel so as not to blame the hotel for their own lack of knowledge .
+
+----- Supporting -----
+
+[0.9820046424865723] Reading some reviews after staying for a week in late September prompted me to add my review; I think some of the unhappy reviewers need to do their research better before booking a hotel so as not to blame the hotel for their own lack of knowledge.
+[0.7637939453125] Needless to say we left the hotel very frustrated and upset.
+[0.7532634735107422] We were sad that we didnt get to stay longer at this hotel.
+[0.6459884643554688] Generally, when we stay at a downtown Seattle hotel, we are happy to be getting back to our own homes and beds, but with Paramount, we were sorry we didn't have a few more days.
+[0.5732936859130859] Some other minor issues were the desk chair in the room (it fell short of an appropriate working height of the desk and constantly fell down when your leg accidently hit the adjustment bar in front, poor choice of chairs), the elevator door was annoyingly slow to close (I was up and down several times per day), the exterior and lobby doors should be automatic and I noticed people struggling to open them and get their luggage through, they also were misaligned and did not open well.
+
+----- Weakening -----
+
+[-0.7562408447265625] What a wonderful surprise.
+[-0.39275169372558594] It's Asian inspired and they have some incredible little dishes of sushi and japanese type dishes.
+[-0.38195228576660156] Basically I agree with all the positive statements submitted by others.
+[-0.35943031311035156] It was that comfortable and amazing.
+[-0.3366680145263672] This is a fantastic place to stay.
+
+**********
+
+[0.8753204345703125] The unhappy reviewers are blaming the hotel for their own lack of knowledge.
+Parent: Reading some reviews after staying for a week in late September prompted me to add my review ; I think some of the unhappy reviewers need to do their research better before booking a hotel so as not to blame the hotel for their own lack of knowledge .
+
+----- Supporting -----
+
+[0.8753204345703125] Reading some reviews after staying for a week in late September prompted me to add my review; I think some of the unhappy reviewers need to do their research better before booking a hotel so as not to blame the hotel for their own lack of knowledge.
+[0.037872314453125] My gripe was that housekeeping must have noticed this when they changed the sheets, but made no attempt at cleaning the mattress and simply covered it back up.
+[0.012786865234375] So now we are out a GPS and will NEVER stay at the Paramount again.
+[0.0] :)
+[0.0] Not cool!
+
+----- Weakening -----
+
+[-0.9913761615753174] We found the Paramount and were so thrilled.
+[-0.9899353981018066] We were impressed with the lobby and had high hopes for the room.
+[-0.9834775924682617] We have stayed here a couple of times and have enjoyed it.
+[-0.9824080467224121] What a wonderful surprise.
+[-0.9800982475280762] We were very impressed with what we got for the price we paid.
+
+**********
+
+[0.9916524887084961] We wanted to get away for a few days.
+Parent: Our aim was to get away for a few days , do some shopping and have a few good meals .
+
+----- Supporting -----
+
+[0.9916524887084961] Our aim was to get away for a few days, do some shopping and have a few good meals.
+[0.07095527648925781] So when family members were visiting us last month, we thought we'd spend a weekend with them at the Paramount in Seattle.
+[0.0536346435546875] For my first visit to Seattle I wanted to explore the downtown a bit and so I booked a couple of nights at the Paramount, based in part on reviews here.
+[0.023721694946289062] I couldn't get the Grand Hyatt across the street to guarantee a room with two beds for the weekend I wanted earlier this month, so I picked the Paramount instead.
+[0.012735366821289062] It is perfect for a couples get-away or a business trip.
+
+----- Weakening -----
+
+[-0.9442310333251953] We would definitely stay here again.
+[-0.8881711959838867] Would stay there again.
+[-0.7291669845581055] Will definitely stay again!
+[-0.6660566329956055] I would stay there again.
+[-0.6660566329956055] I would stay there again.
+
+**********
+
+[0.9849510192871094] We wanted to go shopping.
+Parent: Our aim was to get away for a few days , do some shopping and have a few good meals .
+
+----- Supporting -----
+
+[0.9849510192871094] Our aim was to get away for a few days, do some shopping and have a few good meals.
+[0.19698333740234375] Overall a good hotel very convenient for shopping.
+[0.132232666015625] Across the street from the Paramount Theater, and down the street from Pacific Place and Westlake Mall, this hotel offers a great location for tourists wanting to stay in town to be close to all that's going on, as well as for residents that are looking for a weekend of culture or shopping in the city.
+[0.10447883605957031] The Paramount is in a great location for sightseeing and shopping.
+[0.09974288940429688] The hotel was in a great location within walking distance to all the major shopping and Pike's Place Market.
+
+----- Weakening -----
+
+[-0.991295576095581] We stayed at the Paramount this month to attend a play.
+[-0.9873781204223633] I called down to the front desk to find out what time housekeeping would be coming by as I wanted to have a nap before I went to the game.
+[-0.9828481674194336] It was fun to watch all the concert goers before and after the concert - and not to have to worry about parking or showing up early.
+[-0.9812164306640625] I was here to attend a Mariners game and meet up with a friend, and the room was comfortable for pre- and post-game socializing.
+[-0.9651594161987305] At the last minute, we booked a conference room for a couple days.
+
+**********
+
+[0.9864606857299805] We wanted to have a few good meals.
+Parent: Our aim was to get away for a few days , do some shopping and have a few good meals .
+
+----- Supporting -----
+
+[0.9864606857299805] Our aim was to get away for a few days, do some shopping and have a few good meals.
+[0.054943084716796875] The room service order-taker and delivery person were both very nice and professional, but it would be wonderful to have a wider range of menu options to select from.
+[0.02144622802734375] Small portions to share, beyond cheap happy hour prices (we didn't pay over $5 for anything we ordered.)
+[0.014782905578613281] Don't know the concierges name, it would be the older man in the morning but he had great recommendations for restaurants, each one excellent and was so knowledgeable about the city and when was the best times to go to events.
+[0.013973236083984375] Try eating during the evening happy hour (10pm-1am) and get several appetizers at a low price.
+
+----- Weakening -----
+
+[-0.9157752990722656] I called down to the front desk to find out what time housekeeping would be coming by as I wanted to have a nap before I went to the game.
+[-0.8357152938842773] We almost scratched plans for sightseeing just to take part in the happy hour but decided on just having a drink (spicy wasabi Bloody Mary!)
+[-0.6937761306762695] We stayed at the Paramount this month to attend a play.
+[-0.5744972229003906] Since we had just arrived in Seattle, we wanted to see some of the city.
+[-0.5341644287109375] It was fun to watch all the concert goers before and after the concert - and not to have to worry about parking or showing up early.

@@ -1,0 +1,50 @@
+***** cleanliness : Sentiments for original sentences *****
+check : + 1     - 1
+laundry : + 0     - 2
+bath towels : + 0     - 1
+white towels : + 1     - 0
+selection : + 1     - 0
+toiletries : + 1     - 0
+carpet : + 0     - 2
+Wi - Fi service : + 0     - 1
+place : + 0     - 1
+housekeeping lady : + 1     - 0
+maid lady : + 1     - 0
+fitness : + 1     - 0
+location : + 1     - 0
+maid : + 1     - 0
+towels : + 1     - 0
+process : + 1     - 0
+attendant : + 1     - 0
+check in : + 1     - 0
+room : + 2     - 0
+view : + 1     - 0
+external wifi card : + 0     - 1
+hotel : + 1     - 0
+check - in : + 1     - 0
+bedbug : + 0     - 1
+housekeeper : + 1     - 0
+concierge : + 0     - 1
+cleanliness : + 0     - 1
+bathroom : + 0     - 1
+wifi : + 0     - 1
+A / C : + 0     - 1
+housekeeping : + 1     - 0
+carpark : + 0     - 1
+wallpaper : + 0     - 1
+lobby : + 1     - 0
+elevator : + 1     - 0
+beds : + 1     - 0
+Check - in : + 1     - 0
+***** cleanliness : Sentiments for raw summaries *****
+cleanliness : + 0     - 1
+room : + 0     - 1
+towels : + 1     - 1
+carpet : + 0     - 1
+wallpaper : + 0     - 1
+lobby : + 1     - 0
+elevator : + 1     - 0
+maid : + 1     - 0
+housekeeping staff : + 1     - 0
+rooms : + 1     - 0
+***** cleanliness : Sentiments for final summary *****

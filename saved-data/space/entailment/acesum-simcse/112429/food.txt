@@ -1,0 +1,42 @@
+***** Aspect: food Model Type : simcse *****
+Overall score: 0.7479921877384186
+
+**********
+
+[0.6892848610877991] the dragonfish restaurant is a chinese restaurant that is in the hotel.
+
+----- Supporting -----
+
+[0.6892848610877991] The only food available is from a Chinese restaurant that is in the hotel.
+[0.6738886833190918] The hotel has gone through some renovations which make it look nice, Dragonfish changed their menu a bit but their food is still good.
+[0.5484367609024048] The Dragonfish has great food, and they have a LATE happy hour for the food and select drinks that can't be beat!
+[0.4353729486465454] Overall, great experience at a way better price than other downtown hotels.
+[0.390607625246048] A decent price for a room in downtown Seattle in the summer.
+
+----- Weakening -----
+
+[-0.06487802416086197] He quickly retuned with coffee but not my requested milk.
+[-0.034826457500457764] Coffee in the morning.
+[-0.03349946439266205] I far rather prefer the individual bottles.
+[0.014725718647241592] The Public Market is only blocks away and a great place to start the day.
+[0.04193556308746338] We told him we hadn't eaten yet.
+
+**********
+
+[0.8066995143890381] the restaurant is very nice and the food is good.
+
+----- Supporting -----
+
+[0.8066995143890381] Food and service were very good.
+[0.6950681209564209] The food was awesome and the prices are pretty good.
+[0.6322005987167358] The hotel has gone through some renovations which make it look nice, Dragonfish changed their menu a bit but their food is still good.
+[0.5411984920501709] The sushi was good and the drink selection interesting and yummy .
+[0.5287027955055237] The Dragonfish has great food, and they have a LATE happy hour for the food and select drinks that can't be beat!
+
+----- Weakening -----
+
+[-0.07628223299980164] He quickly retuned with coffee but not my requested milk.
+[0.02759428322315216] I far rather prefer the individual bottles.
+[0.03741322457790375] It'll cost you $3.50, they don't bring sugar or cream, and you can get the same bag of tea in the little coffee maker kit in the bathroom for free.
+[0.05466897040605545] I was attending a conference at the hotel next door and my peers shared with me that they were paying more per night than I was.
+[0.10680916160345078] Coffee in the morning.

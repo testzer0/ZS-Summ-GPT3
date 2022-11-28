@@ -1,0 +1,485 @@
+***** Aspect: food Model Type : zs *****
+Overall score: 0.7097249238387399
+
+**********
+
+[0.9597806930541992] The food was good.
+Parent: The reviewers said that the food was good.
+
+----- Supporting -----
+
+[0.9597806930541992] The room service was wonderful - the food was great, and the service was, again, exceptional.
+[0.9510421752929688] The food was amazing!
+[0.9467353820800781] I did have breakfast at the restaurant and the food was great.
+[0.9335203170776367] Great food.
+[0.9302520751953125] We ate at the restaurant before we were going to go out and the food was amazing and the service was second to none.
+
+----- Weakening -----
+
+[-0.7875785827636719] Since the squid and quail eggs on their menu did not sound good, one of our group walked across the street to order some Food and bring it over.
+[-0.6841278076171875] We both loved the shower.
+[-0.5252532958984375] Want a wine glass?
+[-0.41654205322265625] It needs to be removed ASAP.
+[-0.3614654541015625] I was so livid with how it was being handled that I was ready to completely lose it.
+
+**********
+
+[0.9597806930541992] The food was good.
+Parent: They liked the variety of food and the quality of the food.
+
+----- Supporting -----
+
+[0.9597806930541992] The room service was wonderful - the food was great, and the service was, again, exceptional.
+[0.9510421752929688] The food was amazing!
+[0.9467353820800781] I did have breakfast at the restaurant and the food was great.
+[0.9335203170776367] Great food.
+[0.9302520751953125] We ate at the restaurant before we were going to go out and the food was amazing and the service was second to none.
+
+----- Weakening -----
+
+[-0.7875785827636719] Since the squid and quail eggs on their menu did not sound good, one of our group walked across the street to order some Food and bring it over.
+[-0.6841278076171875] We both loved the shower.
+[-0.5252532958984375] Want a wine glass?
+[-0.41654205322265625] It needs to be removed ASAP.
+[-0.3614654541015625] I was so livid with how it was being handled that I was ready to completely lose it.
+
+**********
+
+[0.922856330871582] The food was of good quality.
+Parent: They liked the variety of food and the quality of the food.
+
+----- Supporting -----
+
+[0.922856330871582] I had dinner at the restaurant that night and it was amazing from the service, ambiance and quality of the food.
+[0.8296880722045898] We ate at the restaurant before we were going to go out and the food was amazing and the service was second to none.
+[0.8188276290893555] The room service was wonderful - the food was great, and the service was, again, exceptional.
+[0.7220592498779297] The service was amazing and the food was amazing.
+[0.6913700103759766] The pool is amazing and the restaurant cuisine is outstanding.
+
+----- Weakening -----
+
+[-0.6349086761474609] Since the squid and quail eggs on their menu did not sound good, one of our group walked across the street to order some Food and bring it over.
+[-0.6101036071777344] to get ONE sandwhich I had to call and ck on it and there are slow and the service is so bad and the managers know which makes it WORSE...
+[-0.5472640991210938] I was so amazed at the rust on the equipment.
+[-0.511810302734375] It really ruined the experience for me.
+[-0.5107498168945312] It needs to be removed ASAP.
+
+**********
+
+[0.394287109375] The food at the hotel was not good.
+Parent: The food at the hotel was not good, but the food at the restaurant was great.
+
+----- Supporting -----
+
+[0.394287109375] The food was amzing, the room service food is from the restaurant downstairs!!
+[0.338104248046875] However, Shawn at the bar, Scott the restaurant's executive chef, and Todd at the hotel bar have MORE than made up for the rough start.
+[0.295867919921875] This extends to the restaurants as well Bad: â€¢ No parking within the hotel itself so if you do not wish to pay for valet parking you have to drive around to a nearby parking building â€¢ No upgrades for SPG Platinum members â€“ although since I was travelling for business, I didnâ€™t particularly care.
+[0.24715423583984375] Since the squid and quail eggs on their menu did not sound good, one of our group walked across the street to order some Food and bring it over.
+[0.200103759765625] Charlie Palmer cooks the room service menu but it is different menu than restaurant and didn't look as good (no foie gras).
+
+----- Weakening -----
+
+[-0.994359016418457] We had dinner and breakfast at the hotel restaurant Charlie Palmers and it was excellent.
+[-0.9934730529785156] The pool is amazing and the restaurant cuisine is outstanding.
+[-0.9933815002441406] the hotel has an excellent in house restaurant with plenty on the menu and delectable choices.
+[-0.993253231048584] Dinner at Charlie Palmer's was simply superb!
+[-0.9928808212280273] The room service was wonderful - the food was great, and the service was, again, exceptional.
+
+**********
+
+[0.9789233207702637] The food at the restaurant was great.
+Parent: The food at the hotel was not good, but the food at the restaurant was great.
+
+----- Supporting -----
+
+[0.9789233207702637] We also ate great food in the restaurant.
+[0.9760618209838867] We ate at the restaurant before we were going to go out and the food was amazing and the service was second to none.
+[0.9746036529541016] I did have breakfast at the restaurant and the food was great.
+[0.9702558517456055] The pool is amazing and the restaurant cuisine is outstanding.
+[0.9432563781738281] I stopped into Charlie Palmer for dinner, had a fantastic time there, Tommy the bartender took great care of me and the food was out of this world.
+
+----- Weakening -----
+
+[-0.9734792709350586] Since the squid and quail eggs on their menu did not sound good, one of our group walked across the street to order some Food and bring it over.
+[-0.7758579254150391] Furthermore, room service was closed at 10 pm, front desk was unhelpful (in ordering a pizza nonetheless) and Charlie Palmer was a waste of time and energy (great staff, HORRIBLE management.)
+[-0.7649078369140625] At first, I did not want to eat at the restaurant.
+[-0.6754188537597656] We both loved the shower.
+[-0.6473331451416016] to get ONE sandwhich I had to call and ck on it and there are slow and the service is so bad and the managers know which makes it WORSE...
+
+**********
+
+[0.431304931640625] The food was not impressive.
+Parent: The food was not impressive, with some reviewers finding it bland and others finding it too salty.
+
+----- Supporting -----
+
+[0.431304931640625] Since the squid and quail eggs on their menu did not sound good, one of our group walked across the street to order some Food and bring it over.
+[0.4253997802734375] Charlie Palmer cooks the room service menu but it is different menu than restaurant and didn't look as good (no foie gras).
+[0.31951904296875] However, Shawn at the bar, Scott the restaurant's executive chef, and Todd at the hotel bar have MORE than made up for the rough start.
+[0.13677978515625] The Joule is not luxurious in comparison and not sure why Starwood has it branded as such.
+[0.1270904541015625] Furthermore, room service was closed at 10 pm, front desk was unhelpful (in ordering a pizza nonetheless) and Charlie Palmer was a waste of time and energy (great staff, HORRIBLE management.)
+
+----- Weakening -----
+
+[-0.9947671890258789] We also ate great food in the restaurant.
+[-0.9947175979614258] The service was amazing and the food was amazing.
+[-0.9946107864379883] The pool is amazing and the restaurant cuisine is outstanding.
+[-0.9938631057739258] The food and service is amazing!
+[-0.9938373565673828] The food was amazing!
+
+**********
+
+[0.006099700927734375] The food was bland.
+Parent: The food was not impressive, with some reviewers finding it bland and others finding it too salty.
+
+----- Supporting -----
+
+[0.006099700927734375] At first, I did not want to eat at the restaurant.
+[0.0027313232421875] All in all, this hotel was nothing special with a high price tag.
+[0.001949310302734375] I would never recommend this hotel or their club PM Lounge.
+[0.0006237030029296875] Maybe I just had a bad experience but I was throughly disappointed in this hotel.
+[6.866455078125e-05] (Apparently we weren't the only guests to have their evening botched by this hotel).
+
+----- Weakening -----
+
+[-0.9980535507202148] the hotel has an excellent in house restaurant with plenty on the menu and delectable choices.
+[-0.9975214004516602] The pool is amazing and the restaurant cuisine is outstanding.
+[-0.9969906806945801] We also ate great food in the restaurant.
+[-0.996854305267334] You must try their signature desserts, the peanut butter bar...YUM!
+[-0.9968457221984863] The service was amazing and the food was amazing.
+
+**********
+
+[0.0] The food was too salty.
+Parent: The food was not impressive, with some reviewers finding it bland and others finding it too salty.
+
+----- Supporting -----
+
+[0.0] The pool!
+[0.0] jackpot.
+[0.0] !
+[0.0] !
+[0.0] Thank you.
+
+----- Weakening -----
+
+[-0.984771728515625] The Joule was a refreshing experience and definitely a cut above the rest.
+[-0.9798650741577148] Service was wonderful and the grilled cheese is to die for in room service.
+[-0.9796562194824219] Loved it all, the bread options, the mushroom plate - yummy!
+[-0.9725418090820312] Everything was clean and well maintained.
+[-0.971064567565918] Every detail was managed perfectly.
+
+**********
+
+[0.9766263961791992] The food was amazing.
+Parent: The food at the hotel was amazing, with great service to match.
+
+----- Supporting -----
+
+[0.9766263961791992] The food was amazing!
+[0.9694061279296875] The service was amazing and the food was amazing.
+[0.9522662162780762] We ate at the restaurant before we were going to go out and the food was amazing and the service was second to none.
+[0.9507322311401367] The room service was wonderful - the food was great, and the service was, again, exceptional.
+[0.9503669738769531] The food and service is amazing!
+
+----- Weakening -----
+
+[-0.965245246887207] Furthermore, room service was closed at 10 pm, front desk was unhelpful (in ordering a pizza nonetheless) and Charlie Palmer was a waste of time and energy (great staff, HORRIBLE management.)
+[-0.9538946151733398] Since the squid and quail eggs on their menu did not sound good, one of our group walked across the street to order some Food and bring it over.
+[-0.9441432952880859] Charlie Palmer cooks the room service menu but it is different menu than restaurant and didn't look as good (no foie gras).
+[-0.9321584701538086] Cons: Service is terrible!!
+[-0.9201250076293945] Nikki went out of her way to accomadate getting us some food Unfortunately she did not have enough pull to get what we needed.
+
+**********
+
+[0.9883847236633301] The service at the hotel was great.
+Parent: The food at the hotel was amazing, with great service to match.
+
+----- Supporting -----
+
+[0.9883847236633301] hotel service was wonderful.
+[0.9743852615356445] The service at the Joule is great--everyone is also willing to help out and is very welcoming.
+[0.9617786407470703] The decor, overall atmosphere, and excellent service in this hotel exceeds expectation.
+[0.9587116241455078] Not only was the hotel incredible with an amazing room, but the service and amenities are top notch.
+[0.9581565856933594] From the minute I pulled into the hotel, it was nothing but first class service and a professional knowledgable staff.
+
+----- Weakening -----
+
+[-0.9976334571838379] ok Saturday we ate at Charlie Palmers resturant in hotel food was good but service was so bad I could get better service at MC Donalds than this supper bad.
+[-0.9970216751098633] Maybe I'm just spoiled, but I travel frequently and I have never recieved such poor service from an "upscale" hotel.
+[-0.9968175888061523] The pool was nice as was the fitness center but with tiny cramped rooms, lack of customer service (I tried calling the desk 3 times and never go through) and the loading dock at the front of the building, I wouldn't recommend it.
+[-0.9939336776733398] It was insulting that the doorman/management were so disrespectful and unwilling to take care of their guest.
+[-0.9911623001098633] Once I was at the desk, I still was not offered any help with getting all my luggage to my room.
+
+**********
+
+[0.9631805419921875] Charlie Palmers was excellent.
+Parent: Charlie Palmers was especially praised for its excellence.
+
+----- Supporting -----
+
+[0.9631805419921875] Dinner at Charlie Palmer's was simply superb!
+[0.9597072601318359] We had dinner and breakfast at the hotel restaurant Charlie Palmers and it was excellent.
+[0.9417495727539062] Dinner at Charlie Palmer's was terrific and it finished with an anniversary card of sorts with a message spelled in chocolate at the top of our unbelievably rich Peanut Butter Bar - which btw, was practically a religious experience!
+[0.9376964569091797] Charlie Palmers is connected to the hotel and it is excellent.
+[0.9208192825317383] I loved Charlie Palmer's.
+
+----- Weakening -----
+
+[-0.9967041015625] Furthermore, room service was closed at 10 pm, front desk was unhelpful (in ordering a pizza nonetheless) and Charlie Palmer was a waste of time and energy (great staff, HORRIBLE management.)
+[-0.9961459636688232] Maybe I just had a bad experience but I was throughly disappointed in this hotel.
+[-0.9912052154541016] The pool was nice as was the fitness center but with tiny cramped rooms, lack of customer service (I tried calling the desk 3 times and never go through) and the loading dock at the front of the building, I wouldn't recommend it.
+[-0.9911355972290039] Trip to this hotel started off VERY poorly with a bungled reservation.
+[-0.9905071258544922] We were disappointed about the hours of the Charlie Palmer and the bar downstairs but found an outstanding place to get a drink directly across the street.
+
+**********
+
+[0.9809818267822266] The wine and chocolate pairing on Saturday afternoon was private.
+Parent: There was a private wine and chocolate pairing on Saturday afternoon that was greatly enjoyed.
+
+----- Supporting -----
+
+[0.9809818267822266] He coordinated with NOKA Chocolates for a private wine and chocolate pairing on Saturday afternoon.
+[0.0030078887939453125] hotel service was wonderful.
+[0.00223541259765625] They had a bottle of champagne,yummy chocolates and a cheese platter in the room.
+[0.001697540283203125] Truly a luxury week-end.
+[0.001415252685546875] We really enjoyed it.
+
+----- Weakening -----
+
+[-0.953648567199707] We both loved the shower.
+[-0.9447345733642578] We got the red carpet treatment.
+[-0.9268417358398438] Get the BURGER!
+[-0.9205818176269531] Spend your $$$ at the W!!!
+[-0.9033412933349609] They have a special lunch that includes a soup, salad and half sandwich that's quick and inexpensive.
+
+**********
+
+[0.6891250610351562] The private wine and chocolate pairing was enjoyed.
+Parent: There was a private wine and chocolate pairing on Saturday afternoon that was greatly enjoyed.
+
+----- Supporting -----
+
+[0.6891250610351562] They had free bottle of wine and chocolates in our room for our anniversary which was nice but I had to ask 3 times for ice bucket (it is small hotel so there are no ice machines on the floors).
+[0.2867431640625] The Bellman/Valet Team are incredible and make you feel right at home each time!
+[0.16199493408203125] the romance package is worth the upgrade because it includes champagne, valet parking, chocolates and breakfast, and they even cover the bed with rose petals if/when you leave the room after check-in.
+[0.12706756591796875] I loved Charlie Palmer's.
+[0.10106849670410156] They had a bottle of champagne,yummy chocolates and a cheese platter in the room.
+
+----- Weakening -----
+
+[-0.9759654998779297] I only ordered a pot of coffee for 7am.
+[-0.9610691070556641] We both loved the shower.
+[-0.9530372619628906] Get the BURGER!
+[-0.9384136199951172] It really ruined the experience for me.
+[-0.9381475448608398] A Swedish massage and organic egg breakfast were included and were most memorable.
+
+**********
+
+[0.6525421142578125] Nikki got food for guests.
+Parent: Nikki went out of her way to get food for guests, though she was not entirely successful.
+
+----- Supporting -----
+
+[0.6525421142578125] She was amazing, she ensured that we were at ease with the accommodations...she even sent up complimentary milk and cookies for our four year old daughter.
+[0.5523681640625] Admittedly the open bathroom concept may not suit a lot of people so be aware â€¢ Food â€“ Charlie Palmer is a very very good restaurant.
+[0.4779052734375] Nikki went out of her way to accomadate getting us some food Unfortunately she did not have enough pull to get what we needed.
+[0.4339599609375] Charlie Palmer (the Joule's in house restaurant) is whole other raving review waiting to happen.
+[0.42352294921875] the romance package is worth the upgrade because it includes champagne, valet parking, chocolates and breakfast, and they even cover the bed with rose petals if/when you leave the room after check-in.
+
+----- Weakening -----
+
+[-0.9003257751464844] It needs to be removed ASAP.
+[-0.8936100006103516] Save yourself the trouble and stay elsewhere.
+[-0.8589420318603516] Cons: Service is terrible!!
+[-0.8565902709960938] I was appalled that we were treated that way.
+[-0.8558273315429688] They apologized profusely and comped us all our drinks.
+
+**********
+
+[0.7833251953125] Nikki was unsuccessful.
+Parent: Nikki went out of her way to get food for guests, though she was not entirely successful.
+
+----- Supporting -----
+
+[0.7833251953125] Nikki went out of her way to accomadate getting us some food Unfortunately she did not have enough pull to get what we needed.
+[0.22991943359375] The guest who remained were forced to go across the street to a dive bar where the b-day girl began to cry uncontrollably over her ruined special evening.
+[0.226409912109375] Trip to this hotel started off VERY poorly with a bungled reservation.
+[0.202789306640625] All in all, this hotel was nothing special with a high price tag.
+[0.202301025390625] The pool was nice as was the fitness center but with tiny cramped rooms, lack of customer service (I tried calling the desk 3 times and never go through) and the loading dock at the front of the building, I wouldn't recommend it.
+
+----- Weakening -----
+
+[-0.9941716194152832] She was amazing, she ensured that we were at ease with the accommodations...she even sent up complimentary milk and cookies for our four year old daughter.
+[-0.9910001754760742] The Joule was a refreshing experience and definitely a cut above the rest.
+[-0.989995002746582] I thought the Joule was an awesome hotel.
+[-0.9898242950439453] I came to The Joule with a friend for my 21st birthday and had an incredible stay.
+[-0.9885740280151367] Special sincere thanks to Myron, Andrew, Maverick, Clint, Nikki, Mark, and the entire Joule staff for helping make our weekend at the Joule literally perfect.
+
+**********
+
+[0.9875965118408203] The New York strip was tender.
+Parent: The New York strip was tender and the spinach side was complimented as being a perfect side dish.
+
+----- Supporting -----
+
+[0.9875965118408203] New York strip was tender and the spinach side was a pefect complimant to the steak for me.
+[0.179534912109375] From the bell staff, to the bar staff, everyone was friendly, welcoming and eager to help all the time.
+[0.10626220703125] From moment we checked in to the a hand written card wishing us a happy anniversary to a great dinner at Charley Palmers it was a perfect experience.
+[0.09759521484375] The front desk staff was very nice and smiled.
+[0.086639404296875] Each members flawless execution in hospitality was truly extraordinary and we look forward to coming back soon.
+
+----- Weakening -----
+
+[-0.9474678039550781] I was so livid with how it was being handled that I was ready to completely lose it.
+[-0.9313163757324219] Her tone was condescending which I was off set by, not something I was expecting or enjoyed all that much.
+[-0.8799095153808594] Maybe I just had a bad experience but I was throughly disappointed in this hotel.
+[-0.8762016296386719] It really ruined the experience for me.
+[-0.876007080078125] When we got to our room it was very modern and high tech with all of the light switches and lamp knobs.
+
+**********
+
+[0.559906005859375] The spinach side was good.
+Parent: The New York strip was tender and the spinach side was complimented as being a perfect side dish.
+
+----- Supporting -----
+
+[0.559906005859375] New York strip was tender and the spinach side was a pefect complimant to the steak for me.
+[0.07745361328125] I suggest you take a look at the managment position as the pool ran out of Chardoney on Saturday night before 10pm and no one offered to go get us some more.
+[0.07061767578125] I loved Charlie Palmer's.
+[0.03717041015625] It was essentially a "funky" modern look that suited us great.
+[0.0194091796875] The pool with the inifinty edge over Main St was an added attraction, great place to hang out and people watch!
+
+----- Weakening -----
+
+[-0.8654098510742188] Want a wine glass?
+[-0.7599945068359375] We both loved the shower.
+[-0.712005615234375] You must try their signature desserts, the peanut butter bar...YUM!
+[-0.7075042724609375] He coordinated with NOKA Chocolates for a private wine and chocolate pairing on Saturday afternoon.
+[-0.6864471435546875] Let's not forget the pool, great relaxing spot.
+
+**********
+
+[0.105712890625] The spinach side was perfect.
+Parent: The New York strip was tender and the spinach side was complimented as being a perfect side dish.
+
+----- Supporting -----
+
+[0.105712890625] The roof top pool was like a spa and even though it was 102 degrees, it felt very comfortable because of the fans and the misting system.
+[0.10003662109375] The pool with the inifinty edge over Main St was an added attraction, great place to hang out and people watch!
+[0.04473876953125] The furniture was nice, the bed was extremely comfortable, and I loved the lighting system.
+[0.003803253173828125] Great idea.
+[0.00347137451171875] I will definitely stay there again.
+
+----- Weakening -----
+
+[-0.8936843872070312] I was so amazed at the rust on the equipment.
+[-0.8886318206787109] It needs to be removed ASAP.
+[-0.8856105804443359] to get ONE sandwhich I had to call and ck on it and there are slow and the service is so bad and the managers know which makes it WORSE...
+[-0.8853607177734375] I was so livid with how it was being handled that I was ready to completely lose it.
+[-0.8691368103027344] The minor negatives are half hearted negatives.
+
+**********
+
+[0.9561595916748047] The food at the hotel was good.
+Parent: The reviewers seemed to really enjoy the food at the hotel, especially at the Charlie Palmer restaurant.
+
+----- Supporting -----
+
+[0.9561595916748047] ok Saturday we ate at Charlie Palmers resturant in hotel food was good but service was so bad I could get better service at MC Donalds than this supper bad.
+[0.913480281829834] We had dinner and breakfast at the hotel restaurant Charlie Palmers and it was excellent.
+[0.8794083595275879] the hotel has an excellent in house restaurant with plenty on the menu and delectable choices.
+[0.8120193481445312] While we will still never return to this hotel, the chef did make that evening a bit better.
+[0.6393585205078125] Admittedly the open bathroom concept may not suit a lot of people so be aware â€¢ Food â€“ Charlie Palmer is a very very good restaurant.
+
+----- Weakening -----
+
+[-0.8067474365234375] Since the squid and quail eggs on their menu did not sound good, one of our group walked across the street to order some Food and bring it over.
+[-0.4254875183105469] I would never recommend this hotel or their club PM Lounge.
+[-0.3587226867675781] Stayed there for one night so I did not get to use any of the hotel services nor dine there.
+[-0.32659149169921875] I was so livid with how it was being handled that I was ready to completely lose it.
+[-0.24757862091064453] Maybe I just had a bad experience but I was throughly disappointed in this hotel.
+
+**********
+
+[0.9635639190673828] The reviewers enjoyed the food at the Charlie Palmer restaurant.
+Parent: The reviewers seemed to really enjoy the food at the hotel, especially at the Charlie Palmer restaurant.
+
+----- Supporting -----
+
+[0.9635639190673828] We enjoyed the Charlie Palmer for dinner and drinks nightly, and were treated like VIP's everywhere we went.
+[0.9170150756835938] I stopped into Charlie Palmer for dinner, had a fantastic time there, Tommy the bartender took great care of me and the food was out of this world.
+[0.9073219299316406] We had dinner and breakfast at the hotel restaurant Charlie Palmers and it was excellent.
+[0.847442626953125] Dinner at Charlie Palmer's was terrific and it finished with an anniversary card of sorts with a message spelled in chocolate at the top of our unbelievably rich Peanut Butter Bar - which btw, was practically a religious experience!
+[0.7921152114868164] From moment we checked in to the a hand written card wishing us a happy anniversary to a great dinner at Charley Palmers it was a perfect experience.
+
+----- Weakening -----
+
+[-0.97027587890625] We had dinner at Nobu which is in Crescent Court which was really good too.
+[-0.9437084197998047] Furthermore, room service was closed at 10 pm, front desk was unhelpful (in ordering a pizza nonetheless) and Charlie Palmer was a waste of time and energy (great staff, HORRIBLE management.)
+[-0.9398813247680664] We both loved the shower.
+[-0.8816661834716797] It really ruined the experience for me.
+[-0.8425788879394531] I had two problems with this place, first when I arrived home the day of our last stay I reviewed the invoice which had been emailed to me and was charged $202.00 for a dinner at Charlie Palmers, but we never dined at Charlie Palmers.
+
+**********
+
+[0.7729263305664062] The burger is recommended.
+Parent: They especially recommend the burger and the salmon.
+
+----- Supporting -----
+
+[0.7729263305664062] Get the BURGER!
+[0.02703857421875] I loved Charlie Palmer's.
+[0.005496978759765625] Great food.
+[0.0040798187255859375] I'll certainly be back.
+[0.003448486328125] You won't be sorry.
+
+----- Weakening -----
+
+[-0.9770298004150391] Want a wine glass?
+[-0.9624710083007812] You must try their signature desserts, the peanut butter bar...YUM!
+[-0.9445285797119141] It needs to be removed ASAP.
+[-0.9323844909667969] We both loved the shower.
+[-0.9168815612792969] It was my birthday weekend and they sent champagne to the room - what a wonderful touch!
+
+**********
+
+[0.33060455322265625] The salmon is recommended.
+Parent: They especially recommend the burger and the salmon.
+
+----- Supporting -----
+
+[0.33060455322265625] The salmon here is especially good â€¢ Service â€“ Very good and the staff are very friendly.
+[0.0004138946533203125] We really enjoyed it.
+[0.00032806396484375] I'll certainly be back.
+[0.0] The pool!
+[0.0] jackpot.
+
+----- Weakening -----
+
+[-0.966853141784668] Want a wine glass?
+[-0.9599409103393555] You must try their signature desserts, the peanut butter bar...YUM!
+[-0.9496612548828125] Would I recommend the Joule to others?
+[-0.9448661804199219] Get the BURGER!
+[-0.934326171875] I would defintely recommend The Joule for group stays!
+
+**********
+
+[0.9600048065185547] The room service food is good.
+Parent: They also noted that the room service food is from the Charlie Palmer restaurant, so it is of similarly high quality.
+
+----- Supporting -----
+
+[0.9600048065185547] The room service was wonderful - the food was great, and the service was, again, exceptional.
+[0.8149433135986328] the hotel has an excellent in house restaurant with plenty on the menu and delectable choices.
+[0.7839431762695312] We especially found the room service to be timely and tasty (yes, we even had breakfast by the pool one day!).
+[0.7496681213378906] Service was wonderful and the grilled cheese is to die for in room service.
+[0.7144622802734375] Our tweens loved the salt water heated infinity pool, the Charlie Palmer bar, awesome room service and gorgeous room......we live in Carrollton, but felt we had traveled to another luxurious country!
+
+----- Weakening -----
+
+[-0.9089393615722656] Cons: Service is terrible!!
+[-0.7724876403808594] to get ONE sandwhich I had to call and ck on it and there are slow and the service is so bad and the managers know which makes it WORSE...
+[-0.5838851928710938] It needs to be removed ASAP.
+[-0.48883056640625] I was so livid with how it was being handled that I was ready to completely lose it.
+[-0.4215850830078125] We both loved the shower.

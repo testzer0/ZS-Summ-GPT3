@@ -1,0 +1,212 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.8086643695831299
+
+**********
+
+[0.8998641967773438] The hotel was not clean.
+Parent: The reviews were mixed on the cleanliness of the hotel, with some guests finding the room clean and others noting that housekeeping did a poor job.
+
+----- Supporting -----
+
+[0.8998641967773438] My opinion is that this motel was extremely unorganized during this time.
+[0.8026199340820312] Third, the entire hotel is a little run down.
+[0.8001480102539062] The only negative would be that they didn't come to make our beds or clean the room, but that didn't ruin our stay at the Hilton.
+[0.7388572692871094] The hotel is old and needs some updating in several areas.
+[0.733489990234375] I would call this a four star hotel that's slightly rough around the edges.
+
+----- Weakening -----
+
+[-0.9930438995361328] The hotel is very clean, the staff professional - and the food - simply amazing.
+[-0.9886989593505859] We found the hotel faultless, really clean, excellent service and really good value for money!
+[-0.9877605438232422] The hotel seemed renovated and it was clean and beautiful.
+[-0.9849815368652344] Hotel is clean and nicely decorated.
+[-0.9837226867675781] Nice, clean hotel with great view.
+
+**********
+
+[0.9881758689880371] The room was clean.
+Parent: The reviews were mixed on the cleanliness of the hotel, with some guests finding the room clean and others noting that housekeeping did a poor job.
+
+----- Supporting -----
+
+[0.9881758689880371] But the room was clean and bright.
+[0.9861807823181152] The room was really clean, the hotel facilities were very good and the views from the room were amazing, we could not fault the service and the breakfast, everything was presented well.
+[0.984959602355957] The room was large, clean and quiet.
+[0.9847745895385742] Room was clean, comfortable beds, with excellent view of the bay and downtown.
+[0.97918701171875] Room is very clean overall.
+
+----- Weakening -----
+
+[-0.9968051910400391] On the way to my room someone had dropped 3 beers on the floor and it was wet and sticky with the cans still there and a wet floor sign in the middle.
+[-0.9965076446533203] Tools and debris were lying on the balcony.
+[-0.9945363998413086] A huge group of teenagers were staying in the hotel, and kids were all over the place until late at night...flooding the lobby, elevators, and public space.
+[-0.9944667816162109] Upon inspecting our room, my wife found used empty shampoo bottles in the shower.
+[-0.9935646057128906] Pool was dirty.
+
+**********
+
+[0.8884391784667969] Housekeeping did a poor job.
+Parent: The reviews were mixed on the cleanliness of the hotel, with some guests finding the room clean and others noting that housekeeping did a poor job.
+
+----- Supporting -----
+
+[0.8884391784667969] They also did an extremely lousy job in cleaning the room.
+[0.6721649169921875] The breakfast was actually the highlight but the service at this hotel was disorganized and rude!
+[0.5554656982421875] I feel the housekeeping staff is totaly at fault, and needs better supervision.
+[0.511138916015625] The poor gentleman who arrived with our sheets had NO idea how to make a bed, he started putting the blanket on the mattress (before the sheets) when I told him he could leave.
+[0.503631591796875] Valet service is god awful.
+
+----- Weakening -----
+
+[-0.9973397254943848] Room service was great - they had great 24 hour food - try the conch chowder, the conch fritters, key lime pie - I could keep going, everything was delicious.
+[-0.9970121383666992] VERY clean and tidy The staff was great, courteous, and friendly.
+[-0.9970002174377441] The rooms are really nice and clean and the staff is amazing.
+[-0.9968914985656738] The room was nice & we sort of had a view of the ocean - the staff was excellent - from the front desk to the valet!
+[-0.9965691566467285] Overall, great place, great hotel, great staff.
+
+**********
+
+[0.0019073486328125] The construction noise was too loud in the morning.
+Parent: Some guests also noted that there was construction noise early in the morning.
+
+----- Supporting -----
+
+[0.0019073486328125] The airconditioning in the room was rather loud as well.
+[0.000232696533203125] Really abusive.
+[0.000213623046875] I would hope that there would be a cerfew and expectations of adult supervision in the future as I got little sleep as a result of the noise.
+[0.0] !
+[0.0] !
+
+----- Weakening -----
+
+[-0.8880805969238281] Cold water bottles in their mini fridge, fruit, complimentary breakfast in the morning!
+[-0.8787918090820312] Also, the food was far above the standard conference selection.
+[-0.8728504180908203] The banquet food was fabulous and themed menus were creative and well presented.
+[-0.8644499778747559] The room was large, clean and quiet.
+[-0.8485112190246582] All was fresh & clean, and the view of the bay was an added perk.
+
+**********
+
+[0.9877262115478516] The hotel was clean.
+Parent: Some reviewers found the hotel clean, while others found it to be sub-standard or in need of improvement.
+
+----- Supporting -----
+
+[0.9877262115478516] Hotel is clean and nicely decorated.
+[0.9826736450195312] The hotel is very clean, the staff professional - and the food - simply amazing.
+[0.9809002876281738] The hotel seemed renovated and it was clean and beautiful.
+[0.9806256294250488] We found the hotel faultless, really clean, excellent service and really good value for money!
+[0.9734320640563965] Nice, clean hotel with great view.
+
+----- Weakening -----
+
+[-0.9955644607543945] On the way to my room someone had dropped 3 beers on the floor and it was wet and sticky with the cans still there and a wet floor sign in the middle.
+[-0.9947257041931152] Tools and debris were lying on the balcony.
+[-0.9916238784790039] A huge group of teenagers were staying in the hotel, and kids were all over the place until late at night...flooding the lobby, elevators, and public space.
+[-0.9880828857421875] The elevator dinged all night long keeping up the entire family.
+[-0.9875011444091797] My opinion is that this motel was extremely unorganized during this time.
+
+**********
+
+[0.73223876953125] The hotel was sub-standard.
+Parent: Some reviewers found the hotel clean, while others found it to be sub-standard or in need of improvement.
+
+----- Supporting -----
+
+[0.73223876953125] Third, the entire hotel is a little run down.
+[0.63531494140625] The hotel needs to seriously upgrade its rooms to be in par with other establishments.
+[0.616119384765625] Not the best area at night TV cable kept going out Conference rooms are cold Charge for WiFi unless you have an existing account like AT&T Overall very disappointed for a Hilton...the hotel seemed more like a hotel going out of business.
+[0.447723388671875] The hotel sorely lacks business services...no FedEx supplies and no one that even understands enough about business needs to ask about supplies.
+[0.3770751953125] Being downtown the hotel is a bit lacking in local amenities.
+
+----- Weakening -----
+
+[-0.9962425231933594] This hotel was awesome.
+[-0.9956979751586914] This hotel was just great, exactly what you would expect from a Hilton.
+[-0.9952859878540039] This hotel was great.
+[-0.995265007019043] Fantastic hotel, keep it up!
+[-0.9950470924377441] I must say my most recent experience at this Hotel has really blown me away.
+
+**********
+
+[0.979182243347168] The hotel needs to be improved.
+Parent: Some reviewers found the hotel clean, while others found it to be sub-standard or in need of improvement.
+
+----- Supporting -----
+
+[0.979182243347168] The hotel needs to seriously upgrade its rooms to be in par with other establishments.
+[0.9720554351806641] The hotel is old and needs some updating in several areas.
+[0.904902458190918] Hotel could do with a refurbishment.
+[0.8294868469238281] The only downfall is that the hotel could have been in a better area.
+[0.2474040985107422] Our room could have been better, candy wrappers in the dresser drawers and a pair on men's underwear crumpled up by the picture window.
+
+----- Weakening -----
+
+[-0.8426084518432617] This hotel was just great, exactly what you would expect from a Hilton.
+[-0.8308477401733398] We found the hotel faultless, really clean, excellent service and really good value for money!
+[-0.8307952880859375] A design genius put this hotel together clearly.
+[-0.813507080078125] This hotel lived up to its name and expectations!
+[-0.8106365203857422] Absolutely nothing to complain about rooms (modern and with huge widescreen tv) and service: the express check out on the phone, in a busy day of meeting and conferences, saved me a lot of time.
+
+**********
+
+[0.9646339416503906] The room was not clean.
+Parent: Complaints were made about the lack of cleanliness in the room, specifically the floor, and about towels not being replenished.
+
+----- Supporting -----
+
+[0.9646339416503906] The room was a bit dusty and the coffee station did not have stir sticks.
+[0.9621334075927734] They also did an extremely lousy job in cleaning the room.
+[0.9484233856201172] Don't really need this on holiday especially when you have been out really early say on an excursion and you return late afternoon/early evening to find room not cleaned or replenished.
+[0.9446239471435547] One or two issues during our stay included :- Housekeeping - at least 2 days out of the 5 our room was not made up and we had to chase housekeeping.
+[0.9095649719238281] On the way to my room someone had dropped 3 beers on the floor and it was wet and sticky with the cans still there and a wet floor sign in the middle.
+
+----- Weakening -----
+
+[-0.9921684265136719] The room was really clean, the hotel facilities were very good and the views from the room were amazing, we could not fault the service and the breakfast, everything was presented well.
+[-0.9891796112060547] The rooms are really nice and clean and the staff is amazing.
+[-0.9888648986816406] Everything there were great from the nice clean and comfortable room with the unbelievable pretty view until the good food, the great bar and pool etc and last but not least the helpful friendly and sympathetic staff especially the ladjh in the little shop and the men called fernando at the front desk, he'd done a well work, gave good advices and was very cordially,smart, professional with a nice charisma and left behind a positive impression!
+[-0.9886760711669922] The hotel room is well-appointed, clean, and contains the new amenities at Hilton - Lavazza in-room coffee, thick towels, and comfortable bedding.
+[-0.9884376525878906] They provided me a room with a great view, and my room was very clean and equipped appropriately.
+
+**********
+
+[0.9538784027099609] The floor was not clean enough.
+Parent: Complaints were made about the lack of cleanliness in the room, specifically the floor, and about towels not being replenished.
+
+----- Supporting -----
+
+[0.9538784027099609] Room was very sub-standard for cleanliness...floor looked like it never gets vacuumed.
+[0.31374359130859375] On the way to my room someone had dropped 3 beers on the floor and it was wet and sticky with the cans still there and a wet floor sign in the middle.
+[0.2964019775390625] Our room could have been better, candy wrappers in the dresser drawers and a pair on men's underwear crumpled up by the picture window.
+[0.2959098815917969] Don't really need this on holiday especially when you have been out really early say on an excursion and you return late afternoon/early evening to find room not cleaned or replenished.
+[0.27399444580078125] cons: the first floor was for moter.
+
+----- Weakening -----
+
+[-0.9456548690795898] It was very clean.
+[-0.8948097229003906] The room was really clean, the hotel facilities were very good and the views from the room were amazing, we could not fault the service and the breakfast, everything was presented well.
+[-0.8800678253173828] They provided me a room with a great view, and my room was very clean and equipped appropriately.
+[-0.8781547546386719] The rooms are really nice and clean and the staff is amazing.
+[-0.8673839569091797] We found the hotel faultless, really clean, excellent service and really good value for money!
+
+**********
+
+[0.6905975341796875] There were not enough towels.
+Parent: Complaints were made about the lack of cleanliness in the room, specifically the floor, and about towels not being replenished.
+
+----- Supporting -----
+
+[0.6905975341796875] We needed extra pillows and towels - to our room in 10 minutes with a smile.
+[0.6302642822265625] With the absents of bath towels in our room, especially after haven already taking a shower, made the experience of drying off a difficult challenge.
+[0.519866943359375] called hotel reception 3 times and no towels were ever delivered.
+[0.3053131103515625] 4 persons stayed in room but only towels for 3 people.
+[0.3044586181640625] HOUSEKEEPING: Never understood that there were 4 people in the room (room can hold 5) and choose to only put towels for 3 each day we were day (4 days) despite many calls to the front desk.
+
+----- Weakening -----
+
+[-0.9775857925415039] What I got was beyond what I expected - I was stuffed to the brim.
+[-0.9228744506835938] The pool area was actually a nice surprise as it was spacious and well furnished with a very friendly full service pool bar and grill.
+[-0.9106006622314453] Got a great deal on the room through priceline.
+[-0.9086284637451172] Beds were very comfortble with excellent creature comforts, towels pillows and bedding and I felt that it was a very comfortable sleeping room.
+[-0.8882904052734375] I bit too much for the USA and the quality is mediocre at best.

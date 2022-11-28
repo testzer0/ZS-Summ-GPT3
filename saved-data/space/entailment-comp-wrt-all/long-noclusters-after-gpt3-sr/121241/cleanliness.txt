@@ -1,0 +1,65 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.976746400197347
+
+**********
+
+[0.9827399253845215] The hotel was clean.
+Parent: The reviewers said that the hotel was clean and that the beds were comfortable.
+
+----- Supporting -----
+
+[0.9827399253845215] The hotel in all is very clean and the standard rooms are very spacious.
+[0.9745702743530273] Everything was great---Front desk people were friendly and was always willing to help in anyway...Rooms were clean and fresh..Breakfast was good and good music to listen too....I would rate this hotel and one of the best Branson has to offer.
+[0.9512748718261719] The room was nice and clean and the hotel staff was wonderful.
+[0.9402055740356445] (I dont go on vacation to sit in the hotel and watch TV) The rooms were very clean.
+[0.9126930236816406] Stone Castle is very convenient to the main strip in Branson, but is also accessible to the relief routes that avoid traffic The rooms were very clean and the beds were super comfortable.
+
+----- Weakening -----
+
+[-0.9973516464233398] The room was filthy and disgusting!
+[-0.9959630966186523] However, when we went into the building....the musty odor was horrible, the lobby area was humid as if the air conditioning wasn't on, the elevator smelled musty.
+[-0.9957733154296875] The entire hotel smells old and musty.
+[-0.9957494735717773] Dog was barking in room across the hall all day and night, one of us stepped in dog feces in the parking lot and tracked it into the room :( A group of ill guests vomited just outside the entry door, massive amounts, when we called to ask that it be cleaned up due to health hazards front desk staff was rude!
+[-0.9951744079589844] Opening the door, our room was musty and it smelled horrible.
+
+**********
+
+[0.9931802749633789] The beds were comfortable.
+Parent: The reviewers said that the hotel was clean and that the beds were comfortable.
+
+----- Supporting -----
+
+[0.9931802749633789] The beds were very comfortable.
+[0.9931802749633789] The beds were very comfortable.
+[0.9877734184265137] The beds were comfortable and a good size.
+[0.9864301681518555] The beds were comfy and the sheets were soft, which is hard to find in some hotels.
+[0.9843881130218506] The beds were comfy and the a/c worked great.
+
+----- Weakening -----
+
+[-0.9929447174072266] The beds were very very nasty.
+[-0.9681968688964844] The bedding felt nasty and we found hair.
+[-0.9525070190429688] The blanket on the bed looked to be about 20 years old and pilling and I didn't feel comfortable using it.
+[-0.9206771850585938] The room was filthy and disgusting!
+[-0.900115966796875] Beds could be softer.
+
+**********
+
+[0.9543190002441406] The wash was not clean.
+Parent: They also said that the wash
+
+----- Supporting -----
+
+[0.9543190002441406] The hotel just did not seem clean at all.
+[0.9328384399414062] The first time the hot tub was a little dirty and the breakfast not so great.
+[0.9234209060668945] The pool area was in terrible shape.
+[0.9185714721679688] The bathroom is so small & dirty you couldn't stand to touch anything in it.
+[0.8732948303222656] The pools were very cloudy, could not see the bottom of the pool (which is not deep).
+
+----- Weakening -----
+
+[-0.9852142333984375] The pools were very clean and the breakfast was great.
+[-0.97991943359375] The room was very clean and decorated very nicely.
+[-0.9757194519042969] Swimming area was clean and fun and everything you want to see is near this hotel.
+[-0.968994140625] The pool area was clean and comfortable with a nice hot tub as well.
+[-0.967987060546875] The hotel in all is very clean and the standard rooms are very spacious.

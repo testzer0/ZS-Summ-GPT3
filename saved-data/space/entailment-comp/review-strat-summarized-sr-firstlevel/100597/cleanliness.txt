@@ -1,0 +1,359 @@
+***** Aspect: cleanliness Model Type : zs *****
+Overall score: 0.3850039874806124
+
+**********
+
+[0.05934906005859375] The hotel was clean.
+Parent: The reviewers seemed to think that the hotel was clean overall.
+
+----- Supporting -----
+
+[0.05934906005859375] We loved the decor of the hotel.
+[0.0452423095703125] I did not use daily housekeeping and was able to get what I needed when I saw them in the halls.
+[0.03698921203613281] The check-in was wonderful, the staff great, and the hotel itself was nice.
+[0.0263519287109375] There was a stain on the carpet but otherwise it was clean and well maintained.
+[0.0181884765625] The kids liked the pool and I was able to do laundry before the cruise.
+
+----- Weakening -----
+
+[-0.9715900421142578] When you finally reach your room the heaters all make tremendous noise, rattle, rumble.
+[-0.9599018096923828] Keep your children away from these set ups, they are going to injure someone terribly!
+[-0.9373207092285156] Cheap toiletries, few towels.
+[-0.8949756622314453] We would not stay here again because of the noise and mildew.
+[-0.8484115600585938] If it wasn't for Pam the waitress quick actions and bringing me ice, I am sure it would have blistered terribly.
+
+**********
+
+[0.2591400146484375] The hotel was not clean.
+Parent: It seems that the cleanliness of the hotel was not up to par, as there were reports of cigarette butts and mildew around the property.
+
+----- Supporting -----
+
+[0.2591400146484375] If it wasn't for Pam the waitress quick actions and bringing me ice, I am sure it would have blistered terribly.
+[0.24660110473632812] Cheap toiletries, few towels.
+[0.1228790283203125] We would not stay here again because of the noise and mildew.
+[0.102783203125] When you finally reach your room the heaters all make tremendous noise, rattle, rumble.
+[0.08197784423828125] They don't even have microwaves or fridges in the rooms.
+
+----- Weakening -----
+
+[-0.792572021484375] There was a stain on the carpet but otherwise it was clean and well maintained.
+[-0.6797027587890625] We loved the decor of the hotel.
+[-0.3759765625] The kids liked the pool and I was able to do laundry before the cruise.
+[-0.3613739013671875] It seemed to ALWAYS be running, and was very convenient.
+[-0.3430023193359375] Plus you get a free cookie at check-in!
+
+**********
+
+[0.4174690246582031] The property was not clean.
+Parent: It seems that the cleanliness of the hotel was not up to par, as there were reports of cigarette butts and mildew around the property.
+
+----- Supporting -----
+
+[0.4174690246582031] Cheap toiletries, few towels.
+[0.41595458984375] If it wasn't for Pam the waitress quick actions and bringing me ice, I am sure it would have blistered terribly.
+[0.2798194885253906] We would not stay here again because of the noise and mildew.
+[0.2085418701171875] Keep your children away from these set ups, they are going to injure someone terribly!
+[0.13665771484375] When you finally reach your room the heaters all make tremendous noise, rattle, rumble.
+
+----- Weakening -----
+
+[-0.9121856689453125] There was a stain on the carpet but otherwise it was clean and well maintained.
+[-0.7051849365234375] We loved the decor of the hotel.
+[-0.48687744140625] The kids liked the pool and I was able to do laundry before the cruise.
+[-0.4581756591796875] It seemed to ALWAYS be running, and was very convenient.
+[-0.2978515625] Nice pool and fitness areas.
+
+**********
+
+[0.1209564208984375] The check-in process was too long.
+Parent: Some guests also felt that the check-in process was too long and that the staff was not very helpful.
+
+----- Supporting -----
+
+[0.1209564208984375] We wanted to carry our own luggage and got tired of the bell hops asking if they could take it for us.
+[0.00176239013671875] We ended up going outside, and around and got lost when we found out later that we could have just gone around the corner from the check-in desk.
+[0.00141143798828125] When you finally reach your room the heaters all make tremendous noise, rattle, rumble.
+[-0.00841522216796875] Was hoping it would stop but it kept going (empty at that).
+[-0.013397216796875] Unfortunately there was no wifi and the parking was $16 per night - expensive for the area.
+
+----- Weakening -----
+
+[-0.9973015785217285] Check in was very quick and was assigned a two queen room in the tower.
+[-0.9967536926269531] Check-in was friendly and quick, and one receives a nice warm chocolate chip cookie along with the room key.
+[-0.9957616329193115] Check in was easy and the cookies were nice.
+[-0.9922826290130615] The check-in process was courteous and smooth, and we were given a nice corner room with a balcony on the 9th floor (accompanied by the delicious chocolate chip cookies).
+[-0.9634690284729004] The check-in was a bit slow, but when our turn came, I could understood why because the desk staff was incredibly friendly and determined to answer all of our questions--she was a very nice person.
+
+**********
+
+[0.9183158874511719] The staff was not very helpful.
+Parent: Some guests also felt that the check-in process was too long and that the staff was not very helpful.
+
+----- Supporting -----
+
+[0.9183158874511719] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[0.092987060546875] We wanted to carry our own luggage and got tired of the bell hops asking if they could take it for us.
+[0.0084991455078125] Printer didn't work but able to check in for flight.
+[0.0072174072265625] Was hoping it would stop but it kept going (empty at that).
+[0.003871917724609375] Cheap toiletries, few towels.
+
+----- Weakening -----
+
+[-0.9933466911315918] There's a concierge desk which I found to be very helpful with questions.
+[-0.9897165298461914] The check-in was a bit slow, but when our turn came, I could understood why because the desk staff was incredibly friendly and determined to answer all of our questions--she was a very nice person.
+[-0.9855928421020508] Our check-in and check-out were accomplished efficiently by pleasant and personable people.
+[-0.9800252914428711] The checkin clerk was very friendly and said she would ensure we had a good view.
+[-0.97705078125] Despite the low rate, the receptionist tried to give us the type of room I wanted (high floor, one bed) and was very pleasant to me.
+
+**********
+
+[0.05934906005859375] The hotel was clean.
+Parent: The reviews said that the hotel was clean, except for a stain on the carpet.
+
+----- Supporting -----
+
+[0.05934906005859375] We loved the decor of the hotel.
+[0.0452423095703125] I did not use daily housekeeping and was able to get what I needed when I saw them in the halls.
+[0.03698921203613281] The check-in was wonderful, the staff great, and the hotel itself was nice.
+[0.0263519287109375] There was a stain on the carpet but otherwise it was clean and well maintained.
+[0.0181884765625] The kids liked the pool and I was able to do laundry before the cruise.
+
+----- Weakening -----
+
+[-0.9715900421142578] When you finally reach your room the heaters all make tremendous noise, rattle, rumble.
+[-0.9599018096923828] Keep your children away from these set ups, they are going to injure someone terribly!
+[-0.9373207092285156] Cheap toiletries, few towels.
+[-0.8949756622314453] We would not stay here again because of the noise and mildew.
+[-0.8484115600585938] If it wasn't for Pam the waitress quick actions and bringing me ice, I am sure it would have blistered terribly.
+
+**********
+
+[0.08153152465820312] The hotel has a stain on the carpet.
+Parent: The reviews said that the hotel was clean, except for a stain on the carpet.
+
+----- Supporting -----
+
+[0.08153152465820312] There was a stain on the carpet but otherwise it was clean and well maintained.
+[-0.006840705871582031] The fitness room is small but the bedrooms are standard.
+[-0.008480072021484375] I did not use daily housekeeping and was able to get what I needed when I saw them in the halls.
+[-0.008961677551269531] Despite the low rate, the receptionist tried to give us the type of room I wanted (high floor, one bed) and was very pleasant to me.
+[-0.011516571044921875] Check in was very quick and was assigned a two queen room in the tower.
+
+----- Weakening -----
+
+[-0.40865325927734375] It seemed to ALWAYS be running, and was very convenient.
+[-0.34420013427734375] Plus you get a free cookie at check-in!
+[-0.2965278625488281] Even most motels give you a microwave.
+[-0.2655925750732422] Lots of conveniences close by.
+[-0.25785064697265625] There were also 2 cigarette butts on the small patio.
+
+**********
+
+[0.9515810012817383] The staff was great.
+Parent: They also said that the staff was great.
+
+----- Supporting -----
+
+[0.9515810012817383] The check-in was wonderful, the staff great, and the hotel itself was nice.
+[0.7095184326171875] The check-in was a bit slow, but when our turn came, I could understood why because the desk staff was incredibly friendly and determined to answer all of our questions--she was a very nice person.
+[0.2146587371826172] Our check-in and check-out were accomplished efficiently by pleasant and personable people.
+[0.1602764129638672] The checkin clerk was very friendly and said she would ensure we had a good view.
+[0.13595962524414062] Despite the low rate, the receptionist tried to give us the type of room I wanted (high floor, one bed) and was very pleasant to me.
+
+----- Weakening -----
+
+[-0.9903631210327148] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[-0.6848392486572266] Keep your children away from these set ups, they are going to injure someone terribly!
+[-0.664581298828125] Was hoping it would stop but it kept going (empty at that).
+[-0.32192230224609375] We wanted to carry our own luggage and got tired of the bell hops asking if they could take it for us.
+[-0.2928638458251953] We would not stay here again because of the noise and mildew.
+
+**********
+
+[0.069305419921875] The hotel is clean.
+Parent: The reviews suggest that the hotel is clean and well-kept, with friendly and helpful staff.
+
+----- Supporting -----
+
+[0.069305419921875] We loved the decor of the hotel.
+[0.031261444091796875] The check-in was wonderful, the staff great, and the hotel itself was nice.
+[0.028656005859375] The kids liked the pool and I was able to do laundry before the cruise.
+[0.027797698974609375] There was a stain on the carpet but otherwise it was clean and well maintained.
+[0.02492523193359375] I did not use daily housekeeping and was able to get what I needed when I saw them in the halls.
+
+----- Weakening -----
+
+[-0.9815301895141602] When you finally reach your room the heaters all make tremendous noise, rattle, rumble.
+[-0.9621725082397461] Keep your children away from these set ups, they are going to injure someone terribly!
+[-0.9093856811523438] Cheap toiletries, few towels.
+[-0.8609695434570312] We would not stay here again because of the noise and mildew.
+[-0.7825660705566406] We put the A/C on 60 and the room immediately heated the room up 89 degrees.
+
+**********
+
+[0.024324417114257812] The hotel is well-kept.
+Parent: The reviews suggest that the hotel is clean and well-kept, with friendly and helpful staff.
+
+----- Supporting -----
+
+[0.024324417114257812] There was a stain on the carpet but otherwise it was clean and well maintained.
+[0.009990692138671875] The check-in was wonderful, the staff great, and the hotel itself was nice.
+[0.009122848510742188] We have stayed at several Seatac airport hotels, all acceptable.
+[0.00861358642578125] We loved the decor of the hotel.
+[0.00605010986328125] The check-in process was courteous and smooth, and we were given a nice corner room with a balcony on the 9th floor (accompanied by the delicious chocolate chip cookies).
+
+----- Weakening -----
+
+[-0.8605537414550781] Cheap toiletries, few towels.
+[-0.84521484375] When you finally reach your room the heaters all make tremendous noise, rattle, rumble.
+[-0.7603034973144531] Keep your children away from these set ups, they are going to injure someone terribly!
+[-0.7366714477539062] We would not stay here again because of the noise and mildew.
+[-0.5208358764648438] Was hoping it would stop but it kept going (empty at that).
+
+**********
+
+[0.1947307586669922] The reviews suggest that the hotel staff is friendly and helpful.
+Parent: The reviews suggest that the hotel is clean and well-kept, with friendly and helpful staff.
+
+----- Supporting -----
+
+[0.1947307586669922] The check-in was wonderful, the staff great, and the hotel itself was nice.
+[0.086212158203125] Check-in was friendly and quick, and one receives a nice warm chocolate chip cookie along with the room key.
+[0.05868339538574219] Our check-in and check-out were accomplished efficiently by pleasant and personable people.
+[0.010528564453125] Check in was easy and the cookies were nice.
+[0.009922027587890625] The check-in was a bit slow, but when our turn came, I could understood why because the desk staff was incredibly friendly and determined to answer all of our questions--she was a very nice person.
+
+----- Weakening -----
+
+[-0.8766460418701172] Keep your children away from these set ups, they are going to injure someone terribly!
+[-0.30467987060546875] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[-0.2861499786376953] When you finally reach your room the heaters all make tremendous noise, rattle, rumble.
+[-0.16046905517578125] We wanted to carry our own luggage and got tired of the bell hops asking if they could take it for us.
+[-0.11450767517089844] Was hoping it would stop but it kept going (empty at that).
+
+**********
+
+[0.8267593383789062] The wifi was not good.
+Parent: There were some issues with the wifi and the printer, but overall guests seemed to enjoy their stay.
+
+----- Supporting -----
+
+[0.8267593383789062] Unfortunately there was no wifi and the parking was $16 per night - expensive for the area.
+[0.01678466796875] If it wasn't for Pam the waitress quick actions and bringing me ice, I am sure it would have blistered terribly.
+[0.00030517578125] We ended up going outside, and around and got lost when we found out later that we could have just gone around the corner from the check-in desk.
+[-0.002288818359375] Printer didn't work but able to check in for flight.
+[-0.00640869140625] They don't even have microwaves or fridges in the rooms.
+
+----- Weakening -----
+
+[-0.9257354736328125] It seemed to ALWAYS be running, and was very convenient.
+[-0.7712249755859375] Lots of conveniences close by.
+[-0.5118408203125] The A/C put out hot air.
+[-0.5110015869140625] There is a stand alone kiosk which one may use to check in for flights.
+[-0.43341064453125] Even most motels give you a microwave.
+
+**********
+
+[0.8747997283935547] The printer was not working properly.
+Parent: There were some issues with the wifi and the printer, but overall guests seemed to enjoy their stay.
+
+----- Supporting -----
+
+[0.8747997283935547] Printer didn't work but able to check in for flight.
+[0.053768157958984375] For those using the hotel to fly there are shuttles, flight info, and a kiosk to print out boarding passes (although it did not work for me).
+[-0.020252227783203125] waited a few more minutes for valet to bring car back.
+[-0.03043365478515625] Was hoping it would stop but it kept going (empty at that).
+[-0.0564727783203125] We would not stay here again because of the noise and mildew.
+
+----- Weakening -----
+
+[-0.8499546051025391] It seemed to ALWAYS be running, and was very convenient.
+[-0.7369384765625] The A/C put out hot air.
+[-0.6860809326171875] When you finally reach your room the heaters all make tremendous noise, rattle, rumble.
+[-0.5805130004882812] The check-in was wonderful, the staff great, and the hotel itself was nice.
+[-0.5787124633789062] Nice pool and fitness areas.
+
+**********
+
+[0.14523029327392578] Overall, guests enjoyed their stay.
+Parent: There were some issues with the wifi and the printer, but overall guests seemed to enjoy their stay.
+
+----- Supporting -----
+
+[0.14523029327392578] The check-in was wonderful, the staff great, and the hotel itself was nice.
+[0.1277599334716797] We loved the decor of the hotel.
+[0.10890388488769531] We found the Doubletree to be good for what we needed- a place to stay when our plane arrived late and we didn't want to start driving anywhere until the next day.
+[0.06792449951171875] Lots of conveniences close by.
+[0.06765079498291016] We have stayed at several Seatac airport hotels, all acceptable.
+
+----- Weakening -----
+
+[-0.490478515625] We would not stay here again because of the noise and mildew.
+[-0.0250701904296875] Keep your children away from these set ups, they are going to injure someone terribly!
+[-0.020599365234375] Was hoping it would stop but it kept going (empty at that).
+[-0.014568328857421875] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[-0.00437164306640625] We wanted to carry our own luggage and got tired of the bell hops asking if they could take it for us.
+
+**********
+
+[0.05934906005859375] The hotel was clean.
+Parent: The reviews said that the hotel was clean and that the staff were friendly and helpful.
+
+----- Supporting -----
+
+[0.05934906005859375] We loved the decor of the hotel.
+[0.0452423095703125] I did not use daily housekeeping and was able to get what I needed when I saw them in the halls.
+[0.03698921203613281] The check-in was wonderful, the staff great, and the hotel itself was nice.
+[0.0263519287109375] There was a stain on the carpet but otherwise it was clean and well maintained.
+[0.0181884765625] The kids liked the pool and I was able to do laundry before the cruise.
+
+----- Weakening -----
+
+[-0.9715900421142578] When you finally reach your room the heaters all make tremendous noise, rattle, rumble.
+[-0.9599018096923828] Keep your children away from these set ups, they are going to injure someone terribly!
+[-0.9373207092285156] Cheap toiletries, few towels.
+[-0.8949756622314453] We would not stay here again because of the noise and mildew.
+[-0.8484115600585938] If it wasn't for Pam the waitress quick actions and bringing me ice, I am sure it would have blistered terribly.
+
+**********
+
+[0.9466829299926758] The staff were friendly and helpful.
+Parent: The reviews said that the hotel was clean and that the staff were friendly and helpful.
+
+----- Supporting -----
+
+[0.9466829299926758] The check-in was a bit slow, but when our turn came, I could understood why because the desk staff was incredibly friendly and determined to answer all of our questions--she was a very nice person.
+[0.9108829498291016] Our check-in and check-out were accomplished efficiently by pleasant and personable people.
+[0.5899620056152344] Despite the low rate, the receptionist tried to give us the type of room I wanted (high floor, one bed) and was very pleasant to me.
+[0.47608184814453125] The checkin clerk was very friendly and said she would ensure we had a good view.
+[0.4453105926513672] Check-in was friendly and quick, and one receives a nice warm chocolate chip cookie along with the room key.
+
+----- Weakening -----
+
+[-0.9959707260131836] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+[-0.8247194290161133] Keep your children away from these set ups, they are going to injure someone terribly!
+[-0.6833248138427734] We wanted to carry our own luggage and got tired of the bell hops asking if they could take it for us.
+[-0.4724712371826172] When you finally reach your room the heaters all make tremendous noise, rattle, rumble.
+[-0.26340484619140625] Was hoping it would stop but it kept going (empty at that).
+
+**********
+
+[0.53619384765625] The hotel is located near the airport.
+Parent: They also said that the hotel was conveniently located near the airport.
+
+----- Supporting -----
+
+[0.53619384765625] Hassle to get from ship to hotel, hassle to get correct rate, hassle with hotel safe (should have one in room anyway), and a hassle to get to the airport the next morning.
+[0.32781982421875] We have stayed at several Seatac airport hotels, all acceptable.
+[0.12340545654296875] This trip we needed a quick access to the airport with wheelchair accessibility and this was it.
+[0.039058685302734375] For those using the hotel to fly there are shuttles, flight info, and a kiosk to print out boarding passes (although it did not work for me).
+[0.0217742919921875] No facilities were open early next morning when we were headed for our flight (surprising in such a location where there were lots of people headed for early flights) and although there seem to be a lot of valet staff around, none of them made any effort to assist.
+
+----- Weakening -----
+
+[-0.39934539794921875] In spite of the fact that a large convention was concluding and check-out time was not until noon, they had our room ready and waiting.
+[-0.231170654296875] Keep your children away from these set ups, they are going to injure someone terribly!
+[-0.10995864868164062] The kids liked the pool and I was able to do laundry before the cruise.
+[-0.07408523559570312] Even most motels give you a microwave.
+[-0.05859375] Was hoping it would stop but it kept going (empty at that).
