@@ -1,0 +1,14 @@
+gpt3-amazon  :  3.0241842712097604
+gpt3-ml-amazon-fl  :  2.9989612067610407
+gpt3-ml-amazon-ll  :  2.996994032798714
+qfsumm-amazon  :  4.382775969699392
+qfsumm-gpt3-amazon  :  3.097831643293131
+fewsum-amazon : 3.357373958257575
+
+gpt3-yelp  :  2.9298965733302236
+gpt3-ml-yelp-fl  :  3.0324675682525353
+gpt3-ml-yelp-ll  :  2.8629031484044694
+qfsumm-yelp  :  4.32693985888575
+qfsumm-gpt3-yelp  :  2.9260325452721787
+fewsum-yelp : 3.162523448704466
+fewsum-yelp-new : 3.26499548493277

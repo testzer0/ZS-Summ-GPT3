@@ -2,7 +2,7 @@ Amazon
 ------
 Split train:
 Number of entities = 182932
-Number of reviews = 3889782 (on average 21.263540550587102 reviews/entity
+Number of reviews = 3889782 (on average 21.263540550587102 reviews/entity)
 Number of sentences = 11395423 (on average 2.9295788298675864 sentences/review)
 Number of words = 149809510 (on average 38.51360050511828 words/review)
 Split val:
@@ -15,7 +15,7 @@ Yelp
 ----
 Split train:
 Number of entities = 38913
-Number of reviews = 870840 (on average 22.37915349626089 reviews/entity
+Number of reviews = 870840 (on average 22.37915349626089 reviews/entity)
 Number of sentences = 3365927 (on average 3.865149740480456 sentences/review)
 Number of words = 38898146 (on average 44.66738551283818 words/review)
 Split val:

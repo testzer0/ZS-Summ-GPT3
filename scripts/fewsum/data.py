@@ -126,7 +126,8 @@ def gpt3_keywords_single_product(reviews, dataset_name):
             prompt += review['review_text']+'\n'
         if len(word_tokenize(prompt)) >= 3200:
             break
-    prompt += "\nOutput comma-separated keywords that capture the reviews most comprehensively:"
+    prompt += "\nOutput up to eight comma-separated keywords that capture these reviews"+\
+        " most saliently:"
     response = get_gpt3_response(prompt)
     return [keyword.strip() for keyword in response.strip().split(',')]
 
@@ -239,8 +240,9 @@ if __name__ == '__main__':
     ent_dir = os.path.join(FS_SAVE_DATA_ROOT, "entailment-pkl")
     sr_dir = os.path.join(FS_SAVE_DATA_ROOT, "rephrased-pkl")
     sum_dir = os.path.join(FS_SAVE_DATA_ROOT, "summaries-pkl")
-    summarized = pickle.load(open(os.path.join(sum_dir, 'fewsum-yelp.pkl'), 'rb'))
-    out_path = os.path.join(sr_dir, 'fewsum-yelp.pkl')
+    summarized = pickle.load(open(os.path.join(sum_dir, \
+        'fewsum-yelp-new.pkl'), 'rb'))
+    out_path = os.path.join(sr_dir, 'fewsum-yelp-new.pkl')
     sr_out = {}
     for eid in summarized:
         summary = summarized[eid]

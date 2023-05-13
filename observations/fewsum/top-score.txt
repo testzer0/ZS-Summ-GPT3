@@ -1,0 +1,18 @@
+Amazon
+------
+gpt3-amazon : 0.6581
+gpt3-ml-amazon-fl : 0.6834
+gpt3-ml-amazon-ll : 0.6643
+qfsumm-amazon : 0.8529
+qfsumm-gpt3-amazon : 0.6763
+fewsum-amazon : 0.4681
+
+Yelp
+----
+gpt3-yelp : 0.6859
+gpt3-ml-yelp-fl : 0.6986
+gpt3-ml-yelp-ll : 0.6858
+qfsumm-yelp : 0.8662
+qfsumm-gpt3-yelp : 0.6504
+fewsum-yelp : 0.2436
+fewsum-yelp-new : 0.4723

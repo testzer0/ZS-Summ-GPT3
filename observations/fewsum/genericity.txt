@@ -1,0 +1,51 @@
+gpt-3-amazon
+Average Top Score = 0.5818202833221072
+Percentage of top scores above 0.5 = 56.918238993710695%
+
+gpt3-ml-amazon-fl
+Average Top Score = 0.6035028794557885
+Percentage of top scores above 0.5 = 63.443708609271525%
+
+gpt3-ml-amazon-ll
+Average Top Score = 0.5544226061621389
+Percentage of top scores above 0.5 = 56.656346749226%
+
+qfsumm-amazon
+Average Top Score = 0.33915838268808945
+Percentage of top scores above 0.5 = 32.597623089983024%
+
+qg-amazon
+Average Top Score = 0.5647648523535047
+Percentage of top scores above 0.5 = 53.869969040247675%
+
+fewsum-amazon
+Average Top Score = 0.5290757044988965
+Percentage of top scores above 0.5 = 54.166666666666664%
+
+gpt3-yelp
+Average Top Score = 0.6538024934771482
+Percentage of top scores above 0.5 = 65.2046783625731%
+
+gpt3-ml-yelp-fl
+Average Top Score = 0.7318323363447532
+Percentage of top scores above 0.5 = 69.08431550317316%
+
+gpt3-ml-yelp-ll
+Average Top Score = 0.6822098877383516
+Percentage of top scores above 0.5 = 68.14159292035399%
+
+qfsumm-yelp
+Average Top Score = 0.40647402740747507
+Percentage of top scores above 0.5 = 37.833333333333336%
+
+qg-yelp
+Average Top Score = 0.6534911236804285
+Percentage of top scores above 0.5 = 64.73988439306359%
+
+fewsum-yelp
+Average Top Score = 0.6978029369680054
+Percentage of top scores above 0.5 = 71.0955710955711%
+
+fewsum-yelp-new
+Average Top Score = 0.6355258043738826
+Percentage of top scores above 0.5 = 62.577639751552795%

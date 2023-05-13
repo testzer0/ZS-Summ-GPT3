@@ -235,7 +235,7 @@ def do_sr(sentence):
     return [sent.strip() for sent in sent_tokenize(response)]
 
 def test():
-    # pkl_names = ['tcg.pkl', 'tqg.pkl', 'qg.pkl', 'acesum.pkl', 'qfsumm.pkl']
+    pkl_names = ['tcg.pkl', 'tqg.pkl', 'qg.pkl', 'acesum.pkl', 'qfsumm.pkl']
     pkl_names = ['tqg.pkl', 'qg.pkl', 'qfsumm.pkl']
     sum_dir = os.path.join(SPACE_SAVE_DATA_ROOT, "all-new-pkls", "summaries-pkl")
     sr_dir = os.path.join(SPACE_SAVE_DATA_ROOT, "all-new-pkls", "sr-pkl")
@@ -249,7 +249,8 @@ def test():
         for eid in sums:
             sr_eid = {}
             for aspect in sums[eid]:
-                if os.path.exists("temp/old7/{}-{}.pkl".format(eid, aspect)):
+                # If we crashed last time, pick up where we left off
+                if os.path.exists("temp/{}-{}.pkl".format(eid, aspect)):
                     print("Found {}-{}.".format(eid, aspect))
                     sr_eid[aspect] = pickle.load(open("temp/old7/{}-{}.pkl".format(eid, \
                         aspect), 'rb'))
@@ -265,12 +266,12 @@ def test():
                         print(part)
                     print()
                 sr_eid[aspect] = sr_sent
-                pickle.dump(sr_sent, open("temp/old7/{}-{}.pkl".format(eid, aspect), 'wb+'))
+                pickle.dump(sr_sent, open("temp/{}-{}.pkl".format(eid, aspect), 'wb+'))
                 print("Finish {}-{}.\n".format(eid, aspect))
             sr[eid] = sr_eid
         pickle.dump(sr, open(out_path, 'wb+'))    
         print("Done {}.\n".format(name[:-4]))
-        os.system("rm temp/old7/*")      
+        os.system("rm temp/*")      
     
 if __name__ == '__main__':
     test()

@@ -199,7 +199,7 @@ def average_top_score(lines_with_scores):
         avg_score += sum(lines_with_scores[product][2])
     return avg_score/n_lines
 
-def support_sizes(lines_with_scores, thresh=0.2):
+def support_sizes(lines_with_scores, thresh=0.5):
     counts = [0]*6
     for product in lines_with_scores:
         for (_, supporting, _) in lines_with_scores[product][0]:
@@ -247,11 +247,9 @@ if __name__ == '__main__':
     summaries_dir = os.path.join(FS_SAVE_DATA_ROOT, "summaries-pkl")
     split_dir = os.path.join(FS_SAVE_DATA_ROOT, "split-pkl")
     rephrased_dir = os.path.join(FS_SAVE_DATA_ROOT, "rephrased-pkl")
-    in_path = os.path.join(entailment_dir, 'fewsum-amazon.pkl')
+    in_path = os.path.join(entailment_dir, 'fewsum-yelp-new.pkl')
     dataset = load_dataset('yelp')
-    ent_data = pickle.load(open(in_path, 'rb'))
-    summaries = pickle.load(open(os.path.join(summaries_dir, \
-        'fewsum-yelp.pkl'), 'rb'))
+    summaries = json.load(open('../../datasets/FewSum/temp/sums-yelp-tv.json'))
     
     ref_root = '../rouge/v1.2.2/projects/test-summarization/reference'
     ref_files = []
@@ -261,10 +259,7 @@ if __name__ == '__main__':
     command = 'java -jar ../rouge/v1.2.2/rouge2-1.2.2.jar > /dev/null'
     csv_file = '../rouge/v1.2.2/results.csv'                
 
-    count_for_name = []
     rouge_for_name = []
-    compare = json.load(open(os.path.join(FS_DATASET_ROOT, "temp", \
-        "sums-yelp-tv.json")))
     for split in  ['val', 'test']:
         f = json.load(open(os.path.join(FS_DATASET_ROOT, "artifacts", \
             "yelp", "gen_summs", "{}.json".format(split))))
@@ -273,7 +268,8 @@ if __name__ == '__main__':
                 continue
             for k2 in f[k1]:
                 refs = [" ".join(ref) for ref in f[k1][k2]['gold_summs'][0]]
-                summ = compare[k2]
+                # summ = " ".join(f[k1][k2]['gen_summ'][0])
+                summ = summaries[k2]
                 with open(sum_file, 'w+') as fx:
                     fx.write("\n".join(sent_tokenize(summ)))
                     fx.flush()
@@ -284,7 +280,8 @@ if __name__ == '__main__':
                 os.system(command)
                 reader = csv.reader(open(csv_file))    
                 rows = [row for row in reader]
-                rouge_for_name.append(float(rows[3][-4]))
+                name = rows[1][0]
+                rouge_for_name.append(float(rows[1][5]))
     
-    print(sum(rouge_for_name)/len(rouge_for_name))
-                        
+    print(name, ":", sum(rouge_for_name)/len(rouge_for_name))
+    

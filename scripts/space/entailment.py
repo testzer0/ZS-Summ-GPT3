@@ -674,65 +674,6 @@ def avg_length_in_words(summarized):
     return total_length/n
 
 if __name__ == '__main__':
-    # save_top_k_tfidf_statements("summaries-pkl/gpt3-human-simplified-extracted.pkl", "tfidf/gpt3-hse", \
-    #      summaries_are_lists=True)
-    
-    space = read_space_data()
-    
-    space = {entity['entity_id'] : entity for entity in space}
-    
-    # pkl_names = ['rg-first.pkl', 'tcg-first.pkl', 'rg.pkl']
-    pkl_names = ['tcg.pkl', 'tqg.pkl', 'qg.pkl', 'acesum.pkl', 'qfsumm.pkl']
-    sum_dir = os.path.join(SPACE_SAVE_DATA_ROOT, "all-new-pkls", "summaries-pkl")
-    sr_dir = os.path.join(SPACE_SAVE_DATA_ROOT, "all-new-pkls", "sr-pkl")
-    ent_dir = os.path.join(SPACE_SAVE_DATA_ROOT, "all-new-pkls", "entailment")
+    pass
 
-    high_scoring1 = json.load(open('temp/hs.json'))
-    high_scoring2 = json.load(open('../fewsum/temp/hs.json'))
-    # low_scoring = json.load(open('temp/hs.json'))
-    
-    perm1 = np.random.permutation(len(high_scoring1))[:50]
-    perm2 = np.random.permutation(len(high_scoring2))[:50]
-    high_scoring = [high_scoring1[i] for i in perm1] + \
-        [high_scoring2[i] for i in perm2]
-    # low_scoring = [low_scoring[i] for i in perm1]
-    
-    all_scoring = high_scoring # + low_scoring
-    perm = np.random.permutation(len(all_scoring))
-    all_scoring = [all_scoring[i] for i in perm]
-    
-    rownames = ['Score', 'Statement', 'Reference', 'Original Statement Before SR']
-    rows = [rownames]
-    for score, statement, parent, ref in all_scoring:
-        rows.append([score, statement, ref, parent])
-
-    with open('temp/hes.csv', 'w+', newline='') as file:
-        writer = csv.writer(file)
-        for row in rows:
-            writer.writerow(row)
-
-    exit(0)
-    for name in pkl_names:
-        in_path = os.path.join(ent_dir, name)
-        ent_data = pickle.load(open(in_path, 'rb'))
-        high_scoring = []
-        low_scoring = []
-        
-        for eid in ent_data:
-            for aspect in aspects_[1:]:
-                for _, statement, parent, supporting, weakening in \
-                    ent_data[eid][aspect]:
-                    for s, score in supporting:
-                        if score > 0.5:
-                            print(s)
-                            high_scoring.append((score, statement, parent, s))
-                    for s, score in weakening:
-                        if score < -0.5:
-                            print(s)
-                            low_scoring.append((score, statement, parent, s))
-        
-    json.dump(high_scoring, open('temp/hs.json', 'w+'))
-    json.dump(low_scoring, open('temp/ls.json', 'w+'))
-    print(len(high_scoring))
-    print(len(low_scoring))
             

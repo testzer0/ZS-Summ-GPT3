@@ -14,7 +14,8 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 
 # from keybert import KeyBERT
 
-aspect_vecs_ = [GLOVE[aspect] for aspect in aspects_+["none"]]
+aspect_vecs_ = [GLOVE[aspect]/np.linalg.norm(GLOVE[aspect]) for aspect \
+    in aspects_+["none"]]
         
 def read_space_data(file_name="space_summ.json", as_classes=False):
     file_path = os.path.join(SPACE_DATSET_ROOT, file_name)
@@ -61,7 +62,7 @@ def get_gpt3_response(prompt, tokenize=False):
 def map_keyword_to_closest_aspect(keyword):
     if keyword not in GLOVE:
         return "none"
-    kvec = GLOVE[keyword]
+    kvec = GLOVE[keyword]/np.linalg.norm(GLOVE[keyword])
     distances = [np.linalg.norm(aspect_vec - kvec) for \
         aspect_vec in aspect_vecs_[1:]]
     chosen = distances.index(min(distances))
@@ -163,13 +164,13 @@ def test():
             n += 1
     print(mn, mx, avg*1.0/n)
 
-if __name__ == '__main__':
+def test():
+    # Just prints the summaries
     summarized = pickle.load(open(os.path.join(SPACE_SAVE_DATA_ROOT, \
         "summaries-pkl/qfsumm-summarized.pkl"), 'rb'))
     keys = list(summarized.keys())
     s = read_space_data()
     space = {}
-    reviews = {}
     for entry in s:
         if entry['entity_id'] in keys:
             space[entry['entity_id']] = entry
@@ -179,9 +180,11 @@ if __name__ == '__main__':
         ('100597', 'service')]
     for eid, aspect in combos:
         print(eid, aspect)
-        # print(summarized[eid][aspect][-1])
         for a, summary in summarized[eid]:
             if a != aspect:
                 continue 
             print(summary)
         print("------------")
+
+if __name__ == '__main__':
+    test()

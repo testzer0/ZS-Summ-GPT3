@@ -122,11 +122,4 @@ def calculate_scores_wrt_goldens(entities, summaries):
     return BSs
     
 if __name__ == '__main__':
-    pkl_names = ['tcg.pkl', 'tqg.pkl', 'qg.pkl', 'acesum.pkl', 'qfsumm.pkl', 'rg.pkl']
-    sum_dir = os.path.join(SPACE_SAVE_DATA_ROOT, "all-new-pkls", "summaries-pkl")
-    for name in pkl_names:
-        in_path = os.path.join(sum_dir, name)
-        entities = read_space_data()
-        # save_outputs_with_goldens(entities, summaries, sentiments, "topic-annotated.pkl", 
-        #    multiple_levels=False, dir="qfsumm-long-gpt3-summarized")
-        _ = calculate_scores_wrt_goldens(entities, summaries)
+    pass
