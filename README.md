@@ -1,6 +1,6 @@
-# Prompted Opinion Summarization with GPT-3
+# Prompted Opinion Summarization with GPT-3.5
 
-This repository contains the artifacts for the paper "Prompted Opinion Summarization with GPT-3", to appear in ACL (Findings) 2023. 
+This repository contains the artifacts for the paper "Prompted Opinion Summarization with GPT-3.5", ACL (Findings) 2023. 
 
 ## Directory Structure
 
